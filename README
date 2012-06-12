@@ -1,0 +1,62 @@
+SC_intuit Software, Copyright (C) 2009 Garcia, F.
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or (at
+your option) any later version.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, see <http://www.gnu.org/licenses/>.
+
+Content:
+
+1.- Running
+2.  fisim for motifs similarity
+3.  kcmeans for clustering
+4.  Website & Comments
+5.  Comments
+
+
+-------------- 1.- Running ---------------
+
+Required:
+	python2.5 -> http://www.python.org
+	python packages: 
+		numarray -> http://sourceforge.net/project/showfiles.php?group_id=1369&package_id=32367
+		Numeric, numpy, scipy -> http://www.scipy.org
+
+
+
+**** Scoring a DNA sequence against a TFBS motif ****
+
+Returns the scoring as defined in Garcia et al (2009)
+
+Call: python intuit.py -fMotif <FileMotif> -fSeq <FileSeq>
+
+<FileMotif>: text file describing the position count matrices (PSSM) and the binding sequences of the motif we want to score. See data/motif.txt as an example.
+
+<FileSeq>: text file with the DNA sequence to be scored. See data/seq.txt as an example
+
+
+Output:
+
+The SC_intuit result
+
+Example:
+
+python intuit.py -fMotif data/motif.txt -fSeq data/seq.txt
+
+
+-------------- 2.- URL ---------------
+
+The source code can be found at http://genome.ugr.es/intuit/
+
+
+-------------- 3.- Contact ---------------
+
+Send comments, suggestions etc. to fernan@decsai.ugr.es
