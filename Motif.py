@@ -10,11 +10,11 @@ class Motif:
 		
 		self.name = None
 		self.ID = None
-		self.FSM = None
+		self.FSM = None		#Boolean - Te dice si es una matriz de frecuencias o de conteos			
 		self.n = None
 		self.numSamples = None
-		self.matFSM = None
-		self.matPSSM = None
+		self.matFSM = None		#matriz de conteos (ver ejemplo en pag. 93 Tesis)
+		self.matPSSM = None		#matriz de conteos dividida entre el numero de samples (ver ejemplo en pag. 93 Tesis)
 		self.seq = []
 		
 		if(fileIn != None):
@@ -22,14 +22,14 @@ class Motif:
 		else:
 			print "Wrong usage for Motif.__init__()"
 
-		self.intuitM = zeros((16,(self.n * (self.n -1))/2))	# Matrix for the membership degree "\mu"
+		self.intuitM = zeros((16,(self.n * (self.n -1))/2))	# Matrix for the membership degree "\mu"   16 rows
 		self.intuitV = zeros((16,(self.n * (self.n -1))/2))	# Matrix for the non-membership degree "\nu"
 	
 
 	
 	def calculatePSSMFromFSM(self):
-		self.matPSSM = array(self.matFSM,float)
-		self.matPSSM /= self.numSamples
+		self.matPSSM = array(self.matFSM,float)				#returns an array (type = 'numpy.ndarray') with the specified type (float)
+		self.matPSSM /= self.numSamples						
 
 	def calculateFSMFromPSSM(self,numSamples=None):
 		if numSamples == None:
@@ -37,7 +37,7 @@ class Motif:
 
 		self.numSamples = numSamples
 		self.matFSM = array(self.matPSSM*self.numSamples).astype(int)
-		for i in range(self.n):
+		for i in range(self.n):											#Soluciona problema de redondeo
 			s = sum(self.matFSM[i,:])
 			ind = self.matFSM[i,:].tolist().index(max(self.matFSM[i,:]))
 			self.matFSM[i,ind] += self.numSamples - s

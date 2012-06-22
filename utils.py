@@ -1,8 +1,8 @@
 
 def EOF(f):
-	pos = f.tell()
+	pos = f.tell()					#f.tell() returns the current position of the file read/write pointer within the file (Integer Bytes).
 	if(f.readline()):
-		f.seek(pos)
+		f.seek(pos)					#moves #pos bytes ahead
 		return False
 
 	else:

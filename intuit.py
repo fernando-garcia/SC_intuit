@@ -1,6 +1,7 @@
 import sys
 import os
 from Motif import *
+from WebMotif import *
 import utils
 
 def helpProgram():
@@ -56,10 +57,10 @@ if fSeq != None and not os.path.isfile(fSeq):
 
 
 if fMotif != None and fSeq != None:
-	m = Motif(fileIn = fMotif)
+	m = WebMotif(fileIn = fMotif)
 	s = utils.readSeq(fileIn = fSeq)
 	
-	print m.SC_intuit(s)
+	print m.SC_intuit_Web(s)
 
 else:
 	helpProgram()
