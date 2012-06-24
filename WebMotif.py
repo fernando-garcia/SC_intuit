@@ -15,7 +15,7 @@ class WebMotif(Motif):
 			inicont += 1
 			endcont += 1
 
-		keys = results.keys()
-		keys.sort()
-		return [dict[key] for key in keys]
-		#return results.items().sort()
+		#keys = results.keys()
+		#keys.sort()
+		#return [dict[key] for key in keys]
+		return results
