@@ -1,0 +1,6 @@
+>seq1
+GGAGGATCA
+>seq2
+CCTGGATCA
+>seq3
+GCATTAGCC
