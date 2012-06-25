@@ -14,13 +14,24 @@ def decideFSMorNot(mat):
 		if sum(mat[i,:]) > 1.5: return True
 	return False
 	
-def readSeq(fileIn):									#seqs-size LIMITATION to one-line
+def readSeq(fileIn):									
 	f = open(fileIn)
 	#return f.readline().upper().replace('\n','')
+	#myseqs = []
+	#for line in f:													#seqs-size LIMITATION to one-line
+	#	if (line[0] !=	'>'):
+	#		myseqs.append(line.upper().replace('\n',''))
+	lines = f.readlines()
 	myseqs = []
-	for line in f:
-		if (line[0] !=	'>'):
-			myseqs.append(line.upper().replace('\n',''))
+	seq = ""
+	for l in range(len(lines)):
+		if ((lines[l][0] == '>')):
+			if seq:
+				myseqs.append(seq)
+				seq=""	
+		else:
+			seq = seq + lines[l].upper().replace('\n','')
+	myseqs.append(seq)	
 	return myseqs
 
 def computeMaxMin(A,row):
