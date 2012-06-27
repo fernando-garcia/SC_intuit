@@ -18,7 +18,7 @@ class Motif:
 		self.seq = []
 		
 		if(fileIn != None):
-			self.readFromFile(fileIn)
+			self.readFromFile(fileIn, 'Transfac')
 		else:
 			print "Wrong usage for Motif.__init__()"
 
@@ -63,11 +63,52 @@ class Motif:
 		self.pseudoCountPSSM()
 		matAux = self.matPSSM * (log(self.matPSSM)/log(2))		
 		return matAux
-	
-	
-
 				
-	def readFromFile(self,fileIn):
+
+
+	def readFromFile(self,fileIn, format):
+		allowedFormats = ["Transfac","transfac"]
+		#if format not in allowedFormats:
+		#	raise sdalfjasd
+		if format in allowedFormats:
+			self._readTransfacFile(fileIn)
+		else:
+			self._OldReadFile(fileIn)
+
+			
+	
+	def _readTransfacFile(self,fileIn):
+		#HAcer que lea el fichero con formato Transfac y rellene consecuentemente 
+		#	la Matriz
+		#	las secuencias
+		#	las especies
+		
+		if type(fileIn) == types.StringType: fileIn = open(fileIn)
+	
+		header = fileIn.readline().replace('\n','').split('  ')
+		name = header[1]
+		fileIn.readline()
+		AC = fileIn.readline().replace('\n','').split('  ')[1]
+		mat = []
+		print name, AC
+		col = fileIn.readline()[0:2]
+		while (col != 'P0'):
+			col = fileIn.readline()[0:2]
+		#col fileIn.readline().replace('\n','').split('      ')[1:5]
+		col = fileIn.readline()
+		while(col and col[0:2] != 'XX'):
+			col = col.replace('\n','').split('      ')[1:5]
+			mat.append([float(s) for s in col])
+			col = fileIn.readline()
+		mat = array(mat,float)		
+		print mat
+
+
+
+
+
+
+	def _OldReadFile(self,fileIn):
 
 		if type(fileIn) == types.StringType: fileIn = open(fileIn)
 		
@@ -77,11 +118,12 @@ class Motif:
 		fileIn.readline()
 		mat = []
 		col = fileIn.readline().split()
-		pos = fileIn.tell()
+		#pos = fileIn.tell()
 		while(col and col[0] != 'SEQUENCES'):
 			mat.append([float(s) for s in col])
-			pos = fileIn.tell()
+			#pos = fileIn.tell()
 			col = fileIn.readline().split()
+			print col
 				
 		col = fileIn.readline().upper().replace('\n','')
 		
@@ -110,8 +152,11 @@ class Motif:
 			self.calculateFSMFromPSSM()
 			self.name = name
 			self.ID = AC
+
+		print mat
+		print self.seq
 		
-			
+
 
 	def computeNumSamples(self,mat):
 		numSamples = 0

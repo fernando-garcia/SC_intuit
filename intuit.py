@@ -60,7 +60,7 @@ if fMotif != None and fSeq != None:
 	m = WebMotif(fileIn = fMotif)
 	seqs = utils.readSeq(fileIn = fSeq)
 	
-	print m.SC_intuit_Web(seqs)
+	#print m.SC_intuit_Web(seqs)
 
 else:
 	helpProgram()
