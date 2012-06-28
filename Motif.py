@@ -16,7 +16,7 @@ class Motif:
 		self.matFSM = None		#matriz de conteos (ver ejemplo en pag. 93 Tesis)
 		self.matPSSM = None		#matriz de conteos dividida entre el numero de samples (ver ejemplo en pag. 93 Tesis)
 		self.seq = []
-		
+		self.species = []
 		if(fileIn != None):
 			self.readFromFile(fileIn, 'Transfac')
 		else:
@@ -84,28 +84,60 @@ class Motif:
 		#	las especies
 		
 		if type(fileIn) == types.StringType: fileIn = open(fileIn)
-	
-		header = fileIn.readline().replace('\n','').split('  ')
+		mat = []
+		header = fileIn.readline().replace('\n','').split('  ')				#read matrix name (name)
 		name = header[1]
 		fileIn.readline()
-		AC = fileIn.readline().replace('\n','').split('  ')[1]
-		mat = []
-		print name, AC
+		AC = fileIn.readline().replace('\n','').split('  ')[1]				#read matrix ID (AC)
+		
+		col = fileIn.readline()
+		while (col[0:2] != 'BF'):
+			col = fileIn.readline()
+		while(col and col[0:2] != 'XX'):
+			self.species.append(col.split(';')[2].split(': ')[1])
+			col = fileIn.readline()
+
 		col = fileIn.readline()[0:2]
 		while (col != 'P0'):
 			col = fileIn.readline()[0:2]
-		#col fileIn.readline().replace('\n','').split('      ')[1:5]
 		col = fileIn.readline()
 		while(col and col[0:2] != 'XX'):
 			col = col.replace('\n','').split('      ')[1:5]
 			mat.append([float(s) for s in col])
 			col = fileIn.readline()
 		mat = array(mat,float)		
-		print mat
+		
+		col = fileIn.readline()
+		while (col[0:2] != 'BS'):
+			col = fileIn.readline()
+		
+		
+		while(col and col[0:2] != 'XX'):
+			self.seq.append(col.split(';')[0].split('  ')[1].upper())
+			col = fileIn.readline()
+		
+		#print name, AC
+		#print self.species
+		#print mat
+		#print self.seq
 
-
-
-
+		if self.FSM == None:
+			self.FSM = utils.decideFSMorNot(mat)
+		
+		if self.FSM == True:
+			#self.numSamples = sum(mat[0,:]) # 26/8/08 CAMBIADO xq el numSamples seria la maxima suma de las posiciones del motivo
+			self.numSamples = self.computeNumSamples(mat) # 26/8/08 Esto es lo nuevo!
+			self.matFSM = mat.astype(int)
+			self.n = mat.shape[0]
+			self.calculatePSSMFromFSM()
+			self.name = name
+			self.ID = AC
+		elif self.FSM == False:
+			self.matPSSM = array(mat,float)
+			self.n = mat.shape[0]
+			self.calculateFSMFromPSSM()
+			self.name = name
+			self.ID = AC
 
 
 	def _OldReadFile(self,fileIn):
