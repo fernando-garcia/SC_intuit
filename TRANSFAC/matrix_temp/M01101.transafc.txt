@@ -1,0 +1,48 @@
+AC  M01101
+XX
+ID  I$OVO_Q6
+XX
+DT  10.02.2006 (created); dtc.
+DT  24.02.2006 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  OVO
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T08137; Ovo; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T00669; Ovo-B; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      1      7      T
+02      9      0      0      0      A
+03      9      0      0      0      A
+04      0      9      0      0      C
+05      4      0      3      2      R
+06      0      0      9      0      G
+07      2      1      1      5      T
+08      4      0      2      3      W
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TAACAGTG; R17314; 13; 8;; p.
+BS  taacggct; R17315; 10; 8;; n.
+BS  taacagtt; R17316; 12; 8;; n.
+BS  taactgta; R17317; 6; 8;; n.
+BS  taactgta; R17318; 7; 8;; n.
+BS  caacggaa; R17319; 5; 8;; n.
+BS  taacggtg; R17962; 9; 8;; n.
+BS  taacagga; R17963; 9; 8;; n.
+BS  gaacagat; R17964; 20; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0047335.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel101:0001 (2006).
+XX
+//

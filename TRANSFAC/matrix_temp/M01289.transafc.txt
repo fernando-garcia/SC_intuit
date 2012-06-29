@@ -1,0 +1,98 @@
+AC  M01289
+XX
+ID  F$ABF1_02
+XX
+DT  26.08.2009 (created); smt.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ABF1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T10754; Abf1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      2     11     38      T
+02     30      1     10     10      A
+03      2     23      2     24      Y
+04      6     41      1      2      C
+05      0      5     44      2      G
+06      2      1      0     48      T
+07     27      2     21      1      R
+08      4      4      8     35      T
+09     19     11      3     18      N
+10     20      0     16     14      D
+11     14     25      8      4      M
+12     29      0     19      3      R
+13      1      2      0     48      T
+14      5      1     44      1      G
+15     44      1      2      4      A
+16      3      3      1     44      T
+XX
+BA  51 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TACCGTATAACATGAT; R28710; 10; 16;; p.
+BS  TATCGTATTTGGTGAT; R28711; 3; 16;; p.
+BS  TATCGTATTTGGTGAT; R28711; 3; 16;; p.
+BS  TATCGTATTTGGTGAT; R28711; 3; 16;; p.
+BS  TATCGTATTTGGTGAT; R28711; 3; 16;; p.
+BS  TATCGTGTCTCGTGAT; R28712; 11; 16;; p.
+BS  TATCGTGTCTCGTGAT; R28712; 11; 16;; p.
+BS  TATCGTGTCTCGTGAT; R28712; 11; 16;; p.
+BS  TATCGTGTCTCGTGAT; R28712; 11; 16;; p.
+BS  TGTCGTATTGAGTGAT; R28713; 3; 16;; p.
+BS  TGTCGTATTGAGTGAT; R28713; 3; 16;; p.
+BS  TGTCGTATTGAGTGAT; R28713; 3; 16;; p.
+BS  TATCGTACTTGGTGAT; R28714; 3; 16;; p.
+BS  TGTCGTATTGAGTGTT; R28715; 3; 16;; p.
+BS  TACNGTATAACATGAT; R28716; 9; 16;; p.
+BS  TACCGTGATGTATGAT; R28717; 2; 16;; p.
+BS  TACCGTGATGTATGAT; R28717; 2; 16;; p.
+BS  TACCGTGATGTATGAT; R28717; 2; 16;; p.
+BS  TACCGTGATGTATGAT; R28717; 2; 16;; p.
+BS  TACCGTATAACATGAG; R28718; 10; 16;; p.
+BS  TTTTGTGTCGCGTGAT; R28719; 11; 16;; p.
+BS  GTTCGTGGCGAATGAT; R28720; 8; 16;; p.
+BS  GTTCGTGGCGAATGAT; R28720; 8; 16;; p.
+BS  GTTCGTGGCGAATGAT; R28720; 8; 16;; p.
+BS  GTTCGTGGCGAATGAT; R28720; 8; 16;; p.
+BS  GTTCGTGGCGAATGAT; R28720; 8; 16;; p.
+BS  TACCGCATAACATGAT; R28721; 9; 16;; p.
+BS  GTTCGTGGTNAATGAT; R28722; 8; 16;; p.
+BS  TGCTGTGTGACGTGTT; R28723; 4; 16;; p.
+BS  TACCGTATAACATAAC; R28724; 10; 16;; p.
+BS  CGTCGTATTGATTGAT; R28725; 3; 16;; p.
+BS  GGACGTGTGTCGCAAT; R28726; 11; 16;; p.
+BS  CGCACAGGAAAGTGAT; R29387; 1; 16;; p.
+BS  TGTAGTTCGTAGATGT; R29388; 1; 16;; p.
+BS  GTTATTCCCGGATGAC; R29389; 10; 16;; p.
+BS  GTGATTATTTGTTGTA; R29390; 6; 16;; p.
+BS  GGAACTGGTACTTAGC; R29391; 11; 16;; p.
+BS  TCCCCTGCTTAATACA; R29392; 1; 16;; p.
+BS  TTGGCTGTATGGCATA; R29393; 11; 16;; p.
+BS  GATACACTAACATCAT; R29394; 1; 16;; p.
+XX
+CC  sequences selected with recombinant ABF1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 15 rounds of selection and amplification
+XX
+RN  [1]; RE0050638.
+RX  PUBMED: 16083878.
+RA  Beinoraviciute-Kellner R., Lipps G., Krauss G.
+RT  In vitro selection of DNA binding sites for ABF1 protein from Saccharomyces cerevisiae.
+RL  FEBS Lett. 579:4535-4540 (2005).
+XX
+//

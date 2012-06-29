@@ -1,0 +1,235 @@
+AC  M00789
+XX
+ID  V$GATA_Q6
+XX
+DT  08.03.2003 (created); dtc.
+DT  08.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00075; V$GATA1_01; GATA-binding factor 1 (specific).
+HC  M00076; V$GATA2_01; GATA-binding factor 2 (specific).
+HC  M00077; V$GATA3_01; GATA-binding factor 3 (specific).
+HC  M00126; V$GATA1_02; GATA-binding factor 1 (specific).
+HC  M00127; V$GATA1_03; GATA-binding factor 1 (specific).
+HC  M00128; V$GATA1_04; GATA-binding factor 1 (specific).
+HC  M00346; V$GATA1_05; GATA-binding factor 1 (specific).
+HC  M00347; V$GATA1_06; GATA-binding factor 1 (specific).
+HC  M00348; V$GATA2_02; GATA-binding factor 2 (specific).
+HC  M00349; V$GATA2_03; GATA-binding factor 2 (specific).
+HC  M00350; V$GATA3_02; GATA-binding factor 3 (specific).
+HC  M00351; V$GATA3_03; GATA-binding factor 3 (specific).
+HC  M00462; V$GATA6_01;  (specific).
+HC  M00632; V$GATA4_Q3;  (specific).
+HC  M02004; V$GATA1_Q6;  (specific).
+HC  M02006; V$GATA5_Q4;  (specific).
+HC  M02243; V$TAL1::GATA1_01; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02254; V$GATA1_09; class: Zinc-coordinating; family: GATA (specific).
+HC  M02756; V$GATA5_03; class: Zinc-coordinating; family: GATA (specific).
+HC  M02757; V$GATA6_04; class: Zinc-coordinating; family: GATA (specific).
+HC  M02859; V$GATA3_05; class: Zinc-coordinating; family: GATA   (specific).
+HC  M02860; V$GATA5_04; class: Zinc-coordinating; family: GATA (specific).
+HC  M02861; V$GATA6_05; class: Zinc-coordinating; family: GATA (specific).
+XX
+BF  T00267; GATA-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T08293; GATA-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00306; GATA-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10217; GATA-1; Species: Mammalia; site(s) included: no.
+BF  T00305; GATA-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08291; GATA-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10430; GATA-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10431; GATA-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08292; GATA-1 isoform 1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09480; GATA-1 isoform 2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00304; GATA-1A; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02312; GATA-1B; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T10951; GATA-2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00307; GATA-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10393; GATA-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00309; GATA-2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00308; GATA-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08571; GATA-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17995; GATA-2; Species: Mammalia; site(s) included: yes.
+BF  T01302; GATA-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08573; GATA-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15259; GATA-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18946; GATA-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00313; GATA-3; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00314; GATA-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10392; GATA-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00312; GATA-3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16673; GATA-3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T09925; GATA-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13822; GATA-3; Species: Mammalia; site(s) included: no.
+BF  T00310; GATA-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08572; GATA-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16558; GATA-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00311; GATA-3 isoform-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09924; GATA-3 isoform-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02682; GATA-4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T19680; GATA-4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02711; GATA-4; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T19682; GATA-4; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02687; GATA-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09359; GATA-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08629; GATA-4; Species: Mammalia; site(s) included: no.
+BF  T02532; GATA-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08358; GATA-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10220; GATA-4; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T10221; GATA-4; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T08147; GATA-4; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T08631; GATA-4; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T02716; GATA-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08540; GATA-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02683; GATA-5; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02688; GATA-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14199; GATA-5; Species: Mammalia; site(s) included: no.
+BF  T02685; GATA-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16675; GATA-5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02712; GATA-5A; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02713; GATA-5B; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02684; GATA-6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02689; GATA-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14200; GATA-6; Species: Mammalia; site(s) included: no.
+BF  T02686; GATA-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10208; GATA-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10222; GATA-6; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T10223; GATA-6; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T02717; GATA-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08541; GATA-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02714; GATA-6A; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02715; GATA-6B; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16251; GATA-6long; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10207; GATA-6short; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     50      8      8     39      W
+02      1      0    103      1      G
+03    104      0      1      0      A
+04      0      0      0    105      T
+05     89      1      3     12      A
+06     58      3     39      5      R
+07     28     18     48     11      N
+XX
+BA  105 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGATAAG; R00507; 6; 7;; p.
+BS  TGATAAG; R00513; 2; 7;; n.
+BS  TGATAAA; R00514; 6; 7;; p.
+BS  AGATAGC; R00515; 10; 7;; p.
+BS  AGATAAG; R00518; 4; 7;; p.
+BS  TGATAGT; R00522; 1; 7;; n.
+BS  TGATAGG; R00523; 1; 7;; n.
+BS  AGATTAG; R00524; 2; 7;; p.
+BS  TGATAAG; R00525; 1; 7;; n.
+BS  AGATAAA; R00534; 5; 7;; p.
+BS  AGATGAA; R00536; 5; 7;; p.
+BS  AGATAGC; R00538; 12; 7;; n.
+BS  AGATTAG; R00539; 4; 7;; p.
+BS  TGATTGA; R00540; 8; 7;; p.
+BS  AGATAAG; R00541; 5; 7;; p.
+BS  AGATTGG; R00543; 5; 7;; n.
+BS  TGATAGG; R00544; 5; 7;; n.
+BS  CTATAAA; R00548; 3; 7;; p.
+BS  AGATAGT; R00550; 1; 7;; n.
+BS  AGATAGG; R00566; -1; 7;; n.
+BS  TGATAAG; R00569; 1; 7;; p.
+BS  AGATAAA; R01218; 13; 7;; p.
+BS  AGATAAT; R01247; 1; 7;; p.
+BS  AGATAAG; R01253; 2; 7;; n.
+BS  CGATAGT; R01254; -1; 7;; n.
+BS  TGATAAG; R01710; 2; 7;; p.
+BS  CGATAAA; R01944; 7; 7;; p.
+BS  GGATACA; R02442; -2; 7;; n.
+BS  AGATGGA; R02443; 3; 7;; p.
+BS  AGATAGG; R02447; 8; 7;; n.
+BS  AGATTGG; R02826; 3; 7;; p.
+BS  AGATAAG; R02829; 5; 7;; n.
+BS  TGATAAG; R02831; 13; 7;; n.
+BS  AGATAAA; R02882; 2; 7;; n.
+BS  AGATAGC; R02883; 3; 7;; p.
+BS  TGATAGG; R02884; 4; 7;; p.
+BS  TGATCAA; R02885; 3; 7;; n.
+BS  TGATAAA; R02886; 3; 7;; n.
+BS  AGATAAG; R02889; 12; 7;; n.
+BS  TGATAAG; R03087; 2; 7;; p.
+BS  AGATAAG; R03093; 7; 7;; p.
+BS  TGATATC; R03113; 12; 7;; n.
+BS  AGATAGT; R03115; 6; 7;; p.
+BS  TGATAAT; R03116; 5; 7;; n.
+BS  AGATAAG; R03206; 7; 7;; p.
+BS  AGATAAG; R03207; -1; 7;; n.
+BS  GGATACT; R03261; 10; 7;; n.
+BS  AGATAAC; R03268; 1; 7;; p.
+BS  CGATAAA; R03304; 7; 7;; n.
+BS  AGATAAG; R03347; 1; 7;; n.
+BS  TGATAGG; R03437; -1; 7;; n.
+BS  AGATAAC; R03438; 3; 7;; p.
+BS  TGATTAC; R03442; 2; 7;; p.
+BS  AGATAAA; R03443; 4; 7;; n.
+BS  AGATAAG; R03487; -1; 7;; n.
+BS  AGATAGG; R03491; 3; 7;; n.
+BS  AGATAAA; R03723; 3; 7;; n.
+BS  GGGTGGG; R03736; 1; 7;; n.
+BS  TGATAAG; R03737; 2; 7;; n.
+BS  GGATAAG; R04200; -3; 7;; n.
+BS  GGATAAG; R04201; -3; 7;; p.
+BS  TGATAGA; R04289; 1; 7;; n.
+BS  TGATAGC; R04292; -1; 7;; n.
+BS  AGATAGG; R04294; 1; 7;; p.
+BS  AGATAGA; R04296; -1; 7;; p.
+BS  TGATAGC; R08150; 13; 7;; n.
+BS  AGATAAG; R08165; 3; 7;; p.
+BS  GGATAGA; R08167; 1; 7;; p.
+BS  TGATTGG; R08192; 7; 7;; n.
+BS  TGATAAG; R08193; 8; 7;; n.
+BS  CGATATG; R08194; 6; 7;; n.
+BS  AGATTAG; R08205; 3; 7;; p.
+BS  TGATAGG; R08206; 3; 7;; p.
+BS  TGATAGG; R08209; 8; 7;; n.
+BS  AGATACA; R08210; -1; 7;; n.
+BS  CGATAAA; R08219; 6; 7;; p.
+BS  TGATTGG; R08220; 9; 7;; n.
+BS  TGATATC; R08221; 21; 7;; p.
+BS  CGATAGC; R08222; -1; 7;; p.
+BS  AGATAAG; R08225; 6; 7;; n.
+BS  AGATAAC; R08229; 3; 7;; p.
+BS  TGATTGC; R08236; 4; 7;; p.
+BS  AGATTAG; R08239; 20; 7;; n.
+BS  GAATAAC; R08241; 6; 7;; p.
+BS  AGATAAG; R08243; 6; 7;; n.
+BS  TGATAAT; R08245; 15; 7;; n.
+BS  AGATAAA; R08249; 4; 7;; n.
+BS  AGATAGT; R08250; 1; 7;; n.
+BS  CGATAGG; R08252; 1; 7;; p.
+BS  TGATAGG; R08253; 4; 7;; p.
+BS  TGATAAC; R08260; 21; 7;; p.
+BS  TGATAAT; R08261; 16; 7;; n.
+BS  AGATAGA; R08264; 3; 7;; n.
+BS  AGATAGC; R08265; 12; 7;; n.
+BS  AGATATA; R08270; 1; 7;; n.
+BS  TGATAAA; R08271; 19; 7;; p.
+BS  AGATAAA; R08272; 3; 7;; n.
+BS  AGATAGT; R08276; -1; 7;; n.
+BS  TGATAAA; R08287; 13; 7;; p.
+BS  AGATAAA; R08288; 9; 7;; p.
+BS  AGATTAC; R08290; 9; 7;; p.
+BS  TGATAAC; R13027; 10; 7;; p.
+BS  TGATATA; R13145; 12; 7;; p.
+BS  TGATAGG; R13156; 2; 7;; p.
+BS  GGATAGG; R13257; 16; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

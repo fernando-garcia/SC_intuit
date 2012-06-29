@@ -1,0 +1,57 @@
+AC  M02434
+AS  MA0315
+XX
+ID  F$HAP4_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HAP4
+XX
+DE  class: Other Alpha-Helix; family: NFY CCAAT-binding
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+HP  M00288; F$HAP234_01; yeast factor complex HAP2/3/5, homolog to vertebrate NF-Y/CP1/CBF (family).
+XX
+BF  T00351; HAP4; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     75     32     58     31      N
+02      0    264      3      1      C
+03      6    260      0      0      C
+04    166      0      0      0      A
+05    168      0      0      0      A
+06      0     16      0    158      T
+07      9    182     31     23      C
+08    152      0     10      4      A
+09     66     22    109     16      R
+10     66     50     55     31      N
+11     38     55     66     49      N
+12     43     57     63     45      N
+13     35     86     54     40      N
+14     35     63     82     37      N
+15     75     47     43     31      N
+XX
+BA  196 sequences (ChIP-on-chip)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0315.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0065640.
+RX  PUBMED: 16522208.
+RA  Macisaac K. D., Wang T., Gordon D. B., Gifford D. K., Stormo G. D., Fraenkel E.
+RT  An improved map of conserved regulatory sites for Saccharomyces cerevisiae.
+RL  BMC Bioinformatics 7:113 (2006).
+XX
+//

@@ -1,0 +1,24 @@
+10093	class	Unknown
+10093	comment	-
+10093	description	Non-canonical splice acceptor (3') site (at_AC)
+10093	medline	15475254
+10094	class	Unknown
+10094	comment	-
+10094	description	Non-canonical splice acceptor (3') site (at_AC)
+10094	medline	15475254
+10095	class	Unknown
+10095	comment	-
+10095	description	Non-canonical splice acceptor (3') site (at_AC)
+10095	medline	15475254
+10096	class	Unknown
+10096	comment	-
+10096	description	Non-canonical splice acceptor (3') site (at_AC)
+10096	medline	15475254
+10097	class	Unknown
+10097	comment	-
+10097	description	Non-canonical splice acceptor (3') site (at_AC)
+10097	medline	15475254
+10098	class	Unknown
+10098	comment	-
+10098	description	Non-canonical splice acceptor (3') site (at_AC)
+10098	medline	15475254

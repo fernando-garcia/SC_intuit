@@ -1,0 +1,53 @@
+AC  M00151
+XX
+ID  P$AG_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AG
+XX
+DE  Agamous
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01007; AG; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T09071; AG; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     21     20      6     19      N
+02      9      3      3     51      T
+03     10      0      1     55      T
+04     29      8      8     21      W
+05      0     66      0      0      C
+06      0     65      0      1      C
+07     31      3      6     26      W
+08     47      2      0     17      A
+09     52      0      1     13      A
+10     25      0      1     40      W
+11     17     15     11     23      N
+12     19      8     20     19      N
+13      7      0     57      2      G
+14      2      0     54     10      G
+15     22     17      5     22      N
+16     45      4      5     12      A
+17     40      6      9     11      A
+18     15     10     16     25      N
+XX
+BA  66 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AG from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0005.
+XX
+RN  [1]; RE0003121.
+RX  PUBMED: 7901838.
+RA  Huang H., Mizukami Y., Hu Y., Ma H.
+RT  Isolation and characterization of the binding sequences for the product of the Arabidopsis floral homeotic gene AGAMOUS
+RL  Nucleic Acids Res. 21:4769-4776 (1993).
+XX
+//

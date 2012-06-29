@@ -1,0 +1,39 @@
+AC  M01746
+XX
+ID  F$TBF1_02
+XX
+DT  24.06.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Tbf1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01246; TBF1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1      4     44      T
+02     48      0      2      0      A
+03      0      1     49      0      G
+04      0      0     50      0      G
+05      0      0     49      1      G
+06      1      7      1     41      T
+07      7      0      1     42      T
+08      9      1     32      6      G
+09     22      0     25      3      R
+XX
+BA  50 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant TBF-1 from a pool of double-stranded oligonucleotides containing a core of 10 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0067202.
+RX  PUBMED: 10871401.
+RA  Koering C. E., Fourel G., Binet-Brasselet E., Laroche T., Klein F., Gilson E.
+RT  Identification of high affinity Tbf1p-binding sites within the budding yeast genome.
+RL  Nucleic Acids Res. 28:2519-2526 (2000).
+XX
+//

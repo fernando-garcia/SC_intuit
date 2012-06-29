@@ -1,0 +1,64 @@
+AC  M00997
+XX
+ID  V$DEC_Q1
+XX
+DT  14.05.2004 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DEC
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00985; V$STRA13_01;  (specific).
+HC  M01843; V$DEC2_Q2;  (specific).
+HC  M02845; V$BHLHB2_04; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+XX
+BF  T05838; DEC1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11200; DEC1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16138; DEC1; Species: Mammalia; site(s) included: no.
+BF  T02327; DEC1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T22036; DEC1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05848; DEC1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09050; DEC1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05839; DEC2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11134; DEC2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17710; DEC2; Species: Mammalia; site(s) included: yes.
+BF  T05845; DEC2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11136; DEC2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05851; DEC2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11232; DEC2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      2      2      0      S
+02      0      3      1      1      C
+03      0      3      1      1      C
+04      0      5      0      0      C
+05      5      0      0      0      A
+06      2      2      0      1      M
+07      0      1      4      0      G
+08      0      0      0      5      T
+09      0      0      5      0      G
+10      4      1      0      0      A
+11      3      0      1      1      A
+12      0      1      3      1      G
+13      1      1      2      1      N
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCGCACGTGAGCT; R14531; 5; 13;; p.
+BS  CCCCAACTGAAGC; R14561; 5; 13;; p.
+BS  AGCCAAGTGAATG; R14562; 4; 13;; n.
+BS  GCTCATGTGATGA; R14563; 5; 13;; p.
+BS  GTCCACGTGCAGG; R14604; 4; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 1 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

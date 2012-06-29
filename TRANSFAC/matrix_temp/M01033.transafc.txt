@@ -1,0 +1,122 @@
+AC  M01033
+XX
+ID  V$HNF4_Q6_03
+XX
+DT  25.11.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF4
+XX
+DE  half-site 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00158; V$COUP_01;  (family).
+HP  M00762; V$DR1_Q3; Direct repeat 1 (family).
+HP  M00764; V$HNF4_DR1_Q3;  (family).
+HP  M00967; V$HNF4_Q6; half-site matrix (family).
+XX
+BF  T05294; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T08260; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T02758; HNF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05017; HNF-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18464; HNF-4 alpha8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18418; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18419; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T03828; HNF-4alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08612; HNF-4alpha; Species: Mammalia; site(s) included: no.
+BF  T05287; HNF-4alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05288; HNF-4alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02429; HNF-4alpha1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02421; HNF-4alpha1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02424; HNF-4alpha1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00372; HNF-4alpha1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00373; HNF-4alpha2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02423; HNF-4alpha2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02422; HNF-4alpha2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02428; HNF-4alpha3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02425; HNF-4alpha4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05285; HNF-4alpha7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02427; HNF-4alpha7; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     19      8     21     10      N
+02      5      2     46      5      G
+03     11      3     30     14      G
+04      5     16     20     17      N
+05      2     48      2      6      C
+06     52      1      0      5      A
+XX
+BA  58 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGGGCT; R00114; 24; 6;; n.
+BS  GGTTTA; R01183; 14; 6;; n.
+BS  AGTTCA; R01186; 13; 6;; n.
+BS  AGGTCA; R01457; 9; 6;; p.
+BS  GGTCCA; R01612; 16; 6;; n.
+BS  CGGCCA; R01690; 13; 6;; n.
+BS  TAGGCA; R03034; -2; 6;; p.
+BS  TCTGCA; R03035; -2; 6;; p.
+BS  AGTCCA; R03881; 7; 6;; p.
+BS  CCGCCC; R04454; -1; 6;; p.
+BS  GAGTCA; R04770; 8; 6;; n.
+BS  AGTTCA; R08877; 11; 6;; n.
+BS  GGTCCA; R08883; 3; 6;; p.
+BS  AAACCA; R08885; 14; 6;; n.
+BS  GGGCCA; R13018; 17; 6;; n.
+BS  AGGTCA; R13031; 6; 6;; p.
+BS  GGGCCA; R13032; 11; 6;; n.
+BS  AGATCA; R13033; 12; 6;; n.
+BS  ATCTCA; R13034; 20; 6;; n.
+BS  TGTCCA; R13037; 2; 6;; p.
+BS  GAGTCA; R13048; 1; 6;; p.
+BS  CGACCA; R13055; 3; 6;; p.
+BS  AGGACA; R13057; 15; 6;; n.
+BS  TGGGCA; R13058; 18; 6;; n.
+BS  CGGGCA; R13059; 15; 6;; n.
+BS  TGATTA; R13060; 3; 6;; p.
+BS  TGAACT; R13063; 15; 6;; n.
+BS  CGGGCA; R13065; 6; 6;; p.
+BS  AGCTCA; R13067; 18; 6;; p.
+BS  TGAACT; R13070; 11; 6;; n.
+BS  GGGGTA; R13208; 12; 6;; n.
+BS  GGTCGA; R13209; 10; 6;; n.
+BS  GTACCA; R14385; 21; 6;; n.
+BS  GGTTCA; R15791; 15; 6;; n.
+BS  AGGGCA; R15841; 30; 6;; n.
+BS  GGGCCA; R15842; 16; 6;; n.
+BS  GGGTCA; R15845; 12; 6;; p.
+BS  GTCTAA; R15850; 17; 6;; n.
+BS  AGTCAA; R15854; 10; 6;; p.
+BS  TAAGCA; R15891; 20; 6;; n.
+BS  AGGGCA; R15898; 15; 6;; p.
+BS  CTAGCA; R15902; 4; 6;; p.
+BS  AGTGGT; R15904; 24; 6;; n.
+BS  TGTGCA; R15907; 8; 6;; p.
+BS  TGAGCT; R15908; 16; 6;; n.
+BS  AGGGCA; R15916; 11; 6;; p.
+BS  GGAGCA; R15918; 17; 6;; n.
+BS  CTGCCA; R15921; 9; 6;; p.
+BS  GGGACA; R15922; 17; 6;; n.
+BS  CGGGTA; R15923; 24; 6;; p.
+BS  GGGTCA; R15925; 6; 6;; p.
+BS  GGGTTA; R15940; 14; 6;; n.
+BS  GGGTCA; R15941; 7; 6;; p.
+BS  AGGGCA; C00123,  s00182; 17; 6;; n.
+BS  AGGCCA; C00285,  s00491; 17; 6;; n.
+BS  AGGGTA; C00288,  s00499; 10; 6;; n.
+BS  GGGACA; C00290,  s00503; 8; 6;; p.
+BS  AGTGCA; C00292,  s00507; 1; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; including 5 TRANSCompel sites
+XX
+RN  [1]; RE0025480.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel91:0001 (2005).
+XX
+//

@@ -1,0 +1,101 @@
+AC  M01150
+XX
+ID  V$DMRT5_01
+XX
+DT  19.08.2007 (created); vma.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DMRT5
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T10731; DMRT5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10732; DMRT5; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15941; DMRT5; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     14      2     12     21      N
+02     17      4      7     21      W
+03      3      6      3     37      T
+04      5      6      3     35      T
+05      0      0     49      0      G
+06      9      4      0     36      T
+07     14      0      2     33      T
+08     44      0      1      4      A
+09      0     47      2      0      C
+10     27      2      0     20      W
+11      7      0     27     15      K
+12      5      0      1     43      T
+13      7      0     21     21      K
+14      3      0     13     33      T
+15      9     31      2      7      C
+XX
+BA  49 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AAGAGTTACAGTATC; R22000; 3; 15;; p.
+BS  TTTTGTAACAGTTTC; R22001; 3; 15;; p.
+BS  TATTGTAACCTTGTA; R22002; 3; 15;; p.
+BS  AGTTGTTAGTGTTTC; R22003; 3; 15;; p.
+BS  AGTTGTTACTTAGTT; R22004; 3; 15;; p.
+BS  GATTGTTACTGTTTC; R22005; 3; 15;; p.
+BS  TTTTGTTTCAATGTT; R22006; 3; 15;; p.
+BS  GGTTGTTACATTGTA; R22007; 3; 15;; p.
+BS  ATTTGTTACTGAGGC; R22008; 3; 15;; p.
+BS  GTTCGTTACTGTTTC; R22009; 3; 15;; p.
+BS  AATAGTTACAGTTGC; R22010; 3; 15;; p.
+BS  AATTGTTTCATATTC; R22011; 3; 15;; p.
+BS  GTCCGATACATTGTA; R22012; 3; 15;; p.
+BS  TATTGATACTGTGTC; R22013; 3; 15;; p.
+BS  CATTGTAACAGTTGC; R22014; 3; 15;; p.
+BS  TCTTGATACTTTGTA; R22015; 3; 15;; p.
+BS  TAGTGTTACTGTATC; R22016; 3; 15;; p.
+BS  TCTAGTAACAGTATC; R22017; 3; 15;; p.
+BS  TTTTGTTACTTTGTA; R22018; 3; 15;; p.
+BS  TTCCGTTACAATGTT; R22019; 3; 15;; p.
+BS  GATAGATACATTGTG; R22020; 3; 15;; p.
+BS  AATTGTTACAATGTT; R22021; 3; 15;; p.
+BS  TTTTGTTACAAAGTC; R22022; 3; 15;; p.
+BS  AAAAGTTACAGTTGC; R22023; 3; 15;; p.
+BS  GTGTGTTACATTGTT; R22024; 3; 15;; p.
+BS  TGCTGTTACTGTATC; R22025; 3; 15;; p.
+BS  ACTTGATTCTGTTGC; R22026; 3; 15;; p.
+BS  TCTTGTTACTGTTGC; R22027; 3; 15;; p.
+BS  ATTTGCAAGTGTTGC; R22028; 3; 15;; p.
+BS  TTTTGATACATTGTA; R22029; 3; 15;; p.
+BS  TACTGTTACATTTTC; R22030; 3; 15;; p.
+BS  GTTTGCAACATTGTA; R22031; 3; 15;; p.
+BS  ATTCGTAACAATTGC; R22032; 3; 15;; p.
+BS  TGTCGTAGCCGTGTC; R22033; 3; 15;; p.
+BS  GTTTGTTACAATGAG; R22034; 3; 15;; p.
+BS  AATTGTAACAGTAAC; R22035; 3; 15;; p.
+BS  TTTGGTTACTGTATT; R22036; 3; 15;; p.
+BS  GTTTGTATCATTTGC; R22037; 3; 15;; p.
+BS  ATTTGTAACAATTTC; R22038; 3; 15;; p.
+BS  GATTGATACTGTTGC; R22039; 3; 15;; p.
+BS  AGTCGTAACTGTTGC; R22040; 3; 15;; p.
+BS  GATTGATACAGGTGT; R22041; 3; 15;; p.
+BS  TTATGTTACTGTTAC; R22042; 3; 15;; p.
+BS  CTTTGCAACAGTTTC; R22043; 3; 15;; p.
+BS  TTTGGCGACAGAGGC; R22044; 3; 15;; p.
+BS  TTCTGTTACATTGTA; R22045; 3; 15;; p.
+BS  GGCGGTAACTGTATC; R22046; 3; 15;; p.
+BS  TATTGATACTTTGTA; R22047; 3; 15;; p.
+BS  TAATGTGACTGTTTC; R22048; 3; 15;; p.
+XX
+CC  sequences selected with recombinant DMRT5 from a pool of double-stranded oligonucleotides containing a core of 19 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0050600.
+RX  PUBMED: 17605809.
+RA  Murphy M. W., Zarkower D., Bardwell V. J.
+RT  Vertebrate DM domain proteins bind similar DNA sequences and can heterodimerize on DNA.
+RL  BMC Mol. Biol. 8:58 (2007).
+RN  [2]; RE0050097.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel113:0001 (2007).
+XX
+//

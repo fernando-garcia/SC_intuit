@@ -1,0 +1,108 @@
+AC  M01075
+XX
+ID  V$PLZF_02
+XX
+DT  17.10.2005 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PLZF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02336; PLZF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14288; PLZF; Species: Mammalia; site(s) included: no.
+BF  T08243; Plzf; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09520; Plzf; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18001; PLZF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09910; PLZFA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08615; PLZFB; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      7     12     19      K
+02      0      2      4     34      T
+03     11      8     19      2      N
+04      6      6     11     19      N
+05     21      0      0     21      W
+06      4      9      4     25      T
+07      4      8     11     19      N
+08      2      2     29      9      G
+09     19      7     12      4      N
+10     19      9      2     12      N
+11      4      0     28     10      G
+12      4     19     11      8      N
+13      0      0      0     42      T
+14     42      0      0      0      A
+15     42      0      0      0      A
+16     42      0      0      0      A
+17      6      4     25      7      G
+18      4     17      2     19      Y
+19     11      2      0     29      T
+20      4      2      8     28      T
+21      6      0     21     15      K
+22     28      0     10      4      A
+23      9      8      2     23      T
+24      2     23      0     17      Y
+25     15      0      2     25      W
+26      9      2     27      4      G
+27      7      4      6     25      T
+28      4      2      9     27      T
+29      0     27      6      9      C
+XX
+BA  42 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18344; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18346; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18347; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18348; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18349; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18350; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18351; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18352; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18353; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18354; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18355; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18356; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18357; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18358; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18359; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18360; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18361; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18362; 1; 29;; p.
+BS  ttgtattgaagcTAAAgtttgatctgttc; R18363; 1; 29;; p.
+BS  ctagtcgtccggTAAAtcattaataaagt; R18364; 2; 29;; p.
+BS  ctagtcgtccggTAAAtcattaataaagt; R18365; 2; 29;; p.
+BS  ctagtcgtccggTAAAtcattaataaagt; R18366; 2; 29;; p.
+BS  ctagtcgtccggTAAAtcattaataaagt; R18367; 2; 29;; p.
+BS  ctagtcgtccggTAAAtcattaataaagt; R18368; 2; 29;; p.
+BS  ctagtcgtccggTAAAtcattaataaagt; R18369; 2; 29;; p.
+BS  ctagtcgtccggTAAAtcattaataaagt; R18370; 2; 29;; p.
+BS  gtcattcggtttTAAAgctgtgctagttc; R18371; 2; 29;; p.
+BS  gtcattcggtttTAAAgctgtgctagttc; R18372; 2; 29;; p.
+BS  gtcattcggtttTAAAgctgtgctagttc; R18373; 2; 29;; p.
+BS  gtcattcggtttTAAAgctgtgctagttc; R18374; 2; 29;; p.
+BS  gtcattcggtttTAAAgctgtgctagttc; R18375; 2; 29;; p.
+BS  gtcattcggtttTAAAgctgtgctagttc; R18376; 2; 29;; p.
+BS  ggactcatgttgTAAAagattgccgtgtg; R18377; 2; 29;; p.
+BS  ggactcatgttgTAAAagattgccgtgtg; R18378; 2; 29;; p.
+BS     gtgcaggaaTAAAcatcatgttacac; R18379; 1; 29; 1, 2, 3; p.
+BS     gtgcaggaaTAAAcatcatgttacac; R18380; 1; 29; 1, 2, 3; p.
+BS   gtctaggttatTAAAaccgaatctgcat; R18381; 1; 29; 1; p.
+BS   gtctaggttatTAAAaccgaatctgcat; R18382; 1; 29; 1; p.
+BS  gtcgagacgttgTAAAcatagtaatcgcg; R18383; 1; 29;; p.
+BS  gtcgagacgttgTAAAcatagtaatcgcg; R18384; 1; 29;; p.
+BS  gcactaggtcgaTAAAacaaagttatggg; R18385; 4; 29;; p.
+BS  gcactaggtcgaTAAAacaaagttatggg; R18386; 4; 29;; p.
+XX
+CC  sequences selected with recombinant PLZF from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0035557.
+RX  PUBMED: 9278395.
+RA  Li J. Y., English M. A., Ball H. J., Yeyati P. L., Waxman S., Licht J. D.
+RT  Sequence-specific DNA binding and transcriptional regulation by the promyelocytic leukemia zinc finger protein.
+RL  J. Biol. Chem. 272:22447-22455 (1997).
+XX
+//

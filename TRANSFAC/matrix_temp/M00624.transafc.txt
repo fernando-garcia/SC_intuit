@@ -1,0 +1,59 @@
+AC  M00624
+XX
+ID  V$DBP_Q6
+XX
+DT  08.03.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DBP
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04875; DBP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09554; DBP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18360; DBP; Species: Mammalia; site(s) included: yes.
+BF  T05865; DBP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10264; DBP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00183; DBP; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15097; DBP; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15      0      0      0      A
+02      0      0     13      2      G
+03      0     15      0      0      C
+04     11      0      0      4      A
+05      7      4      0      4      H
+06      9      2      0      4      A
+07      4      8      0      3      C
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATCATAC; R00089; -1; 7;; n.
+BS  AGCTACA; R00616; -9; 7;; n.
+BS  ATCATAT; R01175; 15; 7;; n.
+BS  AGCAATC; R02457; 25; 7;; n.
+BS  AGCAATC; R02458; 4; 7;; n.
+BS  AGCACAC; R02459; -2; 7;; p.
+BS  AGCTTAA; R02987; -7; 7;; p.
+BS  AGCAAAC; R03128; 13; 7;; p.
+BS  AGCAAAC; R03243; 14; 7;; p.
+BS  AGCAAAA; R03251; 14; 7;; p.
+BS  AGCTACC; R04270; -10; 7;; n.
+BS  AGCACAT; R08111; 10; 7;; n.
+BS  AGCACAT; R08112; 20; 7;; p.
+BS  AGCTCTC; R08113; 20; 7;; p.
+BS  AGCATTA; R08114; 11; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00624; V$DBP_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

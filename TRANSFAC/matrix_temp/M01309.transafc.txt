@@ -1,0 +1,51 @@
+AC  M01309
+XX
+ID  B$TRAM_01
+XX
+DT  12.10.2009 (created); pro.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  traM
+XX
+DE  traM b.s.
+XX
+TY  specific
+XX
+OS  Bacteria
+XX
+BF  T17203; traM; Species: E.coli, Escherichia coli; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      0      0      8      W
+02      0      0     17      0      G
+03      8      0      0      9      W
+04      8      0      9      0      R
+05      9      0      0      8      W
+06      9      8      0      0      M
+07      8      0      0      9      W
+08      0     17      0      0      C
+09      6      0     10      1      R
+10      0      0      0     17      T
+11      8      9      0      0      M
+12      0      0      9      8      K
+13      9      0      8      0      R
+14      8      0      0      9      W
+15      0      0      9      8      K
+16      9      0      0      8      W
+17      9      8      0      0      M
+18      8      0      0      9      W
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGAATCACTTATGATTCA; R29710; 1; 18;; p.
+XX
+CC  sequences selected with recombinant traM from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 10 rounds of selection and amplification
+XX
+RN  [1]; RE0064349.
+RX  PUBMED: 18082262.
+RA  Geist C., Brantl S.
+RT  TraM protein of plasmid R1: in vitro selection of the target region reveals two consensus 7 bp binding motifs spaced by a 4 bp linker of defined sequence.
+RL  PLasmid 59:20-35 (2008).
+XX
+//

@@ -1,0 +1,68 @@
+AC  M02092
+XX
+ID  V$EGR2_Q6
+XX
+DT  24.10.2011 (created); mkl.
+DT  18.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Egr-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00807; V$EGR_Q6;  (family).
+HP  M00982; V$KROX_Q6;  (family).
+XX
+BF  T00242; Egr-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10400; Egr-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10590; Egr-2; Species: Mammalia; site(s) included: yes.
+BF  T00454; Egr-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08340; Egr-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16556; Egr-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     18      0      4      C
+02      2     15      3      3      C
+03      0     23      0      0      C
+04     12     10      0      1      M
+05      1     22      0      0      C
+06      9      4      5      5      N
+07      0     22      1      0      C
+08      6      6      5      4      N
+XX
+BA  23 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCCCCGCG; R00721; 8; 8;; n.
+BS  CCCCCTCC; R02085; 3; 8;; n.
+BS  CCCACGCC; R04734; 10; 8;; n.
+BS  CCCTCTCC; R04748; 12; 8;; n.
+BS  CGCCCCCA; R04749; 12; 8;; p.
+BS  TTCCCACG; R17136; 4; 8;; p.
+BS  TTCAAGCA; R17137; 2; 8;; n.
+BS  AACACACA; R17138; 3; 8;; n.
+BS  CTCCCACG; R17139; 3; 8;; p.
+BS  CCCACACc; R17140; 17; 8;; p.
+BS  TACACaca; R17141; 4; 8;; n.
+BS  CCCCCTCc; R17142; 4; 8;; p.
+BS  CCCACACn; R18673; 3; 8;; p.
+BS  CCCACACn; R18674; -1; 8;; n.
+BS  CCCACGCT; R18678; 10; 8;; n.
+BS  CGCCCACT; R18679; 8; 8;; n.
+BS  CCCACCCT; R21038; 1; 8;; n.
+BS  CCCCCCCG; R21539; 7; 8;; n.
+BS  CCCACCCT; R21542; 7; 8;; n.
+BS  CCCACTCA; R23685; 4; 8;; n.
+BS  CCCACTCA; R29700; 6; 8;; n.
+BS  TGCCCAGG; R34770; 18; 8;; p.
+BS  CCCCCGCC; R34791; 4; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

@@ -1,0 +1,67 @@
+AC  M02810
+AS  PB0076
+XX
+ID  V$SP4_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  17.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sp4
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00931; V$SP1_Q6_01;  (family).
+HP  M00932; V$SP1_Q4_01;  (family).
+HP  M00933; V$SP1_Q2_01;  (family).
+XX
+BF  T02414; sp4; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T09485; sp4; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     16     22     37     25      N
+02     25     16     35     25      N
+03     24     26     17     34      N
+04     26     49      5     20      N
+05     45     55      0      0      M
+06      0     99      0      0      C
+07      4      0     93      3      G
+08      0     99      0      0      C
+09      0     99      1      0      C
+10      0     96      0      3      C
+11     15     84      0      1      C
+12      1     91      1      7      C
+13      8     27      6     59      T
+14     15     29     14     42      N
+15     20     35     25     19      N
+16     18     30     19     32      N
+17     13     38     25     25      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0076.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

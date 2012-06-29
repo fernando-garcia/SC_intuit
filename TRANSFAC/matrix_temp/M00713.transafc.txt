@@ -1,0 +1,62 @@
+AC  M00713
+XX
+ID  F$TBP_Q6
+XX
+DT  13.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBP
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00795; TBP; Species: fission yeast, Schizosaccharomyces pombe; site(s) included: yes.
+BF  T00798; TBP; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      8      3     12      Y
+02      8      6      2      7      N
+03      1      7      0     15      T
+04      4      0      1     18      T
+05      0      2      0     21      T
+06     23      0      0      0      A
+07      3      0      0     20      T
+08     20      0      0      3      A
+09      2      1      4     16      T
+XX
+BA  23 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTTTATAA; R00047; -1; 9;; n.
+BS  TGCTTATAT; R00705; -1; 9;; n.
+BS  TCCTTAAAT; R00970; 8; 9;; n.
+BS  CTTTTATAG; R00998; -1; 9;; n.
+BS  GCATTATAT; R01732; 2; 9;; n.
+BS  CGCTTAAAT; R02688; -2; 9;; p.
+BS  CACTTAAAT; R03080; 13; 9;; p.
+BS  CACATATAT; R03161; 10; 9;; n.
+BS  GTTTTATAT; R03162; 7; 9;; n.
+BS  TATATATAT; R03163; 8; 9;; p.
+BS  TCCTTATAC; R03164; -3; 9;; p.
+BS  CTCGTATAG; R03165; -4; 9;; p.
+BS  CCTTCATAA; R03167; -2; 9;; p.
+BS  CTTTTATAT; R03172; -1; 9;; n.
+BS  TCTTTATAG; R03173; -1; 9;; n.
+BS  TATTTATTT; R03809; 6; 9;; p.
+BS  CATATATAT; R03810; 15; 9;; p.
+BS  GTTTCATAT; R03811; 10; 9;; p.
+BS  TTTTTATAT; R03812; 16; 9;; n.
+BS  TATATATAT; R03813; 28; 9;; p.
+BS  TATTTATTT; R03814; 14; 9;; n.
+BS  TCTTTATTT; R03815; 4; 9;; p.
+BS  TATTTATAG; R08480; 3; 9;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

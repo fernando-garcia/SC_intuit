@@ -1,0 +1,45 @@
+AC  M01989
+XX
+ID  V$CETS2_01
+XX
+DT  14.07.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ets2 (c-ets-2)
+XX
+TY  specific
+XX
+OS  mouse, Mus musculus
+OC  eukaryota; animalia; metazoa; chordata; vertebrata; tetrapoda; mammalia; eutheria; rodentia; myomorpha; muridae; murinae
+XX
+HP  M00340; V$ETS_B; c-Ets-2 binding sites (family).
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T01397; c-Ets-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09489; c-Ets-2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     55      9     27      9      A
+02     14     64     19      3      C
+03     17     79      4      0      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     99      0      0      1      A
+07     63      4      1     32      W
+08     34      3     60      2      R
+09      5     36      6     54      Y
+10     32     19     32     17      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

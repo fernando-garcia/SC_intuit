@@ -1,0 +1,115 @@
+AC  M00930
+XX
+ID  V$OCT1_Q5_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  11.09.2003 (updated); ddt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Oct-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00210; V$OCT_C; Octamer binding site (family).
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T01031; POU2F1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01466; POU2F1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T00642; POU2F1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01157; POU2F1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T10501; POU2F1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00545; POU2F1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08628; POU2F1; Species: Mammalia; site(s) included: no.
+BF  T00959; POU2F1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01192; POU2F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00643; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09214; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19702; POU2F1-isoform1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00641; POU2F1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19701; POU2F1-isoform2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T18695; POU2F1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00644; POU2F1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01862; POU2F1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01863; POU2F1c; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      5      8     32      T
+02     15     10     17     12      N
+03     38      8      0      8      A
+04      5      1      0     48      T
+05      5      1      1     47      T
+06      6      2      3     43      T
+07     11      6     27     10      G
+08      1     51      0      2      C
+09     46      4      0      4      A
+10      2      3      0     49      T
+11     23      4      9     18      W
+XX
+BA  54 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TAATTAGCATA; R00305; -2; 11;; p.
+BS  ATATTTGCATT; R00557; -1; 11;; n.
+BS  TCATTTGCATA; R00664; 1; 11;; n.
+BS  ACATTTGCATA; R00666; -2; 11;; p.
+BS  CGCATGGCATC; R00815; 9; 11;; n.
+BS  GGAATTCCATT; R00820; 2; 11;; n.
+BS  CGTATCTCATT; R00824; 4; 11;; n.
+BS  TTATTTGCATA; R00833; 1; 11;; n.
+BS  TAATTTGCATT; R00838; -2; 11;; p.
+BS  CGATTTGCATA; R00890; -2; 11;; p.
+BS  TGATTTGCATA; R00893; 1; 11;; p.
+BS  TTAATTGCATG; R00932; 1; 11;; p.
+BS  TGTTTTACATA; R00936; -1; 11;; n.
+BS  TCATTTGCATA; R01176; 1; 11;; n.
+BS  TCATTATCATA; R01177; 9; 11;; n.
+BS  TGCTTTGCATA; R01389; 1; 11;; p.
+BS  GAATTTGCATG; R01500; -1; 11;; n.
+BS  CTATTTGCATA; R01504; 1; 11;; n.
+BS  TATTTTACATT; R01635; 9; 11;; p.
+BS  TGATTTGCATG; R01638; 7; 11;; p.
+BS  TGCTTTGCATT; R01682; 10; 11;; n.
+BS  CAATTTGCATG; R01734; -2; 11;; p.
+BS  GAATTGACATC; R01779; 13; 11;; n.
+BS  TCATTAGCATG; R01917; 3; 11;; n.
+BS  TTATTTGCATA; R01933; -2; 11;; p.
+BS  TCATTATCATA; R01989; 5; 11;; n.
+BS  AGATTTCACTT; R02001; -3; 11;; n.
+BS  TGATTTATACT; R02571; 9; 11;; p.
+BS  TGCTTTGCAAT; R02584; 2; 11;; n.
+BS  GATTGGTCCTT; R02732; 1; 11;; p.
+BS  AATTATTCATC; R02736; -1; 11;; n.
+BS  GAATTTGCATT; R02824; 6; 11;; p.
+BS  TTATTTGCATA; R02989; 6; 11;; p.
+BS  TTATTTACATA; R03010; 3; 11;; p.
+BS  GCACTTCCATT; R03014; -2; 11;; p.
+BS  TGATTTGCATG; R03417; 4; 11;; n.
+BS  TACTTTGCATA; R03426; 8; 11;; p.
+BS  TAAATTACACA; R03427; 15; 11;; n.
+BS  TATTTACCACT; R04200; 5; 11;; n.
+BS  ATATCTACTTA; R04201; 1; 11;; n.
+BS  TGCTTTACATG; R04221; -2; 11;; p.
+BS  TTATTTGCTTA; R05017; 10; 11;; p.
+BS  AGATTTGCATT; R05056; 16; 11;; n.
+BS  AAATATTCATT; R08525; -2; 11;; p.
+BS  TTATTTGCATA; R09467; -2; 11;; p.
+BS  TGATTTCCCTA; R13419; -2; 11;; p.
+BS  GACTTTCCATG; R13422; 14; 11;; n.
+BS  TGTTTTTCCAT; R13423; 19; 11;; p.
+BS  TCCTTAACTTT; R13427; 20; 11;; n.
+BS  ACATTTTCTTC; R13428; -1; 11;; p.
+BS  TTATATATATA; C00047,  s00069; 1; 11;; p.
+BS  TTATTTACATA; C00048,  s00072; -2; 11;; p.
+BS  GCATACTCATG; C00049,  s00073; 3; 11;; n.
+BS  AATTATTCATT; C00365,  s00634; 1; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

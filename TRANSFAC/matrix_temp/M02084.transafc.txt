@@ -1,0 +1,95 @@
+AC  M02084
+XX
+ID  V$AML1_Q5
+XX
+DT  24.10.2011 (created); mkl.
+DT  19.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AML1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00769; V$AML_Q6;  (family).
+HP  M00984; V$PEBP_Q6;  (family).
+XX
+BF  T02457; AML1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T01067; AML1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14315; AML1; Species: Mammalia; site(s) included: yes.
+BF  T06598; AML1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02444; AML1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10375; AML1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02256; AML1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02245; AML1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02246; AML1c; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02235; PEBP2alphaB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02241; PEBP2alphaB2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      2      1     41      T
+02      0      1     45      0      G
+03      2      6      1     37      T
+04      0      0     46      0      G
+05      0      0     46      0      G
+06      0      2      4     40      T
+XX
+BA  46 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGCGGT; R01222; 5; 6;; n.
+BS  TGTGGT; R04644; 12; 6;; n.
+BS  TGTGGt; R05024; 6; 6;; p.
+BS  TGTGGT; R05025; 4; 6;; p.
+BS  TGTGGT; R05026; 6; 6;; p.
+BS  TGTGGG; R05028; 1; 6;; p.
+BS  TGTGGG; R14793; 5; 6;; p.
+BS  GGTGGT; R14794; 6; 6;; p.
+BS  TGTGGT; R17046; 9; 6;; p.
+BS  TGTGGT; R18666; 12; 6;; p.
+BS  TGTGGT; R19162; 7; 6;; n.
+BS  TGTGGT; R19732; 14; 6;; n.
+BS  TGTGGT; R20208; 9; 6;; n.
+BS  TGTGGT; R20998; 18; 6;; n.
+BS  TGTGGT; R21196; 1; 6;; p.
+BS  AGTGGT; R23230; 1; 6;; p.
+BS  AGTGGT; R23234; 1; 6;; p.
+BS  TGCGGT; R23517; 11; 6;; n.
+BS  TGTGGT; R23677; 7; 6;; n.
+BS  TGTGGG; R23682; 7; 6;; n.
+BS  TGTGGT; R23683; 9; 6;; p.
+BS  TGTGGG; R23684; 7; 6;; n.
+BS  TGTGGT; R23963; 9; 6;; p.
+BS  TGTGGT; R23964; 8; 6;; p.
+BS  TGTGGT; R24708; 6; 6;; p.
+BS  TGCGGT; R27442; 18; 6;; p.
+BS  TGTGGT; R29095; 6; 6;; n.
+BS  TGTGGT; R30626; 10; 6;; p.
+BS  TGAGGT; R31156; 77; 6;; n.
+BS  TGAGGT; R31157; 77; 6;; n.
+BS  TGTGGC; R31620; 4; 6;; p.
+BS  TGTGGT; R31623; 4; 6;; p.
+BS  TGTGGT; R32326; 10; 6;; p.
+BS  TGTGGT; R33575; 5; 6;; n.
+BS  TGTGGT; R33576; 13; 6;; p.
+BS  TGTGGT; R33719; 15; 6;; n.
+BS  TGCGGT; R33720; 15; 6;; p.
+BS  CGCGGT; R34436; 12; 6;; p.
+BS  TGTGGT; R34464; 15; 6;; p.
+BS  TCTGGT; R34785; 24; 6;; p.
+BS  TGTGGT; R34819; 11; 6;; n.
+BS  TGTGGT; R34822; 8; 6;; p.
+BS  TGGGGT; R35403; 8; 6;; n.
+BS  TGCGGT; R36169; 1; 6;; p.
+BS  TGTGGC; R36171; 1; 6;; p.
+BS  CGTGGT; R36173; 1; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+OV  M00751; V$AML1_Q6.
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

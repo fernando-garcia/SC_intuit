@@ -1,0 +1,63 @@
+AC  M03123
+AS  PL0005
+XX
+ID  N$HLH30_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  20.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  hlh-30
+XX
+DE  class: Zipper-type; family: Helix-Loop-Helix; homodimer
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T22754; hlh-30; Species: Caenorhabditis elegans; site(s) included: yes.
+BF  T22755; hlh-30; Species: Caenorhabditis elegans; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     38     18     16     26      N
+02     21     24     30     22      N
+03     36     11     20     31      N
+04     61      4     23     10      A
+05      5      6      4     83      T
+06      0     96      0      1      C
+07     94      1      1      2      A
+08      0     85      0     13      C
+09     13      0     85      0      G
+10      2      1      1     94      T
+11      1      0     96      0      G
+12     83      4      6      5      A
+13      0     63      0     34      Y
+14     36     21     14     26      N
+15     38     19     18     23      N
+16     28     10     22     39      N
+17     21     25     24     29      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PL0005.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071486.
+RX  PUBMED: 19632181.
+RA  Grove C. A., De Masi F., Barrasa M. I., Newburger D. E., Alkema M. J., Bulyk M. L., Walhout A. J.
+RT  A multiparameter network reveals extensive divergence between C. elegans bHLH transcription factors.
+RL  Cell 138:314-327 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

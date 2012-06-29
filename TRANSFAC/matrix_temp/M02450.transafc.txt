@@ -1,0 +1,47 @@
+AC  M02450
+AS  MA0331
+XX
+ID  F$MCM1_04
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MCM1
+XX
+DE  class: Other Alpha-Helix; family: MADS
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00500; MCM1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01   1692  11356    405    368      C
+02     97  12733      0    971      C
+03   3002   5897   3023   4309      N
+04   6037   2220   3432   3681      N
+05   7789    195    642   5363      W
+06    936    237      0  12586      T
+07   1175   3860    542   9116      T
+08   6619   1176   5947   1957      R
+09    612     32  13102      0      G
+10    117    134  13351     16      G
+11  10592    966    319   2201      A
+12  12477    399    350    475      A
+XX
+BA  13821 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0331.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

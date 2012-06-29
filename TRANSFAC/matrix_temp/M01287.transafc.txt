@@ -1,0 +1,47 @@
+AC  M01287
+XX
+ID  V$NEUROD_01
+XX
+DT  24.08.2009 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Neuro D
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01634; BETA2; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T14426; BETA2; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T08761; BETA2; Species: Mammalia; site(s) included: no.
+BF  T01625; NeuroD; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T09282; NeuroD; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T04546; NeuroD; Species: human, Homo sapiens; site(s) included: no.
+BF  T15230; NeuroD; Species: human, Homo sapiens; site(s) included: no.
+BF  T01626; NeuroD; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09280; NeuroD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05886; NeuroD; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14417; NeuroD; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14436; NeuroD1; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0     20      0      0      C
+02     19      0      1      0      A
+03      0      4     15      1      G
+04      1     15      4      0      C
+05      0      1      0     19      T
+06      0      0     20      0      G
+XX
+BA  20 sequences (ChIP-on-chip)
+XX
+CC  used THEME for ChIP Motifs approach
+XX
+RN  [1]; RE0063828.
+RX  PUBMED: 16332710.
+RA  Macisaac K. D., Gordon D. B., Nekludova L., Odom D. T., Schreiber J., Gifford D. K., Young R. A., Fraenkel E.
+RT  A hypothesis-based approach for identifying the binding specificity of regulatory proteins from chromatin immunoprecipitation data.
+RL  Bioinformatics 22:423-429 (2006).
+XX
+//

@@ -1,0 +1,59 @@
+AC  M01084
+AS  M00692
+XX
+ID  I$ANTP_Q6_01
+XX
+DT  10.02.2006 (created); dtc.
+DT  28.02.2006 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Antp
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T03856; Antp; Species: firebrat, Thermobia domestica; site(s) included: yes.
+BF  T00026; Antp; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T08138; Antp; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T03847; Antp; Species: red flour beetle, Tribolium castaneum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10      1      2      0      A
+02     12      0      1      0      A
+03      5      0      2      6      W
+04      9      1      2      1      A
+05      7      3      2      1      A
+06      5      5      0      3      M
+07      6      7      0      0      M
+08     11      0      0      2      A
+09      0      0      0     13      T
+10      7      0      1      5      W
+11     13      0      0      0      A
+12      4      4      2      3      N
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AAAAGCCATTAG; R02504; 5; 12;; p.
+BS  gaaacacattac; R02505; 3; 12;; n.
+BS  AGGAGCAATTAC; R02506; -2; 12;; p.
+BS  AATAACAATAAA; R02622; 47; 12;; p.
+BS  aattatcattag; R17333; -2; 12;; n.
+BS  aaagtcaattat; R17334; 2; 12;; n.
+BS  GAAACACATAAA; R17338; 1; 12;; p.
+BS  AAAAATATTAAA; R17340; 7; 12;; p.
+BS  AATCAAAATAAT; R17831; 14; 12;; p.
+BS  AAGACCCATAAA; R17832; -4; 12;; p.
+BS  CATAAAAATGAC; R17833; 6; 12;; p.
+BS  aatgaacttaac; R17834; -1; 12;; n.
+BS  aataatcataat; R17835; 8; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0047335.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel101:0001 (2006).
+XX
+//

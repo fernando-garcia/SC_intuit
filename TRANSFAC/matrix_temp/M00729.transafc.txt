@@ -1,0 +1,64 @@
+AC  M00729
+XX
+ID  V$CDX2_Q5
+XX
+DT  02.06.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Cdx-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00991; V$CDX_Q5;  (family).
+XX
+BF  T15980; CDX-2; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15981; CDX-2; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15590; Cdx-2; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T03246; Cdx-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09327; Cdx-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10894; Cdx-2; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T02002; Cdx-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09236; Cdx-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02003; Cdx-3; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T16650; Cdx-3; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      3      0      0      A
+02      3      1      2      3      N
+03      6      1      0      2      A
+04      2      2      3      2      N
+05      1      0      1      7      T
+06      0      2      0      7      T
+07      1      0      0      8      T
+08      2      0      0      7      T
+09      9      0      0      0      A
+10      0      1      0      8      T
+11      2      0      3      4      K
+12      4      0      5      0      R
+13      0      7      0      2      C
+14      2      5      0      2      C
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AAAGTTTTATTGCA; R04239; 3; 14;; n.
+BS  AGTATTTTACAACC; R08848; -4; 14;; p.
+BS  ATAATCTAATTACC; R08849; 29; 14;; p.
+BS  AGACTCTAATTACC; R08850; 31; 14;; p.
+BS  CCACTTTTATGGCC; R08858; 4; 14;; p.
+BS  ATTGTTTTATGGTT; R08859; 3; 14;; p.
+BS  CAAGATTTATGACA; R08873; 7; 14;; p.
+BS  AAATTTATATTGTC; R08875; -2; 14;; p.
+BS  CTCTGTTTATAGCT; R08886; -4; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+PV  M00729; V$CDX2_Q5.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

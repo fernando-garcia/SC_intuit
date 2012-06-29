@@ -1,0 +1,55 @@
+AC  M00495
+XX
+ID  V$BACH1_01
+XX
+DT  20.09.2001 (created); mas.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Bach1
+XX
+DE  BTB and CNC homolog 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T04791; Bach1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09252; Bach1; Species: human, Homo sapiens; site(s) included: no.
+BF  T16600; Bach1; Species: Mammalia; site(s) included: no.
+BF  T04793; Bach1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10676; Bach1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16601; Bach1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04798; Bach1t; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     13      5      7      2      N
+02      6      9      6      6      N
+03      3      9     12      3      S
+04     20      1      6      0      A
+05      0      0      0     27      T
+06      0      0     27      0      G
+07     27      0      0      0      A
+08      0      0     27      0      G
+09      0      0      0     27      T
+10      0     27      0      0      C
+11     27      0      0      0      A
+12      1      3      1     22      T
+13      4      6     14      3      G
+14      7      9      7      4      N
+15      2      7      4     14      T
+XX
+BA  27 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Bach1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0016918.
+RX  PUBMED: 11069897.
+RA  Kanezaki R., Toki T., Yokoyama M., Yomogida K., Sugiyama K., Yamamoto M., Igarashi K., Ito E.
+RT  Transcription factor BACH1 is recruited to the nucleus by its novel alternative spliced isoform
+RL  J. Biol. Chem. 276:7278-7284 (2001).
+XX
+//

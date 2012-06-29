@@ -1,0 +1,76 @@
+AC  M02116
+XX
+ID  V$SOX10_Q6_01
+XX
+DT  24.10.2011 (created); mkl.
+DT  19.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX10
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T04918; Sox10; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08341; Sox10; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10436; Sox10; Species: Mammalia; site(s) included: yes.
+BF  T08334; Sox10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08336; Sox10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08441; Sox10; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      9      5      9      N
+02     22      2      3      5      A
+03      0     32      0      0      C
+04     32      0      0      0      A
+05     28      2      1      1      A
+06     14      2      2     14      W
+07      5      2     19      6      G
+XX
+BA  32 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATCAAGG; R15480; 16; 7;; n.
+BS  GACAATG; R18675; 1; 7;; p.
+BS  AACAAAt; R18676; 10; 7;; n.
+BS  ctcAATT; R18733; 7; 7;; n.
+BS  TACAATG; R18738; 4; 7;; p.
+BS  CACAAAG; R18739; 4; 7;; p.
+BS  cccAACA; R18740; 1; 7;; p.
+BS  GACATAG; R18742; 4; 7;; p.
+BS  TACAAAG; R18743; 4; 7;; p.
+BS  CACAAAG; R18744; 3; 7;; p.
+BS  TACACAG; R18745; 14; 7;; n.
+BS  CACAAAG; R21074; 1; 7;; p.
+BS  AACAATG; R21132; 14; 7;; p.
+BS  TACAATA; R21133; 9; 7;; n.
+BS  TACAATT; R21134; 12; 7;; n.
+BS  CACAAAA; R21421; 10; 7;; p.
+BS  TACAAGG; R21422; 6; 7;; n.
+BS  GACAATG; R27727; 4; 7;; n.
+BS  AGCAATA; R27728; 4; 7;; n.
+BS  GCCAATT; R27788; 4; 7;; n.
+BS  ATCAAAG; R27790; 10; 7;; n.
+BS  TACAAAG; R28022; 1; 7;; n.
+BS  CACAATG; R28030; 8; 7;; p.
+BS  GGCACAC; R29625; 13; 7;; p.
+BS  TGCAGTG; R29626; 23; 7;; n.
+BS  TTCAAAG; R29764; 28; 7;; n.
+BS  AACAACA; R35722; 9; 7;; p.
+BS  CACAATG; R35723; 16; 7;; p.
+BS  CACAAAG; R35724; 10; 7;; p.
+BS  AACAATC; R35725; 21; 7;; p.
+BS  AACAATT; R35726; 9; 7;; p.
+BS  ATCAAAT; R35727; 12; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M01131; V$SOX10_Q6.
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

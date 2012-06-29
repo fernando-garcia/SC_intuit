@@ -1,0 +1,78 @@
+AC  M01237
+XX
+ID  V$TRF1_01
+XX
+DT  05.05.2009 (created); smt.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TRF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15950; (TRF1)2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     11      4     12      Y
+02      0      0      1     27      T
+03     28      0      0      0      A
+04      0      0     28      0      G
+05      0      0     28      0      G
+06      0      0     28      0      G
+07      0      0      0     28      T
+08      0      0      0     28      T
+09     28      0      0      0      A
+10      0      0     28      0      G
+11      0      0     28      0      G
+12      0      0     28      0      G
+13      0      0      0     28      T
+14      0      0      0     28      T
+15     10      4     13      1      R
+XX
+BA  28 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTAGGGTTAGGGTTA; R27499; 19; 15;; p.
+BS  TTAGGGTTAGGGTTG; R27503; 11; 15;; p.
+BS  TTAGGGTTAGGGTTG; R27504; 20; 15;; p.
+BS  TTAGGGTTAGGGTTG; R27505; 19; 15;; p.
+BS  TTAGGGTTAGGGTTC; R27506; 6; 15;; p.
+BS  TTAGGGTTAGGGTTG; R27507; 18; 15;; p.
+BS  TTAGGGTTAGGGTTG; R27508; 20; 15;; p.
+BS  TTAGGGTTAGGGTTC; R27509; 14; 15;; p.
+BS  TTAGGGTTAGGGTTC; R27510; 12; 15;; p.
+BS  TTAGGGTTAGGGTTG; R27511; 13; 15;; p.
+BS  TTAGGGTTAGGGTTA; R27512; 8; 15;; p.
+BS  CTAGGGTTAGGGTTA; R27513; 9; 15;; p.
+BS  GTAGGGTTAGGGTTA; R27514; 17; 15;; p.
+BS  CTAGGGTTAGGGTTA; R27515; 20; 15;; p.
+BS  CTAGGGTTAGGGTTA; R27516; 12; 15;; p.
+BS  CTAGGGTTAGGGTTA; R27517; 7; 15;; p.
+BS  CTAGGGTTAGGGTTA; R27518; 6; 15;; p.
+BS  GTAGGGTTAGGGTTA; R27519; 18; 15;; p.
+BS  GTAGGGTTAGGGTTA; R27520; 16; 15;; p.
+BS  ATAGGGTTAGGGTTT; R27521; 13; 15;; p.
+BS  CTAGGGTTAGGGTTG; R27522; 5; 15;; p.
+BS  CTAGGGTTAGGGTTG; R27523; 16; 15;; p.
+BS  GTAGGGTTAGGGTTC; R27524; 13; 15;; p.
+BS  CTAGGGTTAGGGTTG; R27525; 13; 15;; p.
+BS  CTAGGGTTAGGGTTG; R27526; 17; 15;; p.
+BS  CTAGGGTTAGGGTTG; R27527; 20; 15;; p.
+BS  CTAGGGTTAGGGTTG; R27528; 19; 15;; p.
+BS  TGAGGGTTAGGGTTG; R27530; 20; 15;; p.
+XX
+CC  sequences selected with recombinant TRF1 from a pool of double-stranded oligonucleotides containing a core of 38 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+RN  [2]; RE0062601.
+RX  PUBMED: 10523316.
+RA  Bianchi A., Stansel R. M., Fairall L., Griffith J. D., Rhodes D., de Lange T.
+RT  TRF1 binds a bipartite telomeric site with extreme spatial flexibility.
+RL  EMBO J. 18:5735-5744 (1999).
+XX
+//

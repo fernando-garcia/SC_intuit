@@ -1,0 +1,40 @@
+AC  M01670
+XX
+ID  F$SPT2_01
+XX
+DT  22.02.2010 (created); mkl.
+DT  22.02.2010 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SPT2
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T17398; SPT2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     12      0      1      7      W
+02      7      5      2      6      N
+03      0      0      0     20      T
+04      1      0      0     19      T
+05     14      0      6      0      A
+06     12      3      5      0      A
+07      8      6      6      0      V
+08      0      0     10     10      K
+09     20      0      0      0      A
+10     13      0      7      0      R
+XX
+BA  sequences (ChIP-on-high-density genome-wide array)
+XX
+DR  JASPAR: MA0387.
+XX
+RN  [1]; RE0065640.
+RX  PUBMED: 16522208.
+RA  Macisaac K. D., Wang T., Gordon D. B., Gifford D. K., Stormo G. D., Fraenkel E.
+RT  An improved map of conserved regulatory sites for Saccharomyces cerevisiae.
+RL  BMC Bioinformatics 7:113 (2006).
+XX
+//

@@ -1,0 +1,55 @@
+AC  M02465
+AS  MA0346
+XX
+ID  F$NHP6B_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NHP6B
+XX
+DE  class: Other Alpha-Helix; family: High Mobility Group
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T04603; NHP6B; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    182    304     99    414      N
+02    217    225    216    341      N
+03    135    108    107    647      T
+04    376    208     77    336      N
+05    195    316    111    376      N
+06    154    317    143    384      N
+07    393     69     26    510      W
+08    578     89     51    279      A
+09    169     65     16    749      T
+10    807     32     67     92      A
+11     92     67     32    807      T
+12    749     16     65    169      A
+13    279     51     89    578      T
+14    510     26     69    393      W
+15    461     96    121    320      W
+16    372    106    111    409      W
+17    465     84    336    113      R
+18    202    160    302    334      N
+19    287    120    339    252      N
+20    287    257    252    202      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0346.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

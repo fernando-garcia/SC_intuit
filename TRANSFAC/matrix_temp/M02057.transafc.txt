@@ -1,0 +1,44 @@
+AC  M02057
+XX
+ID  V$ELF5_03
+XX
+DT  06.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Elf5
+XX
+DE  belongs to ETS class IIa
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05415; elf5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05416; elf5-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05417; elf5-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15     58     15     12      C
+02     16     41     39      4      S
+03     32     52     11      5      M
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     89      0      6      5      A
+07     80      4      1     15      A
+08     41     10     46      4      R
+09     30     24      9     38      N
+10     38     18     26     18      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

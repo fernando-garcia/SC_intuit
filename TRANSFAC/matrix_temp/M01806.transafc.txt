@@ -1,0 +1,87 @@
+AC  M01806
+XX
+ID  P$GBF1_01
+XX
+DT  04.10.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GBF1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+HP  M00441; P$GBF_Q2;  (family).
+XX
+BF  T01078; GBF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T15670; GBF1; Species: thale cress, Arabidopsis thaliana; site(s) included: no.
+XX
+P0      A      C      G      T
+01     12      9      0     24      W
+02      0     15     21      9      S
+03     45      0      0      0      A
+04      0     45      0      0      C
+05      1      0     43      1      G
+06      1      0      0     44      T
+07      1      0     44      0      G
+08      0      0     21     24      K
+XX
+BA  45 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CCACGTGG; R32914; 7; 8;; p.
+BS  CCACGTGG; R32915; 3; 8;; p.
+BS  ACACGTGG; R32916; 7; 8;; p.
+BS  ACACGTGG; R32917; 6; 8;; p.
+BS  ACACGTGG; R32918; 7; 8;; p.
+BS  ACACGTGT; R32919; 2; 8;; p.
+BS  ACACGTGT; R32920; 6; 8;; p.
+BS  ACACGTGT; R32921; 3; 8;; p.
+BS  ACACGTGT; R32922; 1; 8;; p.
+BS  ACACGTGT; R32923; 4; 8;; p.
+BS  ACACGTGT; R32924; 4; 8;; p.
+BS  ACACGTGT; R32925; 4; 8;; p.
+BS  ACACGTGT; R32926; 5; 8;; p.
+BS  TGACGTGG; R32927; 7; 8;; p.
+BS  TGACGTGG; R32928; 3; 8;; p.
+BS  TGACGTGG; R32929; 4; 8;; p.
+BS  TGACGTGG; R32930; 7; 8;; p.
+BS  TGACGTGG; R32931; 4; 8;; p.
+BS  TGACGTGG; R32932; 2; 8;; p.
+BS  TGACGTGG; R32933; 4; 8;; p.
+BS  TGACGTGG; R32934; 7; 8;; p.
+BS  TGACGTGG; R32935; 7; 8;; p.
+BS  TGACGTGG; R32936; 2; 8;; p.
+BS  TGACGTGG; R32937; 7; 8;; p.
+BS  TGACGTGT; R32938; 7; 8;; p.
+BS  TGACGTGT; R32939; 4; 8;; p.
+BS  TGACGTGT; R32940; 6; 8;; p.
+BS  TGACGTGT; R32941; 6; 8;; p.
+BS  TGACGTGT; R32942; 4; 8;; p.
+BS  TGACGTGT; R32943; 4; 8;; p.
+BS  TGACGTGT; R32944; 3; 8;; p.
+BS  TGACGTGT; R32945; 3; 8;; p.
+BS  TGACGTGT; R32946; 6; 8;; p.
+BS  CTACGTGG; R32947; 3; 8;; p.
+BS  CTACGTGG; R32948; 3; 8;; p.
+BS  CTACGTGT; R32949; 2; 8;; p.
+BS  CTACGTGT; R32950; 1; 8;; p.
+BS  CTACGTGT; R32951; 1; 8;; p.
+BS  CTACGTGT; R32952; 1; 8;; p.
+BS  TTACGTGT; R32953; 1; 8;; p.
+BS  TTACGTGT; R32954; 2; 8;; p.
+BS  TTACGTGT; R32955; 2; 8;; p.
+BS  CCACTTAG; R32956; 7; 8;; p.
+BS  TGACAAGG; R32957; 7; 8;; p.
+BS  ACACGTGG; R32958; 7; 8;; p.
+XX
+CC  sequences selected with recombinant GBF1 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0009554.
+RX  PUBMED: 1563344.
+RA  Schindler U., Terzaghi W., Beckmann H., Kadesch T., Cashmore A. R.
+RT  DNA binding site preferences and transcriptional activation properties of the Arabidopsis transcription factor GBF1
+RL  EMBO J. 11:1275-1289 (1992).
+XX
+//

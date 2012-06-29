@@ -1,0 +1,54 @@
+AC  M00428
+XX
+ID  V$E2F1_Q3
+XX
+DT  19.02.2001 (created); sth.
+DT  08.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F-1
+XX
+DE  E2F-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00050; V$E2F_02; E2F (family).
+HP  M00803; V$E2F_Q2;  (family).
+HP  M00918; V$E2F_Q3_01;  (family).
+HP  M00919; V$E2F_Q4_01;  (family).
+HP  M00920; V$E2F_Q6_01;  (family).
+HP  M00939; V$E2F_Q4_02;  (family).
+XX
+BF  T02951; E2F-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09329; E2F-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01542; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09117; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09570; E2F-1; Species: Mammalia; site(s) included: no.
+BF  T01543; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09126; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02952; E2F-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09988; E2F-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      4      3      5      N
+02      0      1      5      7      K
+03      2      0      0     11      T
+04      0      7      6      0      S
+05      0      5      8      0      S
+06      0     10      3      0      C
+07      0      3     10      0      G
+08      0      8      4      1      C
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; from 8 genes
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

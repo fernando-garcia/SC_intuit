@@ -1,0 +1,143 @@
+AC  M00976
+XX
+ID  V$AHRHIF_Q6
+XX
+DT  13.02.2004 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AhR, Arnt, HIF-1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00139; V$AHR_01; aryl hydrocarbon / dioxin receptor (specific).
+HC  M00235; V$AHRARNT_01; aryl hydrocarbon receptor:Arnt heterodimers (specific).
+HC  M00236; V$ARNT_01; AhR nuclear translocator homodimers (specific).
+HC  M00237; V$AHRARNT_02; aryl hydrocarbon receptor:Arnt heterodimers, fixed core (specific).
+HC  M00466; V$HIF1_Q5; hypoxia-inducible factor 1 (specific).
+HC  M00539; V$ARNT_02; AhR nuclear translocator homodimers (specific).
+HC  M00778; V$AHR_Q5; aryl hydrocarbon / dioxin receptor (specific).
+HC  M00797; V$HIF1_Q3; hypoxia induced factor (specific).
+HC  M01855; V$AHR_Q6;  (specific).
+HC  M02012; V$HIF1A_Q6;  (specific).
+HC  M02378; V$HIF1AARNT_01; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+XX
+BF  T18742; AHH; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18744; AHH-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18743; AHH-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18745; AHH-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02270; AhR; Species: guinea pig, Cavia porcellus; site(s) included: yes.
+BF  T01795; AhR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08992; AhR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00018; AhR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09051; AhR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05414; AhR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T05398; AhR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00019; AhR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15046; AhR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05429; AhR repressor; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18746; AhR repressor; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18747; AhR repressor; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18748; AhR repressor; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05456; AhR repressor:arnt; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18749; Ahr-xbb2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05424; AhR2; Species: killifish, Fundulus heteroclitus; site(s) included: yes.
+BF  T05394; AhR:arnt; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05395; AhR:arnt; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05397; AhR:arnt; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T01346; arnt; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10835; arnt; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10818; arnt; Species: Mammalia; site(s) included: no.
+BF  T01797; arnt; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01798; arnt; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10933; arnt; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01796; Arnt (774 AA form); Species: human, Homo sapiens; site(s) included: yes.
+BF  T10458; arnt-L; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18790; arnt-S; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05059; arnt2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18787; arnt2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18788; arnt2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01609; HIF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04667; HIF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05404; HIF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01610; HIF-1alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10516; HIF-1alpha; Species: Mammalia; site(s) included: no.
+BF  T04666; HIF-1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05461; HIF-1alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10419; HIF-1alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08994; HIF-1alpha-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18977; HIF-1alpha-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17446; HIF-1alpha-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18978; HIF-1alpha-xbb2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6     10     12     19      N
+02     20      0     27      0      R
+03      1     46      0      0      C
+04      0      0     47      0      G
+05      0      0      0     47      T
+06      0      0     47      0      G
+07     13     22      5      7      N
+08      5     11     25      6      G
+09      9     13     17      8      N
+XX
+BA  47 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGCGTGACA; R00268; 3; 9;; p.
+BS  TGCGTGAGA; R00270; 13; 9;; n.
+BS  TGCGTGAGA; R02651; 12; 9;; p.
+BS  AGCGTGCGT; R02652; 8; 9;; n.
+BS  CGCGTGGAT; R02653; 12; 9;; p.
+BS  CGCGTGAGA; R02654; 8; 9;; n.
+BS  TACGTGCTG; R03219; 5; 9;; p.
+BS  AACGTGCAG; R10172; 7; 9;; n.
+BS  TACGTGGGC; R10227; 8; 9;; p.
+BS  TACGTGCGC; R10350; 21; 9;; n.
+BS  TACGTGCCT; R10395; 9; 9;; p.
+BS  GACGTGACT; R10593; 9; 9;; n.
+BS  GACGTGGGG; R10594; 8; 9;; p.
+BS  TACGTGACG; R10595; 5; 9;; p.
+BS  TGCGTGCGG; R10596; 9; 9;; p.
+BS  CACGTGTAG; R10597; 7; 9;; n.
+BS  GACGTGCGG; R10599; 4; 9;; n.
+BS  GGCGTGCAG; R13159; 1; 9;; n.
+BS  CGCGTGAGA; R13160; 1; 9;; n.
+BS  TGCGTGCGC; R13161; 1; 9;; n.
+BS  TGCGTGAGA; R13162; 1; 9;; n.
+BS  CGCGTGACT; R13163; 3; 9;; p.
+BS  TACGTGTGT; R13214; 14; 9;; n.
+BS  CGCGTGCTG; R13226; 6; 9;; p.
+BS  AGCGTGTTC; R13227; 4; 9;; n.
+BS  GGCGTGTGC; R13228; 5; 9;; n.
+BS  TGCGTGTGT; R13237; 10; 9;; n.
+BS  CGCGTGACG; R13240; 8; 9;; n.
+BS  GGCGTGGCA; R13248; 4; 9;; p.
+BS  GGCGTGCGC; R13260; 5; 9;; p.
+BS  TGCGTGTTT; R13262; 14; 9;; p.
+BS  TGCGTGCCC; R13263; 14; 9;; p.
+BS  TGCGTGACA; R13264; 3; 9;; p.
+BS  CGCGTGCAG; R13268; 3; 9;; p.
+BS  TGCGTGCCC; R13270; 13; 9;; p.
+BS  AGCGTGAGC; R13274; 9; 9;; p.
+BS  TACGTGGGC; R13286; 10; 9;; p.
+BS  GGCGTGCGC; R13287; 11; 9;; p.
+BS  GACGTGCTG; R13288; 6; 9;; p.
+BS  GACGTGACA; R13291; 13; 9;; p.
+BS  AAAGTGCGG; R13296; 6; 9;; p.
+BS  TGCGTGTGG; R13354; -1; 9;; n.
+BS  TACGTGCTG; R13355; 15; 9;; p.
+BS  GACGTGCGG; R13356; 11; 9;; n.
+BS  GACGTGCGC; R13357; 8; 9;; n.
+BS  CACGTGCGC; R13358; 15; 9;; n.
+BS  CACGTGCGG; R13359; 4; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,40 @@
+AC  M01848
+XX
+ID  P$TCP15_01
+XX
+DT  10.02.2011 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TCP15
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T21746; At1g69690; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0     18      0      G
+02      0      1      1     18      T
+03      0      0     20      0      G
+04      0      0     20      0      G
+05      0      0     20      0      G
+06      7      6      3      4      N
+07      0     20      0      0      C
+08      0     20      0      0      C
+09      1     14      4      1      C
+10      7      3      6      4      N
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant TCP15 from a pool of double-stranded oligonucleotides containing a core of 10 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0069370.
+RX  PUBMED: 21241251.
+RA  Viola I. L., Uberti Manassero N. G., Ripoll R., Gonzalez D. H.
+RT  The Arabidopsis class I TCP transcription factor AtTCP11 is a developmental regulator with distinct DNA binding properties due to the presence of threonine at position 15 of the TCP domain.
+RL  Biochem. J. 435:143 (2011).
+XX
+//

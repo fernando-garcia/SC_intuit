@@ -1,0 +1,62 @@
+AC  M00539
+XX
+ID  V$ARNT_02
+XX
+DT  01.03.2002 (created); vma.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Arnt
+XX
+DE  AhR nuclear translocator homodimers
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00976; V$AHRHIF_Q6;  (family).
+XX
+BF  T01346; arnt; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10835; arnt; Species: human, Homo sapiens; site(s) included: no.
+BF  T10818; arnt; Species: Mammalia; site(s) included: no.
+BF  T01797; arnt; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01798; arnt; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10933; arnt; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01796; Arnt (774 AA form); Species: human, Homo sapiens; site(s) included: yes.
+BF  T10458; arnt-L; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18790; arnt-S; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7     16     14      5      N
+02     14     13     12      3      N
+03     14      8     11      9      N
+04     14     12      8      8      N
+05     10      7     15     10      N
+06     15      5     19      3      R
+07      6      0      8     28      T
+08      0     42      0      0      C
+09     42      0      0      0      A
+10      0     42      0      0      C
+11      0      0     42      0      G
+12      0      0      0     42      T
+13      0      0     42      0      G
+14     28      8      0      6      A
+15      3     19      5     15      Y
+16     10     15      7     10      N
+17      8      8     12     14      N
+18      9     11      8     14      N
+19      3     12     13     14      N
+20      5     14     16      7      N
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Arnt from a pool of double-stranded oligonucleotides containing a core of 7 random nucleotides; 4 rounds of selection and amplification; fixed core of 6 nucleotides used
+XX
+RN  [1]; RE0017564.
+RX  PUBMED: 10454619.
+RA  Swanson H. I., Yang J. H.
+RT  Specificity of DNA binding of the c-Myc/Max and ARNT/ARNT dimers at the CACGTG recognition site.
+RL  Nucleic Acids Res. 27:3205-3212 (1999).
+XX
+//

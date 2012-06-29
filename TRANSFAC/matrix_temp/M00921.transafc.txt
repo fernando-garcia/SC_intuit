@@ -1,0 +1,110 @@
+AC  M00921
+XX
+ID  V$GR_Q6_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GR
+XX
+DE  half-site matrix
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00960; V$PR_Q2; half-site matrix (family).
+XX
+BF  T06232; GR; Species: Bolivian squirrel monkey, Saimiri boliviensis boliviensis; site(s) included: yes.
+BF  T00336; GR; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00334; GR; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04685; GR; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T06233; GR; Species: common squirrel monkey, Saimiri sciureus; site(s) included: yes.
+BF  T06234; GR; Species: common tree shrew, Tupaia glis belangeri; site(s) included: yes.
+BF  T06231; GR; Species: cotton-top tamarin, Saguinus oedipus; site(s) included: yes.
+BF  T06226; GR; Species: guinea pig, Cavia porcellus; site(s) included: yes.
+BF  T05076; GR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06228; GR; Species: Japanese flounder, Paralichthys olivaceus; site(s) included: yes.
+BF  T06225; GR; Species: Ma's night monkey, Aotus nancymaae; site(s) included: yes.
+BF  T10446; GR; Species: Mammalia; site(s) included: no.
+BF  T00335; GR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08555; GR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06229; GR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T06230; GR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T06227; GR; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T00333; GR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05075; GR; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T18951; GR-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18950; GR-Abeta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00337; GR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08475; GR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18948; GR-Alpha-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01920; GR-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15248; GR-beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18949; GR-Beta-2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     12      7      4     18      N
+02      9     13     10      9      N
+03      2      0      1     38      T
+04      0      0     40      1      G
+05      0      2      0     39      T
+06      5     11      5     20      Y
+07      0     40      1      0      C
+08      9      7      0     25      T
+XX
+BA  41 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTGTCCT; R00429; -2; 8;; p.
+BS  AATGTTCA; R00579; -2; 8;; p.
+BS  TGTGTTCT; R00973; 1; 8;; n.
+BS  TATGTACA; R00974; -2; 8;; p.
+BS  TTTGTACA; R00977; -2; 8;; p.
+BS  TCTGTTCT; R00984; -2; 8;; n.
+BS  TGTGTCCT; R01030; -2; 8;; p.
+BS  AATGTTCT; R01100; 1; 8;; n.
+BS  GGTTTCCT; R01115; 12; 8;; p.
+BS  ACTGTTCT; R01117; -2; 8;; p.
+BS  AGTGTTCT; R01119; 1; 8;; p.
+BS  TCTGTTCT; R01146; 1; 8;; n.
+BS  TCTGTTCT; R01147; 1; 8;; n.
+BS  GGTGTGGT; R01484; 10; 8;; p.
+BS  CTTGTTCT; R01547; -2; 8;; p.
+BS  TCTGTTCA; R01554; -2; 8;; p.
+BS  TCTGTTCT; R01645; 4; 8;; n.
+BS  ACTGTACA; R01811; 8; 8;; p.
+BS  TGTGTGCC; R03535; -2; 8;; p.
+BS  CCTGTCCC; R03536; -2; 8;; p.
+BS  TGTGTCCT; R03537; -2; 8;; n.
+BS  TTTGTTCT; R03538; 4; 8;; n.
+BS  CATGTGCC; R03539; 4; 8;; n.
+BS  GCTGCACT; R03551; 7; 8;; p.
+BS  ATTGTGCA; R03552; 17; 8;; n.
+BS  CCAGTCCT; R03555; 5; 8;; n.
+BS  TCTGCCCT; R03556; 10; 8;; p.
+BS  ACAGTGCT; R03558; 11; 8;; p.
+BS  TGTGTTCT; R03890; 10; 8;; p.
+BS  AATGTCCT; R03891; 3; 8;; n.
+BS  CGTGTTCT; R12343; 5; 8;; p.
+BS  AATGTTCC; R12353; 20; 8;; p.
+BS  CTGGTACT; R12367; 14; 8;; n.
+BS  CTTGTCCA; R12380; 12; 8;; n.
+BS  GATGTTCT; C00021,  s00029; 8; 8;; p.
+BS  TCTGTTCA; C00042,  s00063; 8; 8;; p.
+BS  AATGTTCC; C00078,  s00116; -1; 8;; n.
+BS  TTTGTCCC; C00130,  s00195; 1; 8;; n.
+BS  AGTGTTCA; C00130,  s00196; 1; 8;; n.
+BS  TTTGTTCT; C00287,  s00497; 8; 8;; p.
+BS  AATGTCCC; C00298,  s00518; 5; 8;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; including 7 TRANSCompel sites
+XX
+PV  M00921; V$GR_Q6_01; half-site matrix
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

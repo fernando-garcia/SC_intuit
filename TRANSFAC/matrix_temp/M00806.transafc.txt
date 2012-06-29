@@ -1,0 +1,175 @@
+AC  M00806
+XX
+ID  V$NF1_Q6_01
+XX
+DT  02.06.2003 (created); dtc.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01196; V$CTF1_01; selection of  the binding sites for CTCF by HOX11 cooperative DNA binding (specific).
+HC  M02103; V$NF1A_Q6;  (specific).
+XX
+BF  T00176; CTF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00177; CTF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00178; CTF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02300; CTF-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02301; CTF-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00537; NF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00599; NF-1/L; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04933; NF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15976; NF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19713; NF-1A; Species: Mammalia; site(s) included: yes.
+BF  T08176; NF-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15519; NF-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00535; NF-1A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02331; NF-1A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00544; NF-1A1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11331; NF-1A1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02296; NF-1A1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02297; NF-1A2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02298; NF-1A3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02299; NF-1A4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11435; NF-1C; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00174; NF-1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09202; NF-1C; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08191; NF-1C; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01907; NF-1C1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00554; NF-1C2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01908; NF-1C4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00539; NF1C-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17687; NFI; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T19125; NFIA1-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19126; NFIA1-xbb2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08177; NFIA2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08178; NFIA2.1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08175; NFIB6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08185; NFIC10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08186; NFIC11; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08183; NFIC1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08184; NFIC1B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08187; NFIC2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10277; NFIC2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08188; NFIC5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08189; NFIC8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08190; NFIC9; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     21     19      9     30      N
+02     14     12     12     41      T
+03     17     11     42      9      G
+04     17      6     47      9      G
+05     25     24     15     15      N
+06     16     21     14     28      N
+07     23     20     16     20      N
+08     21     25     20     13      N
+09     15     20     20     24      N
+10     23     10     13     33      N
+11      1      4     69      5      G
+12      1     74      2      2      C
+13      4     74      1      0      C
+14     73      2      1      3      A
+15     65      0      8      6      A
+16     19     14     27     19      N
+17     31     18     18     12      N
+XX
+BA  79 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACAATTTTTTGGCAAGA; R00078; -8; 17;; p.
+BS  TCGGTTGGCAGCCAATG; R00079; -5; 17;; p.
+BS  TACCATCCTTGCCAAAA; R00095; 2; 17;; n.
+BS  ATGGAATGCAGCCAAAC; R00167; 7; 17;; p.
+BS  TCTCGGCCTTGCCAAGT; R00229; -2; 17;; n.
+BS  CTGGACTAGTGCCAATA; R00312; 3; 17;; p.
+BS  AGGGCAGCGGGCCAACT; R00340; 2; 17;; n.
+BS  TTGGACTATTTCCAATG; R00421; 3; 17;; n.
+BS  CGGAGCCCGGGCCAATC; R00457; 1; 17;; p.
+BS  TCCGCGCCAGCCAATGA; R00521; -8; 17;; p.
+BS  CCAAGTACCCTTCAATC; R00594; -2; 17;; p.
+BS  TTACTTTCTCGCCAACT; R00633; -3; 17;; p.
+BS  GTGAGTAGTTGCCAAAA; R00724; 2; 17;; p.
+BS  TCAGTTTAGTGCCAGAA; R00725; 2; 17;; p.
+BS  TAGGTCGCCTGCCAAGG; R00726; 2; 17;; p.
+BS  TATTGATCTTGCCAATC; R00727; 2; 17;; p.
+BS  CAAAAGCGCTGCCAAAA; R00728; -1; 17;; n.
+BS  TATGTTGTGTGCCAAGG; R00729; 2; 17;; p.
+BS  CAAGTATCTTGCCAACA; R00730; 4; 17;; p.
+BS  GTGGATTGCAGCCAAAG; R00731; 2; 17;; p.
+BS  TCAGCTAGAAGCCAAAA; R00732; -1; 17;; n.
+BS  CACATTTTGTGCCAAAA; R00733; -1; 17;; n.
+BS  TGCCATGCGTGCCAAAT; R00734; 2; 17;; p.
+BS  TGCACTGCTTGCCAACC; R00735; 2; 17;; p.
+BS  ATCACTATGCGCCAACG; R00738; 2; 17;; p.
+BS  GTTAAAACAAGCCAAAA; R00739; -1; 17;; n.
+BS  TAAACCTTATGCCAAAT; R00740; -1; 17;; n.
+BS  AACTTCTAAGGCCAACT; R00741; 2; 17;; p.
+BS  TTGCAATAGTGCCAGCG; R00744; -1; 17;; n.
+BS  AGTTGTACAAGCCAAGT; R00746; -1; 17;; n.
+BS  CTCTGATTGGTCCAAGG; R00761; -5; 17;; p.
+BS  TGAGCCAATCACCGAGC; R00768; -7; 17;; n.
+BS  CTGGCACATGGCCAATG; R00789; -1; 17;; p.
+BS  ATGGCTAATGGCCAATA; R00790; -1; 17;; p.
+BS  ATGGCCAATAGCCAATA; R00791; -1; 17;; p.
+BS  TTGGACATGAGCCAATA; R00792; 1; 17;; p.
+BS  TTGATGTACTGCCAAGT; R00799; 1; 17;; n.
+BS  GTAGGAAAGTCCCATAA; R00802; -8; 17;; n.
+BS  TTGATGTACTGCCAAAA; R00803; 1; 17;; n.
+BS  TTGGCTATATGCCAATA; R00809; 1; 17;; p.
+BS  ATGGCTGCCAGCCAAGC; R00951; 3; 17;; p.
+BS  GTGGAAAGCAGCCAAGG; R00953; 2; 17;; p.
+BS  GCGAGCCAATGGGAAGG; R00956; -4; 17;; p.
+BS  TTGGATAGATTCCAAAA; R01125; -2; 17;; n.
+BS  CTGAATATGGGCCAAAC; R01136; -1; 17;; p.
+BS  CCGGCTCAGGGCCAAGA; R01144; -1; 17;; p.
+BS  TGGGCGCCTTGCCAGTT; R01162; 4; 17;; n.
+BS  TTGGATTGAAGCCAATA; R01175; 1; 17;; p.
+BS  TTGGATCATAGCCATGG; R01213; -3; 17;; n.
+BS  ATGGCGCGCAGCCAATG; R01311; -1; 17;; p.
+BS  CTCTGGCATTCCCTACA; R01322; -3; 17;; p.
+BS  CTGGCCAGCAGCCAACC; R01367; 2; 17;; p.
+BS  ATTAGCCAATGACAAGA; R01443; -7; 17;; n.
+BS  AGATCCCCTGGCACATT; R01624; -5; 17;; p.
+BS  AGGGCAGGGCGCCAAGC; R01752; 2; 17;; p.
+BS  ATGGAATGCAGCCAAAC; R01774; -1; 17;; p.
+BS  AGGGCAAGGTGCCCAGA; R02009; 1; 17;; n.
+BS  TAGGCAATTTGCCAATA; R02045; 7; 17;; n.
+BS  CCATATGCGTGCCATGA; R02705; 5; 17;; n.
+BS  TGGGTCCTGCTCCAAGA; R02945; 3; 17;; n.
+BS  GTTACTTCTCGCCAATG; R02990; 1; 17;; n.
+BS  AAGGAAGGCAGCCAGCA; R02991; 3; 17;; n.
+BS  TTCTTGGCAAGCCATGC; R03106; -3; 17;; p.
+BS  AAGGACCACAGCCAACT; R03111; -1; 17;; p.
+BS  CTGGCGGCAAGCCAAGA; R03127; 2; 17;; p.
+BS  AAATGCGTTCGCCAAAA; R03434; -8; 17;; p.
+BS  CTGGTCTGCAGCCAAGG; R03993; -1; 17;; p.
+BS  CTGGGTACCCGCCAATC; R03994; -1; 17;; p.
+BS  ACTGCCCACGGCCAAGG; R03995; -2; 17;; p.
+BS  CTGGGGGGCGGCCAGCC; R04124; 4; 17;; n.
+BS  TGCAAACTTGGCATAGC; R04187; 1; 17;; p.
+BS  ATAGACCATAGCCAACT; R04482; -2; 17;; n.
+BS  CTAGATACGTGCCAGTC; R04483; -2; 17;; n.
+BS  ATGGAGAAGACCCAAAA; R04484; -1; 17;; p.
+BS  TAAGCGCGTTGCCAAGC; R04515; 1; 17;; p.
+BS  TTTCTGGCATGTCTGCC; R13218; 6; 17;; n.
+BS  GCAGGTGCCAGCAAGAG; R13219; 7; 17;; p.
+BS  GTGGACAGATGCCAAGG; C00001,  s00002; -1; 17;; p.
+BS  CTGGACAGTCGCCATGA; C00310,  s00541; -3; 17;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; includes 2 TRANSCompel sites
+XX
+RN  [1]; RE0023232.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0002 (2003).
+RN  [2]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

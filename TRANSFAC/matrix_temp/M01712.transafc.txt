@@ -1,0 +1,85 @@
+AC  M01712
+XX
+ID  V$CRX_Q4_01
+XX
+DT  26.04.2010 (created); dtc.
+DT  01.05.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CRX
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00623; V$CRX_Q4;  (family).
+XX
+BF  T03489; Crx; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T17536; crx; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02792; Crx; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09164; Crx; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03461; Crx; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11402; Crx; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03458; Crx; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11399; Crx; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4     15      5     15      Y
+02      0      0      0     39      T
+03     38      0      1      0      A
+04     39      0      0      0      A
+05      2      1      3     33      T
+06      2     29      2      6      C
+XX
+BA  39 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTAATC; R09044; 6; 6;; p.
+BS  GTAATC; R09045; 6; 6;; p.
+BS  CTAATC; R09046; 6; 6;; p.
+BS  GTAATT; R09047; 6; 6;; p.
+BS  CTAATC; R09048; 6; 6;; p.
+BS  CTAATT; R09049; 6; 6;; p.
+BS  ataatc; R09050; 8; 6;; n.
+BS  GTAATT; R09051; 6; 6;; p.
+BS  ctaatc; R09052; 8; 6;; n.
+BS  ttaatc; R09055; 8; 6;; n.
+BS  gtaatc; R09056; 8; 6;; n.
+BS  ttaatc; R09104; 6; 6;; n.
+BS  TTAAgc; R09105; 9; 6;; p.
+BS  ctaagc; R09106; 10; 6;; n.
+BS  ctaaac; R09107; 4; 6;; n.
+BS  ttaatc; R09108; 30; 6;; n.
+BS  TTAATA; R09109; 3; 6;; p.
+BS  gtaaat; R09110; 10; 6;; n.
+BS  TTAATG; R09111; 3; 6;; p.
+BS  ATAATC; R09112; 7; 6;; p.
+BS  TTAATC; R09114; 9; 6;; p.
+BS  ctaatg; R09115; 9; 6;; n.
+BS  ATAACa; R09116; 18; 6;; p.
+BS  ttgatc; R09117; 7; 6;; n.
+BS  ctaatc; R09118; 19; 6;; n.
+BS  CTAATC; R09119; 7; 6;; p.
+BS  ctaatt; R12735; 9; 6;; n.
+BS  ttaatc; R30067; 12; 6;; n.
+BS  ctaagc; R30069; 5; 6;; n.
+BS  ttaatt; R30070; 18; 6;; n.
+BS  ATAATC; R30128; 17; 6;; p.
+BS  TTAATC; R30129; 20; 6;; p.
+BS  TTAATC; R30150; 3; 6;; p.
+BS  TTAATC; R30155; 8; 6;; p.
+BS  CTAATC; R30157; 8; 6;; p.
+BS  CTAATC; R30160; 7; 6;; p.
+BS  CTAATC; R30163; 8; 6;; p.
+BS  ttaatc; R30516; 16; 6;; n.
+BS  ttaatc; R30517; 7; 6;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+OV  M00623; V$CRX_Q4.
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

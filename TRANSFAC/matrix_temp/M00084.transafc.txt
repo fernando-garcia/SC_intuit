@@ -1,0 +1,68 @@
+AC  M00084
+XX
+ID  V$MZF1_02
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MZF1
+XX
+DE  MZF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T09481; MZF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14260; MZF-1; Species: Mammalia; site(s) included: no.
+BF  T08516; MZF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08517; MZF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14541; MZF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17573; MZF1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00529; MZF1B-C; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      1      7      6      K
+02      3      2      7      4      N
+03      4      1      8      3      G
+04      2      4      4      6      N
+05      0      0     10      6      K
+06     13      0      3      0      A
+07      1      0     12      3      G
+08      0      0     15      1      G
+09      1      1     14      0      G
+10      1      0     13      2      G
+11      3      4      7      2      N
+12     11      0      2      3      A
+13     10      3      2      1      A
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TCTTTATGGGGAT; R06263; 5; 13;; p.
+BS  GCTGGAGTGGGGA; R06264; 8; 13;; p.
+BS  CGGGGATGCTTAA; R06265; 1; 13;; p.
+BS  TGGGGATGGTCAA; R06266; 1; 13;; p.
+BS  TAACTAGGGGCAC; R06267; 10; 13;; p.
+BS  GAACTAGGGGATC; R06268; 4; 13;; p.
+BS  GTCTGAGGGGAAC; R06269; 7; 13;; p.
+BS  TTACGAGGGGGAA; R06270; 8; 13;; p.
+BS  GTGCTAGGGGGAA; R06271; 1; 13;; p.
+BS  GGGAGAAGGGGAA; R06272; 1; 13;; p.
+BS  TGTAGGGGGGGTA; R06273; 2; 13;; p.
+BS  TGGTGAGGGGGGA; R06274; 4; 13;; p.
+BS  AGGGGGGGGGAAA; R06275; 3; 13;; p.
+BS  GTGTTAGGGGTAG; R06276; 3; 13;; p.
+BS  GGGTTAGGGACTG; R06277; 6; 13;; p.
+BS  AAATGGGGAGCAA; R06278; 4; 13;; p.
+XX
+CC  sequences selected with recombinant MZF1 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0002961.
+RX  PUBMED: 8114711.
+RA  Morris J. F., Hromas R., Rauscher III F. J.
+RT  Characterization of the DNA-binding properties of the myeloid zinc finger protein MZF1: two independent DNA-binding domains recognize two DNA consensus sequences with a common G-rich core
+RL  Mol. Cell. Biol. 14:1786-1795 (1994).
+XX
+//

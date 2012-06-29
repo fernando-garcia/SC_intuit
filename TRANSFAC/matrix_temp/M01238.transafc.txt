@@ -1,0 +1,66 @@
+AC  M01238
+XX
+ID  I$DEAF_01
+XX
+DT  06.05.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DEAF
+XX
+DE  deformed epidermal autoregulatory factor 1
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T15951; Deaf1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      4      6      8      N
+02      2      0      0     20      T
+03      4     13      4      1      C
+04      2      0     19      1      G
+05      1      2     19      0      G
+06      2      9      5      6      N
+07      3      5      2     12      T
+XX
+BA  22 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTCGGCT; R27540; 17; 7;; p.
+BS  ATCGGCA; R27541; 2; 7;; p.
+BS  GTCGGGT; R27542; 11; 7;; p.
+BS  ATCGGGT; R27543; 2; 7;; p.
+BS  GTCGGAG; R27544; 11; 7;; p.
+BS  CTCGGTG; R27545; 7; 7;; p.
+BS  TTGGGCA; R27546; 19; 7;; p.
+BS  ATGGGTT; R27547; 17; 7;; p.
+BS  GTGGGGC; R27548; 11; 7;; p.
+BS  GTGGGGA; R27549; 1; 7;; p.
+BS  TTAGGCT; R27550; 13; 7;; p.
+BS  TTAGGCC; R27551; 15; 7;; p.
+BS  TTAGGAC; R27552; 17; 7;; p.
+BS  TTTGGTC; R27553; 15; 7;; p.
+BS  GTAGGTT; R27554; 11; 7;; p.
+BS  CTCTGCT; R27555; 4; 7;; p.
+BS  TTCAGCT; R27556; 6; 7;; p.
+BS  TTCGCTT; R27557; 9; 7;; p.
+BS  GTCGATT; R27558; 2; 7;; p.
+BS  CACAGCT; R27559; 16; 7;; p.
+BS  ATCGCCC; R27560; 18; 7;; p.
+BS  CACGGGT; R27561; 14; 7;; p.
+XX
+CC  sequences selected with recombinant DEAF from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+RN  [2]; RE0062576.
+RX  PUBMED: 18550807.
+RA  Reed D. E., Huang X. M., Wohlschlegel J. A., Levine M. S., Senger K.
+RT  DEAF-1 regulates immunity gene expression in Drosophila.
+RL  Proc. Natl. Acad. Sci. USA 105:8351-8356 (2008).
+XX
+//

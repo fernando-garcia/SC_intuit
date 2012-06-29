@@ -1,0 +1,57 @@
+AC  M01468
+XX
+ID  V$DLX2_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Dlx-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02407; Dlx-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T11300; Dlx-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T18317; Dlx-2; Species: Mammalia; site(s) included: yes.
+BF  T02009; Dlx-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10563; Dlx-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02408; Dlx-2; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T11279; Dlx-2; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.33   0.29   0.34   0.04      N
+02   0.27   0.24   0.38   0.11      N
+03   0.31   0.08   0.31   0.30      N
+04   0.49   0.09   0.31   0.11      R
+05   0.01   0.29   0.00   0.69      T
+06   0.97   0.01   0.01   0.01      A
+07   0.98   0.00   0.00   0.01      A
+08   0.01   0.00   0.00   0.98      T
+09   0.01   0.01   0.01   0.97      T
+10   0.69   0.00   0.29   0.01      A
+11   0.08   0.37   0.28   0.27      N
+12   0.30   0.31   0.08   0.31      N
+13   0.18   0.32   0.08   0.42      N
+14   0.25   0.44   0.12   0.19      N
+15   0.62   0.11   0.15   0.12      A
+16   0.17   0.19   0.45   0.19      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0021.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

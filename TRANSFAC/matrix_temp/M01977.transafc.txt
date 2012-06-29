@@ -1,0 +1,45 @@
+AC  M01977
+XX
+ID  V$ESE1_01
+XX
+DT  06.07.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ESE-1
+XX
+DE  belongs to ETS class IIa
+XX
+TY  specific
+XX
+OS  mouse, Mus musculus
+OC  eukaryota; animalia; metazoa; chordata; vertebrata; tetrapoda; mammalia; eutheria; rodentia; myomorpha; muridae; murinae
+XX
+BF  T08074; ESE-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15555; ESE-1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     23     42     24     11      N
+02     19     50     29      3      S
+03     31     60      7      2      M
+04      2      0     98      0      G
+05      0      0    100      0      G
+06     97      0      1      2      A
+07     77      4      1     18      A
+08     45      6     47      2      R
+09      9     29      6     56      Y
+10     45     15     25     15      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+DR  JASPAR: PB0012.
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

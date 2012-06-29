@@ -1,0 +1,55 @@
+AC  M01340
+XX
+ID  V$BARX1_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Barx1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03934; Barx1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T03918; Barx1; Species: human, Homo sapiens; site(s) included: no.
+BF  T15065; Barx1; Species: human, Homo sapiens; site(s) included: no.
+BF  T02403; Barx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15064; Barx1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.50   0.26   0.09   0.14      M
+02   0.49   0.24   0.12   0.16      N
+03   0.53   0.06   0.39   0.03      R
+04   0.18   0.30   0.44   0.08      N
+05   0.01   0.46   0.00   0.53      Y
+06   0.93   0.05   0.02   0.00      A
+07   0.98   0.01   0.00   0.00      A
+08   0.00   0.00   0.01   0.98      T
+09   0.00   0.02   0.05   0.93      T
+10   0.53   0.00   0.46   0.01      R
+11   0.06   0.39   0.40   0.15      S
+12   0.03   0.39   0.06   0.53      Y
+13   0.25   0.21   0.30   0.25      N
+14   0.38   0.23   0.16   0.23      N
+15   0.56   0.08   0.15   0.21      A
+16   0.31   0.14   0.08   0.46      W
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0007.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

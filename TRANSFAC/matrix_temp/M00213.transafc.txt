@@ -1,0 +1,40 @@
+AC  M00213
+XX
+ID  F$RAP1_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RAP1p
+XX
+DE  yeast repressor/activator protein 1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00715; RAP1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   6.89    2.4   0.79   4.74      W
+02    8.8      0   4.58   1.43      R
+03    7.2   6.83   0.79      0      M
+04  14.82      0      0      0      A
+05      0  14.82      0      0      C
+06      0  14.82      0      0      C
+07      0  14.82      0      0      C
+08  14.82      0      0      0      A
+09   2.13   0.67   2.87   9.15      T
+10  11.92   0.76   1.49   0.64      A
+11   0.76  14.06      0      0      C
+12  11.45   3.36      0      0      A
+13   0.79   5.64      0    7.1      Y
+14   1.64   7.18   1.61   4.39      Y
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0.03, total weight of sequences: 14.82)
+XX
+//

@@ -1,0 +1,94 @@
+AC  M00471
+XX
+ID  V$TBP_01
+XX
+DT  04.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBP
+XX
+DE  TATA binding protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02111; TBP; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T00794; TBP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08520; TBP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14175; TBP; Species: Mammalia; site(s) included: no.
+BF  T00796; TBP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08953; TBP; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16554; TBP; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      4      9     31      T
+02     34      0      6      7      A
+03      0      0      0     47      T
+04     47      0      0      0      A
+05     47      0      0      0      A
+06     40      1      4      2      A
+07      3      3      6     35      T
+08     21      4      4     18      W
+XX
+BA  47 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TATAAAGC; R10795; 4; 8;; p.
+BS  TATAAATA; R10796; 4; 8;; p.
+BS  TATAAAAG; R10797; 4; 8;; p.
+BS  TATAAGTT; R10798; 4; 8;; p.
+BS  TATAATCA; R10799; 4; 8;; p.
+BS  TATAAAAG; R10800; 4; 8;; p.
+BS  TATAAAAG; R10801; 4; 8;; p.
+BS  TATAAAGT; R10802; 4; 8;; p.
+BS  TATAAATT; R10803; 4; 8;; p.
+BS  TATAAATA; R10804; 4; 8;; p.
+BS  TATAAACG; R10805; 4; 8;; p.
+BS  TATAAACA; R10806; 4; 8;; p.
+BS  TATAAGGT; R10807; 4; 8;; p.
+BS  TATAACGC; R10808; 4; 8;; p.
+BS  TATAAATT; R10809; 4; 8;; p.
+BS  TATAAAGA; R10810; 4; 8;; p.
+BS  TATAAATT; R10811; 4; 8;; p.
+BS  TATAAGTT; R10812; 4; 8;; p.
+BS  TATAAATA; R10813; 4; 8;; p.
+BS  TATAAGGA; R10814; 4; 8;; p.
+BS  TATAAATA; R10815; 4; 8;; p.
+BS  TATAATTT; R10816; 4; 8;; p.
+BS  TATAAATA; R10817; 2; 8;; p.
+BS  GATAAATT; R10818; 2; 8;; p.
+BS  GGTAAATA; R10819; 2; 8;; p.
+BS  GATAAATA; R10820; 2; 8;; p.
+BS  TTTAAATC; R10821; 2; 8;; p.
+BS  CTTAAATT; R10822; 2; 8;; p.
+BS  TATAAATT; R10823; 2; 8;; p.
+BS  CTTAAATT; R10824; 2; 8;; p.
+BS  CTTAAATA; R10825; 2; 8;; p.
+BS  GGTAAATA; R10826; 2; 8;; p.
+BS  CGTAAATA; R10827; 2; 8;; p.
+BS  TATAAATA; R10828; 2; 8;; p.
+BS  AATAAATA; R10829; 2; 8;; p.
+BS  GGTAAATA; R10830; 2; 8;; p.
+BS  GGTAAATA; R10831; 2; 8;; p.
+BS  ATTAAATT; R10832; 2; 8;; p.
+BS  GATAAATA; R10833; 2; 8;; p.
+BS  TTTAAATC; R10834; 2; 8;; p.
+BS  TATAAATT; R10835; 2; 8;; p.
+BS  TATAAATT; R10836; 2; 8;; p.
+BS  TATAAATA; R10837; 2; 8;; p.
+BS  GTTAAATT; R10838; 2; 8;; p.
+BS  TATAAATA; R10839; 2; 8;; p.
+BS  AATAAATT; R10840; 2; 8;; p.
+BS  GGTAAATT; R10841; 2; 8;; p.
+XX
+CC  sequences selected with recombinant TBP from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 10 rounds of selection and amplification
+XX
+RN  [1]; RE0016807.
+RX  PUBMED: 9241250.
+RA  Hardenbol P., Wang J. C., van Dyke M. W.
+RT  Identification of preferred hTBP DNA binding sites by the combinatorial method REPSA
+RL  Nucleic Acids Res. 25:3339-3344 (1997).
+XX
+//

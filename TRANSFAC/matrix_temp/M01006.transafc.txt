@@ -1,0 +1,62 @@
+AC  M01006
+XX
+ID  P$AGP1_01
+XX
+DT  22.07.2004 (created); rhe_cga.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AGP1
+XX
+DE  AG-motif binding protein 1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T06043; AGP1; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      5      1      8      N
+02      2     10      3      4      C
+03     19      0      0      0      A
+04      0      0     19      0      G
+05     19      0      0      0      A
+06      0      0      0     19      T
+07      0     19      0      0      C
+08      0      4      0     15      T
+09     14      0      3      2      A
+10      4      5      5      5      N
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TCAGATCTAA; R15326; 1; 10;; p.
+BS  ACAGATCTAG; R15327; 19; 10;; p.
+BS  ACAGATCTAG; R15328; 7; 10;; p.
+BS  TTAGATCTAG; R15329; 19; 10;; p.
+BS  CAAGATCTAA; R15330; 9; 10;; p.
+BS  CGAGATCTGA; R15331; 18; 10;; p.
+BS  TGAGATCTTC; R15332; 12; 10;; p.
+BS  CGAGATCTAC; R15333; 14; 10;; p.
+BS  GTAGATCTAT; R15334; 23; 10;; p.
+BS  ATAGATCTAT; R15335; 13; 10;; p.
+BS  ACAGATCTAT; R15336; 9; 10;; p.
+BS  CAAGATCTAC; R15337; 2; 10;; p.
+BS  TCAGATCTGT; R15338; 18; 10;; p.
+BS  TCAGATCTAT; R15339; 17; 10;; p.
+BS  TCAGATCTAC; R15340; 1; 10;; p.
+BS  TCAGATCCTG; R15341; 23; 10;; p.
+BS  CTAGATCCGG; R15342; 24; 10;; p.
+BS  TCAGATCCAC; R15343; 1; 10;; p.
+BS  ACAGATCCAA; R15344; 20; 10;; p.
+XX
+CC  sequences selected with recombinant AGP1 from a pool of double-stranded oligonucleotides containing a core of 28 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0024482.
+RX  PUBMED: 14617085.
+RA  Sugimoto K., Takeda S., Hirochika H.
+RT  Transcriptional activation mediated by binding of a plant GATA-type zinc finger protein AGP1 to the AG-motif (AGATCCAA) of the wound-inducible Myb gene NtMyb2.
+RL  Plant J. 36:550-564 (2003).
+XX
+//

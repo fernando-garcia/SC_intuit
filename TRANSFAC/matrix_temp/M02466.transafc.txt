@@ -1,0 +1,55 @@
+AC  M02466
+AS  MA0347
+XX
+ID  F$NRG1_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NRG1
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03516; NRG1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    181    404    143    271      N
+02    243    225    199    332      N
+03    293    250    278    177      N
+04    259    239    262    238      N
+05    419    112    269    198      N
+06    213    255     92    439      N
+07    455    488      9     46      M
+08    960      3     36      0      A
+09      2      1    991      4      G
+10      2      1    993      2      G
+11     11      0    986      1      G
+12     71     11      2    915      T
+13      4    928      2     63      C
+14      3    820      3    173      C
+15    503     87     39    369      W
+16    245    202    239    311      N
+17    124    303    269    302      N
+18    224     67    548    159      G
+19    206    400    228    163      N
+20    325    171    233    269      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0347.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

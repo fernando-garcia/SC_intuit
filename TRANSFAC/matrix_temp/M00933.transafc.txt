@@ -1,0 +1,202 @@
+AC  M00933
+XX
+ID  V$SP1_Q2_01
+XX
+DT  31.08.2003 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sp1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00008; V$SP1_01; stimulating protein 1 (specific).
+HC  M00196; V$SP1_Q6; stimulating protein 1 (specific).
+HC  M00665; V$SP3_Q3;  (specific).
+HC  M01273; V$SP4_Q5;  (specific).
+HC  M01303; V$SP1_02; Sp1 b.s. (specific).
+HC  M01783; V$SP2_01;  (specific).
+HC  M02281; V$SP1_03; class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger (specific).
+HC  M02810; V$SP4_03; class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger (specific).
+HC  M02914; V$SP4_04; class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger (specific).
+XX
+BF  T05998; Sp1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T10962; Sp1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00755; Sp1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10284; Sp1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T14185; Sp1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T00758; Sp1; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T10533; Sp1; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00753; Sp1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T16552; Sp1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T01228; Sp1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00759; Sp1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08484; Sp1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08326; Sp1; Species: Mammalia; site(s) included: no.
+BF  T10324; Sp1; Species: mink, Mustela vison; site(s) included: yes.
+BF  T00757; Sp1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00752; Sp1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05704; Sp1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00754; Sp1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09431; Sp1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18600; Sp1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T09118; Sp1-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11472; Sp1-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02356; Sp2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08457; Sp2; Species: Mammalia; site(s) included: no.
+BF  T06543; Sp2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06542; Sp2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05999; Sp3; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02419; Sp3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T18023; Sp3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17642; sp3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T16553; Sp3; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T02338; Sp3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08327; Sp3; Species: Mammalia; site(s) included: no.
+BF  T10272; Sp3; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T05840; Sp3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10188; Sp3; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T02453; Sp3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18474; Sp3; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T09426; Sp3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19262; Sp3-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19256; Sp3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19261; Sp3-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19257; Sp3-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19260; Sp3-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19258; Sp3-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19259; Sp3-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09483; Sp3-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02339; sp4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09476; sp4; Species: Mammalia; site(s) included: no.
+BF  T02414; sp4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02456; sp4; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9     71     10     13      C
+02      3     75     10     15      C
+03     10     93      0      0      C
+04      6     88      5      4      C
+05     16      3     61     23      G
+06      1    102      0      0      C
+07      0    103      0      0      C
+08      0     89      0     14      C
+09     21     62      5     15      C
+10      9     49     21     24      N
+XX
+BA  103 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTCCACCCCT; R00191; 1; 10;; p.
+BS  CCACGCCTCC; R00275; 8; 10;; n.
+BS  CCCCGCCCCA; R00315; 6; 10;; n.
+BS  CGAGTCCCCG; R00385; 7; 10;; p.
+BS  TCCCGCCCAG; R00447; -2; 10;; p.
+BS  CTCCACCCAT; R00560; 6; 10;; p.
+BS  CCACGCCTCC; R00704; -3; 10;; n.
+BS  TTCCGCCCAT; R01375; -2; 10;; n.
+BS  CTCCGCCCAG; R01381; -2; 10;; n.
+BS  CCCCGCCCAT; R01442; 2; 10;; p.
+BS  CGCCGCCCCG; R01444; -1; 10;; n.
+BS  CCACACCCAG; R01484; 7; 10;; n.
+BS  ACCACCCTCG; R01694; 13; 10;; n.
+BS  CGCCGCCCCC; R01728; -2; 10;; p.
+BS  CCCTGCCCTC; R01753; -3; 10;; n.
+BS  CCCCTCCCCC; R01754; 1; 10;; n.
+BS  CCCTGCCCCC; R01755; -3; 10;; p.
+BS  CCCCTCCCCA; R01756; 2; 10;; p.
+BS  CCCCTCCCCT; R01758; 3; 10;; p.
+BS  GCCCTCCTGG; R01761; 4; 10;; p.
+BS  CCCCACCCCT; R01762; 4; 10;; p.
+BS  ACCCGCCCCG; R01763; 2; 10;; p.
+BS  CCCCGCCCCA; R01764; -1; 10;; n.
+BS  CCCCGCCCCC; R01769; 3; 10;; n.
+BS  TGCCGCCCCC; R01770; -1; 10;; n.
+BS  CCCCACCCTG; R02010; -1; 10;; p.
+BS  CCCCTCCTCT; R02013; 6; 10;; n.
+BS  CCCCGCCCAC; R02381; 2; 10;; p.
+BS  TCCCTCCCCT; R02423; 3; 10;; n.
+BS  CGCCTCCCCC; R02424; 9; 10;; p.
+BS  GCCCACCCCT; R02426; 5; 10;; n.
+BS  TCCAGCCCCA; R02428; 6; 10;; n.
+BS  TCCCGCCCCC; R02432; 9; 10;; p.
+BS  TCCCGCCCTT; R02433; 7; 10;; p.
+BS  CCCGTCCCCT; R02435; 8; 10;; p.
+BS  ACCCGCCTTC; R02436; 9; 10;; p.
+BS  ACACGCCCCT; R02438; 6; 10;; n.
+BS  CCCCTCCCCT; R02439; 6; 10;; n.
+BS  CCCCGCCCGC; R02440; 5; 10;; n.
+BS  AACCACCCAT; R02704; 2; 10;; p.
+BS  CTCCACCCAC; R02850; 5; 10;; n.
+BS  CGCCGCCCCG; R02857; -1; 10;; n.
+BS  CCCCGCCCGC; R02858; 4; 10;; n.
+BS  GCCCGCCCAG; R02859; -1; 10;; n.
+BS  CTCCGCCTCC; R02860; -2; 10;; n.
+BS  CCCGGCCCCC; R02873; 10; 10;; n.
+BS  CCCCACCCCC; R03041; 1; 10;; p.
+BS  CCCGGCCCCC; R03051; -1; 10;; n.
+BS  CCCCGCCCCC; R03052; -1; 10;; n.
+BS  CCCTGCCCCC; R03053; 2; 10;; p.
+BS  CTCCACCCCT; R03118; 6; 10;; p.
+BS  CCACACCCCT; R03367; 11; 10;; p.
+BS  CCCTGCCCTC; R03373; 6; 10;; p.
+BS  CTCCTCCCCT; R03486; 9; 10;; p.
+BS  CACCGCCCCC; R04005; 1; 10;; n.
+BS  CCCCGCCCCC; R04007; 7; 10;; n.
+BS  CCCCGCCTTC; R04008; 5; 10;; n.
+BS  CCCCGCCCAC; R04009; 10; 10;; n.
+BS  CCACGCCCAC; R04025; 1; 10;; n.
+BS  CTCCGCCTCC; R04282; 4; 10;; n.
+BS  CCCCTCCCCT; R04421; 10; 10;; n.
+BS  TCCCTCCTCT; R04422; 6; 10;; n.
+BS  CGCCTCCCTC; R04426; -4; 10;; n.
+BS  CGCCGCCCAG; R04431; -1; 10;; n.
+BS  CTCCTCCCCC; R04493; 10; 10;; p.
+BS  TCCCTCCCCC; R04625; 5; 10;; p.
+BS  CCCCTCCCAC; R04669; 10; 10;; p.
+BS  CCCCGCCCCC; R04679; 3; 10;; n.
+BS  CCCCGCCCCC; R04680; 1; 10;; n.
+BS  GCCCGCCCAA; R04701; 4; 10;; p.
+BS  CTCCGCCCTC; R04716; 21; 10;; p.
+BS  CCACGCCCCG; R04734; 7; 10;; n.
+BS  CCCCACCCCC; R04741; 1; 10;; p.
+BS  ACACGCCCAC; R04794; 7; 10;; n.
+BS  CCCCGCCCCC; R04795; -1; 10;; n.
+BS  CCCCGCCCCG; R04829; 4; 10;; n.
+BS  GCCCGCCCTC; R04830; 3; 10;; n.
+BS  CCCCGCCCCC; R04834; 2; 10;; p.
+BS  ACCCACCCCA; R04918; 4; 10;; n.
+BS  CCCAGACTCA; R04979; 3; 10;; n.
+BS  TCCCACCCTC; R04995; 3; 10;; p.
+BS  TCCCGCCTTT; R04996; 13; 10;; n.
+BS  CCCCTCCCCT; R04997; 3; 10;; n.
+BS  CCCAGCCTCT; R04998; 8; 10;; n.
+BS  CCCCTCCCAG; R05000; 5; 10;; p.
+BS  GTCCACCCAG; R05001; 13; 10;; p.
+BS  ATCCCCCCTG; R05003; 9; 10;; p.
+BS  CCCCTCCCTA; R08095; 8; 10;; p.
+BS  TCCCTCCCTC; R08503; 1; 10;; n.
+BS  CTCCGCCTCC; R09485; 1; 10;; p.
+BS  CCCCGCCCCG; R09487; -2; 10;; p.
+BS  CCCAGCCCCC; R09488; 1; 10;; p.
+BS  GCCCTCCCAG; R09489; -5; 10;; p.
+BS  CCCCGCCCTC; R09490; -2; 10;; p.
+BS  GGCCGCCCGC; R11778; 5; 10;; n.
+BS  GAACGCCCGG; R12093; 4; 10;; n.
+BS  ACCAGCCCCT; R12971; 8; 10;; n.
+BS  TCCCGCCCCC; R12973; 8; 10;; p.
+BS  CTCCTCCCCT; R12978; 7; 10;; n.
+BS  CGCCCCCCAA; R13258; -2; 10;; n.
+BS  CCCCGCCCCG; R13261; -2; 10;; n.
+BS  GCCGGCCCAC; R13318; 2; 10;; p.
+BS  CCCCACCCCC; R13413; 6; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

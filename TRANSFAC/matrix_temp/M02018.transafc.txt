@@ -1,0 +1,56 @@
+AC  M02018
+XX
+ID  V$HTF4_Q2
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HTF4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01503; HTF4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09513; HTF4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09362; HTF4; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01496; HTF4alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01790; HTF4alpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01791; HTF4beta; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09514; HTF4gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01497; HTF4gamma; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01789; HTF4gamma; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      7      0      0      C
+02      7      0      0      0      A
+03      0      4      2      1      S
+04      0      7      0      0      C
+05      0      0      0      7      T
+06      0      0      7      0      G
+07      0      3      2      2      B
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CACCTGC; R00242; 6; 7;; p.
+BS  CAGCTGG; R00850; 2; 7;; p.
+BS  CACCTGC; R03074; 4; 7;; n.
+BS  CAGCTGG; R03075; 2; 7;; p.
+BS  CACCTGT; R03471; 3; 7;; n.
+BS  CACCTGC; R04158; 10; 7;; p.
+BS  CATCTGT; R04249; 6; 7;; n.
+BS  CATCTGT; R04249; 6; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

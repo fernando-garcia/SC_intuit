@@ -1,0 +1,81 @@
+AC  M00185
+XX
+ID  V$NFY_Q6
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-Y
+XX
+DE  nuclear factor Y (Y-box binding factor)
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00287; V$NFY_01; nuclear factor Y (Y-box binding factor) (specific).
+HC  M00687; V$ALPHACP1_01;  (specific).
+HC  M02106; V$NFYA_Q5;  (specific).
+HC  M02107; V$NFYC_Q5;  (specific).
+XX
+BF  T00150; NF-Y; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01171; NF-Y; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: yes.
+BF  T00613; NF-Y; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00084; NF-Y; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10773; NF-YA; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T16563; NF-YA; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T01804; NF-YA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08563; NF-YA; Species: Mammalia; site(s) included: no.
+BF  T10585; NF-YA; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T09472; NF-YA; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00088; NF-YA; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10234; NF-YA; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16079; NF-YA; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T08679; NF-YA isoform-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00615; NF-YA isoform-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10326; NF-YA isoform-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09471; NF-YA isoform-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16995; NF-YB; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T05216; NF-YB; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05215; NF-YB; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T16566; NF-YB; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T19636; NF-YB; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00154; NF-YB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08680; NF-YB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08564; NF-YB; Species: Mammalia; site(s) included: no.
+BF  T10586; NF-YB; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00616; NF-YB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09316; NF-YB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00087; NF-YB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08967; NF-YB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05219; NF-YC; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10617; NF-YC; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17293; NF-YC; Species: Mammalia; site(s) included: no.
+BF  T10587; NF-YC; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T02477; NF-YC; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10241; NF-YC; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01595; NF-YC; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08081; NF-YC; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19131; NF-YC-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02478; NF-YC-3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      3      4     11      T
+02     11      3      6      0      R
+03     11      1      7      1      R
+04      0     20      0      0      C
+05      0     20      0      0      C
+06     20      0      0      0      A
+07     17      2      1      0      A
+08      0      0      0     20      T
+09      3     10      6      1      S
+10     11      0      6      3      R
+11      1      8      7      4      N
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

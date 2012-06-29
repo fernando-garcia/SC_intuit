@@ -1,0 +1,64 @@
+AC  M00196
+XX
+ID  V$SP1_Q6
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sp1
+XX
+DE  stimulating protein 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00931; V$SP1_Q6_01;  (family).
+HP  M00932; V$SP1_Q4_01;  (family).
+HP  M00933; V$SP1_Q2_01;  (family).
+XX
+BF  T05998; Sp1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T10962; Sp1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00755; Sp1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10284; Sp1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T14185; Sp1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T00758; Sp1; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T10533; Sp1; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00753; Sp1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T16552; Sp1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T01228; Sp1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00759; Sp1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08484; Sp1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08326; Sp1; Species: Mammalia; site(s) included: no.
+BF  T10324; Sp1; Species: mink, Mustela vison; site(s) included: yes.
+BF  T00757; Sp1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00752; Sp1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05704; Sp1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00754; Sp1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09431; Sp1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18600; Sp1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T09118; Sp1-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11472; Sp1-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     32     21     35     20      N
+02     24     20     56      8      G
+03     14     10     65     19      G
+04     17      1     89      1      G
+05      0      0    108      0      G
+06      0      2    106      0      G
+07     19     80      0      9      C
+08      2      5     99      2      G
+09      0      1     99      8      G
+10     21      5     76      6      G
+11     17     10     72      9      G
+12      3     55     21     29      Y
+13      9     40     32     27      N
+XX
+BA  108 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

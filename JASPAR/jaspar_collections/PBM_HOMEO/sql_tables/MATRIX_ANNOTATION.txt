@@ -1,0 +1,1232 @@
+10331	class	Helix-Turn-Helix 
+10331	comment	Data is from Uniprobe database
+10331	family	Homeo 
+10331	medline	18585359
+10331	pazar_tf_id	
+10331	tax_group	vertebrates
+10331	type	universal protein binding microarray (PBM)
+10332	class	Helix-Turn-Helix 
+10332	comment	Data is from Uniprobe database
+10332	family	Homeo 
+10332	medline	18585359
+10332	pazar_tf_id	
+10332	tax_group	vertebrates
+10332	type	universal protein binding microarray (PBM)
+10333	class	Helix-Turn-Helix 
+10333	comment	Data is from Uniprobe database
+10333	family	Homeo 
+10333	medline	18585359
+10333	pazar_tf_id	
+10333	tax_group	vertebrates
+10333	type	universal protein binding microarray (PBM)
+10334	class	Helix-Turn-Helix 
+10334	comment	Data is from Uniprobe database
+10334	family	Homeo 
+10334	medline	18585359
+10334	pazar_tf_id	
+10334	tax_group	vertebrates
+10334	type	universal protein binding microarray (PBM)
+10335	class	Helix-Turn-Helix 
+10335	comment	Data is from Uniprobe database
+10335	family	Homeo 
+10335	medline	18585359
+10335	pazar_tf_id	
+10335	tax_group	vertebrates
+10335	type	universal protein binding microarray (PBM)
+10336	class	Helix-Turn-Helix 
+10336	comment	Data is from Uniprobe database
+10336	family	Homeo 
+10336	medline	18585359
+10336	pazar_tf_id	
+10336	tax_group	vertebrates
+10336	type	universal protein binding microarray (PBM)
+10337	class	Helix-Turn-Helix 
+10337	comment	Data is from Uniprobe database
+10337	family	Homeo 
+10337	medline	18585359
+10337	pazar_tf_id	
+10337	tax_group	vertebrates
+10337	type	universal protein binding microarray (PBM)
+10338	class	Helix-Turn-Helix 
+10338	comment	Data is from Uniprobe database
+10338	family	Homeo 
+10338	medline	18585359
+10338	pazar_tf_id	
+10338	tax_group	vertebrates
+10338	type	universal protein binding microarray (PBM)
+10339	class	Helix-Turn-Helix 
+10339	comment	Data is from Uniprobe database
+10339	family	Homeo 
+10339	medline	18585359
+10339	pazar_tf_id	
+10339	tax_group	vertebrates
+10339	type	universal protein binding microarray (PBM)
+10340	class	Helix-Turn-Helix 
+10340	comment	Data is from Uniprobe database
+10340	family	Homeo 
+10340	medline	18585359
+10340	pazar_tf_id	
+10340	tax_group	vertebrates
+10340	type	universal protein binding microarray (PBM)
+10341	class	Helix-Turn-Helix 
+10341	comment	Data is from Uniprobe database
+10341	family	Homeo 
+10341	medline	18585359
+10341	pazar_tf_id	
+10341	tax_group	vertebrates
+10341	type	universal protein binding microarray (PBM)
+10342	class	Helix-Turn-Helix 
+10342	comment	Data is from Uniprobe database
+10342	family	Homeo 
+10342	medline	18585359
+10342	pazar_tf_id	
+10342	tax_group	vertebrates
+10342	type	universal protein binding microarray (PBM)
+10343	class	Helix-Turn-Helix 
+10343	comment	Data is from Uniprobe database
+10343	family	Homeo 
+10343	medline	18585359
+10343	pazar_tf_id	
+10343	tax_group	vertebrates
+10343	type	universal protein binding microarray (PBM)
+10344	class	Helix-Turn-Helix 
+10344	comment	Data is from Uniprobe database
+10344	family	Homeo 
+10344	medline	18585359
+10344	pazar_tf_id	
+10344	tax_group	vertebrates
+10344	type	universal protein binding microarray (PBM)
+10345	class	Helix-Turn-Helix 
+10345	comment	Data is from Uniprobe database
+10345	family	Homeo 
+10345	medline	18585359
+10345	pazar_tf_id	
+10345	tax_group	vertebrates
+10345	type	universal protein binding microarray (PBM)
+10346	class	Helix-Turn-Helix 
+10346	comment	Data is from Uniprobe database
+10346	family	Homeo 
+10346	medline	18585359
+10346	pazar_tf_id	
+10346	tax_group	vertebrates
+10346	type	universal protein binding microarray (PBM)
+10347	class	Helix-Turn-Helix 
+10347	comment	Data is from Uniprobe database
+10347	family	Homeo 
+10347	medline	18585359
+10347	pazar_tf_id	
+10347	tax_group	vertebrates
+10347	type	universal protein binding microarray (PBM)
+10348	class	Helix-Turn-Helix 
+10348	comment	Data is from Uniprobe database
+10348	family	Homeo 
+10348	medline	18585359
+10348	pazar_tf_id	
+10348	tax_group	vertebrates
+10348	type	universal protein binding microarray (PBM)
+10349	class	Helix-Turn-Helix 
+10349	comment	Data is from Uniprobe database
+10349	family	Homeo 
+10349	medline	18585359
+10349	pazar_tf_id	
+10349	tax_group	vertebrates
+10349	type	universal protein binding microarray (PBM)
+10350	class	Helix-Turn-Helix 
+10350	comment	Data is from Uniprobe database
+10350	family	Homeo 
+10350	medline	18585359
+10350	pazar_tf_id	
+10350	tax_group	vertebrates
+10350	type	universal protein binding microarray (PBM)
+10351	class	Helix-Turn-Helix 
+10351	comment	Data is from Uniprobe database
+10351	family	Homeo 
+10351	medline	18585359
+10351	pazar_tf_id	
+10351	tax_group	vertebrates
+10351	type	universal protein binding microarray (PBM)
+10352	class	Helix-Turn-Helix 
+10352	comment	Data is from Uniprobe database
+10352	family	Homeo 
+10352	medline	18585359
+10352	pazar_tf_id	
+10352	tax_group	vertebrates
+10352	type	universal protein binding microarray (PBM)
+10353	class	Helix-Turn-Helix 
+10353	comment	Data is from Uniprobe database
+10353	family	Homeo 
+10353	medline	18585359
+10353	pazar_tf_id	
+10353	tax_group	vertebrates
+10353	type	universal protein binding microarray (PBM)
+10354	class	Helix-Turn-Helix 
+10354	comment	Data is from Uniprobe database
+10354	family	Homeo 
+10354	medline	18585359
+10354	pazar_tf_id	
+10354	tax_group	vertebrates
+10354	type	universal protein binding microarray (PBM)
+10355	class	Helix-Turn-Helix 
+10355	comment	Data is from Uniprobe database
+10355	family	Homeo 
+10355	medline	18585359
+10355	pazar_tf_id	
+10355	tax_group	vertebrates
+10355	type	universal protein binding microarray (PBM)
+10356	class	Helix-Turn-Helix 
+10356	comment	Data is from Uniprobe database
+10356	family	Homeo 
+10356	medline	18585359
+10356	pazar_tf_id	
+10356	tax_group	vertebrates
+10356	type	universal protein binding microarray (PBM)
+10357	class	Helix-Turn-Helix 
+10357	comment	Data is from Uniprobe database
+10357	family	Homeo 
+10357	medline	18585359
+10357	pazar_tf_id	
+10357	tax_group	vertebrates
+10357	type	universal protein binding microarray (PBM)
+10358	class	Helix-Turn-Helix 
+10358	comment	Data is from Uniprobe database
+10358	family	Homeo 
+10358	medline	18585359
+10358	pazar_tf_id	
+10358	tax_group	vertebrates
+10358	type	universal protein binding microarray (PBM)
+10359	class	Helix-Turn-Helix 
+10359	comment	Data is from Uniprobe database
+10359	family	Homeo 
+10359	medline	18585359
+10359	pazar_tf_id	
+10359	tax_group	vertebrates
+10359	type	universal protein binding microarray (PBM)
+10360	class	Helix-Turn-Helix 
+10360	comment	Data is from Uniprobe database
+10360	family	Homeo 
+10360	medline	18585359
+10360	pazar_tf_id	
+10360	tax_group	vertebrates
+10360	type	universal protein binding microarray (PBM)
+10361	class	Helix-Turn-Helix 
+10361	comment	Data is from Uniprobe database
+10361	family	Homeo 
+10361	medline	18585359
+10361	pazar_tf_id	
+10361	tax_group	vertebrates
+10361	type	universal protein binding microarray (PBM)
+10362	class	Helix-Turn-Helix 
+10362	comment	Data is from Uniprobe database
+10362	family	Homeo 
+10362	medline	18585359
+10362	pazar_tf_id	
+10362	tax_group	vertebrates
+10362	type	universal protein binding microarray (PBM)
+10363	class	Helix-Turn-Helix 
+10363	comment	Data is from Uniprobe database
+10363	family	Homeo 
+10363	medline	18585359
+10363	pazar_tf_id	
+10363	tax_group	vertebrates
+10363	type	universal protein binding microarray (PBM)
+10364	class	Helix-Turn-Helix 
+10364	comment	Data is from Uniprobe database
+10364	family	Homeo 
+10364	medline	18585359
+10364	pazar_tf_id	
+10364	tax_group	vertebrates
+10364	type	universal protein binding microarray (PBM)
+10365	class	Helix-Turn-Helix 
+10365	comment	Data is from Uniprobe database
+10365	family	Homeo 
+10365	medline	18585359
+10365	pazar_tf_id	
+10365	tax_group	vertebrates
+10365	type	universal protein binding microarray (PBM)
+10366	class	Helix-Turn-Helix 
+10366	comment	Data is from Uniprobe database
+10366	family	Homeo 
+10366	medline	18585359
+10366	pazar_tf_id	
+10366	tax_group	vertebrates
+10366	type	universal protein binding microarray (PBM)
+10367	class	Helix-Turn-Helix 
+10367	comment	Data is from Uniprobe database
+10367	family	Homeo 
+10367	medline	18585359
+10367	pazar_tf_id	
+10367	tax_group	vertebrates
+10367	type	universal protein binding microarray (PBM)
+10368	class	Helix-Turn-Helix 
+10368	comment	Data is from Uniprobe database
+10368	family	Homeo 
+10368	medline	18585359
+10368	pazar_tf_id	
+10368	tax_group	vertebrates
+10368	type	universal protein binding microarray (PBM)
+10369	class	Helix-Turn-Helix 
+10369	comment	Data is from Uniprobe database
+10369	family	Homeo 
+10369	medline	18585359
+10369	pazar_tf_id	
+10369	tax_group	vertebrates
+10369	type	universal protein binding microarray (PBM)
+10370	class	Helix-Turn-Helix 
+10370	comment	Data is from Uniprobe database
+10370	family	Homeo 
+10370	medline	18585359
+10370	pazar_tf_id	
+10370	tax_group	vertebrates
+10370	type	universal protein binding microarray (PBM)
+10371	class	Helix-Turn-Helix 
+10371	comment	Data is from Uniprobe database
+10371	family	Homeo 
+10371	medline	18585359
+10371	pazar_tf_id	
+10371	tax_group	vertebrates
+10371	type	universal protein binding microarray (PBM)
+10372	class	Helix-Turn-Helix 
+10372	comment	Data is from Uniprobe database
+10372	family	Homeo 
+10372	medline	18585359
+10372	pazar_tf_id	
+10372	tax_group	vertebrates
+10372	type	universal protein binding microarray (PBM)
+10373	class	Helix-Turn-Helix 
+10373	comment	Data is from Uniprobe database
+10373	family	Homeo 
+10373	medline	18585359
+10373	pazar_tf_id	
+10373	tax_group	vertebrates
+10373	type	universal protein binding microarray (PBM)
+10374	class	Helix-Turn-Helix 
+10374	comment	Data is from Uniprobe database
+10374	family	Homeo 
+10374	medline	18585359
+10374	pazar_tf_id	
+10374	tax_group	vertebrates
+10374	type	universal protein binding microarray (PBM)
+10375	class	Helix-Turn-Helix 
+10375	comment	Data is from Uniprobe database
+10375	family	Homeo 
+10375	medline	18585359
+10375	pazar_tf_id	
+10375	tax_group	vertebrates
+10375	type	universal protein binding microarray (PBM)
+10376	class	Helix-Turn-Helix 
+10376	comment	Data is from Uniprobe database
+10376	family	Homeo 
+10376	medline	18585359
+10376	pazar_tf_id	
+10376	tax_group	vertebrates
+10376	type	universal protein binding microarray (PBM)
+10377	class	Helix-Turn-Helix 
+10377	comment	Data is from Uniprobe database
+10377	family	Homeo 
+10377	medline	18585359
+10377	pazar_tf_id	
+10377	tax_group	vertebrates
+10377	type	universal protein binding microarray (PBM)
+10378	class	Helix-Turn-Helix 
+10378	comment	Data is from Uniprobe database
+10378	family	Homeo 
+10378	medline	18585359
+10378	pazar_tf_id	
+10378	tax_group	vertebrates
+10378	type	universal protein binding microarray (PBM)
+10379	class	Helix-Turn-Helix 
+10379	comment	Data is from Uniprobe database
+10379	family	Homeo 
+10379	medline	18585359
+10379	pazar_tf_id	
+10379	tax_group	vertebrates
+10379	type	universal protein binding microarray (PBM)
+10380	class	Helix-Turn-Helix 
+10380	comment	Data is from Uniprobe database
+10380	family	Homeo 
+10380	medline	18585359
+10380	pazar_tf_id	
+10380	tax_group	vertebrates
+10380	type	universal protein binding microarray (PBM)
+10381	class	Helix-Turn-Helix 
+10381	comment	Data is from Uniprobe database
+10381	family	Homeo 
+10381	medline	18585359
+10381	pazar_tf_id	
+10381	tax_group	vertebrates
+10381	type	universal protein binding microarray (PBM)
+10382	class	Helix-Turn-Helix 
+10382	comment	Data is from Uniprobe database
+10382	family	Homeo 
+10382	medline	18585359
+10382	pazar_tf_id	
+10382	tax_group	vertebrates
+10382	type	universal protein binding microarray (PBM)
+10383	class	Helix-Turn-Helix 
+10383	comment	Data is from Uniprobe database
+10383	family	Homeo 
+10383	medline	18585359
+10383	pazar_tf_id	
+10383	tax_group	vertebrates
+10383	type	universal protein binding microarray (PBM)
+10384	class	Helix-Turn-Helix 
+10384	comment	Data is from Uniprobe database
+10384	family	Homeo 
+10384	medline	18585359
+10384	pazar_tf_id	
+10384	tax_group	vertebrates
+10384	type	universal protein binding microarray (PBM)
+10385	class	Helix-Turn-Helix 
+10385	comment	Data is from Uniprobe database
+10385	family	Homeo 
+10385	medline	18585359
+10385	pazar_tf_id	
+10385	tax_group	vertebrates
+10385	type	universal protein binding microarray (PBM)
+10386	class	Helix-Turn-Helix 
+10386	comment	Data is from Uniprobe database
+10386	family	Homeo 
+10386	medline	18585359
+10386	pazar_tf_id	
+10386	tax_group	vertebrates
+10386	type	universal protein binding microarray (PBM)
+10387	class	Helix-Turn-Helix 
+10387	comment	Data is from Uniprobe database
+10387	family	Homeo 
+10387	medline	18585359
+10387	pazar_tf_id	
+10387	tax_group	vertebrates
+10387	type	universal protein binding microarray (PBM)
+10388	class	Helix-Turn-Helix 
+10388	comment	Data is from Uniprobe database
+10388	family	Homeo 
+10388	medline	18585359
+10388	pazar_tf_id	
+10388	tax_group	vertebrates
+10388	type	universal protein binding microarray (PBM)
+10389	class	Helix-Turn-Helix 
+10389	comment	Data is from Uniprobe database
+10389	family	Homeo 
+10389	medline	18585359
+10389	pazar_tf_id	
+10389	tax_group	vertebrates
+10389	type	universal protein binding microarray (PBM)
+10390	class	Helix-Turn-Helix 
+10390	comment	Data is from Uniprobe database
+10390	family	Homeo 
+10390	medline	18585359
+10390	pazar_tf_id	
+10390	tax_group	vertebrates
+10390	type	universal protein binding microarray (PBM)
+10391	class	Helix-Turn-Helix 
+10391	comment	Data is from Uniprobe database
+10391	family	Homeo 
+10391	medline	18585359
+10391	pazar_tf_id	
+10391	tax_group	vertebrates
+10391	type	universal protein binding microarray (PBM)
+10392	class	Helix-Turn-Helix 
+10392	comment	Data is from Uniprobe database
+10392	family	Homeo 
+10392	medline	18585359
+10392	pazar_tf_id	
+10392	tax_group	vertebrates
+10392	type	universal protein binding microarray (PBM)
+10393	class	Helix-Turn-Helix 
+10393	comment	Data is from Uniprobe database
+10393	family	Homeo 
+10393	medline	18585359
+10393	pazar_tf_id	
+10393	tax_group	vertebrates
+10393	type	universal protein binding microarray (PBM)
+10394	class	Helix-Turn-Helix 
+10394	comment	Data is from Uniprobe database
+10394	family	Homeo 
+10394	medline	18585359
+10394	pazar_tf_id	
+10394	tax_group	vertebrates
+10394	type	universal protein binding microarray (PBM)
+10395	class	Helix-Turn-Helix 
+10395	comment	Data is from Uniprobe database
+10395	family	Homeo 
+10395	medline	18585359
+10395	pazar_tf_id	
+10395	tax_group	vertebrates
+10395	type	universal protein binding microarray (PBM)
+10396	class	Helix-Turn-Helix 
+10396	comment	Data is from Uniprobe database
+10396	family	Homeo 
+10396	medline	18585359
+10396	pazar_tf_id	
+10396	tax_group	vertebrates
+10396	type	universal protein binding microarray (PBM)
+10397	class	Helix-Turn-Helix 
+10397	comment	Data is from Uniprobe database
+10397	family	Homeo 
+10397	medline	18585359
+10397	pazar_tf_id	
+10397	tax_group	vertebrates
+10397	type	universal protein binding microarray (PBM)
+10398	class	Helix-Turn-Helix 
+10398	comment	Data is from Uniprobe database
+10398	family	Homeo 
+10398	medline	18585359
+10398	pazar_tf_id	
+10398	tax_group	vertebrates
+10398	type	universal protein binding microarray (PBM)
+10399	class	Helix-Turn-Helix 
+10399	comment	Data is from Uniprobe database
+10399	family	Homeo 
+10399	medline	18585359
+10399	pazar_tf_id	
+10399	tax_group	vertebrates
+10399	type	universal protein binding microarray (PBM)
+10400	class	Helix-Turn-Helix 
+10400	comment	Data is from Uniprobe database
+10400	family	Homeo 
+10400	medline	18585359
+10400	pazar_tf_id	
+10400	tax_group	vertebrates
+10400	type	universal protein binding microarray (PBM)
+10401	class	Helix-Turn-Helix 
+10401	comment	Data is from Uniprobe database
+10401	family	Homeo 
+10401	medline	18585359
+10401	pazar_tf_id	
+10401	tax_group	vertebrates
+10401	type	universal protein binding microarray (PBM)
+10402	class	Helix-Turn-Helix 
+10402	comment	Data is from Uniprobe database
+10402	family	Homeo 
+10402	medline	18585359
+10402	pazar_tf_id	
+10402	tax_group	vertebrates
+10402	type	universal protein binding microarray (PBM)
+10403	class	Helix-Turn-Helix 
+10403	comment	Data is from Uniprobe database
+10403	family	Homeo 
+10403	medline	18585359
+10403	pazar_tf_id	
+10403	tax_group	vertebrates
+10403	type	universal protein binding microarray (PBM)
+10404	class	Helix-Turn-Helix 
+10404	comment	Data is from Uniprobe database
+10404	family	Homeo 
+10404	medline	18585359
+10404	pazar_tf_id	
+10404	tax_group	vertebrates
+10404	type	universal protein binding microarray (PBM)
+10405	class	Helix-Turn-Helix 
+10405	comment	Data is from Uniprobe database
+10405	family	Homeo 
+10405	medline	18585359
+10405	pazar_tf_id	
+10405	tax_group	vertebrates
+10405	type	universal protein binding microarray (PBM)
+10406	class	Helix-Turn-Helix 
+10406	comment	Data is from Uniprobe database
+10406	family	Homeo 
+10406	medline	18585359
+10406	pazar_tf_id	
+10406	tax_group	vertebrates
+10406	type	universal protein binding microarray (PBM)
+10407	class	Helix-Turn-Helix 
+10407	comment	Data is from Uniprobe database
+10407	family	Homeo 
+10407	medline	18585359
+10407	pazar_tf_id	
+10407	tax_group	vertebrates
+10407	type	universal protein binding microarray (PBM)
+10408	class	Helix-Turn-Helix 
+10408	comment	Data is from Uniprobe database
+10408	family	Homeo 
+10408	medline	18585359
+10408	pazar_tf_id	
+10408	tax_group	vertebrates
+10408	type	universal protein binding microarray (PBM)
+10409	class	Helix-Turn-Helix 
+10409	comment	Data is from Uniprobe database
+10409	family	Homeo 
+10409	medline	18585359
+10409	pazar_tf_id	
+10409	tax_group	vertebrates
+10409	type	universal protein binding microarray (PBM)
+10410	class	Helix-Turn-Helix 
+10410	comment	Data is from Uniprobe database
+10410	family	Homeo 
+10410	medline	18585359
+10410	pazar_tf_id	
+10410	tax_group	vertebrates
+10410	type	universal protein binding microarray (PBM)
+10411	class	Helix-Turn-Helix 
+10411	comment	Data is from Uniprobe database
+10411	family	Homeo 
+10411	medline	18585359
+10411	pazar_tf_id	
+10411	tax_group	vertebrates
+10411	type	universal protein binding microarray (PBM)
+10412	class	Helix-Turn-Helix 
+10412	comment	Data is from Uniprobe database
+10412	family	Homeo 
+10412	medline	18585359
+10412	pazar_tf_id	
+10412	tax_group	vertebrates
+10412	type	universal protein binding microarray (PBM)
+10413	class	Helix-Turn-Helix 
+10413	comment	Data is from Uniprobe database
+10413	family	Homeo 
+10413	medline	18585359
+10413	pazar_tf_id	
+10413	tax_group	vertebrates
+10413	type	universal protein binding microarray (PBM)
+10414	class	Helix-Turn-Helix 
+10414	comment	Data is from Uniprobe database
+10414	family	Homeo 
+10414	medline	18585359
+10414	pazar_tf_id	
+10414	tax_group	vertebrates
+10414	type	universal protein binding microarray (PBM)
+10415	class	Helix-Turn-Helix 
+10415	comment	Data is from Uniprobe database
+10415	family	Homeo 
+10415	medline	18585359
+10415	pazar_tf_id	
+10415	tax_group	vertebrates
+10415	type	universal protein binding microarray (PBM)
+10416	class	Helix-Turn-Helix 
+10416	comment	Data is from Uniprobe database
+10416	family	Homeo 
+10416	medline	18585359
+10416	pazar_tf_id	
+10416	tax_group	vertebrates
+10416	type	universal protein binding microarray (PBM)
+10417	class	Helix-Turn-Helix 
+10417	comment	Data is from Uniprobe database
+10417	family	Homeo 
+10417	medline	18585359
+10417	pazar_tf_id	
+10417	tax_group	vertebrates
+10417	type	universal protein binding microarray (PBM)
+10418	class	Helix-Turn-Helix 
+10418	comment	Data is from Uniprobe database
+10418	family	Homeo 
+10418	medline	18585359
+10418	pazar_tf_id	
+10418	tax_group	vertebrates
+10418	type	universal protein binding microarray (PBM)
+10419	class	Helix-Turn-Helix 
+10419	comment	Data is from Uniprobe database
+10419	family	Homeo 
+10419	medline	18585359
+10419	pazar_tf_id	
+10419	tax_group	vertebrates
+10419	type	universal protein binding microarray (PBM)
+10420	class	Helix-Turn-Helix 
+10420	comment	Data is from Uniprobe database
+10420	family	Homeo 
+10420	medline	18585359
+10420	pazar_tf_id	
+10420	tax_group	vertebrates
+10420	type	universal protein binding microarray (PBM)
+10421	class	Helix-Turn-Helix 
+10421	comment	Data is from Uniprobe database
+10421	family	Homeo 
+10421	medline	18585359
+10421	pazar_tf_id	
+10421	tax_group	vertebrates
+10421	type	universal protein binding microarray (PBM)
+10422	class	Helix-Turn-Helix 
+10422	comment	Data is from Uniprobe database
+10422	family	Homeo 
+10422	medline	18585359
+10422	pazar_tf_id	
+10422	tax_group	vertebrates
+10422	type	universal protein binding microarray (PBM)
+10423	class	Helix-Turn-Helix 
+10423	comment	Data is from Uniprobe database
+10423	family	Homeo 
+10423	medline	18585359
+10423	pazar_tf_id	
+10423	tax_group	vertebrates
+10423	type	universal protein binding microarray (PBM)
+10424	class	Helix-Turn-Helix 
+10424	comment	Data is from Uniprobe database
+10424	family	Homeo 
+10424	medline	18585359
+10424	pazar_tf_id	
+10424	tax_group	vertebrates
+10424	type	universal protein binding microarray (PBM)
+10425	class	Helix-Turn-Helix 
+10425	comment	Data is from Uniprobe database
+10425	family	Homeo 
+10425	medline	18585359
+10425	pazar_tf_id	
+10425	tax_group	vertebrates
+10425	type	universal protein binding microarray (PBM)
+10426	class	Helix-Turn-Helix 
+10426	comment	Data is from Uniprobe database
+10426	family	Homeo 
+10426	medline	18585359
+10426	pazar_tf_id	
+10426	tax_group	vertebrates
+10426	type	universal protein binding microarray (PBM)
+10427	class	Helix-Turn-Helix 
+10427	comment	Data is from Uniprobe database
+10427	family	Homeo 
+10427	medline	18585359
+10427	pazar_tf_id	
+10427	tax_group	vertebrates
+10427	type	universal protein binding microarray (PBM)
+10428	class	Helix-Turn-Helix 
+10428	comment	Data is from Uniprobe database
+10428	family	Homeo 
+10428	medline	18585359
+10428	pazar_tf_id	
+10428	tax_group	vertebrates
+10428	type	universal protein binding microarray (PBM)
+10429	class	Helix-Turn-Helix 
+10429	comment	Data is from Uniprobe database
+10429	family	Homeo 
+10429	medline	18585359
+10429	pazar_tf_id	
+10429	tax_group	vertebrates
+10429	type	universal protein binding microarray (PBM)
+10430	class	Helix-Turn-Helix 
+10430	comment	Data is from Uniprobe database
+10430	family	Homeo 
+10430	medline	18585359
+10430	pazar_tf_id	
+10430	tax_group	vertebrates
+10430	type	universal protein binding microarray (PBM)
+10431	class	Helix-Turn-Helix 
+10431	comment	Data is from Uniprobe database
+10431	family	Homeo 
+10431	medline	18585359
+10431	pazar_tf_id	
+10431	tax_group	vertebrates
+10431	type	universal protein binding microarray (PBM)
+10432	class	Helix-Turn-Helix 
+10432	comment	Data is from Uniprobe database
+10432	family	Homeo 
+10432	medline	18585359
+10432	pazar_tf_id	
+10432	tax_group	vertebrates
+10432	type	universal protein binding microarray (PBM)
+10433	class	Helix-Turn-Helix 
+10433	comment	Data is from Uniprobe database
+10433	family	Homeo 
+10433	medline	18585359
+10433	pazar_tf_id	
+10433	tax_group	vertebrates
+10433	type	universal protein binding microarray (PBM)
+10434	class	Helix-Turn-Helix 
+10434	comment	Data is from Uniprobe database
+10434	family	Homeo 
+10434	medline	18585359
+10434	pazar_tf_id	
+10434	tax_group	vertebrates
+10434	type	universal protein binding microarray (PBM)
+10435	class	Helix-Turn-Helix 
+10435	comment	Data is from Uniprobe database
+10435	family	Homeo 
+10435	medline	18585359
+10435	pazar_tf_id	
+10435	tax_group	vertebrates
+10435	type	universal protein binding microarray (PBM)
+10436	class	Helix-Turn-Helix 
+10436	comment	Data is from Uniprobe database
+10436	family	Homeo 
+10436	medline	18585359
+10436	pazar_tf_id	
+10436	tax_group	vertebrates
+10436	type	universal protein binding microarray (PBM)
+10437	class	Helix-Turn-Helix 
+10437	comment	Data is from Uniprobe database
+10437	family	Homeo 
+10437	medline	18585359
+10437	pazar_tf_id	
+10437	tax_group	vertebrates
+10437	type	universal protein binding microarray (PBM)
+10438	class	Helix-Turn-Helix 
+10438	comment	Data is from Uniprobe database
+10438	family	Homeo 
+10438	medline	18585359
+10438	pazar_tf_id	
+10438	tax_group	vertebrates
+10438	type	universal protein binding microarray (PBM)
+10439	class	Helix-Turn-Helix 
+10439	comment	Data is from Uniprobe database
+10439	family	Homeo 
+10439	medline	18585359
+10439	pazar_tf_id	
+10439	tax_group	vertebrates
+10439	type	universal protein binding microarray (PBM)
+10440	class	Helix-Turn-Helix 
+10440	comment	Data is from Uniprobe database
+10440	family	Homeo 
+10440	medline	18585359
+10440	pazar_tf_id	
+10440	tax_group	vertebrates
+10440	type	universal protein binding microarray (PBM)
+10441	class	Helix-Turn-Helix 
+10441	comment	Data is from Uniprobe database
+10441	family	Homeo 
+10441	medline	18585359
+10441	pazar_tf_id	
+10441	tax_group	vertebrates
+10441	type	universal protein binding microarray (PBM)
+10442	class	Helix-Turn-Helix 
+10442	comment	Data is from Uniprobe database
+10442	family	Homeo 
+10442	medline	18585359
+10442	pazar_tf_id	
+10442	tax_group	vertebrates
+10442	type	universal protein binding microarray (PBM)
+10443	class	Helix-Turn-Helix 
+10443	comment	Data is from Uniprobe database
+10443	family	Homeo 
+10443	medline	18585359
+10443	pazar_tf_id	
+10443	tax_group	vertebrates
+10443	type	universal protein binding microarray (PBM)
+10444	class	Helix-Turn-Helix 
+10444	comment	Data is from Uniprobe database
+10444	family	Homeo 
+10444	medline	18585359
+10444	pazar_tf_id	
+10444	tax_group	vertebrates
+10444	type	universal protein binding microarray (PBM)
+10445	class	Helix-Turn-Helix 
+10445	comment	Data is from Uniprobe database
+10445	family	Homeo 
+10445	medline	18585359
+10445	pazar_tf_id	
+10445	tax_group	vertebrates
+10445	type	universal protein binding microarray (PBM)
+10446	class	Helix-Turn-Helix 
+10446	comment	Data is from Uniprobe database
+10446	family	Homeo 
+10446	medline	18585359
+10446	pazar_tf_id	
+10446	tax_group	vertebrates
+10446	type	universal protein binding microarray (PBM)
+10447	class	Helix-Turn-Helix 
+10447	comment	Data is from Uniprobe database
+10447	family	Homeo 
+10447	medline	18585359
+10447	pazar_tf_id	
+10447	tax_group	vertebrates
+10447	type	universal protein binding microarray (PBM)
+10448	class	Helix-Turn-Helix 
+10448	comment	Data is from Uniprobe database
+10448	family	Homeo 
+10448	medline	18585359
+10448	pazar_tf_id	
+10448	tax_group	vertebrates
+10448	type	universal protein binding microarray (PBM)
+10449	class	Helix-Turn-Helix 
+10449	comment	Data is from Uniprobe database
+10449	family	Homeo 
+10449	medline	18585359
+10449	pazar_tf_id	
+10449	tax_group	vertebrates
+10449	type	universal protein binding microarray (PBM)
+10450	class	Helix-Turn-Helix 
+10450	comment	Data is from Uniprobe database
+10450	family	Homeo 
+10450	medline	18585359
+10450	pazar_tf_id	
+10450	tax_group	vertebrates
+10450	type	universal protein binding microarray (PBM)
+10451	class	Helix-Turn-Helix 
+10451	comment	Data is from Uniprobe database
+10451	family	Homeo 
+10451	medline	18585359
+10451	pazar_tf_id	
+10451	tax_group	vertebrates
+10451	type	universal protein binding microarray (PBM)
+10452	class	Helix-Turn-Helix 
+10452	comment	Data is from Uniprobe database
+10452	family	Homeo 
+10452	medline	18585359
+10452	pazar_tf_id	
+10452	tax_group	vertebrates
+10452	type	universal protein binding microarray (PBM)
+10453	class	Helix-Turn-Helix 
+10453	comment	Data is from Uniprobe database
+10453	family	Homeo 
+10453	medline	18585359
+10453	pazar_tf_id	
+10453	tax_group	vertebrates
+10453	type	universal protein binding microarray (PBM)
+10454	class	Helix-Turn-Helix 
+10454	comment	Data is from Uniprobe database
+10454	family	Homeo 
+10454	medline	18585359
+10454	pazar_tf_id	
+10454	tax_group	vertebrates
+10454	type	universal protein binding microarray (PBM)
+10455	class	Helix-Turn-Helix 
+10455	comment	Data is from Uniprobe database
+10455	family	Homeo 
+10455	medline	18585359
+10455	pazar_tf_id	
+10455	tax_group	vertebrates
+10455	type	universal protein binding microarray (PBM)
+10456	class	Helix-Turn-Helix 
+10456	comment	Data is from Uniprobe database
+10456	family	Homeo 
+10456	medline	18585359
+10456	pazar_tf_id	
+10456	tax_group	vertebrates
+10456	type	universal protein binding microarray (PBM)
+10457	class	Helix-Turn-Helix 
+10457	comment	Data is from Uniprobe database
+10457	family	Homeo 
+10457	medline	18585359
+10457	pazar_tf_id	
+10457	tax_group	vertebrates
+10457	type	universal protein binding microarray (PBM)
+10458	class	Helix-Turn-Helix 
+10458	comment	Data is from Uniprobe database
+10458	family	Homeo 
+10458	medline	18585359
+10458	pazar_tf_id	
+10458	tax_group	vertebrates
+10458	type	universal protein binding microarray (PBM)
+10459	class	Helix-Turn-Helix 
+10459	comment	Data is from Uniprobe database
+10459	family	Homeo 
+10459	medline	18585359
+10459	pazar_tf_id	
+10459	tax_group	vertebrates
+10459	type	universal protein binding microarray (PBM)
+10460	class	Helix-Turn-Helix 
+10460	comment	Data is from Uniprobe database
+10460	family	Homeo 
+10460	medline	18585359
+10460	pazar_tf_id	
+10460	tax_group	vertebrates
+10460	type	universal protein binding microarray (PBM)
+10461	class	Helix-Turn-Helix 
+10461	comment	Data is from Uniprobe database
+10461	family	Homeo 
+10461	medline	18585359
+10461	pazar_tf_id	
+10461	tax_group	vertebrates
+10461	type	universal protein binding microarray (PBM)
+10462	class	Helix-Turn-Helix 
+10462	comment	Data is from Uniprobe database
+10462	family	Homeo 
+10462	medline	18585359
+10462	pazar_tf_id	
+10462	tax_group	vertebrates
+10462	type	universal protein binding microarray (PBM)
+10463	class	Helix-Turn-Helix 
+10463	comment	Data is from Uniprobe database
+10463	family	Homeo 
+10463	medline	18585359
+10463	pazar_tf_id	
+10463	tax_group	vertebrates
+10463	type	universal protein binding microarray (PBM)
+10464	class	Helix-Turn-Helix 
+10464	comment	Data is from Uniprobe database
+10464	family	Homeo 
+10464	medline	18585359
+10464	pazar_tf_id	
+10464	tax_group	vertebrates
+10464	type	universal protein binding microarray (PBM)
+10465	class	Helix-Turn-Helix 
+10465	comment	Data is from Uniprobe database
+10465	family	Homeo 
+10465	medline	18585359
+10465	pazar_tf_id	
+10465	tax_group	vertebrates
+10465	type	universal protein binding microarray (PBM)
+10466	class	Helix-Turn-Helix 
+10466	comment	Data is from Uniprobe database
+10466	family	Homeo 
+10466	medline	18585359
+10466	pazar_tf_id	
+10466	tax_group	vertebrates
+10466	type	universal protein binding microarray (PBM)
+10467	class	Helix-Turn-Helix 
+10467	comment	Data is from Uniprobe database
+10467	family	Homeo 
+10467	medline	18585359
+10467	pazar_tf_id	
+10467	tax_group	vertebrates
+10467	type	universal protein binding microarray (PBM)
+10468	class	Helix-Turn-Helix 
+10468	comment	Data is from Uniprobe database
+10468	family	Homeo 
+10468	medline	18585359
+10468	pazar_tf_id	
+10468	tax_group	vertebrates
+10468	type	universal protein binding microarray (PBM)
+10469	class	Helix-Turn-Helix 
+10469	comment	Data is from Uniprobe database
+10469	family	Homeo 
+10469	medline	18585359
+10469	pazar_tf_id	
+10469	tax_group	vertebrates
+10469	type	universal protein binding microarray (PBM)
+10470	class	Helix-Turn-Helix 
+10470	comment	Data is from Uniprobe database
+10470	family	Homeo 
+10470	medline	18585359
+10470	pazar_tf_id	
+10470	tax_group	vertebrates
+10470	type	universal protein binding microarray (PBM)
+10471	class	Helix-Turn-Helix 
+10471	comment	Data is from Uniprobe database
+10471	family	Homeo 
+10471	medline	18585359
+10471	pazar_tf_id	
+10471	tax_group	vertebrates
+10471	type	universal protein binding microarray (PBM)
+10472	class	Helix-Turn-Helix 
+10472	comment	Data is from Uniprobe database
+10472	family	Homeo 
+10472	medline	18585359
+10472	pazar_tf_id	
+10472	tax_group	vertebrates
+10472	type	universal protein binding microarray (PBM)
+10473	class	Helix-Turn-Helix 
+10473	comment	Data is from Uniprobe database
+10473	family	Homeo 
+10473	medline	18585359
+10473	pazar_tf_id	
+10473	tax_group	vertebrates
+10473	type	universal protein binding microarray (PBM)
+10474	class	Helix-Turn-Helix 
+10474	comment	Data is from Uniprobe database
+10474	family	Homeo 
+10474	medline	18585359
+10474	pazar_tf_id	
+10474	tax_group	vertebrates
+10474	type	universal protein binding microarray (PBM)
+10475	class	Helix-Turn-Helix 
+10475	comment	Data is from Uniprobe database
+10475	family	Homeo 
+10475	medline	18585359
+10475	pazar_tf_id	
+10475	tax_group	vertebrates
+10475	type	universal protein binding microarray (PBM)
+10476	class	Helix-Turn-Helix 
+10476	comment	Data is from Uniprobe database
+10476	family	Homeo 
+10476	medline	18585359
+10476	pazar_tf_id	
+10476	tax_group	vertebrates
+10476	type	universal protein binding microarray (PBM)
+10477	class	Helix-Turn-Helix 
+10477	comment	Data is from Uniprobe database
+10477	family	Homeo 
+10477	medline	18585359
+10477	pazar_tf_id	
+10477	tax_group	vertebrates
+10477	type	universal protein binding microarray (PBM)
+10478	class	Helix-Turn-Helix 
+10478	comment	Data is from Uniprobe database
+10478	family	Homeo 
+10478	medline	18585359
+10478	pazar_tf_id	
+10478	tax_group	vertebrates
+10478	type	universal protein binding microarray (PBM)
+10479	class	Helix-Turn-Helix 
+10479	comment	Data is from Uniprobe database
+10479	family	Homeo 
+10479	medline	18585359
+10479	pazar_tf_id	
+10479	tax_group	vertebrates
+10479	type	universal protein binding microarray (PBM)
+10480	class	Helix-Turn-Helix 
+10480	comment	Data is from Uniprobe database
+10480	family	Homeo 
+10480	medline	18585359
+10480	pazar_tf_id	
+10480	tax_group	vertebrates
+10480	type	universal protein binding microarray (PBM)
+10481	class	Helix-Turn-Helix 
+10481	comment	Data is from Uniprobe database
+10481	family	Homeo 
+10481	medline	18585359
+10481	pazar_tf_id	
+10481	tax_group	vertebrates
+10481	type	universal protein binding microarray (PBM)
+10482	class	Helix-Turn-Helix 
+10482	comment	Data is from Uniprobe database
+10482	family	Homeo 
+10482	medline	18585359
+10482	pazar_tf_id	
+10482	tax_group	vertebrates
+10482	type	universal protein binding microarray (PBM)
+10483	class	Helix-Turn-Helix 
+10483	comment	Data is from Uniprobe database
+10483	family	Homeo 
+10483	medline	18585359
+10483	pazar_tf_id	
+10483	tax_group	vertebrates
+10483	type	universal protein binding microarray (PBM)
+10484	class	Helix-Turn-Helix 
+10484	comment	Data is from Uniprobe database
+10484	family	Homeo 
+10484	medline	18585359
+10484	pazar_tf_id	
+10484	tax_group	vertebrates
+10484	type	universal protein binding microarray (PBM)
+10485	class	Helix-Turn-Helix 
+10485	comment	Data is from Uniprobe database
+10485	family	Homeo 
+10485	medline	18585359
+10485	pazar_tf_id	
+10485	tax_group	vertebrates
+10485	type	universal protein binding microarray (PBM)
+10486	class	Helix-Turn-Helix 
+10486	comment	Data is from Uniprobe database
+10486	family	Homeo 
+10486	medline	18585359
+10486	pazar_tf_id	
+10486	tax_group	vertebrates
+10486	type	universal protein binding microarray (PBM)
+10487	class	Helix-Turn-Helix 
+10487	comment	Data is from Uniprobe database
+10487	family	Homeo 
+10487	medline	18585359
+10487	pazar_tf_id	
+10487	tax_group	vertebrates
+10487	type	universal protein binding microarray (PBM)
+10488	class	Helix-Turn-Helix 
+10488	comment	Data is from Uniprobe database
+10488	family	Homeo 
+10488	medline	18585359
+10488	pazar_tf_id	
+10488	tax_group	vertebrates
+10488	type	universal protein binding microarray (PBM)
+10489	class	Helix-Turn-Helix 
+10489	comment	Data is from Uniprobe database
+10489	family	Homeo 
+10489	medline	18585359
+10489	pazar_tf_id	
+10489	tax_group	vertebrates
+10489	type	universal protein binding microarray (PBM)
+10490	class	Helix-Turn-Helix 
+10490	comment	Data is from Uniprobe database
+10490	family	Homeo 
+10490	medline	18585359
+10490	pazar_tf_id	
+10490	tax_group	vertebrates
+10490	type	universal protein binding microarray (PBM)
+10491	class	Helix-Turn-Helix 
+10491	comment	Data is from Uniprobe database
+10491	family	Homeo 
+10491	medline	18585359
+10491	pazar_tf_id	
+10491	tax_group	vertebrates
+10491	type	universal protein binding microarray (PBM)
+10492	class	Helix-Turn-Helix 
+10492	comment	Data is from Uniprobe database
+10492	family	Homeo 
+10492	medline	18585359
+10492	pazar_tf_id	
+10492	tax_group	vertebrates
+10492	type	universal protein binding microarray (PBM)
+10493	class	Helix-Turn-Helix 
+10493	comment	Data is from Uniprobe database
+10493	family	Homeo 
+10493	medline	18585359
+10493	pazar_tf_id	
+10493	tax_group	vertebrates
+10493	type	universal protein binding microarray (PBM)
+10494	class	Helix-Turn-Helix 
+10494	comment	Data is from Uniprobe database
+10494	family	Homeo 
+10494	medline	18585359
+10494	pazar_tf_id	
+10494	tax_group	vertebrates
+10494	type	universal protein binding microarray (PBM)
+10495	class	Helix-Turn-Helix 
+10495	comment	Data is from Uniprobe database
+10495	family	Homeo 
+10495	medline	18585359
+10495	pazar_tf_id	
+10495	tax_group	vertebrates
+10495	type	universal protein binding microarray (PBM)
+10496	class	Helix-Turn-Helix 
+10496	comment	Data is from Uniprobe database
+10496	family	Homeo 
+10496	medline	18585359
+10496	pazar_tf_id	
+10496	tax_group	vertebrates
+10496	type	universal protein binding microarray (PBM)
+10497	class	Helix-Turn-Helix 
+10497	comment	Data is from Uniprobe database
+10497	family	Homeo 
+10497	medline	18585359
+10497	pazar_tf_id	
+10497	tax_group	vertebrates
+10497	type	universal protein binding microarray (PBM)
+10498	class	Helix-Turn-Helix 
+10498	comment	Data is from Uniprobe database
+10498	family	Homeo 
+10498	medline	18585359
+10498	pazar_tf_id	
+10498	tax_group	vertebrates
+10498	type	universal protein binding microarray (PBM)
+10499	class	Helix-Turn-Helix 
+10499	comment	Data is from Uniprobe database
+10499	family	Homeo 
+10499	medline	18585359
+10499	pazar_tf_id	
+10499	tax_group	vertebrates
+10499	type	universal protein binding microarray (PBM)
+10500	class	Helix-Turn-Helix 
+10500	comment	Data is from Uniprobe database
+10500	family	Homeo 
+10500	medline	18585359
+10500	pazar_tf_id	
+10500	tax_group	vertebrates
+10500	type	universal protein binding microarray (PBM)
+10501	class	Helix-Turn-Helix 
+10501	comment	Data is from Uniprobe database
+10501	family	Homeo 
+10501	medline	18585359
+10501	pazar_tf_id	
+10501	tax_group	vertebrates
+10501	type	universal protein binding microarray (PBM)
+10502	class	Helix-Turn-Helix 
+10502	comment	Data is from Uniprobe database
+10502	family	Homeo 
+10502	medline	18585359
+10502	pazar_tf_id	
+10502	tax_group	vertebrates
+10502	type	universal protein binding microarray (PBM)
+10503	class	Helix-Turn-Helix 
+10503	comment	Data is from Uniprobe database
+10503	family	Homeo 
+10503	medline	18585359
+10503	pazar_tf_id	
+10503	tax_group	vertebrates
+10503	type	universal protein binding microarray (PBM)
+10504	class	Helix-Turn-Helix 
+10504	comment	Data is from Uniprobe database
+10504	family	Homeo 
+10504	medline	18585359
+10504	pazar_tf_id	
+10504	tax_group	vertebrates
+10504	type	universal protein binding microarray (PBM)
+10505	class	Helix-Turn-Helix 
+10505	comment	Data is from Uniprobe database
+10505	family	Homeo 
+10505	medline	18585359
+10505	pazar_tf_id	
+10505	tax_group	vertebrates
+10505	type	universal protein binding microarray (PBM)
+10506	class	Helix-Turn-Helix 
+10506	comment	Data is from Uniprobe database
+10506	family	Homeo 
+10506	medline	18585359
+10506	pazar_tf_id	
+10506	tax_group	vertebrates
+10506	type	universal protein binding microarray (PBM)

@@ -1,0 +1,50 @@
+AC  M00532
+XX
+ID  V$RP58_01
+XX
+DT  27.02.2002 (created); mas.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RP58
+XX
+DE  58 KDA repressor protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05040; RP58; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14231; RP58; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16605; RP58; Species: Mammalia; site(s) included: no.
+BF  T16607; RP58; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19438; RP58; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16606; RP58; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19439; RP58; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     17     17     36     30      N
+02     42     19     25     14      N
+03     73     27      0      0      A
+04     95      0      5      0      A
+05      0    100      0      0      C
+06    100      0      0      0      A
+07      0      0      2     98      T
+08      0     98      2      0      C
+09      0      0      0    100      T
+10      0      0    100      0      G
+11      0      3     74     23      G
+12     61     29     10      0      A
+XX
+BA  44 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant RP58 from a pool of double-stranded oligonucleotides containing a core of 22 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0017569.
+RX  PUBMED: 9756912.
+RA  Aoki K., Meng G., Suzuki K., Takashi T., Kameoka Y., Nakahara K., Ishida R., Kasai M.
+RT  RP58 associates with condensed chromatin and mediates a sequence-specific transcriptional repression.
+RL  J. Biol. Chem. 273:26698-26704 (1998).
+XX
+//

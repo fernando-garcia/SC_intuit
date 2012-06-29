@@ -1,0 +1,48 @@
+AC  M00244
+XX
+ID  V$NGFIC_01
+XX
+DT  20.02.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NGFI-C
+XX
+DE  nerve growth factor-induced protein C
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00982; V$KROX_Q6;  (family).
+XX
+BF  T05190; Egr-4; Species: human, Homo sapiens; site(s) included: no.
+BF  T19919; Egr-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00620; Egr-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   52.6    0.0   10.5   36.8      W
+02    9.5    9.5    7.1   73.8      T
+03    1.9    0.0   98.1    0.0      G
+04    5.7   94.3    0.0    0.0      C
+05    0.0    0.0  100.0    0.0      G
+06    0.0    0.0    9.3   90.7      T
+07   24.1    0.0   75.9    0.0      G
+08    0.0    0.0  100.0    0.0      G
+09    0.0    0.0  100.0    0.0      G
+10    9.4   56.6    0.0   34.0      Y
+11    0.0    0.0  100.0    0.0      G
+12    2.0    0.0   70.0   28.0      G
+XX
+BA  sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant NGFI-C from a pool of double-stranded oligonucleotides containing a core of 21 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0003829.
+RX  PUBMED: 7891721.
+RA  Swirnoff A. H., Milbrandt J.
+RT  DNA-binding specificity of NGFI-A and related zinc finger transcription factors
+RL  Mol. Cell. Biol. 15:2275-2287 (1995).
+XX
+//

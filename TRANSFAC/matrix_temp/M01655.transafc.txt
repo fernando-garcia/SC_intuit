@@ -1,0 +1,62 @@
+AC  M01655
+XX
+ID  V$P53_05
+XX
+DT  28.01.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  p53
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00761; V$P53_DECAMER_Q2;  (family).
+XX
+BF  T06299; p53; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T06305; p53; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T00671; p53; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09500; p53; Species: Mammalia; site(s) included: no.
+BF  T06298; p53; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T01806; p53; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06301; p53; Species: pig, Sus scrofa; site(s) included: no.
+BF  T06302; p53; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T04997; p53; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T06297; p53; Species: sheep, Ovis aries; site(s) included: no.
+BF  T06303; p53; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+XX
+P0      A      C      G      T
+01     27      0     55     18      G
+02     18      0     73      9      G
+03     73      0     27      0      A
+04      0     91      0      9      C
+05     73      0      0     27      A
+06      0      0      0    100      T
+07      0      0    100      0      G
+08      0     36      0     64      Y
+09      0     55      0     45      Y
+10      9     73      0     18      C
+11     27      9     55      9      G
+12      0      0    100      0      G
+13     73      0     27      0      A
+14      0    100      0      0      C
+15     91      0      0      9      A
+16      9      0      0     91      T
+17      0      0    100      0      G
+18      0     36      0     64      Y
+19      9     45      0     45      Y
+20      0     64      9     27      C
+XX
+BA  102 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant p53 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0065652.
+RX  PUBMED: 17563751.
+RA  Perez C. A., Ott J., Mays D. J., Pietenpol J. A.
+RT  p63 consensus DNA-binding site: identification, analysis and application into a p63MH algorithm.
+RL  Oncogene 26:7363-7370 (2007).
+XX
+//

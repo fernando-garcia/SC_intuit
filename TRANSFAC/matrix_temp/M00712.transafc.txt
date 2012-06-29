@@ -1,0 +1,63 @@
+AC  M00712
+XX
+ID  V$MYOGENIN_Q6
+XX
+DT  13.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  myogenin
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00804; V$E2A_Q2;  (family).
+HP  M00929; V$MYOD_Q6_01;  (family).
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01531; myogenin; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15550; myogenin; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T03900; myogenin; Species: common carp, Cyprinus carpio; site(s) included: yes.
+BF  T00520; Myogenin; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08836; Myogenin; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10831; Myogenin; Species: Mammalia; site(s) included: no.
+BF  T00528; myogenin; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08853; myogenin; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01533; myogenin; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T03901; myogenin; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T01532; myogenin; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15573; myogenin; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      0      5      0      R
+02      2      2      5      0      G
+03      0      9      0      0      C
+04      9      0      0      0      A
+05      0      0      8      1      G
+06      0      4      4      1      S
+07      0      0      0      9      T
+08      0      0      9      0      G
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GACAGGTG; R00019; 8; 8;; n.
+BS  AGCAGGTG; R00242; 6; 8;; n.
+BS  GCCAGCTG; R00850; 2; 8;; n.
+BS  GACAGCTG; R02898; 11; 8;; p.
+BS  AGCAGGTG; R03074; 3; 8;; p.
+BS  GGCAGGTG; R03109; 1; 8;; n.
+BS  AGCAGCTG; R04158; 17; 8;; p.
+BS  AGCAGTTG; R04409; 116; 8;; p.
+BS  GCCATCTG; R08512; -2; 8;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00712; V$MYOGENIN_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

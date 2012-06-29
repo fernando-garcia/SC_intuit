@@ -1,0 +1,75 @@
+AC  M00032
+XX
+ID  V$CETS1P54_01
+XX
+DT  10.12.1994 (created); ewi.
+DT  22.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Ets-1(p54)
+XX
+DE  c-Ets-1(p54)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00340; V$ETS_B; c-Ets-2 binding sites (family).
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00112; c-Ets-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08495; c-Ets-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10873; c-Ets-1; Species: Mammalia; site(s) included: no.
+BF  T00111; c-Ets-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08420; c-Ets-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05015; c-Ets-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09318; c-Ets-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00114; c-Ets-1 54; Species: chick, Gallus gallus; site(s) included: no.
+BF  T10243; c-Ets-1 54; Species: chick, Gallus gallus; site(s) included: no.
+BF  T02040; c-Ets-1A; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14971; c-Ets-1A; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02123; c-Ets-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14972; c-Ets-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T01400; Ets-1 deltaVII; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      7      2      3      3      N
+02      1     14      0      0      C
+03      5      9      0      1      M
+04      0      0     15      0      G
+05      0      0     15      0      G
+06     15      0      0      0      A
+07      8      2      0      5      W
+08      4      1     10      0      G
+09      1      6      0      8      Y
+10      5      4      4      2      N
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCCGGAAGTG; R05581; 1; 10;; p.
+BS  ACCGGAAGCA; R05582; 1; 10;; p.
+BS  GCCGGATGTA; R05583; 1; 10;; p.
+BS  ACCGGAAGCT; R05584; 1; 10;; p.
+BS  ACCGGATATA; R05585; 1; 10;; p.
+BS  CCCGGAAGTG; R05586; 1; 10;; p.
+BS  ACAGGAAGTC; R05587; 1; 10;; p.
+BS  GCCGGATGCA; R05588; 1; 10;; p.
+BS  TCCGGAAGTA; R05589; 1; 10;; p.
+BS  ACAGGAAGCG; R05590; 1; 10;; p.
+BS  ACAGGATATG; R05591; 1; 10;; p.
+BS  TCCGGAAACC; R05592; 1; 10;; p.
+BS  ACAGGATATC; R05593; 1; 10;; p.
+BS  CAAGGACGAC; R05594; 1; 10;; p.
+BS  TCTGGACCCT; R05595; 1; 10;; p.
+XX
+CC  sequences selected with recombinant c-Ets-1(p54) from a pool of double-stranded oligonucleotides containing a core of 52 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0000800.
+RX  PUBMED: 1592264.
+RA  Nye J. A., Petersen J. M., Gunther C. V., Jonsen M. D., Graves B. J.
+RT  Interaction of murine Ets-1 with GGA-binding sites establishes the Ets domain as a new DNA-binding motif
+RL  Genes Dev. 6:975-990 (1992).
+XX
+//

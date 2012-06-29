@@ -1,0 +1,50 @@
+AC  M02323
+AS  MA0205
+XX
+ID  I$TRL_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Trl
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00301; GAGA factor; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      4     22      9     36      Y
+02      6     23     11     31      Y
+03     12      6     30     23      N
+04      0     64      3      4      C
+05      3      0     14     54      T
+06      1     70      0      0      C
+07     13      0      2     56      T
+08      5     54      7      5      C
+09      7     13     11     40      T
+10      9     33     10     19      N
+XX
+BA  71 sequences (DNase I footprinting)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0205.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0035399.
+RX  PUBMED: 15572468.
+RA  Bergman C. M., Carlson J. W., Celniker S. E.
+RT  Drosophila DNase I footprint database: a systematic genome annotation of transcription factor binding sites in the fruitfly, Drosophila melanogaster.
+RL  Bioinformatics 21:1747-1749 (2005).
+XX
+//

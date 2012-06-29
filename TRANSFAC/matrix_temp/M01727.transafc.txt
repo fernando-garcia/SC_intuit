@@ -1,0 +1,43 @@
+AC  M01727
+XX
+ID  V$CBF1_QX
+XX
+DT  26.04.2010 (created); dtc.
+DT  30.04.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CBF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00080; CBF1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      9      0      0      C
+02      9      0      0      0      A
+03      0      0      9      0      G
+04      0      9      0      0      C
+05      2      2      2      3      N
+06      6      0      2      1      A
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  cagcca; R03816; 15; 6;; n.
+BS  CAGCAA; R24172; 4; 6;; p.
+BS  CAGCAA; R24173; 3; 6;; p.
+BS  cagccg; R24175; 4; 6;; n.
+BS  CAGCGG; R24176; 3; 6;; p.
+BS  CAGCTT; R24178; 6; 6;; p.
+BS  CAGCGA; R24179; 4; 6;; p.
+BS  cagcta; R24180; 9; 6;; n.
+BS  cagcta; R24181; 12; 6;; n.
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

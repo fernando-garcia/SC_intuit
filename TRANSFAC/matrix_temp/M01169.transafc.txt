@@ -1,0 +1,64 @@
+AC  M01169
+XX
+ID  V$IK_Q5
+XX
+DT  12.03.2008 (created); dtc.
+DT  18.03.2008 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ikaros
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02702; Ikaros; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15348; Ikaros; Species: Mammalia; site(s) included: no.
+BF  T00479; Ikaros; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08148; Ikaros; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      4      8      8      K
+02      0      6      5     10      Y
+03      2      2      1     16      T
+04      1      0     20      0      G
+05      0      0     21      0      G
+06      0      2     19      0      G
+07     20      0      1      0      A
+08      1      2     17      1      G
+09      6      1     13      1      G
+10      2      4      5      3      N
+XX
+BA  21 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTGGGAGAn; R03503; 1; 10;; p.
+BS  TTCAGCAGGn; R03504; 1; 10;; p.
+BS  TCAGGGAGAT; R03509; 1; 10;; p.
+BS  tctgggagga; R03510; -1; 10;; n.
+BS  gttgggatgn; R03512; -1; 10;; n.
+BS  cctgggagag; R03518; -1; 10;; n.
+BS  gttgggagga; R03519; -1; 10;; n.
+BS  cttgggaggt; R08266; 10; 10;; n.
+BS  tttgggaggc; R08267; 10; 10;; n.
+BS  TCAGGGAGAn; R14942; 1; 10;; p.
+BS  TCTGGGAGGn; R14943; 1; 10;; p.
+BS  CCTGGGAGAn; R14947; 1; 10;; p.
+BS  GTTGGGAGGn; R14948; 1; 10;; p.
+BS  GGTGGCAGAG; R14958; 28; 10;; p.
+BS  ngtgggggtg; R15128; 4; 10;; n.
+BS  ggTGGGAAct; R19670; 8; 10;; p.
+BS  GGTGGGAGGG; R21298; -1; 10;; p.
+BS  GTGGGGACGC; R21299; 8; 10;; p.
+BS  GGCGGGACGG; R21301; 5; 10;; p.
+BS  cttgggaggc; R21400; 10; 10;; n.
+BS  TTTGGGAGGc; R21405; 13; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+XX
+//

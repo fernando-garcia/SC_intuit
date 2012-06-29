@@ -1,0 +1,54 @@
+AC  M00288
+XX
+ID  F$HAP234_01
+XX
+DT  12.06.1998 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HAP2/3/4
+XX
+DE  yeast factor complex HAP2/3/5, homolog to vertebrate NF-Y/CP1/CBF
+XX
+TY  family
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+HC  M02432; F$HAP2_01; class: Other Alpha-Helix; family: NFY CCAAT-binding (specific).
+HC  M02433; F$HAP3_01; class: Other Alpha-Helix; family: NFY CCAAT-binding (specific).
+HC  M02434; F$HAP4_01; class: Other Alpha-Helix; family: NFY CCAAT-binding (specific).
+XX
+BF  T00349; HAP2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T00350; HAP3; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T00351; HAP4; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      2      2      3      A
+02      1      6      0      7      Y
+03      1      9      3      1      C
+04      4      5      5      0      V
+05      6      0      4      4      D
+06      0     14      0      0      C
+07      0     14      0      0      C
+08     14      0      0      0      A
+09     14      0      0      0      A
+10      0      2      0     12      T
+11      4      6      2      2      N
+12     13      0      1      0      A
+13      3      5      5      1      N
+14      7      5      2      0      M
+15      4      3      5      2      N
+16      5      3      4      2      N
+XX
+BA  14 sequences (compiled matrix imported from literature reference)
+XX
+CC  not all binding sites are experimentally verified
+XX
+RN  [1]; RE0006901.
+RX  PUBMED: 9469818.
+RA  Mantovani R.
+RT  A survey of 178 NF-Y binding CCAAT boxes
+RL  Nucleic Acids Res. 26:1135-1143 (1998).
+XX
+//

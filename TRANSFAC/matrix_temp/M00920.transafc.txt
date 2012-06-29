@@ -1,0 +1,133 @@
+AC  M00920
+XX
+ID  V$E2F_Q6_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  12.10.2004 (updated); oke.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00024; V$E2F_01; E2F (specific).
+HC  M00425; V$E2F_Q3; E2F (specific).
+HC  M00426; V$E2F_Q4; E2F (specific).
+HC  M00427; V$E2F_Q6; E2F (specific).
+HC  M00428; V$E2F1_Q3; E2F-1 (specific).
+HC  M00430; V$E2F1_Q4; E2F-1 (specific).
+HC  M00431; V$E2F1_Q6; E2F-1 (specific).
+HC  M00516; V$E2F_03;  (specific).
+HC  M00736; V$E2F1DP1_01; E2F-1:DP-1 heterodimer (specific).
+HC  M00938; V$E2F1_Q3_01;  (specific).
+HC  M00940; V$E2F1_Q6_01;  (specific).
+HC  M01250; V$E2F1_01;  (specific).
+HC  M01251; V$E2F1_02;  (specific).
+HC  M02089; V$E2F3_Q6;  (specific).
+HC  M02090; V$E2F4_Q6;  (specific).
+HC  M02743; V$E2F3_03; class: Winged Helix-Turn-Helix; family: E2F (specific).
+HC  M02847; V$E2F4_04; class: Winged Helix-Turn-Helix; family: E2F (specific).
+XX
+BF  T17038; DP-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01548; DP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09417; DP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16691; DP-1; Species: Mammalia; site(s) included: no.
+BF  T01549; DP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09979; DP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04056; E2F; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04747; E2F; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02951; E2F-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09329; E2F-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01542; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09117; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09570; E2F-1; Species: Mammalia; site(s) included: no.
+BF  T01543; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09126; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02952; E2F-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09988; E2F-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05204; E2F-1:DP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14606; E2F-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17404; E2F-3; Species: Mammalia; site(s) included: no.
+BF  T09191; E2F-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01545; E2F-3a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02947; E2F-3A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04107; E2F-3B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01546; E2F-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10751; E2F-4; Species: Mammalia; site(s) included: no.
+BF  T16329; E2F-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16710; E2F-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06110; E2F-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16711; E2F-7; Species: Mammalia; site(s) included: no.
+BF  T06112; E2F-7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15104; E2F-7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00221; E2F:DP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00232; E2F:DP:E4; Species: adenovirus type 5; site(s) included: yes.
+BF  T00232; E2F:DP:E4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11     11      4     13      N
+02      1      8     14     16      K
+03      6     26      6      1      C
+04      0     12     26      1      G
+05      0     39      0      0      C
+06      0      0     39      0      G
+07      0     36      3      0      C
+08      0     20     16      3      S
+09     33      0      6      0      A
+10     34      3      2      0      A
+11     27      2      8      2      A
+12      9     14      7      9      N
+XX
+BA  39 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACCGCGCGAAAA; R00310; 4; 12;; n.
+BS  TTCCCGCGAAAA; R00311; 4; 12;; n.
+BS  TAAGCGCGAAAA; R00326; 5; 12;; p.
+BS  AGGGCGCGAAAC; R00329; 4; 12;; p.
+BS  ACCGCGCGAAAA; R00330; -3; 12;; p.
+BS  TTCGCGCCAAAC; R01801; 2; 12;; p.
+BS  TTCCCGCCAAGC; R01851; -5; 12;; n.
+BS  ATCGCGCTGAGT; R01852; 2; 12;; p.
+BS  CGGGCGCCAAAC; R04349; -1; 12;; n.
+BS  TGCGCGCGGAAC; R04352; -1; 12;; n.
+BS  AGCGCGCGAAAA; R08507; 1; 12;; n.
+BS  CCTGCGCCAAAG; R08508; -1; 12;; n.
+BS  ACCGCGGGAAAA; R08635; -1; 12;; n.
+BS  CTCCCGCCAGGC; R08663; -2; 12;; p.
+BS  AGAGCGCGAAAG; R08679; -1; 12;; n.
+BS  TTCGCGCCAATC; R08798; -1; 12;; n.
+BS  GCAGCGCTAAGA; R08807; -3; 12;; p.
+BS  TTCGCGCCAAAC; R08811; 2; 12;; p.
+BS  TTCGCGCCAAAC; R08817; 2; 12;; p.
+BS  ACCGCGCCGCCC; R08861; 5; 12;; n.
+BS  CGGTCGCTGCAG; R08862; -4; 12;; n.
+BS  TTCCCGCCAAGC; R08900; -2; 12;; n.
+BS  ACCCCGCCAAAC; R09542; -1; 12;; n.
+BS  CCCCCGCCAAAT; R09543; -1; 12;; n.
+BS  CTCCCGCCAAAT; R09584; -1; 12;; n.
+BS  TGCCCGCGAACT; R09586; 1; 12;; n.
+BS  CTCCCGCCAAGT; R09599; -1; 12;; n.
+BS  CTCCCGCCAAAG; R09600; -1; 12;; n.
+BS  CTCGCGCCAAAT; R09601; -1; 12;; n.
+BS  TTGGCGCCAAAC; R09603; -1; 12;; n.
+BS  TTACCGCGAAAG; R09604; -3; 12;; p.
+BS  AGCGCGGGAATT; R09626; -3; 12;; p.
+BS  GGAGCGCGGGGC; R09627; 5; 12;; n.
+BS  GGGGCGCCACGA; R09628; 2; 12;; n.
+BS  TGGGCGCGAAAA; R09798; -1; 12;; n.
+BS  AGCGCGCGAAAT; R09803; -1; 12;; n.
+BS  CGCCCGCCAAAG; R11777; -1; 12;; n.
+BS  GTAGCGGGAAAT; R13183; 11; 12;; n.
+BS  CGCGCGCCGAAG; C00119,  s00175; -1; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

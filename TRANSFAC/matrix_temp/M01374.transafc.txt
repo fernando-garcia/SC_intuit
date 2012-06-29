@@ -1,0 +1,57 @@
+AC  M01374
+XX
+ID  V$SIX4_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  six4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03344; six4; Species: human, Homo sapiens; site(s) included: no.
+BF  T11385; six4; Species: human, Homo sapiens; site(s) included: no.
+BF  T08392; six4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03264; six4-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03265; six4-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03266; six4-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.52   0.17   0.14   0.17      A
+02   0.19   0.18   0.25   0.39      N
+03   0.41   0.12   0.31   0.16      N
+04   0.35   0.29   0.13   0.23      N
+05   0.61   0.12   0.10   0.17      A
+06   0.02   0.03   0.02   0.94      T
+07   0.01   0.00   0.96   0.02      G
+08   0.99   0.01   0.00   0.00      A
+09   0.01   0.81   0.01   0.17      C
+10   0.97   0.03   0.00   0.00      A
+11   0.01   0.99   0.00   0.00      C
+12   0.00   0.97   0.01   0.02      C
+13   0.21   0.23   0.21   0.35      N
+14   0.34   0.30   0.10   0.26      N
+15   0.13   0.29   0.25   0.34      N
+16   0.17   0.30   0.25   0.28      N
+17   0.41   0.21   0.30   0.08      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0164.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

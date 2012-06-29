@@ -1,0 +1,49 @@
+AC  M01064
+XX
+ID  P$AGL3_03
+XX
+DT  27.05.2005 (created); rhe_cga.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AGL3
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03025; AGL3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13811; AGL3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     18     11      6      7      N
+02      8      5      8     21      N
+03      5      5      3     29      T
+04     14      9      6     13      N
+05      2     40      0      0      C
+06      0     36      0      6      C
+07     34      1      0      7      A
+08     18      2      3     19      W
+09     28      0      0     14      W
+10     19      0      0     23      W
+11     28      1      1     12      A
+12      3      3      0     36      T
+13     29      0     11      2      A
+14      0      0     40      2      G
+15     12      9      2     19      N
+16     25      2      6      9      A
+17     23      6      7      6      A
+18      9      8     10     15      N
+XX
+BA  42 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AGL3 from a pool of double-stranded oligonucleotides containing a core of 42 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0035218.
+RX  PUBMED: 8597661.
+RA  Huang H., Tudor M., Su T., Zhang Y., Hu Y., Ma H.
+RT  DNA binding properties of two Arabidopsis MADS domain proteins: binding consensus and dimer formation.
+RL  Plant Cell 8:81-94 (1996).
+XX
+//

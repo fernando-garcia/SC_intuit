@@ -1,0 +1,43 @@
+AC  M02512
+AS  MA0393
+XX
+ID  F$STE12_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STE12
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00772; STE12; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+BF  T10866; STE12; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0   3261     96  25022      T
+02   4297      0  24137    198      G
+03  27122      0   1278      0      A
+04  25290    167   2703      0      A
+05  27887      0      0      0      A
+06     98  27779      0     97      C
+07  15301   3002   9387   2275      R
+XX
+BA  28379 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0393.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

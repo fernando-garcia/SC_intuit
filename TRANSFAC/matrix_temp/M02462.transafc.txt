@@ -1,0 +1,56 @@
+AC  M02462
+AS  MA0343
+XX
+ID  F$NDT80_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NDT80
+XX
+DE  class: Ig-fold; family: NDT80/PhoG
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03513; NDT80; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    289    282    118    309      N
+02    197    276    160    364      N
+03    169    213    172    443      N
+04    215    403    140    239      N
+05    201    430    176    191      N
+06     99    114    495    290      K
+07    188     20    675    116      G
+08    444    483     41     30      M
+09     12    948      4     34      C
+10    940      7     45      6      A
+11     18    967      6      6      C
+12    965      4      9     20      A
+13    970      5     15      8      A
+14    945      3     14     37      A
+15    713     24    236     24      A
+16    496    178     82    241      N
+17    123    630     95    149      C
+18    127    329    440    102      S
+19    314    330    277     78      N
+20    360    177    230    231      N
+21    477    192    174    154      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0343.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

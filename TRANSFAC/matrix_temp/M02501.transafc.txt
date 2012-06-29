@@ -1,0 +1,44 @@
+AC  M02501
+AS  MA0382
+XX
+ID  F$SKO1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SKO1
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01306; SKO1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+BF  T10853; SKO1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    957      0      0      0      A
+02      0    957      0      0      C
+03    100      0    897      0      G
+04      0      0      0    957      T
+05    957      0      0      0      A
+06    592      0      0    364      W
+07      0      0      0    957      T
+08      0      0    957      0      G
+XX
+BA  957 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0382.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

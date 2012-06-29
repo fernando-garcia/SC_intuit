@@ -1,0 +1,69 @@
+AC  M00414
+XX
+ID  V$AREB6_03
+XX
+DT  09.10.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AREB6
+XX
+DE  AREB6 (Atp1a1 regulatory element binding factor 6)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01467; ZEB; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T14843; ZEB; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02314; ZEB; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T14844; ZEB; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T14846; ZEB; Species: Mammalia; site(s) included: no.
+BF  T03915; ZEB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14845; ZEB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00625; ZEB (1124 AA); Species: human, Homo sapiens; site(s) included: yes.
+BF  T02324; ZEB (1154 AA); Species: human, Homo sapiens; site(s) included: yes.
+BF  T15251; ZEB1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18263; Zeb1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18264; Zfhep-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18265; Zfhep-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      5      4      0      V
+02      1      4      2      5      N
+03      5      0      7      0      R
+04      0     12      0      0      C
+05     12      0      0      0      A
+06      0     11      0      1      C
+07      0     11      1      0      C
+08      0      0      0     12      T
+09      0      0     12      0      G
+10      0      1      5      6      K
+11      3      1      5      3      N
+12      3      6      2      1      C
+XX
+BA  12 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGACATCTGGCG; R09418; 1; 12;; p.
+BS  CCGCACCTGGAA; R09419; 1; 12;; p.
+BS  GTACACGTGCAA; R09420; 1; 12;; p.
+BS  CCACACCTGTGC; R09421; 1; 12;; p.
+BS  CTGCACCTGTAC; R09422; 1; 12;; p.
+BS  GTGCACCTGGTC; R09423; 1; 12;; p.
+BS  AGACACCTGTGC; R09424; 1; 12;; p.
+BS  CCACACCTGGGG; R09425; 1; 12;; p.
+BS  GCGCACCTGGTC; R09426; 1; 12;; p.
+BS  GAGCACCTGTGT; R09427; 1; 12;; p.
+BS  ATGCACCTGTTC; R09428; 1; 12;; p.
+BS  CTGCACCTGTGA; R09429; 1; 12;; p.
+XX
+CC  sequences selected with recombinant AREB6 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0011035.
+RX  PUBMED: 7588776.
+RA  Ikeda K., Kawakami K.
+RT  DNA binding through distinct domains of zinc-finger-homeodomain protein AREB6 has different effects on gene transcription
+RL  Eur. J. Biochem. 233:73-82 (1995).
+XX
+//

@@ -1,0 +1,82 @@
+AC  M01281
+XX
+ID  V$NFAT1_Q6
+XX
+DT  08.07.2009 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NFAT1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00302; V$NFAT_Q6; Nuclear factor of activated T-cells (family).
+HP  M00935; V$NFAT_Q4_01;  (family).
+XX
+BF  T00550; NF-AT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01948; NF-AT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11024; NF-AT1; Species: Mammalia; site(s) included: yes.
+BF  T01944; NF-AT1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05171; NF-AT1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19122; NF-AT1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09194; NF-AT1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15616; NFAT1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19124; NFAT1-isoformB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19123; NFAT1-isoformC; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15617; NFAT1-isoformD; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0     33      0      G
+02      0      0     34      0      G
+03     34      0      0      0      A
+04     34      0      0      0      A
+05     31      2      1      0      A
+06     18      6      6      4      A
+XX
+BA  34 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGAAAA; R00930; 9; 6;; p.
+BS  GGAAAA; R00931; 4; 6;; p.
+BS  GGAAAA; R02210; 4; 6;; p.
+BS  GGAAAA; R02348; 1; 6;; p.
+BS  GGAAAA; R02349; 1; 6;; p.
+BS  ggaaaa; R05053; 5; 6;; n.
+BS  ggaaaa; R05054; 18; 6;; n.
+BS  GGAAAA; R05055; 12; 6;; p.
+BS  ggaaaa; R05072; 18; 6;; n.
+BS  ggaaat; R05096; 14; 6;; n.
+BS  GGAAAC; R05097; 6; 6;; p.
+BS  ggaaat; R08170; 12; 6;; n.
+BS  GGAACA; R08171; 5; 6;; p.
+BS  AGAAAC; R08185; 9; 6;; p.
+BS  ggaagc; R08186; 4; 6;; n.
+BS  ggaaca; R13414; 4; 6;; n.
+BS  GGAAAT; R13475; 6; 6;; p.
+BS  ggaaag; R14422; 5; 6;; n.
+BS  ggaaac; R14475; 17; 6;; n.
+BS  GGAAAA; R14626; 14; 6;; p.
+BS  GGAAAG; R14627; 8; 6;; p.
+BS  ggaaag; R14628; 15; 6;; n.
+BS  ggaaaa; R14629; 14; 6;; n.
+BS  ggaaaa; R14630; 15; 6;; n.
+BS  ggaaat; R14631; 16; 6;; n.
+BS  GGAAAC; R14662; 9; 6;; p.
+BS  ggaaag; R14708; 5; 6;; n.
+BS  ggaaaa; R21082; 41; 6;; n.
+BS  GGAAAA; R24088; 9; 6;; p.
+BS  GGAAAG; R24089; 11; 6;; p.
+BS  GGAAAC; R24127; 12; 6;; p.
+BS  GGAAAA; R24474; 4; 6;; p.
+BS  ggaaaa; R27351; 7; 6;; n.
+BS  ggaaag; R27426; 24; 6;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+XX
+//

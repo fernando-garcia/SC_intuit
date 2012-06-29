@@ -1,0 +1,58 @@
+AC  M00262
+XX
+ID  V$STAF_01
+XX
+DT  29.10.1997 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Staf
+XX
+DE  Se-Cys tRNA gene transcription activating factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02247; Staf; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04993; Staf; Species: human, Homo sapiens; site(s) included: no.
+BF  T18490; Staf; Species: Mammalia; site(s) included: yes.
+BF  T18502; Staf; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19419; Staf; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   27.3   15.2   24.2   33.3      N
+02   11.9   23.8   11.9   52.4      T
+03    6.8   20.5    6.8   65.9      T
+04     55    3.3     10   31.7      W
+05    1.6   95.2      0    3.2      C
+06      0    100      0      0      C
+07      0    100      0      0      C
+08   83.9      0   14.5    1.6      A
+09    3.2   38.7   30.7   27.4      N
+10   54.8   35.6    9.6      0      M
+11   91.8    1.4    6.8      0      A
+12    1.4      0    1.4   97.2      T
+13      0   19.2   75.3    5.5      G
+14    1.4   97.2    1.4      0      C
+15   74.6   15.5    2.9      7      A
+16   23.4   34.4      0   42.2      Y
+17    1.9   46.3    3.7   48.1      Y
+18   29.3    2.4   58.5    9.8      R
+19    3.2   77.4    9.7    9.7      C
+20   23.1    7.7   61.5    7.7      G
+21   21.4   35.7   14.3   28.6      N
+22    7.7   38.5   15.4   38.4      Y
+XX
+BA  73 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Staf from a pool of double-stranded oligonucleotides containing a core of 17 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0005958.
+RX  PUBMED: 9009278.
+RA  Schaub M., Myslinski E., Schuster C., Krol A., Carbon P.
+RT  Staf, a promiscuous activator for enhanced transcription by RNA polymerases II and IIII
+RL  EMBO J. 16:173-181 (1997).
+XX
+//

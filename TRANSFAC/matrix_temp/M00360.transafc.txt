@@ -1,0 +1,54 @@
+AC  M00360
+XX
+ID  V$PAX3_01
+XX
+DT  19.01.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-3
+XX
+DE  Pax-3 binding sites
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+XX
+BF  T03015; Pax-3; Species: chick, Gallus gallus; site(s) included: no.
+BF  T17261; Pax-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00679; Pax-3; Species: human, Homo sapiens; site(s) included: no.
+BF  T11270; Pax-3; Species: human, Homo sapiens; site(s) included: no.
+BF  T10279; Pax-3; Species: Mammalia; site(s) included: no.
+BF  T00680; Pax-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09162; Pax-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16574; Pax-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     26      T
+02      0     26      0      0      C
+03      0      0     26      0      G
+04      4      0      0     22      T
+05      0     25      0      1      C
+06     25      1      0      0      A
+07      0     24      0      2      C
+08     11      0     15      0      R
+09      0     21      4      1      C
+10      4      5      1     16      T
+11      1      8      0     17      T
+12      9     10      0      7      H
+13     13      8      3      2      M
+XX
+BA  26 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Pax-3 from a pool of double-stranded oligonucleotides containing a core of 75 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0014013.
+RX  PUBMED: 7557441.
+RA  Chalepakis G., Gruss P.
+RT  Identification of DNA recognition sequences for the Pax3 paired domain
+RL  Gene 162:267-270 (1995).
+XX
+//

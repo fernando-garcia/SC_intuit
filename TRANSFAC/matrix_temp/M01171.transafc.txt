@@ -1,0 +1,53 @@
+AC  M01171
+XX
+ID  V$BCL6_Q3
+XX
+DT  12.03.2008 (created); dtc.
+DT  18.03.2008 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BCL6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02322; BCL-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09129; BCL-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16043; BCL-6; Species: Mammalia; site(s) included: no.
+BF  T08156; BCL-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14189; BCL-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16051; Bcl-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16052; Bcl-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1      2      1      N
+02      0      1      2      2      K
+03      0      0      1      6      T
+04      0      1      0      6      T
+05      0      6      0      1      C
+06      1      1      1      4      T
+07      7      0      0      0      A
+08      0      0      7      0      G
+09      0      0      7      0      G
+10      3      0      1      3      W
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTTTCCAGGG; R00702; 19; 10;; p.
+BS  ggttcaaggt; R13024; 30; 10;; n.
+BS  TTTCCGAGGA; R13025; 13; 10;; p.
+BS  gggtctaggt; R13026; 45; 10;; n.
+BS  nnttctagga; R16701; 3; 10;; n.
+BS  nnttttagga; R16702; 2; 10;; n.
+BS  acttctaggt; R17199; 13; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+XX
+//

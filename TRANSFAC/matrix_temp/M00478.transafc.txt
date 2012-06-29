@@ -1,0 +1,60 @@
+AC  M00478
+XX
+ID  V$CDC5_01
+XX
+DT  06.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Cdc5
+XX
+DE  cell division control protein 5
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04728; cdc5L; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18829; cdc5L; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18830; cdc5L; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18831; cdc5L; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18832; cdc5L; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18833; cdc5L; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      9      0      G
+02      6      1      1      2      A
+03      1      0      3      6      T
+04      1      0      1      8      T
+05      1      0      0      9      T
+06     10      0      0      0      A
+07      8      1      0      1      A
+08      1      7      0      2      C
+09      6      0      3      1      A
+10      1      1      0      8      T
+11      8      1      1      0      A
+12      6      0      2      2      A
+XX
+BA  10 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GATTTAACATAA; R10919; 3; 12;; p.
+BS  GATTTAACATAA; R10920; 2; 12;; p.
+BS  GATTTAACATAA; R10921; 4; 12;; p.
+BS  GATTTAACATAA; R10922; 4; 12;; p.
+BS  GATTTAACATAA; R10923; 1; 12;; p.
+BS  GGTGTAACGTGG; R10924; 4; 12;; p.
+BS  GTGTTACCACAT; R10925; 4; 12;; p.
+BS  CCATAAATTTAG; R10926; 1; 12;; p.
+BS  GAGATAAAGTCT; R10927; 3; 12;; p.
+BS  GTGTTATTGAAA; R10928; 3; 12;; p.
+XX
+CC  sequences selected with recombinant Cdc5 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 6-8 rounds of selection and amplification
+XX
+RN  [1]; RE0016827.
+RX  PUBMED: 11082045.
+RA  Lei X. H., Shen X., Xu X. Q., Bernstein H. S.
+RT  Human Cdc5, a regulator of mitotic entry, can act as a site-specific DNA binding protein
+RL  J. Cell Sci. 113:4523-4531 (2000).
+XX
+//

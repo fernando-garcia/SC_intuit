@@ -1,0 +1,56 @@
+AC  M02505
+AS  MA0386
+XX
+ID  F$TBP_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBP
+XX
+DE  class: Beta-sheet; family: TATA-binding
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00798; TBP; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    277    250    386     84      N
+02    337    191    147    323      N
+03    253    345     88    313      N
+04    160    200    154    484      N
+05    545    139    154    160      A
+06    115     98    701     84      G
+07    287    198    266    247      N
+08    332    110     27    529      W
+09    907      7     25     59      A
+10     12      7     23    955      T
+11    981      2      4     12      A
+12     38      1      5    954      T
+13    970      2      6     20      A
+14     44      4      3    947      T
+15    883     10     24     81      A
+16    186     62     94    657      T
+17    264    122    129    483      N
+18    137    380    369    112      S
+19    266    228    384    121      N
+20    350    176    172    301      N
+21    248    193    270    286      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0386.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

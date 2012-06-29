@@ -1,0 +1,75 @@
+AC  M00778
+XX
+ID  V$AHR_Q5
+XX
+DT  21.01.2003 (created); sre.
+DT  11.03.2005 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AhR
+XX
+DE  aryl hydrocarbon / dioxin receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00976; V$AHRHIF_Q6;  (family).
+XX
+BF  T02270; AhR; Species: guinea pig, Cavia porcellus; site(s) included: yes.
+BF  T01795; AhR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08992; AhR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00018; AhR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09051; AhR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05414; AhR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T05398; AhR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00019; AhR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15046; AhR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18749; Ahr-xbb2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05424; AhR2; Species: killifish, Fundulus heteroclitus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2     11      6      6      N
+02      1      2      5     17      T
+03      4      6      5     10      N
+04      0      0     25      0      G
+05      0     25      0      0      C
+06      0      0     25      0      G
+07      0      0      0     25      T
+08      0      0     25      0      G
+09      9      9      2      5      N
+10      4      7     11      3      N
+11      7      7      5      6      N
+XX
+BA  25 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTTGCGTGAGA; R00270; 13; 11;; n.
+BS  GTGGCGTGTCT; R02649; 10; 11;; p.
+BS  CTAGCGTGACA; R02650; 10; 11;; p.
+BS  GTTGCGTGAGA; R02651; 10; 11;; p.
+BS  CTAGCGTGCGT; R02652; 8; 11;; n.
+BS  CTCGCGTGGAT; R02653; 10; 11;; p.
+BS  CTCGCGTGAGA; R02654; 8; 11;; n.
+BS  CTTGCGTGCGG; R13150; 7; 11;; n.
+BS  TGGGCGTGCAG; R13159; 1; 11;; n.
+BS  CTTGCGTGCGC; R13161; 1; 11;; n.
+BS  GTTGCGTGAGA; R13162; 1; 11;; n.
+BS  CTCGCGTGACT; R13163; 1; 11;; p.
+BS  CTCGCGTGCTG; R13226; 4; 11;; p.
+BS  TTAGCGTGTTC; R13227; 4; 11;; n.
+BS  AAGGCGTGTGC; R13228; 5; 11;; n.
+BS  TGTGCGTGTGT; R13237; 10; 11;; n.
+BS  TGTGCGTGCAC; R13238; 9; 11;; n.
+BS  TTCGCGTGACG; R13240; 8; 11;; n.
+BS  GGGGCGTGGCA; R13248; 2; 11;; p.
+BS  CCGGCGTGCGC; R13260; 3; 11;; p.
+BS  CTTGCGTGTTT; R13262; 12; 11;; p.
+BS  GTTGCGTGCCC; R13263; 12; 11;; p.
+BS  TGTGCGTGACA; R13264; 1; 11;; p.
+BS  CTCGCGTGCAG; R13268; 1; 11;; p.
+BS  ACAGCGTGAGC; R13274; 7; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+//

@@ -1,0 +1,60 @@
+AC  M01594
+XX
+ID  V$TCF3_01
+XX
+DT  09.12.2009 (created); sla.
+DT  05.02.2010 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TCF-3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00805; V$LEF1_Q2;  (family).
+XX
+BF  T02857; TCF-3; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T18225; TCF-3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T02877; TCF-3; Species: human, Homo sapiens; site(s) included: no.
+BF  T16694; TCF-3; Species: human, Homo sapiens; site(s) included: no.
+BF  T16693; TCF-3; Species: Mammalia; site(s) included: no.
+BF  T01111; TCF-3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15598; TCF-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16695; TCF-3; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T17522; Tcf-3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T17523; Tcf-3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T08957; TCF-3A; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02858; TCF-3B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02861; TCF-3C; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02862; TCF-3D; Species: clawed frog, Xenopus laevis; site(s) included: no.
+XX
+P0      A      C      G      T
+01     42    279    142    165      N
+02     14    458      5    151      C
+03     31      3      0    594      T
+04      3     32      2    591      T
+05      2      0      3    623      T
+06     18    150    436     24      G
+07    248     25     13    342      W
+08    134     60     67    367      T
+09    216     86     84    242      N
+10     55     27     19    527      T
+11     13    100    289    226      K
+12     58    240     58    272      Y
+13    242     64     66    256      W
+XX
+BA  628 sequences (ChIP-Seq)
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0063396.
+RX  PUBMED: 18692474.
+RA  Marson A., Levine S. S., Cole M. F., Frampton G. M., Brambrink T., Johnstone S., Guenther M. G., Johnston W. K., Wernig M., Newman J., Calabrese J. M., Dennis L. M., Volkert T. L., Gupta S., Love J., Hannett N., Sharp P. A., Bartel D. P., Jaenisch R., Young R. A.
+RT  Connecting microRNA genes to the core transcriptional regulatory circuitry of embryonic stem cells.
+RL  Cell 134:521-533 (2008).
+XX
+//

@@ -1,0 +1,101 @@
+AC  M02088
+XX
+ID  V$E2A_Q6_01
+XX
+DT  24.10.2011 (created); mkl.
+DT  18.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2A
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00804; V$E2A_Q2;  (family).
+HP  M00929; V$MYOD_Q6_01;  (family).
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01787; E12; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00204; E12; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01786; E12; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00675; E12; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19679; E2A; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T15605; E2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10541; E2A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00207; E47; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10212; E47; Species: Mammalia; site(s) included: yes.
+BF  T01788; E47; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00674; E47; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09296; Tcfe2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9     10     18      4      N
+02     11      5     21      5      R
+03     16     16      5      5      M
+04      0     42      0      0      C
+05     41      0      1      0      A
+06      1     18     14      9      S
+07      0     36      6      0      C
+08      0      0      0     42      T
+09      0      0     42      0      G
+10      5     22     10      5      C
+11      8     12      9     12      N
+12      9      4     20      8      N
+13     10     12     13      6      N
+XX
+BA  42 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGACAGGTGCTGG; R00019; 4; 13;; n.
+BS  GGGCACCTGTCCT; R00223; 3; 13;; p.
+BS  CAACACCTGCTGC; R00242; 3; 13;; p.
+BS  nGCCAGCTGGnnn; R00850; -3; 13;; n.
+BS  CACCACCTGGGTA; R00860; 4; 13;; p.
+BS  GGCCACCTGCCTA; R00881; -2; 13;; n.
+BS  CGCCATCTGCCTA; R00909; -1; 13;; p.
+BS  GGCCATCTGCTGA; R00913; 4; 13;; p.
+BS  AGACAGCTGCAGC; R02898; 10; 13;; p.
+BS  TTGCACCTGCTGC; R03074; 1; 13;; n.
+BS  CCTCACCTGCCTT; R03109; -3; 13;; p.
+BS  AGCCAGCTGACAC; R03471; 7; 13;; n.
+BS  GGACATCTGCGTC; R04046; 17; 13;; p.
+BS  CGCCACCTGCTGG; R04418; 8; 13;; p.
+BS  AGCCACGTGATTG; R10079; 22; 13;; n.
+BS  cctCACCTGtaca; R13330; 6; 13;; p.
+BS  CAGCAACTGCTGC; R14856; 1; 13;; n.
+BS  CAACAGCTGGTGG; R14858; 8; 13;; n.
+BS  AGACAGCTGGGAA; R14863; 8; 13;; p.
+BS  GAACAGCTGCTAA; R14864; 20; 13;; p.
+BS  ACACACCTGGGGT; R16617; 15; 13;; n.
+BS  CACCAGCTGACAG; R16654; 7; 13;; n.
+BS  GGACACCTGCTGA; R18521; 3; 13;; p.
+BS  GTGCACCTGGGGC; R18522; 18; 13;; p.
+BS  GAACATCTGTCGA; R20586; 7; 13;; p.
+BS  GTTCATCTGTCAG; R20589; 6; 13;; n.
+BS  GGCCAGCTGGACA; R20590; 6; 13;; n.
+BS  GGGCGCCTGTCAG; R20596; 10; 13;; p.
+BS  TCACACCTGGCTC; R21454; 9; 13;; n.
+BS  TACCAGCTGCTGT; R26270; 3; 13;; p.
+BS  AGACAGCTGCAGT; R26272; 3; 13;; p.
+BS  GAACACCTGCAGC; R26276; 14; 13;; p.
+BS  GAACAGGTGCACC; R26342; 10; 13;; p.
+BS  GTACAGCTGCTTG; R26767; 13; 13;; n.
+BS  GTACATCTGCCGC; R28952; 8; 13;; p.
+BS  GGCCATCTGGCAG; R30631; 8; 13;; p.
+BS  cgcCAGCTGaggt; R32066; 5; 13;; p.
+BS  gacCATCTGcggc; R33394; 8; 13;; p.
+BS  TGCCACCTGCAGG; R35391; 4; 13;; p.
+BS  agtCACGTGcaag; R35977; 3; 13;; n.
+BS  AGTCACGTGGGGG; R35978; 6; 13;; p.
+BS  ACCCATGTGAGAG; R35992; 17; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00973; V$E2A_Q6.
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

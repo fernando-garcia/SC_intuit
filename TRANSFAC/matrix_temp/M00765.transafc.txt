@@ -1,0 +1,73 @@
+AC  M00765
+XX
+ID  V$COUP_DR1_Q6
+XX
+DT  29.11.2002 (created); ela.
+DT  29.11.2002 (updated); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  COUP direct repeat 1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00155; V$ARP1_01; apolipoprotein AI regulatory protein 1 (specific).
+HC  M02783; V$NR2F2_03; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02887; V$NR2F2_04; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+XX
+BF  T02761; COUP; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00147; COUP; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06153; COUP-TF1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00148; COUP-TF1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00149; COUP-TF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08505; COUP-TF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10201; COUP-TF1; Species: Mammalia; site(s) included: no.
+BF  T00994; COUP-TF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09428; COUP-TF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15391; COUP-TF1; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T18422; COUP-TF2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18423; COUP-TF2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T06155; COUP-TF2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00045; COUP-TF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10068; COUP-TF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10310; COUP-TF2; Species: Mammalia; site(s) included: no.
+BF  T13744; COUP-TF2; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T06154; COUP-TF2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09429; COUP-TF2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06156; COUP-TF2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10954; COUP-TF2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06251; COUP-TFI; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10280; COUP-TFI; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      1      7      T
+02      0      0      9      0      G
+03      9      0      0      0      A
+04      1      8      0      0      C
+05      0      9      0      0      C
+06      0      2      0      7      T
+07      0      1      1      7      T
+08      0      0      0      9      T
+09      0      0      9      0      G
+10      5      1      2      1      A
+11      0      8      1      0      C
+12      1      6      0      2      C
+13      1      5      0      2      C
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGACCTTTGACCC; R00157; 1; 13;; p.
+BS  TGACCTTTGACAC; R01193; 1; 13;; n.
+BS  TGACCTTTGCCCA; R02657; 5; 13;; p.
+BS  TGAACTGTGACCT; R03931; 16; 13;; n.
+BS  TGACCCCTGTGCT; R04760; 1; 13;; p.
+BS  TGACCTTTGACTC; R04770; 1; 13;; p.
+BS  TGACCTTTGGCC; R12074; 1; 13; 13; p.
+BS  AGACCTTTGGCCC; R13018; 10; 13;; p.
+BS  TGACCCTTGACTC; R13048; 1; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

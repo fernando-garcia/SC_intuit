@@ -1,0 +1,79 @@
+AC  M00733
+XX
+ID  V$SMAD4_Q6
+XX
+DT  02.06.2002 (created); ela.
+DT  12.12.2002 (updated); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SMAD4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00792; V$SMAD_Q6;  (family).
+HP  M00974; V$SMAD_Q6_01;  (family).
+XX
+BF  T18574; Smad4; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T17940; Smad4; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04252; Smad4; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T15778; Smad4; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T04292; Smad4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09304; Smad4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13998; Smad4; Species: Mammalia; site(s) included: no.
+BF  T05067; Smad4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09461; Smad4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03882; Smad4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10235; Smad4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03884; Smad4; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T15780; Smad4; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T04153; smad4alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T15779; smad4alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04554; smad4delta3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04555; smad4delta4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04559; smad4delta4-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04560; smad4delta4-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04558; smad4delta5-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04557; smad4delta6; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      2      7      0      G
+02      1      1      3      5      K
+03      1      4      5      0      S
+04      4      0      6      0      R
+05      0      0      6      4      K
+06      0      2      5      3      K
+07      0      7      2      1      C
+08      8      1      1      0      A
+09      0      0     10      0      G
+10      4      5      0      1      M
+11      0     10      0      0      C
+12      8      0      0      2      A
+13      2      3      3      2      N
+14      2      7      0      1      C
+15      0      4      0      6      Y
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAAGGGCAGACATTT; R09916; 32; 15;; n.
+BS  ATGAGTCAGACACCT; R09937; -1; 15;; p.
+BS  GTCAGGCAGACAGAC; R09952; -9; 15;; p.
+BS  GTGATTCAGCCATCT; R09955; 12; 15;; n.
+BS  GTGGGGGAGTCAGCC; R09967; 15; 15;; p.
+BS  CGGGTCCCGCCTCCT; R10054; -1; 15;; p.
+BS  GGCGGGCGGCCTAAT; R10056; -4; 15;; n.
+BS  GCCGTCTAGACACCC; R10063; 10; 15;; n.
+BS  CTGGGTGAGCCAACT; R10069; 1; 15;; p.
+BS  GGCATGCAGCCAGCC; R10078; 28; 15;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00733; V$SMAD4_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

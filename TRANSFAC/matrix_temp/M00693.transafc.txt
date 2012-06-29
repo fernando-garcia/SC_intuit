@@ -1,0 +1,74 @@
+AC  M00693
+XX
+ID  V$E12_Q6
+XX
+DT  13.03.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E12
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00804; V$E2A_Q2;  (family).
+HP  M00929; V$MYOD_Q6_01;  (family).
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01787; E12; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05422; E12; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00204; E12; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17415; E12; Species: Mammalia; site(s) included: no.
+BF  T01786; E12; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00675; E12; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19679; E2A; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T17424; E2A; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15605; E2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13855; E2A; Species: Mammalia; site(s) included: no.
+BF  T10541; E2A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05421; E47; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00207; E47; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10212; E47; Species: Mammalia; site(s) included: no.
+BF  T01788; E47; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00674; E47; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00432; ITF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09296; Tcfe2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      2      5      0      R
+02      4      1      6      0      R
+03      0     11      0      0      C
+04     11      0      0      0      A
+05      0      0     11      0      G
+06      2      1      8      0      G
+07      0      0      0     11      T
+08      0      0     11      0      G
+09      1      4      3      3      N
+10      2      6      1      2      C
+11      3      3      5      0      V
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GACAGGTGCTG; R00019; 5; 11;; n.
+BS  GACAGGTGCCC; R00223; 3; 11;; n.
+BS  AGCAGGTGTTG; R00241; 2; 11;; n.
+BS  GGCAGGTGGCC; R00881; 1; 11;; p.
+BS  GACAGCTGCAG; R02898; 11; 11;; p.
+BS  AGCAGGTGCAA; R03074; 3; 11;; p.
+BS  GGCAGGTGAGG; R03109; -3; 11;; n.
+BS  AACAGGTGTCA; R03471; 2; 11;; p.
+BS  CGCAGATGTCC; R04046; 17; 11;; n.
+BS  AGCAGGTGGCG; R04418; 8; 11;; n.
+BS  CCCAGATGGCA; R08512; -3; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

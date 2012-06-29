@@ -1,0 +1,68 @@
+AC  M00736
+XX
+ID  V$E2F1DP1_01
+XX
+DT  27.08.2002 (created); vma.
+DT  22.12.2011 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F-1:DP-1
+XX
+DE  E2F-1:DP-1 heterodimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00920; V$E2F_Q6_01;  (family).
+XX
+BF  T05204; E2F-1:DP-1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      3      1     17      T
+02      2      1      0     22      T
+03      0      0      0     25      T
+04      0     17      8      0      C
+05      0     14     11      0      S
+06      0     25      0      0      C
+07      3      0     22      0      G
+08      0     19      6      0      C
+XX
+BA  25 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTTCCCAG; R12780; 3; 8;; p.
+BS  TTTCGCGC; R12781; 1; 8;; p.
+BS  ATTCCCAG; R12782; 4; 8;; p.
+BS  TTTCCCGC; R12783; 4; 8;; p.
+BS  CTTCCCAG; R12784; 2; 8;; p.
+BS  TTTCCCGC; R12785; 2; 8;; p.
+BS  TTTCCCGC; R12786; 6; 8;; p.
+BS  TTTGGCGG; R12787; 4; 8;; p.
+BS  TCTCCCGC; R12788; 1; 8;; p.
+BS  TTTGGCGC; R12789; 2; 8;; p.
+BS  AATCGCGC; R12790; 1; 8;; p.
+BS  ATTGGCGC; R12791; 5; 8;; p.
+BS  TTTCGCGC; R12792; 5; 8;; p.
+BS  TTTCCCGC; R12793; 5; 8;; p.
+BS  TTTGGCGC; R12794; 6; 8;; p.
+BS  AATCCCGC; R12795; 2; 8;; p.
+BS  TTTGGCGG; R12796; 5; 8;; p.
+BS  TTTGGCGC; R12797; 2; 8;; p.
+BS  TTTGGCGC; R12798; 7; 8;; p.
+BS  TTTCCCGC; R12799; 4; 8;; p.
+BS  CTTCCCGC; R12800; 5; 8;; p.
+BS  TTTCGCGG; R12801; 2; 8;; p.
+BS  TTTGCCGC; R12802; 4; 8;; p.
+BS  TTTCCCGC; R12803; 4; 8;; p.
+BS  CTTCCCGC; R12804; 2; 8;; p.
+XX
+CC  sequences selected with recombinant E2F-1:DP-1 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0014130.
+RX  PUBMED: 9372931.
+RA  Tao Y., Kassatly R. F., Cress W. D., Horowitz J. M.
+RT  Subunit composition determines E2F DNA-binding site specificity
+RL  Mol. Cell. Biol. 17:6994-7007 (1997).
+XX
+//

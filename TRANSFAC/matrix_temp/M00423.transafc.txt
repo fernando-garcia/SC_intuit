@@ -1,0 +1,58 @@
+AC  M00423
+XX
+ID  V$FOXJ2_02
+XX
+DT  12.01.2001 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXJ2
+XX
+DE  fork head box J 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T11206; Foxj2; Species: human, Homo sapiens; site(s) included: no.
+BF  T04170; FOXJ2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14712; FOXJ2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16582; Foxj2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04169; FOXJ2 (long isoform); Species: human, Homo sapiens; site(s) included: yes.
+BF  T04171; FOXJ2 (short isoform); Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      1      1      0      A
+02      1      2      0      3      Y
+03      3      3      0      0      M
+04      5      0      0      1      A
+05      0      2      0      4      T
+06      6      0      0      0      A
+07      6      0      0      0      A
+08      0      1      0      5      T
+09      5      0      1      0      A
+10      0      1      1      4      T
+11      0      1      0      5      T
+12      0      0      1      5      T
+13      1      0      2      3      K
+14      1      1      1      3      N
+XX
+BA  6 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS   AATCAATATTGAC; R09788; -1; 14;; p.
+BS  ACAACAACACTTGG; R09789; 4; 14;; p.
+BS  GTCATAATATTTTT; R09790; 2; 14;; p.
+BS  ATCATAATATTTTT; R09791; 1; 14;; p.
+BS  ACCATAATGTCTTT; R09792; 7; 14;; p.
+BS  CTAATAATAGTTGA; R09793; 1; 14;; p.
+XX
+CC  sequences selected with recombinant FOXJ2 from a pool of double-stranded oligonucleotides containing a core of 59 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0015563.
+RX  PUBMED: 10777590.
+RA  Perez-Sanchez C., Gomez-Ferreria M. A., de La Fuente C. A., Granadino B., Velasco G., Esteban-Gamboa A., Rey-Campos J.
+RT  FHX, a novel fork head factor with a dual DNA binding specificity
+RL  J. Biol. Chem. 275:12909-12916 (2000).
+XX
+//

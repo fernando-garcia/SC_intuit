@@ -1,0 +1,55 @@
+AC  M00142
+XX
+ID  F$NIT2_01
+XX
+DT  29.05.1995 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NIT2
+XX
+DE  activator of nitrogen-regulated genes
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00627; NIT2; Species: Neurospora crassa; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     16      T
+02     16      0      0      0      A
+03      0      0      0     16      T
+04      0     16      0      0      C
+05      4      0      3      9      T
+06      7      6      0      3      M
+XX
+BA  16 sequences (compiled matrix imported from literature reference)
+XX
+BS  TATCAT; R07213; 1; 6;; p.
+BS  TATCTA; R07214; 12; 6;; n.
+BS  TATCAC; R07215; 11; 6;; p.
+BS  TATCTA; R07216; 31; 6;; p.
+BS  TATCAA; R07217; 44; 6;; p.
+BS  TATCAA; R07218; 54; 6;; p.
+BS  TATCTA; R07219; 2; 6;; p.
+BS  TATCTA; R07220; 26; 6;; p.
+BS  TATCGT; R07221; 22; 6;; p.
+BS  TATCTC; R07222; 61; 6;; p.
+BS  TATCTA; R07223; 1; 6;; n.
+BS  TATCTC; R07224; 7; 6;; n.
+BS  TATCGC; R07225; 8; 6;; p.
+BS  TATCGT; R07226; 22; 6;; p.
+BS  TATCTC; R07227; 7; 6;; p.
+BS  TATCTC; R07228; 29; 6;; n.
+XX
+CC  binding sites from 2 genes of Neurospora crassa and Aspergillus nidulans
+XX
+RN  [1]; RE0002401.
+RX  PUBMED: 2142530.
+RA  Fu Y.-H., Marzluf G. A.
+RT  nit-2, the major positive-acting nitrogen regulatory gene of Neurospora crassa, encodes a sequence-specific DNA-binding protein
+RL  Proc. Natl. Acad. Sci. USA 87:5331-5335 (1990).
+XX
+//

@@ -1,0 +1,89 @@
+AC  M01002
+XX
+ID  V$DEAF1_02
+XX
+DT  31.05.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DEAF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05885; DEAF-1; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T14827; DEAF-1; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T14828; DEAF-1; Species: Mammalia; site(s) included: no.
+BF  T14829; DEAF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14830; DEAF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19902; DEAF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19903; DEAF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T21277; Deaf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T21278; Deaf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19904; DEAF1-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T21279; Deaf1-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19905; DEAF1-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19906; DEAF1-4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      2      6      1      R
+02      4      6      3      2      N
+03      5      2      5      3      N
+04      4      3      6      3      N
+05      8      3      8      1      R
+06      3      5      0     13      T
+07      1      0      1     19      T
+08      0     21      0      0      C
+09      0      1     20      0      G
+10      1      0     19      1      G
+11      2      2     13      4      G
+12      7      3      3      8      N
+13     10      3      6      2      R
+14      2      1      2     16      T
+15      0      6      0     15      T
+16      1      0      2     17      T
+17      0     15      0      6      C
+18      0     17      0      4      C
+19      0      4     13      0      G
+20      2      1     11      3      G
+21      5      2      8      2      R
+22      8      1      7      0      R
+23      3      2      4      7      N
+24      1      1      8      4      K
+25      3      4      2      5      N
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAGCACTCGGGTATTTCCGCCAGTG; R15019; 5; 25;; p.
+BS  GAACACTCGGGTGTTTCCGTGAG; R15020; 8; 25; 31, 32; p.
+BS  GTGAGTTCGGCAGTTTCC; R15021; 13; 25; 31, 32, 33, 34, 35, 36, 37; p.
+BS  GGGGACTCGGGTGTTTCC; R15022; 13; 25; 31, 32, 33, 34, 35, 36, 37; p.
+BS  ACGTCATCGGGTGTTTCC; R15023; 13; 25; 31, 32, 33, 34, 35, 36, 37; p.
+BS  ACATGTTCGGGACTTTCC; R15024; 13; 25; 31, 32, 33, 34, 35, 36, 37; p.
+BS   CGGATTCGTGCATTTCCGGAGGGG; R15025; 1; 25; 1; p.
+BS   CTACTTCGGGCGTTTCCGGAGTTT; R15026; 1; 25; 1; p.
+BS  GCCCATTCGGGTATTTCCGGCGCGT; R15027; 6; 25;; p.
+BS  AAAGACACGACCGTTTCCGGAATCA; R15028; 6; 25;; p.
+BS  GCAGAATCGGAGTTTTCCGAA; R15029; 10; 25; 31, 32, 33, 34; p.
+BS  CTTTCCTCGGTAATTTCCGGACT; R15030; 8; 25; 31, 32; p.
+BS  TGTGGTTCGGGTATTTTCGTGACGA; R15031; 1; 25;; p.
+BS  AGAGGTTCGGGGATTTCCGTGATGT; R15032; 6; 25;; p.
+BS       TTCGGTTACTTCCGATAAAA; R15033; 1; 25; 1, 2, 3, 4, 5; p.
+BS      GTTCGGTAAACTTCGGGGTGC; R15034; 1; 25; 1, 2, 3, 4; p.
+BS      GTTCGGTAAACTTCGGGGTGC; R15035; 1; 25; 1, 2, 3, 4; p.
+BS      TTTCGGGACGCGCTCGGGATT; R15036; 1; 25; 1, 2, 3, 4; p.
+BS  GACAATTCGGGGATC TTCGGAGGT; R15037; 1; 25; 16; p.
+BS     AGTTCGGGTTTCGTTCGGAAGC; R15038; 1; 25; 1, 2, 3; p.
+BS      GAGCCGAACGCATTCGTGTTC; R15039; 1; 25; 1, 2, 3, 4; p.
+XX
+CC  sequences selected with recombinant DEAF1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0023680.
+RX  PUBMED: 9773984.
+RA  Huggenvik J. I., Michelson R. J., Collard M. W., Ziemba A. J., Gurley P., Mowen K. A.
+RT  Characterization of a nuclear deformed epidermal autoregulatory factor-1 (DEAF-1)-related (NUDR) transcriptional regulator protein.
+RL  Mol. Endocrinol. 12:1619-1639 (1998).
+XX
+//

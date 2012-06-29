@@ -1,0 +1,56 @@
+AC  M02388
+AS  MA0269
+XX
+ID  F$RCS1_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  22.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RCS1
+XX
+DE  class: Other; family: Other
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03538; RCS1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    106    205    231    456      N
+02    155    249    220    374      N
+03    362    197    221    218      N
+04    179    396    222    200      N
+05    426    231    154    187      N
+06    136     78    142    641      T
+07    716     25     31    226      A
+08    145     31    288    535      K
+09     34     47     39    878      T
+10    160     10    812     16      G
+11     10    966     11     10      C
+12    961      9     15     14      A
+13      8    972      9     10      C
+14     25    955      2     16      C
+15     19    740     13    225      C
+16    181    257    494     65      S
+17    265    252    241    240      N
+18    287    155    183    373      N
+19    276    180     68    474      W
+20    123    225    357    292      N
+21    154    236    458    150      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0269.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

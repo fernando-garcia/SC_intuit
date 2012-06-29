@@ -1,0 +1,79 @@
+AC  M00089
+XX
+ID  P$ATHB1_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Athb-1
+XX
+DE  Arabidopsis thaliana homeo box protein 1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01474; ATHB-1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T14381; ATHB-1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      3      3      4      N
+02      1      5      3     10      T
+03      4      4      7      4      N
+04      3     13      4      3      C
+05     22      1      0      1      A
+06     25      0      0      0      A
+07      0      0      0     25      T
+08      0      5      0     20      T
+09     25      0      0      0      A
+10      0      0      0     25      T
+11      0      0      0     25      T
+12      3      1     12      0      G
+13      2      8      4      1      C
+14      8      1      3      1      A
+XX
+BA  25 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATACAATTATTGGA; R06314; 2; 14;; p.
+BS     CAATTATTGCA; R06315; -3; 14;; p.
+BS  TTGAAATTATTG; R06316; 4; 14;; p.
+BS     CAATTATTACG; R06317; -3; 14;; p.
+BS  TCTCAATCATT; R06318; 5; 14;; p.
+BS  ATGCAATCATTCA; R06319; 3; 14;; p.
+BS  TCACAATTATT; R06320; 5; 14;; p.
+BS  AGCGTATTATTGCA; R06321; 2; 14;; p.
+BS       ATTATTGAG; R06322; -5; 14;; p.
+BS  ACCCAATCATT; R06323; 5; 14;; p.
+BS     TAATTATTGCA; R06324; -3; 14;; p.
+BS  ATTCAATTATT; R06325; 5; 14;; p.
+BS  CTTGAATTATTGGA; R06326; 1; 14;; p.
+BS  ACGGCATTATT; R06327; 5; 14;; p.
+BS   AGTAATTATTGCT; R06328; -1; 14;; p.
+BS     CAATTATTGCA; R06329; -3; 14;; p.
+BS  GTTCAATTATT; R06330; 5; 14;; p.
+BS  GGGTAATTATT; R06331; 5; 14;; p.
+BS   TGCAATCATTAGC; R06332; -1; 14;; p.
+BS  AGACAATTATT; R06333; 5; 14;; p.
+BS  TTAAAATTATTGCA; R06334; 2; 14;; p.
+BS  CTCGAATTATTGG; R06335; 3; 14;; p.
+BS  CCCAAATTATTGCA; R06336; 2; 14;; p.
+BS  GTGCAATCATT; R06337; 5; 14;; p.
+BS      AATTATTATG; R06338; -4; 14;; p.
+XX
+CC  sequences selected with recombinant Athb-1 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0008.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0002964.
+RX  PUBMED: 8253077.
+RA  Sessa G., Morelli G., Ruberti I.
+RT  The Athb-1 and -2 HD-Zip domains homodimerize forming complexes of different DNA binding specificities
+RL  EMBO J. 12:3507-3517 (1993).
+XX
+//

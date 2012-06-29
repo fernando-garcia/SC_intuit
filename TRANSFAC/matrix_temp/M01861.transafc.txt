@@ -1,0 +1,94 @@
+AC  M01861
+XX
+ID  V$ATF1_Q6_01
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T14282; ATF-1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14283; ATF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00968; ATF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09069; ATF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10237; ATF-1; Species: Mammalia; site(s) included: yes.
+BF  T14818; ATF-1; Species: mink, Mustela vison; site(s) included: yes.
+BF  T01304; ATF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09930; ATF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10800; ATF-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10801; ATF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2     11      8     22      T
+02      4     15     14     10      N
+03     28      5      7      3      A
+04      0     43      0      0      C
+05      1      3     38      1      G
+06      0      0      0     43      T
+07      0     38      5      0      C
+08     39      1      0      3      A
+09      4     19     10     10      N
+XX
+BA  43 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTCGTCAC; R00343; 7; 9;; p.
+BS  ACACGTCAG; R00779; 6; 9;; n.
+BS  TGTCGTCAA; R00780; 7; 9;; n.
+BS  TGACGTCAG; R01358; 2; 9;; n.
+BS  CCACGTCAt; R03911; 9; 9;; n.
+BS  TGACGTCAT; R04356; 5; 9;; n.
+BS  TGACGTCAT; R04357; 4; 9;; n.
+BS  CACCGTCAG; R04753; 4; 9;; n.
+BS  TGACCTCAG; R13230; 3; 9;; n.
+BS  ATCCCTCAC; R13381; 7; 9;; p.
+BS  TTACGTGAC; R14781; 18; 9;; n.
+BS  TCACGTCAC; R16776; 8; 9;; p.
+BS  GTACGTCAC; R19543; 14; 9;; p.
+BS  GCGCGTCAT; R20193; 6; 9;; n.
+BS  CTGCGTCAC; R20199; 8; 9;; n.
+BS  TCACGTCAT; R20509; 8; 9;; n.
+BS  TGACGTCAC; R20819; 7; 9;; p.
+BS  TGACGTCAC; R20821; 7; 9;; p.
+BS  TGACTTCAA; R20975; 13; 9;; n.
+BS  TAGCGTCAC; R21486; 10; 9;; p.
+BS  CCACGTCAC; R22231; 9; 9;; p.
+BS  GCACGTCAC; R23883; 8; 9;; p.
+BS  CTTCGTCCA; R24882; 3; 9;; n.
+BS  TGACGTCAC; R24895; 19; 9;; p.
+BS  TGACGTCAG; R24961; 10; 9;; n.
+BS  TCCCCTGTA; R25010; 42; 9;; n.
+BS  TAACGTCAC; R25014; 3; 9;; n.
+BS  GCACGTCAC; R25046; 4; 9;; p.
+BS  TCGCGTCAG; R26041; 46; 9;; n.
+BS  TGACGTCAT; R27588; 9; 9;; p.
+BS  CTGCGTCAT; R29836; 13; 9;; p.
+BS  gTACGTGtg; R30422; 6; 9;; n.
+BS  cCACGTGat; R30423; 4; 9;; n.
+BS  cCACGTGtc; R30425; 7; 9;; n.
+BS  gccCGTCAg; R31350; 7; 9;; p.
+BS  CACCGTCAC; R31351; 9; 9;; n.
+BS  CTGCGTCAG; R31372; 6; 9;; p.
+BS  GCACGTCAC; R32731; 13; 9;; n.
+BS  TCACGTCAt; R32733; 11; 9;; p.
+BS  CGACGTCAC; R33868; 12; 9;; n.
+BS  TGACATCAT; R34122; 12; 9;; p.
+BS  GTGCGTCAC; R34151; 14; 9;; n.
+BS  TGACGTCAG; R34433; 9; 9;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

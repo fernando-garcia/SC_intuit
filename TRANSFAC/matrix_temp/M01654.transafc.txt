@@ -1,0 +1,72 @@
+AC  M01654
+XX
+ID  V$DRI1_01
+XX
+DT  28.01.2010 (created); jtr.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DRI1
+XX
+DE  DRI1 b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17283; DRI1; Species: Mammalia; site(s) included: no.
+BF  T06432; DRI1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14719; DRI1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04867; DRIL1; Species: human, Homo sapiens; site(s) included: no.
+BF  T11146; DRIL1; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     22      0      5      0      A
+02     27      0      0      0      A
+03      2      0      0     25      T
+04      8      0      0     19      T
+05     27      0      0      0      A
+06     26      0      0      1      A
+XX
+BA  27 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AATTAA; R30263; 20; 6;; p.
+BS  AATTAA; R30264; 5; 6;; p.
+BS  AATTAA; R30265; 16; 6;; p.
+BS  AATTAA; R30266; 1; 6;; p.
+BS  AATTAA; R30267; 20; 6;; p.
+BS  AATTAA; R30268; 9; 6;; p.
+BS  AATTAA; R30269; 20; 6;; p.
+BS  AATTAA; R30270; 9; 6;; p.
+BS  AATTAA; R30271; 15; 6;; p.
+BS  AATTAA; R30272; 7; 6;; p.
+BS  AATTAA; R30273; 7; 6;; p.
+BS  AATTAA; R30274; 12; 6;; p.
+BS  AATTAA; R30275; 16; 6;; p.
+BS  AATAAA; R30276; 19; 6;; p.
+BS  AATAAA; R30277; 14; 6;; p.
+BS  AATAAA; R30278; 20; 6;; p.
+BS  AATAAA; R30279; 16; 6;; p.
+BS  AATAAA; R30280; 20; 6;; p.
+BS  AATAAA; R30281; 20; 6;; p.
+BS  AATAAA; R30282; 14; 6;; p.
+BS  GATTAA; R30283; 15; 6;; p.
+BS  GATTAA; R30284; 1; 6;; p.
+BS  GATTAA; R30285; 20; 6;; p.
+BS  GATTAA; R30286; 6; 6;; p.
+BS  AAAAAA; R30287; 16; 6;; p.
+BS  AAATAT; R30288; 20; 6;; p.
+BS  GATTAA; R30289; 18; 6;; p.
+XX
+CC  sequences selected with recombinant DRI1 from a pool of double-stranded oligonucleotides containing a core of 35 random nucleotides; 7 rounds of selection and amplification
+XX
+DR  JASPAR: MA0151.
+XX
+RN  [1]; RE0012159.
+RX  PUBMED: 8543152.
+RA  Herrscher R. F., Kaplan M. H., Lelsz D. L., Das C., Scheuermann R. H., Tucker P. W.
+RT  The immunoglobulin heavy-chain matrix-assocating regions are bound by Bright: a B cell-specific trans-activator that describes a new DNA-binding protein family
+RL  Genes Dev. 9:3067-3082 (1995).
+XX
+//

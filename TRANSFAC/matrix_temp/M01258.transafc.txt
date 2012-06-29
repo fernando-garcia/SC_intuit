@@ -1,0 +1,48 @@
+AC  M01258
+XX
+ID  V$GADP_01
+XX
+DT  30.06.2009 (created); sla.
+DT  25.11.2009 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GABP
+XX
+DE  Growth-associated binding protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15308; GABP; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     47    280     81     92      C
+02    288     48    133     31      A
+03      3    418     19     60      C
+04     10      2      0    488      T
+05      2      0      2    496      T
+06      0    499      1      0      C
+07      0    499      1      0      C
+08      3      4    423     70      G
+09      5     87    386     22      G
+10     38    197    113    152      N
+11     54    126    167    153      N
+12     53    216    122    109      N
+XX
+BA  500 sequences (ChIP-Seq)
+XX
+DR  JASPAR: MA0062.
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0062885.
+RX  PUBMED: 19160518.
+RA  Valouev A., Johnson D. S., Sundquist A., Medina C., Anton E., Batzoglou S., Myers R. M., Sidow A.
+RT  Genome-wide analysis of transcription factor binding sites based on ChIP-Seq data.
+RL  Nat. Methods 5:829-834 (2008).
+XX
+//

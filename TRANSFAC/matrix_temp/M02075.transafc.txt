@@ -1,0 +1,41 @@
+AC  M02075
+XX
+ID  V$PDEF_02
+XX
+DT  11.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PDEF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05403; PDEF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14783; PDEF; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     43     41      9      7      M
+02      7     80     12      1      C
+03     28     72      1      0      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06    100      0      0      0      A
+07     11     11      2     76      T
+08     31     20     40      9      N
+09      5     28      5     62      T
+10     36     14     27     24      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

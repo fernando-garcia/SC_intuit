@@ -1,0 +1,54 @@
+AC  M02263
+AS  MA0150
+XX
+ID  V$NFE2L2_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NFE2L2
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T01443; Nrf2; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T09645; Nrf2-isoform1; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     10      1      9      0      R
+02      0      0      0     20      T
+03      0      0     19      1      G
+04     20      0      0      0      A
+05      0     17      1      2      C
+06      6      2      1     11      W
+07      5     10      1      4      C
+08     16      0      2      2      A
+09      0      0     20      0      G
+10      0     20      0      0      C
+11     15      2      2      1      A
+XX
+BA  20 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Annotations from PAZAR NFE2L2(NRF2) in the AREs project (TF0000699)
+XX
+DR  JASPAR: MA0150.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

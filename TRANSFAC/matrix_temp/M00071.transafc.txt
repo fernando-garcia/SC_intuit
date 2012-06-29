@@ -1,0 +1,69 @@
+AC  M00071
+XX
+ID  V$E47_02
+XX
+DT  18.04.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E47
+XX
+DE  E47
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00804; V$E2A_Q2;  (family).
+HP  M00929; V$MYOD_Q6_01;  (family).
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T05422; E12; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00204; E12; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17415; E12; Species: Mammalia; site(s) included: no.
+BF  T01786; E12; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00675; E12; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19679; E2A; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T17424; E2A; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15605; E2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13855; E2A; Species: Mammalia; site(s) included: no.
+BF  T10541; E2A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05421; E47; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00207; E47; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10212; E47; Species: Mammalia; site(s) included: no.
+BF  T01788; E47; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00674; E47; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00432; ITF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09296; Tcfe2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     41     24     17     17      N
+02     31     24     14     31      N
+03     17     17     30     36      N
+04     50     26      7     17      M
+05     50     14     33      3      R
+06      0    100      0      0      C
+07    100      0      0      0      A
+08      0      5     92      3      G
+09      0     16     84      0      G
+10      0      0      0    100      T
+11      0      0    100      0      G
+12      0     24     13     63      T
+13     20      3      8     69      T
+14     34     46     11      9      M
+15     34     27     24     15      N
+16     25     37     22     16      N
+XX
+BA  38 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant E47 from a pool of double-stranded oligonucleotides containing a core of 35 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0002932.
+RX  PUBMED: 8289805.
+RA  Hsu H.-L., Huang L., Tsan J. T., Funk W., Wright W. E., Hu J.-S., Kingston R. E., Baer R.
+RT  Preferred sequences for DNA recognition by the TAL1 helix-loop-helix proteins
+RL  Mol. Cell. Biol. 14:1256-1265 (1994).
+XX
+//

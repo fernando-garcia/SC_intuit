@@ -1,0 +1,61 @@
+AC  M00634
+XX
+ID  V$GCM_Q2
+XX
+DT  08.03.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCM
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M02758; V$GCM1_03; class: Zinc-coordinating; family: Glial Cells Missing (GCM) (specific).
+HC  M02862; V$GCM1_04; class: Zinc-coordinating; family: Glial Cells Missing (GCM) (specific).
+XX
+BF  T21285; Gcm1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T21286; Gcm1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02306; GCMa; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10059; GCMa; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02307; GCMa; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11258; GCMa; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16622; GCMb; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16623; GCMb; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02308; GCMb; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11256; GCMb; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      4      0      1      C
+02      3      2      1      1      N
+03      1      2      2      2      N
+04      3      0      3      1      R
+05      0      7      0      0      C
+06      0      7      0      0      C
+07      1      6      0      0      C
+08      1      0      5      1      G
+09      0      7      0      0      C
+10      7      0      0      0      A
+11      0      0      1      6      T
+12      2      0      2      3      D
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AAATCCCGCATA; R04612; 3; 12;; n.
+BS  CATACCCGCAGT; R04614; 1; 12;; p.
+BS  CAGACCCACATA; R04615; 1; 12;; p.
+BS  TTTGCCCGCATT; R04616; 1; 12;; p.
+BS  CCGGCCCGCATT; R04617; 3; 12;; n.
+BS  ACCACCCTCATG; R04619; 1; 12;; p.
+BS  CGCGCCAGCATG; R04620; 1; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

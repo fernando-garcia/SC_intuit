@@ -1,0 +1,48 @@
+AC  M01209
+XX
+ID  V$GAF_Q6
+XX
+DT  29.01.2009 (created); dtc.
+DT  13.02.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GAF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00300; GAF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15514; GAF; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      5      1      0      C
+02      3      1      2      0      R
+03      1      1      2      2      N
+04      5      0      0      1      A
+05      0      0      0      6      T
+06      0      0      0      6      T
+07      1      5      0      0      C
+08      0      5      0      1      C
+09      0      4      0      2      Y
+10      2      1      2      1      N
+11      0      0      2      4      K
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ccctttcccga; R00947; 2; 11;; n.
+BS  CATATTACTCT; R03064; 12; 11;; p.
+BS  CATATTCCTGT; R25189; 9; 11;; p.
+BS  cccattcccgt; R26240; 25; 11;; n.
+BS  ggaattcccag; R26241; 7; 11;; n.
+BS  CAGATTCTCAG; R26244; 8; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+XX
+//

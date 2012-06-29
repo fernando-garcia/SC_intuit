@@ -1,0 +1,62 @@
+AC  M00011
+XX
+ID  V$EVI1_06
+XX
+DT  09.11.1992 (created); ewi.
+DT  20.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Evi-1
+XX
+DE  ectopic viral integration site 1 encoded factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05220; Evi-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10210; Evi-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T00273; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10211; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16545; Evi1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     16      0      0      0      A
+02      0     16      0      0      C
+03     15      0      0      1      A
+04     16      0      0      0      A
+05      0      0     16      0      G
+06     16      0      0      0      A
+07      0      0      0     16      T
+08     15      0      0      1      A
+09     12      1      3      0      A
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ACAAGATAA; R05176; 4; 9;; p.
+BS  ACAAGATAA; R05177; 4; 9;; p.
+BS  ACAAGATAA; R05178; 4; 9;; p.
+BS  ACAAGATAG; R05179; 4; 9;; p.
+BS  ACAAGATAA; R05180; 4; 9;; p.
+BS  ACAAGATAA; R05181; 4; 9;; p.
+BS  ACAAGATAA; R05182; 4; 9;; p.
+BS  ACAAGATAG; R05183; 4; 9;; p.
+BS  ACAAGATTA; R05184; 4; 9;; p.
+BS  ACAAGATAA; R05185; 4; 9;; p.
+BS  ACAAGATAA; R05186; 4; 9;; p.
+BS  ACAAGATAC; R05187; 4; 9;; p.
+BS  ACAAGATAA; R05188; 4; 9;; p.
+BS  ACAAGATAG; R05189; 4; 9;; p.
+BS  ACTAGATAA; R05190; 4; 9;; p.
+BS  ACAAGATAA; R05191; 4; 9;; p.
+XX
+CC  sequences selected with recombinant Evi-1 from a pool of double-stranded oligonucleotides containing a core of 50 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0001648.
+RX  PUBMED: 2017172.
+RA  Perkins A. S., Fishel R., Jenkins N. A., Copeland N. G.
+RT  Evi-1, a murine zinc finger proto-oncogene, encodes a sequence-specific DNA-binding protein
+RL  Mol. Cell. Biol. 11:2665-2674 (1991).
+XX
+//

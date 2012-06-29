@@ -1,0 +1,67 @@
+AC  M01859
+XX
+ID  V$AP2GAMMA_Q5
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-2 gamma
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00189; V$AP2_Q6; activator protein 2 (family).
+HP  M00800; V$AP2_Q3;  (family).
+HP  M00915; V$AP2_Q6_01;  (family).
+XX
+BF  T02468; AP-2gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09207; AP-2gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02470; AP-2gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10482; AP-2gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10535; AP-2gamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      5      3      7      N
+02      7      2      4      7      N
+03      0      2     20      0      G
+04      0     22      0      0      C
+05      0     22      0      0      C
+06      0      7      1     14      T
+07      2      3     11      6      K
+XX
+BA  22 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TAGCCTG; R03674; -2; 7;; p.
+BS  aaGCCCG; R17162; 6; 7;; p.
+BS  TTGCCTG; R18668; 3; 7;; p.
+BS  AACCCTT; R18670; 14; 7;; n.
+BS  TGGCCTG; R21274; 5; 7;; p.
+BS  CAGCCCA; R21434; 12; 7;; p.
+BS  TACCCTT; R21447; 17; 7;; n.
+BS  TAGCCTT; R23014; 11; 7;; p.
+BS  ATGCCTC; R25139; 15; 7;; p.
+BS  CTGCCCT; R25423; 5; 7;; p.
+BS  nnGCCTC; R25424; -2; 7;; p.
+BS  TTGCCTG; R27593; 13; 7;; n.
+BS  CCGCCCC; R27595; -1; 7;; p.
+BS  GGGCCTG; R27596; 7; 7;; p.
+BS  GTGCCTG; R27597; 4; 7;; p.
+BS  nnGCCCG; R30017; -2; 7;; p.
+BS  GAGCCCA; R32421; 12; 7;; p.
+BS  atgcctg; R32422; 11; 7;; n.
+BS  ctgcctt; R32423; 5; 7;; p.
+BS  tggccgt; R32424; 15; 7;; n.
+BS  AGGCCTG; R33179; 9; 7;; p.
+BS  CCGCCCG; R33805; 11; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

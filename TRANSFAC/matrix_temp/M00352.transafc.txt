@@ -1,0 +1,45 @@
+AC  M00352
+XX
+ID  P$DOF1_01
+XX
+DT  29.04.1999 (created); rhe.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Dof1
+XX
+DE  Dof1 / MNB1a - single zinc finger transcription factor
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01059; MNB1a; Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      3      2      2      A
+02      7      3      3      2      N
+03      2      6      2      5      N
+04      6      0      0      9      W
+05     15      0      0      0      A
+06     15      0      0      0      A
+07     15      0      0      0      A
+08      0      0     15      0      G
+09      5      6      1      3      N
+10      4      4      3      4      N
+11      4      6      2      2      N
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Dof1 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0053.
+XX
+RN  [1]; RE0013547.
+RX  PUBMED: 10074718.
+RA  Yanagisawa S., Schmidt R. J.
+RT  Diversity and similarity among recognition sequences of Dof transcription factors.
+RL  Plant J. 17:209-214 (1999).
+XX
+//

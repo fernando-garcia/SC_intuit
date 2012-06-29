@@ -1,0 +1,97 @@
+AC  M01187
+XX
+ID  P$STF1_02
+XX
+DT  22.05.2008 (created); nta.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STF1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T14442; STF1; Species: soybean, Glycine max; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15      1     21      3      R
+02     24      1     16      2      R
+03      0      0      0     46      T
+04      0      0     50      0      G
+05     50      0      0      0      A
+06      0     50      0      0      C
+07      0      0     50      0      G
+08      1      0      0     49      T
+09     10     25     13      2      S
+10     23      0      7      6      A
+11      3      7      6      4      N
+12      2     11      4      0      C
+XX
+BA  50 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GATGACGTCA; R24392; 4; 12; 14, 15; p.
+BS  GATGACGTCA; R24394; 2; 12; 12, 13; p.
+BS  GATGACGTCA; R24395; 3; 12; 13, 14; p.
+BS  GATGACGTCA; R24396; 7; 12; 17, 18; p.
+BS  GATGACGTCA; R24397; 4; 12; 14, 15; p.
+BS  AGTGACGTCA; R24398; 4; 12; 14, 15; p.
+BS  AGTGACGTCA; R24399; 4; 12; 14, 15; p.
+BS  AGTGACGTCA; R24400; 4; 12; 14, 15; p.
+BS  AATGACGTCA; R24401; 4; 12; 14, 15; p.
+BS  AATGACGTCA; R24402; 4; 12; 14, 15; p.
+BS  GGTGACGTCA; R24403; 4; 12; 14, 15; p.
+BS  GATGACGTC; R24404; 4; 12; 13, 14, 15; p.
+BS  AGTGACGTC; R24405; 5; 12; 14, 15, 16; p.
+BS  GTTGACGTC; R24406; 5; 12; 14, 15, 16; p.
+BS  ATTGACGTCATA; R24407; 5; 12;; p.
+BS  CATGACGTCAC; R24408; 2; 12; 13; p.
+BS  GATGACGTCACG; R24409; 2; 12;; p.
+BS  GATGACGTCACG; R24410; 1; 12;; p.
+BS  AGTGACGTCAGG; R24411; 4; 12;; p.
+BS     GACGTCAGC; R24412; 1; 12; 1, 2, 3; p.
+BS     GACGTCGAC; R24413; 1; 12; 1, 2, 3; p.
+BS     GACGTCGGC; R24414; 1; 12; 1, 2, 3; p.
+BS     GACGTCGTA; R24415; 1; 12; 1, 2, 3; p.
+BS  GATGACGTC; R24416; 5; 12; 14, 15, 16; p.
+BS  GATGACGTG; R24417; 5; 12; 14, 15, 16; p.
+BS  AGTGACGTG; R24418; 5; 12; 14, 15, 16; p.
+BS  AGTGACGTG; R24419; 5; 12; 14, 15, 16; p.
+BS  AATGACGTG; R24420; 4; 12; 13, 14, 15; p.
+BS  AATGACGTG; R24421; 5; 12; 14, 15, 16; p.
+BS  GGTGACGTG; R24422; 2; 12; 11, 12, 13; p.
+BS  GGTGACGTG; R24423; 4; 12; 13, 14, 15; p.
+BS  TGTGACGTG; R24424; 5; 12; 14, 15, 16; p.
+BS    TGACGTGTTC; R24425; 1; 12; 1, 2; p.
+BS  GATGACGTGTAC; R24426; 6; 12;; p.
+BS    TGACGTGTAC; R24427; 1; 12; 1, 2; p.
+BS  GATGACGTGT; R24428; 4; 12; 14, 15; p.
+BS   ATGACGTGACG; R24429; 1; 12; 1; p.
+BS  GGTGACGTA; R24430; 5; 12; 14, 15, 16; p.
+BS  GATGACGTA; R24431; 5; 12; 14, 15, 16; p.
+BS  TGTGACGTAT; R24432; 3; 12; 13, 14; p.
+BS  AATGACGTATGC; R24433; 1; 12;; p.
+BS  GATGACGTAAG; R24434; 1; 12; 12; p.
+BS  TGTGACGTAAG; R24435; 6; 12; 17; p.
+BS   GTGACGTAACC; R24436; 1; 12; 1; p.
+BS  GATGACGTAA; R24437; 4; 12; 14, 15; p.
+BS  AATGACGTAG; R24438; 4; 12; 14, 15; p.
+BS  GATGACGTAGCC; R24439; 2; 12;; p.
+BS  AGTGACGTTA; R24440; 4; 12; 14, 15; p.
+BS    TGACGTTGTC; R24441; 1; 12; 1, 2; p.
+BS   CTGACGACGCC; R24442; 1; 12; 1; p.
+XX
+CC  sequences selected with recombinant STF1 from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0052988.
+RX  PUBMED: 18287490.
+RA  Song Y. H., Yoo C. M., Hong A. P., Kim S. H., Jeong H. J., Shin S. Y., Kim H. J., Yun D. J., Lim C. O., Bahk J. D., Lee S. Y., Nagao R. T., Key J. L., Hong J. C.
+RT  DNA-binding study identifies C-box and hybrid C/G-box or C/A-box motifs as high-affinity binding sites for STF1 and LONG HYPOCOTYL5 proteins.
+RL  Plant Physiol. 146:1862-1877 (2008).
+RN  [2]; RE0054624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel124:0001 (2008).
+XX
+//

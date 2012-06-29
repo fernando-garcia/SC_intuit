@@ -1,0 +1,50 @@
+AC  M00188
+XX
+ID  V$AP1_Q4
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-1
+XX
+DE  activator protein 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00172; V$AP1FJ_Q2; activator protein 1 (family).
+HP  M00517; V$AP1_01;  (family).
+HP  M00924; V$AP1_Q2_01;  (family).
+HP  M00925; V$AP1_Q6_01;  (family).
+HP  M00926; V$AP1_Q4_01;  (family).
+XX
+BF  T01140; AP-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00027; AP-1; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T01156; AP-1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T01115; AP-1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00029; AP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00030; AP-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00032; AP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00031; AP-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10      2     10      1      R
+02      5      6     12      0      G
+03      0      0      0     23      T
+04      0      0     23      0      G
+05     22      0      1      0      A
+06      0     21      0      2      C
+07      2      2      2     17      T
+08      9      9      3      2      M
+09     16      5      1      1      A
+10      3      6     10      4      N
+11      6      4      3     10      N
+XX
+BA  23 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+//

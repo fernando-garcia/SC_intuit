@@ -1,0 +1,50 @@
+AC  M01245
+XX
+ID  V$MTERF_01
+XX
+DT  15.05.2009 (created); jtr.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  mTERF
+XX
+DE  mTERF binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15988; mTERF; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      8     35      T
+02      0      0     43      0      G
+03      0      0     43      0      G
+04      3      7      2     31      T
+05     30      4      4      5      A
+06     17      6     16      4      R
+07     23      1      6     13      W
+08     21      3     16      3      R
+09      1      0     31     11      G
+10      0      0      0     43      T
+11      0     15      0     28      Y
+12      0      0     43      0      G
+13      0      0     43      0      G
+14      2      0      0     41      T
+XX
+BA  43 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant mTERF from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 30 rounds of selection and amplification
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+RN  [2]; RE0055931.
+RX  PUBMED: 17884915.
+RA  Hyvarinen A. K., Pohjoismaki J. L., Reyes A., Wanrooij S., Yasukawa T., Karhunen P. J., Spelbrink J. N., Holt I. J., Jacobs H. T.
+RT  The mitochondrial transcription termination factor mTERF modulates replication pausing in human mitochondrial DNA.
+RL  Nucleic Acids Res. 35:6458-6474 (2007).
+XX
+//

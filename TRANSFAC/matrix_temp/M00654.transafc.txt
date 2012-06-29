@@ -1,0 +1,51 @@
+AC  M00654
+XX
+ID  P$OSBZ8_Q6
+XX
+DT  08.03.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  OSBZ8
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02807; OSBZ8; Species: rice, Oryza sativa (japonica cultivar-group); site(s) included: yes.
+BF  T16177; OSBZ8; Species: rice, Oryza sativa (japonica cultivar-group); site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      1      0      0      A
+02      0      6      0      0      C
+03      1      0      5      0      G
+04      0      2      0      4      T
+05      0      1      5      0      G
+06      0      0      2      4      T
+07      0      6      0      0      C
+08      2      0      4      0      G
+09      1      4      0      1      C
+10      0      3      2      1      S
+11      4      2      0      0      A
+12      1      1      2      2      N
+13      2      1      0      3      W
+14      0      4      2      0      C
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCACGTCACCAATC; R00679; 6; 14;; p.
+BS  ACGTGGCATTATTC; R01315; 6; 14;; p.
+BS  ACGTGGCGCGACAG; R03678; 5; 14;; p.
+BS  ACGTGTCGCGCTCC; R08448; 12; 14;; p.
+BS  ACGTGTCGACAGTG; R08449; 10; 14;; p.
+BS  ACGCCTCGCCCGAC; R08450; -10; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

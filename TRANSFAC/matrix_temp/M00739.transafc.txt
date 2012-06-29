@@ -1,0 +1,68 @@
+AC  M00739
+XX
+ID  V$E2F4DP2_01
+XX
+DT  27.08.2002 (created); vma.
+DT  22.12.2011 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F-4:DP-2
+XX
+DE  E2F-4:DP-2 heterodimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05207; E2F-4:DP-2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      0      1     19      T
+02      2      0      0     25      T
+03      0      0      0     27      T
+04      0     19      8      0      C
+05      0     14     13      0      S
+06      0     27      0      0      C
+07      0      0     27      0      G
+08      0     22      5      0      C
+XX
+BA  27 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTTCCCGC; R12870; 1; 8;; p.
+BS  TTTGGCGG; R12871; 4; 8;; p.
+BS  GTTCCCGC; R12872; 2; 8;; p.
+BS  TTTGGCGC; R12873; 5; 8;; p.
+BS  ATTGGCGC; R12874; 1; 8;; p.
+BS  ATTCGCGC; R12875; 1; 8;; p.
+BS  TTTCCCGC; R12876; 5; 8;; p.
+BS  AATGGCGG; R12877; 1; 8;; p.
+BS  TTTCCCGC; R12878; 2; 8;; p.
+BS  TTTCCCGC; R12879; 2; 8;; p.
+BS  TTTGCCGC; R12880; 2; 8;; p.
+BS  ATTCCCGC; R12881; 1; 8;; p.
+BS  ATTGGCGG; R12882; 6; 8;; p.
+BS  TTTCCCGC; R12883; 2; 8;; p.
+BS  TTTCCCGC; R12884; 4; 8;; p.
+BS  AATGGCGG; R12885; 2; 8;; p.
+BS  TTTCGCGC; R12886; 2; 8;; p.
+BS  TTTCGCGC; R12887; 5; 8;; p.
+BS  ATTCCCGC; R12888; 1; 8;; p.
+BS  TTTCCCGC; R12889; 3; 8;; p.
+BS  TTTCGCGC; R12890; 1; 8;; p.
+BS  TTTCCCGC; R12891; 1; 8;; p.
+BS  TTTCGCGG; R12892; 5; 8;; p.
+BS  TTTCCCGC; R12893; 4; 8;; p.
+BS  TTTGGCGC; R12894; 2; 8;; p.
+BS  TTTCGCGC; R12895; 3; 8;; p.
+BS  TTTCCCGC; R12896; 2; 8;; p.
+XX
+CC  sequences selected with recombinant E2F-4:DP-2 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0014130.
+RX  PUBMED: 9372931.
+RA  Tao Y., Kassatly R. F., Cress W. D., Horowitz J. M.
+RT  Subunit composition determines E2F DNA-binding site specificity
+RL  Mol. Cell. Biol. 17:6994-7007 (1997).
+XX
+//

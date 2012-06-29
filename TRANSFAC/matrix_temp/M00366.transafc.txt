@@ -1,0 +1,78 @@
+AC  M00366
+XX
+ID  P$EMBP1_Q2
+XX
+DT  28.02.2000 (created); rge.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  EmBP-1
+XX
+DE  may be involved in mediating ABA-responses (phytohormone abscisic acid)
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T04819; EmBP-1a; Species: maize, Zea mays; site(s) included: yes.
+BF  T02669; EmBP-1a; Species: wheat, Triticum aestivum; site(s) included: yes.
+BF  T01098; EmBP-1b; Species: wheat, Triticum aestivum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0     18      4      G
+02      6     16      1      0      C
+03      0     24      0      0      C
+04     24      0      0      0      A
+05      0     23      1      0      C
+06      0      1     22      0      G
+07      0      0      0     24      T
+08      1      5     17      1      G
+09      6      0      9      8      D
+10      6      9      6      2      N
+XX
+BA  24 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCCACGTGGC; R08680; 1; 10;; p.
+BS  GACACGTGTC; R08682; 1; 10;; p.
+BS  TCCACGTGGA; R08683; 1; 10;; p.
+BS  TACACGTGTA; R08684; 1; 10;; p.
+BS  GCCACGTGGC; R08691; 1; 10;; p.
+BS  NNCACGTGNN; R08696; 1; 10;; p.
+BS  ACCACGTGGC; R08699; 1; 10;; p.
+BS  GGCACGTGGC; R08700; 1; 10;; p.
+BS  GCCACGTGTC; R11319; 1; 10;; p.
+BS  GCCACGTGGA; R11320; 1; 10;; p.
+BS  GCCACGTGTA; R11321; 1; 10;; p.
+BS  GACAC TGTC; R11322; 1; 10; 6; p.
+BS  GACACGTGGA; R11323; 1; 10;; p.
+BS  GCCACGTCAC; R11324; 1; 10;; p.
+BS  GCCACGTCAT; R11325; 1; 10;; p.
+BS  GCCACGTCAG; R11326; 1; 10;; p.
+BS  GCCACGTAAG; R11327; 1; 10;; p.
+BS  GCCACGTGTG; R11328; 1; 10;; p.
+BS  GCCACGTGTT; R11329; 1; 10;; p.
+BS  GCCACGTTGC; R11330; 1; 10;; p.
+BS  GACACGTGTG; R11331; 1; 10;; p.
+BS  TCCACGTCAG; R11332; 1; 10;; p.
+BS  TACACGTCAG; R11333; 1; 10;; p.
+BS  GCCAGCTGGA; R11334; 1; 10;; p.
+XX
+CC  artificial sites
+XX
+RN  [1]; RE0016965.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0001 (2000).
+RN  [2]; RE0016966.
+RX  PUBMED: 10598101.
+RA  Carlini L. E., Ketudat M., Parsons R. L., Prabhakar S., Schmidt R. J., Guiltinan M. J.
+RT  The maize EmBP-1 orthologue differentially regulates opaque2-dependent gene expression in yeast and cultured maize endosperm cells
+RL  Plant Mol. Biol. 41:339-349 (1999).
+RN  [3]; RE0013810.
+RX  PUBMED: 8487298.
+RA  Izawa T., Foster R., Chua N.-H.
+RT  Plant bZIP protein DNA binding specificity.
+RL  J. Mol. Biol. 230:1131-1144 (1993).
+XX
+//

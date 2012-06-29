@@ -1,0 +1,41 @@
+AC  M01747
+XX
+ID  V$BRF1_01
+XX
+DT  25.06.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BRF-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17899; BRF-1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     30     19    153     39      G
+02     37      0    194     10      G
+03      3      1    233      4      G
+04     15      0      3    223      T
+05      1      1      1    238      T
+06      5    221      2     13      C
+07     75      2    157      7      G
+08    237      2      0      2      A
+09    100     23     53     65      N
+10     30     59      7    145      T
+11      2    228      3      8      C
+12     12    189      1     39      C
+13     27    151     37     26      C
+XX
+BA  sequences (ChIP-Seq)
+XX
+CC  calculated with SEEDER algorithm using the top 241 scoring sequences from ENCODE sets
+XX
+RN  [1]; RE0063123.
+RT  ENCODE Transcription Factor Binding Sites by ChIP-seq from Yale/UC-Davis/Harvard; URL: http://genome.ucsc.edu/cgi-bin/hgTrackUi?db=hg18&g=wgEncodeYaleChIPseq
+RL  Internet : ().
+XX
+//

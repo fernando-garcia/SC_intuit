@@ -1,0 +1,96 @@
+AC  M00457
+XX
+ID  V$STAT5A_01
+XX
+DT  27.08.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT5A (homodimer)
+XX
+DE  signal transducer and activator of transcription 5a
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T14304; STAT5A; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14305; STAT5A; Species: cattle, Bos taurus; site(s) included: no.
+BF  T04683; STAT5A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09199; STAT5A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06240; STAT5A; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: no.
+BF  T16819; STAT5A; Species: Mammalia; site(s) included: no.
+BF  T01579; STAT5A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09200; STAT5A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06128; STAT5A; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01578; STAT5A; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T09466; STAT5A; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T19274; Stat5A1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19273; Stat5A2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      6      8      7      N
+02     18      2      7      3      A
+03     14      4      4     11      W
+04      0      0      0     33      T
+05      0      1      0     32      T
+06      0     32      1      0      C
+07      0     15      6     12      Y
+08     10      6      8      9      N
+09      8      0     25      0      G
+10      0      0     33      0      G
+11     33      0      0      0      A
+12     33      0      0      0      A
+13     13      7      4      8      N
+14      2     11      0     19      Y
+15      8      8      6      8      N
+XX
+BA  33 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS    CTTCCAGGAAATT; R10477; 1; 15; 1, 2; p.
+BS    GTTCGAGGAAATC; R10478; 1; 15; 1, 2; p.
+BS    TTTCCAGGAACTT; R10479; 1; 15; 1, 2; p.
+BS   GATTCCAGGAAACA; R10480; 1; 15; 1; p.
+BS   GTTTCTTGGAAGCT; R10481; 1; 15; 1; p.
+BS  CAGTTCGTGGAAAAA; R10482; 1; 15;; p.
+BS  GACTTCTCGGAATTC; R10483; 1; 15;; p.
+BS  GAATTCGGGGAAACG; R10484; 2; 15;; p.
+BS  GAATTCTGGGAAACA; R10485; 3; 15;; p.
+BS  AATTTCTTAGAACTG; R10486; 4; 15;; p.
+BS  CGATTCCAGGAATAT; R10487; 4; 15;; p.
+BS  TCTTTCCCGGAAATA; R10488; 5; 15;; p.
+BS  GAATTCTCAGAAGTC; R10489; 5; 15;; p.
+BS  AAGTTCCCGGAATTA; R10490; 5; 15;; p.
+BS  AAATTCCAGGAAATC; R10491; 6; 15;; p.
+BS  TAATTCCTAGAATCA; R10492; 7; 15;; p.
+BS  AGATTCTCGGAAGTG; R10493; 7; 15;; p.
+BS  AAATTCCGGGAACTA; R10494; 7; 15;; p.
+BS  CAATTCCGAGAATCT; R10495; 7; 15;; p.
+BS  TGTTTCGGGGAAACG; R10496; 8; 15;; p.
+BS  AATTTCTCGGAATTA; R10497; 8; 15;; p.
+BS  TTCTCGGAAGAAGCT; R10498; 12; 15;; p.
+BS  GAATTCTAAGAACTC; R10499; 10; 15;; p.
+BS  GAATTCTGGGAAATC; R10500; 10; 15;; p.
+BS  CTCTTCCAGGAAATC; R10501; 11; 15;; p.
+BS  TGATTCCTGGAAACC; R10502; 11; 15;; p.
+BS  TATTTCCTAGAACTT; R10503; 12; 15;; p.
+BS  GTTTTCCAGGAACCG; R10504; 12; 15;; p.
+BS  AATTTCGTGGAATCG; R10505; 12; 15;; p.
+BS  CATTTCTGAGAACTT; R10506; 12; 15;; p.
+BS  TATTTCCTGGAAAT; R10507; 13; 15; 27; p.
+BS  GGATTCTGGGAATT; R10508; 13; 15; 27; p.
+BS  CCGTTCTTGGAA; R10509; 15; 15; 27, 28, 29; p.
+XX
+CC  sequences selected with recombinant STAT5A from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0016782.
+RX  PUBMED: 10594041.
+RA  Soldaini E., John S., Moro S., Bollenbacher J., Schindler U., Leonard W. J.
+RT  DNA binding site selection of dimeric and tetrameric Stat5 proteins reveals a large repertoire of divergent tetrameric Stat5a binding sites.
+RL  Mol. Cell. Biol. 20:389-401 (2000).
+XX
+//

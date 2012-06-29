@@ -1,0 +1,62 @@
+AC  M00093
+XX
+ID  I$BRCZ3_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BR-C Z3
+XX
+DE  Broad-Complex Z3
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T01479; BR-C Z3; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      2      3      4      N
+02      6      1      3      2      A
+03      4      3      3      2      N
+04      3      1      1      7      T
+05      9      2      1      0      A
+06     10      0      0      2      A
+07     12      0      0      0      A
+08      0     10      1      1      C
+09      4      0      0      8      T
+10     10      0      0      2      A
+11      6      0      4      2      R
+12      6      1      2      3      A
+13      4      3      2      3      N
+14      2      3      5      2      N
+15      5      3      1      3      N
+XX
+BA  12 sequences (compiled matrix imported from literature reference)
+XX
+BS  ATTTATAGTAAAAGC; R06360; 1; 15;; p.
+BS  TTGAAAACAATAGAG; R06361; 1; 15;; p.
+BS  GACTCAACTAGGATC; R06362; 1; 15;; p.
+BS  AGCAAAACTATTTGA; R06363; 1; 15;; p.
+BS  CACACAACTAGCACA; R06364; 1; 15;; p.
+BS  TAATAAACAAAATAA; R06365; 1; 15;; p.
+BS  TAATAAACAAAACCA; R06366; 1; 15;; p.
+BS  AAGTAAACTAAAGCT; R06367; 1; 15;; p.
+BS  CCTCGAACTTGTCTT; R06368; 1; 15;; p.
+BS  TGATAAACTTGTTGA; R06369; 1; 15;; p.
+BS  GAAGAAACTAAAAGT; R06370; 1; 15;; p.
+BS  GGGTATATAAAGCGC; R06371; 1; 15;; p.
+XX
+CC  binding sites within the Pig-1/Sgs-4 intergenic region compiled sequences, bound in vitro by bacterially expressed protein
+XX
+DR  JASPAR: MA0012.
+XX
+RN  [1]; RE0002966.
+RX  PUBMED: 8062827.
+RA  von Kalm L., Crossgrove K., Von Seggern D., Guild G. M., Beckendorf S. K.
+RT  The Broad-Complex directly controls a tissue-specific response to the steroid hormone ecdysone at the onset of Drosophila metamorphosis
+RL  EMBO J. 13:3505-3516 (1994).
+XX
+//

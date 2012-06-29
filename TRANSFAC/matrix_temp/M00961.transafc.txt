@@ -1,0 +1,75 @@
+AC  M00961
+XX
+ID  V$VDR_Q6
+XX
+DT  18.11.2003 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  VDR
+XX
+DE  half-site matrix of VDRE (vitamine D3 response element); VDR can bind as a homodimer or a heterodimer with RXR
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00966; V$DR3_Q4; direct repeat 3 (family).
+XX
+BF  T00884; VDR; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01369; VDR; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T00885; VDR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08482; VDR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00883; VDR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09401; VDR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00882; VDR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08481; VDR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08928; VDR-M4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5     11      4      1      C
+02      3      8      4      6      N
+03      1      8      8      4      S
+04      4      4      7      6      N
+05      4      5      7      5      N
+06      1      1      2     17      T
+07      2      2     16      1      G
+08     19      1      1      0      A
+09     15      5      1      0      A
+10      1     17      2      1      C
+11      1     16      2      2      C
+12      6      7      2      6      N
+XX
+BA  21 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCGGGTGAACGG; R01187; 10; 12;; p.
+BS  CTCATTCACCCA; R01188; 2; 12;; n.
+BS  AGACGTGAACCT; R10003; 10; 12;; n.
+BS  CCCGGTGAACTC; R10005; 7; 12;; p.
+BS  CTCGCTGACTCC; R10007; 17; 12;; p.
+BS  GTGTCGGAAGCC; R10016; 4; 12;; p.
+BS  GAGTCTGAGCAA; R10017; 22; 12;; p.
+BS  CCTCCTGACCCT; R10018; 2; 12;; n.
+BS  TGCTTTGAACCT; R10019; 9; 12;; p.
+BS  CCTCACTCACCT; R10020; 8; 12;; p.
+BS  CCCGCTGAACCC; R10021; 9; 12;; p.
+BS  ACCAGTGGACTT; R10023; -5; 12;; p.
+BS  CCGGGTGAACGG; R10026; 21; 12;; p.
+BS  GACATTGAACCA; R10031; 18; 12;; n.
+BS  AAGGGAGACCCA; R10041; 8; 12;; p.
+BS  GGCTTTCAACCC; R10053; 26; 12;; n.
+BS  CTGCATGAACCC; R10067; 15; 12;; n.
+BS  ACTGTTGACCCC; R12727; 2; 12;; n.
+BS  CTGTATGAAACA; C00166,  s00267; 12; 12;; n.
+BS  AGGAGGAAAGCA; C00353,  s00613; -1; 12;; n.
+BS  CTTTATAAACCT; C00364,  s00633; 15; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

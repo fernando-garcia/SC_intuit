@@ -1,0 +1,85 @@
+AC  M00159
+XX
+ID  V$CEBP_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C/EBP
+XX
+DE  CCAAT/enhancer binding protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T01388; C/EBP; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00107; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09178; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00105; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08465; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08664; C/EBPalpha; Species: Mammalia; site(s) included: no.
+BF  T00104; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08464; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00108; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08574; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02359; C/EBPalpha(p20); Species: mouse, Mus musculus; site(s) included: no.
+BF  T02026; C/EBPalpha(p30); Species: mouse, Mus musculus; site(s) included: no.
+BF  T02027; C/EBPalpha(p30); Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      5      3      4     10      N
+02      7      6      7      2      N
+03      5      0      3     14      T
+04      3      0      8     11      K
+05      2      0      2     18      T
+06      0      0     22      0      G
+07      2      5     12      3      G
+08      8      1      2     11      W
+09     10      2      4      6      N
+10     16      0      0      6      A
+11      6      5      7      4      N
+12      4      4      7      7      N
+13      4      7      4      7      N
+XX
+BA  22 sequences (compiled matrix imported from literature reference)
+XX
+BS  AGATTGGTAAACC; R07453; 1; 13;; p.
+BS  TATTTGCAATAGA; R07454; 1; 13;; p.
+BS  CATGGGGAAACTT; R07455; 1; 13;; p.
+BS  GCTGGGATTACAG; R07456; 1; 13;; p.
+BS  GGATTGCAGATGC; R07457; 1; 13;; p.
+BS  GCTGAGGTAAGAG; R07458; 1; 13;; p.
+BS  TATTTGTTTTGTG; R07459; 1; 13;; p.
+BS  TATTTGCTAAACT; R07460; 1; 13;; p.
+BS  TCATTGGCGAATT; R07461; 1; 13;; p.
+BS  TGATTGGTTAGTT; R07462; 1; 13;; p.
+BS  TCTGTGGTAAGCA; R07463; 1; 13;; p.
+BS  GGTGTGGAAAGTC; R07464; 1; 13;; p.
+BS  AGTGTGGTTTTGC; R07465; 1; 13;; p.
+BS  AATGTGGATATCC; R07466; 1; 13;; p.
+BS  TGTTTGCTGACGC; R07467; 1; 13;; p.
+BS  ATTTTGTAATGGG; R07468; 1; 13;; p.
+BS  TGGATGCTATAAC; R07469; 1; 13;; p.
+BS  CCTATGTTAAGTA; R07470; 1; 13;; p.
+BS  TATTAGGACATGT; R07471; 1; 13;; p.
+BS  ATGTTGAGTAAGA; R07472; 1; 13;; p.
+BS  CAGGTGGGCACAT; R07473; 1; 13;; p.
+BS  TCAATGGAGTCTT; R07474; 1; 13;; p.
+XX
+CC  binding sites from 9 viral and cellular genes
+XX
+DR  JASPAR: MA0102.
+XX
+RN  [1]; RE0002090.
+RX  PUBMED: 1672737.
+RA  Grange T., Roux J., Rigaud G., Pictet R.
+RT  Cell-type specific activity of two glucocorticoid responsive units of rat tyrosine aminotransferase gene is associated with multiple binding sites for C/EBP and a novel liver-specific nuclear factor
+RL  Nucleic Acids Res. 19:131-139 (1991).
+XX
+//

@@ -1,0 +1,35 @@
+AC  M01700
+XX
+ID  P$DREB1B_01
+XX
+DT  16.04.2010 (created); sla.
+DT  13.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DREB1B
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02636; CBF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    150    563     38     23      C
+02      1    763      7      1      C
+03    117     84    519     52      G
+04    422    192     34    124      A
+05     28    572     49    123      C
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed using a  quadruple 9-mer protein binding microarray (Q9-PBM)  expressed with DsRed-monomer fluorescent protein
+XX
+RN  [1]; RE0066545.
+RX  PUBMED: 19761621.
+RA  Kim M. J., Lee T. H., Pahk Y. M., Kim Y. H., Park H. M., Choi Y. D., Nahm B. H., Kim Y. K.
+RT  Quadruple 9-mer-based protein binding microarray with DsRed fusion protein.
+RL  BMC Mol. Biol. 10:91 (2009).
+XX
+//

@@ -1,0 +1,59 @@
+AC  M02246
+AS  MA0143
+XX
+ID  V$SOX2_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sox2
+XX
+DE  class: Other Alpha-Helix; family: High Mobility Group
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T09507; Sox-xbb1; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T01836; Sox2; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T16034; Sox2; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     27    444     89    107      C
+02     20    453     22    174      C
+03    327      7      4    331      W
+04      2     10      7    650      T
+05     14      1      6    648      T
+06     38     83    529     19      G
+07     85      4      9    570      T
+08     64    194     77    333      Y
+09    408    124     38     96      A
+10     26     39     26    575      T
+11     27     77    444    117      G
+12     32    422     84    127      C
+13    426     41     36    161      A
+14    366     67    157     74      A
+15    485     60     61     58      A
+XX
+BA  667 sequences (ChIP-Seq)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0143.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0063019.
+RX  PUBMED: 18555785.
+RA  Chen X., Xu H., Yuan P., Fang F., Huss M., Vega V. B., Wong E., Orlov Y. L., Zhang W., Jiang J., Loh Y. H., Yeo H. C., Yeo Z. X., Narang V., Govindarajan K. R., Leong B., Shahab A., Ruan Y., Bourque G., Sung W. K., Clarke N. D., Wei C. L., Ng H. H.
+RT  Integration of external signaling pathways with the core transcriptional network in embryonic stem cells.
+RL  Cell 133:1106-1117 (2008).
+XX
+//

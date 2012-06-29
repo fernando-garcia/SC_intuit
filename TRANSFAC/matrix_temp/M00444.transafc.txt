@@ -1,0 +1,69 @@
+AC  M00444
+XX
+ID  V$VDR_Q3
+XX
+DT  12.07.2001 (created); mas.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  VDR
+XX
+DE  vitamin D receptor; mediates vitamin D3-signaling, often dimerizes with RXR-alpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00966; V$DR3_Q4; direct repeat 3 (family).
+XX
+BF  T00884; VDR; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01369; VDR; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T00885; VDR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08482; VDR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00883; VDR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09401; VDR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00882; VDR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08481; VDR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08928; VDR-M4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0     11      0      G
+02      3      0      9      0      G
+03      0      0      9      3      G
+04      0      0      5      7      K
+05      3      4      4      1      N
+06      8      1      1      2      A
+07      5      2      5      0      R
+08      2      3      4      3      N
+09      4      1      6      1      R
+10      4      0      7      1      R
+11      1      0     11      0      G
+12      0      0      9      3      G
+13      4      1      1      6      W
+14      0      5      6      1      S
+15      8      1      1      2      A
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGGTGAATGAGGACA; R01188; 3; 15;; p.
+BS  GGTTCACGAGGTTCA; R10003; 2; 15;; p.
+BS  GAGTTCACCGGGTGT; R10005; 4; 15;; n.
+BS  GAGTCAGCGAGGTGA; R10007; 13; 15;; n.
+BS  GGGTGTCGGAAGCCC; R10016; 2; 15;; p.
+BS  GGGGATGTGAGGAGA; R10017; 4; 15;; p.
+BS  GGGTCAGGAGGGTGT; R10018; 3; 15;; p.
+BS  GGTGGAGAGGGGTGA; R10022; 17; 15;; p.
+BS  GGGTGAACGGGGGCA; R10026; 23; 15;; p.
+BS  AGGGAGATTGGTTCA; R10031; 10; 15;; p.
+BS  GAGGCAGAAGGGAGA; R10041; 1; 15;; p.
+BS  GGTGAAAGATGTATG; R10053; 2; 15;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better; binding sites in 10 genes
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

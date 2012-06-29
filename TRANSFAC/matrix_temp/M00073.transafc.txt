@@ -1,0 +1,57 @@
+AC  M00073
+XX
+ID  V$DELTAEF1_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  deltaEF1
+XX
+DE  deltaEF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01467; ZEB; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T14843; ZEB; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02314; ZEB; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T14844; ZEB; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T14846; ZEB; Species: Mammalia; site(s) included: no.
+BF  T03915; ZEB; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14845; ZEB; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00625; ZEB (1124 AA); Species: human, Homo sapiens; site(s) included: no.
+BF  T02324; ZEB (1154 AA); Species: human, Homo sapiens; site(s) included: no.
+BF  T15251; ZEB1; Species: human, Homo sapiens; site(s) included: no.
+BF  T18263; Zeb1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18264; Zfhep-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18265; Zfhep-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     32     22     14     32      N
+02     20     39      7     34      N
+03     15     24     15     46      N
+04      0     83      3     14      C
+05     97      0      0      3      A
+06      0    100      0      0      C
+07      0     97      3      0      C
+08      0      0      0    100      T
+09     24      5     39     32      N
+10     54     12     22     12      A
+11     39     20     27     12      N
+XX
+BA  41 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant deltaEF1 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0103.
+XX
+RN  [1]; RE0002957.
+RX  PUBMED: 8065305.
+RA  Sekido R., Murai K., Funahashi J.-i., Kamachi Y., Fujisawa-Sehara A., Nabeshima Y.-I., Kondoh H.
+RT  The delta-crystallin enhancer-binding protein deltaEF1 is a repressor of E2-box-mediated gene activation
+RL  Mol. Cell. Biol. 14:5692-5700 (1994).
+XX
+//

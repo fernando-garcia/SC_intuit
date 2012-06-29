@@ -1,0 +1,43 @@
+AC  M03195
+XX
+ID  P$CBF2_01
+XX
+DT  06.01.2012 (created); mkl.
+DT  06.01.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CBF2
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02645; DREB1C; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T04824; DREB1C; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01  0.329  0.221  0.209  0.241      N
+02  0.007  0.016  0.143  0.834      T
+03  0.004  0.002  0.992  0.002      G
+04  0.002  0.994  0.002  0.002      C
+05  0.001  0.997  0.001  0.001      C
+06  0.003  0.002  0.993  0.002      G
+07  0.121  0.816  0.053  0.010      C
+08  0.112  0.524  0.006  0.358      Y
+09  0.005  0.044  0.944  0.007      G
+10  0.425  0.293  0.165  0.117      N
+XX
+BA  sequences (3D structure-based energy calculations)
+XX
+RN  [1]; RE0072515.
+RA  TRANSFAC_Team.
+RT  3DTF: a webserver for predicting transcription factor PWMs using 3D structure-based energy calculations
+RL  TRANSFAC Reports Rel20121:0002 (2012).
+RN  [2]; RE0072514.
+RX  PUBMED: 20438625.
+RA  Alamanova D., Stegmaier P., Kel A.
+RT  Creating PWMs of transcription factors using 3D structure-based computation of protein-DNA free binding energies.
+RL  BMC Bioinformatics 11:225 (2010).
+XX
+//

@@ -1,0 +1,45 @@
+AC  M02066
+XX
+ID  V$PEA3_02
+XX
+DT  06.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PEA3
+XX
+DE  ETV4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00685; PEA3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10610; PEA3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     49      8     30     12      R
+02     13     63     19      5      C
+03     10     89      1      0      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     97      0      1      2      A
+07     67      7      3     24      A
+08     27     10     58      5      G
+09      5     32      8     54      Y
+10     33     19     33     15      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

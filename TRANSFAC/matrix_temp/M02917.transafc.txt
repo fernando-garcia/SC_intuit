@@ -1,0 +1,65 @@
+AC  M02917
+AS  PB0183
+XX
+ID  V$SRY_05
+XX
+DT  15.11.2011 (created); jaspar.
+DT  17.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sry
+XX
+DE  class: Other Alpha-Helix; family: High Mobility Group
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T00996; SRY; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T10666; SRY; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     22     29     12     37      N
+02     24     28     21     27      N
+03     33     13     26     28      N
+04     26     30     21     22      N
+05     26     18     29     27      N
+06     32     18     44      6      R
+07     57     20     18      5      A
+08     88      2      3      6      A
+09      3     86      5      6      C
+10     92      2      4      2      A
+11     91      3      3      3      A
+12     13      4      3     80      T
+13     41      7     28     24      N
+14     25     18     39     18      N
+15     28     23     32     16      N
+16     18     33     16     34      N
+17     17     21     45     16      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0183.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

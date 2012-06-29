@@ -1,0 +1,78 @@
+AC  M00172
+XX
+ID  V$AP1FJ_Q2
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-1
+XX
+DE  activator protein 1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00041; V$CREBP1CJUN_01; CRE-binding protein 1:c-Jun heterodimer (specific).
+HC  M00173; V$AP1_Q2; activator protein 1 (specific).
+HC  M00174; V$AP1_Q6; activator protein 1 (specific).
+HC  M00188; V$AP1_Q4; activator protein 1 (specific).
+HC  M00199; V$AP1_C; AP-1 binding site (specific).
+HC  M02280; V$AP1_02; class: Zipper-Type; family: Leucine Zipper (specific).
+XX
+BF  T01156; AP-1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T00029; AP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00032; AP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15628; c-Fos; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T15629; c-Fos; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00125; c-Fos; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00123; c-Fos; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08776; c-Fos; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02205; c-Fos; Species: Japanese pufferfish, Fugu rubripes; site(s) included: yes.
+BF  T10346; c-Fos; Species: Mammalia; site(s) included: no.
+BF  T00122; c-Fos; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08534; c-Fos; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08072; c-Fos; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T17690; c-fos; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00124; c-Fos; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08493; c-Fos; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15626; c-Jun; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T15627; c-Jun; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00134; c-Jun; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10315; c-Jun; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15585; c-Jun; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T02830; c-Jun; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T17873; c-Jun; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T00135; c-Jun; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00133; c-Jun; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08461; c-Jun; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01976; c-Jun; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T09446; c-Jun; Species: Mammalia; site(s) included: no.
+BF  T08950; c-Jun; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00131; c-Jun; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08587; c-Jun; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08071; c-Jun; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00132; c-Jun; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08466; c-Jun; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15665; c-Jun; Species: sheep, Ovis aries; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      2      8      1      R
+02      3      5      9      0      S
+03      0      0      0     17      T
+04      0      0     17      0      G
+05     17      0      0      0      A
+06      0     16      0      1      C
+07      3      2      3      9      T
+08      4      7      2      4      N
+09      9      6      1      1      M
+10      4      3      7      3      N
+11      6      3      1      7      W
+XX
+BA  17 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+//

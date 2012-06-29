@@ -1,0 +1,88 @@
+AC  M00453
+XX
+ID  V$IRF7_01
+XX
+DT  23.08.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRF-7
+XX
+DE  interferon regulatory factor 7
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00772; V$IRF_Q6;  (family).
+HP  M00972; V$IRF_Q6_01;  (family).
+XX
+BF  T09395; IRF-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18466; IRF-7; Species: Mammalia; site(s) included: yes.
+BF  T05144; IRF-7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09407; IRF-7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04674; IRF-7A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05919; IRF-7B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05106; IRF-7H; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1      1      4      T
+02      3      1      2      1      N
+03      1      4      6      0      S
+04      3      2     22      1      G
+05     26      0      2      0      A
+06     28      0      0      0      A
+07     17      0      0     11      W
+08      4      5      6     13      N
+09      0     16      4      8      C
+10      2      1     24      1      G
+11     27      0      0      1      A
+12     26      2      0      0      A
+13     19      1      3      5      A
+14      5      6     10      7      N
+15      3      7      1     16      T
+16      3      5      8      9      N
+17      7      3     10      5      N
+18      5      8      9      3      N
+XX
+BA  28 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGGCAAACGAAAGT; R10367; 16; 18; 30, 31, 32, 33; p.
+BS    GGAAACTAACAGCTTG; R10368; 1; 18; 1, 2; p.
+BS     GAAAGTGAACGCAAG; R10369; 1; 18; 1, 2, 3; p.
+BS    GAGAATGGAAAGATGC; R10370; 1; 18; 1, 2; p.
+BS  AGGAAAAGCGAAAGTGGG; R10371; 3; 18;; p.
+BS     GAATTCGAAAATGGA; R10372; 1; 18; 1, 2, 3; p.
+BS     GAAAATGAAACTCTA; R10373; 1; 18; 1, 2, 3; p.
+BS  TACGAAACCGAATTC; R10374; 14; 18; 29, 30, 31; p.
+BS    GAAAATCCAATTACGC; R10375; 1; 18; 1, 2; p.
+BS     GAATTCGAAAATCTG; R10376; 1; 18; 1, 2, 3; p.
+BS     GAATTCGAAACTGCA; R10377; 1; 18; 1, 2, 3; p.
+BS  GACGAAACTGAAACAGTG; R10378; 1; 18;; p.
+BS  CACTAAAACGAATGT; R10379; 16; 18; 31, 32, 33; p.
+BS  TTACAATCCGAAATCGCG; R10380; 6; 18;; p.
+BS  TCCGAAATGGAAAACAGC; R10381; 11; 18;; p.
+BS     GAAAGTTAAGATGCT; R10382; 1; 18; 1, 2, 3; p.
+BS     GAAAGTGAATGTTGC; R10383; 1; 18; 1, 2, 3; p.
+BS     GAATTCGAAATGAAC; R10384; 1; 18; 1, 2, 3; p.
+BS     GAATTCGAAACTCGT; R10385; 1; 18; 1, 2, 3; p.
+BS     GAATTCGAATGTGGA; R10386; 1; 18; 1, 2, 3; p.
+BS     GAATTCGACGTTTAC; R10387; 1; 18; 1, 2, 3; p.
+BS     GAATTCGAAAGTCGA; R10388; 1; 18; 1, 2, 3; p.
+BS     GGAAACGAAAATTAC; R10389; 1; 18; 1, 2, 3; p.
+BS     GAAAGTGTAACCTTT; R10390; 1; 18; 1, 2, 3; p.
+BS     GAATTCGAAAGTTAG; R10391; 1; 18; 1, 2, 3; p.
+BS     GAATTCGAAAGTTAG; R10392; 1; 18; 1, 2, 3; p.
+BS    GGAAAGTGAAATCGAC; R10393; 1; 18; 1, 2; p.
+BS     GAAAAGGAAACTTGG; R10394; 1; 18; 1, 2, 3; p.
+XX
+CC  sequences selected with recombinant IRF-7 from a pool of double-stranded oligonucleotides containing a core of 28 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0016765.
+RX  PUBMED: 10938111.
+RA  Lin R., Genin P., Mamane Y., Hiscott J.
+RT  Selective DNA binding and association with the CREB binding protein coactivator contribute to differential activation of alpha/beta interferon genes by interferon regulatory factors 3 and 7
+RL  Mol. Cell. Biol. 20:6342-6353 (2000).
+XX
+//

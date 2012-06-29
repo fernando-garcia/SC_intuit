@@ -1,0 +1,128 @@
+AC  M01856
+XX
+ID  V$AML3_Q6
+XX
+DT  12.04.2011 (created); mkl.
+DT  02.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AML3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00769; V$AML_Q6;  (family).
+HP  M00984; V$PEBP_Q6;  (family).
+XX
+BF  T02281; AML3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09552; AML3; Species: Mammalia; site(s) included: yes.
+BF  T08443; AML3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02441; AML3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08347; AML3; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     43     15     14      7      A
+02     65      7      5      2      A
+03      1     75      1      2      C
+04      0     79      0      0      C
+05     61      1     10      7      A
+06      1     77      1      0      C
+07     59      4      5     11      A
+08     27     19     21     12      N
+XX
+BA  79 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AACCACAA; R04644; 11; 8;; p.
+BS  GACCACAA; R05031; 14; 8;; n.
+BS  AACCACAA; R18139; 9; 8;; p.
+BS  AACCACAA; R18142; 9; 8;; p.
+BS  ACCCACAG; R19678; 17; 8;; p.
+BS  TCCCACAA; R19679; 5; 8;; p.
+BS  TCCCACAC; R19708; 4; 8;; p.
+BS  AGCCACAC; R19710; 13; 8;; p.
+BS  ATCCACAa; R19712; 3; 8;; n.
+BS  AACCACAT; R19718; 11; 8;; p.
+BS  AACCACAG; R19732; 13; 8;; p.
+BS  AACCACAG; R19740; 9; 8;; p.
+BS  AACCGCGG; R20258; 4; 8;; p.
+BS  GACCGCAC; R20260; 3; 8;; n.
+BS  AGCCGCAA; R20262; 4; 8;; p.
+BS  GACCGCAA; R20263; 3; 8;; n.
+BS  GACCGCAC; R20264; 3; 8;; n.
+BS  AGCCACGG; R20265; 3; 8;; n.
+BS  CACCACAA; R20266; 3; 8;; n.
+BS  GACCACAg; R20430; 11; 8;; p.
+BS  AACCACTg; R20431; 11; 8;; p.
+BS  AACCACAC; R20435; 12; 8;; p.
+BS  AACCTCAT; R21160; 6; 8;; p.
+BS  AACCACAC; R21196; 1; 8; 1, 8; n.
+BS  GACCGCGT; R21536; 8; 8;; n.
+BS  AGCCACAA; R22271; 7; 8;; n.
+BS  aACCGCAt; R24485; 11; 8;; p.
+BS  AACCACTG; R24508; 5; 8;; p.
+BS  ACCCACAG; R24509; 5; 8;; p.
+BS  AACCTCAG; R24512; 8; 8;; p.
+BS  AACCACAA; R24654; 9; 8;; p.
+BS  CACCAAAA; R24722; 11; 8;; p.
+BS  CCCCTCAA; R26600; 8; 8;; n.
+BS  AACCACct; R26602; 11; 8;; p.
+BS  TACCACAT; R26603; 12; 8;; p.
+BS  AACCACAC; R26778; 12; 8;; p.
+BS  TAGCGCAA; R26924; 11; 8;; p.
+BS  AAACACTG; R26925; 10; 8;; p.
+BS  ATCCACGT; R27635; 11; 8;; p.
+BS  AACCACAa; R28442; 7; 8;; p.
+BS  AACCTCaa; R29446; 7; 8;; p.
+BS  GCCCACGC; R29447; 3; 8;; p.
+BS  AACCACTA; R29498; 4; 8;; n.
+BS  TACCACAT; R29522; 10; 8;; n.
+BS  GACCACTA; R29526; 10; 8;; n.
+BS  CACCACTA; R29528; 10; 8;; n.
+BS  CACCACTg; R29529; 10; 8;; n.
+BS  GACCACAG; R29583; 1; 8; 1; n.
+BS  CACCACAA; R29584; 1; 8; 1, 8; p.
+BS  gACCACAg; R30361; 13; 8;; p.
+BS  ACCCACCG; R30496; 9; 8;; n.
+BS  GACCTCAC; R31710; 8; 8;; p.
+BS  AACCACAT; R32573; 11; 8;; p.
+BS  TACCACAT; R32574; 4; 8;; p.
+BS  AACCACAA; R32880; 5; 8;; p.
+BS  CACCACAC; R33956; 11; 8;; n.
+BS  CACCACAC; R33959; 11; 8;; n.
+BS  CACCACAC; R33960; 11; 8;; n.
+BS  CACCAGAA; R34580; 3; 8;; n.
+BS  AATCCCAC; R34583; 18; 8;; p.
+BS  AACCGCAC; R34587; 11; 8;; p.
+BS  AACCACAA; R34778; 11; 8;; n.
+BS  AACCACAG; R34780; 8; 8;; p.
+BS  CACCACAA; R34782; 9; 8;; n.
+BS  GACCACAA; R34783; 9; 8;; p.
+BS  CACCGCCC; R34786; 11; 8;; p.
+BS  AACCACAG; R34845; 14; 8;; p.
+BS  AACCACTT; R35638; 13; 8;; p.
+BS  AACCACTC; R36062; 6; 8;; n.
+BS  CATCACCT; R36126; 14; 8;; p.
+BS  GACCACTC; R36136; 3; 8;; n.
+BS  AACCACAA; R36137; 11; 8;; n.
+BS  AACCACAA; R36138; 11; 8;; n.
+BS  TGCCACAG; R36246; 5; 8;; n.
+BS  AACCTCAC; R36393; 10; 8;; p.
+BS  CACCACTC; R36394; 10; 8;; n.
+BS  CACCTCAG; R36395; 10; 8;; p.
+BS  AACCACAG; R37170; 20; 8;; p.
+BS  GACCACAG; R37609; 10; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0072507.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+RN  [2]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

@@ -1,0 +1,43 @@
+AC  M00012
+XX
+ID  I$CF2II_01
+XX
+DT  10.11.1992 (created); ewi.
+DT  21.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CF2-II
+XX
+DE  CF2-II
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00120; CF2-II; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     33     15     51      1      R
+02      0      6      0     94      T
+03     94      0      6      0      A
+04      0      8      4     88      T
+05     94      2      4      0      A
+06      1      4      0     95      T
+07     51      3     41      5      R
+08      2     13      2     83      T
+09     63      6     26      5      A
+XX
+BA  80 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant CF2-II from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0015.
+XX
+RN  [1]; RE0002672.
+RX  PUBMED: 1290524.
+RA  Gogos J. A., Hsu T., Bolton J., Kafatos F. C.
+RT  Sequence discrimination by alternatively spliced isoforms of a DNA binding Zinc finger domain
+RL  Science 257:1951-1955 (1992).
+XX
+//

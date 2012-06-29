@@ -1,0 +1,62 @@
+AC  M01049
+XX
+ID  N$TRA1_02
+XX
+DT  05.03.2005 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Tra-1
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T00842; Tra-1 (long form); Species: Caenorhabditis elegans; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      3      1     14      T
+02      1      0     15      3      G
+03      0      1     13      5      G
+04      0      0     17      2      G
+05      5      0      4     10      W
+06      0      0     19      0      G
+07      0      0     19      0      G
+08      0      2      1     16      T
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGGGAGGT; R16267; 18; 8;; p.
+BS  CGGGGGGT; R16268; 11; 8;; p.
+BS  TGGGTGGT; R16269; 12; 8;; p.
+BS  TGTGTGGT; R16270; 21; 8;; p.
+BS  TGGGTGGT; R16271; 17; 8;; p.
+BS  TGGGGGGT; R16272; 18; 8;; p.
+BS  TGTGTGGT; R16273; 22; 8;; p.
+BS  TGTGGGGT; R16274; 19; 8;; p.
+BS  TGTGTGGT; R16275; 10; 8;; p.
+BS  TGCGTGGG; R16276; 22; 8;; p.
+BS  CGGTGGGT; R16277; 25; 8;; p.
+BS  TGGGAGGT; R16278; 20; 8;; p.
+BS  TGGGTGGT; R16279; 20; 8;; p.
+BS  TGGGAGGT; R16280; 11; 8;; p.
+BS  GTGGAGGT; R16281; 20; 8;; p.
+BS  CTGGTGGT; R16282; 25; 8;; p.
+BS  TAGGTGGC; R16283; 19; 8;; p.
+BS  ATGTAGGT; R16284; 18; 8;; p.
+BS  TGTGTGGC; R16285; 21; 8;; p.
+XX
+CC  sequences selected with recombinant Tra-1 from a pool of double-stranded oligonucleotides containing a core of 42 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0025480.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel91:0001 (2005).
+RN  [2]; RE0008730.
+RX  PUBMED: 8367286.
+RA  Zarkower D., Hodgkin J.
+RT  Zinc fingers in sex determination: only one of the two C. elegans Tra-1 proteins binds DNA in vitro
+RL  Nucleic Acids Res. 21:3691-3698 (1993).
+XX
+//

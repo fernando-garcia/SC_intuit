@@ -1,0 +1,38 @@
+AC  M01795
+XX
+ID  F$CAP1_CA_01
+XX
+DT  24.08.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Cap1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T18281; Cap1; Species: Candida albicans strain SC5314 (Yeast); site(s) included: yes.
+XX
+P0      A      C      G      T
+01    162     49      0      0      A
+02      0      0      0    211      T
+03      0      0     46     16      G
+04    211      0      0      0      A
+05      0    107    104      0      S
+06      0      0      0    211      T
+07    165     46      0      0      A
+08    211      0      0      0      A
+XX
+BA  211 sequences (ChIP-on-chip)
+XX
+CC  used SCOPE algorithm for ChIP Motifs approach; Cap1 binding motif defined from ChIP-on-chip experiment iwith strain CAI4
+XX
+RN  [1]; RE0067867.
+RX  PUBMED: 19395663.
+RA  Znaidi S., Barker K. S., Weber S., Alarco A. M., Liu T. T., Boucher G., Rogers P. D., Raymond M.
+RT  Identification of the Candida albicans Cap1p regulon.
+RL  Eukaryot. Cell 8:806-820 (2009).
+XX
+//

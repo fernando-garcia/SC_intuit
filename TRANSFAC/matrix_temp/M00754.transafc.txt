@@ -1,0 +1,48 @@
+AC  M00754
+XX
+ID  F$ZAP1_Q6
+XX
+DT  03.09.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZAP1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03717; ZAP1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      0      0      0      A
+02      0      7      0      0      C
+03      0      7      0      0      C
+04      0      6      0      1      C
+05      0      1      0      6      T
+06      4      2      0      1      A
+07      7      0      0      0      A
+08      7      0      0      0      A
+09      0      0      7      0      G
+10      0      0      7      0      G
+11      0      0      0      7      T
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACCCTCAAGGT; R09723; 6; 11;; p.
+BS  ACCTTCAAGGT; R09724; 6; 11;; n.
+BS  ACCCCAAAGGT; R09725; 6; 11;; p.
+BS  ACCCTAAAGGT; R09726; 6; 11;; p.
+BS  ACCCTAAAGGT; R09727; 6; 11;; p.
+BS  ACCCTAAAGGT; R09728; 6; 11;; p.
+BS  ACCCTTAAGGT; R09740; 1; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00754; F$ZAP1_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

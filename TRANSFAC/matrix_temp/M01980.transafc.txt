@@ -1,0 +1,43 @@
+AC  M01980
+XX
+ID  V$ELF5_02
+XX
+DT  06.07.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Elf5
+XX
+DE  belongs to ETS class IIa
+XX
+TY  specific
+XX
+OS  mouse, Mus musculus
+OC  eukaryota; animalia; metazoa; chordata; vertebrata; tetrapoda; mammalia; eutheria; rodentia; myomorpha; muridae; murinae
+XX
+BF  T15297; elf5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15298; elf5; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     21     58      8     13      C
+02     14     55     28      2      S
+03     31     57      7      5      M
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     98      0      1      1      A
+07     73      3      1     24      A
+08     43      7     48      2      R
+09     24     15      6     54      T
+10     37     12     23     27      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

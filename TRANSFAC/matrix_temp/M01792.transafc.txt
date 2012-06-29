@@ -1,0 +1,43 @@
+AC  M01792
+XX
+ID  F$HMO1_CA_01
+XX
+DT  23.08.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HMO1
+XX
+DE  Matrix for Candida albicans
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T18357; HMO1; Species: Candida albicans strain SC5314 (Yeast); site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     96      7      0      C
+02      0     55     15     33      Y
+03     60     38      5      0      M
+04      3     87     13      0      C
+05      3     87      0     13      C
+06     47     28     25      3      N
+07      0    103      0      0      C
+08      0     91      9      3      C
+09     72     19      1     11      A
+10     10     72      5     16      C
+11      1     72     17     13      C
+XX
+BA  103 sequences (ChIP-on-chip)
+XX
+CC  used  MEME algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0067392.
+RX  PUBMED: 20231876.
+RA  Lavoie H., Hogues H., Mallick J., Sellam A., Nantel A., Whiteway M.
+RT  Evolutionary tinkering with conserved components of a transcriptional regulatory network.
+RL  PLoS Biol. 8:e1000329 (2010).
+XX
+//

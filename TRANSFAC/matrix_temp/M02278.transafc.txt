@@ -1,0 +1,50 @@
+AC  M02278
+AS  MA0080
+XX
+ID  V$SPI1_04
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SPI1
+XX
+DE  class: Winged Helix-Turn-Helix; family: Ets
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T02068; SPI1; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T09976; SPI1; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     33      3      6      0      A
+02      4      0     37      1      G
+03      4      0     38      0      G
+04     42      0      0      0      A
+05     41      0      1      0      A
+06      5      3     33      1      G
+07      3      5      2     32      T
+XX
+BA  42 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Annotations from PAZAR PU.1 in the pleiades genes project (TF0000134)
+XX
+DR  JASPAR: MA0080.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

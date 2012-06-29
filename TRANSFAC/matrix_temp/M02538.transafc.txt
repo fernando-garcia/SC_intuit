@@ -1,0 +1,46 @@
+AC  M02538
+AS  MA0419
+XX
+ID  F$YAP7_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YAP7
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03715; YAP7; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01   7195   2582    195    869      A
+02    195      0      0  10410      T
+03      0      0   2132   8375      T
+04  10172     98     97    172      A
+05   1260   1168   8333      0      G
+06      0     97      0  10436      T
+07   7781   2526    198      0      A
+08  10507      0      0      0      A
+09     98      0   6311   4323      K
+10   2246   7759    509    394      C
+11   6606   1126   2313   1229      A
+XX
+BA  10841 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0419.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

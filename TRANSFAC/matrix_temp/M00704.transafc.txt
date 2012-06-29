@@ -1,0 +1,51 @@
+AC  M00704
+XX
+ID  V$TEF1_Q6
+XX
+DT  13.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TEF-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17787; TEF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00499; TEF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00806; TEF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09033; TEF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17039; TEF-1; Species: Mammalia; site(s) included: no.
+BF  T01124; TEF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09032; TEF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15524; TEF-1; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T02362; TEF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19301; TEF-1-xbb2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17870; TEF1; Species: chick, Gallus gallus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      5      0      G
+02      2      0      3      0      R
+03      3      0      2      0      R
+04      5      0      0      0      A
+05      0      0      0      5      T
+06      0      0      5      0      G
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAGATG; R01286; 24; 6;; p.
+BS  GAGATG; R01403; -4; 6;; p.
+BS  GGAATG; R01414; 2; 6;; n.
+BS  GGAATG; R02030; 2; 6;; p.
+BS  GGAATG; R03900; 7; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00704; V$TEF1_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

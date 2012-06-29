@@ -1,0 +1,67 @@
+AC  M01117
+XX
+ID  V$OTX_Q1
+XX
+DT  02.06.2006 (created); dtc.
+DT  12.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  OTX
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01366; V$OTX1_01;  (specific).
+HC  M01387; V$OTX2_01;  (specific).
+HC  M01719; V$OTX2_Q3;  (specific).
+XX
+BF  T03521; Otx1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02079; Otx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15236; Otx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02080; Otx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15237; Otx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02081; Otx1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15238; Otx1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17312; Otx2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T03522; Otx2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T17716; Otx2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02082; Otx2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18596; Otx2; Species: Mammalia; site(s) included: yes.
+BF  T02083; Otx2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10282; Otx2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08463; Otx2 isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18599; Otx2 isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0     10      0      G
+02      8      2      0      0      A
+03      0      0      0     10      T
+04      0      0      0     10      T
+05      8      0      0      2      A
+06      4      2      2      2      N
+07      3      1      2      4      N
+08      3      0      0      7      T
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  gcttagca; R04992; 8; 8;; n.
+BS  GATTACTT; R15750; 10; 8;; p.
+BS  GATTAGTA; R15751; 12; 8;; p.
+BS  gattaaat; R15752; 6; 8;; n.
+BS  GATTACTT; R15753; 12; 8;; p.
+BS  gattttgt; R15754; 9; 8;; n.
+BS  gcTTAATT; R15755; 6; 8;; p.
+BS  gattaaat; R15756; 18; 8;; n.
+BS  gattttgt; R15759; 9; 8;; n.
+BS  gattaaaa; R16176; 10; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 1
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+XX
+//

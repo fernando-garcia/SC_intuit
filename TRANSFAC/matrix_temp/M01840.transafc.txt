@@ -1,0 +1,49 @@
+AC  M01840
+XX
+ID  P$E2L1_Q2
+XX
+DT  08.02.2011 (created); mkl.
+DT  09.02.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2L1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T06407; E2L1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13968; E2L1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      1      5      T
+02      1      0      0      5      T
+03      0      0      0      6      T
+04      0      0      0      6      T
+05      0      2      4      0      S
+06      0      2      4      0      S
+07      0      6      0      0      C
+08      0      0      6      0      G
+09      0      3      3      0      S
+10      0      3      3      0      S
+11      2      0      0      4      W
+12      2      1      0      3      W
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTTGGCGGCTT; R15136; 1; 12;; p.
+BS  gtttggcgcgtt; R16362; 16; 12;; n.
+BS  ttttggcgggaa; R16365; 16; 12;; n.
+BS  tTTTCCCGCctt; R23006; 1; 12;; p.
+BS  ttttcccgcctc; R27300; 3; 12;; n.
+BS  tattggcgggaa; R27342; 5; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

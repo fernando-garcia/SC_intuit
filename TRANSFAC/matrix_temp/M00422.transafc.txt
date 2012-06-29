@@ -1,0 +1,55 @@
+AC  M00422
+XX
+ID  V$FOXJ2_01
+XX
+DT  11.01.2001 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXJ2
+XX
+DE  fork head box J 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T11206; Foxj2; Species: human, Homo sapiens; site(s) included: no.
+BF  T04170; FOXJ2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14712; FOXJ2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16582; Foxj2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04169; FOXJ2 (long isoform); Species: human, Homo sapiens; site(s) included: yes.
+BF  T04171; FOXJ2 (short isoform); Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14     10      2     15      N
+02     14      9      3     15      N
+03     14     10      8      9      N
+04     15      7      3     16      W
+05     28     10      3      0      A
+06     26      3      7      5      A
+07     32      0      9      0      A
+08      0     15      0     26      Y
+09     41      0      0      0      A
+10     41      0      0      0      A
+11     41      0      0      0      A
+12      0     27      0     14      Y
+13     40      0      1      0      A
+14     12      9      6     14      N
+15     11     10      2     18      N
+16     11     12      7     11      N
+17     16     11      7      7      N
+18     18      5      6     12      N
+XX
+BA  41 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant FOXJ2 from a pool of double-stranded oligonucleotides containing a core of 59 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0015563.
+RX  PUBMED: 10777590.
+RA  Perez-Sanchez C., Gomez-Ferreria M. A., de La Fuente C. A., Granadino B., Velasco G., Esteban-Gamboa A., Rey-Campos J.
+RT  FHX, a novel fork head factor with a dual DNA binding specificity
+RL  J. Biol. Chem. 275:12909-12916 (2000).
+XX
+//

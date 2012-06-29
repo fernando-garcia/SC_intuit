@@ -1,0 +1,85 @@
+AC  M00113
+XX
+ID  V$CREB_02
+XX
+DT  12.05.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CREB
+XX
+DE  cAMP-responsive element binding protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00916; V$CREB_Q2_01;  (family).
+HP  M00917; V$CREB_Q4_01;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T13725; CREB; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T01127; CREB; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T01307; CREB; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T01380; CREB; Species: mink, Mustela vison; site(s) included: yes.
+BF  T00989; CREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00163; CREB-A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00166; CREB-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01385; CREB1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T08562; CREB1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09920; CREB1; Species: Mammalia; site(s) included: no.
+BF  T14396; CREB1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T09440; CREB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18678; CREB1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00164; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08452; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18382; CREB1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T02361; CREBbeta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01312; CREBomega; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01311; deltaCREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00165; deltaCREB; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      5      4      5      N
+02      1      3      6      6      N
+03      2      2     12      0      G
+04      5      1      7      3      N
+05      0      0      0     16      T
+06      0      0     15      1      G
+07     16      0      0      0      A
+08      0     15      1      0      C
+09      0      0     15      1      G
+10      1      5      0     10      T
+11      4      7      3      2      N
+12      5      6      3      2      N
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTGATGACGCAA; R06708; 6; 12;; p.
+BS  ATGTTGACGCCA; R06709; 13; 12;; p.
+BS  CGGGTGACGCCA; R06710; 13; 12;; p.
+BS  GCGATGACGTCC; R06711; 11; 12;; p.
+BS  GGGATGACGCGT; R06712; 5; 12;; p.
+BS  TGGGTGACGACA; R06713; 6; 12;; p.
+BS  TGGATGACGTAG; R06714; 12; 12;; p.
+BS  CGGGTGACGTTC; R06715; 10; 12;; p.
+BS  CCGCTTACGTAG; R06716; 12; 12;; p.
+BS  CTGATGACGCGA; R06717; 5; 12;; p.
+BS  CGGGTGACGTGT; R06718; 9; 12;; p.
+BS  TAGTTGAGTTCC; R06719; 12; 12;; p.
+BS  GCAGTGACGTAC; R06720; 11; 12;; p.
+BS  GTAGTGACGTCG; R06721; 10; 12;; p.
+BS  ATCTTGACGTCC; R06722; 3; 12;; p.
+BS  TTCGTGACGTTC; R06723; 6; 12;; p.
+XX
+CC  sequences selected with recombinant CREB from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0003007.
+RX  PUBMED: 8264613.
+RA  Paca-Uccaralertkun S., Zhao L.-J., Adya N., Cross J. V., Cullen B. R., Boros I. M., Giam C.-Z.
+RT  In vitro selection of DNA elements highly responsive to the human T-cell lymphotropic virus type I transcriptional activator, Tax
+RL  Mol. Cell. Biol. 14:456-462 (1994).
+XX
+//

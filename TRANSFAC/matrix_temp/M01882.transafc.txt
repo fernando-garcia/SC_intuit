@@ -1,0 +1,114 @@
+AC  M01882
+XX
+ID  V$IRF2_Q6
+XX
+DT  12.04.2011 (created); mkl.
+DT  02.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRF-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00772; V$IRF_Q6;  (family).
+HP  M00972; V$IRF_Q6_01;  (family).
+XX
+BF  T05091; IRF-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01491; IRF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09324; IRF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14446; IRF-2; Species: Mammalia; site(s) included: yes.
+BF  T00425; IRF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09325; IRF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15784; IRF-2; Species: sheep, Ovis aries; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     12      9     18     13      N
+02     12     14     17     11      N
+03     16      4     31      3      R
+04     43      2      9      1      A
+05     54      0      1      0      A
+06     54      0      1      0      A
+07     14      8     28      5      G
+08      6     12      6     31      T
+09      2      0     53      0      G
+10     55      0      0      0      A
+11     51      2      0      2      A
+12     50      1      1      3      A
+13      6     15     27      7      S
+14      8     15     11     21      N
+15     18     10     19      8      N
+16     27     12      8      5      A
+XX
+BA  55 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CAGAAATGGAAAGTGG; R00915; 3; 16;; p.
+BS  TCTCAAGTGATCCACC; R00917; -4; 16;; p.
+BS  GGAGAAGTGAAAGTGG; R00919; 5; 16;; p.
+BS  GGGAAAGGGAAACCGA; R00946; -3; 16;; p.
+BS  GCAGAAGTGAAACTGA; R01066; -3; 16;; n.
+BS  nAGAAATGGAAGAGTn; R03126; -1; 16;; p.
+BS  ATAAAACAGAAAACAA; R12764; -1; 16;; p.
+BS  ACAAAAATGAAAGGGG; R12766; -4; 16;; n.
+BS  TGCAAAGTGACTGGGT; R13011; -4; 16;; p.
+BS  GAGGAAGTGATTTGTC; R13141; -4; 16;; p.
+BS  AAGAAAGTGAAAGGGA; R13380; 8; 16;; p.
+BS  CAGAAAGTGAAAGGGG; R13576; 9; 16;; p.
+BS  ACTAAGAGGAAATGAC; R14492; 74; 16;; n.
+BS  AGGAAAATGAAAGTAC; R19521; -1; 16;; p.
+BS  GCAGAAGTGAAAGTGA; R19537; 10; 16;; n.
+BS  ACAAAAGCGAAACTCC; R19557; 5; 16;; p.
+BS  GGGAAAGCGAAACCTA; R19558; 6; 16;; p.
+BS  TCGAAAGTGAAAGTAA; R20267; 5; 16;; n.
+BS  CTGAAAGTGAAACTTA; R20268; 8; 16;; n.
+BS  TGGAAAATGAAACCAA; R20802; 26; 16;; n.
+BS  GAAAAAGAGAAAGAGA; R21425; 1; 16;; p.
+BS  GTGAAATAGAAAGTCT; R22184; 4; 16;; p.
+BS  GCGAAAACGAAAGTGC; R22210; 2; 16;; p.
+BS  CGGAAAGCGAAAGAAG; R22253; 5; 16;; p.
+BS  GCAGAAGTGAAAGTGA; R23922; 10; 16;; n.
+BS  CGGAAAGAGAAACCAA; R24261; -1; 16;; p.
+BS  ACAAAACTGAAAACCA; R24718; 7; 16;; p.
+BS  CAAAAATTGAAAACTA; R26274; 5; 16;; p.
+BS  GGGAAAACGAAAGCTT; R26289; 4; 16;; p.
+BS  AGGAAAGCGAAACTCA; R26292; 4; 16;; n.
+BS  ATGAAACTGAAATGAA; R26496; 9; 16;; p.
+BS  GCGAAAATGAAATTGA; R26765; 4; 16;; p.
+BS  CCAAAAGTGAAAGACA; R26784; 12; 16;; p.
+BS  GCGAAAGCGAAAGCAG; R26785; 12; 16;; p.
+BS  CCCCAAGTGACTGACA; R26805; 4; 16;; p.
+BS  AGGAAAATGAAACCTT; R26810; 2; 16;; n.
+BS  TGCAAAGCAAAAAGCC; R26812; 4; 16;; p.
+BS  TAGAAACTGAAAGTAC; R26820; 3; 16;; p.
+BS  TAGAAACTGAAAGTAC; R26823; 11; 16;; p.
+BS  GTAAAAACGAAAACTG; R26911; 10; 16;; n.
+BS  TTAAAAGCAAAACTGC; R27021; 2; 16;; p.
+BS  ATGAAACTGAAAGTAA; R27050; 5; 16;; n.
+BS  GAAGAAGTGAAACTCA; R27096; 15; 16;; n.
+BS  GTGAAAATGAAAGAAA; R27103; 6; 16;; n.
+BS  GGGAAAGCGAAATCGA; R27105; 1; 16;; p.
+BS  GGGAAAGCGAAATCGA; R27117; 1; 16;; p.
+BS  TGCTAAGTGAAAGACA; R27143; 6; 16;; p.
+BS  TGAAAATTGAAAGTGT; R27163; 11; 16;; p.
+BS  TTGAAAAAGAAACAGG; R27166; 18; 16;; n.
+BS  taGGAAGTGAAAttan; R30511; 11; 16;; p.
+BS  ATGAAACTGAAAGTAC; R30687; 17; 16;; n.
+BS  TTAAAACTGAAACCAA; R33574; -1; 16;; p.
+BS  nnnAAAAGGAAACCGn; R34156; -1; 16;; n.
+BS  CGTGGAAAGAAAGGAC; R34368; 6; 16;; n.
+BS  nAGGAAAGGAAAGGAA; R34369; -1; 16;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0072507.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+RN  [2]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

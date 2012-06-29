@@ -1,0 +1,44 @@
+AC  M01770
+XX
+ID  V$XBP1_02
+XX
+DT  30.06.2010 (created); apk.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  XBP1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00902; XBP-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T23081; XBP-1; Species: Mammalia; site(s) included: yes.
+BF  T08152; XBP-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05026; XBP-1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    598    112     77    342      W
+02    598    217    404    293      N
+03    296    273    315    598      N
+04    113     25    598     66      G
+05    491    598      3      5      M
+06     62    598      4     66      C
+07    598      8     13     13      A
+08      4    598      1      0      C
+09      6      0    598      1      G
+10      7      8      5    598      T
+11     41    598     17      3      C
+XX
+BA  sequences (multiplexed massively parallel SELEX)
+XX
+CC  sequences selected with recombinant XBP-1 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0067210.
+RX  PUBMED: 20378718.
+RA  Jolma A., Kivioja T., Toivonen J., Cheng L., Wei G., Enge M., Taipale M., Vaquerizas J. M., Yan J., Sillanpaa M. J., Bonke M., Palin K., Talukder S., Hughes T. R., Luscombe N. M., Ukkonen E., Taipale J.
+RT  Multiplexed massively parallel SELEX for characterization of human transcription factor binding specificities.
+RL  Genome Res. 20:861-873 (2010).
+XX
+//

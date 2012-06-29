@@ -1,0 +1,87 @@
+AC  M00109
+XX
+ID  V$CEBPB_01
+XX
+DT  05.05.1995 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C/EBPbeta
+XX
+DE  CCAAT/enhancer binding protein beta
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T06081; C/EBPbeta; Species: cattle, Bos taurus; site(s) included: no.
+BF  T11055; C/EBPbeta; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02022; C/EBPbeta; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00581; C/EBPbeta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09410; C/EBPbeta; Species: Mammalia; site(s) included: no.
+BF  T09409; C/EBPbeta; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10225; C/EBPbeta; Species: pig, Sus scrofa; site(s) included: no.
+BF  T08153; C/EBPbeta; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00459; C/EBPbeta(LAP); Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02360; C/EBPbeta(p20); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01420; C/EBPbeta(p20); Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02105; C/EBPbeta(p34); Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00017; C/EBPbeta(p35); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09128; LAP*-NF-M; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T06595; NF-IL6-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09294; NF-IL6-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06596; NF-IL6-3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      1      8      3      R
+02      5      3      7      6      N
+03      9      3      8      1      R
+04      1      0      0     20      T
+05      1      0      7     13      K
+06      7      0      8      6      D
+07      5      2      5      9      N
+08      0      0     21      0      G
+09      8      9      0      4      M
+10     20      1      0      0      A
+11     21      0      0      0      A
+12      3      1      6     11      K
+13      5      6      7      3      N
+14      3      3      6      9      N
+XX
+BA  21 sequences (compiled matrix imported from literature reference)
+XX
+BS  AGATTGTGCAATGT; R06682; 1; 14;; p.
+BS  ACATTGTGCAATCT; R06683; 1; 14;; p.
+BS  TGATTTTGTAATGG; R06684; 1; 14;; p.
+BS  AGATTGAGCAATCT; R06685; 1; 14;; p.
+BS  GTCTTAAGCAAAGC; R06686; 1; 14;; p.
+BS  GTATTAGGACATGT; R06687; 1; 14;; p.
+BS  ATGTTGAGTAAGAT; R06688; 1; 14;; p.
+BS  GTGTGAAGCAAGAG; R06689; 1; 14;; p.
+BS  GAATTACGAAATGG; R06690; 1; 14;; p.
+BS  AAGTTGTGCAATGG; R06691; 1; 14;; p.
+BS  TAGTGGCGCAAACT; R06692; 1; 14;; p.
+BS  CAGTGATGTAATCA; R06693; 1; 14;; p.
+BS  AAGTTGAGAAATTT; R06694; 1; 14;; p.
+BS  GGCTGAGGAAATAC; R06695; 1; 14;; p.
+BS  ACAAGTTGCAACAT; R06696; 1; 14;; p.
+BS  GGATTTGGAAAGTT; R06697; 1; 14;; p.
+BS  GTTTTGTGAAATCG; R06698; 1; 14;; p.
+BS  ACATAATGAAAAGA; R06699; 1; 14;; p.
+BS  GGGTGTGGAAAGTC; R06700; 1; 14;; p.
+BS  TGGTTTTGCAAGAG; R06701; 1; 14;; p.
+BS  ATCTGTGGTAAGCA; R06702; 1; 14;; p.
+XX
+CC  binding sites from 14 cellular genes and 3 viral genomes
+XX
+RN  [1]; RE0000469.
+RX  PUBMED: 2112087.
+RA  Akira S., Isshiki H., Sugita T., Tanabe O., Kinoshita S., Nishio Y., Nakajima T., Hirano T., Kishimoto T.
+RT  A nuclear factor for IL-6 expression (NF-IL6) is a member of a C/EBP family
+RL  EMBO J. 9:1897-1906 (1990).
+XX
+//

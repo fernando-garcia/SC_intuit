@@ -1,0 +1,41 @@
+AC  M01749
+XX
+ID  V$NFAT2_02
+XX
+DT  25.06.2010 (created); apk.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-AT2 dimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17901; (NF-AT2)2; Species: Mammalia; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     20     43     12    295      T
+02     11     35     18    295      T
+03      7    295      5      5      C
+04     10    295      2     24      C
+05    295     20    108     23      A
+06     28     87     17    295      T
+07     21      1    295      4      G
+08      1      1    295      1      G
+09    295     10     29      4      A
+10    295      1     17     13      A
+11    295    135     37    117      A
+XX
+BA  sequences (multiplexed massively parallel SELEX)
+XX
+CC  sequences selected with recombinant NF-AT2 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0067210.
+RX  PUBMED: 20378718.
+RA  Jolma A., Kivioja T., Toivonen J., Cheng L., Wei G., Enge M., Taipale M., Vaquerizas J. M., Yan J., Sillanpaa M. J., Bonke M., Palin K., Talukder S., Hughes T. R., Luscombe N. M., Ukkonen E., Taipale J.
+RT  Multiplexed massively parallel SELEX for characterization of human transcription factor binding specificities.
+RL  Genome Res. 20:861-873 (2010).
+XX
+//

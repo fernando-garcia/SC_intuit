@@ -1,0 +1,51 @@
+AC  M02097
+XX
+ID  V$LHX3_Q3
+XX
+DT  24.10.2011 (created); mkl.
+DT  19.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LHX3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17993; LHX3; Species: Mammalia; site(s) included: yes.
+BF  T10879; LHX3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11096; LHX3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03446; LHX3a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03447; LHX3b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13732; M2-LHX3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11      0      0      0      A
+02      0      0      0     11      T
+03      0      0      0     11      T
+04     11      0      0      0      A
+05      9      0      1      1      A
+06      5      0      2      4      W
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATTAAA; R09043; 19; 6;; p.
+BS  ATTAAT; R22434; 24; 6;; n.
+BS  ATTAAG; R22486; 13; 6;; p.
+BS  ATTAAA; R22563; 10; 6;; n.
+BS  ATTAAG; R22564; 7; 6;; n.
+BS  ATTAAA; R22565; 8; 6;; p.
+BS  ATTAAT; R22566; 22; 6;; n.
+BS  ATTATA; R22567; 9; 6;; p.
+BS  ATTAAT; R22568; 9; 6;; p.
+BS  ATTAAA; R22569; 13; 6;; p.
+BS  ATTAgt; R32070; 10; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

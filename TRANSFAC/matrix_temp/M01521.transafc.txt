@@ -1,0 +1,53 @@
+AC  M01521
+XX
+ID  F$YDR520C_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ydr520c
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T16795; Ydr520c; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.28   0.21   0.22   0.29      N
+02   0.36   0.33   0.17   0.15      N
+03   0.29   0.28   0.26   0.17      N
+04   0.13   0.41   0.23   0.23      N
+05   0.27   0.23   0.25   0.25      N
+06   0.14   0.35   0.08   0.43      Y
+07      0   0.99      0      0      C
+08      0      0   0.99      0      G
+09      0      0   0.99      0      G
+10   0.98      0   0.02      0      A
+11   0.04   0.01   0.95   0.01      G
+12   0.89      0      0   0.11      A
+13   0.09      0      0   0.91      T
+14   0.98      0      0   0.01      A
+15   0.47   0.05   0.07   0.41      W
+16    0.2   0.19   0.12   0.49      N
+17    0.2   0.14   0.25   0.41      N
+18   0.26   0.15   0.29    0.3      N
+19   0.18   0.18   0.26   0.37      N
+20   0.34   0.28   0.23   0.14      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064448.
+RX  PUBMED: 19158363.
+RA  Zhu C., Byers K. J., McCord R. P., Shi Z., Berger M. F., Newburger D. E., Saulrieta K., Smith Z., Shah M. V., Radhakrishnan M., Philippakis A. A., Hu Y., De Masi F., Pacek M., Rolfs A., Murthy T., LaBaer J., Bulyk M. L.
+RT  High-resolution DNA-binding specificity analysis of yeast transcription factors.
+RL  Genome Res. 19:556-566 (2009).
+RN  [2]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+XX
+//

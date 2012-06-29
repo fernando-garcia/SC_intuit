@@ -1,0 +1,89 @@
+AC  M02036
+XX
+ID  V$WT1_Q6_01
+XX
+DT  19.07.2011 (created); mkl.
+DT  20.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  WT1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00899; WT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10292; WT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14649; WT1; Species: Mammalia; site(s) included: yes.
+BF  T02351; WT1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02352; WT1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01839; WT1 -KTS; Species: human, Homo sapiens; site(s) included: no.
+BF  T01840; WT1 I; Species: human, Homo sapiens; site(s) included: no.
+BF  T00900; WT1 I -KTS; Species: human, Homo sapiens; site(s) included: no.
+BF  T01842; WT1 I-del2; Species: human, Homo sapiens; site(s) included: no.
+BF  T01841; WT1-del2; Species: human, Homo sapiens; site(s) included: no.
+BF  T09249; WT1-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10286; WT1-isoform1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T19358; WT1-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19360; WT1-isoform2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T19356; WT1-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19361; WT1-isoform3; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T19357; WT1-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19359; WT1-isoform4; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0     31      0      0      C
+02      2      0     22      7      G
+03      0     31      0      0      C
+04      0     31      0      0      C
+05      0     31      0      0      C
+06      4     22      3      2      C
+07      1     26      3      1      C
+08      6      7     14      4      N
+09      3     20      6      2      C
+10      7     12     10      2      N
+XX
+BA  31 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CGCCCCCGCG; R01615; 7; 10;; p.
+BS  CGCCCCCGCG; R02313; 1; 10;; p.
+BS  CGCCCCCGCA; R02314; -1; 10;; n.
+BS  CGCCCCCGCC; R02315; 1; 10;; p.
+BS  CGCCCCCCCC; R04700; 20; 10;; n.
+BS  CTCCCGGCGG; R04733; 18; 10;; p.
+BS  CGCCCCCACC; R04858; -1; 10;; n.
+BS  CGCCCCCGCG; R04861; -1; 10;; n.
+BS  CGCCCTCTCC; R05048; 9; 10;; p.
+BS  CTCCCGCCCA; R16085; 26; 10;; p.
+BS  CGCCCCGGCG; R24925; 10; 10;; n.
+BS  CACCCGGACC; R28704; 7; 10;; p.
+BS  CGCCCCCGCg; R30144; 2; 10;; p.
+BS  CGCCCCCGGc; R30149; 5; 10;; p.
+BS  CGCCCCCGGA; R30306; 11; 10;; n.
+BS  CGCCCCTCGG; R31059; 5; 10;; n.
+BS  CGCCCACCCT; R31062; 9; 10;; n.
+BS  CGCCCCCAGC; R31065; 12; 10;; p.
+BS  CGCCCCCGGA; R31231; 8; 10;; n.
+BS  CGCCCCCGCC; R31233; 7; 10;; n.
+BS  CACCCACTCA; R32507; 8; 10;; n.
+BS  CTCCCCACAC; R32508; 8; 10;; n.
+BS  CGCCCACTAA; R32514; 6; 10;; n.
+BS  CGCCCCCCCT; R32519; 9; 10;; p.
+BS  CGCCCCCGCG; R32522; 8; 10;; n.
+BS  CTCCCACATG; R32530; 7; 10;; p.
+BS  CTCCCCCACC; R32531; 4; 10;; p.
+BS  CTCCCTCTTC; R33247; 4; 10;; n.
+BS  CTCCCCCGCA; R33938; 14; 10;; n.
+BS  CGCCCCCGAG; R33946; 11; 10;; n.
+BS  CGCCCCCACC; R33947; 8; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M01118; V$WT1_Q6.
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

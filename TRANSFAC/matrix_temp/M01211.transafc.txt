@@ -1,0 +1,52 @@
+AC  M01211
+XX
+ID  V$PARP_Q3
+XX
+DT  29.01.2009 (created); dtc.
+DT  13.02.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PARP
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T14054; PARP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14055; PARP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02949; PARP; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T15350; PARP; Species: Mammalia; site(s) included: yes.
+BF  T14488; PARP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18571; PARP; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14487; PARP-long; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      2      0      3      Y
+02      2      0      2      2      D
+03      3      0      3      0      R
+04      0      0      6      0      G
+05      6      0      0      0      A
+06      6      0      0      0      A
+07      4      1      0      1      A
+08      2      0      1      3      W
+09      4      1      0      1      A
+10      1      2      3      0      S
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ctggaaatag; R08616; 10; 10;; n.
+BS  agagaaagag; R23131; 18; 10;; n.
+BS  tgggaaaaag; R24518; 6; 10;; n.
+BS  TAAGAAATTA; R25780; 2; 10;; p.
+BS  CTGGAACTCC; R25795; 9; 10;; p.
+BS  taagaataac; R25880; 1; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+XX
+//

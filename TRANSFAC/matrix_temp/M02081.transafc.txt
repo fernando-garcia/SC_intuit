@@ -1,0 +1,58 @@
+AC  M02081
+XX
+ID  V$ISL2_04
+XX
+DT  20.10.2011 (created); lat.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Isl2
+XX
+DE  class I, homeodomain plus LIM domains
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T22549; Isl-2a; Species: chinook salmon, Oncorhynchus tschawytscha; site(s) included: yes.
+BF  T22551; Isl2; Species: chinook salmon, Oncorhynchus tschawytscha; site(s) included: yes.
+BF  T22553; ISL2b; Species: chinook salmon, Oncorhynchus tschawytscha; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      5      0      2      M
+02      0      0      0     16      T
+03     16      0      0      0      A
+04     16      0      0      0      A
+05      0      0      0     16      T
+06      2      1      8      5      K
+07      4      3      7      1      N
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATAATTA; R36952; 7; 7;; p.
+BS  TTAATGG; R36954; 14; 7;; p.
+BS  CTAATCG; R36955; 14; 7;; p.
+BS  CTAATAA; R36956; 11; 7;; p.
+BS  ATAATGC; R36957; 15; 7;; p.
+BS  ATAATAC; R36958; 7; 7;; p.
+BS  CTAATGC; R36959; 7; 7;; p.
+BS  ATAATTG; R36960; 10; 7;; p.
+BS  ATAATGG; R36961; 6; 7;; p.
+BS  ATAATGG; R36962; 7; 7;; p.
+BS  ATAATGG; R36963; 9; 7;; p.
+BS  CTAATT; R36964; 14; 7; 20; p.
+BS  CTAATGT; R36965; 7; 7;; p.
+BS  ATAATTG; R36966; 11; 7;; p.
+BS  TTAATGA; R36967; 11; 7;; p.
+BS  ATAATTA; R36968; 10; 7;; p.
+XX
+CC  sequences selected with recombinant ISl2 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5th and 8th rounds of selection and amplification
+XX
+RN  [1]; RE0071293.
+RX  PUBMED: 7999775.
+RA  Gong Z., Hew C. L.
+RT  Zinc and DNA binding properties of a novel LIM homeodomain protein Isl-2.
+RL  Biochemistry 33:15149-15158 (1994).
+XX
+//

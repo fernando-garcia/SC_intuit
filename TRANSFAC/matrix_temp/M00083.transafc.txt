@@ -1,0 +1,70 @@
+AC  M00083
+XX
+ID  V$MZF1_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MZF1
+XX
+DE  MZF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T09481; MZF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14260; MZF-1; Species: Mammalia; site(s) included: no.
+BF  T08516; MZF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08517; MZF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14541; MZF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17573; MZF1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00529; MZF1B-C; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      3      6      3      N
+02      4      2     11      3      G
+03      3      3      5      9      N
+04      0      0     20      0      G
+05      1      0     18      1      G
+06      0      0     19      1      G
+07      0      0     20      0      G
+08     18      1      1      0      A
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAGGGGGA; R06243; 1; 8;; p.
+BS  CACGGGGA; R06244; 2; 8;; p.
+BS  TTTGGGGA; R06245; 2; 8;; p.
+BS  AGAGGGGA; R06246; 6; 8;; p.
+BS  AGTGGGGA; R06247; 1; 8;; p.
+BS  CAGGGGGA; R06248; 1; 8;; p.
+BS  TGAGGGGA; R06249; 6; 8;; p.
+BS  AGTGGGGA; R06250; 1; 8;; p.
+BS  GGAGGGGA; R06251; 4; 8;; p.
+BS  AGCGGGGA; R06252; 1; 8;; p.
+BS  AGTGGGGA; R06253; 4; 8;; p.
+BS  ACTGTTGA; R06254; 1; 8;; p.
+BS  GATGGGGG; R06255; 6; 8;; p.
+BS  GGGGGGGA; R06256; 1; 8;; p.
+BS  GGTGGGGA; R06257; 5; 8;; p.
+BS  GGGGGGGA; R06258; 6; 8;; p.
+BS  ATTGGGGA; R06259; 5; 8;; p.
+BS  AGCGGGGA; R06260; 1; 8;; p.
+BS  GTTGGGGC; R06261; 8; 8;; p.
+BS  TCGGAGGA; R06262; 1; 8;; p.
+XX
+CC  sequences selected with recombinant MZF1 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0056.
+DR  JASPAR: MA0057.
+XX
+RN  [1]; RE0002961.
+RX  PUBMED: 8114711.
+RA  Morris J. F., Hromas R., Rauscher III F. J.
+RT  Characterization of the DNA-binding properties of the myeloid zinc finger protein MZF1: two independent DNA-binding domains recognize two DNA consensus sequences with a common G-rich core
+RL  Mol. Cell. Biol. 14:1786-1795 (1994).
+XX
+//

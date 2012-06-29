@@ -1,0 +1,70 @@
+AC  M01709
+XX
+ID  V$MAFA_Q4_01
+XX
+DT  26.04.2010 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MAFA
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01139; V$LMAF_Q2;  (specific).
+XX
+BF  T10330; KLRG1; Species: Mammalia; site(s) included: no.
+BF  T17540; KLRG1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10383; KLRG1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10384; KLRG1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08233; MafA; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11310; MafA; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T14389; MafA; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T08225; MafA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09599; MafA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16071; MAFA; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T14415; MafA; Species: Mammalia; site(s) included: no.
+BF  T08226; MafA; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09908; MafA; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0      0     18      T
+02      1     16      3      0      C
+03     18      0      1      1      A
+04      0      2     18      0      G
+05      0     20      0      0      C
+06     13      3      1      3      A
+07      4      4      8      4      N
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACAGCAA; R18126; 14; 7;; p.
+BS  tcagcag; R18184; 19; 7;; n.
+BS  tcagcag; R18230; -1; 7;; n.
+BS  TGAGCTG; R18231; 4; 7;; p.
+BS  tcagcaa; R18232; -1; 7;; n.
+BS  tcagcag; R18233; -1; 7;; n.
+BS  acagcag; R18234; -1; 7;; n.
+BS  tgagcta; R19684; 15; 7;; n.
+BS  tcaccct; R19686; 17; 7;; p.
+BS  tcaccat; R19688; 25; 7;; p.
+BS  tcagcac; R20757; 6; 7;; n.
+BS  tcagcag; R20758; 10; 7;; n.
+BS  TCTGCAG; R20761; 5; 7;; p.
+BS  tcggcag; R20762; 8; 7;; n.
+BS  TGAGCAC; R20763; 20; 7;; p.
+BS  TCAGCCC; R20766; 15; 7;; p.
+BS  tcagcta; R28026; 22; 7;; n.
+BS  TAAGCGT; R28028; 17; 7;; p.
+BS  TCAGCAT; R30215; 18; 7;; p.
+BS  TCAGCCC; R30307; 15; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

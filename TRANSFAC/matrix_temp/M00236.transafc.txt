@@ -1,0 +1,60 @@
+AC  M00236
+XX
+ID  V$ARNT_01
+XX
+DT  05.02.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Arnt
+XX
+DE  AhR nuclear translocator homodimers
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00976; V$AHRHIF_Q6;  (family).
+XX
+BF  T01346; arnt; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10835; arnt; Species: human, Homo sapiens; site(s) included: no.
+BF  T10818; arnt; Species: Mammalia; site(s) included: no.
+BF  T01797; arnt; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01798; arnt; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10933; arnt; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01796; Arnt (774 AA form); Species: human, Homo sapiens; site(s) included: yes.
+BF  T10458; arnt-L; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18790; arnt-S; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     25     13     50     13      N
+02     30      0     30     40      D
+03     33      0     25     42      D
+04     33      8     42     17      N
+05     17     17     25     42      N
+06     20     80      0      0      C
+07     95      0      5      0      A
+08      0    100      0      0      C
+09      0      0    100      0      G
+10      0      0      0    100      T
+11      0      0    100      0      G
+12     24     35     24     18      N
+13     14     36     14     36      N
+14     17     42     25     17      N
+15     10     20     40     30      N
+16     13     38     25     25      N
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Arnt from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0004.
+XX
+RN  [1]; RE0003789.
+RX  PUBMED: 7592839.
+RA  Swanson H. I., Chan W. K., Bradfield C. A.
+RT  DNA binding specificities and pairing rules of the Ah receptor, ARNT, and SIM proteins
+RL  J. Biol. Chem. 270:26292-26302 (1995).
+XX
+//

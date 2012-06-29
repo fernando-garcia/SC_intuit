@@ -1,0 +1,60 @@
+AC  M01264
+XX
+ID  V$TBX15_02
+XX
+DT  08.07.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBX15
+XX
+DE  T-box 15
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T21490; TBX15; Species: human, Homo sapiens; site(s) included: yes.
+BF  T21491; TBX15; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16161; Tbx15; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16162; Tbx15; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      6      0      0      0      A
+02      0      0      6      0      G
+03      0      0      6      0      G
+04      0      0      0      6      T
+05      0      0      6      0      G
+06      0      0      0      6      T
+07      0      0      3      3      K
+08      5      0      1      0      A
+09      6      0      0      0      A
+10      0      1      5      0      G
+11      0      0      6      0      G
+12      0      0      0      6      T
+13      0      0      6      0      G
+14      0      0      0      6      T
+15      0      1      5      0      G
+16      6      0      0      0      A
+17      6      0      0      0      A
+18      6      0      0      0      A
+XX
+BA  6 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGGTGTGAAGGTGTGAAA; R28334; 14; 18;; p.
+BS  AGGTGTGAAGGTGTGAAA; R28334; 14; 18;; p.
+BS  AGGTGTTAAGGTGTGAAA; R28335; 19; 18;; p.
+BS  AGGTGTGAAGGTGTGAAA; R28336; 19; 18;; p.
+BS  AGGTGTTAAGGTGTCAAA; R28337; 12; 18;; p.
+BS  AGGTGTTGACGTGTGAAA; R28338; 12; 18;; p.
+XX
+CC  sequences selected with recombinant TBX15 from a pool of double-stranded oligonucleotides containing a core of 48 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0063405.
+RX  PUBMED: 17584735.
+RA  Farin H. F., Bussen M., Schmidt M. K., Singh M. K., Schuster-Gossler K., Kispert A.
+RT  Transcriptional repression by the T-box proteins Tbx18 and Tbx15 depends on Groucho corepressors.
+RL  J. Biol. Chem. 282:25748-25759 (2007).
+XX
+//

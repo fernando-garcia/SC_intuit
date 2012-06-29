@@ -1,0 +1,55 @@
+AC  M02554
+AS  MA0435
+XX
+ID  F$YPR015C_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ypr015C
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T16830; Ypr015c; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     75    242    144    537      T
+02    158    204    341    295      N
+03    382    170    173    274      N
+04    376    240    137    245      N
+05    274     50    462    212      N
+06    552    169    240     37      A
+07     16    747     17    218      C
+08      4      4    988      2      G
+09      2     16      3    978      T
+10    983      7      3      5      A
+11    884      1    109      4      A
+12    986      2      4      6      A
+13      5      2      2    989      T
+14      4    983      1      9      C
+15    326    575     55     43      M
+16     86    221     77    613      T
+17    258    190    196    354      N
+18    450    110    173    266      N
+19    281    396     62    260      N
+20    333    330     68    266      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0435.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

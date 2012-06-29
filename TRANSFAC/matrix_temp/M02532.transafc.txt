@@ -1,0 +1,55 @@
+AC  M02532
+AS  MA0413
+XX
+ID  F$USV1_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  USV1
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03711; USV1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    269    223    250    255      N
+02    306    182    216    294      N
+03    342    168    206    283      N
+04    131    193    146    528      T
+05    133     55    157    652      T
+06    318    551    101     28      M
+07      1    967     26      3      C
+08      0    977      0     20      C
+09      3    993      1      1      C
+10      1    981      0     16      C
+11      0      6      3    989      T
+12      0      2    869    126      G
+13    956      0     36      5      A
+14    850     92     21     35      A
+15    174    257    162    405      N
+16    233    235     93    438      N
+17    212    191    197    399      N
+18    181    185    321    311      N
+19    205    100    265    428      N
+20    219    297    365    116      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0413.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

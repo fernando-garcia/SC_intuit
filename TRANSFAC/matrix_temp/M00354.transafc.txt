@@ -1,0 +1,67 @@
+AC  M00354
+XX
+ID  P$DOF3_01
+XX
+DT  29.04.1999 (created); rhe.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Dof3
+XX
+DE  Dof3 - single zinc finger transcription factor
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02691; Dof3; Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      3     10      3      N
+02     10      6      3      2      M
+03      5      6      6      4      N
+04      8      3      3      7      N
+05     21      0      0      0      A
+06     21      0      0      0      A
+07     21      0      0      0      A
+08      0      0     21      0      G
+09      3     10      3      5      N
+10      6      6      7      2      N
+11      8      6      4      3      N
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTCTAAAGCGT; R13098; 8; 11;; p.
+BS  GACGAAAGCAA; R13099; 15; 11;; p.
+BS  AATTAAAGTAA; R13099; 3; 11;; p.
+BS  GTCTAAAGCGA; R13100; 18; 11;; p.
+BS  AATTAAAGTGC; R13100; 3; 11;; p.
+BS  GCGAAAAGCGA; R13101; 7; 11;; p.
+BS  GCGAAAAGCGA; R13101; 7; 11;; p.
+BS  GCGTAAAGCAG; R13102; 8; 11;; p.
+BS  TAGAAAAGGCG; R13103; 8; 11;; p.
+BS  AATTAAAGTAC; R13104; 3; 11;; p.
+BS  GCCCAAAGATC; R13105; 20; 11;; p.
+BS  CACAAAAGCCC; R13105; 9; 11;; p.
+BS  GCGGAAAGATC; R13106; 19; 11;; p.
+BS  TGACAAAGCGT; R13106; 6; 11;; p.
+BS  CAAAAAAGGCG; R13107; 11; 11;; p.
+BS  AATTAAAGCAA; R13107; 3; 11;; p.
+BS  CAGCAAAGACG; R13108; 17; 11;; p.
+BS  TAAAAAAGGCT; R13108; 6; 11;; p.
+BS  AGCAAAAGTGC; R13109; 14; 11;; p.
+BS  GGAAAAAGCAA; R13109; 8; 11;; p.
+BS  GCAGAAAGTCA; R13110; 7; 11;; p.
+XX
+CC  sequences selected with recombinant Dof3 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0021.
+XX
+RN  [1]; RE0013547.
+RX  PUBMED: 10074718.
+RA  Yanagisawa S., Schmidt R. J.
+RT  Diversity and similarity among recognition sequences of Dof transcription factors.
+RL  Plant J. 17:209-214 (1999).
+XX
+//

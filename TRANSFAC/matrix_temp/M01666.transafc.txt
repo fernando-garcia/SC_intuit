@@ -1,0 +1,62 @@
+AC  M01666
+XX
+ID  V$STAT4_Q4
+XX
+DT  29.01.2010 (created); dtc.
+DT  03.02.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T01577; STAT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10339; STAT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16672; STAT4; Species: Mammalia; site(s) included: no.
+BF  T01576; STAT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10342; STAT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16671; STAT4; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     10      T
+02      0      0      0     10      T
+03      2      8      0      0      C
+04      3      6      0      1      M
+05      3      3      3      1      N
+06      8      1      1      0      A
+07      0      0      7      3      G
+08     10      0      0      0      A
+09     10      0      0      0      A
+10      3      0      4      3      D
+11      4      3      0      3      H
+12      3      4      2      1      N
+13      5      5      0      0      M
+14      6      2      2      0      A
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTCCCCGAAATGAC; R13215; 7; 14;; p.
+BS  TTCCAATAATAAAA; R13236; 5; 14;; p.
+BS  TTCCGAGAAGACAG; R13241; 7; 14;; p.
+BS  TTCCTGTAAGAGCA; R13242; 8; 14;; p.
+BS  TTCCCAGAAATCAG; R16930; 12; 14;; p.
+BS  TTCTGAGAAGTACC; R25764; 12; 14;; p.
+BS  TTACCATAAGAAAA; R25909; 11; 14;; p.
+BS  TTCAAAGAATCCCA; R25927; 34; 14;; p.
+BS  ttaaaagaaactca; R25930; 27; 14;; n.
+BS  TTCAGAGAATCCCA; R29787; 31; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0065667.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20101:0001 (2010).
+XX
+//

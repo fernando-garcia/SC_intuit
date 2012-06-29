@@ -1,0 +1,41 @@
+AC  M01988
+XX
+ID  V$ER71_01
+XX
+DT  14.07.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ER71
+XX
+TY  specific
+XX
+OS  mouse, Mus musculus
+OC  eukaryota; animalia; metazoa; chordata; vertebrata; tetrapoda; mammalia; eutheria; rodentia; myomorpha; muridae; murinae
+XX
+BF  T15696; ER71; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15697; ER71; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     53     11     24     11      A
+02     15     63     20      2      C
+03     20     81      2      0      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06    100      0      0      0      A
+07     63      8      0     29      A
+08     39      4     52      5      R
+09      6     38      7     48      Y
+10     33     18     29     20      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

@@ -1,0 +1,65 @@
+AC  M01224
+XX
+ID  V$P50RELAP65_Q5_01
+XX
+DT  11.02.2009 (created); dtc.
+DT  13.02.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  P50:RELA-P65
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T10537; NF-kappaB1-p50:RelA-p65; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T09421; NF-kappaB1-p50:RelA-p65; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10699; NF-kappaB1-p50:RelA-p65; Species: Mammalia; site(s) included: yes.
+BF  T14247; NF-kappaB1-p50:RelA-p65; Species: Mammalia; site(s) included: yes.
+BF  T10406; p50:RelA-p65; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0     18      0      G
+02      3      2     14      0      G
+03     12      1      5      1      A
+04      8      3      3      5      N
+05      1      1      5     12      T
+06      0      0      2     17      T
+07      0      7      1     11      Y
+08      0     18      0      1      C
+09      0     19      0      0      C
+10      0     18      0      1      C
+11     10      3      1      5      W
+12      4      9      2      4      N
+XX
+BA  19 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AAAATTCCCCCA; R14483; 18; 12;; p.
+BS  GGGTTTCTCCAC; R14565; 7; 12;; p.
+BS  ggggttccccac; R19582; 4; 12;; n.
+BS  ggtgtttccccc; R21039; 1; 12;; n.
+BS  ggaaattcccac; R21071; 4; 12;; n.
+BS  ggaagttcccag; R21072; 4; 12;; n.
+BS  GGATTTTCCCTT; R21412; 22; 12;; p.
+BS  ggagggccccta; R21662; 4; 12;; n.
+BS  GGAATTTCCTTT; R21766; 17; 12;; p.
+BS  gcaagtccccac; R22435; 4; 12;; n.
+BS  gggtgtgcccaa; R22544; 4; 12;; n.
+BS  gggattccccta; R22578; 1; 12;; n.
+BS  GAAAGTCCCCAT; R23740; 17; 12;; p.
+BS  gggctgtcccag; R24497; 5; 12;; n.
+BS  ggattttcccac; R24754; 10; 12;; n.
+BS  GAATCTTCCCAC; R24757; 12; 12;; p.
+BS  GCCCTTTCCCCC; R24815; 6; 12;; p.
+BS  ggactttcccgc; R25286; 3; 12;; n.
+BS  GGAATTTCCCtt; R26257; 7; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+XX
+//

@@ -1,0 +1,154 @@
+AC  M02014
+XX
+ID  V$HNF3B_Q6
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF-3beta
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00791; V$HNF3_Q6;  (family).
+HP  M01012; V$HNF3_Q6_01;  (family).
+XX
+BF  T03256; HNF-3beta; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01053; HNF-3beta; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T08140; HNF-3beta; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T02513; HNF-3beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09512; HNF-3beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09404; HNF-3beta; Species: Mammalia; site(s) included: yes.
+BF  T02344; HNF-3beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09942; HNF-3beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01049; HNF-3beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08421; HNF-3beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     17     17     15     49      N
+02      0      2      1     98      T
+03     38      3     59      3      R
+04      0      0      0    103      T
+05      0      0      1    102      T
+06      1      0     11     91      T
+07     44      0     50      9      R
+08      5     57      7     34      Y
+09     19     23      6     53      T
+XX
+BA  103 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATGTTTGAA; R01462; 4; 9;; n.
+BS  TTATTGACT; R01464; 4; 9;; n.
+BS  GTGTTTATT; R01800; 12; 9;; n.
+BS  GTGTTTTGA; R02350; 3; 9;; p.
+BS  TTGTTTGTT; R03150; 4; 9;; n.
+BS  ATATTTGTG; R03444; -1; 9;; p.
+BS  ATATTTGCC; R04122; 12; 9;; p.
+BS  CTGTTTGTT; R04321; 6; 9;; n.
+BS  CTGTTTGTT; R04324; -2; 9;; p.
+BS  ATGTTTGCA; R04490; -1; 9;; n.
+BS  ATGTTTGCA; R04490; -1; 9;; n.
+BS  GTGTTTTGA; R04662; 20; 9;; p.
+BS  TTGTTTTGC; R04663; 6; 9;; n.
+BS  CTGTTTGGC; R05015; 5; 9;; n.
+BS  TTATTTGCT; R05017; 10; 9;; p.
+BS  ATATTTGCT; R05029; 15; 9;; p.
+BS  TTGTTTTGC; R05073; 7; 9;; n.
+BS  ATATTTGCT; R05076; 8; 9;; n.
+BS  CTGTTTACA; R05078; 8; 9;; n.
+BS  GTGTTTACC; R05084; 8; 9;; p.
+BS  TTGTTTTAG; R05085; 7; 9;; n.
+BS  TTGTTTGCA; R05086; 5; 9;; n.
+BS  TTGTTTGTT; R05101; 2; 9;; p.
+BS  TTGTTTGTT; R05102; 3; 9;; n.
+BS  TTGTTTGTT; R05103; 2; 9;; p.
+BS  TTATTTATT; R05104; 2; 9;; p.
+BS  ATGTTTGTT; R05105; 2; 9;; p.
+BS  TTGTTTGCC; R08137; 28; 9;; n.
+BS  TTGTTTGCC; R08139; 28; 9;; n.
+BS  TTGTTTGCC; R08139; 28; 9;; n.
+BS  CTGTTTGTC; R08890; 8; 9;; p.
+BS  TTATTGACT; R08894; 7; 9;; n.
+BS  ATATTGATT; R08915; 6; 9;; p.
+BS  GTCTTTATT; R08916; 8; 9;; n.
+BS  CTATTGATT; R08917; 2; 9;; p.
+BS  ATATTGACT; R08919; 2; 9;; p.
+BS  GTATTGACT; R08920; 2; 9;; p.
+BS  TTATTTACT; R12970; 5; 9;; n.
+BS  CCATTTATC; R13252; 10; 9;; p.
+BS  TTGTTGAAC; R13253; 9; 9;; n.
+BS  CTTTTAATG; R13254; 11; 9;; p.
+BS  TTGTTGGGC; R13255; 9; 9;; p.
+BS  CTGTTTGCT; R15361; 9; 9;; n.
+BS  gTGTTTGCT; R15362; 14; 9;; n.
+BS  CTGTTTGTT; R16331; 12; 9;; p.
+BS  TTGTTTACA; R16547; 12; 9;; n.
+BS  TTGTTTACA; R16569; 8; 9;; n.
+BS  ATGTTTGCT; R17148; 8; 9;; n.
+BS  GTGTTTACT; R17150; 6; 9;; n.
+BS  GTGTTTACT; R17150; 6; 9;; n.
+BS  TTGTTTATT; R17151; 10; 9;; p.
+BS  GTATTTATT; R17157; 2; 9;; p.
+BS  TTATTTACT; R18136; 14; 9;; n.
+BS  TCATTTATT; R19240; 1; 9;; n.
+BS  CTTTTTTCA; R19454; 10; 9;; p.
+BS  TTATTTGCT; R19456; 7; 9;; n.
+BS  TTATTTgct; R19458; 18; 9;; n.
+BS  tTATTTgtt; R19461; 2; 9;; n.
+BS  gtgttggta; R19525; 10; 9;; n.
+BS  ATGTTTGTT; R19565; 7; 9;; n.
+BS  TTATTTACT; R19675; 10; 9;; n.
+BS  ATGTGTGCA; R19711; 5; 9;; p.
+BS  TTATTTACT; R19764; 8; 9;; n.
+BS  TTATTTATG; R19770; 8; 9;; n.
+BS  CTATTTAAA; R19771; 5; 9;; p.
+BS  CTGTTTTCC; R20206; 6; 9;; p.
+BS  CTGTTTGCT; R20251; 9; 9;; p.
+BS  ATGTTTACA; R20796; 13; 9;; n.
+BS  CTGTTTGCT; R21088; 9; 9;; p.
+BS  TTGTTTGCA; R21113; 26; 9;; n.
+BS  TTGTTTACT; R21128; 19; 9;; p.
+BS  TTATTTGCG; R21241; 10; 9;; n.
+BS  GTGTTTACT; R21353; 9; 9;; p.
+BS  TTATTTGCC; R21373; 8; 9;; p.
+BS  TTATTTGTT; R21385; 19; 9;; p.
+BS  TTCTTTATT; R25364; 9; 9;; p.
+BS  TTATTTACT; R25805; 13; 9;; n.
+BS  TTATTTACT; R25905; 8; 9;; n.
+BS  GTGTTTTCT; R25965; 19; 9;; p.
+BS  ATGTTTACA; R26298; 8; 9;; n.
+BS  CTGTTTGCC; R26381; 5; 9;; p.
+BS  GTGTTTGCC; R26383; 6; 9;; p.
+BS  TTATTTACA; R26408; 7; 9;; p.
+BS  ATGTTTACT; R26417; 9; 9;; p.
+BS  ATATTTGCA; R26419; 19; 9;; n.
+BS  TTATTTATG; R26420; 2; 9;; n.
+BS  CTGTTTATC; R26421; 5; 9;; n.
+BS  ATGTTTGCC; R26428; 11; 9;; n.
+BS  TTGTTTAAC; R26429; 9; 9;; n.
+BS  TTGTTTATT; R26445; 18; 9;; p.
+BS  GTTTTGACT; R26448; 9; 9;; p.
+BS  TTGTTTATT; R26568; 17; 9;; p.
+BS  TTGTTTGTT; R26569; 11; 9;; p.
+BS  CTATTTGCC; R26747; 26; 9;; p.
+BS  TTATTTGCC; R26748; 21; 9;; p.
+BS  TTATTTGCC; R26749; 21; 9;; p.
+BS  GGATTTGCA; R31605; 9; 9;; n.
+BS  ATATTGATT; R33785; 8; 9;; n.
+BS  ATCTTTATA; R33787; 10; 9;; n.
+BS  TTGTTTGCT; R34184; 5; 9;; p.
+BS  tTATTtgtt; R34185; 4; 9;; p.
+BS  TTGTTTTGC; R34224; 5; 9;; n.
+BS  TTGTTTGCA; R34254; 15; 9;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

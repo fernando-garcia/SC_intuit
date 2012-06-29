@@ -1,0 +1,56 @@
+AC  M00655
+XX
+ID  V$PEA3_Q6
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PEA3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T15584; PEA3; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T02832; PEA3; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T00685; PEA3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10610; PEA3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00684; PEA3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09992; PEA3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00686; PEA3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06611; PEA3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T09271; PEA3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      0      1      1      A
+02      0      9      0      1      C
+03      5      0      0      5      W
+04      0      0      0     10      T
+05      0     10      0      0      C
+06      0     10      0      0      C
+07      0      0      4      6      K
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACTTCCT; R01224; 3; 7;; n.
+BS  ACATCCT; R01639; 2; 7;; n.
+BS  ACATCCT; R01640; 2; 7;; n.
+BS  ACTTCCG; R01993; 1; 7;; n.
+BS  ACATCCG; R01995; 1; 7;; n.
+BS  ACATCCG; R01996; 4; 7;; n.
+BS  ACTTCCT; R01999; 3; 7;; n.
+BS   TTTCCT; R02095; 1; 7;; n.
+BS  TCATCCT; R03058; 27; 7;; n.
+BS  GCTTCCG; R04985; 7; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,57 @@
+AC  M01195
+XX
+ID  V$TBX22_01
+XX
+DT  16.10.2008 (created); smt.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBX22
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04949; Tbx22; Species: human, Homo sapiens; site(s) included: no.
+BF  T11216; Tbx22; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16744; TBX22; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16745; TBX22; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16746; Tbx22; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     16      0      0      0      A
+02      0      0     16      0      G
+03      0      0     16      0      G
+04      0      0      0     16      T
+05      0      0     16      0      G
+06      0      2      0     14      T
+07      0      0     16      0      G
+08     16      0      0      0      A
+09     16      0      0      0      A
+10      9      1      0      5      W
+11      0      0      1     15      T
+12      0      0      0     16      T
+13      2      5      9      0      S
+14      4      2      1      9      T
+15      0     16      0      0      C
+16     16      0      0      0      A
+17      0     15      0      1      C
+18      0     13      0      3      C
+19      0      0      0     16      T
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant TBX22 from a pool of double-stranded oligonucleotides containing a core of random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0054624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel124:0001 (2008).
+RN  [2]; RE0054467.
+RX  PUBMED: 17846996.
+RA  Andreou A. M., Pauws E., Jones M. C., Singh M. K., Bussen M., Doudney K., Moore G. E., Kispert A., Brosens J. J., Stanier P.
+RT  TBX22 missense mutations found in patients with X-linked cleft palate affect DNA binding, sumoylation, and transcriptional repression.
+RL  Am. J. Hum. Genet. 81:700-712 (2007).
+XX
+//

@@ -1,0 +1,47 @@
+AC  M00103
+XX
+ID  V$CLOX_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Clox
+XX
+DE  Clox
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01485; Cutl; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+XX
+P0      A      C      G      T
+01     27     11     21     41      N
+02     45     16     12     27      N
+03     17      6     24     53      T
+04    100      0      0      0      A
+05      0      0      0    100      T
+06      1     73      0     26      C
+07      0      0    100      0      G
+08    100      0      0      0      A
+09      0      0      0    100      T
+10      8     20      2     70      T
+11     86      2      4      8      A
+12     18     11     23     48      N
+13     11     32      6     51      Y
+14     21     10     27     42      N
+15     37     10     12     41      W
+XX
+BA  138 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant Clox from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 9 rounds of selection and amplification
+XX
+RN  [1]; RE0002972.
+RX  PUBMED: 7905452.
+RA  Andres V., Chiara M. D., Mahdavi V.
+RT  A new bipartite DNA-binding domain: cooperative interaction between the cut repeat and homeo domain of the cut homeo proteins
+RL  Genes Dev. 8:245-257 (1994).
+XX
+//

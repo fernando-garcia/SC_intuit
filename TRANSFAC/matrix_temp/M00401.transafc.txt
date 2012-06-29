@@ -1,0 +1,72 @@
+AC  M00401
+XX
+ID  P$ABF1_03
+XX
+DT  13.09.2000 (created); rge.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ABF1
+XX
+DE  ABA (abscisic acid) inducible transcriptional activator
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+HP  M00442; P$ABF_Q2; ABA binding factor (family).
+XX
+BF  T03820; ABF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13760; ABF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      2      5      0      G
+02      0      1      1      6      T
+03      0      6      2      0      C
+04      0      1      4      3      K
+05      1      2      4      1      N
+06      0      3      2      3      B
+07      0      1      2      5      T
+08      0      2      2      5      T
+09      0      2      7      0      G
+10      3      3      2      1      N
+11      0      1      0      8      T
+12      0      0      8      1      G
+13      9      0      0      0      A
+14      0      9      0      0      C
+15      0      0      9      0      G
+16      0      0      0      9      T
+17      0      0      9      0      G
+18      0      0      7      2      G
+19      0      9      0      0      C
+20      4      4      1      0      M
+21      3      4      2      0      M
+22      1      5      2      1      C
+23      2      0      6      1      G
+24      5      1      2      1      A
+25      0      2      7      0      G
+26      4      0      4      0      R
+27      1      5      1      0      C
+XX
+BA  9 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTCGGTTCCATGACGTGGCGAGGAGGC; R09277; 2; 27;; p.
+BS  GTCGGCTTGATGACGTGGCCACGAGGC; R09278; 2; 27;; p.
+BS  GCCTCCTTCATGACGTGGCACCACGAC; R09279; 1; 27;; p.
+BS   TGTCGTGGCTGACGTGGCACTAGGAG; R09280; 1; 27; 1; p.
+BS  CGGCGCGTGGTGACGTGGCCGAGGC; R09281; 4; 27; 29, 30; p.
+BS  GTCGATTCGGTGACGTGTCCCGGAGGC; R09282; 2; 27;; p.
+BS  CTCTGGCTGCTGACGTGTCCCCGACA; R09283; 3; 27; 29; p.
+BS         TGTCGACGTGGCAACTTGAA; R09284; 1; 27; 1, 2, 3, 4, 5, 6, 7; p.
+BS  GTCGTTGGGCTTACGTGGCAGCGAGGC; R09285; 2; 27;; p.
+XX
+CC  sequences selected with recombinant ABF1 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0015064.
+RX  PUBMED: 10636868.
+RA  Choi H., Hong J., Ha J., Kang J., Kim S. Y.
+RT  ABFs, a family of ABA-responsive element binding factors
+RL  J. Biol. Chem. 275:1723-1730 (2000).
+XX
+//

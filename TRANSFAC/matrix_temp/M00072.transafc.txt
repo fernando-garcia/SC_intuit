@@ -1,0 +1,59 @@
+AC  M00072
+XX
+ID  V$CP2_01
+XX
+DT  21.04.1995 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CP2
+XX
+DE  CP2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T11264; CP2; Species: human, Homo sapiens; site(s) included: no.
+BF  T11462; CP2; Species: Mammalia; site(s) included: no.
+BF  T00152; CP2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08971; CP2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11455; CP2 isoform 2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00151; CP2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05680; CP2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19332; CP2-xbb2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16543; Tcfcp2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16544; Tcfcp2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      5      0      G
+02      0      5      1      0      C
+03      2      2      0      2      H
+04      2      4      0      0      C
+05      2      0      2      2      D
+06      5      1      0      0      A
+07      2      3      1      0      M
+08      0      6      0      0      C
+09      2      4      0      0      C
+10      6      0      0      0      A
+11      0      0      6      0      G
+XX
+BA  6 sequences (compiled matrix imported from literature reference)
+XX
+BS  GCACAACCCAG; R06116; 1; 11;; p.
+BS  CCCAGCCCCAG; R06117; 1; 11;; p.
+BS  GCCCTAACAAG; R06118; 1; 11;; p.
+BS  GCTCTACCCAG; R06119; 1; 11;; p.
+BS  GGTAGAGCAAG; R06120; 1; 11;; p.
+BS  GCACAAACCAG; R06121; 1; 11;; p.
+XX
+CC  binding sites from the murine alpha-globin gene promoter
+XX
+RN  [1]; RE0002945.
+RX  PUBMED: 2233727.
+RA  Kim C. G., Swendeman S. L., Barnhart K. M., Sheffery M.
+RT  Promoter elements and erythroid cell nuclear factors that regulate alpha-globin gene transcription in vitro
+RL  Mol. Cell. Biol. 10:5958-5966 (1990).
+XX
+//

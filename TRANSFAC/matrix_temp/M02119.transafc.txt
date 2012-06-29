@@ -1,0 +1,100 @@
+AC  M02119
+XX
+ID  V$T3RBETA_Q6_01
+XX
+DT  24.10.2011 (created); mkl.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  T3Rbeta
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00963; V$T3R_Q6; half-site matrix of TRE (thyroid hormone response element) and RARE (retinoic acid response element); (family).
+XX
+BF  T08264; T3R-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16580; T3R-beta; Species: Mammalia; site(s) included: yes.
+BF  T00852; T3R-beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01692; T3R-beta1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00851; T3R-beta1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15588; T3R-beta1; Species: Mammalia; site(s) included: yes.
+BF  T00853; T3R-beta1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01693; T3R-beta2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04450; T3R-beta2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01350; T3R-beta2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     18      3     20      1      R
+02     11      6     21      4      R
+03      5      6     29      2      G
+04      6      8     13     15      N
+05      7     14     14      7      N
+06     26      6      4      6      A
+07      5      9     19      9      N
+08      8     16     11      7      N
+09      4     11     13     14      N
+10      8      9     21      4      G
+11     31      2      6      3      A
+12      1      0     41      0      G
+13      2      0     39      1      G
+14     14      2      5     21      W
+15      0     35      7      0      C
+16     33      3      1      5      A
+17      8      9     18      7      N
+XX
+BA  42 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGGAAAGGTAAGATCAG; R00619; -5; 17;; p.
+BS  AGGTGACAGGAGGACAG; R01169; 2; 17;; n.
+BS  ACCCCAGCTGAGGTCAA; R01673; 4; 17;; p.
+BS  CACAGTGACCTGATCAA; R01906; 8; 17;; p.
+BS  GGGTCATTTCAGGTCCT; R02595; 3; 17;; n.
+BS  AGGAGCCAGGAGGGGAG; R02714; 12; 17;; p.
+BS  GCAGATGCTGTGGTGAC; R03102; 5; 17;; n.
+BS  ACCTCGGCTGAGGACAC; R03886; 2; 17;; p.
+BS  AGGTGACAGGAGGACAG; R03942; 2; 17;; n.
+BS  AAAGCAGGTGAGGACTT; R03958; -3; 17;; p.
+BS  AAAGCAGGTGAGGACTT; R03958; -3; 17;; p.
+BS  GGGTATAAAAAGGGCAT; R03959; 3; 17;; p.
+BS  CGGCGAGGCGGGGACTC; R03960; -2; 17;; n.
+BS  AGGCCTTCTCAGGTCAG; R04401; 1; 17;; p.
+BS  GAGTCAGGGCAGGTCAG; R04402; -5; 17;; p.
+BS  AAAGTAAGGTAGGTGTC; R04771; 11; 17;; p.
+BS  GGGTTAGGGGAGGACAG; R20540; 10; 17;; p.
+BS  ACGTCCCCCAAGGTCAC; R20715; 5; 17;; n.
+BS  GAGGCAGCTGAGGTCAA; R26500; 5; 17;; p.
+BS  GAGCAAGGGGAGGTGAA; R26507; 10; 17;; n.
+BS  ACGGTAGCTCAAGACTA; R26508; 2; 17;; p.
+BS  GGTCGCCTGGAGTTCAG; R26509; 8; 17;; p.
+BS  GAGGTTGCACTGGGCAA; R26513; 20; 17;; n.
+BS  GTGAGGTCAGCGGGGAG; R27625; -3; 17;; n.
+BS  GTGCCATCCGAGGTCCT; R29242; 3; 17;; p.
+BS  GTCACCCTGCAGGTCAC; R29247; 15; 17;; n.
+BS  AAAGTAAGGTAGGTCTC; R29364; 29; 17;; p.
+BS  AGGTCACTCCGGGACGC; R29380; 7; 17;; p.
+BS  AGGTGACAGGAGGACAG; R29384; 4; 17;; p.
+BS  CAGGATTTCCAGGTCAA; R29449; 5; 17;; n.
+BS  GGTCAGTTTAAGGACAA; R29451; 7; 17;; p.
+BS  GCATTATTCTAGGCCCT; R29532; 2; 17;; n.
+BS  AACGGAGAGTGGGTCAT; R30860; 4; 17;; p.
+BS  GTGAGGTCAGCGGGGAG; R30867; 8; 17;; n.
+BS  AGGTGACAGGAGGACAG; R35705; 10; 17;; p.
+BS  GGCGGCGCTGAGGTCAT; R36133; 5; 17;; n.
+BS  AGGTGAGCTGAGGCCAG; R36742; 4; 17;; p.
+BS  GGGGCAgctgGGGACAg; R36746; 4; 17;; p.
+BS  AGGGTAggcAGGGTCAg; R36748; 4; 17;; p.
+BS  GGGTCAtctgAGGTCAg; R36749; 4; 17;; p.
+BS  AGGCAAGCCAAGGACAC; R36751; 4; 17;; p.
+BS  GAGGGCAGCAAGGTCAG; R36755; 3; 17;; p.
+BS  GGGTCAAGCAGGGAGAG; R36756; 3; 17;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

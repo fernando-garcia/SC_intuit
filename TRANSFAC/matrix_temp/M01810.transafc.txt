@@ -1,0 +1,38 @@
+AC  M01810
+XX
+ID  F$TEC1_02
+XX
+DT  20.01.2011 (created); smt.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TEC1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01084; TEC1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    100     28     56     21      R
+02     52    100     11      6      M
+03    100      3      8      3      A
+04      4      3      3    100      T
+05     10      4      4    100      T
+06      5    100      5      6      C
+07     11     58     15    100      Y
+08     29    136     32    100      Y
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  figures are percentages; calculated on basis of bound DNA building the ratio between the control sequence (ACATTCTT) and mutated sequences measured by quantitative competition titration gel shift analysis
+XX
+RN  [1]; RE0069030.
+RX  PUBMED: 20118212.
+RA  Heise B., van der Felden J., Kern S., Malcher M., Bruckner S., Mosch H. U.
+RT  The TEA transcription factor Tec1 confers promoter-specific gene regulation by Ste12-dependent and -independent mechanisms.
+RL  Eukaryot. Cell 9:514-531 (2010).
+XX
+//

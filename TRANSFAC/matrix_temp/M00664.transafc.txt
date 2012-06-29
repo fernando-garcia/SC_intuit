@@ -1,0 +1,43 @@
+AC  M00664
+XX
+ID  F$STE12_Q4
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STE12
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01289; STE12; Species: yeast, Kluyveromyces lactis; site(s) included: yes.
+BF  T00772; STE12; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T10866; STE12; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      1      0      1      A
+02      0      0      0      5      T
+03      0      0      5      0      G
+04      5      0      0      0      A
+05      5      0      0      0      A
+06      5      0      0      0      A
+07      0      5      0      0      C
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTGAAAC; R01479; 8; 7;; n.
+BS  ATGAAAC; R01838; 1; 7;; p.
+BS  ATGAAAC; R01842; 1; 7;; p.
+BS  ATGAAAC; R01843; 1; 7;; p.
+BS  TTGAAAC; R01844; 10; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

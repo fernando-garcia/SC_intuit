@@ -1,0 +1,68 @@
+AC  M01207
+XX
+ID  V$ETS2_Q6
+XX
+DT  29.01.2009 (created); dtc.
+DT  06.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Ets-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00340; V$ETS_B; c-Ets-2 binding sites (family).
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00113; c-Ets-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10523; c-Ets-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15312; c-Ets-2; Species: Mammalia; site(s) included: yes.
+BF  T01397; c-Ets-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09489; c-Ets-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00116; c-Ets-2 58-64; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02041; c-Ets-2A; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02127; c-Ets-2B; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     13      0      6      C
+02      2      4      0     14      T
+03      0      0      0     20      T
+04      0     20      0      0      C
+05      0     20      0      0      C
+06      2      4      3     11      T
+07      0      3     12      5      G
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+BS  tttcctt; R04338; 1; 7;; n.
+BS  TTTCCTT; R04339; -1; 7;; p.
+BS  cttcccg; R04343; -1; 7;; n.
+BS  CCTCCCG; R04350; 12; 7;; p.
+BS  CTTCCGG; R04985; 8; 7;; p.
+BS  cctcctg; R08492; -2; 7;; n.
+BS  tttcctt; R12538; 10; 7;; n.
+BS  TTTCCTC; R14491; 10; 7;; p.
+BS  cctccgt; R14537; 7; 7;; n.
+BS  TTTCCTG; R16977; 2; 7;; p.
+BS  CCTCCTT; R17066; 10; 7;; p.
+BS  tttccac; R17067; 10; 7;; n.
+BS  cttcccg; R17068; 7; 7;; n.
+BS  catcctg; R18424; 6; 7;; n.
+BS  cttccgg; R19663; 14; 7;; n.
+BS  attcctg; R21430; 18; 7;; n.
+BS  cttcctc; R25205; 9; 7;; n.
+BS  CTTCCCG; R25504; 13; 7;; p.
+BS  catccag; R25719; 5; 7;; n.
+BS  cttcctg; R26228; -1; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+XX
+//

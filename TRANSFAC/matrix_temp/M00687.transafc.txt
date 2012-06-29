@@ -1,0 +1,53 @@
+AC  M00687
+XX
+ID  V$ALPHACP1_01
+XX
+DT  08.03.2002 (created); ela.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  alpha-CP1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00185; V$NFY_Q6; nuclear factor Y (Y-box binding factor) (family).
+HP  M00209; V$NFY_C; NF-Y  binding site (family).
+HP  M00775; V$NFY_Q6_01;  (family).
+XX
+BF  T00150; NF-Y; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00613; NF-Y; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      5      0      1      C
+02      6      1      0      0      A
+03      1      0      5      1      G
+04      0      7      0      0      C
+05      0      7      0      0      C
+06      7      0      0      0      A
+07      7      0      0      0      A
+08      0      0      0      7      T
+09      0      1      6      0      G
+10      7      0      0      0      A
+11      0      0      7      0      G
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CAGCCAATGAG; R02874; 8; 11;; p.
+BS  CCTCCAATGAG; R02875; 8; 11;; p.
+BS  CAGCCAATGAG; R02876; 8; 11;; p.
+BS  CAGCCAATGAG; R02877; 8; 11;; p.
+BS  CAGCCAATGAG; R02878; 8; 11;; p.
+BS  AAGCCAATGAG; R02880; 16; 11;; n.
+BS  TAACCAATCAG; R02881; 8; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE, based on artificial sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

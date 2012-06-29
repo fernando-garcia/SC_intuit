@@ -1,0 +1,47 @@
+AC  M00218
+XX
+ID  P$MYBPH3_01
+XX
+DT  16.10.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MYB.Ph3
+XX
+DE  Myb-like protein of Petunia hybrida
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01568; MYB.PH3; Species: petunia, Petunia hybrida; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     22      3      4     11      A
+02     21      1      7     12      W
+03     27      1      7      6      A
+04     40      0      2      3      A
+05     33      0      8      4      A
+06     33      0      8      5      A
+07      0     46      0      0      C
+08      3     15     26      2      S
+09      0      0     46      0      G
+10      0      0      0     46      T
+11      0      0      0     46      T
+12     46      0      0      0      A
+13      1     13      2      7      Y
+XX
+BA  46 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant MYB.Ph3 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0054.
+XX
+RN  [1]; RE0003450.
+RX  PUBMED: 7737128.
+RA  Solano R., Nieto C., Avila J., Canas L., Diaz I., Paz-Ares J.
+RT  Dual DNA binding specificity of a petal epidermis-specific MYB transcription factor (MYB.Ph3) from Petunia hybrida
+RL  EMBO J. 14:1773-1784 (1995).
+XX
+//

@@ -1,0 +1,93 @@
+AC  M00538
+XX
+ID  V$HTF_01
+XX
+DT  28.02.2002 (created); vma.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HTF (XBP1)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00902; XBP-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T23081; XBP-1; Species: Mammalia; site(s) included: yes.
+BF  T08152; XBP-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05026; XBP-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14485; XBP-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08700; XBP-1S; Species: human, Homo sapiens; site(s) included: no.
+BF  T11222; XBP-1S; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08699; XBP-1U; Species: human, Homo sapiens; site(s) included: no.
+BF  T19362; XBP-1U; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      6      5      1      N
+02      6      2      6     10      N
+03      9      4      2     10      W
+04     12      4      2      8      W
+05     14      0      2     10      W
+06     13      1      5      7      W
+07      7      5      5     10      N
+08      4      2     16      5      G
+09     13     11      2      1      M
+10      2     27      0      1      C
+11     26      0      4      0      A
+12      0     30      0      0      C
+13      0      0     30      0      G
+14      0      0      0     25      T
+15      3     18      0      4      C
+16     20      1      1      3      A
+17      0      4      5     10      T
+18      2      9      1      6      Y
+19      5      2      4      6      N
+20      4      5      0      8      Y
+21      7      1      1      8      W
+22      4      5      4      3      N
+23      5      1      3      5      N
+24      2      3      5      3      N
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS        CTCCGCGTCATCTTACTT; R12220; 1; 24; 1, 2, 3, 4, 5, 6; p.
+BS  ACTTATGCATGCGTTATCTTTGT; R12221; 1; 24; 24; p.
+BS  CGGTAGTAGAGCGTCA; R12222; 1; 24; 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS  ATGATTAGCCGCGTCA; R12223; 1; 24; 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS  CTTCTTTGCCACG; R12224; 1; 24; 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS  ATACAGATACACGTCA; R12225; 1; 24; 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS  CTACTAAAACACGTCATCACTGGC; R12226; 1; 24;; p.
+BS  AGAGTGGGCCACGTCATC; R12227; 1; 24; 19, 20, 21, 22, 23, 24; p.
+BS  ACAATGTGACACGTCACGGCAAAA; R12228; 1; 24;; p.
+BS  CATAAAGACCACG; R12229; 1; 24; 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS  TGCTTAAGCCACGTCAGTTTA; R12230; 1; 24; 22, 23, 24; p.
+BS   AACATCGCCACGTCATTGCTTGG; R12231; 1; 24; 1; p.
+BS  GAAAAAGCACACGTCA; R12232; 1; 24; 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS  GTCTGTTGCCACG; R12233; 1; 24; 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS           CACGTTGCATACCTA; R12234; 1; 24; 1, 2, 3, 4, 5, 6, 7, 8, 9; p.
+BS   GTGAGTTACACGTAATTTATCTG; R12235; 1; 24; 1; p.
+BS  GTTATAGTACACGTTAGCAAACAT; R12236; 1; 24;; p.
+BS    CAAAAGACACGTACTCATAAAG; R12237; 1; 24; 1, 2; p.
+BS  ATATAACGCCACGTTTCACTGGCC; R12238; 1; 24;; p.
+BS  AACTTATGCCACG; R12239; 1; 24; 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS     AACCGCCACGTCAGCGAACAC; R12240; 1; 24; 1, 2, 3; p.
+BS  ATTAAATGACACGTCA; R12241; 1; 24; 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS   GAATTCAGCACGTCAGTCTATAG; R12242; 1; 24; 1; p.
+BS           CACGTCATCACTTTT; R12243; 1; 24; 1, 2, 3, 4, 5, 6, 7, 8, 9; p.
+BS  AATTAAAGACACGTATC; R12244; 1; 24; 18, 19, 20, 21, 22, 23, 24; p.
+BS  CATTTATTTAACGTCATTTTTG; R12245; 1; 24; 23, 24; p.
+BS           CACGTCTTCATTAGG; R12246; 1; 24; 1, 2, 3, 4, 5, 6, 7, 8, 9; p.
+BS  GGTAGTTGACACGTCAGTGCTA; R12247; 1; 24; 23, 24; p.
+BS  CTTAAATGACACGTCA; R12248; 1; 24; 17, 18, 19, 20, 21, 22, 23, 24; p.
+BS  GTAAAAAGACACG; R12249; 1; 24; 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24; p.
+XX
+CC  sequences selected with recombinant HTF from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0017548.
+RX  PUBMED: 10675042.
+RA  Kokura K., Kishimoto T., Tamura T.
+RT  Identity between rat htf and human xbp-1 genes: determination of gene structure, target sequence, and transcription promotion function for HTF.
+RL  Gene 241:297-307 (2000).
+XX
+//

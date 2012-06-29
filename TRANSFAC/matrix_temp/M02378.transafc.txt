@@ -1,0 +1,52 @@
+AC  M02378
+AS  MA0259
+XX
+ID  V$HIF1AARNT_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HIF1A:ARNT
+XX
+DE  class: Zipper-Type; family: Helix-Loop-Helix
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00976; V$AHRHIF_Q6;  (family).
+XX
+BF  T01346; arnt; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T01796; Arnt (774 AA form); Species: human, Homo sapiens; site(s) included: unknown.
+BF  T08994; HIF-1alpha-isoform1; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     27     28     49      0      V
+02     10     29     34     31      N
+03     78      2     23      1      A
+04      0    103      0      1      C
+05      0      0    104      0      G
+06      0      0      0    104      T
+07      0      0    104      0      G
+08     18     51     20     15      N
+XX
+BA  104 sequences (compiled matrix imported from public database)
+XX
+CC  from JASPAR
+XX
+DR  JASPAR: MA0259.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071049.
+RX  PUBMED: 16234508.
+RA  Wenger R. H., Stiehl D. P., Camenisch G.
+RT  Integration of oxygen signaling at the consensus HRE.
+RL  Sci. STKE 2005:re12 (2005).
+XX
+//

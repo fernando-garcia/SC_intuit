@@ -1,0 +1,129 @@
+AC  M00271
+XX
+ID  V$AML1_01
+XX
+DT  05.12.1997 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AML1a
+XX
+DE  runt-factor AML-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00769; V$AML_Q6;  (family).
+HP  M00984; V$PEBP_Q6;  (family).
+XX
+BF  T19216; AML-1E; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17392; AML-1FA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17391; AML-1FB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17390; AML-1FC; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17389; AML-1G; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17388; AML-1H; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17387; AML-1I; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02457; AML1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T01067; AML1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14315; AML1; Species: Mammalia; site(s) included: no.
+BF  T06598; AML1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02444; AML1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10375; AML1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17394; AML1-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17386; AML1-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17393; AML1-C; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02256; AML1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15260; AML1a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02245; AML1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02246; AML1c; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02220; AML1DeltaN; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02235; PEBP2alphaB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02241; PEBP2alphaB2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      1      1     50      T
+02      2      2     53      0      G
+03      4     14      0     39      T
+04      0      0     57      0      G
+05      1      0     56      0      G
+06      1      3      0     53      T
+XX
+BA  57 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGTGGT; R07884; 18; 6;; p.
+BS  TGCGGT; R07885; 30; 6;; p.
+BS  TGTGGT; R07886; 13; 6;; p.
+BS  GGTGGT; R07887; 27; 6;; n.
+BS  AGTGGT; R07888; 26; 6;; p.
+BS  AGTGGT; R07889; 26; 6;; p.
+BS  TGTGGT; R07890; 9; 6;; p.
+BS  TATGGT; R07891; 15; 6;; p.
+BS  TGTGGT; R07892; 12; 6;; p.
+BS  TGTGGT; R07893; 12; 6;; p.
+BS  TCTGGT; R07894; 26; 6;; p.
+BS  TGCGGT; R07895; 2; 6;; n.
+BS  TGTGGC; R07896; 22; 6;; p.
+BS  TGCGGT; R07897; 6; 6;; p.
+BS  TGAGGT; R07898; 14; 6;; p.
+BS  TGTGGT; R07899; 24; 6;; p.
+BS  TGTGGT; R07900; 24; 6;; p.
+BS  TGTGGA; R07901; 10; 6;; n.
+BS  TGTGGT; R07902; 30; 6;; p.
+BS  AGTGGT; R07903; 2; 6;; n.
+BS  TGTGGT; R07904; 29; 6;; p.
+BS  AGTGGT; R07905; 2; 6;; n.
+BS  TGCGGT; R07906; 7; 6;; p.
+BS  TGTGGC; R07907; 22; 6;; n.
+BS  TGCGGT; R07908; 29; 6;; p.
+BS  TGTGGT; R07909; 30; 6;; p.
+BS  TGCGGT; R07910; 14; 6;; p.
+BS  TCTGGT; R07911; 8; 6;; p.
+BS  TGTGGT; R07912; 28; 6;; p.
+BS  TGTGGT; R07913; 8; 6;; p.
+BS  TGTGGT; R07914; 8; 6;; p.
+BS  TATGGT; R07915; 19; 6;; p.
+BS  TGAGGT; R07916; 28; 6;; p.
+BS  CGTGGT; R07917; 24; 6;; p.
+BS  TGTGGT; R07918; 15; 6;; p.
+BS  TGAGGT; R07919; 22; 6;; n.
+BS  TGTGGT; R07920; 24; 6;; p.
+BS  TGTGGT; R07921; 3; 6;; n.
+BS  AGTGGT; R07922; 24; 6;; p.
+BS  TGTGGT; R07923; 15; 6;; p.
+BS  TGCGGT; R07924; 9; 6;; p.
+BS  TGTGGT; R07925; 25; 6;; p.
+BS  TGCGGT; R07926; 10; 6;; p.
+BS  TGCGGT; R07927; 30; 6;; p.
+BS  TGCGGT; R07928; 14; 6;; p.
+BS  TGTGGC; R07929; 13; 6;; n.
+BS  TGTGGT; R07930; 25; 6;; p.
+BS  TGCGGT; R07931; 17; 6;; p.
+BS  TGCGGT; R07932; 20; 6;; p.
+BS  TGTGAT; R07933; 4; 6;; p.
+BS  TGCGGT; R07934; 12; 6;; p.
+BS  TGTGGT; R07935; 30; 6;; p.
+BS  TGCGGT; R07936; 24; 6;; p.
+BS  TGTGGT; R07937; 16; 6;; p.
+BS  TGTGGT; R07938; 16; 6;; p.
+BS  TGAGGT; R07939; 2; 6;; n.
+BS  TGTGGT; R07940; 20; 6;; p.
+XX
+CC  sequences selected with recombinant AML1afrom a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0025142.
+RA  TRANSFAC_Team.
+RT  Revision of alignment
+RL  TRANSFAC Reports Rel84:0002 (2004).
+RN  [2]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [3]; RE0006067.
+RX  PUBMED: 8413232.
+RA  Meyers S., Downing J. R., Hiebert S. W.
+RT  Identification of AML-1 and the (8;21) translocation protein (AML-1/ETO) as sequence-specific DNA-binding proteins:the runt homology domain is required for DNA binding and protein-protein interactions
+RL  Mol. Cell. Biol. 13:6336-6345 (1993).
+XX
+//

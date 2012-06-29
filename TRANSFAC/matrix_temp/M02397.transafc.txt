@@ -1,0 +1,56 @@
+AC  M02397
+AS  MA0278
+XX
+ID  F$BAS1_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BAS1
+XX
+DE  class: Helix-Turn-Helix; family: Myb
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01027; BAS1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     64    217    425    292      N
+02    104    552    150    192      C
+03    484    111    114    288      W
+04     78    401    186    333      N
+05    455     51    370    122      R
+06    248     34    670     46      G
+07     98    724    143     33      C
+08     52    918      7     20      C
+09    348    346    280     24      N
+10     12      3    977      6      G
+11    966      5     23      4      A
+12     26      6    962      4      G
+13      9     10      4    975      T
+14     47    930      7     15      C
+15    892     42     16     49      A
+16    487    123    320     68      R
+17    288    140    317    254      N
+18    373    110     81    434      W
+19    178    367    184    268      N
+20    402    140    341    114      N
+21    435    229    241     94      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0278.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

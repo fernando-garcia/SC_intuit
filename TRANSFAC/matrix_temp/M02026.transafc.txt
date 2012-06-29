@@ -1,0 +1,60 @@
+AC  M02026
+XX
+ID  V$MEF2D_Q4
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MEF-2D
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00941; V$MEF2_Q6_01;  (family).
+XX
+BF  T02506; MEF-2DA'0; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09211; MEF-2DA0; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02505; MEF-2DAB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02511; mef2a-isoform6; Species: human, Homo sapiens; site(s) included: no.
+BF  T09260; mef2d; Species: human, Homo sapiens; site(s) included: no.
+BF  T17720; mef2d; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03822; mef2d; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01770; mef2d-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02507; mef2d-isoform2; Species: human, Homo sapiens; site(s) included: no.
+BF  T02508; mef2d-isoform3; Species: human, Homo sapiens; site(s) included: no.
+BF  T02509; mef2d-isoform4; Species: human, Homo sapiens; site(s) included: no.
+BF  T02510; mef2d-isoform5; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      5      0      0      5      W
+02     10      0      0      0      A
+03      8      0      0      2      A
+04     10      0      0      0      A
+05      0      0      0     10      T
+06     10      0      0      0      A
+07      3      0      5      2      R
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TAAATAT; R09229; 3; 7;; n.
+BS  TAAATAG; R09230; 1; 7;; n.
+BS  AATATAA; R09231; 12; 7;; p.
+BS  AAAATAG; R09235; 5; 7;; p.
+BS  TATATAA; R09387; 8; 7;; p.
+BS  AAAATAA; R09465; 11; 7;; p.
+BS  AAAATAG; R29906; 18; 7;; p.
+BS  AAAATAG; R31138; 8; 7;; n.
+BS  TAAATAG; R31690; 34; 7;; p.
+BS  TAAATAT; R32856; 17; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

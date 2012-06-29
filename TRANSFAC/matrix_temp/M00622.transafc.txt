@@ -1,0 +1,60 @@
+AC  M00622
+XX
+ID  V$CEBPG_Q6
+XX
+DT  08.03.2002 (created); ela.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C/EBPgamma
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T04884; C/EBPgamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09524; C/EBPgamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14188; C/EBPgamma; Species: Mammalia; site(s) included: no.
+BF  T00216; C/EBPgamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10795; C/EBPgamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02028; C/EBPgamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14387; C/EBPgamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      4      0      2      Y
+02      0      2      0      5      T
+03      0      3      2      2      B
+04      7      0      0      0      A
+05      0      2      0      5      T
+06      0      0      2      5      T
+07      2      0      0      5      T
+08      2      5      0      0      C
+09      6      0      0      1      A
+10      3      1      3      0      R
+11      7      0      0      0      A
+12      5      0      1      1      A
+13      3      1      0      3      W
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCCATTACAAAAT; R00089; 5; 13;; n.
+BS  CCGATTTCACAAA; R00600; 3; 13;; p.
+BS  ATTATTACAAAAT; R00837; 4; 13;; n.
+BS  CTTATGTAAGAAA; R00840; -10; 13;; p.
+BS  TTCATTTAAAAAT; R00847; -7; 13;; n.
+BS  TTCACTTCTGATC; R00880; 17; 13;; n.
+BS  CTGACGTCAGAGA; R01358; 2; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00622; V$CEBPG_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

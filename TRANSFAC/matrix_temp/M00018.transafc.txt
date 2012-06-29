@@ -1,0 +1,143 @@
+AC  M00018
+XX
+ID  I$UBX_01
+XX
+DT  30.11.1992 (created); ewi.
+DT  21.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ubx
+XX
+DE  Ultrabithorax
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T02102; Ubx; Species: fruit fly, Drosophila funebris; site(s) included: yes.
+BF  T00863; Ubx; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T02101; Ubx; Species: fruit fly, Drosophila pseudoobscura; site(s) included: yes.
+BF  T03848; Ubx; Species: red flour beetle, Tribolium castaneum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      4     12      7      N
+02      9      5      8      8      N
+03      9      7     14      4      N
+04      7      7     20      7      N
+05     12      9     18      6      N
+06      9     18     16     12      N
+07      9     13      8     32      T
+08      3      0      0     76      T
+09     74      3      3      6      A
+10     85      0      2      1      A
+11      0      3      3     82      T
+12      8      4     41     21      K
+13     13      3     41      2      G
+14      9     23     17      8      N
+15      6     17     11     20      N
+16     11     11      4     22      N
+17      9     14      7     11      N
+18      6      5     15      4      G
+19      4      3      7     10      N
+XX
+BA  88 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GACGGCTTAAT; R05328; 1; 19;; p.
+BS  GAATGGGTAATA; R05329; 1; 19;; p.
+BS     CGACTAATTGCA; R05330; -3; 19;; p.
+BS        CTAATTATTACT; R05331; -6; 19;; p.
+BS  GCGGGACTAAT; R05332; 1; 19;; p.
+BS        ATCATGGCCCC; R05333; -6; 19;; p.
+BS         TAATACCCA; R05334; -7; 19;; p.
+BS         TAATTGGGTGGA; R05335; -7; 19;; p.
+BS      CCCTAATGGGCA; R05336; -4; 19;; p.
+BS  AGGTAGCTAAT; R05337; 1; 19;; p.
+BS  TAAATATTAATG; R05338; 1; 19;; p.
+BS  GCGTACGTAGT; R05339; 1; 19;; p.
+BS       CTTAATGACCTC; R05340; -5; 19;; p.
+BS         TAATTGGTTCTG; R05341; -7; 19;; p.
+BS      GTATAATGGCAT; R05342; -4; 19;; p.
+BS  GCGGACTTAATG; R05343; 1; 19;; p.
+BS         TAATGGGTTGGG; R05344; -7; 19;; p.
+BS     TACTTAATGGGG; R05345; -3; 19;; p.
+BS         TAATGACTTGGT; R05346; -7; 19;; p.
+BS  TACTCCTTAATT; R05347; 1; 19;; p.
+BS       TTTTATGGTTTA; R05348; -5; 19;; p.
+BS          AATTGCACCGG; R05349; -8; 19;; p.
+BS       CTTAATGGGCAC; R05350; -5; 19;; p.
+BS  GTCAGATTTATC; R05351; 1; 19;; p.
+BS     GGGGTAATAAAG; R05352; -3; 19;; p.
+BS    GGACTTTATGTT; R05353; -2; 19;; p.
+BS  CGGTGGTTAAT; R05354; 1; 19;; p.
+BS  ACTAATGTAAT; R05355; 1; 19;; p.
+BS           ATAGTTCAGT; R05356; -9; 19;; p.
+BS     CTGTTAATGGACC; R05357; -3; 19;; p.
+BS  GGCGCGTTAAT; R05358; 1; 19;; p.
+BS         TAATTACGTAGT; R05359; -7; 19;; p.
+BS  GTACCGGTAATT; R05360; 1; 19;; p.
+BS         TAATTGATTCAA; R05361; -7; 19;; p.
+BS       GTTAATTAGGTG; R05362; -5; 19;; p.
+BS  GAACGGATAAT; R05363; 1; 19;; p.
+BS        CTAATTACCCCC; R05364; -6; 19;; p.
+BS    AGGTCTGATGA; R05365; -2; 19;; p.
+BS  AGTGTCGTAAT; R05366; 1; 19;; p.
+BS  GATGGATTAAT; R05367; 1; 19;; p.
+BS       TTTAATGGCTAT; R05368; -5; 19;; p.
+BS         TAATGGACTGGT; R05369; -7; 19;; p.
+BS      ACCTAATGGCCC; R05370; -4; 19;; p.
+BS  TATGGGTTTAT; R05371; 1; 19;; p.
+BS        ATAATGGCTGTC; R05372; -6; 19;; p.
+BS         TAATGAGTCC; R05373; -7; 19;; p.
+BS         TCATGGTTTTAT; R05374; -7; 19;; p.
+BS        TTAACGACCTCA; R05375; -6; 19;; p.
+BS  TTGAAGCTAATG; R05376; 1; 19;; p.
+BS    AGGGATAATTGC; R05377; -2; 19;; p.
+BS        TTATTGCCCATG; R05378; -6; 19;; p.
+BS          AAGGTGTCAGC; R05379; -8; 19;; p.
+BS       TTTAACGAGGAA; R05380; -5; 19;; p.
+BS         TAATGGACTCTA; R05381; -7; 19;; p.
+BS       ATTAATGGCAC; R05382; -5; 19;; p.
+BS  GGGCACTTAAT; R05383; 1; 19;; p.
+BS          AATGAGGTTCT; R05384; -8; 19;; p.
+BS  CGGGACTTAACG; R05385; 1; 19;; p.
+BS       TTAAATTGGCCA; R05386; -5; 19;; p.
+BS        ATAATTGAGGTG; R05387; -6; 19;; p.
+BS          AATAGGCTTCA; R05388; -8; 19;; p.
+BS         AAATGGGGTCGG; R05389; -7; 19;; p.
+BS         AAATGGGGTCGG; R05390; -7; 19;; p.
+BS     TCGTTAATGGAC; R05391; -3; 19;; p.
+BS  GTGACCCTAATT; R05392; 1; 19;; p.
+BS       TTTTATGGGCTT; R05393; -5; 19;; p.
+BS         TAGTTGAGGGGG; R05394; -7; 19;; p.
+BS   GCAGCATAATCG; R05395; -1; 19;; p.
+BS         TAATAGCTAAGT; R05396; -7; 19;; p.
+BS  ATCAAAATAATT; R05397; 1; 19;; p.
+BS         TAATAGCTAAGT; R05398; -7; 19;; p.
+BS  TTGGTTATAAGC; R05399; 1; 19;; p.
+BS         TAATGGCCTTCC; R05400; -7; 19;; p.
+BS    GGTGTTGATGCC; R05401; -2; 19;; p.
+BS  CGAGCTTTTAT; R05402; 1; 19;; p.
+BS       GGTGATGAGATT; R05403; -5; 19;; p.
+BS           ATTGTTCTAG; R05404; -9; 19;; p.
+BS          AATTGTTACAT; R05405; -8; 19;; p.
+BS     GCCCTAATTGCT; R05406; -3; 19;; p.
+BS          AATGGCTAGTT; R05407; -8; 19;; p.
+BS  TCCCACTTAAT; R05408; 1; 19;; p.
+BS   TGGGTTTAATT; R05409; -1; 19;; p.
+BS          AATGGATTAAC; R05410; -8; 19;; p.
+BS     GGACTCATCGTT; R05411; -3; 19;; p.
+BS   AGGGAGTAATA; R05412; -1; 19;; p.
+BS  TTACTTCTAATG; R05413; 1; 19;; p.
+BS      CGTTAAGGGCAG; R05414; -4; 19;; p.
+BS  CAAGGCTTAATG; R05415; 1; 19;; p.
+XX
+CC  sequences selected with recombinant Ubx from a pool of double-stranded oligonucleotides containing a core of 70 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0002792.
+RX  PUBMED: 1673656.
+RA  Ekker S. C., Young K. E., von Kessler D. P., Beachy P. A.
+RT  Optimal DNA sequence recognition by the Ultrabithorax homeodomain of Drosophila
+RL  EMBO J. 10:1179-1186 (1991).
+XX
+//

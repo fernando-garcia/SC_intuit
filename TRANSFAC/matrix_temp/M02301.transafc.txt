@@ -1,0 +1,49 @@
+AC  M02301
+AS  MA0183
+XX
+ID  I$CG7056_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CG7056
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T22644; CG7056; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T22645; CG7056; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      3      2     14      T
+02      0      7      0     19      T
+03      0      6      7     13      K
+04     21      0      2      3      A
+05     26      0      0      0      A
+06      0      3      3     20      T
+07      7      0      1     18      T
+08     22      0      4      0      A
+XX
+BA  26 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0183.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071780.
+RX  PUBMED: 18585360.
+RA  Noyes M. B., Christensen R. G., Wakabayashi A., Stormo G. D., Brodsky M. H., Wolfe S. A.
+RT  Analysis of homeodomain specificities allows the family-wide prediction of preferred recognition sites.
+RL  Cell 133:1277-1289 (2008).
+XX
+//

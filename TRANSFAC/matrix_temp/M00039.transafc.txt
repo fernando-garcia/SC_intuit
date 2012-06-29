@@ -1,0 +1,64 @@
+AC  M00039
+XX
+ID  V$CREB_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  22.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CREB
+XX
+DE  cAMP-responsive element binding protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00916; V$CREB_Q2_01;  (family).
+HP  M00917; V$CREB_Q4_01;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T13725; CREB; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T01127; CREB; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T01307; CREB; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T01380; CREB; Species: mink, Mustela vison; site(s) included: yes.
+BF  T00989; CREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00163; CREB-A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00166; CREB-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01385; CREB1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T08562; CREB1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09920; CREB1; Species: Mammalia; site(s) included: no.
+BF  T14396; CREB1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T09440; CREB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18678; CREB1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00164; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08452; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18382; CREB1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T02361; CREBbeta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01312; CREBomega; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01311; deltaCREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00165; deltaCREB; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     29      T
+02      0      0     28      1      G
+03     29      0      0      0      A
+04      0     29      0      0      C
+05      0      1     28      0      G
+06      0      1      1     27      T
+07     12     16      1      0      M
+08     17      1      4      7      A
+XX
+BA  29 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant CREB from a pool of double-stranded oligonucleotides containing a core of 44 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0002915.
+RX  PUBMED: 8190638.
+RA  Benbrook D. M., Jones N. C.
+RT  Different binding specificities and transactivation of variant CRE's by CREB complexes
+RL  Nucleic Acids Res. 22:1463-1469 (1994).
+XX
+//

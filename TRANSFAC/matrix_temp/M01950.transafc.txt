@@ -1,0 +1,41 @@
+AC  M01950
+XX
+ID  F$YPR196W_02
+XX
+DT  15.04.2011 (created); mkl.
+DT  21.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ypr196w
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T16833; Ypr196w; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.61      0   0.26   0.13      A
+02   0.32      0      0   0.68      T
+03   0.17      0      0   0.83      T
+04   0.24   0.04   0.02   0.69      T
+05   0.17   0.44   0.11   0.28      N
+06   0.12   0.32   0.07   0.49      Y
+07      0   0.93   0.07      0      C
+08      0      1      0      0      C
+09   0.03      0   0.93   0.05      G
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  defined from z-scores of the octamers occupying the 32 spots in the PBM
+XX
+DR  JASPAR: MA0437.
+XX
+RN  [1]; RE0065610.
+RX  PUBMED: 19111667.
+RA  Badis G., Chan E. T., van Bakel H., Pena-Castillo L., Tillo D., Tsui K., Carlson C. D., Gossett A. J., Hasinoff M. J., Warren C. L., Gebbia M., Talukder S., Yang A., Mnaimneh S., Terterov D., Coburn D., Li Yeo A., Yeo Z. X., Clarke N. D., Lieb J. D., Ansari A. Z., Nislow C., Hughes T. R.
+RT  A library of yeast transcription factor motifs reveals a widespread function for Rsc3 in targeting nucleosome exclusion at promoters.
+RL  Mol. Cell 32:878-887 (2008).
+XX
+//

@@ -1,0 +1,80 @@
+AC  M01119
+XX
+ID  V$KAISO_01
+XX
+DT  02.06.2006 (created); dtc.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  KAISO
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T08296; Kaiso; Species: human, Homo sapiens; site(s) included: no.
+BF  T08297; Kaiso; Species: human, Homo sapiens; site(s) included: no.
+BF  T08298; Kaiso; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08299; Kaiso; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9      9      2     12      N
+02      0      1      3     28      T
+03      0     32      0      0      C
+04      0     32      0      0      C
+05      0      0      0     32      T
+06      0      0     32      0      G
+07      0     32      0      0      C
+08      2      6     10     14      N
+09     30      0      1      1      A
+10     11      2     10      9      N
+XX
+BA  32 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  cTCCTGCcag; R18541; 21; 10;; p.
+BS  aGCCTGCtaa; R18543; 23; 10;; p.
+BS  aCCCTGCgag; R18544; 5; 10;; p.
+BS  tGCCTGCaaa; R18545; 17; 10;; p.
+BS  tTCCTGCtat; R18546; 12; 10;; p.
+BS  tTCCTGCgag; R18547; 8; 10;; p.
+BS  gTCCTGCcag; R18548; 23; 10;; p.
+BS  aTCCTGCtaa; R18549; 17; 10;; p.
+BS  tTCCTGCtaa; R18550; 22; 10;; p.
+BS  tTCCTGCtaa; R18551; 14; 10;; p.
+BS  cTCCTGCgat; R18552; 5; 10;; p.
+BS  atcctgcgag; R18553; 14; 10;; n.
+BS  cTCCTGCgat; R18556; 5; 10;; p.
+BS  tTCCTGCtaT; R18557; 11; 10;; p.
+BS  tTCCTGCcaa; R18558; 17; 10;; p.
+BS  tTCCTGCgaa; R18559; 19; 10;; p.
+BS  aTCCTGCtag; R18560; 16; 10;; p.
+BS  cTCCTGCgaC; R18562; 5; 10;; p.
+BS  cTCCTGCgag; R18563; 10; 10;; p.
+BS  tTCCTGCtaT; R18564; 11; 10;; p.
+BS  cTCCTGCcag; R18565; 24; 10;; p.
+BS  cTCCTGCtaa; R18566; 24; 10;; p.
+BS  aTCCTGCcat; R18567; 25; 10;; p.
+BS  ctcctgctgt; R18568; 3; 10;; n.
+BS  aGCCTGCgaa; R18569; 24; 10;; p.
+BS  atcctgcaaa; R18570; 5; 10;; n.
+BS  cTCCTGCgag; R18571; 10; 10;; p.
+BS  gTCCTGCtac; R18572; 16; 10;; p.
+BS  aTCCTGCttT; R18573; 13; 10;; p.
+BS  tTCCTGCtaa; R18574; 14; 10;; p.
+BS  tTCCTGCcag; R18575; 21; 10;; p.
+BS  tTCCTGCtat; R18576; 11; 10;; p.
+XX
+CC  sequences selected with recombinant KAISO from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+RN  [2]; RE0035586.
+RX  PUBMED: 12087177.
+RA  Daniel J. M., Spring C. M., Crawford H. C., Reynolds A. B., Baig A.
+RT  The p120(ctn)-binding partner Kaiso is a bi-modal DNA-binding protein that recognizes both a sequence-specific consensus and methylated CpG dinucleotides.
+RL  Nucleic Acids Res. 30:2911-2919 (2002).
+XX
+//

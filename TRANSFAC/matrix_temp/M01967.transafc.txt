@@ -1,0 +1,51 @@
+AC  M01967
+XX
+ID  V$PBX1_05
+XX
+DT  28.04.2011 (created); lat.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pbx
+XX
+DE  complex of pbx with Nuclear factor pbx partner (NFPP) which is not a HOX protein class I, Pbx consensus element (PCE); pbx binds to TGAT half site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00998; V$PBX_Q3;  (family).
+XX
+BF  T06000; Pbx1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09966; Pbx1; Species: Mammalia; site(s) included: yes.
+BF  T08131; Pbx1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08594; PBX1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     32     27     18     23      N
+02     14      5     36     46      K
+03      9      0      0     91      T
+04      0      0     96      4      G
+05     91      4      0      4      A
+06      0     14     27     59      T
+07      0      0      4     96      T
+08      0      0    100      0      G
+09     73      0     27      0      A
+10      4     96      0      0      C
+11     55      9     32      4      R
+12      0     14     46     41      K
+13      9     32     46     14      S
+14     19     25     38     19      N
+XX
+BA  48 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Pbx1 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 9 rounds of selection and amplification
+XX
+RN  [1]; RE0069998.
+RX  PUBMED: 9191052.
+RA  Knoepfler P. S., Kamps M. P.
+RT  The highest affinity DNA element bound by Pbx complexes in t(1;19) leukemic cells fails to mediate cooperative DNA-binding or cooperative transactivation by E2a-Pbx1 and class I Hox proteins - evidence for selective targetting of E2a-Pbx1 to a subset of Pbx-recognition elements.
+RL  Oncogene 14:2521-2531 (1997).
+XX
+//

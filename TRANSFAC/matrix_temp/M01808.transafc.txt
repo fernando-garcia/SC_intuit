@@ -1,0 +1,42 @@
+AC  M01808
+XX
+ID  V$NMYC_02
+XX
+DT  25.11.2010 (created); pro.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NMYC
+XX
+DE  MYCN b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T02379; N-Myc; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01445; N-Myc; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03442; N-Myc; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0    274      0      0      C
+02    274      0      0      0      A
+03     33     97     30    114      Y
+04     11    154     55     54      C
+05      0      0      0    274      T
+06      0      0    274      0      G
+XX
+BA  274 sequences (ChIP-on-chip)
+XX
+CC  N-Myc binding motif defined from ChIP-on-chip experiment based on E-box motifs (CANNTG)  in Kelly cell line
+XX
+RN  [1]; RE0068709.
+RX  PUBMED: 19997598.
+RA  Murphy D. M., Buckley P. G., Bryan K., Das S., Alcock L., Foley N. H., Prenter S., Bray I., Watters K. M., Higgins D., Stallings R. L.
+RT  Global MYCN transcription factor binding analysis in neuroblastoma reveals association with distinct E-box motifs and regions of DNA hypermethylation.
+RL  PLoS ONE 4:e8154 (2009).
+XX
+//

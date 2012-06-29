@@ -1,0 +1,47 @@
+AC  M01812
+XX
+ID  P$TGA2_Q2
+XX
+DT  08.02.2011 (created); mkl.
+DT  08.02.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TGA2
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02795; TGA2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T10928; TGA2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      3      0      R
+02      1      5      0      0      C
+03      0      0      6      0      G
+04      0      0      0      6      T
+05      0      6      0      0      C
+06      6      0      0      0      A
+07      0      1      0      5      T
+08      2      4      0      0      M
+09      1      2      2      1      N
+10      2      4      0      0      M
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  gcgtcatccc; R00009; 10; 10;; n.
+BS  acgtcacctc; R03283; 4; 10;; n.
+BS  GAGTCATCAC; R08435; 3; 10;; p.
+BS  ACGTCATAGA; R13554; 4; 10;; p.
+BS  gcgtcatccc; R32193; 15; 10;; n.
+BS  ACGTCATAGA; R32254; 22; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

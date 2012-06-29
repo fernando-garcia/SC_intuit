@@ -1,0 +1,49 @@
+AC  M00021
+XX
+ID  I$KR_01
+XX
+DT  03.12.1992 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Kr
+XX
+DE  Krueppel
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00456; Kr; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      0      1      0      A
+02      3      2      0      1      M
+03      1      3      0      2      Y
+04      0      0      6      0      G
+05      0      0      6      0      G
+06      1      0      5      0      G
+07      1      0      0      5      T
+08      0      0      0      6      T
+09      4      0      1      1      A
+10      3      1      0      2      W
+XX
+BA  6 sequences (compiled matrix imported from literature reference)
+XX
+BS  AACGGGTTAA; R05425; 1; 10;; p.
+BS  ACTGGGTTAT; R05426; 1; 10;; p.
+BS  GAAGGGATTA; R05427; 1; 10;; p.
+BS  ACCGGGTTGC; R05428; 1; 10;; p.
+BS  AACGGATTAA; R05429; 1; 10;; p.
+BS  ATTGGGTTAT; R05430; 1; 10;; p.
+XX
+CC  6 Krueppel binding sites within the eve promoter
+XX
+RN  [1]; RE0001854.
+RX  PUBMED: 2507923.
+RA  Stanojevic D., Hoey T., Levine M.
+RT  Sequence-specific DNA-binding activities of the gap proteins encoded by hunchback and Krueppel in Drosophila
+RL  Nature 341:331-335 (1989).
+XX
+//

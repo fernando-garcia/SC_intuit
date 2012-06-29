@@ -1,0 +1,48 @@
+AC  M01761
+XX
+ID  V$OCT2_02
+XX
+DT  29.06.2010 (created); apk.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Oct-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00210; V$OCT_C; Octamer binding site (family).
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T00649; Oct-2; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00647; Oct-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T10361; Oct-2; Species: Mammalia; site(s) included: no.
+BF  T13860; Oct-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00650; Oct-2; Species: rat, Rattus rattus; site(s) included: no.
+BF  T01032; POU2F2; Species: chick, Gallus gallus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     70     66     75    634      T
+02      1      0    634      2      G
+03    634    117      0      0      A
+04    634      5      0      5      A
+05      0      0      1    634      T
+06    634     10      4      4      A
+07      0     16      5    634      T
+08      0      6    185    634      T
+09      0    634      0     15      C
+10    634    123     57     62      A
+XX
+BA  sequences (multiplexed massively parallel SELEX)
+XX
+CC  sequences selected with recombinant Oct-2 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0067210.
+RX  PUBMED: 20378718.
+RA  Jolma A., Kivioja T., Toivonen J., Cheng L., Wei G., Enge M., Taipale M., Vaquerizas J. M., Yan J., Sillanpaa M. J., Bonke M., Palin K., Talukder S., Hughes T. R., Luscombe N. M., Ukkonen E., Taipale J.
+RT  Multiplexed massively parallel SELEX for characterization of human transcription factor binding specificities.
+RL  Genome Res. 20:861-873 (2010).
+XX
+//

@@ -1,0 +1,63 @@
+AC  M00746
+XX
+ID  V$ELF1_Q6
+XX
+DT  03.09.2002 (created); ela.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Elf-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T01113; Elf-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08988; Elf-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10659; Elf-1; Species: Mammalia; site(s) included: no.
+BF  T05012; Elf-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08318; Elf-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05014; Elf-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09351; Elf-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      0      4      0      R
+02      2      1      2      3      N
+03      5      0      0      3      W
+04      5      1      1      1      M
+05      0      2      5      1      B
+06      7      0      1      0      A
+07      0      0      8      0      G
+08      0      0      8      0      G
+09      8      0      0      0      A
+10      8      0      0      0      A
+11      4      0      4      0      R
+12      2      1      0      5      T
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AAAGGAGGAAAA; R00930; 3; 12;; p.
+BS  GTTAGAGGAAAT; R04064; 18; 12;; n.
+BS  AGAAGAGGAAAA; R04298; 12; 12;; p.
+BS  GCACCAGGAAGT; R12017; 5; 12;; p.
+BS  ATATCAGGAAGT; R12032; 13; 12;; n.
+BS  GTTAGAGGAAAT; R12070; -8; 12;; n.
+BS  AATATAGGAAGT; C00118,  s00173; 1; 12;; n.
+BS  GGAAGGGGAAGC; C00139,  s00214; -5; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; includes 2 TRANSCompel sites
+XX
+RN  [1]; RE0023232.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0002 (2003).
+RN  [2]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

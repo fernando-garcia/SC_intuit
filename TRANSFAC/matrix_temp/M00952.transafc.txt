@@ -1,0 +1,40 @@
+AC  M00952
+XX
+ID  P$PCF5_01
+XX
+DT  11.11.2003 (created); rhe_cga.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PCF5
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05738; PCF5; Species: rice, Oryza sativa; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      3     63      3      G
+02      4     20      5     52      T
+03      0      0     82      1      G
+04      1      0     82      0      G
+05      5     22     13     43      Y
+06      0     83      0      0      C
+07      0     83      0      0      C
+08      4     74      3      2      C
+09     17     24     25     15      N
+10     15     28     12     26      N
+XX
+BA  83 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant PCF5 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0023449.
+RX  PUBMED: 12000681.
+RA  Kosugi S., Ohashi Y.
+RT  DNA binding and dimerization specificity and potential targets for the TCP protein family.
+RL  Plant J. 30:337-348 (2002).
+XX
+//

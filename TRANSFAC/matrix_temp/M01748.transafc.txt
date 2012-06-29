@@ -1,0 +1,45 @@
+AC  M01748
+XX
+ID  V$NFAT2_01
+XX
+DT  25.06.2010 (created); apk.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-AT2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00302; V$NFAT_Q6; Nuclear factor of activated T-cells (family).
+HP  M00935; V$NFAT_Q4_01;  (family).
+XX
+BF  T01945; NF-AT2; Species: human, Homo sapiens; site(s) included: no.
+BF  T11025; NF-AT2; Species: Mammalia; site(s) included: yes.
+BF  T01947; NF-AT2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09906; NF-AT2; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    988    108    402    129      A
+02     68    289     37    988      T
+03      0      0    988      4      G
+04      0      6    988      0      G
+05    988      1     16      3      A
+06    988      4      6      5      A
+07    988    115     18    116      A
+08    988    342    238    418      N
+09    815    190     70    988      W
+XX
+BA  sequences (multiplexed massively parallel SELEX)
+XX
+CC  sequences selected with recombinant NF-ATfrom a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0067210.
+RX  PUBMED: 20378718.
+RA  Jolma A., Kivioja T., Toivonen J., Cheng L., Wei G., Enge M., Taipale M., Vaquerizas J. M., Yan J., Sillanpaa M. J., Bonke M., Palin K., Talukder S., Hughes T. R., Luscombe N. M., Ukkonen E., Taipale J.
+RT  Multiplexed massively parallel SELEX for characterization of human transcription factor binding specificities.
+RL  Genome Res. 20:861-873 (2010).
+XX
+//

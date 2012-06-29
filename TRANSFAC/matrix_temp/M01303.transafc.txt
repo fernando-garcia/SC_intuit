@@ -1,0 +1,62 @@
+AC  M01303
+XX
+ID  V$SP1_02
+XX
+DT  01.10.2009 (created); jtr.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SP1
+XX
+DE  Sp1 b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00931; V$SP1_Q6_01;  (family).
+HP  M00932; V$SP1_Q4_01;  (family).
+HP  M00933; V$SP1_Q2_01;  (family).
+XX
+BF  T05998; Sp1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00755; Sp1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T14185; Sp1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T00758; Sp1; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T10533; Sp1; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T00753; Sp1; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T16552; Sp1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T01228; Sp1; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T00759; Sp1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08326; Sp1; Species: Mammalia; site(s) included: yes.
+BF  T10324; Sp1; Species: mink, Mustela vison; site(s) included: no.
+BF  T00757; Sp1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T00752; Sp1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05704; Sp1; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T00754; Sp1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T18600; Sp1; Species: sheep, Ovis aries; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1     11      0      G
+02      0      0     12      0      G
+03      0      0     12      0      G
+04      0      0     12      0      G
+05      2      6      0      4      Y
+06      0      0     12      0      G
+07      0      0     12      0      G
+08      0      1     10      1      G
+09      0      2      8      2      G
+10      3      2      4      3      N
+11      1      5      6      0      S
+XX
+BA  12 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites with an experimetally determined role in skeletal muscle gene expression
+XX
+RN  [1]; RE0015243.
+RX  PUBMED: 9571041.
+RA  Wasserman W. W., Fickett J. W.
+RT  Identification of regulatory regions which confer muscle-specific gene expression
+RL  J. Mol. Biol. 278:167-181 (1998).
+XX
+//

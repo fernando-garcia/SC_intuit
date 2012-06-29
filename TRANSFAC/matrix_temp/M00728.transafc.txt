@@ -1,0 +1,56 @@
+AC  M00728
+XX
+ID  F$ROX1_Q6
+XX
+DT  02.06.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ROX1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01286; ROX1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      8      2      7      Y
+02      0      9      5      3      S
+03      1      7      1      8      Y
+04     16      0      0      1      A
+05      0      0      0     17      T
+06      0      0      0     17      T
+07      0      0     17      0      G
+08      0      0      0     17      T
+09      0      1      1     15      T
+XX
+BA  17 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGTATTGTT; R11728; 1; 9;; p.
+BS  TCTATTGTT; R11729; 1; 9;; p.
+BS  TCAATTGTT; R11731; 1; 9;; p.
+BS  TGCTTTGTT; R11733; 1; 9;; p.
+BS  CCCATTGTT; R11734; 1; 9;; p.
+BS  CCGATTGTT; R11735; 1; 9;; p.
+BS  CGCATTGTT; R11736; 1; 9;; p.
+BS  CCTATTGTG; R11737; 1; 9;; p.
+BS  GCTATTGTT; R11738; 1; 9;; p.
+BS  TTTATTGTT; R11739; 1; 9;; p.
+BS  GGCATTGTT; R11740; 1; 9;; p.
+BS  CCTATTGTT; R11741; 1; 9;; p.
+BS  TCCATTGTT; R11742; 1; 9;; p.
+BS  CTCATTGTT; R11745; 1; 9;; p.
+BS  TTCATTGTT; R11746; 1; 9;; p.
+BS  CCTATTGTT; R12071; 1; 9;; p.
+BS  CGTATTGTC; R12072; 1; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00728; F$ROX1_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

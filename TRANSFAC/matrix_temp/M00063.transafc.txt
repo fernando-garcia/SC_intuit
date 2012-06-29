@@ -1,0 +1,74 @@
+AC  M00063
+XX
+ID  V$IRF2_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRF-2
+XX
+DE  interferon regulatory factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00772; V$IRF_Q6;  (family).
+HP  M00972; V$IRF_Q6_01;  (family).
+XX
+BF  T01491; IRF-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T14446; IRF-2; Species: Mammalia; site(s) included: no.
+BF  T00425; IRF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16542; IRF-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15785; IRF-2; Species: sheep, Ovis aries; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      1     14      0      G
+02      4      0      0      0      A
+03     14      0      0      1      A
+04     15      0      0      0      A
+05     15      0      0      0      A
+06      0      1     12      0      G
+07      0      7      0      8      Y
+08      0      0     15      0      G
+09     15      0      0      0      A
+10     15      0      0      0      A
+11     15      0      0      0      A
+12      0      8      7      0      S
+13      0      8      2      5      Y
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  G AAAGTGAAACC; R06082; 2; 13; 3; p.
+BS  G AAAGTGAAACT; R06083; 2; 13; 3; p.
+BS  G AAAGTGAAAGT; R06084; 9; 13; 10; p.
+BS  G AAAGTGAAACC; R06085; 9; 13; 10; p.
+BS  GAAAAGCGAAAGC; R06086; 5; 13;; p.
+BS  G AAAGTGAAACC; R06087; 11; 13; 12; p.
+BS  C AAAGCGAAAGT; R06088; 4; 13; 5; p.
+BS  G AAAGCGAAACC; R06089; 2; 13; 3; p.
+BS  G AAACTGAAACC; R06090; 11; 13; 12; p.
+BS  G AAAGTGAAACG; R06091; 5; 13; 6; p.
+BS  G AAAGTGAAACC; R06092; 2; 13; 3; p.
+BS  GAAAAGCGAAAGC; R06093; 2; 13;; p.
+BS  GAAAA CGAAAGT; R06094; 7; 13; 12; p.
+BS  GATAA CGAAAGG; R06095; 2; 13; 7; p.
+BS  G AAAGCGAAAGT; R06096; 2; 13; 3; p.
+XX
+CC  sequences selected with recombinant IRF-2 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0051.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0002930.
+RX  PUBMED: 7687740.
+RA  Tanaka N., Kawakami T., Taniguchi T.
+RT  Recognition DNA sequences of interferon regulatory factor 1 (IRF-1) and IRF-2, regulators of cell growth and the interferon system
+RL  Mol. Cell. Biol. 13:4531-4538 (1993).
+XX
+//

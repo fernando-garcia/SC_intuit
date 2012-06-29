@@ -1,0 +1,56 @@
+AC  M01345
+XX
+ID  V$SIX6_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Six-6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03279; Six-6; Species: human, Homo sapiens; site(s) included: no.
+BF  T11365; Six-6; Species: human, Homo sapiens; site(s) included: no.
+BF  T03272; Six-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14530; Six-6; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.36   0.10   0.35   0.20      N
+02   0.42   0.11   0.16   0.32      N
+03   0.28   0.11   0.18   0.43      N
+04   0.46   0.14   0.30   0.10      R
+05   0.19   0.04   0.73   0.05      G
+06   0.04   0.02   0.89   0.04      G
+07   0.20   0.02   0.78   0.00      G
+08   0.01   0.00   0.03   0.97      T
+09   0.97   0.00   0.02   0.01      A
+10   0.00   0.00   0.00   0.99      T
+11   0.02   0.96   0.01   0.02      C
+12   0.93   0.02   0.01   0.04      A
+13   0.41   0.14   0.10   0.35      W
+14   0.22   0.24   0.21   0.34      N
+15   0.41   0.13   0.08   0.37      W
+16   0.21   0.27   0.11   0.41      N
+17   0.09   0.16   0.22   0.53      T
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PB0059.
+DR  JASPAR: PH0166.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

@@ -1,0 +1,42 @@
+AC  M00181
+XX
+ID  V$E2_Q6
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2
+XX
+DE  papilloma virus regulator E2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00205; E2; Species: BPV-1, bovine papilloma virus type 1; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      5      7      2      N
+02      7      5      3      4      N
+03     18      0      0      1      A
+04      4     14      1      0      C
+05      1     18      0      0      C
+06      6      2      9      2      R
+07      7      3      4      5      N
+08      7      4      2      6      N
+09     11      3      3      2      A
+10      6      7      2      4      N
+11      1     15      0      3      C
+12      0      0     19      0      G
+13      0      0     19      0      G
+14      0      0      0     19      T
+15      7      3      8      1      R
+16      5      9      4      1      N
+XX
+BA  19 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

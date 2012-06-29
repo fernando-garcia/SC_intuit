@@ -1,0 +1,53 @@
+AC  M01288
+XX
+ID  V$NEUROD_02
+XX
+DT  24.08.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NeuroD
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01634; BETA2; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T14426; BETA2; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T08761; BETA2; Species: Mammalia; site(s) included: no.
+BF  T01625; NeuroD; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T09282; NeuroD; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T04546; NeuroD; Species: human, Homo sapiens; site(s) included: no.
+BF  T15230; NeuroD; Species: human, Homo sapiens; site(s) included: no.
+BF  T01626; NeuroD; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09280; NeuroD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05886; NeuroD; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14417; NeuroD; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14436; NeuroD1; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9    139     97    118      N
+02    106     38     54    165      N
+03     33    131    168     31      S
+04      3    360      0      0      C
+05    164      0      1    198      W
+06      1      2    311     49      G
+07      0    360      2      1      C
+08      0      0      0    363      T
+09      0     53    305      5      G
+10     49     75    102    137      N
+11      2    143    145     73      S
+12     23    174     34    132      Y
+XX
+BA  363 sequences (ChIP-on-chip)
+XX
+CC  NeuroDbinding motif defined from ChIP-on-chip experiment in NIT-1 cells; confirmed by qPCR; used SEEDER algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0063075.
+RX  PUBMED: 17761679.
+RA  Keller D. M., McWeeney S., Arsenlis A., Drouin J., Wright C. V., Wang H., Wollheim C. B., White P., Kaestner K. H., Goodman R. H.
+RT  Characterization of pancreatic transcription factor Pdx-1 binding sites using promoter microarray and serial analysis of chromatin occupancy.
+RL  J. Biol. Chem. 282:32084-32092 (2007).
+XX
+//

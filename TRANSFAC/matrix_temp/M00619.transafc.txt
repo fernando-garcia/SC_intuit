@@ -1,0 +1,52 @@
+AC  M00619
+XX
+ID  V$ALX4_01
+XX
+DT  08.03.2002 (created); ela.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Alx-4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04012; Alx-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11400; Alx-4; Species: human, Homo sapiens; site(s) included: no.
+BF  T02967; Alx-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09355; Alx-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16612; Alx-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      5      0      0      C
+02      0      5      0      0      C
+03      0      0      0      5      T
+04      0      0      5      0      G
+05      5      0      0      0      A
+06      0      0      5      0      G
+07      5      0      0      0      A
+08      5      0      0      0      A
+09      0      0      0      5      T
+10      5      0      0      0      A
+11      5      0      0      0      A
+12      0      0      0      5      T
+13      0      5      0      0      C
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCTGAGAATAATC; R09589; 1; 13;; p.
+BS  CCTGAGAATAATC; R09590; 1; 13;; p.
+BS  CCTGAGAATAATC; R09591; 1; 13;; p.
+BS  CCTGAGAATAATC; R09592; 1; 13;; p.
+BS  CCTGAGAATAATC; R09593; 1; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better, includes also 1 artificial site
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

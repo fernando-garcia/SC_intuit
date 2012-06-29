@@ -1,0 +1,61 @@
+AC  M02256
+AS  MA0138
+XX
+ID  V$REST_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  REST
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18280; Rest isoform1; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    211    174    366    840      T
+02     58    269    146   1124      T
+03     76   1366     50    105      C
+04   1452     30     94     26      A
+05     34     44   1516     10      G
+06    122    978    323    182      C
+07   1575      7     12     12      A
+08      3   1586     12      5      C
+09     35   1481     20     70      C
+10    913    201    162    329      A
+11    219    375    124    886      T
+12     39      7   1551      7      G
+13     20      5   1577      2      G
+14   1406    112     34     51      A
+15     13   1280    233     74      C
+16   1574      9      7     10      A
+17     42     13   1530      9      G
+18    205   1007    183    198      C
+19    366     31    688    507      K
+20    213    933    319    125      C
+21    179   1114     37    260      C
+XX
+BA  sequences (ChIP-Seq)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0138.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071775.
+RX  PUBMED: 17540862.
+RA  Johnson D. S., Mortazavi A., Myers R. M., Wold B.
+RT  Genome-wide mapping of in vivo protein-DNA interactions.
+RL  Science 316:1497-1502 (2007).
+XX
+//

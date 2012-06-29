@@ -1,0 +1,80 @@
+AC  M00085
+XX
+ID  V$ZID_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZID
+XX
+DE  zinc finger with interaction domain
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01468; ZID; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19399; ZID; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3     12      9     11      N
+02      2      5     28      0      G
+03      1      0     31      3      G
+04      0     35      0      0      C
+05      1      0      0     34      T
+06      0     35      0      0      C
+07      3     15      1     16      Y
+08     32      1      1      1      A
+09      0      3      8     24      T
+10      1     23      7      4      C
+11     23      0      7      5      A
+12      0     15      0     20      Y
+13      4     26      2      3      C
+XX
+BA  35 sequences (compiled matrix imported from literature reference)
+XX
+BS  CGGCTCCATCATC; R06279; 24; 13;; p.
+BS  TGGCTCCATCATC; R06280; 24; 13;; p.
+BS  AGGCTCCATCATC; R06281; 15; 13;; p.
+BS  TGGCTCCATCATA; R06282; 15; 13;; p.
+BS  GGGCTCCATCGCA; R06283; 11; 13;; p.
+BS  CGGCTCCATCGCC; R06284; 16; 13;; p.
+BS  GGGCTCCATGTCG; R06285; 27; 13;; p.
+BS  AGGCTCCATCGTA; R06286; 15; 13;; p.
+BS  TGGCTCCGTGTTT; R06287; 23; 13;; p.
+BS  GGGCTCCAGCATC; R06288; 12; 13;; p.
+BS  CGGCTCTATCATC; R06289; 13; 13;; p.
+BS  TGGCTCTATGTCC; R06290; 16; 13;; p.
+BS  CGGCTCTATGTCG; R06291; 27; 13;; p.
+BS  TGGCTCTATAATC; R06292; 20; 13;; p.
+BS  CGGCTCTATTATC; R06293; 10; 13;; p.
+BS  TGGCTCTACGACT; R06294; 14; 13;; p.
+BS  TGGCTCTAGTATC; R06295; 17; 13;; p.
+BS  TGGCTCTAGCACC; R06296; 14; 13;; p.
+BS  TGGCTCTAGCATC; R06297; 24; 13;; p.
+BS  TGGCTCTAGCACC; R06298; 17; 13;; p.
+BS  CGGCTCTAGGGCC; R06299; 10; 13;; p.
+BS  CGGCTCACTCACC; R06300; 11; 13;; p.
+BS  GGGCTCGATCACT; R06301; 26; 13;; p.
+BS  CAGCTCCATCATC; R06302; 24; 13;; p.
+BS  CAGCTCAAGCGCC; R06303; 25; 13;; p.
+BS  TCGCTCCATCGCC; R06304; 9; 13;; p.
+BS  GCGCTCTATCATC; R06305; 20; 13;; p.
+BS  GCGCTCTATCATC; R06306; 21; 13;; p.
+BS  ACGCTCTATTATC; R06307; 18; 13;; p.
+BS  CCGCTCTACTATC; R06308; 15; 13;; p.
+BS  GGACTCAAGCGTC; R06309; 21; 13;; p.
+BS  GGTCTCTATGTCC; R06310; 18; 13;; p.
+BS  GGTCTCCATCACC; R06311; 25; 13;; p.
+BS  CGTCTCCATCATC; R06312; 20; 13;; p.
+BS  CGGCACCTCCATA; R06313; 10; 13;; p.
+XX
+RN  [1]; RE0002962.
+RX  PUBMED: 7958847.
+RA  Bardwell V. J., Treisman R.
+RT  The POZ domain: A conserved protein--protein interaction motif
+RL  Genes Dev. 8:1664-1677 (1994).
+XX
+//

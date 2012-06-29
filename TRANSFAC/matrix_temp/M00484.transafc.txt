@@ -1,0 +1,84 @@
+AC  M00484
+XX
+ID  V$NCX_01
+XX
+DT  12.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ncx
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04367; NCX; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14950; NCX; Species: human, Homo sapiens; site(s) included: no.
+BF  T04368; Ncx; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14951; Ncx; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5     17      8     10      N
+02      6      8     19      7      N
+03      4      2     27      7      G
+04      3      5      4     28      T
+05     32      6      2      0      A
+06     32      4      2      2      A
+07      4      5     14     17      K
+08      6      3      8     23      T
+09      6      6     18     10      N
+10      5      7     21      7      G
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGGTAAACCC; R11050; 1; 10;; p.
+BS  CGGTAATTAA; R11051; 1; 10;; p.
+BS  GCCTAATTGG; R11052; 1; 10;; p.
+BS  CGGTCATTTT; R11053; 1; 10;; p.
+BS  CGGTAGGCTT; R11054; 1; 10;; p.
+BS  CTGTAAGGCT; R11055; 1; 10;; p.
+BS  CGTTAATAGG; R11056; 1; 10;; p.
+BS  GAGGAATTAG; R11057; 1; 10;; p.
+BS  TATTAATTGG; R11058; 1; 10;; p.
+BS  CGGTCCCGTC; R11059; 1; 10;; p.
+BS  TGGTCATTTG; R11060; 1; 10;; p.
+BS  TATTAACTGC; R11061; 1; 10;; p.
+BS  TGATAATAGG; R11062; 1; 10;; p.
+BS  CCGTATTTCA; R11063; 1; 10;; p.
+BS  AGGAACGAGG; R11064; 1; 10;; p.
+BS  TTATAACGGG; R11065; 1; 10;; p.
+BS  GTGTAGTTCC; R11066; 1; 10;; p.
+BS  ATGTAATGTG; R11067; 1; 10;; p.
+BS  CGGGCCTTGG; R11068; 1; 10;; p.
+BS  CCTAAAGAGA; R11069; 1; 10;; p.
+BS  CTTTAAGTGG; R11070; 1; 10;; p.
+BS  GCGAAATTGG; R11071; 1; 10;; p.
+BS  CGGTAAACCC; R11072; 1; 10;; p.
+BS  TAGTCAGTGT; R11073; 1; 10;; p.
+BS  GGGCAAGGGT; R11074; 1; 10;; p.
+BS  GGGCAATGAT; R11075; 1; 10;; p.
+BS  TGGTAATTAG; R11076; 1; 10;; p.
+BS  GGCTAATTGG; R11077; 1; 10;; p.
+BS  AGGGAATTGG; R11078; 1; 10;; p.
+BS  CTGCGAGTGG; R11079; 1; 10;; p.
+BS  CCGTACGTTC; R11080; 1; 10;; p.
+BS  ATGTAAGAGA; R11081; 1; 10;; p.
+BS  ACGTAAATTG; R11082; 1; 10;; p.
+BS  TGGTCAAATC; R11083; 1; 10;; p.
+BS  TGGTAACGTG; R11084; 1; 10;; p.
+BS  CCATAACTCG; R11085; 1; 10;; p.
+BS  GAGGATGTTT; R11086; 1; 10;; p.
+BS  TATCAAGTAG; R11087; 1; 10;; p.
+BS  CGTCGAGTGA; R11088; 1; 10;; p.
+BS  CCATAAGGAG; R11089; 1; 10;; p.
+XX
+CC  sequences selected with recombinant Ncx from a pool of double-stranded oligonucleotides containing a core of 15 or 35 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0016874.
+RX  PUBMED: 10869550.
+RA  Shimizu H., Kang M., Iitsuka Y., Ichinose M., Tokuhisa T., Hatano M.
+RT  Identification of an optimal Ncx binding sequence required for transcriptional activation
+RL  FEBS Lett. 475:170-174 (2000).
+XX
+//

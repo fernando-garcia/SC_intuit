@@ -1,0 +1,49 @@
+AC  M01054
+XX
+ID  P$BHLH66_01
+XX
+DT  14.03.2005 (created); sla.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  bHLH66
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T06540; bHLH66; Species: rice, Oryza sativa (japonica cultivar-group); site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      7      2      G
+02      0     10      0      0      C
+03     10      0      0      0      A
+04      0     10      0      0      C
+05      0      0     10      0      G
+06      0      0      0     10      T
+07      0      0     10      0      G
+08      0      7      2      1      C
+XX
+BA  10 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCACGTGC; R16534; 20; 8;; p.
+BS  GCACGTGC; R16535; 23; 8;; p.
+BS  GCACGTGC; R16536; 11; 8;; p.
+BS  GCACGTGC; R16537; 9; 8;; p.
+BS  TCACGTGC; R16538; 17; 8;; p.
+BS  GCACGTGT; R16539; 12; 8;; p.
+BS  GCACGTGG; R16540; 7; 8;; p.
+BS  TCACGTGC; R16541; 13; 8;; p.
+BS  GCACGTGG; R16542; 17; 8;; p.
+BS  ACACGTGC; R16543; 6; 8;; p.
+XX
+CC  sequences selected with recombinant bHLH66 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0025465.
+RX  PUBMED: 15686526.
+RA  Xue G. P.
+RT  A CELD-fusion method for rapid determination of the DNA-binding sequence specificity of novel plant DNA-binding proteins.
+RL  Plant J. 41:638-649 (2005).
+XX
+//

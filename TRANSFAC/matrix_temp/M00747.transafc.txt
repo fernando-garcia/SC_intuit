@@ -1,0 +1,67 @@
+AC  M00747
+XX
+ID  V$IRF1_Q6
+XX
+DT  03.09.2002 (created); ela.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRF-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00772; V$IRF_Q6;  (family).
+HP  M00972; V$IRF_Q6_01;  (family).
+XX
+BF  T15667; IRF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T15668; IRF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T05092; IRF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00423; IRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09323; IRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14816; IRF-1; Species: Mammalia; site(s) included: no.
+BF  T00422; IRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09319; IRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00424; IRF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15745; IRF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15782; IRF-1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T15783; IRF-1; Species: sheep, Ovis aries; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      0     14      T
+02      0      1      0     14      T
+03      0     15      0      0      C
+04     11      0      0      4      A
+05      0      8      4      3      C
+06      0      0      0     15      T
+07      0      0      0     15      T
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTCTGTT; R00915; 1; 7;; n.
+BS  ATCACTT; R00917; 1; 7;; n.
+BS  TTCACTT; R00919; 9; 7;; n.
+BS  TTCAGTT; R00946; 14; 7;; n.
+BS  TTCACTT; R00950; -6; 7;; p.
+BS  TTCACTT; R01051; 10; 7;; p.
+BS  TTCAGTT; R02897; 4; 7;; p.
+BS  TCCATTT; R03126; 3; 7;; n.
+BS  TTCTCTT; R05075; 4; 7;; n.
+BS  TTCACTT; R08128; -7; 7;; p.
+BS  TTCATTT; C00249,  s00420; 4; 7;; p.
+BS  TTCAGTT; C00300,  s00523; 4; 7;; p.
+BS  TTCTTTT; C00336,  s00586; 4; 7;; p.
+BS  TTCTCTT; C00337,  s00588; 5; 7;; p.
+BS  TTCACTT; C00339,  s00591; 14; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; includes 5 TRANSCompel sites
+XX
+PV  M00747; V$IRF1_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

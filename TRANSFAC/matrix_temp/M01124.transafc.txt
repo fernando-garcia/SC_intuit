@@ -1,0 +1,61 @@
+AC  M01124
+XX
+ID  V$OCT4_02
+XX
+DT  06.06.2006 (created); vma.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Oct-4 (POU5F1)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T08316; Oct3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10890; Oct3; Species: Mammalia; site(s) included: no.
+BF  T10884; Oct3; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00651; Oct3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09363; Oct3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16676; Oct3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16677; Oct3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00652; Oct3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01872; Oct3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18702; Oct3-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00653; POU5F1 (Oct-5); Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     67      1      2     30      A
+02      2      2      0     96      T
+03      1     10      0     89      T
+04      0     31     67      2      G
+05     34      4      1     61      W
+06      4     44     35     17      S
+07     60      2      3     35      W
+08      0      0      2     98      T
+09      2      0     75     23      G
+10     15     70      7      8      C
+11     46      4      0     50      W
+12     75      3     22      1      A
+13     80      1     15      4      A
+14     30      3      7     60      W
+15     17     27     38     18      N
+XX
+BA  sequences (ChIP-PET)
+XX
+CC  used NMICA for ChIP-PET Motifs approach
+XX
+RN  [1]; RE0047531.
+RX  PUBMED: 16518401.
+RA  Loh Y. H., Wu Q., Chew J. L., Vega V. B., Zhang W., Chen X., Bourque G., George J., Leong B., Liu J., Wong K. Y., Sung K. W., Lee C. W., Zhao X. D., Chiu K. P., Lipovich L., Kuznetsov V. A., Robson P., Stanton L. W., Wei C. L., Ruan Y., Lim B., Ng H. H.
+RT  The Oct4 and Nanog transcription network regulates pluripotency in mouse embryonic stem cells.
+RL  Nat. Genet. 38:431-440 (2006).
+RN  [2]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+XX
+//

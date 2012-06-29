@@ -1,0 +1,41 @@
+AC  M01649
+XX
+ID  F$STP3_01
+XX
+DT  25.01.2010 (created); mkl.
+DT  25.01.2010 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STP3
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T04607; STP3; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.25   0.09   0.48   0.18      N
+02   0.18   0.42   0.21   0.19      N
+03      0      0      0      1      T
+04      1      0      0      0      A
+05      0      0      1      0      G
+06      0      1      0      0      C
+07      0      0      1      0      G
+08      0   0.64   0.18   0.18      C
+09   0.45   0.17   0.19    0.2      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  defined from z-scores of the octamers occupying the 32 spots in the PBM
+XX
+DR  JASPAR: MA0396.
+XX
+RN  [1]; RE0065610.
+RX  PUBMED: 19111667.
+RA  Badis G., Chan E. T., van Bakel H., Pena-Castillo L., Tillo D., Tsui K., Carlson C. D., Gossett A. J., Hasinoff M. J., Warren C. L., Gebbia M., Talukder S., Yang A., Mnaimneh S., Terterov D., Coburn D., Li Yeo A., Yeo Z. X., Clarke N. D., Lieb J. D., Ansari A. Z., Nislow C., Hughes T. R.
+RT  A library of yeast transcription factor motifs reveals a widespread function for Rsc3 in targeting nucleosome exclusion at promoters.
+RL  Mol. Cell 32:878-887 (2008).
+XX
+//

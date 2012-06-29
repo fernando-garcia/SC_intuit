@@ -1,0 +1,46 @@
+AC  M01598
+XX
+ID  V$ZBED6_01
+XX
+DT  19.01.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZBED6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17346; ZBED6a; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     60    250    133     91      N
+02    249     54    205     26      R
+03    186      2    338      8      R
+04      4      8    522      0      G
+05      1    528      3      2      C
+06     14      0      1    519      T
+07      7    424     93     10      C
+08     25     17    385    107      G
+09      8    469     44     13      C
+10     70    305     19    140      C
+11     61    124    149    200      N
+12     60    161    217     96      N
+XX
+BA  534 sequences (ChIP-on-chip)
+XX
+CC  ZBED6 binding motif defined from ChIP-on-chip experiment in C2C12 cells
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0065545.
+RX  PUBMED: 20016685.
+RA  Markljung E., Jiang L., Jaffe J. D., Mikkelsen T. S., Wallerman O., Larhammar M., Zhang X., Wang L., Saenz-Vash V., Gnirke A., Lindroth A. M., Barres R., Yan J., Stromberg S., De S., Ponten F., Lander E. S., Carr S. A., Zierath J. R., Kullander K., Wadelius C., Lindblad-Toh K., Andersson G., Hjalm G., Andersson L.
+RT  ZBED6, a novel transcription factor derived from a domesticated DNA transposon regulates IGF2 expression and muscle growth.
+RL  PLoS Biol. 7:e1000256 (2009).
+XX
+//

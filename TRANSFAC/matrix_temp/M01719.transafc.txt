@@ -1,0 +1,68 @@
+AC  M01719
+XX
+ID  V$OTX2_Q3
+XX
+DT  26.04.2010 (created); dtc.
+DT  01.05.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  OTX2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01117; V$OTX_Q1;  (family).
+XX
+BF  T17312; Otx2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T03522; Otx2; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T17716; Otx2; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02082; Otx2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18596; Otx2; Species: Mammalia; site(s) included: yes.
+BF  T02083; Otx2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10282; Otx2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08463; Otx2 isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18599; Otx2 isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      1      4      5      N
+02      8      3      4      0      R
+03      8      1      3      3      A
+04      3      4      7      1      N
+05      2      3      9      1      G
+06      1      0     14      0      G
+07     14      1      0      0      A
+08      0      0      0     15      T
+09      0      0      0     15      T
+10     15      0      0      0      A
+11      6      2      7      0      R
+12      7      3      2      3      N
+13      3      2      5      5      N
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  cagaggcttagca; R04992; 8; 13;; n.
+BS  AATGGGATTACTT; R15750; 5; 13;; p.
+BS  AAAAGGATTAGTA; R15751; 7; 13;; p.
+BS  tcctggattaaat; R15752; 6; 13;; n.
+BS  AGACTGATTACTT; R15753; 7; 13;; p.
+BS  tctccgattaaat; R15759; 64; 13;; n.
+BS  taagggattaaaa; R16176; 10; 13;; n.
+BS  ggagggattaagc; R20636; 13; 13;; n.
+BS  aaagcaattagac; R21679; 2; 13;; n.
+BS  taacagattaaag; R30153; 1; 13;; n.
+BS  tagcagattaacg; R30156; 6; 13;; n.
+BS  agagggattaggg; R30158; 6; 13;; n.
+BS  ggagggattagag; R30161; 5; 13;; n.
+BS  gctgggattagcg; R30164; 6; 13;; n.
+BS  gagacgattagat; R30167; 7; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

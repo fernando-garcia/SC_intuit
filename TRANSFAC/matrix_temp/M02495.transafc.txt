@@ -1,0 +1,55 @@
+AC  M02495
+AS  MA0376
+XX
+ID  F$RTG3_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RTG3
+XX
+DE  class: Zipper-Type; family: Helix-Loop-Helix
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03579; RTG3; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    393    145    330    130      N
+02    220    147    267    364      N
+03    357    322    207    112      N
+04    164    176    295    363      N
+05    156    121    250    472      N
+06    534    113    203    148      A
+07     34     27    662    275      G
+08     19    953     19      7      C
+09    905      5     81      7      A
+10      5    949     16     28      C
+11     28     16    949      5      G
+12      7     81      5    905      T
+13      7     19    953     19      G
+14    275    662     27     34      C
+15    152    332    156    358      N
+16    111    270    187    430      N
+17    398    122    276    202      N
+18    275    257    296    171      N
+19    323    165     33    477      W
+20    249    396    108    245      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0376.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

@@ -1,0 +1,96 @@
+AC  M00958
+XX
+ID  P$ABI4_01
+XX
+DT  13.11.2003 (created); abd.
+DT  21.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ABI4
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05743; ABI4; Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11      8     10      2      N
+02     13      5     12      4      N
+03      3      4     32      1      G
+04      1     43      0      1      C
+05     40      0     12      0      A
+06      0     52      0      0      C
+07      0     52      0      0      C
+08      1      0     20      0      G
+09      0     21      0      0      C
+10      1     20      0      0      C
+11      1     14      4      1      C
+XX
+BA  52 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS     CACCGCCC; R14329; 1; 11; 1, 2, 3; p.
+BS     CACCGCCC; R14330; 1; 11; 1, 2, 3; p.
+BS      ACCGCCC; R14331; 1; 11; 1, 2, 3, 4; p.
+BS    ACACCGCCC; R14332; 1; 11; 1, 2; p.
+BS    ACACCGCCC; R14333; 1; 11; 1, 2; p.
+BS     CACCGCCC; R14334; 1; 11; 1, 2, 3; p.
+BS      ACCGCCG; R14335; 1; 11; 1, 2, 3, 4; p.
+BS      ACCGCCG; R14336; 1; 11; 1, 2, 3, 4; p.
+BS     CACCGCCG; R14337; 1; 11; 1, 2, 3; p.
+BS      ACCGCCG; R14338; 1; 11; 1, 2, 3, 4; p.
+BS      ACCGCCA; R14339; 1; 11; 1, 2, 3, 4; p.
+BS      ACCGCCC; R14340; 1; 11; 1, 2, 3, 4; p.
+BS    ACGCCGCCC; R14341; 1; 11; 1, 2; p.
+BS   AGCGCCGCCC; R14342; 1; 11; 1; p.
+BS      GCCGCCC; R14343; 1; 11; 1, 2, 3, 4; p.
+BS     CGCCGCCC; R14344; 1; 11; 1, 2, 3; p.
+BS    CCGCCGCCC; R14345; 1; 11; 1, 2; p.
+BS    TCGCCGCCC; R14346; 1; 11; 1, 2; p.
+BS   GGCGCCGCAT; R14347; 1; 11; 1; p.
+BS   GGCGCCACC; R14348; 1; 11; 1, 11; p.
+BS    GTGCCGCCC; R14349; 1; 11; 1, 2; p.
+BS  ACGCACC; R14350; 1; 11; 1, 2, 3, 4; n.
+BS  GAGCACC; R14351; 1; 11; 1, 2, 3, 4; n.
+BS  GCGCACC; R14352; 1; 11; 1, 2, 3, 4; n.
+BS  CCGCACC; R14353; 1; 11; 1, 2, 3, 4; n.
+BS  GTGCACC; R14354; 1; 11; 1,2,3, 4; n.
+BS  GTGCACC; R14355; 1; 11; 1, 2, 3, 4; n.
+BS  CTGCACC; R14356; 1; 11; 1, 2, 3, 4; n.
+BS  GGGCACC; R14357; 1; 11; 1, 2, 3, 4; n.
+BS  AGGCACC; R14358; 1; 11; 1, 2, 3, 4; n.
+BS  AGGCACC; R14359; 1; 11; 1, 2, 3, 4; n.
+BS  AGGCACC; R14360; 1; 11; 1, 2, 3, 4; n.
+BS  TGGCACC; R14361; 1; 11; 1, 2, 3, 4; n.
+BS  GAGCACC; R14362; 1; 11; 1, 2, 3, 4; n.
+BS  GAGCACC; R14363; 1; 11; 1, 2, 3, 4; n.
+BS  GAGCACC; R14364; 1; 11; 1, 2, 3, 4; n.
+BS  GAGCACC; R14365; 1; 11; 1, 2, 3, 4; n.
+BS  GAGCACC; R14366; 1; 11; 1, 2, 3, 4; n.
+BS  CAGCACC; R14367; 1; 11; 1, 2, 3, 4; n.
+BS  CAGCACC; R14368; 1; 11; 1, 2, 3, 4; n.
+BS  AAGCACC; R14369; 1; 11; 1, 2, 3, 4; n.
+BS  AAGCACC; R14370; 1; 11; 1, 2, 3, 4; n.
+BS  AAGCACC; R14371; 1; 11; 1, 2, 3, 4; n.
+BS  AAGAACC; R14372; 1; 11; 1, 2, 3, 4; n.
+BS  CGGCACC; R14373; 1; 11; 1, 2, 3, 4; n.
+BS  ATGCACC; R14374; 1; 11; 1, 2, 3, 4; n.
+BS  CGCCACC; R14375; 1; 11; 1, 2, 3, 4; n.
+BS  AGCCACC; R14376; 1; 11; 1, 2, 3, 4; n.
+BS  CCCCACC; R14377; 1; 11; 1, 2, 3, 4; n.
+BS  AGGCGCC; R14378; 1; 11; 1, 2, 3, 4; n.
+BS  TGGCGCC; R14379; 1; 11; 1, 2, 3, 4; n.
+BS  CCGCGCC; R14380; 1; 11; 1, 2, 3, 4; n.
+XX
+CC  sequences selected with recombinant ABI4 from a pool of double-stranded oligonucleotides containing a core of 10 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: MA0123.
+XX
+RN  [1]; RE0023455.
+RX  PUBMED: 12368505.
+RA  Niu X., Helentjaris T., Bate N. J.
+RT  Maize ABI4 binds coupling element1 in abscisic acid and sugar response genes.
+RL  Plant Cell 14:2565-2575 (2002).
+XX
+//

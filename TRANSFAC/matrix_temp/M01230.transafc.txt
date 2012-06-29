@@ -1,0 +1,53 @@
+AC  M01230
+XX
+ID  V$ZNF333_01
+XX
+DT  09.04.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZNF333
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15872; Zinc finger protein 333; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15873; Zinc finger protein 333; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     16      0      0      0      A
+02      0      0      0     16      T
+03     16      0      0      0      A
+04     16      0      0      0      A
+05      0      0      0     16      T
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATAAT; R27244; 4; 5;; p.
+BS  ATAAT; R27245; 3; 5;; p.
+BS  ATAAT; R27246; 3; 5;; p.
+BS  ATAAT; R27247; 3; 5;; p.
+BS  ATAAT; R27248; 2; 5;; p.
+BS  ATAAT; R27249; 3; 5;; p.
+BS  ATAAT; R27250; 3; 5;; p.
+BS  ATAAT; R27251; 3; 5;; p.
+BS  ATAAT; R27252; 3; 5;; p.
+BS  ATAAT; R27253; 4; 5;; p.
+BS  ATAAT; R27254; 2; 5;; p.
+BS  ATAAT; R27255; 4; 5;; p.
+BS  ATAAT; R27256; 3; 5;; p.
+BS  ATAAT; R27257; 3; 5;; p.
+BS  ATAAT; R27258; 3; 5;; p.
+BS  ATAAT; R27259; 4; 5;; p.
+XX
+CC  sequences selected with recombinant ZNF333 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0056113.
+RX  PUBMED: 15607024.
+RA  Jing Z., Liu Y., Dong M., Hu S., Huang S.
+RT  Identification of the DNA binding element of the human ZNF333 protein.
+RL  J. Biochem. Mol. Biol. 37:663-670 (2004).
+XX
+//

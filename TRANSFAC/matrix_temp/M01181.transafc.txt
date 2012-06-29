@@ -1,0 +1,72 @@
+AC  M01181
+XX
+ID  V$NKX32_01
+XX
+DT  02.04.2008 (created); apk.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nkx3-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T14258; Nkx3-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02668; Nkx3-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T15029; Nkx3-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T09465; Nkx3-2; Species: Mammalia; site(s) included: no.
+BF  T02667; Nkx3-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15030; Nkx3-2; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1      4      5     14      T
+02     13      1      7      3      R
+03     24      0      0      0      A
+04      0      0     24      0      G
+05      0      0      0     24      T
+06      6      0     18      0      G
+XX
+BA  24 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TAAGTG; R23782; 3; 6;; p.
+BS  TAAGTG; R23784; 3; 6;; p.
+BS  TAAGTG; R23785; 3; 6;; p.
+BS  TAAGTG; R23786; 3; 6;; p.
+BS  TAAGTG; R23787; 3; 6;; p.
+BS  TAAGTG; R23788; 3; 6;; p.
+BS  TAAGTG; R23789; 3; 6;; p.
+BS  TAAGTG; R23790; 3; 6;; p.
+BS  TAAGTG; R23791; 3; 6;; p.
+BS  TAAGTG; R23792; 3; 6;; p.
+BS  GAAGTG; R23793; 3; 6;; p.
+BS  GAAGTG; R23794; 3; 6;; p.
+BS  GGAGTG; R23795; 3; 6;; p.
+BS  GGAGTG; R23796; 3; 6;; p.
+BS  TTAGTG; R23797; 3; 6;; p.
+BS  TTAGTG; R23798; 3; 6;; p.
+BS  CGAGTG; R23799; 3; 6;; p.
+BS  ACAGTG; R23800; 3; 6;; p.
+BS  CGAGTA; R23801; 3; 6;; p.
+BS  CGAGTA; R23802; 3; 6;; p.
+BS  CTAGTA; R23803; 3; 6;; p.
+BS  TAAGTA; R23804; 3; 6;; p.
+BS  TGAGTA; R23805; 3; 6;; p.
+BS  GGAGTA; R23806; 3; 6;; p.
+XX
+CC  sequences selected with recombinant Nkx3-2 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0122.
+XX
+RN  [1]; RE0053941.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel123:0001 (2008).
+RN  [2]; RE0052071.
+RX  PUBMED: 12746429.
+RA  Kim D. W., Kempf H., Chen R. E., Lassar A. B.
+RT  Characterization of Nkx3.2 DNA binding specificity and its requirement for somitic chondrogenesis.
+RL  J. Biol. Chem. 278:27532-27539 (2003).
+XX
+//

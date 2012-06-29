@@ -1,0 +1,92 @@
+AC  M01879
+XX
+ID  V$HMGIY_Q4
+XX
+DT  12.04.2011 (created); mkl.
+DT  19.04.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HMGIY
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00750; V$HMGIY_Q6;  (family).
+HP  M01010; V$HMGIY_Q3;  (family).
+XX
+BF  T02368; HMGIY; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10358; HMGIY; Species: Mammalia; site(s) included: yes.
+BF  T10639; HMGIY; Species: Mammalia; site(s) included: no.
+BF  T01852; HMGIY; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06606; HMGIY; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01851; HMGIY-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10672; HMGIY-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06607; HMGIY-isoform1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01980; HMGIY-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19006; HMGIY-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06608; HMGIY-isoform2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T19005; HMGIY-isoform3; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1      8      1     32      T
+02      0      0      0     42      T
+03     12     10     12      8      N
+04      1     10      3     28      T
+05      5      2      4     31      T
+06     14     10      6     12      N
+XX
+BA  42 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTGTTT; R04663; 9; 6;; n.
+BS  TTCCCT; R04931; 26; 6;; p.
+BS  TTATTA; R05081; 11; 6;; n.
+BS  TTTTGC; R08132; 3; 6;; n.
+BS  TTCCTG; R14456; 18; 6;; p.
+BS  CTTTTG; R14461; 11; 6;; p.
+BS  TTGTTC; R14462; 14; 6;; n.
+BS  TTGTTG; R14463; 1; 6;; n.
+BS  TTATTA; R14464; 1; 6;; n.
+BS  TTGCAT; R14465; 4; 6;; p.
+BS  CTATAT; R14466; -1; 6;; p.
+BS  TTCCTC; R14727; 7; 6;; p.
+BS  TTACAT; R14728; -2; 6;; n.
+BS  TTCCTA; R14731; 11; 6;; n.
+BS  CTATTC; R14732; 1; 6;; n.
+BS  TTATTC; R14740; 1; 6;; n.
+BS  CTAATA; R14743; 13; 6;; n.
+BS  CTTTAA; R14765; 2; 6;; p.
+BS  ATATTT; R14809; 12; 6;; p.
+BS  TTGTCA; R14810; 14; 6;; p.
+BS  TTTTTG; R14811; 4; 6;; n.
+BS  TTAGGA; R16104; 12; 6;; p.
+BS  TTGGGG; R16106; 6; 6;; n.
+BS  TTGTTC; R16980; 4; 6;; n.
+BS  TTTTTA; R16981; 16; 6;; n.
+BS  TTGCAT; R20851; 13; 6;; p.
+BS  TTCTTT; R20869; 9; 6;; p.
+BS  CTATTA; R20870; 7; 6;; p.
+BS  GTCTTA; R20871; -2; 6;; p.
+BS  CTCTTT; R20873; 1; 6;; n.
+BS  TTTTTC; R20878; 11; 6;; p.
+BS  TTGGtc; R21567; 9; 6;; p.
+BS  TTCTTT; R22927; 7; 6;; n.
+BS  TTATTA; R22928; 11; 6;; p.
+BS  TTCCTT; R23098; 27; 6;; p.
+BS  TTTCTA; R24879; 16; 6;; p.
+BS  TTTTTA; R24896; 6; 6;; n.
+BS  TTGTGG; R24897; -2; 6;; n.
+BS  TTATTA; R30105; 18; 6;; n.
+BS  CTGTTC; R33011; 22; 6;; n.
+BS  TTGTTT; R33488; 5; 6;; n.
+BS  TTCCTC; R33490; 4; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

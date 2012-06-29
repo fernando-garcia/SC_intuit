@@ -1,0 +1,47 @@
+AC  M00470
+XX
+ID  V$AP2GAMMA_01
+XX
+DT  04.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-2gamma
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00189; V$AP2_Q6; activator protein 2 (family).
+HP  M00800; V$AP2_Q3;  (family).
+HP  M00915; V$AP2_Q6_01;  (family).
+XX
+BF  T02468; AP-2gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09207; AP-2gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02470; AP-2gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10482; AP-2gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10535; AP-2gamma; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0    146      0      G
+02      0    146      0      0      C
+03      0    146      0      0      C
+04      4     65     31     46      Y
+05     14     46     58     28      N
+06     46     35     57      8      N
+07     28     13     93     12      G
+08     12      9    116      9      G
+09     11     56     63     16      S
+XX
+BA  146 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AP-2gamma from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0016805.
+RX  PUBMED: 10497269.
+RA  McPherson L. A., Weigel R. J.
+RT  AP2alpha and AP2gamma: a comparison of binding site specificity and trans-activation of the estrogen receptor promoter and single site promoter constructs
+RL  Nucleic Acids Res. 27:4040-4049 (1999).
+XX
+//

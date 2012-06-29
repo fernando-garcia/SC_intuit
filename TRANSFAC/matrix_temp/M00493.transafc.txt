@@ -1,0 +1,55 @@
+AC  M00493
+XX
+ID  V$STAT5A_03
+XX
+DT  20.09.2001 (created); vma.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT5A
+XX
+DE  signal transducer and activator of transcription 5a
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T14304; STAT5A; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14305; STAT5A; Species: cattle, Bos taurus; site(s) included: no.
+BF  T04683; STAT5A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09199; STAT5A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06240; STAT5A; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: no.
+BF  T16819; STAT5A; Species: Mammalia; site(s) included: no.
+BF  T01579; STAT5A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09200; STAT5A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06128; STAT5A; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01578; STAT5A; Species: sheep, Ovis aries; site(s) included: no.
+BF  T09466; STAT5A; Species: sheep, Ovis aries; site(s) included: no.
+BF  T19274; Stat5A1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19273; Stat5A2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     23     26     17     33      N
+02     54     11     17     19      A
+03     37      5     13     46      W
+04      2      2      2     93      T
+05     11      4      2     82      T
+06      3     93      2      2      C
+07      5     57      8     30      Y
+08     29     22     20     29      N
+XX
+BA  39 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant STAT5A from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0016858.
+RX  PUBMED: 11053426.
+RA  Ehret G. B., Reichenbach P., Schindler U., Horvath C. M., Fritz S., Nabholz M., Bucher P.
+RT  DNA binding specificity of different STAT proteins. Comparison of in vitro specificity with natural target sites.
+RL  J. Biol. Chem. 276:6675-6688 (2001).
+XX
+//

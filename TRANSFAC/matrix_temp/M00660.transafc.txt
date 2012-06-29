@@ -1,0 +1,55 @@
+AC  M00660
+XX
+ID  P$RITA1_01
+XX
+DT  08.03.2002 (created); ela.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RITA-1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02786; RITA-1; Species: rice, Oryza sativa; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      7      0      8      Y
+02      0     10      6      2      S
+03     18      0      0      0      A
+04      0     18      0      0      C
+05      0      0     18      0      G
+06      0      0      0     18      T
+07      6      3      9      0      R
+XX
+BA  18 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCACGTG; R08310; 3; 7;; n.
+BS  ACACGTG; R08311; 2; 7;; p.
+BS  ACACGTG; R08312; 2; 7;; p.
+BS  ACACGTG; R08313; 3; 7;; n.
+BS  CCACGTG; R08314; 3; 7;; n.
+BS  TCACGTG; R08315; 2; 7;; p.
+BS  CCACGTG; R08316; 2; 7;; p.
+BS  CCACGTG; R08317; 3; 7;; n.
+BS  TGACGTC; R08318; 2; 7;; p.
+BS  TGACGTC; R08319; 3; 7;; n.
+BS  TGACGTC; R08320; 3; 7;; n.
+BS  TTACGTA; R08321; 3; 7;; n.
+BS  CTACGTA; R08322; 2; 7;; p.
+BS  TGACGTG; R08323; 3; 7;; n.
+BS  TGACGTA; R08324; 3; 7;; n.
+BS  CCACGTA; R08325; 2; 7;; p.
+BS  CCACGTA; R08326; 3; 7;; n.
+BS  TGACGTA; R08327; 2; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; based on artificial sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

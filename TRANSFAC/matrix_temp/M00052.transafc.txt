@@ -1,0 +1,83 @@
+AC  M00052
+XX
+ID  V$NFKAPPAB65_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-kappaB (p65)
+XX
+DE  NF-kappaB (p65)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00774; V$NFKB_Q6_01;  (family).
+XX
+BF  T09631; p65 delta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18297; Rel-A-p65; Species: horse, Equus caballus; site(s) included: yes.
+BF  T10521; RelA-p65; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T10522; RelA-p65; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00594; RelA-p65; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08711; RelA-p65; Species: human, Homo sapiens; site(s) included: no.
+BF  T10397; RelA-p65; Species: Mammalia; site(s) included: no.
+BF  T14321; RelA-p65; Species: Mammalia; site(s) included: no.
+BF  T00595; RelA-p65; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09106; RelA-p65; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16108; RelA-p65; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T05016; RelA-p65; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09559; RelA-p65; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19314; RelA-p65 delta 2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01523; RelA-p65delta; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      4     10      4      G
+02      0      0     18      0      G
+03      0      0     18      0      G
+04     11      0      7      0      R
+05     10      3      3      2      A
+06      2      0      0     16      T
+07      0      0      0     18      T
+08      0      3      0     15      T
+09      0     18      0      0      C
+10      0     18      0      0      C
+XX
+BA  18 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGGGAATTCC; R05858; 10; 10;; p.
+BS  CGGAATTTCC; R05859; 8; 10;; p.
+BS  GGGGGATTCC; R05860; 12; 10;; p.
+BS  GGGGATTTCC; R05861; 12; 10;; p.
+BS  CGGAGTTTCC; R05862; 12; 10;; p.
+BS  CGGACTTTCC; R05863; 12; 10;; p.
+BS  GGGAATTTCC; R05864; 8; 10;; p.
+BS  CGGACTTTCC; R05865; 13; 10;; p.
+BS  TGGAATTTCC; R05866; 13; 10;; p.
+BS  TGGAATTTCC; R05867; 6; 10;; p.
+BS  GGGAATTCCC; R05868; 6; 10;; p.
+BS  GGGAATTTCC; R05869; 6; 10;; p.
+BS  GGGAATTTCC; R05870; 7; 10;; p.
+BS  GGGGATTCCC; R05871; 12; 10;; p.
+BS  GGGACTTTCC; R05872; 12; 10;; p.
+BS  TGGGGTTTCC; R05873; 13; 10;; p.
+BS  GGGGTTTTCC; R05874; 11; 10;; p.
+BS  TGGGTTTCCC; R05875; 13; 10;; p.
+XX
+CC  sequences selected with recombinant NF-kappaB (p65) from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0107.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0002922.
+RX  PUBMED: 1406630.
+RA  Kunsch C., Ruben S. M., Rosen C. A.
+RT  Selection of optimal kappaB/Rel DNA-binding motifs: interaction of both subunits of NF-kappaB with DNA is required for transcriptional activation
+RL  Mol. Cell. Biol. 12:4412-4421 (1992).
+XX
+//

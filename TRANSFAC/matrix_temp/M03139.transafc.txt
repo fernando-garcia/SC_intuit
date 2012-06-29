@@ -1,0 +1,50 @@
+AC  M03139
+AS  MA0443
+XX
+ID  I$BTD_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  btd
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T02372; Btd; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     14      3      7      6      N
+02     10      0     20      0      G
+03      4      0     18      8      G
+04      2      0     28      0      G
+05      0      0     30      0      G
+06      0      0     30      0      G
+07      2     28      0      0      C
+08      0      0     30      0      G
+09      0      0     20     10      G
+10     15      1     10      4      R
+XX
+BA  30 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0443.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071779.
+RX  PUBMED: 18332042.
+RA  Noyes M. B., Meng X., Wakabayashi A., Sinha S., Brodsky M. H., Wolfe S. A.
+RT  A systematic characterization of factors that regulate Drosophila segmentation via a bacterial one-hybrid system.
+RL  Nucleic Acids Res. 36:2547-2560 (2008).
+XX
+//

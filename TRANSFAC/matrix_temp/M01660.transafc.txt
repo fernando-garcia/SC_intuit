@@ -1,0 +1,88 @@
+AC  M01660
+XX
+ID  V$GABPA_Q4
+XX
+DT  29.01.2010 (created); dtc.
+DT  20.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GABP-alpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00341; V$GABP_B; GA binding protein (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T01390; GABP-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09383; GABP-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10049; GABP-alpha; Species: Mammalia; site(s) included: yes.
+BF  T01402; GABP-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10214; GABP-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10091; GABP-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     35      3      6      C
+02      2      0      0     42      T
+03      0      0      0     44      T
+04      0     44      0      0      C
+05      0     44      0      0      C
+06      0      1     24     19      K
+XX
+BA  44 sequences (matrix compiled from individual genomic sites)
+XX
+BS  cttccg; R12965; 13; 6;; n.
+BS  catccg; R13222; 5; 6;; n.
+BS  cttcct; R14800; 15; 6;; n.
+BS  tttccg; R14803; 9; 6;; n.
+BS  CATCCT; R19534; 13; 6;; p.
+BS  CTTCCT; R20411; 16; 6;; p.
+BS  CTTCCG; R20417; 6; 6;; p.
+BS  CTTCCG; R20429; 9; 6;; p.
+BS  cttcct; R20444; 38; 6;; n.
+BS  CTTCCG; R20476; 3; 6;; p.
+BS  cttcct; R20483; 10; 6;; n.
+BS  tttcct; R20484; 6; 6;; n.
+BS  cttcct; R20486; 19; 6;; n.
+BS  cttcct; R20560; 12; 6;; n.
+BS  CTTCCG; R21491; 7; 6;; p.
+BS  cttcct; R21493; 7; 6;; n.
+BS  cttcct; R21494; 15; 6;; n.
+BS  cttccg; R21653; 7; 6;; n.
+BS  cttcct; R21792; 14; 6;; n.
+BS  cTTCCT; R21799; 6; 6;; p.
+BS  cttcct; R22307; 17; 6;; n.
+BS  CTTCcg; R22619; 20; 6;; p.
+BS  cttccg; R24249; 5; 6;; n.
+BS  CTTCCG; R25646; 13; 6;; p.
+BS  cttccg; R25648; 13; 6;; n.
+BS  cttccg; R25862; 12; 6;; n.
+BS  cttccg; R25904; 13; 6;; n.
+BS  tttccg; R26409; 21; 6;; n.
+BS  cttccg; R26601; 36; 6;; n.
+BS  CTTCCT; R26656; 13; 6;; p.
+BS  cttccg; R26932; 8; 6;; n.
+BS  CTTCCG; R27945; 14; 6;; p.
+BS  TTTCCG; R28152; 9; 6;; p.
+BS  cttccg; R28484; 5; 6;; n.
+BS  GTTCCT; R28507; 13; 6;; p.
+BS  tttccg; R28512; 48; 6;; n.
+BS  CTTCCT; R28599; 17; 6;; p.
+BS  gttccg; R28600; 21; 6;; n.
+BS  gttccg; R28601; 20; 6;; n.
+BS  cttcct; R28661; 9; 6;; n.
+BS  cttcct; R28662; 18; 6;; n.
+BS  cttccc; R29244; 25; 6;; n.
+BS  cttcct; R29737; 30; 6;; n.
+BS  TTTCCg; R29754; 15; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0065667.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20101:0001 (2010).
+XX
+//

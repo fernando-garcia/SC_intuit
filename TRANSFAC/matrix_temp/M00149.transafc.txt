@@ -1,0 +1,53 @@
+AC  M00149
+XX
+ID  P$SBF1_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SBF-1
+XX
+DE  SBF-1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T00739; SBF-1; Species: french bean, Phaseolus vulgaris; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      2      3      K
+02      2      1      0      3      W
+03      2      0      3      1      R
+04      1      1      0      4      T
+05      1      1      3      1      N
+06      1      1      4      0      G
+07      0      0      0      6      T
+08      0      0      0      6      T
+09      6      0      0      0      A
+10      5      1      0      0      A
+11      3      0      0      3      W
+12      4      0      0      2      A
+13      3      0      0      3      W
+14      1      1      2      2      N
+XX
+BA  6 sequences (compiled matrix imported from literature reference)
+XX
+BS  GTGTGGTTAATATG; R07276; 1; 14;; p.
+BS  GTGTCCTTAATATG; R07277; 1; 14;; p.
+BS  TAAAAGTTAAAAAC; R07278; 1; 14;; p.
+BS  CTGTGATTAAATAT; R07279; 1; 14;; p.
+BS  TATTGGTTACTAAA; R07280; 1; 14;; p.
+BS  TCACTGTTAAATTT; R07281; 1; 14;; p.
+XX
+CC  binding sites from 2 genes
+XX
+RN  [1]; RE0002257.
+RX  PUBMED: 1893099.
+RA  Lawton M. A., Dean S. M., Dron M., Kooter J. M., Kragh D. M., Harrison M. J., Yu L., Tanguay L., Dixon R. A., Lamb C. J.
+RT  Silencer region of a chalcone synthase promoter contains multiple binding sites for a factor, SBF-1, closely related to GT-1
+RL  Plant Mol. Biol. 16:235-249 (1991).
+XX
+//

@@ -1,0 +1,99 @@
+AC  M00050
+XX
+ID  V$E2F_02
+XX
+DT  13.04.1995 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F
+XX
+DE  E2F
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00024; V$E2F_01; E2F (specific).
+HC  M00425; V$E2F_Q3; E2F (specific).
+HC  M00426; V$E2F_Q4; E2F (specific).
+HC  M00427; V$E2F_Q6; E2F (specific).
+HC  M00428; V$E2F1_Q3; E2F-1 (specific).
+HC  M00430; V$E2F1_Q4; E2F-1 (specific).
+HC  M00431; V$E2F1_Q6; E2F-1 (specific).
+HC  M00516; V$E2F_03;  (specific).
+HC  M00938; V$E2F1_Q3_01;  (specific).
+HC  M00940; V$E2F1_Q6_01;  (specific).
+HC  M01250; V$E2F1_01;  (specific).
+HC  M01251; V$E2F1_02;  (specific).
+HC  M02089; V$E2F3_Q6;  (specific).
+HC  M02090; V$E2F4_Q6;  (specific).
+HC  M02742; V$E2F2_03; class: Winged Helix-Turn-Helix; family: E2F (specific).
+HC  M02743; V$E2F3_03; class: Winged Helix-Turn-Helix; family: E2F (specific).
+HC  M02846; V$E2F2_04; class: Winged Helix-Turn-Helix; family: E2F (specific).
+HC  M02847; V$E2F4_04; class: Winged Helix-Turn-Helix; family: E2F (specific).
+XX
+BF  T02951; E2F-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T09329; E2F-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01542; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09117; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09570; E2F-1; Species: Mammalia; site(s) included: no.
+BF  T01543; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09126; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02952; E2F-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09988; E2F-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01544; E2F-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17403; E2F-2; Species: Mammalia; site(s) included: no.
+BF  T03526; E2F-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14606; E2F-3; Species: human, Homo sapiens; site(s) included: no.
+BF  T17404; E2F-3; Species: Mammalia; site(s) included: no.
+BF  T09191; E2F-3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01545; E2F-3a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02947; E2F-3A; Species: mouse, Mus musculus; site(s) included: no.
+BF  T04107; E2F-3B; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01546; E2F-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10751; E2F-4; Species: Mammalia; site(s) included: no.
+BF  T16329; E2F-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16710; E2F-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01607; E2F-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02948; E2F-5; Species: mouse, Mus musculus; site(s) included: no.
+BF  T03249; E2F-5; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00221; E2F:DP; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     12      T
+02      0      0      0     12      T
+03      0      0      0     12      T
+04      0      6      6      0      S
+05      0      2     10      0      G
+06      0     12      0      0      C
+07      0      0     12      0      G
+08      0     11      1      0      C
+XX
+BA  12 sequences (compiled matrix imported from literature reference)
+XX
+BS  TTTCGCGC; R05828; 1; 8;; p.
+BS  TTTGGCGC; R05829; 1; 8;; p.
+BS  TTTGCCGC; R05830; 1; 8;; p.
+BS  TTTGGCGC; R05831; 1; 8;; p.
+BS  TTTGGCGG; R05832; 1; 8;; p.
+BS  TTTCCCGC; R05833; 1; 8;; p.
+BS  TTTCGCGC; R05834; 1; 8;; p.
+BS  TTTCGCGC; R05835; 1; 8;; p.
+BS  TTTGGCGC; R05836; 1; 8;; p.
+BS  TTTGGCGC; R05837; 1; 8;; p.
+BS  TTTCGCGC; R05838; 1; 8;; p.
+BS  TTTCGCGC; R05839; 1; 8;; p.
+XX
+CC  binding sites from 7 cellular and 1 viral genes
+XX
+DR  JASPAR: MA0024.
+XX
+RN  [1]; RE0002921.
+RX  PUBMED: 1411535.
+RA  Nevins R.
+RT  E2F: A link between the Rb tumor suppressor protein and viral oncoproteins
+RL  Science 258:424-429 (1992).
+XX
+//

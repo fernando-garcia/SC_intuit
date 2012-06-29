@@ -1,0 +1,53 @@
+AC  M01250
+XX
+ID  V$E2F1_01
+XX
+DT  10.06.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00050; V$E2F_02; E2F (family).
+HP  M00803; V$E2F_Q2;  (family).
+HP  M00918; V$E2F_Q3_01;  (family).
+HP  M00919; V$E2F_Q4_01;  (family).
+HP  M00920; V$E2F_Q6_01;  (family).
+HP  M00939; V$E2F_Q4_02;  (family).
+XX
+BF  T02951; E2F-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01542; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09570; E2F-1; Species: Mammalia; site(s) included: no.
+BF  T01543; E2F-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T02952; E2F-1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     48    242     34     39      C
+02     47     51    221     44      G
+03      0     27      0    336      T
+04      0     23      0    340      T
+05      0      0      0    363      T
+06      0    342      0     21      C
+07     72    133     31    127      N
+08     75    102     86    100      N
+XX
+BA  363 sequences (ChIP-on-chip)
+XX
+CC  E2F-1 binding motif defined from ChIP-on-chip experiment in GM cells
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0063067.
+RX  PUBMED: 17908821.
+RA  Xu X., Bieda M., Jin V. X., Rabinovich A., Oberley M. J., Green R., Farnham P. J.
+RT  A comprehensive ChIP-chip analysis of E2F1, E2F4, and E2F6 in normal and tumor cells reveals interchangeable roles of E2F family members.
+RL  Genome Res. 17:1550-1561 (2007).
+XX
+//

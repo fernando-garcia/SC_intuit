@@ -1,0 +1,54 @@
+AC  M01265
+XX
+ID  F$ABF1_Q6
+XX
+DT  08.07.2009 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ABF1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00056; ABF1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T10754; Abf1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      2      1      4      N
+02     12      2      2      1      A
+03      0      1      2     14      T
+04      1     16      0      0      C
+05     16      0      0      1      A
+06      2     11      0      4      C
+07      2      3      5      7      N
+XX
+BA  17 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TATAATT; R01692; 5; 7;; p.
+BS  AATCACC; R03820; 1; 7;; p.
+BS  tatcacc; R03847; 11; 7;; n.
+BS  tATCAAA; R03848; 3; 7;; p.
+BS  nATCACT; R10104; -1; 7;; p.
+BS  cctcacg; R10109; 19; 7;; n.
+BS  nATCATT; R12082; -1; 7;; p.
+BS  nATCATC; R12083; -1; 7;; p.
+BS  nATCATT; R12084; -1; 7;; p.
+BS  natcact; R12100; 8; 7;; n.
+BS  nATCACG; R12339; -1; 7;; p.
+BS  ATGCACG; R12432; 7; 7;; p.
+BS  nAGCACT; R12433; -1; 7;; p.
+BS  nCTCTCT; R12434; -1; 7;; p.
+BS  GGTCACG; R24055; 7; 7;; p.
+BS  taccacg; R24231; 18; 7;; n.
+BS  CGTCAAA; R24232; 15; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+XX
+//

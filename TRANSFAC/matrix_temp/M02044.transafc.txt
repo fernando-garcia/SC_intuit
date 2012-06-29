@@ -1,0 +1,94 @@
+AC  M02044
+XX
+ID  V$YY1_03
+XX
+DT  26.07.2011 (created); smt.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YY1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01214; NF-E; Species: human, Homo sapiens; site(s) included: no.
+BF  T14318; YY1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14319; YY1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00275; YY1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T17869; YY1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00915; YY1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08660; YY1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09133; YY1; Species: Mammalia; site(s) included: no.
+BF  T00278; YY1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10428; YY1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04970; YY1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08253; YY1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      4      0     26     10      G
+02      7     22      7      4      C
+03      0     30     10      0      C
+04      0      0     39      1      G
+05      0     40      0      0      C
+06      0     40      0      0      C
+07     40      0      0      0      A
+08      0      0      0     40      T
+09      4      6      4     26      T
+10      8      0      1     31      T
+11      5      0      1     34      T
+12      0      0     28      7      G
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCCGCCATTTTG; R36067; 4; 12;; p.
+BS  GCCGCCATTTTG; R36072; 4; 12;; p.
+BS  GCCGCCATTTTG; R36073; 4; 12;; p.
+BS  GCCGCCATATTT; R36074; 4; 12;; p.
+BS  GCCGCCATATTG; R36075; 4; 12;; p.
+BS  GCCGCCATGTTT; R36076; 4; 12;; p.
+BS  GCCGCCATTAGT; R36077; 4; 12;; p.
+BS  GGCGCCATTTTG; R36078; 4; 12;; p.
+BS  GGCGCCATTTTG; R36079; 3; 12;; p.
+BS  GGCGCCATTTTG; R36080; 4; 12;; p.
+BS  GGCGCCATTGTG; R36081; 4; 12;; p.
+BS  GGCGCCATTAA; R36082; 4; 12; 15; p.
+BS  GACGCCATTTTG; R36083; 4; 12;; p.
+BS  GACGCCATTTTG; R36084; 4; 12;; p.
+BS  GACGCCATCTTG; R36085; 4; 12;; p.
+BS  GACGCCATCTTG; R36086; 4; 12;; p.
+BS  GTCGCCATTTTG; R36087; 4; 12;; p.
+BS  GTCGCCATTTTG; R36088; 4; 12;; p.
+BS  GCGGCCATTTTT; R36089; 4; 12;; p.
+BS  GCGGCCATTTTG; R36090; 4; 12;; p.
+BS  GCGGCCATCTT; R36091; 5; 12; 16; p.
+BS  GCGGCCATGTTT; R36092; 4; 12;; p.
+BS  GCGGCCATGATG; R36093; 4; 12;; p.
+BS  GCGGCCATTAAT; R36094; 4; 12;; p.
+BS  GCGGCCATTAA; R36095; 6; 12; 17; p.
+BS  TCCGCCATTTTG; R36096; 4; 12;; p.
+BS  TCCGCCATTTTG; R36097; 4; 12;; p.
+BS  TCCGCCATATTG; R36098; 4; 12;; p.
+BS  TCCGCCATATTG; R36099; 4; 12;; p.
+BS  TCCGCCATGTTT; R36100; 3; 12;; p.
+BS  TCCGCCATTAA; R36101; 7; 12; 18; p.
+BS  TGCGCCATTTTG; R36102; 4; 12;; p.
+BS  TGCGCCATTTTG; R36103; 4; 12;; p.
+BS  AACGCCATTTTG; R36104; 4; 12;; p.
+BS  AACGCCATCTTG; R36105; 4; 12;; p.
+BS  TTCGCCATCATG; R36106; 4; 12;; p.
+BS  TCGGCCATTTTG; R36107; 4; 12;; p.
+BS  AAGGCCATCTTG; R36108; 4; 12;; p.
+BS  ATGGCCATTAA; R36109; 6; 12; 17; p.
+BS  GCCTCCATTTTG; R36110; 4; 12;; p.
+XX
+CC  sequences selected with recombinant YY1 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0070688.
+RX  PUBMED: 18950698.
+RA  Kim J., Kim J.
+RT  YY1's longer DNA-binding motifs.
+RL  Genomics 93:152-158 (2009).
+XX
+//

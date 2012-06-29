@@ -1,0 +1,49 @@
+AC  M00683
+XX
+ID  F$XBP1_Q2
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  XBP1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03707; XBP1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      9      1      2      C
+02      3      3      0      7      T
+03      0      0      0     13      T
+04      0     13      0      0      C
+05      0      0     13      0      G
+06     13      0      0      0      A
+07      0      0     13      0      G
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTCGAG; R09242; 3; 7;; n.
+BS  TTTCGAG; R09243; 3; 7;; n.
+BS  CCTCGAG; R09291; 3; 7;; n.
+BS  CCTCGAG; R09292; 3; 7;; n.
+BS  CCTCGAG; R09729; 3; 7;; n.
+BS  ATTCGAG; R09730; 3; 7;; n.
+BS  CTTCGAG; R09731; 3; 7;; n.
+BS  CTTCGAG; R09732; 3; 7;; n.
+BS  CATCGAG; R09733; 2; 7;; p.
+BS  CTTCGAG; R09734; 3; 7;; n.
+BS  CATCGAG; R09735; 2; 7;; p.
+BS  GATCGAG; R09736; 3; 7;; n.
+BS  CTTCGAG; R09737; 3; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

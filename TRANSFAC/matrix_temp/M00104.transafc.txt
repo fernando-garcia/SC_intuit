@@ -1,0 +1,94 @@
+AC  M00104
+XX
+ID  V$CDPCR1_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CDP CR1
+XX
+DE  cut-like homeodomain protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00100; CDP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10007; CDP; Species: Mammalia; site(s) included: no.
+BF  T01083; CDP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09991; CDP; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09990; CDP-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17015; CDP-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18703; CDP-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17013; CDP-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02042; CDP-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18704; CDP-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17012; CDP-isoform5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18705; CDP-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17014; CDP-isoform6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18706; CDP-isoform7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02043; CDP2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11260; CDP2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      7      8      8      N
+02     31      1      0      0      A
+03      2      3      1     26      T
+04      0     22      3      7      C
+05      4      1     26      1      G
+06     30      1      0      1      A
+07      0      1      1     30      T
+08      2     18      5      6      C
+09      1      5     22      2      G
+10      2     11      8      2      S
+XX
+BA  32 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GATCGATCGC; R06569; 3; 10;; p.
+BS  AATCGATCGC; R06570; 3; 10;; p.
+BS  GATCGATCGC; R06571; 3; 10;; p.
+BS  TATCGATCGA; R06572; 4; 10;; p.
+BS  GATCGATCC; R06573; 7; 10;; p.
+BS  AATCGATCGG; R06574; 6; 10;; p.
+BS  TATCGATCG; R06575; 7; 10;; p.
+BS  CATCGATTGG; R06576; 2; 10;; p.
+BS  GATCGATCGG; R06577; 4; 10;; p.
+BS  CATCGATCCC; R06578; 3; 10;; p.
+BS  GATCGATCCG; R06579; 2; 10;; p.
+BS  TATCGATAG; R06580; 7; 10;; p.
+BS  AATCGATCGG; R06581; 3; 10;; p.
+BS  CAACGATGGT; R06582; 3; 10;; p.
+BS  TAACGATTGT; R06583; 6; 10;; p.
+BS  AATCAATCCC; R06584; 3; 10;; p.
+BS  AATCAATGGG; R06585; 6; 10;; p.
+BS  TACCGATTGG; R06586; 6; 10;; p.
+BS  AATCGCTATC; R06587; 3; 10;; p.
+BS  AATGGATCG; R06588; 7; 10;; p.
+BS  TATTGATGGC; R06589; 6; 10;; p.
+BS  GATTGATGG; R06590; 7; 10;; p.
+BS  CATTGATTG; R06591; 7; 10;; p.
+BS  CATTGATTGC; R06592; 3; 10;; p.
+BS  CACTGATCGC; R06593; 3; 10;; p.
+BS  GATCAACCTA; R06594; 2; 10;; p.
+BS  AATTCATGGC; R06595; 6; 10;; p.
+BS  ACTTGATC; R06596; 7; 10;; p.
+BS  TACGGATTCC; R06597; 3; 10;; p.
+BS  TATCGTG; R06598; 9; 10;; p.
+BS  GATGTATCAG; R06599; 7; 10;; p.
+BS  CAGCAATCG; R06600; 7; 10;; p.
+XX
+CC  sequences selected with recombinant  CDP CR1 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 9 rounds of selection and amplification
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0002973.
+RX  PUBMED: 7799919.
+RA  Harada R., Berube G., Tamplin O. J., Denis-Larose C., Nepveu A.
+RT  DNA-binding specificity of the cut repeats from the human cut-like protein
+RL  Mol. Cell. Biol. 15:129-140 (1995).
+XX
+//

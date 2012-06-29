@@ -1,0 +1,82 @@
+AC  M01295
+XX
+ID  V$ATF5_01
+XX
+DT  08.09.2009 (created); apk.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF5
+XX
+DE  ATF5 binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T04877; ATF-5; Species: human, Homo sapiens; site(s) included: no.
+BF  T17789; ATF-5; Species: Mammalia; site(s) included: yes.
+BF  T16631; ATF-5; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16632; ATF-5; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16634; Atf-5; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T16633; ATF-5-xbb1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09532; ATF5; Species: human, Homo sapiens; site(s) included: no.
+BF  T16443; Atf5; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5     17      1      6      C
+02      1     13      3     12      Y
+03      0      0      0     29      T
+04      0     29      0      0      C
+05      2      1      1     25      T
+06      2     12      0     15      Y
+07      0     28      0      1      C
+08      2     27      0      0      C
+09      0      0      0     29      T
+10      1      1      0     27      T
+11     19      3      0      7      A
+XX
+BA  29 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CCTCTTCCTTA; R29018; 7; 11;; p.
+BS  CCTCTTCCTTA; R29019; 6; 11;; p.
+BS  CATCTCCCTTA; R29020; 3; 11;; p.
+BS  CCTCCTCCTTA; R29021; 8; 11;; p.
+BS  CCTCTCCCTTA; R29022; 9; 11;; p.
+BS  TCTCTTCCTTA; R29023; 6; 11;; p.
+BS  CCTCTTCCTTT; R29024; 6; 11;; p.
+BS  CCTCTTCATTA; R29025; 1; 11;; p.
+BS  CCTCTTCATTT; R29026; 9; 11;; p.
+BS  CGTCTTCCTTA; R29027; 4; 11;; p.
+BS  ACTCTTTCTTA; R29028; 5; 11;; p.
+BS  CTTCATCCTTA; R29029; 3; 11;; p.
+BS  CTTCTCCCTTA; R29030; 9; 11;; p.
+BS  CTTCTCCCTTA; R29031; 9; 11;; p.
+BS  CTTCTTCCTTA; R29032; 5; 11;; p.
+BS  CCTCTCCCTTT; R29033; 1; 11;; p.
+BS  CTTCTTCCTTT; R29034; 4; 11;; p.
+BS  AGTCTTCCTTA; R29035; 7; 11;; p.
+BS  TCTCTCCCTTC; R29036; 1; 11;; p.
+BS  TCTCTTCCTCA; R29037; 2; 11;; p.
+BS  CCTCACCCTTT; R29038; 3; 11;; p.
+BS  CTTCTCCCTTC; R29039; 8; 11;; p.
+BS  ATTCTCCCTTT; R29040; 4; 11;; p.
+BS  ATTCTTCCTAA; R29041; 11; 11;; p.
+BS  TTTCTACCTTA; R29042; 1; 11;; p.
+BS  TGTCTACCTTA; R29043; 6; 11;; p.
+BS  TTTCTCCCTTC; R29044; 7; 11;; p.
+BS  ATTCTCCCTTT; R29045; 4; 11;; p.
+BS  GTTCGCCCTTA; R29046; 4; 11;; p.
+XX
+CC  sequences selected with recombinant ATF-5 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0063984.
+RX  PUBMED: 19531563.
+RA  Li G., Li W., Angelastro J. M., Greene L. A., Liu D. X.
+RT  Identification of a novel DNA binding site and a transcriptional target for activating transcription factor 5 in c6 glioma and mcf-7 breast cancer cells.
+RL  Mol. Cancer Res. 7:933-943 (2009).
+XX
+//

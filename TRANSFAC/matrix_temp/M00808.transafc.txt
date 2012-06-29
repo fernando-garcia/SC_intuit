@@ -1,0 +1,141 @@
+AC  M00808
+XX
+ID  V$PAX_Q6
+XX
+DT  02.06.2003 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00097; V$PAX6_01; Pax-6 (specific).
+HC  M00098; V$PAX2_01; Pax-2 (specific).
+HC  M00143; V$PAX5_01; B-cell-specific activating protein (specific).
+HC  M00144; V$PAX5_02; B-cell-specific activating protein (specific).
+HC  M00326; V$PAX1_B; Pax-1 binding sites (specific).
+HC  M00327; V$PAX3_B; Pax-3 binding sites (specific).
+HC  M00328; V$PAX8_B; Pax-8 binding sites (specific).
+HC  M00360; V$PAX3_01; Pax-3 binding sites (specific).
+HC  M00373; V$PAX4_01; Pax-4 binding sites (specific).
+HC  M00377; V$PAX4_02; Pax-4 binding sites (specific).
+HC  M00378; V$PAX4_03; Pax-4 binding sites (specific).
+HC  M00380; V$PAX4_04; Pax-4 binding sites (specific).
+HC  M00717; V$PAX8_01; Pax-8 binding sites (specific).
+HC  M01385; V$PAX4_05;  (specific).
+HC  M01391; V$PAX6_02;  (specific).
+XX
+BF  T02110; Pax-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00398; Pax-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17271; Pax-1; Species: Mammalia; site(s) included: yes.
+BF  T00677; Pax-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17830; Pax-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00678; Pax-2a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01822; Pax-2b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03015; Pax-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17261; Pax-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00679; Pax-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11270; Pax-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10279; Pax-3; Species: Mammalia; site(s) included: no.
+BF  T00680; Pax-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09162; Pax-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16574; Pax-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11179; Pax-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11181; Pax-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02982; Pax-4a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11221; Pax-4a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02983; Pax-4a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03001; Pax-4a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03003; Pax-4c; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03016; Pax-5; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10245; Pax-5; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00070; Pax-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09204; Pax-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03221; Pax-5; Species: Japanese pufferfish, Fugu rubripes; site(s) included: yes.
+BF  T10303; Pax-5; Species: Mammalia; site(s) included: no.
+BF  T01201; Pax-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09182; Pax-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03223; Pax-5; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T02898; Pax-8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03220; Pax-8; Species: Japanese pufferfish, Fugu rubripes; site(s) included: yes.
+BF  T10518; Pax-8; Species: Mammalia; site(s) included: no.
+BF  T01828; Pax-8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09184; Pax-8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01829; Pax-8; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14153; Pax-8; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03222; Pax-8; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T01824; Pax-8a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01826; Pax-8c; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01827; Pax-8d; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02923; Pax-8e; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02932; Pax-8f; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03013; pax2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10244; pax2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01823; pax2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17526; pax2; Species: Mammalia; site(s) included: yes.
+BF  T16059; pax2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15529; pax2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19178; pax2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19179; pax2-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03019; pax6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17743; pax6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04416; pax6; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T14852; Pax6; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T09155; pax6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13888; pax6; Species: Mammalia; site(s) included: no.
+BF  T00681; pax6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09257; pax6; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T10199; pax6; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T10200; pax6; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T03008; pax6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00682; pax6; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T09220; pax6; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T01122; pax6-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09150; pax6-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10031; pax6-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10033; pax6-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01814; pax6-isoform5a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09981; pax6-isoform5a; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     18      2      0      C
+02      3      1      0     16      T
+03      1      0     18      1      G
+04      1      1     17      1      G
+05     15      1      3      1      A
+06     17      0      2      1      A
+07      3     14      2      1      C
+08      3      0      0     17      T
+09      7     10      0      3      M
+10     15      2      1      2      A
+11      3     16      0      1      C
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTGGCACTTCC; R03013; 11; 11;; p.
+BS  CAGTGGCTCAC; R08566; -7; 11;; n.
+BS  CATGGAGTCCA; R08567; 20; 11;; p.
+BS  CCGCTTATCTC; R08678; 6; 11;; p.
+BS  GTGAAAAACTA; R08704; -3; 11;; n.
+BS  GTGGAAAATGC; R08705; 14; 11;; p.
+BS  CTGGAACTAAA; R08825; 6; 11;; p.
+BS  CTGGAACTAAC; R08829; 6; 11;; p.
+BS  CTGGAACTCAC; R08830; -1; 11;; n.
+BS  CTGGAACTTAC; R08831; 6; 11;; p.
+BS  CTGGAACTAAC; R08832; -1; 11;; n.
+BS  CTGGAACTCAC; R08833; -1; 11;; n.
+BS  CTGGAACTCAC; R08834; 6; 11;; p.
+BS  CTGGAACTCAC; R08835; 6; 11;; p.
+BS  CTGGAACTCAC; R08836; -1; 11;; n.
+BS  CTGGAACTAAC; R08837; 6; 11;; p.
+BS  CTGGAACTAAC; R08838; -1; 11;; n.
+BS  CTGGAATTCAT; R08839; -1; 11;; n.
+BS  CTGGAACTAAC; R08840; 6; 11;; p.
+BS  CAAGGGGAAAC; C00228,  s00384; 4; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

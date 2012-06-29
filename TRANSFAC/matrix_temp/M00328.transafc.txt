@@ -1,0 +1,88 @@
+AC  M00328
+XX
+ID  V$PAX8_B
+XX
+DT  11.11.1998 (created); abi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-8
+XX
+DE  Pax-8 binding sites
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+XX
+BF  T02898; Pax-8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03220; Pax-8; Species: Japanese pufferfish, Fugu rubripes; site(s) included: yes.
+BF  T10518; Pax-8; Species: Mammalia; site(s) included: no.
+BF  T01828; Pax-8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09184; Pax-8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01829; Pax-8; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14153; Pax-8; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03222; Pax-8; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T01824; Pax-8a; Species: human, Homo sapiens; site(s) included: no.
+BF  T01826; Pax-8c; Species: human, Homo sapiens; site(s) included: no.
+BF  T01827; Pax-8d; Species: human, Homo sapiens; site(s) included: no.
+BF  T02923; Pax-8e; Species: human, Homo sapiens; site(s) included: no.
+BF  T02932; Pax-8f; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9      2      4      8      N
+02      2     12      6      3      C
+03     11      5      2      5      N
+04      3      6      8      6      N
+05      5      5      1     12      T
+06      6      8      5      4      N
+07      9      3      3      8      N
+08      5      5      1     12      T
+09      1      2     17      3      G
+10      5     14      3      1      C
+11      8      1     12      2      R
+12      1      1      2     19      T
+13      2      1     17      3      G
+14     13      2      6      2      A
+15      7      3      8      5      N
+16      6      5      4      8      N
+17      5      5      3     10      N
+18      7      7      6      3      N
+XX
+BA  23 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGACTCATGCGTAGAGAT; R12656; 1; 18;; p.
+BS  TCACTGGTGCATTGTTCG; R12657; 1; 18;; p.
+BS  GTTGAATAACGTGGAGTC; R12658; 1; 18;; p.
+BS  AGCCCAGTGCGTCTGCTC; R12659; 1; 18;; p.
+BS  TCAGTTAGTCATTAGAAC; R12661; 1; 18;; p.
+BS  CTATTGAAGCGTGAAGTT; R12665; 1; 18;; p.
+BS  TGACTCAAGCATGAGAGG; R12666; 1; 18;; p.
+BS  GCAACACTGCGTAAGACG; R12667; 1; 18;; p.
+BS  ACAGTTCTGCGTGAATTC; R12668; 1; 18;; p.
+BS  ACGGTCATTCGAGTAGAA; R12670; 1; 18;; p.
+BS  ACCGTATAGATTGCTATA; R12671; 1; 18;; p.
+BS  ACTGACTCGGGTGGGCAG; R12673; 1; 18;; p.
+BS  TTCTACTCGAATGACCGT; R12674; 1; 18;; p.
+BS  AGTCCTCTTCATGAGTCA; R12675; 1; 18;; p.
+BS  TCAATCGAGAGTGATTAC; R12676; 1; 18;; p.
+BS  GACTCCATGGTTGCATTG; R12677; 1; 18;; p.
+BS  TCTGCAATGAGTGGTTTA; R12679; 1; 18;; p.
+BS  CCATGGTTGGATTACCTC; R12680; 1; 18;; p.
+BS  ACATTAATGCCCGAGTCA; R12681; 1; 18;; p.
+BS  ACTGACTCGAGTGGAATC; R12682; 1; 18;; p.
+BS  GGCCATTCCCAGGAGTCA; R12683; 1; 18;; p.
+BS  AGATTGATCCATGACATG; R12685; 1; 18;; p.
+BS  TAGATGTCGTGGGATCGA; R12687; 1; 18;; p.
+XX
+CC  compiled and aligned by BIOBASE;  sequences with a relative binding activity >= 1.0
+XX
+RN  [1]; RE0007032.
+RX  PUBMED: 8615801.
+RA  Pellizzari L., Fabbro D., Longigro R., Dilauro R., Damante G.
+RT  A network of specific minor-groove contacts is a common characteristic of paired-domain-DNA interactions
+RL  Biochem. J. 315:363-367 (1996).
+XX
+//

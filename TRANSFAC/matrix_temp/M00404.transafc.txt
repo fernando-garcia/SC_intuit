@@ -1,0 +1,55 @@
+AC  M00404
+XX
+ID  P$MADSB_Q2
+XX
+DT  19.09.2000 (created); rge.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MADS-B
+XX
+DE  floral determination
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03251; AP3:PI; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T03216; DEF:GLO; Species: garden snapdragon, Antirrhinum majus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0      1      4      T
+02      3      2      0      2      H
+03      2      5      0      0      C
+04      0      3      1      3      Y
+05      7      0      0      0      A
+06      5      0      0      2      A
+07      7      0      0      0      A
+08      6      0      0      1      A
+09      7      0      0      0      A
+10      0      0      1      6      T
+11      0      0      6      1      G
+12      1      2      4      0      G
+13      4      2      0      0      A
+14      5      0      0      1      A
+15      4      0      1      1      A
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GACCATAAATTCCAT; R08852; 1; 15;; p.
+BS  ATAGAAAAATGC; R08853; 17; 15; 29, 30, 31; p.
+BS  ACCTAAAAAGGAAAG; R08857; 8; 15;; n.
+BS  TACTAAAAATGGAAA; R08876; 53; 15;; n.
+BS  TACCAAAAATGGAAA; R08880; 31; 15;; n.
+BS  TTACATAAATGGAAA; R08907; 19; 15;; p.
+BS  TCCTAAATATGGCTA; R08931; 10; 15;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0016965.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0001 (2000).
+XX
+//

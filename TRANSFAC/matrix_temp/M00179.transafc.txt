@@ -1,0 +1,53 @@
+AC  M00179
+XX
+ID  V$CREBP1_Q2
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF2
+XX
+DE  CRE-binding protein 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T10136; ATF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10236; ATF-2; Species: Mammalia; site(s) included: no.
+BF  T10238; ATF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01382; ATF-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10203; ATF-2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02056; ATF-2-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18791; ATF-2-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10202; ATF-2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01017; ATF-2-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09335; ATF-2-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02036; ATF-2-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10213; ATF-2-xbb3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00167; ATF-2-xbb4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      2      3      0      V
+02      0      2      4      1      G
+03      0      0      0      7      T
+04      0      0      7      0      G
+05      7      0      0      0      A
+06      0      7      0      0      C
+07      0      0      7      0      G
+08      0      1      0      6      T
+09      4      3      0      0      M
+10      5      0      1      1      A
+11      1      4      2      0      C
+12      1      2      1      3      N
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+//

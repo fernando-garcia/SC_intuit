@@ -1,0 +1,62 @@
+AC  M00178
+XX
+ID  V$CREB_Q4
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CREB
+XX
+DE  cAMP-response element binding protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00916; V$CREB_Q2_01;  (family).
+HP  M00917; V$CREB_Q4_01;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T13725; CREB; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T01127; CREB; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T01307; CREB; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T01380; CREB; Species: mink, Mustela vison; site(s) included: yes.
+BF  T00989; CREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00163; CREB-A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00166; CREB-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01385; CREB1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T08562; CREB1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09920; CREB1; Species: Mammalia; site(s) included: no.
+BF  T14396; CREB1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T09440; CREB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18678; CREB1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00164; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08452; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18382; CREB1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T02361; CREBbeta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01312; CREBomega; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01311; deltaCREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00165; deltaCREB; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      6      7      5      N
+02      1      7     11      1      S
+03      0      0      0     20      T
+04      0      0     20      0      G
+05     20      0      0      0      A
+06      0     20      0      0      C
+07      1      0     19      0      G
+08      1      5      0     14      T
+09     10      8      0      2      M
+10     14      1      4      1      A
+11      2      6      6      6      N
+12      3      9      6      2      N
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+//

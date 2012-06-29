@@ -1,0 +1,56 @@
+AC  M02470
+AS  MA0351
+XX
+ID  F$DOT6_04
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DOT6
+XX
+DE  class: Helix-Turn-Helix; family: Myb
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T16943; DOT6; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    278    135    231    354      N
+02    194    250    266    289      N
+03    156    332    223    287      N
+04    131    249    268    351      N
+05    239     85    400    273      N
+06    141    480    145    232      N
+07    516     59    138    285      W
+08     79    420    392    107      S
+09     29    770    197      3      C
+10      6     52     83    858      T
+11      1    990      4      2      C
+12    972      0      1     25      A
+13      1      0     27    969      T
+14      0    968      1     28      C
+15     36      9    876     78      G
+16    223    575    177     22      C
+17    280    265    252    202      N
+18    188    298     72    441      N
+19    163    435    208    192      N
+20    153    371    183    290      N
+21    185    149    202    462      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0351.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

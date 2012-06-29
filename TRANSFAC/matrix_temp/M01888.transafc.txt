@@ -1,0 +1,105 @@
+AC  M01888
+XX
+ID  V$SMAD3_Q6_01
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Smad3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00792; V$SMAD_Q6;  (family).
+HP  M00974; V$SMAD_Q6_01;  (family).
+XX
+BF  T18575; Smad3; Species: cattle, Bos taurus; site(s) included: no.
+BF  T04248; Smad3; Species: chick, Gallus gallus; site(s) included: no.
+BF  T17939; Smad3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04251; Smad3; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T04096; Smad3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10378; Smad3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09538; Smad3; Species: Mammalia; site(s) included: yes.
+BF  T04210; Smad3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09072; Smad3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04431; Smad3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08509; Smad3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04149; Smad3; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+XX
+P0      A      C      G      T
+01     16      6     17      7      N
+02      5      7     23     11      G
+03     16     12      9     10      N
+04      2     35      5      5      C
+05     47      0      0      0      A
+06      0      0     46      1      G
+07     45      1      0      1      A
+08      3     38      6      0      C
+09     33      2      7      5      A
+10      3     17     20      7      S
+11     18     15     11      2      N
+12     11     13     12      9      N
+13      7     13     10     14      N
+XX
+BA  47 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGGAATACACATT; R09935; 14; 13;; n.
+BS  AGTCAGACACCTC; R09937; 3; 13;; p.
+BS  AGGCAGACAGACA; R09952; -6; 13;; p.
+BS  AGGCAGACAGACT; R10061; 6; 13;; n.
+BS  GTCTAGACACCCT; R10063; 9; 13;; n.
+BS  GTCTAGACACCCT; R10066; -5; 13;; n.
+BS  TGGCAGACATGGT; R10069; 18; 13;; p.
+BS  AGACAGACAAAAC; R10078; 1; 13;; p.
+BS  AGACAGACAAAAC; R10079; 4; 13;; p.
+BS  TGACAGACATGAC; R13040; 7; 13;; n.
+BS  ACTCAGACTTCAG; R13041; 1; 13;; n.
+BS  AGACAGACAGCTA; R14158; 9; 13;; p.
+BS  gcccAGACaccnn; R19731; 14; 13;; p.
+BS  gtccAGACtgagg; R23096; 52; 13;; p.
+BS  AGACAGACACAGG; R23125; 14; 13;; p.
+BS  GGGCAGAGTGACA; R23189; 8; 13;; p.
+BS  GTCTAGACACCCT; R23469; 2; 13;; n.
+BS  GGCCAGAGACGTC; R23546; 10; 13;; p.
+BS  CCCCAGACCCACC; R23966; 9; 13;; p.
+BS  GGAGAGAGGGCGG; R24001; 16; 13;; n.
+BS  ATACAGAAAGAAC; R24111; 3; 13;; p.
+BS  ATACAGACTTCAT; R24152; -1; 13;; p.
+BS  CCCCAGACACCAC; R24154; 2; 13;; p.
+BS  GGTCAGACAGGCT; R24272; 24; 13;; n.
+BS  GCACAGACGCCCA; R25199; 6; 13;; p.
+BS  gatcAGCAAgctn; R25469; 2; 13;; p.
+BS  CCAGAGACAGATT; R26158; 8; 13;; n.
+BS  AGATAGACAGGGT; R26160; -1; 13;; n.
+BS  AGGCAGACAGGCA; R26161; 6; 13;; n.
+BS  TTACAGAGGAAGG; R26661; 33; 13;; p.
+BS  GGTGAGTCATCAC; R26795; 4; 13;; n.
+BS  AGGTAGACACAAG; R26800; 1; 13;; p.
+BS  GTCAAGACACAGT; R27486; 19; 13;; p.
+BS  GGCCAGACATGAC; R29095; 23; 13;; p.
+BS  CAGCAGACACGGC; R29096; 14; 13;; n.
+BS  CTACAGACAGGGT; R29097; 3; 13;; n.
+BS  GTACAGAATGTTT; R29586; 14; 13;; p.
+BS  TCTCAGAGGCTTG; R29688; 2; 13;; p.
+BS  GGCCAGACATGAC; R30498; 20; 13;; p.
+BS  AGTCAGACCCACT; R30958; 8; 13;; p.
+BS  TTTCAGACGGAGG; R31183; 8; 13;; p.
+BS  TGTCAGACGGCGG; R31501; 4; 13;; p.
+BS  aGCCAGACAcnnn; R31669; 30; 13;; p.
+BS  CAACAGACAGCTG; R32453; 4; 13;; p.
+BS  aaacAGACAGACA; R33292; 9; 13;; p.
+BS  GATGAGACAGACC; R33570; 6; 13;; n.
+BS  nnGGAGAGGGGGA; R33953; 13; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00701; V$SMAD3_Q6.
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

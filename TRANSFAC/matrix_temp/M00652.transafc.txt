@@ -1,0 +1,56 @@
+AC  M00652
+XX
+ID  V$NRF1_Q6
+XX
+DT  08.03.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NRF-1
+XX
+DE  nuclear respiratory factor 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00673; NRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10331; NRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13795; NRF-1; Species: Mammalia; site(s) included: no.
+BF  T01197; NRF-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T05126; NRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10598; NRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16625; NRF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16663; NRF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      7      0      0      C
+02      1      0      6      0      G
+03      0      7      0      0      C
+04      4      0      2      1      A
+05      0      0      0      7      T
+06      0      0      7      0      G
+07      0      7      0      0      C
+08      0      0      7      0      G
+09      0      7      0      0      C
+10      4      0      3      0      R
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CACATGCGCA; R01485; 4; 10;; p.
+BS  CGCATGCGCG; R02659; 3; 10;; p.
+BS  CGCATGCGCA; R02669; 5; 10;; n.
+BS  CGCTTGCGCA; R02670; 7; 10;; n.
+BS  CGCGTGCGCA; R02671; 1; 10;; n.
+BS  CGCGTGCGCG; R09525; 4; 10;; n.
+BS  CGCATGCGCG; R09526; 8; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

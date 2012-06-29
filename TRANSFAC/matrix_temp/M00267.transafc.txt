@@ -1,0 +1,53 @@
+AC  M00267
+XX
+ID  V$XFD1_01
+XX
+DT  24.11.1997 (created); ewi.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  XFD-1
+XX
+DE  Xenopus fork head domain factor 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01051; FOXA4a; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      3      0      2      Y
+02      4      0      1      1      A
+03      2      1      0      3      W
+04      2      0      4      0      G
+05      0      0      0      6      T
+06      6      0      0      0      A
+07      6      0      0      0      A
+08      6      0      0      0      A
+09      0      2      0      4      T
+10      6      0      0      0      A
+11      3      1      0      2      W
+12      2      0      1      3      W
+13      2      0      3      1      R
+14      0      3      1      2      Y
+XX
+BA  6 sequences (compiled matrix imported from literature reference)
+XX
+BS  TTTGTAAATATAGC; R07866; 1; 14;; p.
+BS  CATGTAAACAATAC; R07867; 1; 14;; p.
+BS  CATATAAACAAGGT; R07868; 1; 14;; p.
+BS  AACGTAAATACAGC; R07869; 1; 14;; p.
+BS  TGAGTAAATATTTG; R07870; 1; 14;; p.
+BS  CAAATAAATAATAT; R07871; 1; 14;; p.
+XX
+CC  selected by affinity chromatography with bacterially expressed beta-gal-XFD-1 fusion protein
+XX
+RN  [1]; RE0006387.
+RX  PUBMED: 7739038.
+RA  Kaufmann E., Mueller D., Knoechel W.
+RT  DNA recognition site analysis of Xenopus winged helix proteins
+RL  J. Mol. Biol. 248:239-254 (1995).
+XX
+//

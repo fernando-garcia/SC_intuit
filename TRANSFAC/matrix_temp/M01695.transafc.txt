@@ -1,0 +1,66 @@
+AC  M01695
+XX
+ID  V$REX1_01
+XX
+DT  18.03.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  REX1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00727; REX-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11384; REX-1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0     22      2      G
+02      0     20      0      4      C
+03     24      0      0      0      A
+04      0      0     24      0      G
+05      0     24      0      0      C
+06      0     24      0      0      C
+07     24      0      0      0      A
+08      0      0      0     24      T
+09      0      0      0     24      T
+10     19      0      3      2      A
+XX
+BA  24 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCAGCCATTA; R30771; 1; 10;; p.
+BS  GCAGCCATTA; R30772; 1; 10;; p.
+BS  GCAGCCATTA; R30773; 1; 10;; p.
+BS  GCAGCCATTA; R30774; 1; 10;; p.
+BS  GCAGCCATTA; R30775; 1; 10;; p.
+BS  GCAGCCATTA; R30776; 1; 10;; p.
+BS  GCAGCCATTA; R30777; 1; 10;; p.
+BS  GCAGCCATTA; R30778; 1; 10;; p.
+BS  GCAGCCATTA; R30779; 1; 10;; p.
+BS  GCAGCCATTA; R30780; 1; 10;; p.
+BS  GCAGCCATTA; R30781; 1; 10;; p.
+BS  GCAGCCATTA; R30782; 1; 10;; p.
+BS  GCAGCCATTA; R30783; 1; 10;; p.
+BS  GCAGCCATTA; R30784; 3; 10;; p.
+BS  GCAGCCATTG; R30785; 1; 10;; p.
+BS  GCAGCCATTG; R30786; 1; 10;; p.
+BS  GCAGCCATTG; R30787; 1; 10;; p.
+BS  GCAGCCATTT; R30788; 3; 10;; p.
+BS  GTAGCCATTA; R30789; 1; 10;; p.
+BS  GTAGCCATTA; R30790; 1; 10;; p.
+BS  GTAGCCATTA; R30791; 1; 10;; p.
+BS  GTAGCCATTT; R30792; 3; 10;; p.
+BS  TCAGCCATTA; R30793; 1; 10;; p.
+BS  TCAGCCATTA; R30794; 1; 10;; p.
+XX
+CC  sequences selected with recombinant REX-1 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0053050.
+RX  PUBMED: 17478514.
+RA  Kim J. D., Faulk C., Kim J.
+RT  Retroposition and evolution of the DNA-binding motifs of YY1, YY2 and REX1.
+RL  Nucleic Acids Res. 35:3442-3452 (2007).
+XX
+//

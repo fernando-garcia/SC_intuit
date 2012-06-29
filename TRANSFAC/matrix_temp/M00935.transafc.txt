@@ -1,0 +1,101 @@
+AC  M00935
+XX
+ID  V$NFAT_Q4_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-AT
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01281; V$NFAT1_Q6;  (specific).
+HC  M01718; V$NFAT2_Q5;  (specific).
+HC  M01734; V$NFAT3_Q3;  (specific).
+HC  M01748; V$NFAT2_01;  (specific).
+HC  M01886; V$NFAT4_Q3;  (specific).
+HC  M02265; V$NFATC2_01; class: Ig-fold; family: Rel (specific).
+XX
+BF  T00550; NF-AT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01948; NF-AT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11024; NF-AT1; Species: Mammalia; site(s) included: no.
+BF  T01944; NF-AT1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05171; NF-AT1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19122; NF-AT1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09194; NF-AT1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01945; NF-AT2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11025; NF-AT2; Species: Mammalia; site(s) included: no.
+BF  T01947; NF-AT2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09906; NF-AT2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02462; NF-AT3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11026; NF-AT3; Species: Mammalia; site(s) included: no.
+BF  T05523; NF-AT3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16712; NF-AT3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01946; NF-AT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09986; NF-AT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11027; NF-AT4; Species: Mammalia; site(s) included: no.
+BF  T01949; NF-AT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10411; NF-AT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15616; NFAT1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19124; NFAT1-isoformB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19123; NFAT1-isoformC; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15617; NFAT1-isoformD; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      7     12      6      N
+02      9      5      1     16      W
+03      0      0     31      0      G
+04      1      0     30      0      G
+05     31      0      0      0      A
+06     29      0      2      0      A
+07     27      2      0      2      A
+08     12      8      4      7      N
+09      9      4      2     16      W
+10      3     11      5     12      N
+XX
+BA  31 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAGGAAAAAC; R00931; 2; 10;; p.
+BS  GAGGAAAATT; R02348; -2; 10;; p.
+BS  GAGGAAAAAC; R02349; -2; 10;; p.
+BS  GAGGAAATGA; R05034; 12; 10;; n.
+BS  CTGGAATTTC; R05049; 4; 10;; n.
+BS  TTGAAAATAT; R05051; -1; 10;; p.
+BS  CTGGAAAAAT; R05053; 3; 10;; n.
+BS  GTGGAAAAAG; R05054; 16; 10;; n.
+BS  ATGGAAAATG; R05055; 10; 10;; p.
+BS  CTGGAAAACT; R05072; 16; 10;; n.
+BS  TTGGAAAATT; R05080; -1; 10;; n.
+BS  TCGGAGCCCC; R05082; 6; 10;; p.
+BS  ATGGAAAGAT; R05090; 12; 10;; n.
+BS  GAGGAAAGCA; R05092; 16; 10;; n.
+BS  TAGGAAACAG; R05094; 19; 10;; n.
+BS  GAGGAAATGA; R05096; 12; 10;; n.
+BS  CTGGAAACCC; R05097; 4; 10;; p.
+BS  TTGGAAATTT; R08170; 10; 10;; n.
+BS  CTGGAAATTT; R08184; 9; 10;; n.
+BS  AAGGAAAAAG; R13243; -1; 10;; p.
+BS  ATGGAACATT; R13414; 2; 10;; n.
+BS  CCGGAAACTT; R13436; 20; 10;; n.
+BS  TTGGAAATTC; R13475; 4; 10;; p.
+BS  GTGGAGAAAC; C00144,  s00224; 3; 10;; n.
+BS  AGGGAAAATG; C00162,  s00258; -1; 10;; n.
+BS  CTGGAAAGTC; C00350,  s00610; -3; 10;; n.
+BS  GCGGAAAGTC; C00351,  s00611; -3; 10;; n.
+BS  GTGGAATCTC; C00352,  s00612; -4; 10;; n.
+BS  AAGGAAACTC; C00354,  s00614; -1; 10;; p.
+BS  GCGGAAACTT; C00355,  s00617; -2; 10;; p.
+BS  GCGGAAACTT; C00356,  s00619; -2; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better;  including 8 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,65 @@
+AC  M00224
+XX
+ID  V$STAT1_01
+XX
+DT  30.11.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT1
+XX
+DE  signal transducer and activator of transcription 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T11028; STAT1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T04759; STAT1; Species: human, Homo sapiens; site(s) included: no.
+BF  T05696; STAT1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T08951; STAT1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05665; STAT1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01492; STAT1alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01575; STAT1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08549; STAT1alpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01573; STAT1beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11029; STAT1beta; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      8     18   41.9   32.1      N
+02   23.2    9.7   37.2   29.8      N
+03   13.9   31.3   19.8   35.2      N
+04   17.5   37.9   38.1    6.4      S
+05   59.6   13.5   15.1   11.9      A
+06   31.2   26.3    9.4   33.2      N
+07      0      0      0    100      T
+08      0      0      0    100      T
+09    3.9   90.9      2    3.2      C
+10      0    100      0      0      C
+11      0   32.5   67.5      0      G
+12      0      0    100      0      G
+13    3.8      0   94.9    1.2      G
+14    100      0      0      0      A
+15    100      0      0      0      A
+16   36.3    8.8   29.5   25.5      N
+17   11.1   11.1   11.1   66.7      T
+18   19.8   10.5   69.6      0      G
+19   24.8   12.7   46.6   15.9      N
+20   12.5   36.7   49.2    1.5      S
+21   31.8   12.6   39.7     16      N
+XX
+BA  55 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant STAT1 from a pool of double-stranded oligonucleotides containing a core of 76 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0003481.
+RX  PUBMED: 7774815.
+RA  Horvath C. M., Wen Z., Darnell jr J. E.
+RT  A STAT protein domain that determines DNA sequence recognition suggests a novel DNA-binding domain
+RL  Genes Dev. 9:984-994 (1995).
+XX
+//

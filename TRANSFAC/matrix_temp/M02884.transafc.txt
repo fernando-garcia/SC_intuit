@@ -1,0 +1,60 @@
+AC  M02884
+AS  PB0150
+XX
+ID  V$MYBL1_04
+XX
+DT  15.11.2011 (created); jaspar.
+DT  16.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Mybl1
+XX
+DE  class: Helix-Turn-Helix; family: Myb
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T22728; Mybl1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     21     27     26     26      N
+02     15     33     34     18      N
+03     44     21     18     17      N
+04      6     77      5     13      C
+05      6     77      1     16      C
+06     98      1      0      1      A
+07     98      2      0      0      A
+08      1     98      1      1      C
+09      3     14      5     79      T
+10      1      1     98      1      G
+11     19     57      4     21      C
+12     11     81      2      7      C
+13     24     10     56     10      G
+14     28     21     10     40      N
+15     15     19     41     25      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0150.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

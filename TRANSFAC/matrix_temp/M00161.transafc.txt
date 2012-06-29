@@ -1,0 +1,74 @@
+AC  M00161
+XX
+ID  V$OCT1_05
+XX
+DT  08.06.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Oct-1
+XX
+DE  octamer-binding factor 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00210; V$OCT_C; Octamer binding site (family).
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T01031; POU2F1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01466; POU2F1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T00642; POU2F1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01157; POU2F1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T10501; POU2F1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T00545; POU2F1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08628; POU2F1; Species: Mammalia; site(s) included: no.
+BF  T00959; POU2F1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01192; POU2F1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00643; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09214; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19702; POU2F1-isoform1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00641; POU2F1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19701; POU2F1-isoform2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T18695; POU2F1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00644; POU2F1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01862; POU2F1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01863; POU2F1c; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      3      1      0      M
+02      0      0      3      4      K
+03      3      2      2      0      V
+04      6      1      0      0      A
+05      0      0      0      7      T
+06      0      0      0      7      T
+07      2      0      0      5      T
+08      0      1      5      1      G
+09      0      7      0      0      C
+10      7      0      0      0      A
+11      0      0      0      7      T
+12      5      0      1      1      A
+13      1      2      0      4      T
+14      0      2      1      4      T
+XX
+BA  7 sequences (compiled matrix imported from literature reference)
+XX
+BS  CTCATTATCATATT; R07504; 1; 14;; p.
+BS  CTCATTTGCATAAG; R07505; 1; 14;; p.
+BS  CGAATTTGCATGCC; R07506; 1; 14;; p.
+BS  GTAATTTGCATTTC; R07507; 1; 14;; p.
+BS  AGGATTTGCATATT; R07508; 1; 14;; p.
+BS  ATGCTTTGCATACT; R07509; 1; 14;; p.
+BS  AGAATTACCATATT; R07510; 1; 14;; p.
+XX
+CC  binding sites from 6 genes
+XX
+RN  [1]; RE0003127.
+RX  PUBMED: 1508722.
+RA  Groenen M. A. M., Dijkhof R. J. M., van der Poel J. J., van Diggelen R., Verstege E.
+RT  Multiple octamer binding sites in the promoter region of the bovine alphas2-casein gene
+RL  Nucleic Acids Res. 20:4311-4318 (1992).
+XX
+//

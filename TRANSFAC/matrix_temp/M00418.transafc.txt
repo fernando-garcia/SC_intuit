@@ -1,0 +1,50 @@
+AC  M00418
+XX
+ID  V$TGIF_01
+XX
+DT  08.12.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TGIF
+XX
+DE  TGIF (5'TG3' interacting factor)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04076; TGIF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16578; TGIF; Species: Mammalia; site(s) included: no.
+BF  T16577; TGIF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18725; TGIF-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09156; TGIF-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04077; TGIF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10218; TGIF1-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17016; TGIF1-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      0      0      1      A
+02      1      2      6      0      G
+03      0      7      1      2      C
+04      0      0      0     15      T
+05      0      0     15      0      G
+06      0      0      0     15      T
+07      0     15      0      0      C
+08     14      0      0      1      A
+09      3      3      4      3      N
+10      4      1      3      4      N
+11      7      0      2      3      A
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant TGIF from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0015444.
+RX  PUBMED: 8537382.
+RA  Bertolino E., Reimund B., Wildt-Perinic D., Clerc R. G.
+RT  A novel homeobox protein which recognizes a TGT core and functionally interferes with a retinoid-responsive motif
+RL  J. Biol. Chem. 270:31178-31188 (1995).
+XX
+//

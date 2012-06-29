@@ -1,0 +1,69 @@
+AC  M00744
+XX
+ID  V$POU1F1_Q6
+XX
+DT  03.09.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  POU1F1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15788; Pit-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15790; Pit-1; Species: goldfish, Carassius auratus; site(s) included: yes.
+BF  T14793; Pit-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10042; Pit-1; Species: Mammalia; site(s) included: no.
+BF  T01172; Pit-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00707; Pit-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01902; Pit-1-xbb3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17004; Pit-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00691; Pit-1A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00325; Pit-1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09174; Pit-1B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01516; Pit-1B; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15787; Pit-1beta; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15789; POU1F1; Species: chick, Gallus gallus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     13      0      2      2      A
+02      0      0      0     17      T
+03      0      0     17      0      G
+04      9      3      2      3      A
+05     14      0      0      3      A
+06      0      0      0     17      T
+07     13      0      1      3      A
+08     12      0      0      5      A
+09      9      0      2      6      W
+10      5      2      0     10      T
+XX
+BA  17 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATGGATAATT; R00611; 11; 10;; n.
+BS  ATGCATAAAT; R00612; 7; 10;; p.
+BS  ATGAATAAAT; R00623; 1; 10;; p.
+BS  ATGAATGAAT; R01263; 1; 10;; p.
+BS  GTGAATAATA; R01264; 1; 10;; n.
+BS  ATGTTTTAGA; R01265; 10; 10;; n.
+BS  ATGCATTTTT; R01266; 5; 10;; p.
+BS  TTGATTAATT; R01270; 1; 10;; n.
+BS  ATGTTTAAAA; R01276; -5; 10;; p.
+BS  ATGAATATAT; R01279; 10; 10;; n.
+BS  ATGAATATAT; R01280; 1; 10;; n.
+BS  ATGAATAAGA; R02787; 1; 10;; p.
+BS  ATGAATTTTC; R03100; 1; 10;; p.
+BS  TTGTATAAAC; R03101; 7; 10;; p.
+BS  GTGGATAATT; R03190; 20; 10;; n.
+BS  ATGCATAAAT; R03191; 1; 10;; p.
+BS  ATGAATATAA; R03483; 11; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

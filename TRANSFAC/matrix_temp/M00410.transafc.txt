@@ -1,0 +1,132 @@
+AC  M00410
+XX
+ID  V$SOX9_B1
+XX
+DT  25.09.2000 (created); akl.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX9
+XX
+DE  SOX (SRY-related HMG box)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T16044; SOX9; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16045; SOX9; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01853; Sox9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08624; Sox9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10914; Sox9; Species: Mammalia; site(s) included: no.
+BF  T01854; Sox9; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09454; Sox9; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05485; Sox9; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08440; Sox9; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     21     18     11     23      N
+02     20     17     19     17      N
+03     33     11     12     17      N
+04     20      5     33     15      N
+05     53      6      6      8      A
+06     57      3      2     11      A
+07      0     73      0      0      C
+08     73      0      0      0      A
+09     73      0      0      0      A
+10      5      0      0     68      T
+11     22      3     42      6      R
+12     13      8     48      4      G
+13     22     10     29     12      N
+14     23     14     16     20      N
+XX
+BA  73 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGCGAACAATGGGG; R09293; 10; 14;; p.
+BS  CAAAAACAATGCGT; R09294; 13; 14;; p.
+BS  CCAGAACAATACCC; R09295; 21; 14;; p.
+BS  ACCTATCAATGGGC; R09296; 14; 14;; p.
+BS  CGCGAACAATGGGC; R09297; 10; 14;; p.
+BS  AAGTAACAATCGGT; R09298; 16; 14;; p.
+BS  TCGCGTCAATATGA; R09299; 9; 14;; p.
+BS  CGAGAACAATGGCC; R09300; 10; 14;; p.
+BS  ACATCACAATGGTC; R09301; 14; 14;; p.
+BS  CATCTGCAATAACC; R09302; 16; 14;; p.
+BS  CAAAAACAATAGAC; R09303; 19; 14;; p.
+BS  CGTGAACAATGCTA; R09304; 10; 14;; p.
+BS  CCACAACAATGGGA; R09305; 12; 14;; p.
+BS  CAAGAACAATGCGT; R09306; 13; 14;; p.
+BS  CAAAAACAATAGAT; R09307; 19; 14;; p.
+BS  TAACCCCAATCCAT; R09308; 15; 14;; p.
+BS  CGAAGCCAATTCTA; R09309; 10; 14;; p.
+BS  TAGTCCCAATGTCC; R09310; 14; 14;; p.
+BS  ACCTATCAATGGGC; R09311; 14; 14;; p.
+BS  GTCGATCAATTAGT; R09312; 8; 14;; p.
+BS  GTAAAACAATGGCA; R09313; 18; 14;; p.
+BS  TAAGAACAATAGGG; R09314; 21; 14;; p.
+BS  TCGGAACAATGGCG; R09315; 9; 14;; p.
+BS  GGAGAACAATGGGT; R09316; 11; 14;; p.
+BS  CGTAAACAATAGTT; R09317; 10; 14;; p.
+BS  CGAGAACAATGGGG; R09318; 15; 14;; p.
+BS  CTAGAACAATGAAC; R09319; 18; 14;; p.
+BS  ATCAAACAATAGAC; R09320; 13; 14;; p.
+BS  ACAGAACAATGGAG; R09321; 15; 14;; p.
+BS  GGAGAACAATGGGT; R09322; 13; 14;; p.
+BS  AGAATACAATAGGA; R09323; 12; 14;; p.
+BS  TCGGTACAATAGCC; R09324; 13; 14;; p.
+BS  GTAAAACAATAGAA; R09325; 14; 14;; p.
+BS  ACGGCACAATGAGG; R09326; 13; 14;; p.
+BS  ATAGAACAATGGAG; R09327; 23; 14;; p.
+BS  GAAGAACAATAGGT; R09328; 11; 14;; p.
+BS  TGAGAACAATAGAA; R09329; 22; 14;; p.
+BS  AAAGCACAATGGGG; R09330; 21; 14;; p.
+BS  AGAGAACAATGGTA; R09331; 19; 14;; p.
+BS  TTTAAACAATGGAA; R09332; 19; 14;; p.
+BS  TGAGAACAATAGAT; R09333; 22; 14;; p.
+BS  TCGAAACAATAGGA; R09334; 9; 14;; p.
+BS  AAAAAACAATAGGG; R09335; 13; 14;; p.
+BS  TATGAACAATGGGT; R09336; 12; 14;; p.
+BS  TATGAACAATGGGT; R09337; 13; 14;; p.
+BS  GGAGAACAATAGAT; R09338; 16; 14;; p.
+BS  AAAGAACAATGACA; R09339; 15; 14;; p.
+BS  ATTAAACAATGACA; R09340; 21; 14;; p.
+BS  GAAGAACAATGGAT; R09341; 20; 14;; p.
+BS  CGTTAACAATGAAT; R09342; 10; 14;; p.
+BS  TTGCAACAATAGAA; R09343; 12; 14;; p.
+BS  ATTAGACAATGAAG; R09344; 18; 14;; p.
+BS  AGGAAACAATAGAA; R09345; 15; 14;; p.
+BS  GCAGAACAATGGGA; R09346; 27; 14;; p.
+BS  ACAATACAATGGTA; R09347; 17; 14;; p.
+BS  AGAGAACAATGCAA; R09348; 23; 14;; p.
+BS  AATAAACAATGGAC; R09349; 21; 14;; p.
+BS  TGTAAACAATAGGA; R09350; 21; 14;; p.
+BS  GTCGTGCAATGTGA; R09351; 8; 14;; p.
+BS  ATCTGTCAATTGTA; R09352; 19; 14;; p.
+BS  ATCTGTCAATGTTG; R09353; 25; 14;; p.
+BS  TCTTGTCAATCGAA; R09354; 24; 14;; p.
+BS  CATGTTCAATTGTT; R09355; 21; 14;; p.
+BS  TGTTAACAATGAGG; R09356; 28; 14;; p.
+BS  TCTTTTCAATACTC; R09357; 22; 14;; p.
+BS  TTGTAACAATAATT; R09358; 24; 14;; p.
+BS  TTGTTTCAATTGAG; R09359; 27; 14;; p.
+BS  TCGTCACAATTGTT; R09360; 9; 14;; p.
+BS  TCTAAACAAAGGCT; R09361; 15; 14;; p.
+BS  TTAAAACAAAGAGG; R09362; 21; 14;; p.
+BS  TTCGAACAAAGGAA; R09363; 14; 14;; p.
+BS  GACTAACAAAGAGG; R09364; 22; 14;; p.
+BS  CATGATCAAAGAGG; R09365; 28; 14;; p.
+XX
+CC  sequences selected with recombinant SOX9 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 7 rounds of selection and amplification
+XX
+DR  JASPAR: MA0077.
+XX
+RN  [1]; RE0014522.
+RX  PUBMED: 9973626.
+RA  Mertin S., McDowall S. G., Harley V. R.
+RT  The DNA-binding specificity of SOX9 and other SOX proteins
+RL  Nucleic Acids Res. 27:1359-1364 (1999).
+XX
+//

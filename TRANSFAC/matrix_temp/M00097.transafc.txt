@@ -1,0 +1,124 @@
+AC  M00097
+XX
+ID  V$PAX6_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-6
+XX
+DE  Pax-6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+HP  M00979; V$PAX6_Q2;  (family).
+XX
+BF  T03019; pax6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17743; pax6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04416; pax6; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T14852; Pax6; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T09155; pax6; Species: human, Homo sapiens; site(s) included: no.
+BF  T13888; pax6; Species: Mammalia; site(s) included: no.
+BF  T00681; pax6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09257; pax6; Species: quail, Coturnix coturnix; site(s) included: no.
+BF  T10199; pax6; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T10200; pax6; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T03008; pax6; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00682; pax6; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T09220; pax6; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T01122; pax6-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09150; pax6-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10031; pax6-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10033; pax6-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01814; pax6-isoform5a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09981; pax6-isoform5a; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15      7      6     10      N
+02     21      9      3     10      N
+03     10      9     10     18      N
+04      8     14      9     16      N
+05      3      2      4     38      T
+06      2      0      1     44      T
+07      3     29      1     14      C
+08     40      5      1      1      A
+09      3     39      0      5      C
+10      1      0     44      2      G
+11      1     36      7      2      C
+12     23      2      1     21      W
+13      1      4      0     42      T
+14      2     13     26      3      G
+15     40      1      6      0      A
+16     14     11     15      7      N
+17      2      4      3     37      T
+18      1      0     20     25      K
+19     13     17      9      4      N
+20     14      8      4      6      N
+21      4     12      3      9      N
+XX
+BA  47 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AAGTCAACCGTAAGAATTAAA; R06412; 5; 21;; p.
+BS  AAGTGTTTCGCACCGTTTCAC; R06413; 4; 21;; p.
+BS  TAGATTCACGGTCGGCTTGG; R06414; 6; 21;; p.
+BS  TAAATTCACGCGTTGACTGA; R06415; 6; 21;; p.
+BS  TCAATGCACTTTCTCGATGGC; R06416; 4; 21;; p.
+BS   AATGTTACGCTTCACTTAAC; R06417; -1; 21;; p.
+BS   AATGTTACGCTTCACTTAAC; R06418; -1; 21;; p.
+BS   ATTTTTCCGCTTCAATTCAT; R06419; -1; 21;; p.
+BS    TATTTCCGGTTNAATGAAT; R06420; -2; 21;; p.
+BS    TATTTCCGGTTNAATGAAT; R06421; -2; 21;; p.
+BS    TATTTCCGGTTNAATGAAT; R06422; -2; 21;; p.
+BS  ACTCTTTACGCTTGAACGATT; R06423; 3; 21;; p.
+BS    GCCTTACGGTTCACTGAGC; R06424; -2; 21;; p.
+BS   CTGTTCACGCATGACTGGTT; R06425; -1; 21;; p.
+BS   CAGTTGAAGCATGAAGGTTT; R06426; -1; 21;; p.
+BS  GGTCTTCAAGNATAAATTTTA; R06427; 2; 21;; p.
+BS  TTCGTTCAAGCATAAATTTTA; R06428; 2; 21;; p.
+BS  CCTGAACGTAAATTAATTTCA; R06429; 3; 21;; p.
+BS  AACCTTCATGCTTCAACTG; R06430; 7; 21;; p.
+BS  AACCTTCATGGTTCAACTG; R06431; 7; 21;; p.
+BS  TCTTGTTACGCCTCATTTG; R06432; 7; 21;; p.
+BS  TTAATTTACGCTTCAGGT; R06433; 8; 21;; p.
+BS  CAGTTTCACGCATGAGTGC; R06434; 7; 21;; p.
+BS  CAGTTTCACGCATGAGTGC; R06435; 7; 21;; p.
+BS  CAGTTTCACGCATGAGTGC; R06436; 7; 21;; p.
+BS  CAGTTTCACGCATGAGTGC; R06437; 7; 21;; p.
+BS  CAATTTCACGCATGAGTGC; R06438; 7; 21;; p.
+BS  CAATTTCACGCATGAG; R06439; 10; 21;; p.
+BS  GAATTTTACGCATGATTGA; R06440; 7; 21;; p.
+BS  TTCGATCACGCATGGTTTCA; R06441; 6; 21;; p.
+BS  TTCGATCACGCATGGTTTCA; R06442; 6; 21;; p.
+BS  GCCGTTCACGCTTGACATCAG; R06443; 5; 21;; p.
+BS  ATTCTTCACGCATGAGTTCCC; R06444; 5; 21;; p.
+BS  ATTCTTCACGCATGAGTTCCC; R06445; 5; 21;; p.
+BS  ATTCTTCACGCATGAGTTCCC; R06446; 5; 21;; p.
+BS  ATTCTTCACGCATGAGTTCCC; R06447; 5; 21;; p.
+BS  AAGTTTCACGCATGAGTAACC; R06448; 1; 21;; p.
+BS  GCTCTTTACGCATGGTTTCAC; R06449; 4; 21;; p.
+BS  GGCTTTCATGCATGACTTCAC; R06450; 5; 21;; p.
+BS  AATGTTCACGCTCGAGGG; R06451; 8; 21;; p.
+BS  AGTATTCACGGTTCAGTGA; R06452; 7; 21;; p.
+BS  AATGTTCACGCTTCATTTGTT; R06453; 4; 21;; p.
+BS  AAATTTCACGCCTGACTGGGT; R06454; 5; 21;; p.
+BS  TTCCTTAACGCTTCACTGACG; R06455; 5; 21;; p.
+BS  TTCCTTAACGCTTCACTGACG; R06456; 5; 21;; p.
+BS  ACGCTTTATGCTTGACTGC; R06457; 7; 21;; p.
+BS  GATCTTCACTCTTGAATG; R06458; 8; 21;; p.
+XX
+CC  sequences selected with recombinant Pax-6 from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; 10 rounds of selection and amplification
+XX
+DR  JASPAR: MA0069.
+XX
+RN  [1]; RE0002969.
+RX  PUBMED: 8132558.
+RA  Epstein J., Cai J., Glaser T., Jepeal L., Maas R.
+RT  Identification of a Pax paired domain recognition sequence and evidence for DNA-dependent conformational changes
+RL  J. Biol. Chem. 269:8355-8361 (1994).
+XX
+//

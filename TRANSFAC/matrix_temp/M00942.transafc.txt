@@ -1,0 +1,41 @@
+AC  M00942
+XX
+ID  P$CPRF1_01
+XX
+DT  05.09.2003 (created); ela.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CPRF-1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01091; CPRF-1; Species: parsley, Petroselinum crispum (P. hortense); site(s) included: yes.
+BF  T09450; CPRF-1; Species: parsley, Petroselinum crispum (P. hortense); site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      2      2      K
+02      2      2      0      0      M
+03      0      5      0      0      C
+04      5      0      0      0      A
+05      0      5      0      0      C
+06      0      0      5      0      G
+07      0      0      0      5      T
+08      0      0      5      0      G
+09      0      0      2      2      K
+10      2      2      0      0      M
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GACACGTGTC; R08682; 1; 10;; p.
+BS  TCCACGTGGA; R08683; 1; 10;; p.
+BS  TACACGTGTA; R08684; 1; 10;; p.
+BS  GCCACGTGGC; R08691; 1; 10;; p.
+BS  NNCACGTGNN; R08696; 1; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; includes artificial sites
+XX
+//

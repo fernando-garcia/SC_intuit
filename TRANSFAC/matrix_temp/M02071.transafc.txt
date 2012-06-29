@@ -1,0 +1,43 @@
+AC  M02071
+XX
+ID  V$ETV7_01
+XX
+DT  10.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ETV7
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T11152; ETV7; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     28     46     13     12      N
+02      7     65     22      6      C
+03     26     60     13      1      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06    100      0      0      0      A
+07     85      5      0     10      A
+08     39     16     33     11      N
+09     27     33     13     28      N
+10     35     11     37     16      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

@@ -1,0 +1,159 @@
+AC  M00777
+XX
+ID  V$STAT_Q6
+XX
+DT  30.11.2002 (created); dtc.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00224; V$STAT1_01; signal transducer and activator of transcription 1 (specific).
+HC  M00225; V$STAT3_01; signal transducer and activator of transcription 3 (specific).
+HC  M00457; V$STAT5A_01; signal transducer and activator of transcription 5a (specific).
+HC  M00459; V$STAT5B_01; signal transducer and activator of transcription 5b (specific).
+HC  M00460; V$STAT5A_02;  (specific).
+HC  M00492; V$STAT1_02; signal transducer and activator of transcription 1 (specific).
+HC  M00493; V$STAT5A_03; signal transducer and activator of transcription 5a (specific).
+HC  M00494; V$STAT6_01; signal transducer and activator of transcription 6 (specific).
+HC  M00496; V$STAT1_03; signal transducer and activator of transcription 1 (specific).
+HC  M00497; V$STAT3_02; signal transducer and activator of transcription 3; half-sites (specific).
+HC  M00498; V$STAT4_01; signal transducer and activator of transcription 4; half-sites (specific).
+HC  M00499; V$STAT5A_04; signal transducer and activator of transcription 5a; half-sites (specific).
+HC  M00500; V$STAT6_02; signal transducer and activator of transcription 6; half-sites (specific).
+HC  M01260; V$STAT1_05;  (specific).
+HC  M01595; V$STAT3_03; signal transducer and activator of transcription 3 (specific).
+HC  M01666; V$STAT4_Q4;  (specific).
+HC  M01823; V$STAT1_Q6;  (specific).
+HC  M01890; V$STAT5A_Q6;  (specific).
+HC  M02117; V$STAT4_Q5;  (specific).
+XX
+BF  T11028; STAT1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04759; STAT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05696; STAT1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T08951; STAT1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05665; STAT1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01492; STAT1alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01575; STAT1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08549; STAT1alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01573; STAT1beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11029; STAT1beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01494; STAT2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16670; STAT2; Species: Mammalia; site(s) included: no.
+BF  T11001; STAT2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16669; STAT2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11031; STAT3; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T15979; STAT3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T01493; STAT3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17273; STAT3; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: yes.
+BF  T14458; STAT3; Species: Mammalia; site(s) included: no.
+BF  T05697; STAT3; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01574; STAT3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17244; STAT3; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T06605; STAT3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08479; STAT3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08580; STAT3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08657; STAT3-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11030; STAT3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08658; STAT3-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17886; STAT3-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19278; STAT3-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01577; STAT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10339; STAT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16672; STAT4; Species: Mammalia; site(s) included: no.
+BF  T01576; STAT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10342; STAT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16671; STAT4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14304; STAT5A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T14305; STAT5A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04683; STAT5A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09199; STAT5A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06240; STAT5A; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: yes.
+BF  T16819; STAT5A; Species: Mammalia; site(s) included: no.
+BF  T01579; STAT5A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09200; STAT5A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06128; STAT5A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01578; STAT5A; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T09466; STAT5A; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T19274; Stat5A1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19273; Stat5A2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14346; STAT5B; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T14347; STAT5B; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04684; STAT5B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09314; STAT5B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06241; STAT5B; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: yes.
+BF  T14270; STAT5B; Species: Mammalia; site(s) included: no.
+BF  T10912; STAT5B; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00944; STAT5B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08732; STAT5B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04761; STAT5B; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10895; STAT5B; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01580; STAT6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09516; STAT6; Species: Mammalia; site(s) included: no.
+BF  T01581; STAT6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08683; STAT6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16557; STAT6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08676; STAT6-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19279; STAT6-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      6     11      8      N
+02      9      6      8      7      N
+03      7     12      3      8      N
+04      9      5      6     10      N
+05      4     10      5     11      N
+06      0      0      0     30      T
+07      0      0      1     29      T
+08      0     30      0      0      C
+09      0      9      1     20      T
+10      4      2     14     10      K
+11      9      0     21      0      G
+12      1      0     23      6      G
+13     21      3      5      1      A
+XX
+BA  30 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGAAATTCTGGGG; R03322; -3; 13;; n.
+BS  TCCTTTTCTGGGA; R11115; 6; 13;; n.
+BS  CATGCTTCCGGGA; R12428; 6; 13;; n.
+BS  TCTCTTTCTGAGA; R12435; -3; 13;; p.
+BS  CAGTCTTCTTGGA; R12436; 5; 13;; p.
+BS  TCTCTTTCTTAGA; R13064; 12; 13;; n.
+BS  GGTGCTGCTGGGA; C00179,  s00291; 2; 13;; n.
+BS  GCCACTTCTGATA; C00182,  s00296; -5; 13;; p.
+BS  CGCGCTTCCTGAC; C00187,  s00306; -5; 13;; p.
+BS  GTCATTTCGGGGA; C00192,  s00316; 3; 13;; n.
+BS  CAGGCTTCCTGGA; C00293,  s00509; 2; 13;; n.
+BS  AATCCTTCTGGGA; C00294,  s00510; -5; 13;; p.
+BS  GCAGTTTCCAGGC; C00296,  s00514; -2; 13;; n.
+BS  TGAACTTCTTGGA; C00298,  s00520; -5; 13;; p.
+BS  GAGGTTTCCGGGA; C00299,  s00521; -4; 13;; p.
+BS  ACATTTTCCTGTA; C00300,  s00524; -5; 13;; p.
+BS  TACTTTTCTTAGA; C00303,  s00530; 2; 13;; n.
+BS  AGCAGTTCCCGTC; C00304,  s00532; -3; 13;; p.
+BS  GGATATTCCCGGG; C00306,  s00535; -5; 13;; p.
+BS  GGACTTTCCAGTT; C00308,  s00536; 2; 13;; n.
+BS  TTCTGTTCTTGGG; C00311,  s00542; 3; 13;; n.
+BS  TTCTGTTCTTGGG; C00316,  s00542; 3; 13;; n.
+BS  GTTTCTTCTGAGA; C00312,  s00545; -4; 13;; p.
+BS  GACATTTCTGATA; C00312,  s00546; -5; 13;; p.
+BS  GTTTCTTCTAGGA; C00314,  s00547; -5; 13;; p.
+BS  AACATTTCTGATA; C00314,  s00548; -5; 13;; p.
+BS  CACAGTTCTGAGA; C00315,  s00550; 2; 13;; n.
+BS  GGAAATTCTGAGA; C00315,  s00551; -5; 13;; p.
+BS  TTTCATTCTAGGA; C00315,  s00552; -5; 13;; p.
+BS  CTCTGTTCTTGGG; C00317,  s00555; 3; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; includes 24 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

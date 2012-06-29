@@ -1,0 +1,66 @@
+AC  M01312
+XX
+ID  V$NKX21_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TFF-1
+XX
+DE  Nkx2-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05372; TFF-1; Species: baboon, Papio hamadryas; site(s) included: no.
+BF  T01518; TFF-1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T02098; TFF-1; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T17198; TFF-1; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04271; TTF-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15523; TTF-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00857; TTF-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10505; TTF-1; Species: Mammalia; site(s) included: no.
+BF  T00859; TTF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10215; TTF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00856; TTF-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10209; TTF-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10206; TTF-1-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T18720; TTF-1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.14   0.32   0.15   0.39      N
+02    0.4   0.23   0.23   0.13      N
+03   0.68   0.04   0.18    0.1      A
+04   0.14    0.2   0.47   0.19      N
+05   0.07   0.83   0.09   0.01      C
+06      0   0.88      0   0.12      C
+07    0.9   0.02      0   0.08      A
+08   0.02   0.98      0      0      C
+09      0      0      0   0.99      T
+10   0.01   0.16      0   0.83      T
+11   0.19   0.12   0.67   0.02      G
+12   0.88      0   0.01    0.1      A
+13   0.45   0.33   0.18   0.03      M
+14   0.34   0.32   0.07   0.27      N
+15   0.21   0.12   0.05   0.62      T
+16   0.17   0.15   0.05   0.63      T
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0171.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

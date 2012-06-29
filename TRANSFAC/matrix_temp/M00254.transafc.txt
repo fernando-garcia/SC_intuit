@@ -1,0 +1,40 @@
+AC  M00254
+XX
+ID  V$CAAT_01
+XX
+DT  25.09.1996 (created); ewi.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CCAAT box
+XX
+DE  cellular and viral CCAAT box
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+P0      A      C      G      T
+01     56     55     12     52      N
+02     32     52     43     48      N
+03     25     47     24     79      N
+04    102      1     70      2      R
+05     51      6     99     19      R
+06      0    173      1      1      C
+07      0    174      0      1      C
+08    175      0      0      0      A
+09    119      8     21     27      A
+10     17      0     15    143      T
+11     23     90     59      3      S
+12    116      6     52      1      A
+XX
+BA  175 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0004477.
+RX  PUBMED: 2329577.
+RA  Bucher P.
+RT  Weight matrix descriptions of four eukaryotic RNA polymerase II promoter elements derived from 502 unrelated promoter sequences
+RL  J. Mol. Biol. 212:563-578 (1990).
+XX
+//

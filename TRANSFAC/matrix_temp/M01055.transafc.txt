@@ -1,0 +1,68 @@
+AC  M01055
+XX
+ID  P$NAC691_01
+XX
+DT  17.03.2005 (created); sla.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NAC69-1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T06532; NAC69-1; Species: wheat, Triticum aestivum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      0      7      0      R
+02      1      0      9      2      G
+03      6      1      0      5      W
+04      2      0      7      3      G
+05      3      3      4      2      N
+06      0     12      0      0      C
+07      0      0     14      0      G
+08      0      0      0     14      T
+09     10      0      4      0      A
+10      2      5      1      6      Y
+11      4      1      6      3      N
+12      1      4      5      4      N
+13      3      2      6      3      N
+14      6      1      4      3      N
+15      0      4      0     10      T
+16     14      0      0      0      A
+17      0     14      0      0      C
+18      0      0     14      0      G
+19      0      2      2     10      T
+20     10      4      0      0      A
+21     13      0      0      1      A
+22      0     10      0      4      C
+23      1      7      0      6      Y
+XX
+BA  14 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGATCCGTGCACAGTACGTAACT; R16494; 2; 23;; p.
+BS  AGTGGCGTATGGTATACGTAACT; R16495; 4; 23;; p.
+BS  GGAGTCGTGTGCGTCACGTAACC; R16496; 1; 23;; p.
+BS  GGAGACGTGTTTCTTACGGCACT; R16497; 7; 23;; p.
+BS  AGAGACGTACCTGACACGGCATC; R16498; 8; 23;; p.
+BS  GGAAGCGTAATGGATACGCAACC; R16499; 2; 23;; p.
+BS  AGTGACGTATGAGGTACGTAATC; R16500; 2; 23;; p.
+BS  AGATGCGTACACGATACGTAACC; R16501; 2; 23;; p.
+BS  GGTTGCGTAAGGTCTACGTATTC; R16502; 1; 23;; p.
+BS  GTTGCCGTACAGTGCACGTCATC; R16503; 6; 23;; p.
+BS        GTATGGAGCACGTAACT; R16504; 1; 23; 1, 2, 3, 4, 5, 6; p.
+BS        GTATGCATTACGCAACT; R16505; 1; 23; 1, 2, 3, 4, 5, 6; p.
+BS  GACGCCGTACATGATACGTCACT; R16506; 1; 23;; p.
+BS  GTTATCGTGGTTCATACGTAACA; R16507; 4; 23;; p.
+XX
+CC  sequences selected with recombinant NAC69-1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0025465.
+RX  PUBMED: 15686526.
+RA  Xue G. P.
+RT  A CELD-fusion method for rapid determination of the DNA-binding sequence specificity of novel plant DNA-binding proteins.
+RL  Plant J. 41:638-649 (2005).
+XX
+//

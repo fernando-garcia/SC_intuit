@@ -1,0 +1,39 @@
+AC  M00951
+XX
+ID  I$GRH_01
+XX
+DT  07.11.2003 (created); oke.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Grainyhead/Elf-1/NTF-1
+XX
+TY  family
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+HC  M00110; I$ELF1_01; CP2 (human, mouse) (specific).
+XX
+BF  T05734; Ce-GRH-1; Species: Caenorhabditis elegans; site(s) included: yes.
+BF  T01019; Elf-1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      0      0      2      A
+02      0      7      0      0      C
+03      1      2      0      4      Y
+04      0      0      6      1      G
+05      0      0      7      0      G
+06      0      0      0      7      T
+07      0      0      0      7      T
+08      0      1      1      5      T
+XX
+BA  sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0023445.
+RX  PUBMED: 12888489.
+RA  Venkatesan K., McManus H. R., Mello C. C., Smith T. F., Hansen U.
+RT  Functional conservation between members of an ancient duplicated transcription factor family, LSF/Grainyhead.
+RL  Nucleic Acids Res. 31:4304-4316 (2003).
+XX
+//

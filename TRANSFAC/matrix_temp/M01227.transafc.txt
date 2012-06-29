@@ -1,0 +1,76 @@
+AC  M01227
+XX
+ID  V$MAFB_01
+XX
+DT  19.03.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MAFB
+XX
+DE  MAFB
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T01433; MafB; Species: chick, Gallus gallus; site(s) included: no.
+BF  T09239; MafB; Species: chick, Gallus gallus; site(s) included: no.
+BF  T05748; MafB; Species: human, Homo sapiens; site(s) included: no.
+BF  T09646; MafB; Species: human, Homo sapiens; site(s) included: no.
+BF  T13783; MafB; Species: Mammalia; site(s) included: no.
+BF  T01439; MafB; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09217; MafB; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05754; MafB; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10769; MafB; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      2     13      1      G
+02      3      9      6      2      N
+03      0      0      0     21      T
+04      0      0     20      1      G
+05     15      4      0      1      A
+06      1     13      3      3      C
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCTGAC; R26990; 2; 6;; p.
+BS  GCTGAC; R26991; 3; 6;; p.
+BS  GCTGAC; R26992; 3; 6;; p.
+BS  GCTGAC; R26993; 8; 6;; p.
+BS  GNTGAC; R26994; 3; 6;; p.
+BS  GATGAC; R26995; 4; 6;; p.
+BS  GGTGAC; R26996; 2; 6;; p.
+BS  GATGAC; R26997; 5; 6;; p.
+BS  TCTGAC; R26998; 4; 6;; p.
+BS  CTTGAC; R26999; 9; 6;; p.
+BS  GCTGAT; R27000; 2; 6;; p.
+BS  GCTGAT; R27001; 2; 6;; p.
+BS  AGTGAG; R27002; 7; 6;; p.
+BS  GATGAN; R27003; 3; 6;; p.
+BS  GCTGCG; R27004; 2; 6;; p.
+BS  GCTTAC; R27005; 2; 6;; p.
+BS   GTGCC; R27006; 1; 6; 1; p.
+BS  NGTGCA; R27007; 6; 6;; p.
+BS  CGTGCG; R27008; 5; 6;; p.
+BS   GTGTC; R27009; 1; 6; 1; p.
+BS  ATTGNT; R27010; 1; 6;; p.
+XX
+CC  sequences selected with recombinant MAFB from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0117.
+XX
+RN  [1]; RE0062594.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20092:0001 (2009).
+RN  [2]; RE0028174.
+RX  PUBMED: 9571165.
+RA  Matsushima-Hibiya Y., Nishi S., Sakai M.
+RT  Rat maf-related factors: the specificities of DNA binding and heterodimer formation.
+RL  Biochem. Biophys. Res. Commun. 245:412-418 (1998).
+XX
+//

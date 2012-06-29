@@ -1,0 +1,43 @@
+AC  M03185
+XX
+ID  P$BBM_01
+XX
+DT  06.01.2012 (created); mkl.
+DT  06.01.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BBM
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05606; BBM; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T23003; BBM; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01  0.056  0.027  0.861  0.056      G
+02  0.004  0.002  0.931  0.063      G
+03  0.007  0.005  0.986  0.002      G
+04  0.004  0.970  0.010  0.016      C
+05  0.003  0.002  0.993  0.002      G
+06  0.004  0.985  0.006  0.005      C
+07  0.014  0.912  0.070  0.004      C
+08  0.983  0.003  0.003  0.011      A
+09  0.225  0.319  0.278  0.178      N
+10  0.010  0.181  0.009  0.800      T
+XX
+BA  sequences (3D structure-based energy calculations)
+XX
+RN  [1]; RE0072515.
+RA  TRANSFAC_Team.
+RT  3DTF: a webserver for predicting transcription factor PWMs using 3D structure-based energy calculations
+RL  TRANSFAC Reports Rel20121:0002 (2012).
+RN  [2]; RE0072514.
+RX  PUBMED: 20438625.
+RA  Alamanova D., Stegmaier P., Kel A.
+RT  Creating PWMs of transcription factors using 3D structure-based computation of protein-DNA free binding energies.
+RL  BMC Bioinformatics 11:225 (2010).
+XX
+//

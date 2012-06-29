@@ -1,0 +1,59 @@
+AC  M01874
+XX
+ID  V$EKLF_Q5
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  EKLF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04957; EKLF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15105; EKLF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14017; EKLF; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01676; EKLF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08294; EKLF; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     11      0      0      C
+02      0     10      0      1      C
+03      6      3      1      1      A
+04      0     15      0      0      C
+05     15      0      0      0      A
+06      0     14      0      1      C
+07      0     14      1      0      C
+08      0     14      1      0      C
+09      3      2      1      5      N
+10      1      3      5      1      S
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCACACCCTg; R15628; 11; 10;; p.
+BS  ccaCACCCtn; R15629; 1; 10;; p.
+BS  nnnCACCCnn; R15640; -3; 10;; p.
+BS  nnnCACCCnn; R15641; -3; 10;; p.
+BS  nnnCACCCnn; R15642; -3; 10;; p.
+BS  nnnCACCCnn; R15670; -3; 10;; p.
+BS  CCACACCCTG; R15671; 6; 10;; p.
+BS  CCACACCCAG; R23059; 5; 10;; n.
+BS  CCCCACCCAC; R23357; 12; 10;; n.
+BS  CCGCATGCGC; R23436; 7; 10;; p.
+BS  CTCCACCCAT; R26004; 7; 10;; p.
+BS  CCACACCCCA; R28634; 5; 10;; n.
+BS  CCCCACCCTG; R28637; 2; 10;; p.
+BS  CCACACCCTG; R28639; 6; 10;; p.
+BS  CCTCACCGCC; R34212; 1; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

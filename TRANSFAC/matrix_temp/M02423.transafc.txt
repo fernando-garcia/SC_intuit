@@ -1,0 +1,49 @@
+AC  M02423
+AS  MA0304
+XX
+ID  F$GCR1_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCR1
+XX
+DE  class: Other; family: Other
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00322; GCR1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+BF  T10720; GCR1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    719     31     77   1822      T
+02      0    142   2318      0      G
+03      0     22   2438      0      G
+04   2460      0      0      0      A
+05   2157     10      0    294      A
+06      9     13   2326    121      G
+07    553   1703      0    240      C
+08      0   1932     15    651      C
+XX
+BA  2649 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0304.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071786.
+RX  PUBMED: 10487868.
+RA  Zhu J., Zhang M. Q.
+RT  SCPD: a promoter database of the yeast Saccharomyces cerevisiae.
+RL  Bioinformatics 15:607-611 (1999).
+XX
+//

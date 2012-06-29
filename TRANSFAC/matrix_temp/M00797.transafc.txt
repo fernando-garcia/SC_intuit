@@ -1,0 +1,78 @@
+AC  M00797
+XX
+ID  V$HIF1_Q3
+XX
+DT  09.03.2003 (created); vma.
+DT  18.12.2003 (updated); oke.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HIF1
+XX
+DE  hypoxia induced factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00976; V$AHRHIF_Q6;  (family).
+XX
+BF  T05377; HIF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T01609; HIF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04667; HIF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05404; HIF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01610; HIF-1alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10516; HIF-1alpha; Species: Mammalia; site(s) included: no.
+BF  T04666; HIF-1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05461; HIF-1alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10419; HIF-1alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08994; HIF-1alpha-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18977; HIF-1alpha-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17446; HIF-1alpha-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18978; HIF-1alpha-xbb2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      4     15      2      G
+02      5     11      3      4      N
+03      5      5     11      2      N
+04      1      3      9     10      K
+05     22      0      1      0      A
+06      0     23      0      0      C
+07      0      0     23      0      G
+08      0      0      0     23      T
+09      0      0     23      0      G
+10      2     17      3      1      C
+11      3      4     12      4      G
+12      1      5     13      4      G
+13      1      9      7      6      N
+14      7      7      5      4      N
+XX
+BA  23 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCCTACGTGCTGTC; R03219; 2; 14;; p.
+BS  GGCAACGTGCAGCC; R10172; 5; 14;; n.
+BS  GCATACGTGGGCTC; R10227; 5; 14;; p.
+BS  GTGTACGTGCAGGA; R10350; 2; 14;; n.
+BS  AAATACGTGCGCTT; R10350; 19; 14;; n.
+BS  GCGTACGTGCCTCA; R10395; 6; 14;; p.
+BS  TCGGACGTGACTCG; R10593; 7; 14;; n.
+BS  CCGGACGTGGGGCC; R10594; 5; 14;; p.
+BS  GAGTACGTGACGGA; R10595; 2; 14;; p.
+BS  GAGTGCGTGCGGGA; R10596; 6; 14;; p.
+BS  CTACACGTGGGGTT; R10597; 7; 14;; p.
+BS  GCGGACGTGCGGGA; R10599; 2; 14;; n.
+BS  GTGTACGTGTGTAA; R13214; 12; 14;; n.
+BS  ACTGACGTGCACTG; R13220; 5; 14;; n.
+BS  GACTACGTGCTGCC; R13221; 3; 14;; p.
+BS  GAGGACGTGCCACG; R13288; 16; 14;; n.
+BS  GCGGACGTGCTGGC; R13288; 3; 14;; p.
+BS  GCAGACGTGCGTGT; R13354; 2; 14;; n.
+BS  GCGTACGTGCTGCA; R13355; 12; 14;; p.
+BS  TGAGACGTGCGGCT; R13356; 9; 14;; n.
+BS  GCCGACGTGCGCTC; R13357; 6; 14;; n.
+BS  GGCCACGTGCGCCG; R13358; 13; 14;; n.
+BS  CTTCACGTGCGGGG; R13359; 1; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+//

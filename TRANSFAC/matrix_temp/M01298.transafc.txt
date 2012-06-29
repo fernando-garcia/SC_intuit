@@ -1,0 +1,77 @@
+AC  M01298
+XX
+ID  V$MECP2_01
+XX
+DT  22.09.2009 (created); jtr.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MECP2
+XX
+DE  MECP2 b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04936; MECP-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T09374; MECP-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05946; MeCP-2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08704; MeCP-2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T20007; Mecp2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T20008; Mecp2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T20009; Mecp2-B; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     23      0      0      C
+02      0     22      1      0      C
+03      0      0     23      0      G
+04      0      0     23      0      G
+05      5     10      8      0      S
+06      5      7      7      4      N
+07      5      4      6      8      N
+08      5      9      6      3      N
+09     12      4      2      5      A
+10      7      4      9      3      N
+11      6      9      3      5      N
+12     15      2      2      4      A
+13     10      1      0     12      W
+14     11      1      0     11      W
+15      5      3      0     15      T
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CCGGGATCCCAAATT; R28730; 19; 15;; p.
+BS  CCGGGGACATTATAC; R28731; 19; 15;; p.
+BS  CCGGGGGCCAaCCAT; R28732; 19; 15;; p.
+BS  CCGGCGGATACAAAT; R28733; 20; 15;; p.
+BS  CCGGAGCTTCCTATT; R28734; 19; 15;; p.
+BS  CCGGGAGCCATGTAT; R28735; 18; 15;; p.
+BS  CCGGCTACAGCTAAT; R28736; 19; 15;; p.
+BS  CCGGGATCAGTATTT; R28737; 19; 15;; p.
+BS  CCGGAATGTGAATAA; R28738; 19; 15;; p.
+BS  CCGGCCTTACTCATT; R28739; 19; 15;; p.
+BS  CCGGACAGAAGAAAT; R28740; 19; 15;; p.
+BS  CCGGCCATAGGATTA; R28741; 19; 15;; p.
+BS  CCGGCAAGTTCATTT; R28742; 15; 15;; p.
+BS  CCGGACTATCAATAA; R28743; 19; 15;; p.
+BS  CCGGCCTCCGCTTTA; R28744; 19; 15;; p.
+BS  CCGGCCCGGAGGACC; R28745; 15; 15;; p.
+BS  CCGGACCGAGCATAT; R28746; 19; 15;; p.
+BS  CCGGGGCGATCAATT; R28747; 19; 15;; p.
+BS  CCGGCGGAAGCATAT; R28748; 19; 15;; p.
+BS  CCGGCTTCAACATTT; R28749; 19; 15;; p.
+BS  CGGGCGTAAGATTTC; R28750; 18; 15;; p.
+BS  CCGGGTGCGGAAATT; R28751; 19; 15;; p.
+BS  CCGGGTGAAATAAAA; R28752; 19; 15;; p.
+XX
+CC  sequences selected with recombinant MECP-2 from a pool of double-stranded oligonucleotides containing a core of 40 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0062958.
+RX  PUBMED: 16137622.
+RA  Klose R. J., Sarraf S. A., Schmiedeberg L., McDermott S. M., Stancheva I., Bird A. P.
+RT  DNA binding selectivity of MeCP2 due to a requirement for A/T sequences adjacent to methyl-CpG.
+RL  Mol. Cell 19:667-678 (2005).
+XX
+//

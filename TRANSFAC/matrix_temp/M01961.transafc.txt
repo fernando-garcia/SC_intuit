@@ -1,0 +1,39 @@
+AC  M01961
+XX
+ID  F$MIG1_04
+XX
+DT  15.04.2011 (created); mkl.
+DT  21.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MIG1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00509; MIG1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.32   0.35   0.15   0.18      N
+02   0.01   0.97   0.01   0.01      C
+03      0      1      0      0      C
+04      0      1      0      0      C
+05      0      1      0      0      C
+06   0.46   0.03    0.5   0.01      R
+07   0.05   0.58    0.3   0.07      S
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  defined from z-scores of the octamers occupying the 32 spots in the PBM
+XX
+DR  JASPAR: MA0337.
+XX
+RN  [1]; RE0065610.
+RX  PUBMED: 19111667.
+RA  Badis G., Chan E. T., van Bakel H., Pena-Castillo L., Tillo D., Tsui K., Carlson C. D., Gossett A. J., Hasinoff M. J., Warren C. L., Gebbia M., Talukder S., Yang A., Mnaimneh S., Terterov D., Coburn D., Li Yeo A., Yeo Z. X., Clarke N. D., Lieb J. D., Ansari A. Z., Nislow C., Hughes T. R.
+RT  A library of yeast transcription factor motifs reveals a widespread function for Rsc3 in targeting nucleosome exclusion at promoters.
+RL  Mol. Cell 32:878-887 (2008).
+XX
+//

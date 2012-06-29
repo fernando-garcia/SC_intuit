@@ -1,0 +1,41 @@
+AC  M01921
+XX
+ID  F$GAT3_02
+XX
+DT  15.04.2011 (created); mkl.
+DT  21.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GAT3
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03315; GAT3; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.65   0.09    0.2   0.06      A
+02   0.08   0.02   0.88   0.01      G
+03   0.92      0      0   0.08      A
+04   0.12      0   0.01   0.87      T
+05   0.03   0.94   0.01   0.02      C
+06   0.06   0.27   0.04   0.63      T
+07   0.51   0.19   0.18   0.12      A
+08   0.28   0.33   0.21   0.17      N
+09   0.32   0.25   0.21   0.21      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  defined from z-scores of the octamers occupying the 32 spots in the PBM
+XX
+DR  JASPAR: MA0301.
+XX
+RN  [1]; RE0065610.
+RX  PUBMED: 19111667.
+RA  Badis G., Chan E. T., van Bakel H., Pena-Castillo L., Tillo D., Tsui K., Carlson C. D., Gossett A. J., Hasinoff M. J., Warren C. L., Gebbia M., Talukder S., Yang A., Mnaimneh S., Terterov D., Coburn D., Li Yeo A., Yeo Z. X., Clarke N. D., Lieb J. D., Ansari A. Z., Nislow C., Hughes T. R.
+RT  A library of yeast transcription factor motifs reveals a widespread function for Rsc3 in targeting nucleosome exclusion at promoters.
+RL  Mol. Cell 32:878-887 (2008).
+XX
+//

@@ -1,0 +1,54 @@
+AC  M01361
+XX
+ID  V$HOXC10_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXC10
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03328; HOXC10; Species: human, Homo sapiens; site(s) included: no.
+BF  T11376; HOXC10; Species: human, Homo sapiens; site(s) included: no.
+BF  T03350; HOXC10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14685; HOXC10; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.24   0.24   0.13   0.39      N
+02   0.39   0.12   0.24   0.25      N
+03   0.43   0.16   0.18   0.23      N
+04   0.34   0.14   0.29   0.23      N
+05   0.08   0.06   0.86   0.00      G
+06   0.00   0.04   0.00   0.96      T
+07   0.02   0.98   0.00   0.00      C
+08   0.30   0.00   0.70   0.00      G
+09   0.00   0.00   0.00   0.99      T
+10   0.85   0.00   0.00   0.14      A
+11   0.99   0.00   0.00   0.01      A
+12   0.98   0.01   0.00   0.01      A
+13   0.50   0.13   0.15   0.23      N
+14   0.22   0.33   0.15   0.30      N
+15   0.21   0.26   0.29   0.25      N
+16   0.14   0.15   0.30   0.41      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0065.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

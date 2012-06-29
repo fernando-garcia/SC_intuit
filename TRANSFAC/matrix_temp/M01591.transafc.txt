@@ -1,0 +1,53 @@
+AC  M01591
+XX
+ID  V$TAL1_01
+XX
+DT  09.12.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Tal-1 (Scl)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01800; Tal-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T19290; Tal-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01799; Tal-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16151; Tal-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01448; Tal1-PP22; Species: human, Homo sapiens; site(s) included: no.
+BF  T19289; Tal1-PP39; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00790; Tal1-PP42; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     18    137     26     45      C
+02     34     44     28    120      T
+03     22     36     39    129      T
+04      3    131     50     42      C
+05      1    219      0      6      C
+06      4     16      1    205      T
+07      0     35     12    179      T
+08     96     81     10     39      M
+09      1     12      1    212      T
+10      0    223      3      0      C
+11     39     21      4    162      T
+12     15     99     75     37      S
+13      7     95     26     98      Y
+XX
+BA  226 sequences (ChIP-Seq)
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0063397.
+RX  PUBMED: 19346495.
+RA  Wilson N. K., Miranda-Saavedra D., Kinston S., Bonadies N., Foster S. D., Calero-Nieto F., Dawson M. A., Donaldson I. J., Dumon S., Frampton J., Janky R., Sun X. H., Teichmann S. A., Bannister A. J., Gottgens B.
+RT  The transcriptional program controlled by the stem cell leukemia gene Scl/Tal1 during early embryonic hematopoietic development.
+RL  Blood 113:5456-5465 (2009).
+XX
+//

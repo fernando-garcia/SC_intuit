@@ -1,0 +1,56 @@
+AC  M01486
+XX
+ID  V$DLX7_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Dlx7
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T09390; Dlx7; Species: human, Homo sapiens; site(s) included: no.
+BF  T03993; Dlx7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14718; Dlx7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04003; Dlx7-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T03992; Dlx7-isoform2; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.15   0.25    0.3    0.3      N
+02    0.2   0.55   0.12   0.13      C
+03    0.3   0.23   0.32   0.15      N
+04   0.22   0.48   0.17   0.12      N
+05   0.28   0.13   0.29    0.3      N
+06   0.54   0.07   0.24   0.15      A
+07   0.01   0.04      0   0.95      T
+08   0.97      0   0.01   0.02      A
+09   0.99      0      0      0      A
+10   0.01      0      0   0.99      T
+11   0.01   0.01   0.01   0.97      T
+12   0.76      0   0.23   0.01      A
+13    0.2   0.52   0.14   0.14      C
+14   0.29   0.49   0.06   0.16      M
+15   0.17   0.26    0.4   0.16      N
+16    0.5   0.14   0.11   0.25      A
+17   0.22   0.53   0.12   0.13      C
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0023.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

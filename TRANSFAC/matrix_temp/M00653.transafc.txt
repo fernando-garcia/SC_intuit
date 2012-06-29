@@ -1,0 +1,42 @@
+AC  M00653
+XX
+ID  P$OCSBF1_01
+XX
+DT  08.03.2002 (created); ela.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  OCSBF-1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02999; OCSBF-1; Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      5      2      0      C
+02      7      0      0      0      A
+03      0      7      0      0      C
+04      0      0      7      0      G
+05      0      0      0      7      T
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CACGT; R08680; 3; 5;; p.
+BS  CACGT; R08682; 3; 5;; p.
+BS  CACGT; R08683; 3; 5;; p.
+BS  CACGT; R08684; 3; 5;; p.
+BS  GACGT; R08693; 3; 5;; p.
+BS  GACGT; R08694; 3; 5;; p.
+BS  CACGT; R08696; 3; 5;; p.
+XX
+CC  compiled and aligned by BIOBASE; based on artifical sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,45 @@
+AC  M00227
+XX
+ID  V$VMYB_02
+XX
+DT  30.11.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  v-Myb
+XX
+DE  v-Myb
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00895; v-Myb; Species: AMV, avian myeloblastosis virus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      8      6     11      N
+02      4     13      9      3      S
+03      0     13      0     16      Y
+04     29      0      0      0      A
+05     29      0      0      0      A
+06      0     29      0      0      C
+07      0      1     24      4      G
+08      0      0     29      0      G
+09      9     11      0      9      H
+XX
+BA  29 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant v-Myb from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0003548.
+RX  PUBMED: 8313474.
+RA  Grotewold E., Drummond B. J., Bowen B., Peterson T.
+RT  The myb-homologous P gene controls phlobaphene pigmentation in maize floral organs by directly activating a flavonoid biosynthetic gene subset
+RL  Cell 76:543-553 (1994).
+XX
+//

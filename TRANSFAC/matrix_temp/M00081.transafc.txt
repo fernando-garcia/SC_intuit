@@ -1,0 +1,60 @@
+AC  M00081
+XX
+ID  V$EVI1_04
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Evi-1
+XX
+DE  ectopic viral integration site 1 encoded factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05220; Evi-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10210; Evi-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T00273; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10211; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16545; Evi1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      3      2      D
+02      2      0      6      0      G
+03      6      1      0      1      A
+04      1      1      0      6      T
+05      7      0      0      1      A
+06      3      0      2      3      D
+07      2      0      6      0      G
+08      6      0      0      2      A
+09      2      2      0      4      T
+10      5      0      0      3      W
+11      5      0      2      1      A
+12      2      0      6      0      G
+13      6      0      0      2      A
+14      2      0      0      6      T
+15      6      1      0      1      A
+XX
+BA  8 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GACTAGATATGATAT; R06216; 3; 15;; p.
+BS  TGATTAGATAAGATA; R06217; 2; 15;; p.
+BS  GATAAGATATGATAC; R06218; 3; 15;; p.
+BS  AGATAAGATAAGATA; R06219; 5; 15;; p.
+BS  AGATAAGACTAGATA; R06220; 4; 15;; p.
+BS  AGATATGATATGATA; R06221; 4; 15;; p.
+BS  GGACATGATAAGATA; R06222; 4; 15;; p.
+BS  TGATATGACAAGATA; R06223; 2; 15;; p.
+XX
+CC  sequences selected with recombinant Evi-1 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0002960.
+RX  PUBMED: 8321231.
+RA  Delwel R., Funabiki T., Kreider B. L., Morishita K., Ihle J. N.
+RT  Four of the seven zinc fingers of the Evi-1 myeloid-transforming gene are required for sequence-specific binding to GA(C/T)AAGA(T/C)AAGATAA
+RL  Mol. Cell. Biol. 13:4291-4300 (1993).
+XX
+//

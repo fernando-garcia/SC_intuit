@@ -1,0 +1,108 @@
+AC  M00150
+XX
+ID  V$BRACH_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Brachyury
+XX
+DE  Brachyury
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18585; brachyury; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04947; Brachyury; Species: human, Homo sapiens; site(s) included: no.
+BF  T11214; Brachyury; Species: human, Homo sapiens; site(s) included: no.
+BF  T17535; Brachyury; Species: Mammalia; site(s) included: no.
+BF  T01526; Brachyury; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11250; Brachyury; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15     17      3      5      M
+02      5      3     15     17      K
+03     15     14      0     11      H
+04      5     12     16      7      N
+05      1      2      0     37      T
+06      2     19     19      0      S
+07     30      0      7      3      A
+08      0     40      0      0      C
+09     38      0      2      0      A
+10      2     34      2      2      C
+11      2     28      8      2      C
+12      1      1      0     38      T
+13     40      0      0      0      A
+14      0      0     40      0      G
+15      0      0     40      0      G
+16      0      0      0     40      T
+17      0      0     40      0      G
+18      0      2      0     38      T
+19      1      7     28      4      G
+20     40      0      0      0      A
+21     31      5      0      4      A
+22     32      0      3      5      A
+23      5      5      1     29      T
+24      1      5      8     26      T
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGCCTCACACCTAGGTGTGAAATT; R07282; 6; 24;; p.
+BS  CGCCTCACACCTAGGTGTGAAATT; R07283; 6; 24;; p.
+BS  CGCCTCACACCTAGGTGTGAAATT; R07284; 6; 24;; p.
+BS  CGCCTCACACCTAGGTGTGAAATT; R07285; 6; 24;; p.
+BS  CGCCTCACACCTAGGTGTGAAATT; R07286; 6; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07287; 14; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07288; 14; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07289; 14; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07290; 14; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07291; 14; 24;; p.
+BS  TCTTTGACACCTAGGTGTCATATT; R07292; 9; 24;; p.
+BS  TCTTTGACACCTAGGTGTCATATT; R07293; 10; 24;; p.
+BS  CGTTTGACACCTAGGTGTCATATT; R07294; 10; 24;; p.
+BS  CGTTTGACACCTAGGTGTCATATT; R07295; 10; 24;; p.
+BS  CGTATCGCACCTAGGTGTGACAAT; R07296; 10; 24;; p.
+BS  TTAGTCACACCTAGGTGTGAAGAG; R07297; 13; 24;; p.
+BS  CGCCTCGCACGTAGGTGCTACTTT; R07298; 6; 24;; p.
+BS  CGCCTCGCAAGTAGGTGTGAAATC; R07299; 6; 24;; p.
+BS  GAATTCACACTTAGGTGTGAAATC; R07300; 1; 24;; p.
+BS  GATGTAACATGTAGGTGTGAAACG; R07301; 16; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07302; 15; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07303; 15; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07304; 15; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07305; 15; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07306; 15; 24;; p.
+BS  AATATGACACCTAGGTGTCAAACG; R07307; 16; 24;; p.
+BS  AATATGACACCTAGGTGTCAAACG; R07308; 16; 24;; p.
+BS  AATATGACACCTAGGTGTCAAACG; R07309; 16; 24;; p.
+BS  CGCCTCGCGGAAAGGTGTGAAATC; R07310; 6; 24;; p.
+BS  CGCCTCGCAAGTAGGTGTGAAATC; R07311; 6; 24;; p.
+BS  CGCCTCGCACATAGGTGTAAAATG; R07312; 6; 24;; p.
+BS  TTCGCCTCACGTAGGTGCGAATCT; R07313; 4; 24;; p.
+BS  GCCTCGTCATGTAGGTGTGAATAT; R07314; 7; 24;; p.
+BS  TTAGTCACACCTAGGTGTGAAGAG; R07315; 13; 24;; p.
+BS  CTTTACTCACCTAGGTGTGAATGA; R07316; 12; 24;; p.
+BS  CTCCTCGCACCCAGGTGTGAAGTT; R07317; 9; 24;; p.
+BS  ATAGTGACACCTAGGTGTGAAATT; R07318; 14; 24;; p.
+BS  AGTATCACACTTAGGTGTTACATC; R07319; 14; 24;; p.
+BS  CGCGTCACGCGTAGGTGTTACAAT; R07320; 10; 24;; p.
+BS  CTACTAACAGGTAGGTGTTACTTG; R07321; 13; 24;; p.
+XX
+CC  sequences selected with recombinant Brachyury from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0009.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0003120.
+RX  PUBMED: 8344258.
+RA  Kispert A., Herrmann B. G.
+RT  The Brachyury gene encodes a novel DNA binding protein
+RL  EMBO J. 12:3211-3220 (1993).
+XX
+//

@@ -1,0 +1,60 @@
+AC  M02243
+AS  MA0140
+XX
+ID  V$TAL1::GATA1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Tal1::Gata1
+XX
+DE  class: Zipper-Type; family: Helix-Loop-Helix
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00203; V$GATA_C; GATA binding site (family).
+HP  M00789; V$GATA_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T00305; GATA-1; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T08291; GATA-1; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T01799; Tal-1; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T16151; Tal-1; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    400   1329    618    595      N
+02    261    444    520   1717      T
+03    131    182   1921    710      G
+04    265    746   1228    706      N
+05    669    635    775    866      N
+06    701    687    903    654      N
+07    664    745    938    599      N
+08    713    699    891    644      N
+09    734    662    862    691      N
+10    996    407    940    603      N
+11    527   1172    901    345      N
+12   1959     31     37    920      A
+13      3      7   2936      0      G
+14   2928      7      2     10      A
+15     16     26     30   2873      T
+16   2770      6     23    144      A
+17   2382     51    376    134      A
+18    547    550   1601    242      G
+XX
+BA  2942 sequences (ChIP-Seq)
+XX
+CC  imported from JASPAR; Data is from Frank Grosvelds Lab.
+XX
+DR  JASPAR: MA0140.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

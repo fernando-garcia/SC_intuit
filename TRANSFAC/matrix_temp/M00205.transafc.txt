@@ -1,0 +1,70 @@
+AC  M00205
+XX
+ID  V$GRE_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GR
+XX
+DE  Glucocorticoid response element
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00960; V$PR_Q2; half-site matrix (family).
+XX
+BF  T06232; GR; Species: Bolivian squirrel monkey, Saimiri boliviensis boliviensis; site(s) included: yes.
+BF  T00336; GR; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00334; GR; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04685; GR; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T06233; GR; Species: common squirrel monkey, Saimiri sciureus; site(s) included: yes.
+BF  T06234; GR; Species: common tree shrew, Tupaia glis belangeri; site(s) included: yes.
+BF  T06231; GR; Species: cotton-top tamarin, Saguinus oedipus; site(s) included: yes.
+BF  T06226; GR; Species: guinea pig, Cavia porcellus; site(s) included: yes.
+BF  T05076; GR; Species: human, Homo sapiens; site(s) included: no.
+BF  T06228; GR; Species: Japanese flounder, Paralichthys olivaceus; site(s) included: yes.
+BF  T06225; GR; Species: Ma's night monkey, Aotus nancymaae; site(s) included: yes.
+BF  T10446; GR; Species: Mammalia; site(s) included: no.
+BF  T00335; GR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08555; GR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06229; GR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T06230; GR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T06227; GR; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T00333; GR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05075; GR; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T18951; GR-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18950; GR-Abeta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00337; GR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08475; GR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18948; GR-Alpha-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01920; GR-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15248; GR-beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18949; GR-Beta-2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.00   0.86   5.10   2.39      G
+02   0.00   0.00   5.94   2.40      G
+03   0.00   1.68   0.75   5.16      T
+04   6.74   0.00   0.00   0.86      A
+05   0.00   6.62   0.00   1.73      C
+06   5.91   2.43   0.00   0.00      A
+07   4.88   0.97   1.64   0.86      A
+08   2.52   0.82   1.68   3.33      N
+09   2.61   3.09   2.65   0.00      N
+10   1.61   0.00   0.00   6.73      T
+11   0.00   0.00   8.34   0.00      G
+12   0.00   0.00   0.00   8.34      T
+13   0.00   2.69   0.80   4.86      Y
+14   0.00   8.34   0.00   0.00      C
+15   0.00   0.00   0.00   8.34      T
+16   0.00   0.97   2.59   2.29      K
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0.06, total weight of sequences: 8.34)
+XX
+//

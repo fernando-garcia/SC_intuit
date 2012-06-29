@@ -1,0 +1,105 @@
+AC  M00999
+XX
+ID  V$AIRE_01
+XX
+DT  31.05.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AIRE
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05990; AIRE; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05991; AIRE; Species: mouse, Mus musculus; site(s) included: no.
+BF  T18752; AIRE isoform 1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18753; AIRE isoform 1c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18757; AIRE Isoform 1d; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18758; AIRE Isoform 2a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18759; AIRE Isoform 2b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18760; AIRE Isoform 2c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18761; AIRE Isoform 2d; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18754; AIRE Isoform 3a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18755; AIRE Isoform 3b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18762; AIRE Isoform 3c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18756; AIRE Isoform 3d; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11050; AIRE isoform1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14187; AIRE-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18750; AIRE-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18751; AIRE-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      5      1     17      W
+02      8      6      0     18      T
+03     13      3      5     11      N
+04      7      2     10     13      N
+05      7      2     10     13      N
+06     16      4      1     11      W
+07     12     10      3      7      N
+08      8      9      2     13      N
+09      6      3      5     18      T
+10      0      0     32      0      G
+11      0      0     32      0      G
+12     11      3      0     18      W
+13     12      3      1     16      W
+14     12      6      6      8      N
+15     11      3      6     12      N
+16     12      4      5     11      N
+17     13      3      3     13      W
+18     10      7      2     13      N
+19      0      0     32      0      G
+20      0      0     32      0      G
+21     11      4      5     12      N
+22      3      9      6     14      N
+23     14      1      6     11      W
+24     15      7      2      8      N
+25     17      3      1     11      W
+26      9      4      5     14      N
+XX
+BA  32 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CTTGGCACTGGTTATTTTGGCCAAAT; R15040; 1; 26;; p.
+BS  TTAGTATATGGATTGCATGGCTCTTC; R15041; 1; 26;; p.
+BS  ACTATAAATGGTTCTGTAGGGCTGAT; R15042; 1; 26;; p.
+BS  CCTTAACCTGGTAACAAAGGGAAATT; R15043; 1; 26;; p.
+BS  TTCATACCTGGCGAACATGGATATAG; R15044; 1; 26;; p.
+BS  TTGTGCCTTGGTTAGATCGGCTAACG; R15045; 1; 26;; p.
+BS  TTATTTCAAGGTAAAATGGGTGTCAA; R15046; 1; 26;; p.
+BS  TTAAGATTTGGTAGTTTAGGCTTTTT; R15047; 1; 26;; p.
+BS  TTGGATAAAGGATCAAACGGTGGCAC; R15048; 1; 26;; p.
+BS  AATGCAACCGGATGCTGAGGATAAAG; R15049; 1; 26;; p.
+BS  CTACTTGTTGGTAATTTTGGTTACTT; R15050; 1; 26;; p.
+BS  ACTATAAATGGTTCTGTAGGACTGAT; R15051; 1; 26;; p.
+BS  TCAGTGTTGGGATTTCATGGATTTTA; R15052; 1; 26;; p.
+BS  TAGTGCCTTGGTTAGATCGGTGGACT; R15053; 1; 26;; p.
+BS  ATTTTACCAGGTAGAATTGGATAAAT; R15054; 1; 26;; p.
+BS  TAGTGCCTTGGTTAGATCGGTAAACT; R15055; 1; 26;; p.
+BS  TAAAGATTTGGAATTTATGGTCGAAA; R15056; 1; 26;; p.
+BS  ATTGATATCGGAAATGCTGGTTTATA; R15057; 1; 26;; p.
+BS  TAAATTGTTGGTTTAATAGGACACTC; R15058; 1; 26;; p.
+BS  GTCTAACCGGGCTGGTCCGGACATTA; R15059; 1; 26;; p.
+BS  TTCTCAACTGGAACTAAAGGTCTTAT; R15060; 1; 26;; p.
+BS  ATTGGTAAAGGATCAAGCGGTGGCAC; R15061; 1; 26;; p.
+BS  CCATTAACTGGTAGCAACGGTAAATT; R15062; 1; 26;; p.
+BS  ATTGATATCGGACCTGATGGTTTATT; R15063; 1; 26;; p.
+BS  CAACATATGGGTATGTGAGGATTCAG; R15064; 1; 26;; p.
+BS  TTTTGTGGGGGTTAATAAGGGCGAAT; R15065; 1; 26;; p.
+BS  TCAGGATTGGGATTTCATGGATTTTA; R15066; 1; 26;; p.
+BS  TTATTTCAAGGTAAAATGGGGGTCAA; R15067; 1; 26;; p.
+BS  ATTTTACCAGGTAGAGTTGGATAAAT; R15068; 1; 26;; p.
+BS  TTATATTGTGGCCAATAAGGGGAAAA; R15069; 1; 26;; p.
+BS  TAGAGATTTGGATTTTATGGTCGAAA; R15070; 1; 26;; p.
+BS  AAAGTAAATGGTCTATCTGGATATGG; R15071; 1; 26;; p.
+XX
+CC  sequences selected with recombinant AIRE from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0023681.
+RX  PUBMED: 11533054.
+RA  Kumar P. G., Laloraya M., Wang C. Y., Ruan Q. G., Davoodi-Semiromi A., Kao K. J., She J. X.
+RT  The autoimmune regulator (AIRE) is a DNA-binding protein.
+RL  J. Biol. Chem. 276:41357-41364 (2001).
+XX
+//

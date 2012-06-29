@@ -1,0 +1,71 @@
+AC  M00148
+XX
+ID  V$SRY_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SRY
+XX
+DE  sex-determining region Y gene product
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T02903; SRY; Species: gibbon ape, Hylobates lar; site(s) included: no.
+BF  T00997; SRY; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09097; SRY; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00996; SRY; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10666; SRY; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10667; SRY; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T21373; Sry; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     19      0      0      4      A
+02     22      0      0      1      A
+03     16      0      1      6      A
+04      0     17      6      0      C
+05     14      0      1      8      W
+06     13      5      2      3      A
+07     12      8      2      1      M
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTACAAA; R07253; 6; 7;; p.
+BS  TAACTCA; R07254; 6; 7;; p.
+BS  AAACAAC; R07255; 6; 7;; p.
+BS  AAACAAC; R07256; 6; 7;; p.
+BS  AATGAAC; R07257; 6; 7;; p.
+BS  AATCACC; R07258; 6; 7;; p.
+BS  AAACACA; R07259; 6; 7;; p.
+BS  AAACTTA; R07260; 6; 7;; p.
+BS  AAGGACA; R07261; 6; 7;; p.
+BS  AAACAAA; R07262; 6; 7;; p.
+BS  TATCAGT; R07263; 6; 7;; p.
+BS  AAAGGAG; R07264; 6; 7;; p.
+BS  AATCTAG; R07265; 6; 7;; p.
+BS  AAAGAGA; R07266; 6; 7;; p.
+BS  AAACTCC; R07267; 6; 7;; p.
+BS  AAAGTTC; R07268; 6; 7;; p.
+BS  AAAGAAC; R07269; 6; 7;; p.
+BS  AAACAAA; R07270; 6; 7;; p.
+BS  AAACTAA; R07271; 6; 7;; p.
+BS  AAACATC; R07272; 6; 7;; p.
+BS  AATCTAA; R07273; 6; 7;; p.
+BS  AATCTAA; R07274; 6; 7;; p.
+BS  TAACAAA; R07275; 6; 7;; p.
+XX
+CC  sequences selected with recombinant SRY from a pool of double-stranded oligonucleotides containing a core of 10 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0003119.
+RX  PUBMED: 7813448.
+RA  Pontiggia A., Rimini R., Harley V. R., Goodfellow P. N., Lovell-Badge R., Bianchi M. E.
+RT  Sex-reversing mutations affect the architecture of SRY--DNA complexes
+RL  EMBO J. 13:6115-6124 (1994).
+XX
+//

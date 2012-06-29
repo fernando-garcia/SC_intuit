@@ -1,0 +1,74 @@
+AC  M00456
+XX
+ID  V$FAC1_01
+XX
+DT  27.08.2001 (created); rio.
+DT  08.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FAC1
+XX
+DE  fetal Alz-50 clone 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04682; FAC1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16594; FAC1; Species: Mammalia; site(s) included: no.
+BF  T11440; FAC1-xbb1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15885; Falz; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     10      4      8      2      N
+02      8      8      4      4      N
+03      7      9      5      3      N
+04      6     15      2      1      C
+05     19      1      2      2      A
+06      8     12      0      4      M
+07     22      1      1      0      A
+08     22      1      0      1      A
+09      4     16      3      1      C
+10     18      4      1      1      A
+11      6     13      1      4      C
+12     10      3      9      2      R
+13      6      6      4      8      N
+14     13      2      4      5      A
+XX
+BA  24 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCTCACAACACGAA; R10453; 9; 14;; p.
+BS  TGCCACAACACAAG; R10454; 9; 14;; p.
+BS  CAGCACAACAAACG; R10455; 9; 14;; p.
+BS  CTGCACAACAAAAA; R10456; 6; 14;; p.
+BS  CCATACAACACGTA; R10457; 9; 14;; p.
+BS  ATCAAAAACACGTA; R10458; 9; 14;; p.
+BS  GGACTCAACCCGTA; R10459; 9; 14;; p.
+BS  ATACAAACCACACA; R10460; 9; 14;; p.
+BS  GCTACCAACACAAA; R10461; 5; 14;; p.
+BS  GCTGACAACAATCA; R10462; 5; 14;; p.
+BS  AACCACCAGACAAG; R10463; 9; 14;; p.
+BS  GGCCAAGACAGCAG; R10464; 9; 14;; p.
+BS  GCGAGAAACACACC; R10465; 9; 14;; p.
+BS  AACGAAAACAAGTA; R10466; 9; 14;; p.
+BS  ACCCTTAACATAGT; R10467; 9; 14;; p.
+BS  GCACACAAGCATGT; R10468; 9; 14;; p.
+BS  CCCCACAAGGTACT; R10469; 9; 14;; p.
+BS  AAGCAAAAACCGTA; R10470; 9; 14;; p.
+BS  AAAAATAACATCGT; R10471; 9; 14;; p.
+BS  GTCCGTAATTCACC; R10472; 9; 14;; p.
+BS  AAAAAAAAAACGTA; R10473; 9; 14;; p.
+BS  AAAAATAACATCGT; R10474; 9; 14;; p.
+BS  TGCCACATAAAGTA; R10475; 9; 14;; p.
+BS  AAGCAAAAACCGTA; R10476; 9; 14;; p.
+XX
+CC  sequences selected with recombinant FAC1 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides
+XX
+RN  [1]; RE0016781.
+RX  PUBMED: 10575013.
+RA  Jordan-Sciutto K. L., Dragich J. M., Rhodes J. L., Bowser R.
+RT  Fetal Alz-50 clone 1, a novel zinc finger protein, binds a specific DNA sequence and acts as a transcriptional regulator.
+RL  J. Biol. Chem. 274:35262-35268 (1999).
+XX
+//

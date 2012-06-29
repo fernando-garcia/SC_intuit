@@ -1,0 +1,42 @@
+AC  M00171
+XX
+ID  I$ADF1_Q6
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Adf-1
+XX
+DE  Adf-1
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00008; Adf-1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      6      3      2      C
+02      2      7      1      1      C
+03      0      0     11      0      G
+04      1      8      0      2      C
+05      0      5      2      4      Y
+06      0      0     11      0      G
+07      1      7      0      3      C
+08      1      4      1      5      Y
+09      0      0     11      0      G
+10      1      6      0      4      Y
+11      2      5      2      2      N
+12      0      0     11      0      G
+13      2      9      0      0      C
+14      2      6      2      1      C
+15      0      2      6      3      G
+16      4      3      4      0      V
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

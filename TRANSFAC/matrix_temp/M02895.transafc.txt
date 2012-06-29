@@ -1,0 +1,66 @@
+AC  M02895
+AS  PB0161
+XX
+ID  V$RXRA_04
+XX
+DT  15.11.2011 (created); jaspar.
+DT  17.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Rxra
+XX
+DE  class: Zinc-coordinating; family: Hormone-nuclear Receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00963; V$T3R_Q6; half-site matrix of TRE (thyroid hormone response element) and RARE (retinoic acid response element); (family).
+HP  M00965; V$DR4_Q2; direct repeat 4 (family).
+HP  M00966; V$DR3_Q4; direct repeat 3 (family).
+XX
+BF  T01331; RXR-alpha; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T08348; RXR-alpha; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     13     10     36     40      K
+02     22     52     19      8      C
+03     31     16     38     14      N
+04     20     51     14     16      C
+05     40      6     49      5      R
+06     47      6      1     46      W
+07     77      6      1     16      A
+08     15      4     76      6      G
+09      5      6     53     36      K
+10      7     10     19     64      T
+11     10     32     14     44      Y
+12     40      7     47      5      R
+13     21     24     21     34      N
+14     35     16     21     29      N
+15     28     36     16     20      N
+16     22     18     29     31      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0161.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

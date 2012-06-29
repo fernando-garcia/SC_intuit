@@ -1,0 +1,44 @@
+AC  M03160
+XX
+ID  F$RLM1_01
+XX
+DT  22.11.2011 (created); sla.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RLM1
+XX
+TY  specific
+XX
+OS  yeast, Saccharomyces cerevisiae
+OC  Eukaryota; Fungi; Ascomycota; Hemiascomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+XX
+BF  T01783; RLM1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01  11.43      0   7.19      0      R
+02      0   2.16  12.54   2.64      G
+03   1.78   8.96   4.11   4.59      N
+04   9.13      0      0   8.22      W
+05  16.96      0   0.98      0      A
+06  17.34      0      0      0      A
+07   7.47      0   6.59   3.89      R
+08    5.7   3.14      0   9.51      W
+09   1.95      0      0   15.4      T
+10      0   3.33      0  14.92      T
+11   15.4      0   1.95      0      A
+12   9.65      0   8.71      0      R
+13  17.34      0      0      0      A
+14  12.04      0      0   6.28      W
+XX
+BA  sequences (compiled matrix imported from public database)
+XX
+CC  from SwissRegulon
+XX
+RN  [1]; RE0071533.
+RX  PUBMED: 17130146.
+RA  Pachkov M., Erb I., Molina N., van Nimwegen E.
+RT  SwissRegulon: a database of genome-wide annotations of regulatory sites.
+RL  Nucleic Acids Res. 35:D127-31 (2007).
+XX
+//

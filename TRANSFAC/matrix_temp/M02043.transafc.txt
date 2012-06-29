@@ -1,0 +1,45 @@
+AC  M02043
+XX
+ID  V$SPI1_02
+XX
+DT  20.07.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SPI1
+XX
+DE  PU.1
+XX
+TY  specific
+XX
+OS  mouse, Mus musculus
+OC  eukaryota; animalia; metazoa; chordata; vertebrata; tetrapoda; mammalia; eutheria; rodentia; myomorpha; muridae; murinae
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00702; SPI1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10429; SPI1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     49     15     18     18      N
+02     24     26     45      5      N
+03     33     31     32      3      N
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     89      5      0      5      A
+07     70      7      1     22      A
+08     21     27     45      6      N
+09      6     25      7     63      T
+10     42     17     19     22      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

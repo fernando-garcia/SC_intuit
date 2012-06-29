@@ -1,0 +1,71 @@
+AC  M01057
+XX
+ID  P$ERF2_01
+XX
+DT  26.05.2005 (created); rhe_cga.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ERF2
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02654; ERF2; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2     26      1      4      C
+02      0      1     31      1      G
+03      1     26      6      0      C
+04      0     30      2      1      C
+05      1      0     32      0      G
+06      3     28      2      0      C
+07      0     32      1      0      C
+XX
+BA  33 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGCCGCC; R16789; 4; 7;; p.
+BS  TGCGGCC; R16790; 2; 7;; p.
+BS  CGCGGCC; R16791; 3; 7;; p.
+BS  CGCCGCC; R16792; 2; 7;; p.
+BS  CGGCGCC; R16793; 4; 7;; p.
+BS  CGGCGCC; R16794; 4; 7;; p.
+BS  CTGCGCC; R16795; 4; 7;; p.
+BS  CGCCGAC; R16796; 3; 7;; p.
+BS  CGCCACC; R16797; 2; 7;; p.
+BS  AGATGAC; R16798; 1; 7;; p.
+BS  TCCCGCC; R16799; 1; 7;; p.
+BS  CGCCGCC; R16800; 3; 7;; p.
+BS  CGCCGCC; R16801; 3; 7;; p.
+BS  CGCCGCC; R16802; 3; 7;; p.
+BS  CGCCGCC; R16803; 4; 7;; p.
+BS  CGCCGCC; R16804; 4; 7;; p.
+BS  CGCCGCC; R16805; 3; 7;; p.
+BS  CGCCGCC; R16806; 3; 7;; p.
+BS  CGCCGCC; R16807; 3; 7;; p.
+BS  CGCCGGC; R16808; 4; 7;; p.
+BS  CGGCGCC; R16809; 2; 7;; p.
+BS  CGCCGCC; R16810; 4; 7;; p.
+BS  CGCCGAC; R16811; 4; 7;; p.
+BS  CGCCGCC; R16812; 4; 7;; p.
+BS  CGCCGCC; R16813; 1; 7;; p.
+BS  CGCCGCC; R16814; 4; 7;; p.
+BS  CGCCGCC; R16815; 2; 7;; p.
+BS  GGCCGCC; R16816; 3; 7;; p.
+BS  TGGCGCC; R16817; 2; 7;; p.
+BS  TGCCGGG; R16818; 4; 7;; p.
+BS  CGCCGCC; R16854; 4; 7;; p.
+BS  CGGCGCC; R16855; 2; 7;; p.
+BS  CGCCGCC; R16856; 2; 7;; p.
+XX
+CC  sequences selected with recombinant ERF2 from a pool of double-stranded oligonucleotides containing a core of 10 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0035204.
+RX  PUBMED: 12586355.
+RA  Hao D., Ohme-Takagi M., Yamasaki K.
+RT  A modified sensor chip for surface plasmon resonance enables a rapid determination of sequence specificity of DNA-binding proteins.
+RL  FEBS Lett. 536:151-156 (2003).
+XX
+//

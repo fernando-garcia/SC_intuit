@@ -1,0 +1,65 @@
+AC  M00737
+XX
+ID  V$E2F1DP2_01
+XX
+DT  27.08.2002 (created); vma.
+DT  22.12.2011 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F-1:DP-2
+XX
+DE  E2F-1:DP-2 heterodimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05205; E2F-1:DP-2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0      1     21      T
+02      2      0      0     22      T
+03      0      0      0     24      T
+04      0     15      9      0      S
+05      0     15      9      0      S
+06      0     23      1      0      C
+07      0      1     23      0      G
+08      0     20      4      0      C
+XX
+BA  24 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTTCCCGC; R12805; 2; 8;; p.
+BS  TTTGGCGC; R12806; 4; 8;; p.
+BS  TTTCCCGG; R12807; 3; 8;; p.
+BS  TATGGCGG; R12808; 3; 8;; p.
+BS  TATCCCGC; R12809; 3; 8;; p.
+BS  TTTCCCGC; R12810; 4; 8;; p.
+BS  TTTCCCGC; R12811; 4; 8;; p.
+BS  TTTGGCGC; R12812; 6; 8;; p.
+BS  TTTCCCGC; R12813; 5; 8;; p.
+BS  TTTCCCGC; R12814; 4; 8;; p.
+BS  TTTGGCGC; R12815; 5; 8;; p.
+BS  TTTCCCGC; R12816; 8; 8;; p.
+BS  TTTGGCGG; R12817; 6; 8;; p.
+BS  TTTCCCGC; R12818; 5; 8;; p.
+BS  TTTGGCGC; R12819; 4; 8;; p.
+BS  TTTGGCGC; R12820; 2; 8;; p.
+BS  TTTGCGCG; R12821; 4; 8;; p.
+BS  ATTCGCGC; R12822; 1; 8;; p.
+BS  TTTCCCGC; R12823; 4; 8;; p.
+BS  TTTCCCGC; R12824; 5; 8;; p.
+BS  TTTCCCGC; R12825; 4; 8;; p.
+BS  ATTCCCGC; R12826; 1; 8;; p.
+BS  GTTCCCGC; R12827; 2; 8;; p.
+BS  TTTGGCGC; R12828; 2; 8;; p.
+XX
+CC  sequences selected with recombinant E2F-1:DP-2 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0014130.
+RX  PUBMED: 9372931.
+RA  Tao Y., Kassatly R. F., Cress W. D., Horowitz J. M.
+RT  Subunit composition determines E2F DNA-binding site specificity
+RL  Mol. Cell. Biol. 17:6994-7007 (1997).
+XX
+//

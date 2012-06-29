@@ -1,0 +1,58 @@
+AC  M02488
+AS  MA0369
+XX
+ID  F$RLM1_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RLM1
+XX
+DE  class: Other Alpha-Helix; family: MADS
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01783; RLM1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     10     10     10      8      N
+02     14      2     16     10      N
+03     11      0      1     30      T
+04      0      0      5     37      T
+05      0     42      0      0      C
+06      0      0      0     42      T
+07     42      0      0      0      A
+08     16      0      0     26      W
+09     22      0      0     20      W
+10     23      0      0     19      W
+11     32      0      0     10      A
+12      0      0      0     42      T
+13     42      0      0      0      A
+14      0      0     42      0      G
+15     27     14      0      1      M
+16      4     15      2     20      Y
+17      7     16      3     16      Y
+18     10     13     10      7      N
+XX
+BA  38 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0369.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071786.
+RX  PUBMED: 10487868.
+RA  Zhu J., Zhang M. Q.
+RT  SCPD: a promoter database of the yeast Saccharomyces cerevisiae.
+RL  Bioinformatics 15:607-611 (1999).
+XX
+//

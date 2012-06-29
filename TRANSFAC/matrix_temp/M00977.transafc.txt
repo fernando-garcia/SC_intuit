@@ -1,0 +1,67 @@
+AC  M00977
+XX
+ID  V$EBF_Q6
+XX
+DT  13.02.2004 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  EBF
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00261; V$OLF1_01; olfactory neuron-specific factor (specific).
+HC  M01871; V$COE1_Q6;  (specific).
+HC  M02267; V$EBF1_01; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+XX
+BF  T16021; COE1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15977; COE1; Species: Mammalia; site(s) included: no.
+BF  T09926; COE1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01040; COE1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11252; COE1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18847; COE1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01112; COE1-long; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18848; COE1-short; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05427; COE1-xbb1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05428; COE1-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18850; COE2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05006; COE2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15855; COE3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05008; COE3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15884; COE3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15854; COE3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14704; COE3-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15856; COE3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15857; COE3-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      2      2      K
+02      0      0      0      5      T
+03      0      5      0      0      C
+04      0      5      0      0      C
+05      0      5      0      0      C
+06      0      2      0      3      Y
+07      2      0      0      3      W
+08      1      0      4      0      G
+09      2      0      3      0      R
+10      0      0      5      0      G
+11      3      0      1      1      A
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTCCCCTGGGA; R03609; 6; 11;; n.
+BS  GTCCCCAAGGA; R03611; 2; 11;; p.
+BS  GTCCCTAGGGA; R03618; 9; 11;; p.
+BS  TTCCCTTGAGG; R03620; 8; 11;; p.
+BS  TTCCCTTGAGT; R03699; 8; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

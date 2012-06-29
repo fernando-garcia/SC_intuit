@@ -1,0 +1,56 @@
+AC  M00350
+XX
+ID  V$GATA3_02
+XX
+DT  08.04.1999 (created); vma.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA-3
+XX
+DE  GATA-binding factor 3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00203; V$GATA_C; GATA binding site (family).
+HP  M00789; V$GATA_Q6;  (family).
+XX
+BF  T00313; GATA-3; Species: cat, Felis silvestris catus; site(s) included: no.
+BF  T00314; GATA-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10392; GATA-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00312; GATA-3; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T16673; GATA-3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T09925; GATA-3; Species: human, Homo sapiens; site(s) included: no.
+BF  T13822; GATA-3; Species: Mammalia; site(s) included: no.
+BF  T00310; GATA-3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08572; GATA-3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16558; GATA-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00311; GATA-3 isoform-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09924; GATA-3 isoform-2; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     20      7      8      6      N
+02     10      5     23      3      G
+03     26      6      2      7      A
+04      0      0     41      0      G
+05     41      0      0      0      A
+06      0      0      0     41      T
+07     31      5      1      4      A
+08     34      2      0      5      A
+09      6      8     15     12      N
+10     27      2      6      6      A
+XX
+BA  41 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant GATA-3 from a pool of double-stranded oligonucleotides containing a core of 10 random nucleotides; 4 rounds of selection and amplification; fixed core of 3 nucleotides used
+XX
+RN  [1]; RE0013392.
+RX  PUBMED: 8321208.
+RA  Ko L. J., Engel J. D.
+RT  DNA-binding specificities of the GATA transcription factor family.
+RL  Mol. Cell. Biol. 13:4011-4022 (1993).
+XX
+//

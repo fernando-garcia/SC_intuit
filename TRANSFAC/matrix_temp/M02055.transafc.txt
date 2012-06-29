@@ -1,0 +1,44 @@
+AC  M02055
+XX
+ID  V$ESE1_02
+XX
+DT  06.10.2011 (created); sla.
+DT  08.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ESE-1
+XX
+DE  belongs to ETS class IIa
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05448; ESE-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18901; ESE-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05437; ESE-1a; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     18     48     24     10      N
+02     19     47     31      3      S
+03     33     57      7      2      M
+04      2      0     98      0      G
+05      0      0    100      0      G
+06     96      0      1      2      A
+07     95      1      0      4      A
+08     40      6     53      2      R
+09     10     27      6     58      T
+10     48     14     23     15      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

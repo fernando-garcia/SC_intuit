@@ -1,0 +1,61 @@
+AC  M01160
+XX
+ID  V$KID3_01
+XX
+DT  28.02.2008 (created); vma.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Kid3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T09608; Kid3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09609; Kid3; Species: human, Homo sapiens; site(s) included: no.
+BF  T20197; Zfp354c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T20198; Zfp354c; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     16      0      0      C
+02      0     16      0      0      C
+03     16      0      0      0      A
+04      0     16      0      0      C
+05      3      6      6      1      N
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CCACG; R23487; 3; 5;; p.
+BS  CCACT; R23488; 5; 5;; p.
+BS  CCACA; R23489; 3; 5;; p.
+BS  CCACC; R23490; 14; 5;; p.
+BS  CCACC; R23491; 16; 5;; p.
+BS  CCACG; R23492; 13; 5;; p.
+BS  CCACC; R23493; 16; 5;; p.
+BS  CCACG; R23494; 19; 5;; p.
+BS  CCACG; R23495; 15; 5;; p.
+BS  CCACA; R23496; 11; 5;; p.
+BS  CCACG; R23497; 16; 5;; p.
+BS  CCACC; R23498; 16; 5;; p.
+BS  CCACC; R23499; 15; 5;; p.
+BS  CCACA; R23500; 11; 5;; p.
+BS  CCACG; R23501; 16; 5;; p.
+BS  CCACC; R23502; 16; 5;; p.
+XX
+CC  sequences selected with recombinant Kid3 from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0130.
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+RN  [2]; RE0048760.
+RX  PUBMED: 15555547.
+RA  Gao L., Sun C., Qiu H. L., Liu H., Shao H. J., Wang J., Li W. X.
+RT  Cloning and characterization of a novel human zinc finger gene, hKid3, from a C2H2-ZNF enriched human embryonic cDNA library.
+RL  Biochem. Biophys. Res. Commun. 325:1145-1152 (2004).
+XX
+//

@@ -1,0 +1,89 @@
+AC  M01082
+XX
+ID  V$BRCA_01
+XX
+DT  26.01.2006 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BRCA1:USF2
+XX
+DE  BRCA1 containing protein complex with USF2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04074; brca1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15204; brca1; Species: Mammalia; site(s) included: no.
+BF  T05105; brca1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08485; brca1:USF2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      3     12     21      K
+02      2      7     10     24      T
+03      4     15     14     10      N
+04      3     10     13     17      N
+05      0      5     35      3      G
+06      0      0      0     43      T
+07      0      1      0     42      T
+08      2      3     33      5      G
+XX
+BA  43 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTCTGTTG; R18756; 3; 8;; p.
+BS  TGCTGTTG; R18757; 3; 8;; p.
+BS  TCCTGTTG; R18758; 3; 8;; p.
+BS  GTCTGTTG; R18759; 3; 8;; p.
+BS  TTTTGTTG; R18760; 3; 8;; p.
+BS  TCCTGTTG; R18761; 3; 8;; p.
+BS  gtgTGTTG; R18762; 3; 8;; p.
+BS  acCTGTTG; R18763; 3; 8;; p.
+BS  tgaTGTTG; R18764; 3; 8;; p.
+BS  cgCTCTTG; R18765; 3; 8;; p.
+BS  TGGTCTTC; R18766; 3; 8;; p.
+BS  TTCGGTTG; R18767; 3; 8;; p.
+BS  TTCGGTTG; R18768; 3; 8;; p.
+BS  gTCGGTTA; R18769; 3; 8;; p.
+BS  cTCGGTTT; R18770; 3; 8;; p.
+BS  gTCGGTTc; R18771; 3; 8;; p.
+BS  TTAGGTTG; R18772; 3; 8;; p.
+BS  AGGGGTTG; R18773; 3; 8;; p.
+BS  GTGGGTTG; R18774; 3; 8;; p.
+BS  AGGGGTTG; R18775; 3; 8;; p.
+BS  TAGGGTTG; R18776; 3; 8;; p.
+BS  ATGCGTTG; R18777; 3; 8;; p.
+BS  TCTCGTTG; R18778; 3; 8;; p.
+BS  TTGCGTTG; R18779; 3; 8;; p.
+BS  TTCCGTTG; R18780; 3; 8;; p.
+BS  GGGCGTTG; R18781; 3; 8;; p.
+BS  TTTAGTTG; R18782; 3; 8;; p.
+BS  ATGAGTTG; R18783; 3; 8;; p.
+BS  attcGTTG; R18784; 3; 8;; p.
+BS  attcGTTG; R18785; 3; 8;; p.
+BS  GTGGGTTG; R18786; 3; 8;; p.
+BS  GTGGGTTG; R18787; 3; 8;; p.
+BS  TTTTGTTC; R18788; 3; 8;; p.
+BS  TCTCTTTG; R18789; 3; 8;; p.
+BS  gcGTGTTA; R18790; 3; 8;; p.
+BS  TTGTGTTT; R18791; 3; 8;; p.
+BS  TTCATTTG; R18792; 3; 8;; p.
+BS  TATTGTTT; R18793; 3; 8;; p.
+BS  GGTCCTTG; R18794; 3; 8;; p.
+BS  CGAGGTTT; R18795; 3; 8;; p.
+BS  TCTCTTTG; R18796; 3; 8;; p.
+BS  GGCTCTTG; R18797; 3; 8;; p.
+BS  GTATCTCT; R18798; 3; 8;; p.
+XX
+CC  sequences selected with recombinant BRCA1:USF2 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: MA0133.
+XX
+RN  [1]; RE0035633.
+RX  PUBMED: 14502648.
+RA  Cable P. L., Wilson C. A., Calzone F. J., Rauscher FJ 3. r. d., Scully R., Livingston D. M., Li L., Blackwell C. B., Futreal P. A., Afshari C. A.
+RT  Novel consensus DNA-binding sequence for BRCA1 protein complexes.
+RL  Mol. Carcinog. 38:85-96 (2003).
+XX
+//

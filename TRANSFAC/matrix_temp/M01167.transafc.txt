@@ -1,0 +1,76 @@
+AC  M01167
+XX
+ID  V$SAP1A_01
+XX
+DT  04.03.2008 (created); smt.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SAP-1a
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T09270; SAP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16654; SAP-1; Species: Mammalia; site(s) included: no.
+BF  T00737; SAP-1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02128; SAP-1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06074; SAP1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11079; SAP1A; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      6      4      2      N
+02     16      1      2      1      A
+03      0     20      0      0      C
+04      0     20      0      0      C
+05      0      0     20      0      G
+06      0      0     20      0      G
+07     20      0      0      0      A
+08     16      0      0      4      A
+09      4      1     15      0      G
+10      1      6      0     13      T
+11      7      5      6      0      V
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AACCGGAACAC; R23439; 9; 11;; p.
+BS  GACCGGATGCG; R23442; 3; 11;; p.
+BS  CACCGGAAGTC; R23443; 12; 11;; p.
+BS  AACCGGAAATC; R23444; 13; 11;; p.
+BS  GACCGGAAGCA; R23445; 16; 11;; p.
+BS  CACCGGATATA; R23446; 11; 11;; p.
+BS  CACCGGATGTA; R23447; 14; 11;; p.
+BS  AACCGGAAGTA; R23448; 11; 11;; p.
+BS  GACCGGAAGC; R23449; 17; 11; 27; p.
+BS  CACCGGATGTA; R23450; 10; 11;; p.
+BS  AGCCGGAAATG; R23451; 4; 11;; p.
+BS  TCCCGGAAGT; R23452; 17; 11; 27; p.
+BS  CACCGGAAGCG; R23453; 16; 11;; p.
+BS  CACCGGAAGTA; R23454; 2; 11;; p.
+BS  GACCGGAAGTG; R23455; 5; 11;; p.
+BS   ACCGGAAGTC; R23456; 1; 11; 1; p.
+BS   TCCGGAAGCA; R23457; 1; 11; 1; p.
+BS  AGCCGGAAGTG; R23458; 16; 11;; p.
+BS  TACCGGAAGTC; R23459; 1; 11;; p.
+BS  AACCGGAAACG; R23460; 6; 11;; p.
+XX
+CC  sequences selected with recombinant SAP-1a from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0076.
+XX
+RN  [1]; RE0053941.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel123:0001 (2008).
+RN  [2]; RE0052080.
+RX  PUBMED: 8524663.
+RA  Shore P., Sharrocks A. D.
+RT  The ETS-domain transcription factors Elk-1 and SAP-1 exhibit differential DNA binding specificities.
+RL  Nucleic Acids Res. 23:4698-4706 (1995).
+XX
+//

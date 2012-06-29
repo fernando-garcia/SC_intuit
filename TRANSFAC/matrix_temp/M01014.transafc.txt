@@ -1,0 +1,159 @@
+AC  M01014
+XX
+ID  V$SOX_Q6
+XX
+DT  27.08.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00042; V$SOX5_01; Sox-5 (specific).
+HC  M00148; V$SRY_01; sex-determining region Y gene product (specific).
+HC  M00160; V$SRY_02; sex-determining region Y gene product (specific).
+HC  M00410; V$SOX9_B1; SOX (SRY-related HMG box) (specific).
+HC  M01131; V$SOX10_Q6;  (specific).
+HC  M01272; V$SOX2_Q6;  (specific).
+HC  M01284; V$SOX9_Q4;  (specific).
+HC  M01308; V$SOX4_01;  (specific).
+HC  M02116; V$SOX10_Q6_01;  (specific).
+HC  M02246; V$SOX2_01; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02795; V$SOX11_03; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02797; V$SOX13_03; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02799; V$SOX15_03; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02801; V$SOX18_03; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02808; V$SOX8_03; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02813; V$SRY_07; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02899; V$SOX11_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02901; V$SOX14_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02903; V$SOX15_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02905; V$SOX18_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02909; V$SOX5_07; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02910; V$SOX5_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02912; V$SOX8_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02917; V$SRY_05; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M03138; V$SOX10_01; class: Other Alpha-Helix; family: High Mobility Group (specific).
+XX
+BF  T18021; L-Sox5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09507; Sox-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04918; Sox10; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08341; Sox10; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10436; Sox10; Species: Mammalia; site(s) included: no.
+BF  T08334; Sox10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08336; Sox10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08441; Sox10; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08442; Sox10; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02894; Sox11; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19617; Sox11; Species: Mammalia; site(s) included: yes.
+BF  T17001; Sox11; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10902; Sox11; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02895; Sox12; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06018; Sox13; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11097; Sox13; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02420; Sox13; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17714; Sox13; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04919; Sox14; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10887; Sox15; Species: Mammalia; site(s) included: no.
+BF  T10886; Sox15; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T02896; Sox15; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10882; Sox15; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15864; Sox15; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04920; Sox18; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10539; Sox18; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10540; Sox18; Species: Mammalia; site(s) included: no.
+BF  T01843; Sox18; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10550; Sox18; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01837; Sox2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04915; Sox2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09970; Sox2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10231; Sox2; Species: Mammalia; site(s) included: no.
+BF  T10885; Sox2; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01836; Sox2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16034; Sox2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04855; Sox20; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15825; Sox20; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04921; Sox21; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04916; Sox3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01276; Sox4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17043; Sox4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16961; Sox4; Species: Mammalia; site(s) included: no.
+BF  T01838; Sox4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17807; Sox4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16046; SOX5; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16047; SOX5; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10544; Sox5; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T01861; Sox5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10439; Sox5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17612; Sox5; Species: Mammalia; site(s) included: yes.
+BF  T01429; Sox5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10543; Sox5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16536; Sox5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16048; Sox6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10920; Sox6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09432; Sox6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18019; Sox6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18020; Sox6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10919; Sox6 isoform 1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10921; Sox6 isoform 2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10922; Sox6 isoform 3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02897; Sox6-Isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01844; SOX6-Isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04917; sox8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19255; sox8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16044; SOX9; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16045; SOX9; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01853; Sox9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08624; Sox9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10914; Sox9; Species: Mammalia; site(s) included: no.
+BF  T01854; Sox9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09454; Sox9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05485; Sox9; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08440; Sox9; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01845; SoxLZ; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T01987; SRY; Species: dunnart, Sminthopsis macroura; site(s) included: yes.
+BF  T02903; SRY; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T00997; SRY; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09097; SRY; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01986; SRY; Species: mouse, Mus domesticus Torino strain; site(s) included: yes.
+BF  T00996; SRY; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10666; SRY; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10667; SRY; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T21373; Sry; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      4      0      1      C
+02      0      0      1      5      T
+03      0      6      0      0      C
+04      1      0      0      5      T
+05      0      0      0      6      T
+06      0      0      0      6      T
+07      0      0      6      0      G
+08      1      0      0      5      T
+09      0      0      1      5      T
+10      4      1      0      1      A
+11      1      2      1      2      N
+12      1      1      4      0      G
+13      3      1      1      1      A
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CGCTTTGTTCTCA; R03576; 3; 13;; n.
+BS  ATCTTTGTTACAA; R03577; 5; 13;; n.
+BS  TTCTTTGTTACGT; R03578; 5; 13;; n.
+BS  CTCATTGTTATGC; R15133; 13; 13;; n.
+BS  CTCTTTGTTTGGA; R15201; 3; 13;; p.
+BS  CTCTTTGAGAAGG; C00219,  s00367; -1; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; ncluding 1 TRANSCompel site
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

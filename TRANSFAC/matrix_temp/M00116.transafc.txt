@@ -1,0 +1,104 @@
+AC  M00116
+XX
+ID  V$CEBPA_01
+XX
+DT  16.05.1995 (created); ewi.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C/EBPalpha
+XX
+DE  CCAAT/enhancer binding protein alpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T01388; C/EBP; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00107; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09178; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00105; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08465; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08664; C/EBPalpha; Species: Mammalia; site(s) included: no.
+BF  T00104; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08464; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00108; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08574; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02359; C/EBPalpha(p20); Species: mouse, Mus musculus; site(s) included: no.
+BF  T02026; C/EBPalpha(p30); Species: mouse, Mus musculus; site(s) included: no.
+BF  T02027; C/EBPalpha(p30); Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     16     10      7     10      N
+02      9     10     11     13      N
+03     23      5      8      7      A
+04      0      0      0     43      T
+05      0      0      1     42      T
+06     14      2     25      2      R
+07      4     28      8      3      C
+08     13     11      8     11      N
+09     15     13      2     13      N
+10     29      9      2      3      A
+11     30      6      5      2      A
+12     11     11      9     12      N
+13     10     17      7      9      N
+14     16      8      7     12      N
+XX
+BA  43 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCATTACAAAATCA; R06746; 1; 14;; n.
+BS  GCGTTATAGCATCC; R06747; 1; 14;; n.
+BS  ATGTTAAGTAGTGT; R06748; 1; 14;; n.
+BS  TGCTTGAATAACAC; R06749; 1; 14;; n.
+BS  ATGTTACACAAGCA; R06750; 1; 14;; n.
+BS  ATATTGCACAGATA; R06751; 1; 14;; n.
+BS  GTGTTATATGAGCA; R06752; 1; 14;; n.
+BS  TGATTACAAAGATT; R06753; 1; 14;; n.
+BS  AAATTGCCTAACTT; R06754; 1; 14;; n.
+BS  TGTTTGCTCACTCA; R06755; 1; 14;; n.
+BS  TATTTGCCCAGCCC; R06756; 1; 14;; n.
+BS  CCATTTCTCCAACT; R06757; 1; 14;; n.
+BS  ATATTGGCTAATCA; R06758; 1; 14;; n.
+BS  CTGTTGCATTCAAG; R06759; 1; 14;; n.
+BS  GGATTGCAAAAGGT; R06760; 1; 14;; n.
+BS  GTTTTCCTCACCCT; R06761; 1; 14;; n.
+BS  TGCTTGCAAAAGAG; R06762; 1; 14;; n.
+BS  CCATTACCAAATCC; R06763; 1; 14;; n.
+BS  AAGTTGCAACATAA; R06764; 1; 14;; n.
+BS  GCGTTGCGCAGCAT; R06765; 1; 14;; n.
+BS  TAATTGCTTAATAT; R06766; 1; 14;; n.
+BS  TGTTTGGTCAAGTG; R06767; 1; 14;; n.
+BS  AGATTGTGAAAGTG; R06768; 1; 14;; n.
+BS  ATGTTGCGTGCATC; R06769; 1; 14;; n.
+BS  ACCTTGCCCCAGTG; R06770; 1; 14;; n.
+BS  ACCTTACTGCAGGA; R06771; 1; 14;; n.
+BS  CCATGACCACATCA; R06772; 1; 14;; n.
+BS  ACATTGCCCAACTC; R06773; 1; 14;; n.
+BS  CCATTTCTAAAACA; R06774; 1; 14;; n.
+BS  TGTTTGCTTAAAGC; R06775; 1; 14;; n.
+BS  TTATTAGCACACCA; R06776; 1; 14;; n.
+BS  AAATTGATTTCAGG; R06777; 1; 14;; n.
+BS  AAATTGATTTCAAA; R06778; 1; 14;; n.
+BS  GAATTGCGTAAAAG; R06779; 1; 14;; n.
+BS  ATATTGGGAAACAA; R06780; 1; 14;; n.
+BS  CTCTTAGGAAATGT; R06781; 1; 14;; n.
+BS  CAATTGGCCAATCA; R06782; 1; 14;; n.
+BS  GTATTAGGACATGT; R06783; 1; 14;; n.
+BS  AGATTGGTAAACCT; R06784; 1; 14;; n.
+BS  CTATTGCAAATAAA; R06785; 1; 14;; n.
+BS  AGTTTCCCCATGTC; R06786; 1; 14;; n.
+BS  CAATTACCTCACCA; R06787; 1; 14;; n.
+BS  TGTTTACACAACCT; R06788; 1; 14;; n.
+XX
+CC  43 binding sites from 29 genes expressed in the liver but not increasing during acute phase response
+XX
+RN  [1]; RE0003008.
+RA  Johnson P. F., Williams S. C.
+RT  CCAAT/enhancer binding (C/EBP) proteins
+RL  Liver Gene Expression, F. Tronche and M. Yaniv (eds.), R. G. Landes Comp., Austin 1994 0:231-258 (1994).
+XX
+//

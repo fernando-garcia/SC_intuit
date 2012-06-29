@@ -1,0 +1,53 @@
+AC  M00263
+XX
+ID  F$STUAP_01
+XX
+DT  29.10.1997 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  StuAp
+XX
+DE  Aspergillus Stunted protein
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T02248; StuAp; Species: Aspergillus nidulans, Emericella nidulans; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      3      3      1      N
+02      6      0      1      3      W
+03      4      1      0      5      W
+04      0     10      0      0      C
+05      0      0     10      0      G
+06      0     10      0      0      C
+07      0      0     10      0      G
+08      4      2      0      4      W
+09      3      4      3      0      V
+10      4      4      0      2      M
+XX
+BA  10 sequences (compiled matrix imported from literature reference)
+XX
+BS  AGACGCGTCT; R07831; 1; 10;; p.
+BS  GAACGCGTGA; R07832; 1; 10;; p.
+BS  TTTCGCGACA; R07833; 1; 10;; p.
+BS  AATCGCGAGA; R07834; 1; 10;; p.
+BS  CTTCGCGAAC; R07835; 1; 10;; p.
+BS  CTTCGCGCAA; R07836; 1; 10;; p.
+BS  GAACGCGAAC; R07837; 1; 10;; p.
+BS  GAACGCGCCC; R07838; 1; 10;; p.
+BS  CACCGCGTCC; R07839; 1; 10;; p.
+BS  AATCGCGTGT; R07840; 1; 10;; p.
+XX
+CC  binding sites from 10 genes
+XX
+RN  [1]; RE0005955.
+RX  PUBMED: 9312029.
+RA  Dutton J. R., Johns S., Miller B. L.
+RT  StuAp is a sequence-specific transcription factor that regulates developmental complexity in Aspergillus nidulans
+RL  EMBO J. 16:5710-5721 (1997).
+XX
+//

@@ -1,0 +1,47 @@
+AC  M01058
+XX
+ID  V$GFI1B_01
+XX
+DT  26.05.2005 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Gfi1b
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01067; V$GFI1_Q6;  (family).
+XX
+BF  T06586; gfi1b; Species: human, Homo sapiens; site(s) included: no.
+BF  T11202; gfi1b; Species: human, Homo sapiens; site(s) included: no.
+BF  T06585; gfi1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10144; gfi1b; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2     13      1     27      T
+02     55      5      0      1      A
+03     64      0      0      0      A
+04     64      0      0      0      A
+05      0      0      0     64      T
+06      0     64      0      0      C
+07     61      1      0      2      A
+08      4     42     18      0      C
+09     10      2     15     37      T
+10      6      6     45      7      G
+11      5     49      1      5      C
+12     27      4      7     19      W
+XX
+BA  64 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Gfi1b from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0035205.
+RX  PUBMED: 9566867.
+RA  Tong B., Grimes H. L., Yang T. Y., Bear S. E., Qin Z., Du K., El-Deiry W. S., Tsichlis P. N.
+RT  The Gfi-1B proto-oncoprotein represses p21WAF1 and inhibits myeloid cell differentiation.
+RL  Mol. Cell. Biol. 18:2462-2473 (1998).
+XX
+//

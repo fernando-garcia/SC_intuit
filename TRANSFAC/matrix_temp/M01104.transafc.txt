@@ -1,0 +1,42 @@
+AC  M01104
+XX
+ID  V$MOVOB_01
+XX
+DT  14.02.2006 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MOVO-B
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T19165; ZNF339; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19166; ZNF339; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08543; ZNF339; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08542; ZNF339-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08545; ZNF339-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08544; ZNF339-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      6     36      8      G
+02      9     19     10     18      N
+03      2      1     53      0      G
+04      0      0     38     18      G
+05      0      1     54      1      G
+06     14      0     42      0      G
+07      0      2     52      2      G
+XX
+BA  56 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant MOVO-B from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0036118.
+RX  PUBMED: 15225875.
+RA  Unezaki S., Nishizawa M., Okuda-Ashitaka E., Masu Y., Mukai M., Kobayashi S., Sawamoto K., Okano H., Ito S.
+RT  Characterization of the isoforms of MOVO zinc finger protein, a mouse homologue of Drosophila Ovo, as transcription factors.
+RL  Gene 336:47-58 (2004).
+XX
+//

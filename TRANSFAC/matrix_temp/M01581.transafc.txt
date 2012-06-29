@@ -1,0 +1,44 @@
+AC  M01581
+XX
+ID  P$AGL15_02
+XX
+DT  23.10.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AGL15
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03018; AGL15; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T09190; AGL15; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     18     72      0      0      C
+02      0     84      0      6      C
+03     60     11     11      8      A
+04     70      6      8      6      A
+05     85      0      1      4      A
+06     65      3      3     19      A
+07     52      5     15     18      A
+08     25     15     26     24      N
+09     25      0     61      4      G
+10      1      0     89      0      G
+11     62     11      0     17      A
+12     79      2      4      5      A
+13     79      3      5      3      A
+XX
+BA  90 sequences (ChIP-on-chip)
+XX
+CC  AGL15 binding motif defined from ChIP-on-chip experiment in ECT cells; confirmed by qPCR
+XX
+RN  [1]; RE0064505.
+RX  PUBMED: 19767455.
+RA  Zheng Y., Ren N., Wang H., Stromberg A. J., Perry S. E.
+RT  Global Identification of Targets of the Arabidopsis MADS Domain Protein AGAMOUS-Like15.
+RL  Plant Cell 21:2563-2577 (2009).
+XX
+//

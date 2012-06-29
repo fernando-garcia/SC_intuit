@@ -1,0 +1,70 @@
+AC  M00043
+XX
+ID  I$DL_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  22.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  dl
+XX
+DE  dorsal
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00196; Dl; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T08978; Dl-A; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      2     18      2      G
+02      0      0     22      0      G
+03      0      0     22      0      G
+04      4      2      0     16      T
+05      4      1      0     17      T
+06      1      0      0     12      T
+07      0      0      0     22      T
+08      0      0      0     22      T
+09      1     21      0      0      C
+10      0     22      0      0      C
+11      5      8      7      2      N
+XX
+BA  22 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGGTAATTCCC; R05728; 3; 11;; p.
+BS  GGGTATTTCCC; R05729; 1; 11;; p.
+BS  GGGTT TTCCG; R05730; 2; 11; 7; p.
+BS  GGGAT TTCCA; R05731; 3; 11; 8; p.
+BS  GGGAA TTCCC; R05732; 2; 11; 7; p.
+BS  GGGAC TTCCC; R05733; 3; 11; 8; p.
+BS  GGGAT TTCCG; R05734; 3; 11; 8; p.
+BS  GGGTT TTCCA; R05735; 1; 11; 6; p.
+BS  GGGTTTTTCCA; R05736; 2; 11;; p.
+BS  GGGTTTTTCCA; R05737; 2; 11;; p.
+BS  GGGTTTTTCCG; R05738; 2; 11;; p.
+BS  GGGTTTTTCCG; R05739; 3; 11;; p.
+BS  GGGTTTTTCCT; R05740; 4; 11;; p.
+BS  CGGTTTTTCCG; R05741; 1; 11;; p.
+BS  GGGCTTTTCCG; R05742; 3; 11;; p.
+BS  TGGTT TTCCC; R05743; 2; 11; 7; p.
+BS  GGGCA TTCCC; R05744; 5; 11; 10; p.
+BS  GGGTTTTTCCT; R05745; 5; 11;; p.
+BS  CGGTTTTTCCA; R05746; 1; 11;; p.
+BS  GGGTTTTTCCC; R05747; 4; 11;; p.
+BS  GGGTTTTTACG; R05748; 2; 11;; p.
+BS  TGGTT TTCCC; R05749; 4; 11; 9; p.
+XX
+CC  sequences selected with recombinant DL from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 2 rounds of selection and amplification
+XX
+DR  JASPAR: MA0022.
+DR  JASPAR: MA0023.
+XX
+RN  [1]; RE0002913.
+RX  PUBMED: 1582412.
+RA  Pan D., Courey A. J.
+RT  The same dorsal binding site mediates both activation and repression in a context-dependent manner
+RL  EMBO J. 11:1837-1842 (1992).
+XX
+//

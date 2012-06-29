@@ -1,0 +1,68 @@
+AC  M00070
+XX
+ID  V$TAL1BETAITF2_01
+XX
+DT  18.04.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Tal-1beta:ITF-2
+XX
+DE  Tal-1beta:ITF-2 heterodimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T00433; ITF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19028; ITF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19029; ITF-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19030; ITF-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19025; MITF-2A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19027; MITF-2B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19026; MITF-2B-delta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19023; SEF2-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09059; SEF2-1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19024; SEF2-1D; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01800; Tal-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T19290; Tal-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01799; Tal-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16151; Tal-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01448; Tal1-PP22; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19289; Tal1-PP39; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00790; Tal1-PP42; Species: human, Homo sapiens; site(s) included: yes.
+BF  T21563; Tal1-PP42:ITF-2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10     32     43     15      N
+02     12     28     35     25      N
+03     19     23     37     21      N
+04     74      0     14     12      A
+05     72     21      5      2      A
+06      0    100      0      0      C
+07    100      0      0      0      A
+08      0      0     98      2      G
+09     95      2      3      0      A
+10      0      0      0    100      T
+11      0      0    100      0      G
+12      0      3     63     34      K
+13      0     30      0     70      T
+14     17     39     20     24      N
+15     25     21     14     40      N
+16     16     35     26     23      N
+XX
+BA  59 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant Tal-1beta:ITF-2 from a pool of double-stranded oligonucleotides containing a core of 35 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0002932.
+RX  PUBMED: 8289805.
+RA  Hsu H.-L., Huang L., Tsan J. T., Funk W., Wright W. E., Hu J.-S., Kingston R. E., Baer R.
+RT  Preferred sequences for DNA recognition by the TAL1 helix-loop-helix proteins
+RL  Mol. Cell. Biol. 14:1256-1265 (1994).
+XX
+//

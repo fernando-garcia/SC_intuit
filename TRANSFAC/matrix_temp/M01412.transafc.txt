@@ -1,0 +1,58 @@
+AC  M01412
+XX
+ID  V$MSX1_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  11.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Msx-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02070; Msx-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15513; Msx-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T02071; Msx-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T17238; Msx-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02072; Msx-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09218; Msx-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02073; Msx-1; Species: newt, Notophthalmus viridescens; site(s) included: no.
+BF  T02069; Msx-1short; Species: chick, Gallus gallus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.18   0.24   0.27   0.32      N
+02   0.25   0.19   0.39   0.17      N
+03   0.29   0.43   0.11   0.17      N
+04   0.36    0.2   0.11   0.33      N
+05   0.66   0.06   0.16   0.12      A
+06   0.14   0.43   0.13   0.31      N
+07   0.01   0.24      0   0.75      T
+08   0.98   0.02      0      0      A
+09   0.99      0      0      0      A
+10   0.01      0      0   0.99      T
+11   0.01      0      0   0.99      T
+12   0.82      0   0.17   0.01      A
+13   0.44   0.17   0.21   0.18      N
+14    0.1   0.11   0.18   0.62      T
+15   0.26   0.23   0.18   0.33      N
+16   0.31   0.36   0.13    0.2      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0106.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

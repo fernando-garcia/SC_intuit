@@ -1,0 +1,95 @@
+AC  M00193
+XX
+ID  V$NF1_Q6
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-1
+XX
+DE  nuclear factor 1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01196; V$CTF1_01; selection of  the binding sites for CTCF by HOX11 cooperative DNA binding (specific).
+HC  M02103; V$NF1A_Q6;  (specific).
+XX
+BF  T00176; CTF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00177; CTF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00178; CTF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02300; CTF-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02301; CTF-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00533; NF-1; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00536; NF-1; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T00538; NF-1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T01036; NF-1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00534; NF-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00537; NF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01298; NF-1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T00599; NF-1/L; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04933; NF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15976; NF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19713; NF-1A; Species: Mammalia; site(s) included: yes.
+BF  T08176; NF-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15519; NF-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00535; NF-1A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02331; NF-1A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00544; NF-1A1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11331; NF-1A1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02296; NF-1A1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02297; NF-1A2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02298; NF-1A3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02299; NF-1A4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11435; NF-1C; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00174; NF-1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09202; NF-1C; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08191; NF-1C; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01907; NF-1C1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00554; NF-1C2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01908; NF-1C4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00539; NF1C-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17687; NFI; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T19125; NFIA1-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19126; NFIA1-xbb2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08177; NFIA2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08178; NFIA2.1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08175; NFIB6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08185; NFIC10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08186; NFIC11; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08183; NFIC1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08184; NFIC1B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08187; NFIC2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10277; NFIC2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08188; NFIC5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08189; NFIC8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08190; NFIC9; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     17     18     14     26      N
+02     17     24     14     20      N
+03      5     11      1     58      T
+04      0      0      1     74      T
+05      0      0     75      0      G
+06      1      0     74      0      G
+07      5     67      2      1      C
+08     30     13      8     19      N
+09     23     20     20     12      N
+10     16     16     32     11      N
+11     20     19     18     18      N
+12     34      7     19     15      N
+13     10     17     27     21      N
+14     10     41      9     15      C
+15     11     40     12     12      C
+16     30     18      9     18      N
+17     27     12     21     15      N
+18     22     14     20     19      N
+XX
+BA  75 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

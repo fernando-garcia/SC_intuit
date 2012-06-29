@@ -1,0 +1,103 @@
+AC  M00809
+XX
+ID  V$FOX_Q2
+XX
+DT  02.06.2003 (created); dtc.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOX factors
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00130; V$FOXD3_01; fork head box D3 (specific).
+HC  M00290; V$FREAC2_01; Fork head RElated ACtivator-2 (specific).
+HC  M00294; V$HFH8_01; HNF-3/Fkh Homolog-8 (specific).
+HC  M00742; V$HFH4_01;  (specific).
+HC  M02750; V$FOXJ1_03; class: Winged Helix-Turn-Helix; family: Forkhead (specific).
+HC  M02854; V$FOXJ1_04; class: Winged Helix-Turn-Helix; family: Forkhead (specific).
+XX
+BF  T16696; Fast-1; Species: Mammalia; site(s) included: no.
+BF  T02464; FKHL5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11108; FKHL5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18668; FKHL5; Species: Mammalia; site(s) included: yes.
+BF  T02461; FKHL5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11166; FKHL5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02495; FoxD3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09266; FoxD3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09301; foxD3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T09302; foxD3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T09228; foxd3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T09229; foxd3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T02465; FOXF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11110; FOXF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02514; FOXF2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11149; FOXF2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04135; FOXH1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T08672; FOXH1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04119; FOXH1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15137; FOXH1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04100; FOXH1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09107; FOXH1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16697; FOXH1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10174; FOXJ1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02460; FOXJ1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11164; FOXJ1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02520; FOXJ1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11174; FOXJ1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02519; FOXJ1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04221; FOXJ1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18389; HFH-2; Species: Mammalia; site(s) included: yes.
+BF  T04167; HFH2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15135; HFH2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04166; HFH2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15134; HFH2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02290; HFH2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15133; HFH2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      3      6      4      K
+02      8      0      1      4      W
+03      3      2      1      7      T
+04      0      0      1     12      T
+05      4      0      9      0      G
+06      0      0      0     13      T
+07      1      0      1     11      T
+08      0      0      2     11      T
+09      7      0      6      0      R
+10      0      4      0      9      T
+11      0      1      0     12      T
+12      2      0      1     10      T
+13      7      0      1      5      W
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GATTATTTGCTTA; R05040; 1; 13;; p.
+BS  CACTATTTACTTA; R05041; 4; 13;; n.
+BS  CAGTGTTTGTCTT; R05042; 4; 13;; n.
+BS  GAATGTTTACTAT; R05059; 1; 13;; n.
+BS  TAAGGTATGTTTA; R05060; 5; 13;; n.
+BS  TTTTATTTATTTA; R05061; 5; 13;; n.
+BS  CAATGTTTATTAA; R05063; 1; 13;; p.
+BS  GGCTGTTTATTTT; R05064; 1; 13;; p.
+BS  GATTATTGACTTA; R09742; 6; 13;; n.
+BS  TTTTGTTTGTTTT; R12960; 1; 13;; p.
+BS  TTTTGTTTGTTTT; R12962; 1; 13;; p.
+BS  GTTTGTTTGTTTG; R12963; 5; 13;; p.
+BS  GATTGTGGATTGA; C00201,  s00335; 2; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better; includes 1 TRANSCompel site
+XX
+RN  [1]; RE0023232.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0002 (2003).
+RN  [2]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

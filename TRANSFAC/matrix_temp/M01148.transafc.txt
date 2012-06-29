@@ -1,0 +1,96 @@
+AC  M01148
+XX
+ID  V$DMRT3_01
+XX
+DT  19.08.2007 (created); vma.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DMRT3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T10734; DMRT3; Species: human, Homo sapiens; site(s) included: no.
+BF  T10735; DMRT3; Species: human, Homo sapiens; site(s) included: no.
+BF  T10723; DMRT3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10724; DMRT3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15937; DMRT3; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15994; DMRT3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T15995; DMRT3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     17      5     11      7      N
+02     20      1      7     12      W
+03     15      1      4     20      W
+04      2      1      0     37      T
+05      1      4      4     31      T
+06      1      0     39      0      G
+07     20      2      0     18      W
+08      1      0      0     39      T
+09     39      0      1      0      A
+10      0     40      0      0      C
+11     37      0      0      3      A
+12     14      0      0     26      W
+13      6      1      2     31      T
+14      5      4     14     17      K
+15      6      7      3     24      T
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AATTTGTAACATTTT; R21920; 2; 15;; p.
+BS  AATTTGATACATTGC; R21921; 2; 15;; p.
+BS  ATTTTGTTACTTTGT; R21922; 2; 15;; p.
+BS  CGGTGGTTACATTGT; R21923; 2; 15;; p.
+BS  TGTTTGTTGCATTTG; R21924; 2; 15;; p.
+BS  AAGTTGTTACATATG; R21925; 2; 15;; p.
+BS  GATTCGTTACAATGT; R21926; 2; 15;; p.
+BS  GGTTGGCTACATTGT; R21927; 2; 15;; p.
+BS  GTTTTGATACAATTT; R21928; 2; 15;; p.
+BS  AAATTGATACATTCA; R21929; 2; 15;; p.
+BS  CTATTGATACAAAGT; R21930; 2; 15;; p.
+BS  TTATTGATACAATGT; R21931; 2; 15;; p.
+BS  GTTTGGATACATTTG; R21932; 2; 15;; p.
+BS  AATTTGTTACATTTT; R21933; 2; 15;; p.
+BS  TGTTCGATACATTGT; R21934; 2; 15;; p.
+BS  GATTTGATACAATGT; R21935; 2; 15;; p.
+BS  AGGTTGTTACAAACT; R21936; 2; 15;; p.
+BS  ATATTGCTACAATAT; R21937; 2; 15;; p.
+BS  GAATCGATACAATTT; R21938; 2; 15;; p.
+BS  ACTTTGTTACATTGC; R21939; 2; 15;; p.
+BS  GAACCGTTACATTTC; R21940; 2; 15;; p.
+BS  ATATTGATACATAAC; R21941; 2; 15;; p.
+BS  GTTTTGATACAAATT; R21942; 2; 15;; p.
+BS  TAAATGATACATTCA; R21943; 2; 15;; p.
+BS  AAATTGATACAAATA; R21944; 2; 15;; p.
+BS  CGATTGATACATGTT; R21945; 2; 15;; p.
+BS  AATAGGATACAATGT; R21946; 2; 15;; p.
+BS  CTTTTGATACATTTT; R21947; 2; 15;; p.
+BS  AAATAGATACAATAC; R21948; 2; 15;; p.
+BS  AAATTGATACATTGT; R21949; 2; 15;; p.
+BS  GTTTTGTTACATCGA; R21950; 2; 15;; p.
+BS  CAATTGTTACAATAT; R21951; 2; 15;; p.
+BS  AGTTTATTACATTTT; R21952; 2; 15;; p.
+BS  TAATTGTTACATTTA; R21953; 2; 15;; p.
+BS  TATTTGTTACATGTA; R21954; 2; 15;; p.
+BS  AATTTGTTACAATAC; R21955; 2; 15;; p.
+BS  TTTTTGTTACTTTGT; R21956; 2; 15;; p.
+BS  AACTTGATACATTCT; R21957; 2; 15;; p.
+BS  GTATTGATACTTTTC; R21958; 2; 15;; p.
+BS  GAGTTGTTACATTTT; R21959; 2; 15;; p.
+XX
+CC  sequences selected with recombinant DMRT3 from a pool of double-stranded oligonucleotides containing a core of 19 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0050600.
+RX  PUBMED: 17605809.
+RA  Murphy M. W., Zarkower D., Bardwell V. J.
+RT  Vertebrate DM domain proteins bind similar DNA sequences and can heterodimerize on DNA.
+RL  BMC Mol. Biol. 8:58 (2007).
+RN  [2]; RE0050097.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel113:0001 (2007).
+XX
+//

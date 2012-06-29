@@ -1,0 +1,61 @@
+AC  M00238
+XX
+ID  V$BARBIE_01
+XX
+DT  09.02.1996 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Barbie Box
+XX
+DE  barbiturate-inducible element
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+P0      A      C      G      T
+01     10      2      1      2      A
+02      2      1      3      9      T
+03      4      7      1      3      N
+04      6      2      2      5      N
+05     15      0      0      0      A
+06     15      0      0      0      A
+07     15      0      0      0      A
+08      0      0     15      0      G
+09      1      9      4      1      C
+10      4      3      1      7      N
+11      1      1     10      3      G
+12      4      1      8      2      G
+13      5      2      4      4      N
+14      2      0      9      4      G
+15      2      1     11      1      G
+XX
+BA  15 sequences (compiled matrix imported from literature reference)
+XX
+BS  ATCAAAAGCTGGTGG; R07642; 1; 15;; p.
+BS  ATAAAAAGCTGGTGC; R07643; 1; 15;; p.
+BS  AGCTAAAGCAGGAGG; R07644; 1; 15;; p.
+BS  AGCCAAAGCAGGAGG; R07645; 1; 15;; p.
+BS  TTCAAAAGAGGGCTT; R07646; 1; 15;; p.
+BS  GTCTAAAGTCCAGGG; R07647; 1; 15;; p.
+BS  AGGGAAAGGTGGTGG; R07648; 1; 15;; p.
+BS  ATTTAAAGGCAAAGG; R07649; 1; 15;; p.
+BS  AAAAAAAGCTGAATG; R07650; 1; 15;; p.
+BS  ATCAAAAGCTTGGGA; R07651; 1; 15;; p.
+BS  ATAAAAAGGAGCAAG; R07652; 1; 15;; p.
+BS  ATAGAAAGCATTCTG; R07653; 1; 15;; p.
+BS  CATTAAAGCCTGTGG; R07654; 1; 15;; p.
+BS  TCCCAAAGCTGTGTG; R07655; 1; 15;; p.
+BS  CTTTAAAGGTGAGAA; R07656; 1; 15;; p.
+XX
+CC  binding sites from 10 pro- and eukaryotic genes
+XX
+RN  [1]; RE0003794.
+RX  PUBMED: 7876210.
+RA  Liang Q., He J.-S., Fulco A. J.
+RT  The role of Barbie box sequences as cis-acting elements involved in the barbiturate-mediated induction of cytochrome P450BM-1 and P450BM-3 in Bacillus megaterium
+RL  J. Biol. Chem. 270:4438-4450 (1995).
+XX
+//

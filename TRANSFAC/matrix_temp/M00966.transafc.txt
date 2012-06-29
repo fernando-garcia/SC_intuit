@@ -1,0 +1,124 @@
+AC  M00966
+XX
+ID  V$DR3_Q4
+XX
+DT  19.11.2003 (created); dtc.
+DT  19.11.2003 (updated); oke.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  VDR, CAR, PXR
+XX
+DE  direct repeat 3
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00444; V$VDR_Q3; vitamin D receptor; mediates vitamin D3-signaling, often dimerizes with RXR-alpha (specific).
+HC  M00518; V$PPARA_02; PPAR-alpha:RXR-alpha heterodimer (peroxisome proliferator activated factor alpha:retinoid X receptor alpha) (specific).
+HC  M00961; V$VDR_Q6; half-site matrix of VDRE (vitamine D3 response element); VDR can bind as a homodimer or a heterodimer with RXR (specific).
+HC  M02262; V$PPARGRXRA_01; class: Zinc-coordinating; family: Hormone-nuclear Receptor, heterodimer (specific).
+HC  M02272; V$RXR::RAR_01; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02791; V$RXRA_03; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02895; V$RXRA_04; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+XX
+BF  T04659; BXR-beta; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T14511; BXR-beta; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02261; CAR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05687; CAR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05312; CAR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05257; CAR2:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05676; CAR:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05315; CAR:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08949; PXR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04629; PXR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15803; PXR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04618; PXR-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05673; PXR-isoform1:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04617; PXR-isoform1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05671; PXR-isoform1A:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05672; PXR-isoform1A:RXR-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19136; PXR-isoform1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19137; PXR-isoform1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04619; PXR-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05674; PXR-isoform2:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19138; PXR-isoform2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19139; PXR-isoform2B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19140; PXR-isoform2C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04641; PXR-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01359; RXR-alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T19709; RXR-alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01345; RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08433; RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09964; RXR-alpha; Species: Mammalia; site(s) included: no.
+BF  T08965; RXR-alpha; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01331; RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08348; RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08133; RXR-alpha; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T04383; RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08930; RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01334; RXR-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13741; RXR-beta; Species: Mammalia; site(s) included: no.
+BF  T01332; RXR-beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01349; RXR-beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04610; SXR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05670; SXR:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00884; VDR; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01369; VDR; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T00885; VDR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08482; VDR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00883; VDR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09401; VDR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00882; VDR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08481; VDR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08928; VDR-M4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      2      7      0      R
+02      7      2      5      0      R
+03      2      3      0      9      T
+04      1      3     10      0      G
+05      6      3      3      2      N
+06      8      6      0      0      M
+07      0     14      0      0      C
+08      0      4      2      8      Y
+09      0      4      1      9      T
+10      3      5      2      4      N
+11      4      6      2      2      N
+12      0      0      0     14      T
+13      0      4      9      1      G
+14     10      3      1      0      A
+15      7      7      0      0      M
+16      0     12      0      2      C
+17      0     10      0      4      C
+18      2      2      6      4      N
+19      0      5      3      6      Y
+20      1      4      3      6      N
+21      1      0      4      9      T
+XX
+BA  14 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AATGTCCTCATTCACCCAGTG; R01188; -2; 21;; n.
+BS  CGTGAACCTCGTGAACCTTGT; R10003; -3; 21;; n.
+BS  GAACGCCGGAGTTCACCGGGT; R10005; 6; 21;; n.
+BS  CCCGGACGCCCTCGCTCACCT; R10007; -3; 21;; p.
+BS  GCACACCCTCCTGACCCTCAT; R10018; -2; 21;; n.
+BS  GGCGCCCTCACTCACCTCGCT; R10020; 3; 21;; p.
+BS  AGCGCACCCGCTGAACCCTGG; R10021; 3; 21;; p.
+BS  AGTGGACTTTTTCCCCCTCTT; R10023; -2; 21;; p.
+BS  GGTCTCCCTTCTGCCTCGCTG; R10041; -4; 21;; n.
+BS  GATGAACTTCATGAACTGTCT; R10080; 4; 21;; p.
+BS  GATGAACTTTATGAACTGTTT; R10081; 1; 21;; n.
+BS  AATGAACTTGCTGACCCTCTG; R10853; 4; 21;; p.
+BS  GATGAACTTCATGAACTGTCT; R14179; -2; 21;; n.
+BS  AATACCCTTTATGAACCGTTA; R14201; 2; 21;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

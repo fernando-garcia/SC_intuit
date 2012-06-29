@@ -1,0 +1,74 @@
+AC  M01176
+XX
+ID  F$RGT1_Q5
+XX
+DT  12.03.2008 (created); dtc.
+DT  18.03.2008 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RGT1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03556; RGT1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     12      0     11     11      D
+02     10      1      0     23      T
+03      1      0      0     33      T
+04      6      5      1     22      T
+05      3      6      2     23      T
+06      0      0      1     33      T
+07      0     34      0      0      C
+08      0     34      0      0      C
+09      3      0     28      3      G
+10     12      4      7     11      N
+XX
+BA  34 sequences (matrix compiled from individual genomic sites)
+XX
+BS  atttctccgt; R22376; 9; 10;; n.
+BS  aatattccga; R22385; 9; 10;; n.
+BS  attacgccga; R22386; 9; 10;; n.
+BS  tctcttccgg; R22387; 9; 10;; n.
+BS  aattttcctt; R22388; 9; 10;; n.
+BS  aatgttccgc; R22389; 9; 10;; n.
+BS  atttctccgt; R22390; 9; 10;; n.
+BS  ttttttccgt; R22391; 9; 10;; n.
+BS  gtttttccgg; R22392; 9; 10;; n.
+BS  attcgtccgg; R22394; 9; 10;; n.
+BS  gatattccgt; R22395; 9; 10;; n.
+BS  gataatccgc; R22396; 9; 10;; n.
+BS  atttttccag; R22399; 6; 10;; n.
+BS  gattttccgc; R22401; 9; 10;; n.
+BS  gtatttccgg; R22402; 9; 10;; n.
+BS  ttttgtccgt; R22405; 9; 10;; n.
+BS  attcctccga; R22407; 9; 10;; n.
+BS  atttttcctt; R22409; 9; 10;; n.
+BS  gatattccga; R22410; 9; 10;; n.
+BS  ttttttccat; R22414; 9; 10;; n.
+BS  ttttctccga; R22415; 9; 10;; n.
+BS  ttttttccgc; R22416; 9; 10;; n.
+BS  gtttttccga; R22417; 9; 10;; n.
+BS  gataatccga; R22418; 9; 10;; n.
+BS  gtttttccga; R22419; 9; 10;; n.
+BS  ttttttccgt; R22420; 9; 10;; n.
+BS  gtttttccga; R22421; 9; 10;; n.
+BS  ttttatccga; R22422; 9; 10;; n.
+BS  aattttccgt; R22423; 9; 10;; n.
+BS  ttttctccgg; R22424; 9; 10;; n.
+BS  aattttccga; R22425; 9; 10;; n.
+BS  gtttttccgg; R22613; 6; 10;; n.
+BS  TTTCTTCCTT; R22622; 14; 10;; p.
+BS  tttcttccaa; R22623; 15; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+XX
+//

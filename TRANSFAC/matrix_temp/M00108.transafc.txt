@@ -1,0 +1,51 @@
+AC  M00108
+XX
+ID  V$NRF2_01
+XX
+DT  05.05.1995 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NRF-2/GABP
+XX
+DE  nuclear respiratory factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01198; GABP; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01199; GABP; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      1      1      0      A
+02      1      5      1      0      C
+03      1      6      0      0      C
+04      0      0      7      0      G
+05      0      0      7      0      G
+06      7      0      0      0      A
+07      7      0      0      0      A
+08      0      0      7      0      G
+09      3      1      1      2      N
+10      0      2      4      1      G
+XX
+BA  7 sequences (compiled matrix imported from literature reference)
+XX
+BS  ACCGGAAGAG; R06675; 1; 10;; p.
+BS  ACCGGAAGAG; R06676; 1; 10;; p.
+BS  GCAGGAAGCG; R06677; 1; 10;; p.
+BS  AGCGGAAGAC; R06678; 1; 10;; p.
+BS  AACGGAAGTC; R06679; 1; 10;; p.
+BS  CCCGGAAGTG; R06680; 1; 10;; p.
+BS  ACCGGAAGGT; R06681; 1; 10;; p.
+XX
+CC  binding sites from 3 genes
+XX
+RN  [1]; RE0000801.
+RX  PUBMED: 8383622.
+RA  Virbasius J. V., Virbasius C.-M. A., Scarpulla R. C.
+RT  Identity of GABP with NRF-2, a multisubunit activator of cytochrome oxidase expression, reveals a cellular role for an Ets domain activator of viral promoters
+RL  Genes Dev. 7:380-392 (1993).
+XX
+//

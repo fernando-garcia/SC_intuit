@@ -1,0 +1,50 @@
+AC  M02254
+AS  MA0035
+XX
+ID  V$GATA1_09
+XX
+DT  15.11.2011 (created); jaspar.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Gata1
+XX
+DE  class: Zinc-coordinating; family: GATA
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00203; V$GATA_C; GATA binding site (family).
+HP  M00789; V$GATA_Q6;  (family).
+XX
+BF  T00305; GATA-1; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T08291; GATA-1; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01   1423    560   1242    775      N
+02    708   1633   1235    424      N
+03   2782     31     10   1177      A
+04      0      0   4000      0      G
+05   4000      0      0      0      A
+06     27     29    109   3835      T
+07   3887      0      6    107      A
+08   3550      4    383     63      A
+09    799    681   2296    224      G
+10   1432    897   1360    311      N
+11   1487    829   1099    585      N
+XX
+BA  4000 sequences (ChIP-Seq)
+XX
+CC  imported from JASPAR; data is from Frank Grosvelds Lab.
+XX
+DR  JASPAR: MA0035.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

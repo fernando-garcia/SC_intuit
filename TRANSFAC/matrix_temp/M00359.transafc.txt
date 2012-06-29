@@ -1,0 +1,46 @@
+AC  M00359
+XX
+ID  P$BZIP911_02
+XX
+DT  06.08.1999 (created); rhe.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  bZIP911
+XX
+DE  bZIP transcription factor from Antirrhinum majus
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02790; bZIP911; Species: garden snapdragon, Antirrhinum majus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0     10      0      G
+02      6      0      4      0      R
+03      0      0      0     10      T
+04      0      0     10      0      G
+05     10      0      0      0      A
+06      0     10      0      0      C
+07      0      0     10      0      G
+08      0      0      0     10      T
+09      0      0     10      0      G
+10      0      0      0     10      T
+11      8      1      1      0      A
+12      0     10      0      0      C
+XX
+BA  10 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant bZIP911 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0097.
+XX
+RN  [1]; RE0013780.
+RX  PUBMED: 9680995.
+RA  Martinez-Garcia J. F., Moyano E., Alcocer M. J. C., Martin C.
+RT  Two bZIP proteins from Antirrhinum flowers preferentially bind a hybrid C-box/G-box motif and help to define a new sub-family of bZIP transcription factors.
+RL  Plant J. 13:489-505 (1998).
+XX
+//

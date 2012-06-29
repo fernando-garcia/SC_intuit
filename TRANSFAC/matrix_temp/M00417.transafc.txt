@@ -1,0 +1,51 @@
+AC  M00417
+XX
+ID  P$ATHB9_01
+XX
+DT  20.11.2000 (created); rge.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATHB-9
+XX
+DE  homeobox transcription factor belonging to the small family of HD-ZIPIII proteins
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T04001; ATHB-9; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      2      1      2      N
+02      5      3      3      3      N
+03      5      4      2      5      N
+04      3      8      2      5      N
+05      0      1     25      0      G
+06      0      6      0     20      T
+07     25      0      1      0      A
+08     26      0      0      0      A
+09      0      0      0     26      T
+10      0      0     26      0      G
+11     26      0      0      0      A
+12      0      0      0     26      T
+13      0      0      3     23      T
+14     17      0      9      0      R
+15      0     25      1      0      C
+16      5      1      4      7      N
+17      2      6      0      4      Y
+18      0      3      4      3      B
+19      0      5      3      0      S
+XX
+BA  26 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant ATHB-9 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0015307.
+RX  PUBMED: 9747806.
+RA  Sessa G., Steindler C., Morelli G., Ruberti I.
+RT  The Arabidopsis Athb-8, -9 and -14 genes are members of a small gene family coding for highly related HD-ZIP proteins
+RL  Plant Mol. Biol. 38:609-622 (1998).
+XX
+//

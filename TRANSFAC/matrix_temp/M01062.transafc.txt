@@ -1,0 +1,49 @@
+AC  M01062
+XX
+ID  P$AGL2_02
+XX
+DT  27.05.2005 (created); rhe_cga.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AGL2
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03024; AGL2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13809; AGL2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14     15      7     15      N
+02     14      6     10     21      N
+03     11      4      6     30      T
+04     19      7      9     16      N
+05      0     51      0      0      C
+06      0     46      0      5      C
+07     39      5      1      6      A
+08     20      2      4     25      W
+09     37      0      0     14      A
+10     25      0      0     26      W
+11     28      4      4     15      W
+12      4      6      3     38      T
+13     26      0     25      0      R
+14      0      0     51      0      G
+15     23     11      3     14      N
+16     40      3      0      8      A
+17     33      5      5      8      A
+18      6      8     17     20      N
+XX
+BA  51 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AGL2 from a pool of double-stranded oligonucleotides containing a core of 51 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0035218.
+RX  PUBMED: 8597661.
+RA  Huang H., Tudor M., Su T., Zhang Y., Hu Y., Ma H.
+RT  DNA binding properties of two Arabidopsis MADS domain proteins: binding consensus and dimer formation.
+RL  Plant Cell 8:81-94 (1996).
+XX
+//

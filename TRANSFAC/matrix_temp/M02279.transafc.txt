@@ -1,0 +1,53 @@
+AC  M02279
+AS  MA0018
+XX
+ID  V$CREB1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CREB1
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00916; V$CREB_Q2_01;  (family).
+HP  M00917; V$CREB_Q4_01;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T08562; CREB1; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0      1      1      9      T
+02      0      1     10      0      G
+03     11      0      0      0      A
+04      0      9      2      0      C
+05      1      0     10      0      G
+06      0      3      0      8      T
+07      2      7      1      1      C
+08      8      0      1      2      A
+XX
+BA  11 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Annotations from PAZAR CREB1_RAT + CREB1_HUMAN + CREB1_MOUSE in the pleiades genes project (TF0000110, TF0000150, TF0000732)
+XX
+DR  JASPAR: MA0018.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

@@ -1,0 +1,46 @@
+AC  M01726
+XX
+ID  F$YAP1_Q3
+XX
+DT  26.04.2010 (created); dtc.
+DT  21.11.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YAP1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00028; YAP1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      2      0      1      M
+02      4      1      0      0      A
+03      0      0      0      6      T
+04      0      1      0      5      T
+05      6      0      0      0      A
+06      0      0      6      0      G
+07      0      0      0      6      T
+08      4      2      0      0      A
+09      5      0      0      1      A
+10      1      0      2      2      K
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  acttagtaat; R22322; 8; 10;; n.
+BS  cattagtcag; R22323; 9; 10;; n.
+BS  AATTAGTCAG; R22324; 5; 10;; p.
+BS  nnttagtaan; R22641; -1; 10;; n.
+BS  tatcagtata; R22761; 1; 10;; n.
+BS  CATTAGTAAT; R23818; 8; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

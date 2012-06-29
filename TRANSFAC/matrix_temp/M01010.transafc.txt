@@ -1,0 +1,89 @@
+AC  M01010
+XX
+ID  V$HMGIY_Q3
+XX
+DT  27.08.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HMGIY
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01300; V$HMGA2_01; HMGA2 binding site (specific).
+HC  M01653; V$HMGIY_01;  (specific).
+HC  M01879; V$HMGIY_Q4;  (specific).
+XX
+BF  T01859; HMGI-C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15700; HMGI-C; Species: Mammalia; site(s) included: no.
+BF  T01860; HMGI-C; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15688; HMGI-C; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02368; HMGIY; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10358; HMGIY; Species: Mammalia; site(s) included: no.
+BF  T10639; HMGIY; Species: Mammalia; site(s) included: no.
+BF  T01852; HMGIY; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06606; HMGIY; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01851; HMGIY-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10672; HMGIY-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06607; HMGIY-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01980; HMGIY-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19006; HMGIY-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06608; HMGIY-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19005; HMGIY-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11      6      2      6      N
+02      7      7      6      5      N
+03      4      1      7     13      K
+04      2      1     14      8      K
+05      3     10      8      4      N
+06     18      2      1      4      A
+07     14      0      3      8      W
+08      7      0      1     17      T
+09      0      2      0     23      T
+10      4      0      1     20      T
+11      3      8      4     10      N
+12      3      9      1     12      Y
+13      3      7      0     15      T
+14      5      4      9      7      N
+15     10      2      5      8      N
+XX
+BA  25 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCGGGAATTTCCCTG; R04931; 18; 15;; p.
+BS  AATAAAATTTTCCAA; R05081; 12; 15;; p.
+BS  GTGGGAAATTCCTCT; R13016; 10; 15;; p.
+BS  TAGTCATTTTCCTGT; R14456; 10; 15;; p.
+BS  ACTTTAATCTTTTGG; R14461; 3; 15;; p.
+BS  CGCGCCAATTGTTCA; R14462; 13; 15;; n.
+BS  ACAACAATTGCTTGC; R14463; -1; 15;; p.
+BS  AAAGCAGTTTTATTA; R14464; 1; 15;; n.
+BS  TATGCAATTAGCTTA; R14465; -5; 15;; n.
+BS  AGTGGATATAGTTAT; R14466; -5; 15;; n.
+BS  CTTTCAGTTTTCCTA; R14731; 11; 15;; n.
+BS  TATTCATTTTATTCA; R14740; -1; 15;; n.
+BS  GCTTCTAATATTCAT; R14743; 8; 15;; n.
+BS  ACGGAAGTTTAAAGA; R14765; 1; 15;; n.
+BS  ACTTCCTATATTTGA; R14809; 5; 15;; p.
+BS  AAACTATATTGTCAT; R14810; 6; 15;; p.
+BS  AAGTGTTTTTTTTTT; R14811; 14; 15;; n.
+BS  CGTGGATATTCCCGG; C00056,  s00086; -5; 15;; p.
+BS  CGGGAAAGTTTTTGG; C00058,  s00090; -4; 15;; p.
+BS  TTGGGGATTTCCTCT; C00059,  s00092; -6; 15;; p.
+BS  ATTGTAATTTTAAGC; C00093,  s00141; -7; 15;; p.
+BS  CCTTTTTTTTATATA; C00146,  s00228; 2; 15;; n.
+BS  AGAGCTATTTTGCAT; C00329,  s00574; 1; 15;; n.
+BS  TGTGGAATCTCCTGG; C00344,  s00601; -7; 15;; n.
+BS  TTTGGAATTTCTTTA; C00345,  s00602; -5; 15;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better; including 8 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

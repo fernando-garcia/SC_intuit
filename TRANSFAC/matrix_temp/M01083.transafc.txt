@@ -1,0 +1,80 @@
+AC  M01083
+XX
+ID  I$ABDA_Q6
+XX
+DT  10.02.2006 (created); dtc.
+DT  24.02.2006 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Abd-A
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T01992; Abd-A; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      4     18     12      N
+02      3      8     12     17      N
+03     21      6      5      8      A
+04     35      4      1      0      A
+05     40      0      0      0      A
+06      0      0      0     40      T
+07     11      5      7     17      N
+08     16      5      7     12      N
+09     15      3      7     15      N
+10     15      5      6     14      N
+XX
+BA  40 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GATAATTACA; R17332; 4; 10;; p.
+BS  gtcaattatc; R17336; 1; 10;; n.
+BS  ATAAATCTTA; R17339; 8; 10;; p.
+BS  GTACATCATA; R17342; -3; 10;; p.
+BS  tcaaatttta; R17458; -7; 10;; n.
+BS  cgtaatggtc; R17461; 8; 10;; n.
+BS  cgaaatggga; R17464; 12; 10;; n.
+BS  acggatcgtg; R17471; -3; 10;; n.
+BS  gctaattgat; R17475; 1; 10;; n.
+BS  ATAAATTTGA; R17477; 12; 10;; p.
+BS  gcgcattcaa; R17479; -5; 10;; n.
+BS  gcaaattgca; R17482; -3; 10;; n.
+BS  GGCCATTAAG; R17484; 1; 10;; p.
+BS  GCAAATAATT; R17739; -1; 10;; p.
+BS  GTAAATTTGT; R17741; 11; 10;; p.
+BS  TTAAATGGAC; R17744; 6; 10;; p.
+BS  actaatccat; R17745; 8; 10;; n.
+BS  agcaattaag; R17749; 4; 10;; n.
+BS  TTAAATAAAA; R17750; 6; 10;; p.
+BS  TTGAATTAGT; R17753; -2; 10;; p.
+BS  TGAAATAATT; R17754; -1; 10;; p.
+BS  ggaaatttat; R17757; 17; 10;; n.
+BS  CGAAATAATA; R17758; 9; 10;; p.
+BS  TTAAATACAC; R17760; 9; 10;; p.
+BS  ttcaatgtgt; R17762; -6; 10;; n.
+BS  ATAAATAATA; R17765; -2; 10;; p.
+BS  TGGAATATAA; R17766; 1; 10;; p.
+BS  TTAAATAATT; R17768; 4; 10;; p.
+BS  GATAATTGCT; R17771; 3; 10;; p.
+BS  ggtaattttt; R17772; 12; 10;; n.
+BS  TGAAATACAA; R17775; -2; 10;; p.
+BS  cgtaatgaag; R17776; 8; 10;; n.
+BS  ttaaatatat; R17779; 7; 10;; n.
+BS  gcaaatgcat; R17780; 6; 10;; n.
+BS  GACAATCATT; R17783; 19; 10;; p.
+BS  ggaaatatta; R17784; 11; 10;; n.
+BS  GTTAATTTAA; R17787; -1; 10;; p.
+BS  ttaaatgtgc; R17788; -1; 10;; n.
+BS  gtgcattagg; R17790; 3; 10;; n.
+BS  GTCAATTATG; R17916; -2; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0047335.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel101:0001 (2006).
+XX
+//

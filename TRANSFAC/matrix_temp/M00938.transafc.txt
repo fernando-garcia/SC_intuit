@@ -1,0 +1,72 @@
+AC  M00938
+XX
+ID  V$E2F1_Q3_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00050; V$E2F_02; E2F (family).
+HP  M00803; V$E2F_Q2;  (family).
+HP  M00918; V$E2F_Q3_01;  (family).
+HP  M00919; V$E2F_Q4_01;  (family).
+HP  M00920; V$E2F_Q6_01;  (family).
+HP  M00939; V$E2F_Q4_02;  (family).
+XX
+BF  T02951; E2F-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09329; E2F-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01542; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09117; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09570; E2F-1; Species: Mammalia; site(s) included: no.
+BF  T01543; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09126; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02952; E2F-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09988; E2F-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0      2      7      T
+02      0      2      3      6      T
+03      2      3      6      0      G
+04      1      1      9      0      G
+05      0     11      0      0      C
+06      0      0     11      0      G
+07      0      9      2      0      C
+08      0      3      7      1      G
+09      6      1      4      0      R
+10      6      2      2      1      A
+11      8      1      1      1      A
+12      3      4      2      2      N
+13      3      3      4      1      N
+14      0      1     10      0      G
+15      3      3      4      1      N
+16      4      5      2      0      M
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGCGCGCGGAACCGGC; R04352; -5; 16;; n.
+BS  ACCGCGGGAAAACGTC; R08635; -5; 16;; n.
+BS  ACCGCGCCGCCCCGAC; R08861; 1; 16;; n.
+BS  TTGACGCTGTTAAGCC; R08862; 8; 16;; n.
+BS  TTGGCGGGAGATAGGA; R09599; 2; 16;; p.
+BS  TTGGCGCCAAACGGAA; R09603; -5; 16;; n.
+BS  TTACCGCGAAAGGCCG; R09604; -3; 16;; p.
+BS  GGAGCGCGGGGCGGGG; R09627; 1; 16;; n.
+BS  GTGGCGCCCCAGGGGC; R09628; 4; 16;; p.
+BS  TGGGCGCGAAAAAGAA; R09798; -5; 16;; n.
+BS  TTGGCGCGAAATTGCA; C00226,  s00381; -5; 16;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better; ncluding 1 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

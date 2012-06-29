@@ -1,0 +1,55 @@
+AC  M01410
+XX
+ID  V$IRX4_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  11.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRX4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04275; Irx-4; Species: human, Homo sapiens; site(s) included: no.
+BF  T14755; Irx-4; Species: human, Homo sapiens; site(s) included: no.
+BF  T04276; Irx-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14756; Irx-4; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.45   0.08   0.14   0.33      W
+02   0.35   0.18   0.23   0.24      N
+03    0.3    0.2   0.19   0.31      N
+04   0.27   0.23   0.26   0.24      N
+05   0.33   0.01   0.04   0.63      W
+06   0.91   0.01   0.02   0.06      A
+07   0.01   0.94   0.01   0.05      C
+08    0.9      0   0.02   0.08      A
+09   0.08   0.02      0    0.9      T
+10   0.05   0.01   0.94   0.01      G
+11   0.06   0.02   0.01   0.91      T
+12   0.63   0.04   0.01   0.33      W
+13   0.56   0.19    0.1   0.14      A
+14   0.46   0.08   0.16    0.3      W
+15   0.51   0.11   0.13   0.25      A
+16    0.2   0.32   0.24   0.24      N
+17   0.39   0.14   0.15   0.33      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0085.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

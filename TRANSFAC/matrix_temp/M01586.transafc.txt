@@ -1,0 +1,44 @@
+AC  M01586
+XX
+ID  P$TGA2_01
+XX
+DT  23.10.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TGA2
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02795; TGA2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T10928; TGA2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      1     19      3      G
+02     18      2      9      0      R
+03      0      0      0     29      T
+04      0      0     28      1      G
+05     29      0      0      0      A
+06      0     29      0      0      C
+07      0      0     29      0      G
+08      0      0      0     29      T
+09      3     26      0      0      C
+10     29      0      0      0      A
+11      0      1     12     16      K
+12      1     27      0      1      C
+13     27      1      0      1      A
+XX
+BA  29 sequences (ChIP-on-chip)
+XX
+CC  TGA2 binding motif defined from ChIP-on-chip experiment with plants of growth stage 5 sprayed with 1 mM  salicylic acid (SA); confirmed by qPCR
+XX
+RN  [1]; RE0064508.
+RX  PUBMED: 16824183.
+RA  Thibaud-Nissen F., Wu H., Richmond T., Redman J. C., Johnson C., Green R., Arias J., Town C. D.
+RT  Development of Arabidopsis whole-genome microarrays and their application to the discovery of binding sites for the TGA2 transcription factor in salicylic acid-treated plants.
+RL  Plant J. 47:152-162 (2006).
+XX
+//

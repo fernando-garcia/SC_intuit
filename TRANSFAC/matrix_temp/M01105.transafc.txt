@@ -1,0 +1,67 @@
+AC  M01105
+XX
+ID  V$ZBRK1_01
+XX
+DT  22.02.2006 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZBRK1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T08577; ZBRK1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08578; ZBRK1; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0     16      0      G
+02      0      0     16      0      G
+03      0      1     15      0      G
+04      2      7      7      0      S
+05      5      8      3      0      M
+06      5      0     11      0      G
+07      0     16      0      0      C
+08     16      0      0      0      A
+09      0      0     16      0      G
+10      2      5      4      5      N
+11      3      7      1      5      N
+12      4      8      3      1      N
+13      1      0      0     15      T
+14      0      0      0     16      T
+15      0      0      2     14      T
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGGCAGCAGCTCTTT; R18890; 1; 15;; p.
+BS  GGGCGGCAGACTTTT; R18891; 3; 15;; p.
+BS  GGGACGCAGGTGTTT; R18892; 3; 15;; p.
+BS  GGGACGCAGGTGTTT; R18893; 3; 15;; p.
+BS  GGGGAACAGCACTTT; R18894; 1; 15;; p.
+BS  GGGGAGCAGCCATTT; R18895; 3; 15;; p.
+BS  GGGGGACAGTCATTT; R18896; 2; 15;; p.
+BS  GGGGCACAGTCCTTT; R18897; 2; 15;; p.
+BS  GGGCCACAGACCTTT; R18898; 1; 15;; p.
+BS  GGGCCGCAGGGATTT; R18899; 3; 15;; p.
+BS  GGGGAGCAGTACTTT; R18900; 3; 15;; p.
+BS  GGGCCGCAGGCCTTT; R18901; 3; 15;; p.
+BS  GGGCCGCAGTACATT; R18902; 2; 15;; p.
+BS  GGGGAGCAGCCGTTG; R18903; 3; 15;; p.
+BS  GGGCCGCAGTTATTG; R18904; 4; 15;; p.
+BS  GGCGGACAGCTCTTT; R18905; 1; 15;; p.
+XX
+CC  sequences selected with recombinant ZBRK1 from a pool of double-stranded oligonucleotides containing a core of 23 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+RN  [2]; RE0035939.
+RX  PUBMED: 11090615.
+RA  Zheng L., Pan H., Li S., Flesken-Nikitin A., Chen P. L., Boyer T. G., Lee W. H.
+RT  Sequence-specific transcriptional corepressor function for BRCA1 through a novel zinc finger protein, ZBRK1.
+RL  Mol. Cell 6:757-768 (2000).
+XX
+//

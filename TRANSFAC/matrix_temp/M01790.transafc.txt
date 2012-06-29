@@ -1,0 +1,51 @@
+AC  M01790
+XX
+ID  F$IFH1_CA_01
+XX
+DT  23.08.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IFH1:FHL1
+XX
+DE  Matrix for Candida albicans
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T18361; IFH1:FHL1; Species: Candida albicans strain SC5314 (Yeast); site(s) included: yes.
+XX
+P0      A      C      G      T
+01     36      0      1      8      A
+02      6      1      1     37      T
+03      0      1      0     44      T
+04     43      0      2      0      A
+05      0      0     45      0      G
+06      0      0     45      0      G
+07      0      0     44      1      G
+08      0     41      0      4      C
+09      1      0      0     44      T
+10     34      1      4      6      A
+11      1      2      0     42      T
+12     42      0      0      3      A
+13      4      0     41      0      G
+14      2     43      0      0      C
+15      0     45      0      0      C
+16      0     45      0      0      C
+17      0      0      0     45      T
+18     42      0      1      2      A
+19     29      0     14      2      A
+XX
+BA  45 sequences (ChIP-on-chip)
+XX
+CC  used MEME algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0067392.
+RX  PUBMED: 20231876.
+RA  Lavoie H., Hogues H., Mallick J., Sellam A., Nantel A., Whiteway M.
+RT  Evolutionary tinkering with conserved components of a transcriptional regulatory network.
+RL  PLoS Biol. 8:e1000329 (2010).
+XX
+//

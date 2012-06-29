@@ -1,0 +1,69 @@
+AC  M02051
+XX
+ID  V$DLX3_02
+XX
+DT  22.09.2011 (created); smt.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  dlx-3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T22338; dlx-3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      9      9      3      N
+02      0      0      0     30      T
+03     30      0      0      0      A
+04     30      0      0      0      A
+05      0      0      0     30      T
+06      0      1      1     28      T
+07     19      0     10      1      R
+08      2     14      9      5      S
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTAATTAG; R36684; 4; 8;; p.
+BS  CTAATTAC; R36685; 4; 8;; p.
+BS  GTAATTAG; R36686; 4; 8;; p.
+BS  ATAATTGT; R36687; 4; 8;; p.
+BS  CTAATTGG; R36688; 4; 8;; p.
+BS  ATAATTAC; R36689; 4; 8;; p.
+BS  GTAATTAT; R36690; 4; 8;; p.
+BS  ATAATTAG; R36691; 4; 8;; p.
+BS  CTAATTAT; R36692; 4; 8;; p.
+BS  CTAATTGC; R36693; 4; 8;; p.
+BS  TTAATTGC; R36694; 4; 8;; p.
+BS  ATAATGAC; R36695; 4; 8;; p.
+BS  ATAATTGG; R36696; 4; 8;; p.
+BS  ATAATTAC; R36697; 4; 8;; p.
+BS  GTAATTAT; R36698; 4; 8;; p.
+BS  ATAATTGC; R36699; 4; 8;; p.
+BS  ATAATCAG; R36700; 4; 8;; p.
+BS  CTAATTTA; R36701; 4; 8;; p.
+BS  TTAATTGC; R36702; 4; 8;; p.
+BS  ATAATTAG; R36703; 4; 8;; p.
+BS  CTAATTAT; R36704; 4; 8;; p.
+BS  GTAATTGC; R36705; 4; 8;; p.
+BS  GTAATTGC; R36706; 4; 8;; p.
+BS  CTAATTGC; R36707; 4; 8;; p.
+BS  CTAATTAC; R36708; 4; 8;; p.
+BS  GTAATTAG; R36709; 4; 8;; p.
+BS  GTAATTAG; R36710; 4; 8;; p.
+BS  CTAATTAC; R36711; 4; 8;; p.
+BS  GTAATTAA; R36712; 4; 8;; p.
+BS  TTAATTAC; R36713; 4; 8;; p.
+XX
+CC  sequences selected with recombinant Dlx-3 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0071133.
+RX  PUBMED: 9889271.
+RA  Feledy J. A., Morasso M. I., Jang S. I., Sargent T. D.
+RT  Transcriptional activation by the homeodomain protein distal-less 3.
+RL  Nucleic Acids Res. 27:764-770 (1999).
+XX
+//

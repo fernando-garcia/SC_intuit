@@ -1,0 +1,55 @@
+AC  M00526
+XX
+ID  V$GCNF_01
+XX
+DT  16.11.2001 (created); mas.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCNF
+XX
+DE  GCNF (germ cell nuclear factor)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15691; GCNF; Species: human, Homo sapiens; site(s) included: no.
+BF  T15690; GCNF; Species: Mammalia; site(s) included: no.
+BF  T02772; GCNF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15701; GCNF; Species: mouse, Mus musculus; site(s) included: no.
+BF  T04401; GCNF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04400; GCNF-2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9     15      8      5      N
+02      2      5      7     23      T
+03      3     28      5      1      C
+04     31      1      4      1      A
+05     35      0      1      1      A
+06      1      0     36      0      G
+07      0      1     13     23      K
+08      0      0      0     37      T
+09      0     37      0      0      C
+10     37      0      0      0      A
+11     36      1      0      0      A
+12      0      0     34      3      G
+13      1      1     17     18      K
+14      1      1      2     33      T
+15      0     35      0      2      C
+16     34      1      1      1      A
+17      9     14      6      8      N
+18      6     14      7     10      N
+XX
+BA  37 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant GCNF from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0016359.
+RX  PUBMED: 9099702.
+RA  Yan Z. H., Medvedev A., Hirose T., Gotoh H., Jetten A. M.
+RT  Characterization of the response element and DNA binding properties of the nuclear orphan receptor germ cell nuclear factor/retinoid receptor-related testis-associated receptor
+RL  J. Biol. Chem. 272:10565-10572 (1997).
+XX
+//

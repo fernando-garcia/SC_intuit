@@ -1,0 +1,52 @@
+AC  M00047
+XX
+ID  F$QA1F_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  qa-1F
+XX
+DE  qa-1F
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00709; qa-1F; Species: Neurospora crassa; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      7      0      3      C
+02      2      6      1      4      Y
+03      0      1     12      0      G
+04      0      0     13      0      G
+05      4      3      4      2      N
+06      1      0      1     11      T
+07     10      1      2      0      A
+08     12      0      0      1      A
+09      5      0      4      4      D
+10      1      5      2      5      Y
+11      5      2      5      1      R
+12      2      6      0      5      Y
+13      0      0      0     13      T
+14      1      3      0      9      T
+15     11      1      0      1      A
+16      3      1      0      9      T
+17      1     10      1      1      C
+18      2     10      1      0      C
+19      1      3      5      4      N
+20      0      5      5      3      S
+XX
+BA  13 sequences (DNase I footprinting)
+XX
+CC  13 binding sites from 5 genes
+XX
+RN  [1]; RE0001334.
+RX  PUBMED: 2951591.
+RA  Baum J. A., Geever R., Giles N. H.
+RT  Expression of qa-1F activator protein: identification of upstream binding sites in the qa gene cluster and localization of the DNA-binding domain
+RL  Mol. Cell. Biol. 7:1256-1266 (1987).
+XX
+//

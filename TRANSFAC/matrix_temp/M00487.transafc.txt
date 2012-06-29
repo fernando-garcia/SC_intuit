@@ -1,0 +1,55 @@
+AC  M00487
+XX
+ID  I$MTTFA_01
+XX
+DT  18.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  mtTFA
+XX
+DE  mitochondrial transcription factor A
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T04783; mtTFA; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      4      4      K
+02      2      3      2      2      N
+03      3      6      1      0      C
+04      0      0      0     11      T
+05      0      0      0     11      T
+06     11      0      0      0      A
+07      0      0      0     11      T
+08      0      9      2      0      C
+09      5      3      2      1      N
+10      2      3      4      2      N
+11      2      3      1      3      N
+XX
+BA  11 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TCCTTATCCAT; R11161; 8; 11;; p.
+BS  GTATTATCCTC; R11162; 13; 11;; p.
+BS  GCATTATCAG; R11163; 17; 11; 27; p.
+BS    CTTATCACA; R11164; 1; 11; 1, 2; p.
+BS  GCCTTATCAGT; R11165; 15; 11;; p.
+BS  TGATTATCGCC; R11166; 7; 11;; p.
+BS  TTCTTATCGG; R11167; 17; 11; 27; p.
+BS  CAGTTATCTAG; R11168; 15; 11;; p.
+BS     TTATCATC; R11169; 1; 11; 1, 2, 3; p.
+BS  TACTTATGCGT; R11170; 9; 11;; p.
+BS  GGCTTATGACA; R11171; 5; 11;; p.
+XX
+CC  sequences selected with recombinant mtTFA from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0016895.
+RX  PUBMED: 11554753.
+RA  Takata K.-I., Yoshida H., Hirose F., Yamaguchi M., Kai M., Oshige M., Sakimoto I., Koiwai O., Sakaguchi K.
+RT  Drosophila Mitochondrial Transcription Factor A: Characterization of Its cDNA and Expression Pattern during Development.
+RL  Biochem. Biophys. Res. Commun. 287:474-483 (2001).
+XX
+//

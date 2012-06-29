@@ -1,0 +1,51 @@
+AC  M02271
+AS  MA0158
+XX
+ID  V$HOXA5_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXA5
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01452; V$HOX13_02;  (family).
+XX
+BF  T01702; HOXA5; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T13906; HoxA5; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      2     13      0      0      C
+02      7      0      5      4      D
+03      0      7      5      4      B
+04      6      0      1      9      W
+05     14      0      0      2      A
+06     14      0      2      0      A
+07      0      0      0     16      T
+08      0      1      6      9      K
+XX
+BA  15 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Annotations from PAZAR HOXA5_MOUSE + HOXA5_HUMAN (TF0000293, TF0000501) in the pleiades genes project
+XX
+DR  JASPAR: MA0158.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

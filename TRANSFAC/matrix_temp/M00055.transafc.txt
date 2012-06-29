@@ -1,0 +1,54 @@
+AC  M00055
+XX
+ID  V$NMYC_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  N-Myc
+XX
+DE  N-Myc
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T02381; N-Myc; Species: canary, Serinus canaria; site(s) included: no.
+BF  T02382; N-Myc; Species: chick, Gallus gallus; site(s) included: no.
+BF  T02383; N-Myc; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02379; N-Myc; Species: human, Homo sapiens; site(s) included: no.
+BF  T15206; N-Myc; Species: human, Homo sapiens; site(s) included: no.
+BF  T01445; N-Myc; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09018; N-Myc; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03442; N-Myc; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11409; N-Myc; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      7     11      6     16      N
+02     10     15      6      9      N
+03      9     20      6      5      C
+04      0     39      1      0      C
+05     32      0      4      4      A
+06      0     39      0      1      C
+07      2      0     38      0      G
+08      0      3      0     37      T
+09      0      0     40      0      G
+10      6     11      8     15      N
+11     11     16      5      8      N
+12     11     11     11      7      N
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant N-Myc from a pool of double-stranded oligonucleotides containing a core of 63 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0002923.
+RX  PUBMED: 1594445.
+RA  Alex R., Soezeri O., Meyer S., Dildrop R.
+RT  Determination of the DNA sequence recognized by the bHLH-zip domain of the N-Myc protein
+RL  Nucleic Acids Res. 20:2257-2263 (1992).
+XX
+//

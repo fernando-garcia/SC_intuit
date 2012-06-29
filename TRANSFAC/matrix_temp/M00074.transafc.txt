@@ -1,0 +1,68 @@
+AC  M00074
+XX
+ID  V$CETS1P54_02
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Ets-1(p54)
+XX
+DE  c-Ets-1(p54)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00340; V$ETS_B; c-Ets-2 binding sites (family).
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00112; c-Ets-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08495; c-Ets-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10873; c-Ets-1; Species: Mammalia; site(s) included: no.
+BF  T00111; c-Ets-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08420; c-Ets-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05015; c-Ets-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09318; c-Ets-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00114; c-Ets-1 54; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10243; c-Ets-1 54; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02040; c-Ets-1A; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14971; c-Ets-1A; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02123; c-Ets-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14972; c-Ets-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T01400; Ets-1 deltaVII; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9     11      9      4      N
+02      9     11      6      9      N
+03     19      4      4      9      A
+04     10     20      6      2      C
+05     13     18      2      5      M
+06      0      0     40      0      G
+07      0      0     40      0      G
+08     40      0      0      0      A
+09     23      0      0     17      W
+10     15      5     15      4      R
+11     10      8      1     20      T
+12      9      5      7     15      N
+13     11      9      7      8      N
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant c-Ets-1(p54) from a pool of double-stranded oligonucleotides containing a core of 76 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0098.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0002958.
+RX  PUBMED: 1542566.
+RA  Woods D. B., Ghysdael J., Owen M. J.
+RT  Identification of nucleotide preferences in DNA sequences recognised specifially by c-Ets-1 protein
+RL  Nucleic Acids Res. 20:699-704 (1992).
+XX
+//

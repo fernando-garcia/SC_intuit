@@ -1,0 +1,64 @@
+AC  M01108
+XX
+ID  V$HOXA7_01
+XX
+DT  08.03.2006 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXA7
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01704; HOXA7; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01705; HOXA7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17604; HOXA7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01278; HOXA7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01706; HOXA7; Species: quail, Coturnix coturnix; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      9      0      8      Y
+02      0     18      0      0      C
+03     18      0      0      0      A
+04     18      0      0      0      A
+05      0      0      0     18      T
+06      0     18      0      0      C
+07      0      0      5     12      T
+XX
+BA  18 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  tCAATCt; R19055; 9; 7;; p.
+BS  cCAATCt; R19056; 1; 7;; p.
+BS   CAATCt; R19057; 1; 7; 1; p.
+BS  cCAATCt; R19058; 2; 7;; p.
+BS  cCAATCt; R19059; 1; 7;; p.
+BS  tCAATCg; R19060; 3; 7;; p.
+BS  tCAATCt; R19061; 3; 7;; p.
+BS  tCAATCt; R19062; 2; 7;; p.
+BS  tCAATCg; R19063; 6; 7;; p.
+BS  cCAATCt; R19064; 6; 7;; p.
+BS  tCAATCt; R19065; 3; 7;; p.
+BS  cCAATCg; R19066; 3; 7;; p.
+BS  cCAATCg; R19067; 7; 7;; p.
+BS  cCAATCt; R19068; 3; 7;; p.
+BS  cCAATCt; R19069; 2; 7;; p.
+BS  tCAATCg; R19070; 1; 7;; p.
+BS  cCAATCt; R19071; 4; 7;; p.
+BS  tCAATC; R19072; 9; 7; 15; p.
+XX
+CC  sequences selected with recombinant HOXA7 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+RN  [2]; RE0047357.
+RX  PUBMED: 16212549.
+RA  Zhu F., Liu Z. C., Li W. X., Xu X. L.
+RT  Rapid identification of Quox-1 homeodomain DNA-binding sequence using SAAB.
+RL  Biochemistry Mosc. 70:1112-1118 (2005).
+XX
+//

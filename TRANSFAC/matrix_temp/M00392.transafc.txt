@@ -1,0 +1,51 @@
+AC  M00392
+XX
+ID  P$AGL3_01
+XX
+DT  07.06.2000 (created); rge.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AGL3
+XX
+DE  AGL3
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03025; AGL3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13811; AGL3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     22     29     34     10      N
+02     16      9     29     41      N
+03     25      8      4     58      T
+04     27     16     13     39      N
+05      0     92      0      3      C
+06      0     79      0     16      C
+07     82      1      2     10      A
+08     40      4      3     48      W
+09     56      0      1     38      W
+10     35      0      0     60      W
+11     65      1      4     25      A
+12     25      4      3     63      T
+13     64      0     28      3      A
+14      0      0     92      3      G
+15     33     14     15     33      N
+16     52      5      7     31      W
+17     45     23     13     14      N
+18     21     24     26     24      N
+XX
+BA  95 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AGL3 from a pool of double-stranded oligonucleotides containing a core of 95 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0014172.
+RX  PUBMED: 7632923.
+RA  Huang H., Tudor M., Weiss C. A., Hu Y., Ma H.
+RT  The Arabidopsis MADS-box gene AGL3 is widely expressed and encodes a sequence-specific DNA-binding protein
+RL  Plant Mol. Biol. 28:549-567 (1995).
+XX
+//

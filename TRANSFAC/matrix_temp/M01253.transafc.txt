@@ -1,0 +1,45 @@
+AC  M01253
+XX
+ID  V$CNOT3_01
+XX
+DT  10.06.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CNOT3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16377; CNOT3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16077; CNOT3; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7     10     33      0      G
+02      0     11     38      1      G
+03      1     49      0      0      C
+04      0     50      0      0      C
+05      1      0     48      1      G
+06      0     47      2      1      C
+07      0     10     40      0      G
+08      0     33     17      0      S
+09      6     25     14      5      S
+10      0     19     30      1      S
+XX
+BA  50 sequences (Biotin-ChIP)
+XX
+CC  confirmed by qPCR (20 sites)
+XX
+RN  [1]; RE0063069.
+RX  PUBMED: 19339689.
+RA  Hu G., Kim J., Xu Q., Leng Y., Orkin S. H., Elledge S. J.
+RT  A genome-wide RNAi screen identifies a new transcriptional module required for self-renewal.
+RL  Genes Dev. 23:837-848 (2009).
+RN  [2]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+XX
+//

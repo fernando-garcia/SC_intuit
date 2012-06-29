@@ -1,0 +1,50 @@
+AC  M02418
+AS  MA0299
+XX
+ID  F$GAL4_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GAL4
+XX
+DE  class: Zinc-coordinating; family: Fungal Zn cluster
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00302; GAL4; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0   2779      0      0      C
+02      0      0   2779      0      G
+03      0    438   2273     97      G
+04    778    655    927    717      N
+05    292   1137   1151    498      N
+06   1019    810   1002    390      N
+07   2339      0    538     98      A
+08    567   1296    810    194      N
+09   1913    335      0    737      A
+10    659    592   1744    204      G
+11     96    767    494   1786      T
+12   1170    517   1105    404      N
+13      0   1437    729    824      Y
+14    235    392    419   2001      T
+15      0   2779      0      0      C
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0299.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

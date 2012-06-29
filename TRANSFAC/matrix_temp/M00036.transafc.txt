@@ -1,0 +1,73 @@
+AC  M00036
+XX
+ID  V$VJUN_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  22.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  v-Jun
+XX
+DE  v-Jun
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00893; v-Jun; Species: ASV 17, avian sarcoma virus 17; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      8      5      5      N
+02      2     11      3      8      Y
+03      6      0     15      3      G
+04     20      0      4      0      A
+05      0      0      0     24      T
+06      0      0     24      0      G
+07     24      0      0      0      A
+08      0     24      0      0      C
+09      0      0     24      0      G
+10      0      0      0     24      T
+11      0     24      0      0      C
+12     24      0      0      0      A
+13      0      2      1     21      T
+14      5      8      4      7      N
+15      3     13      4      4      C
+16      5     10      0      9      Y
+XX
+BA  24 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTGATGACGTCACCCA; R05629; 9; 16;; p.
+BS  CCAATGACGTCATCCC; R05630; 8; 16;; p.
+BS  GTGGTGACGTCACCCC; R05631; 8; 16;; p.
+BS  CTAATGACGTCATCCC; R05632; 8; 16;; p.
+BS  ACGGTGACGTCATCCC; R05633; 8; 16;; p.
+BS  AGGATGACGTCATCCC; R05634; 8; 16;; p.
+BS  GCTATGACGTCATTCC; R05635; 7; 16;; p.
+BS  CCGATGACGTCATTCC; R05636; 7; 16;; p.
+BS  ACGATGACGTCATACC; R05637; 7; 16;; p.
+BS  TCGATGACGTCATTAA; R05638; 5; 16;; p.
+BS  GGGATGACGTCATGCT; R05639; 5; 16;; p.
+BS  AGTATGACGTCATTCT; R05640; 5; 16;; p.
+BS  GCGGTGACGTCATATT; R05641; 4; 16;; p.
+BS  TAGATGACGTCATTGA; R05642; 4; 16;; p.
+BS  CTAATGACGTCATTTT; R05643; 3; 16;; p.
+BS  TCAGTGACGTCATTGT; R05644; 3; 16;; p.
+BS  ATAATGACGTCAGAAA; R05645; 3; 16;; p.
+BS  TTGATGACGTCATGCA; R05646; 2; 16;; p.
+BS  ATGATGACGTCATGTT; R05647; 2; 16;; p.
+BS  TCGATGACGTCATGGC; R05648; 2; 16;; p.
+BS  CCGATGACGTCATAGC; R05649; 1; 16;; p.
+BS  CTAATGACGTCATCTT; R05650; 1; 16;; p.
+BS  CAGATGACGTCATCCT; R05651; 1; 16;; p.
+BS  CCTATGACGTCATAAT; R05652; 12; 16;; p.
+XX
+CC  sequences selected with recombinant v-Jun from a pool of double-stranded oligonucleotides containing a core of 64 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0002917.
+RX  PUBMED: 8264639.
+RA  Kataoka K., Noda M., Nishizawa M.
+RT  Maf  nuclear oncoprotein recognizes sequences related to an AP-1 site and forms heterodimers with both Fos and Jun
+RL  Mol. Cell. Biol. 14:700-712 (1994).
+XX
+//

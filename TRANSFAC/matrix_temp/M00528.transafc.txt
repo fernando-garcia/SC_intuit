@@ -1,0 +1,69 @@
+AC  M00528
+XX
+ID  V$PPARG_03
+XX
+DT  28.11.2001 (created); mas.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PPAR
+XX
+DE  PPAR (peroxisome proliferator-activated receptor gamma)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00763; V$PPAR_DR1_Q2;  (family).
+XX
+BF  T17892; ORF4-gamma; Species: Mammalia; site(s) included: yes.
+BF  T15932; PPARgamma; Species: cattle, Bos taurus; site(s) included: no.
+BF  T08917; PPARgamma; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T10749; PPARgamma; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T01354; PPARgamma; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T08639; PPARgamma; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05351; PPARgamma; Species: human, Homo sapiens; site(s) included: no.
+BF  T09963; PPARgamma; Species: Mammalia; site(s) included: no.
+BF  T08883; PPARgamma; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T05347; PPARgamma; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06405; PPARgamma; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T05329; PPARgamma; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10937; PPARgamma; Species: Vertebrata; site(s) included: no.
+BF  T04794; PPARgamma1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02736; PPARgamma1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02529; PPARgamma1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05330; PPARgamma1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T04780; PPARgamma2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T03731; PPARgamma2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05332; PPARgamma2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05331; PPARgamma2; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     10      1      2      6      W
+02     11      2      2      4      A
+03      1     10      5      3      S
+04      4      5      1      9      N
+05     10      2      5      2      R
+06      0      0     19      0      G
+07      1      0     18      0      G
+08      3      3      7      6      N
+09      2     12      1      4      C
+10     18      0      1      0      A
+11     14      1      1      3      A
+12     16      1      1      1      A
+13      1      0     18      0      G
+14      0      0     14      5      G
+15      0      1      1     17      T
+16      0     14      4      1      C
+17     16      0      1      2      A
+XX
+BA  19 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0017065.
+RX  PUBMED: 9242684.
+RA  IJpenberg A., Jeannin E., Wahli W., Desvergne B.
+RT  Polarity and specific sequence requirements of peroxisome proliferator-activated receptor (PPAR)/retinoid X receptor heterodimer binding to DNA. A functional analysis of the malic enzyme gene PPAR response element
+RL  J. Biol. Chem. 272:20108-20117 (1997).
+XX
+//

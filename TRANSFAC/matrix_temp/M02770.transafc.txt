@@ -1,0 +1,66 @@
+AC  M02770
+AS  PB0036
+XX
+ID  V$IRF6_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  10.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRF-6
+XX
+DE  class: Winged Helix-Turn-Helix; family: IRF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00772; V$IRF_Q6;  (family).
+HP  M01452; V$HOX13_02;  (family).
+XX
+BF  T05119; IRF-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16659; IRF-6; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     26     36     15     23      N
+02     31     14     19     36      N
+03     26     13     35     26      N
+04     67      5     21      7      A
+05     20     34     11     35      N
+06      3     91      1      6      C
+07      2      0     98      0      G
+08     98      1      1      0      A
+09     70      0      1     29      A
+10     99      0      0      0      A
+11      1     98      1      0      C
+12      2     61      2     35      Y
+13     54     13     24     10      A
+14     46     21     18     16      N
+15     37     19     20     24      N
+16     22     20     30     28      N
+17     28     19     24     30      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0036.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

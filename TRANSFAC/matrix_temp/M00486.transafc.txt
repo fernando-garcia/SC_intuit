@@ -1,0 +1,92 @@
+AC  M00486
+XX
+ID  V$PAX2_02
+XX
+DT  14.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-2
+XX
+DE  paired box factor 2
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00098; V$PAX2_01; Pax-2 (specific).
+XX
+BF  T03031; Pax-2.1; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03219; Pax-2.2; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T00678; Pax-2a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01822; Pax-2b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03013; pax2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10244; pax2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01823; pax2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17526; pax2; Species: Mammalia; site(s) included: yes.
+BF  T16059; pax2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15529; pax2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19178; pax2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19179; pax2-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     12     12      7      6      N
+02     12      9      6     10      N
+03      5     10      9     13      N
+04     34      0      2      1      A
+05     37      0      0      0      A
+06     36      0      0      1      A
+07      0     20     12      5      S
+08      8     12      4     13      N
+09      8     17      7      5      N
+XX
+BA  37 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CTTAAACTC; R11116; 19; 9;; p.
+BS  ATCAAACTC; R11117; 20; 9;; p.
+BS  CACAAACTC; R11118; 13; 9;; p.
+BS  CACAAACTC; R11119; 20; 9;; p.
+BS  CACAAACTC; R11120; 20; 9;; p.
+BS  CAGAAACTC; R11121; 20; 9;; p.
+BS  CAGAAACTC; R11122; 20; 9;; p.
+BS  TAATAACGC; R11123; 20; 9;; p.
+BS  CCAAAACGC; R11124; 20; 9;; p.
+BS  GCGAAACAC; R11125; 20; 9;; p.
+BS  ACGAAACAC; R11126; 19; 9;; p.
+BS  AATGAACAC; R11127; 20; 9;; p.
+BS  TAAAAATCA; R11128; 16; 9;; p.
+BS  ACGAAACAT; R11129; 20; 9;; p.
+BS  AGTAAACAG; R11130; 17; 9;; p.
+BS  GTCAAACTG; R11131; 15; 9;; p.
+BS  CATAATCCG; R11132; 20; 9;; p.
+BS  ACTGAACCT; R11133; 20; 9;; p.
+BS  ACGAAACCT; R11134; 20; 9;; p.
+BS  ACGAAACCT; R11135; 20; 9;; p.
+BS  AGCAAACCA; R11136; 19; 9;; p.
+BS  GGCAAAGTC; R11137; 20; 9;; p.
+BS  AGTAAAGTC; R11138; 20; 9;; p.
+BS  CATAAAGTG; R11139; 18; 9;; p.
+BS  TATAAAGTG; R11140; 20; 9;; p.
+BS  GGTAAAGTA; R11141; 20; 9;; p.
+BS  TTGAAAGAA; R11142; 20; 9;; p.
+BS  TCCAAAGAC; R11143; 20; 9;; p.
+BS  CTAAAAGAA; R11144; 16; 9;; p.
+BS  CTTAAAGCC; R11145; 18; 9;; p.
+BS  TGGAAAGCT; R11146; 20; 9;; p.
+BS  GTTAAAGCG; R11147; 20; 9;; p.
+BS  GTTAAAGCG; R11148; 20; 9;; p.
+BS  ATCAAATGA; R11149; 20; 9;; p.
+BS  AATAAATGC; R11150; 14; 9;; p.
+BS  CCAAAATCA; R11151; 20; 9;; p.
+BS  GTCAAATCA; R11152; 18; 9;; p.
+XX
+CC  sequences selected with recombinant Pax-2 from a pool of double-stranded oligonucleotides containing a core of 43 random nucleotides; 5-8 rounds of selection and amplification
+XX
+RN  [1]; RE0016886.
+RX  PUBMED: 10600536.
+RA  Havik B., Ragnhildstveit E., Lorens J. B., Saelemyr K., Fauske O., Knudsen L. K., Fjose A.
+RT  A novel paired domain DNA recognition motif can mediate Pax2 repression of gene transcription
+RL  Biochim. Biophys. Acta 266:532-541 (1999).
+XX
+//

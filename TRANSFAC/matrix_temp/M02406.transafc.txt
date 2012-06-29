@@ -1,0 +1,46 @@
+AC  M02406
+AS  MA0287
+XX
+ID  F$CUP2_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  22.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CUP2
+XX
+DE  class: Zinc-coordinating; family: Copper fist
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00179; CUP2; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0      7      0      2      C
+02      9      0      0      0      A
+03      0      0      9      0      G
+04      2      7      0      0      C
+05      6      0      3      0      A
+06      4      1      4      0      R
+07      9      0      0      0      A
+08      9      0      0      0      A
+09      7      0      2      0      A
+10      4      0      0      5      W
+11      2      0      7      0      G
+XX
+BA  9 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0287.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

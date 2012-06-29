@@ -1,0 +1,52 @@
+AC  M01350
+XX
+ID  V$NKX24_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nkx2-4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16917; Nkx2-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16918; Nkx2-4; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.28   0.21   0.16   0.36      N
+02   0.50   0.12   0.19   0.19      N
+03   0.63   0.05   0.13   0.19      A
+04   0.25   0.17   0.40   0.17      N
+05   0.09   0.76   0.13   0.02      C
+06   0.01   0.82   0.00   0.17      C
+07   0.85   0.01   0.00   0.13      A
+08   0.02   0.97   0.00   0.00      C
+09   0.00   0.00   0.00   0.99      T
+10   0.01   0.22   0.00   0.77      T
+11   0.28   0.18   0.53   0.02      R
+12   0.89   0.00   0.03   0.09      A
+13   0.43   0.38   0.15   0.04      M
+14   0.51   0.16   0.04   0.28      W
+15   0.23   0.19   0.05   0.54      T
+16   0.14   0.25   0.05   0.56      T
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0113.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

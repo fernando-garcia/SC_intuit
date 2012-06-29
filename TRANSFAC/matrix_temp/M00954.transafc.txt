@@ -1,0 +1,64 @@
+AC  M00954
+XX
+ID  V$PR_01
+XX
+DT  12.11.2003 (created); ech.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PR
+XX
+DE  high affinity binding sites for progesterone receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00960; V$PR_Q2; half-site matrix (family).
+XX
+BF  T00698; PR; Species: chick, Gallus gallus; site(s) included: no.
+BF  T05742; PR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04680; PR; Species: mouse, Mus musculus; site(s) included: no.
+BF  T04681; PR; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9      8     19     16      N
+02      9     10     22     11      N
+03     10     10     16     16      N
+04     12      4     23     13      N
+05     11      5     17     19      N
+06     11      8     18     15      N
+07     13      3     29      7      G
+08      4      6     38      4      G
+09     11      2     23     16      N
+10     33      2      7     10      A
+11      6     32     11      3      C
+12     27      7     14      4      R
+13      8      8     14     22      N
+14     10      7     19     16      N
+15     13      6     18     15      N
+16      0      0      0     52      T
+17      0      0     52      0      G
+18      0      0      0     52      T
+19      0      0      0     52      T
+20      0     52      0      0      C
+21      0      0      0     52      T
+22     10     13      8     21      N
+23     12     15     15     10      N
+24      9      8     21     14      N
+25      8      6     17     21      N
+26     14     10     19      9      N
+27      9      7     20     16      N
+XX
+BA  52 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant PR from a pool of double-stranded oligonucleotides containing a core of 21 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0023480.
+RX  PUBMED: 10598584.
+RA  Nelson C. C., Hendy S. C., Shukin R. J., Cheng H., Bruchovsky N., Koop B. F., Rennie P. S.
+RT  Determinants of DNA sequence specificity of the androgen, progesterone, and glucocorticoid receptors: evidence for differential steroid receptor response elements.
+RL  Mol. Endocrinol. 13:2090-2107 (1999).
+XX
+//

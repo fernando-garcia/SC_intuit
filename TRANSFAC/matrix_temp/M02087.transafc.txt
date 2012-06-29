@@ -1,0 +1,101 @@
+AC  M02087
+XX
+ID  V$CDX2_Q5_02
+XX
+DT  24.10.2011 (created); mkl.
+DT  25.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CDX-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00991; V$CDX_Q5;  (family).
+XX
+BF  T15980; CDX-2; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15981; CDX-2; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T15590; Cdx-2; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T03246; Cdx-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09327; Cdx-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T22204; Cdx-2; Species: Mammalia; site(s) included: yes.
+BF  T10894; Cdx-2; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T02002; Cdx-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09236; Cdx-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T22225; Cdx-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02003; Cdx-3; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T16650; Cdx-3; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      1      0     46      T
+02      2      1      0     48      T
+03      3      1      0     47      T
+04     49      0      1      1      A
+05      0     11      3     37      T
+06     18      4     16     13      N
+XX
+BA  51 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTATT; R04239; 6; 6;; n.
+BS  TTTACA; R08848; 2; 6;; p.
+BS  ATTATT; R08849; 28; 6;; n.
+BS  TTCATC; R08850; 2; 6;; p.
+BS  TTTACT; R08851; 10; 6;; p.
+BS  TTTATG; R08858; 9; 6;; p.
+BS  TTTATG; R08859; 8; 6;; p.
+BS  TTTATG; R08873; 12; 6;; p.
+BS  TTTATA; R08875; 2; 6;; p.
+BS  TTTATA; R08886; 12; 6;; p.
+BS  TCTATT; R14654; 13; 6;; n.
+BS  TTAATC; R14656; 12; 6;; p.
+BS  ctTATT; R14660; 11; 6;; p.
+BS  TTTATG; R14709; 25; 6;; n.
+BS  TTTATA; R14710; 11; 6;; n.
+BS  TTTAGG; R14712; 26; 6;; p.
+BS  TTTACA; R17112; 14; 6;; p.
+BS  TTTATG; R18910; 17; 6;; p.
+BS  TTTACT; R22362; 15; 6;; p.
+BS  TTTATG; R22363; 13; 6;; n.
+BS  ATTATT; R23671; 10; 6;; n.
+BS  TTTATA; R25060; 44; 6;; p.
+BS  TTTACG; R26171; 14; 6;; n.
+BS  TTTATG; R26172; 10; 6;; n.
+BS  TTTATC; R26536; 10; 6;; p.
+BS  TTTATG; R26537; 5; 6;; n.
+BS  tTTATG; R28996; 10; 6;; p.
+BS  TTTATA; R28997; 9; 6;; p.
+BS  TTTACT; R28998; 21; 6;; n.
+BS  ATTACA; R28999; 5; 6;; n.
+BS  TTTGTG; R29000; 20; 6;; p.
+BS  TTTAGA; R32349; 13; 6;; p.
+BS  TATATC; R32350; 10; 6;; p.
+BS  TTTATG; R34486; 12; 6;; n.
+BS  TTTATT; R34487; 11; 6;; p.
+BS  TTTATA; R34488; 11; 6;; n.
+BS  TTTATA; R36168; 9; 6;; n.
+BS  TATATA; R36192; 9; 6;; p.
+BS  TTTATT; R36201; 15; 6;; n.
+BS  TTTATT; R36215; 16; 6;; p.
+BS  TTAATA; R36236; 12; 6;; p.
+BS  ATTATT; R36239; 9; 6;; p.
+BS  TTTATA; R36255; 6; 6;; p.
+BS  TTTACA; R36280; 3; 6;; p.
+BS  TTTATG; R36285; 5; 6;; p.
+BS  TTTATG; R36328; 83; 6;; p.
+BS  TTTATG; R36344; 32; 6;; n.
+BS  TTTATT; R36407; 8; 6;; p.
+BS  TTTACA; R36654; 6; 6;; p.
+BS  TTTACA; R36659; 58; 6;; p.
+BS  TTTACA; R36662; 6; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+OV  M00729; V$CDX2_Q5.
+OV  M01659; V$CDX2_Q5_01.
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

@@ -1,0 +1,216 @@
+AC  M00795
+XX
+ID  V$OCT_Q6
+XX
+DT  08.03.2003 (created); dtc.
+DT  08.06.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Octamer
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00133; V$TST1_01; POU-factor Tst-1/Oct-6 (specific).
+HC  M00135; V$OCT1_01; octamer factor 1 (specific).
+HC  M00136; V$OCT1_02; octamer factor 1 (specific).
+HC  M00137; V$OCT1_03; octamer factor 1 (specific).
+HC  M00138; V$OCT1_04; octamer factor 1 (specific).
+HC  M00145; V$BRN2_01; POU factor Brn-2 (specific).
+HC  M00161; V$OCT1_05; octamer-binding factor 1 (specific).
+HC  M00162; V$OCT1_06; octamer-binding factor 1 (specific).
+HC  M00195; V$OCT1_Q6; octamer factor 1 (specific).
+HC  M00248; V$OCT1_07; octamer factor 1 (specific).
+HC  M00342; V$OCT1_B; Octamer binding factor 1 (specific).
+HC  M00463; V$POU3F2_01;  (specific).
+HC  M00464; V$POU3F2_02;  (specific).
+HC  M00930; V$OCT1_Q5_01;  (specific).
+HC  M01124; V$OCT4_02;  (specific).
+HC  M01125; V$OCT4_01; Sox2-Oct4 joint motif, in silico predicted (specific).
+HC  M01307; V$POU5F1_01; POU5F1 b.s. (specific).
+HC  M01316; V$TST1_02; POU3F1 (specific).
+HC  M01324; V$OCTAMER_01; Octamer (specific).
+HC  M01354; V$OCT1_08; POU2F1 (specific).
+HC  M01368; V$OCT2_01; POU2F2 (specific).
+HC  M01476; V$POU2F3_01;  (specific).
+HC  M01477; V$OCTAMER_02;  (specific).
+HC  M01761; V$OCT2_02;  (specific).
+HC  M02113; V$OCAB_Q6;  (specific).
+HC  M02245; V$POU5F1_02; class: Helix-Turn-Helix; family: Homeo (specific).
+HC  M03090; V$POU3F3_01; class: Helix-Turn-Helix; family: Homeo  (specific).
+XX
+BF  T14807; Brn-3a; Species: Mammalia; site(s) included: no.
+BF  T04469; BRN1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16678; BRN1; Species: Mammalia; site(s) included: no.
+BF  T00658; BRN1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10898; BRN1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02141; OCA-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09163; OCA-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16680; OCA-B; Species: Mammalia; site(s) included: no.
+BF  T02142; OCA-B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16681; OCA-B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00645; Oct-10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00649; Oct-2; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00647; Oct-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10361; Oct-2; Species: Mammalia; site(s) included: no.
+BF  T13860; Oct-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05486; Oct-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00650; Oct-2; Species: rat, Rattus rattus; site(s) included: yes.
+BF  T00665; Oct-2.1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01864; Oct-2.1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00648; Oct-2.2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01865; Oct-2.3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01866; Oct-2.4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00964; Oct-2.5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01867; Oct-2.6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00662; Oct-2B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00659; Oct-9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00663; oct-B2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00664; oct-B3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00666; Oct-R; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T08316; Oct3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10890; Oct3; Species: Mammalia; site(s) included: no.
+BF  T10884; Oct3; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00651; Oct3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09363; Oct3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16676; Oct3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16677; Oct3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00652; Oct3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01872; Oct3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18702; Oct3-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00660; Octa-factor; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00661; Octamer binding factor; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T01225; Octamer binding factor; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04471; OTF3P1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05465; OTF3P1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01031; POU2F1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01466; POU2F1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T00642; POU2F1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01157; POU2F1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T10501; POU2F1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00545; POU2F1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08628; POU2F1; Species: Mammalia; site(s) included: no.
+BF  T00959; POU2F1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01192; POU2F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00643; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09214; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19702; POU2F1-isoform1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00641; POU2F1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19701; POU2F1-isoform2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T18695; POU2F1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00644; POU2F1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01862; POU2F1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01863; POU2F1c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01032; POU2F2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00646; POU2F2 (Oct-2.1); Species: human, Homo sapiens; site(s) included: yes.
+BF  T01870; POU2F2 (Oct-2.1); Species: rat, Rattus rattus; site(s) included: yes.
+BF  T01868; POU2F2 (Oct-2.7); Species: rat, Rattus rattus; site(s) included: yes.
+BF  T01869; POU2F2 (Oct-2.8); Species: rat, Rattus rattus; site(s) included: yes.
+BF  T01871; POU2F2B; Species: rat, Rattus rattus; site(s) included: yes.
+BF  T16682; POU2F3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01874; POU2F3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16686; POU2F3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00655; POU3F1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00656; POU3F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18500; POU3F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00969; POU3F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T23051; POU3F1; Species: rat, Rattus norvegicus; site(s) included: unknown.
+BF  T00630; POU3F2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09598; POU3F2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01873; POU3F2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10030; POU3F2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01524; POU3F2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10040; POU3F2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00632; POU3F2 (N-Oct-5a); Species: human, Homo sapiens; site(s) included: yes.
+BF  T00633; POU3F2 (N-Oct-5b); Species: human, Homo sapiens; site(s) included: yes.
+BF  T01876; POU4F1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09556; POU4F1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01878; POU4F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06590; POU4F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01879; POU4F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09557; POU4F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04463; POU4F1(l); Species: human, Homo sapiens; site(s) included: yes.
+BF  T01877; POU4F1(l); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00653; POU5F1 (Oct-5); Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10      7     10     28      T
+02     14     12     15     14      N
+03     37      7      2      9      A
+04      6      2      0     47      T
+05      7      5      1     42      T
+06      6      2      2     45      T
+07     11      3     34      7      G
+08      3     50      0      2      C
+09     53      0      0      2      A
+10      1      1      1     52      T
+11     27      4     10     14      N
+XX
+BA  55 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TAATTAGCATA; R00306; -2; 11;; p.
+BS  ATATTTGCATT; R00551; 9; 11;; n.
+BS  TTATTTGCATA; R00662; -2; 11;; p.
+BS  TCATTTGCATA; R00664; 1; 11;; n.
+BS  ACATTTGCATA; R00666; -2; 11;; p.
+BS  TCGTTAGCATG; R00814; 14; 11;; p.
+BS  CGCATGGCATC; R00815; 9; 11;; n.
+BS  GGAATTCCATT; R00820; 2; 11;; n.
+BS  CGTATCTCATT; R00824; 4; 11;; n.
+BS  TTATTTGCATA; R00834; -1; 11;; n.
+BS  GGATTTGCATA; R00842; 9; 11;; n.
+BS  GTATTTGCATA; R00855; -2; 11;; p.
+BS  TAATTTGCATT; R00872; -2; 11;; p.
+BS  CGATTTGCATA; R00888; -2; 11;; p.
+BS  TGATTTGCATA; R00893; 1; 11;; p.
+BS  TTAATTGCATG; R00932; 1; 11;; p.
+BS  TGTTTTACATA; R00936; -1; 11;; n.
+BS  TGATTTGCATT; R01090; -2; 11;; p.
+BS  TCATTTGCATA; R01176; 1; 11;; n.
+BS  TGCTTTGCATA; R01400; -2; 11;; p.
+BS  GAATTTGCATG; R01500; -1; 11;; n.
+BS  CTATTTGCATA; R01504; 1; 11;; n.
+BS  TATTTTACATT; R01635; 9; 11;; p.
+BS  TGATTTGCATG; R01638; 7; 11;; p.
+BS  TGCTTTGCATT; R01682; 10; 11;; n.
+BS  CAATTTGCATG; R01734; -2; 11;; p.
+BS  GAATTGACATC; R01779; 13; 11;; n.
+BS  TCATTAGCATG; R01917; 3; 11;; n.
+BS  TTATTTGCATA; R01933; -2; 11;; p.
+BS  TCATTATCATA; R01989; 5; 11;; n.
+BS  AAATCTGAATA; R02001; 3; 11;; p.
+BS  TGCTTTGCAAT; R02584; 2; 11;; n.
+BS  GTGTCTGATTG; R02733; -6; 11;; p.
+BS  AATTATTCATC; R02736; -1; 11;; n.
+BS  GAATTTGCATT; R02824; 6; 11;; p.
+BS  TTATTTACATA; R03010; 3; 11;; p.
+BS  GCACTTCCATT; R03014; -2; 11;; p.
+BS  CCAACAGCATC; R03315; -6; 11;; p.
+BS  TGATTTGCATG; R03417; 4; 11;; n.
+BS  TACTTTGCATA; R03426; 8; 11;; p.
+BS  TAAATTACACA; R03427; 15; 11;; n.
+BS  ACTTATCCAGT; R04200; -4; 11;; p.
+BS  ATATCTACTTA; R04201; 1; 11;; n.
+BS  TGCTTTACATG; R04221; -2; 11;; p.
+BS  AGATTTGCATT; R05056; 16; 11;; n.
+BS  CATTATACATA; R08238; 20; 11;; p.
+BS  AAATATTCATT; R08525; -2; 11;; p.
+BS  TTATTTGCATA; R09467; -2; 11;; p.
+BS  GCTCCTGCATA; R09970; 15; 11;; n.
+BS  ATTTTATAATA; R09973; 8; 11;; p.
+BS  TTATATATATA; C00047,  s00069; 1; 11;; p.
+BS  TTATTTACATA; C00048,  s00072; -2; 11;; p.
+BS  GCATACTCATG; C00049,  s00073; 3; 11;; n.
+BS  TCCTGTATATA; C00146,  s00227; 1; 11;; p.
+BS  AATTATTCATT; C00365,  s00634; 1; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

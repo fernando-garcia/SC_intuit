@@ -1,0 +1,49 @@
+AC  M00014
+XX
+ID  F$REPCAR1_01
+XX
+DT  13.11.1992 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  repressor of CAR1 expression
+XX
+DE  repressor of CAR1 expression
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00726; repressor of CAR1 expression; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      3      3      4      N
+02      5      2      2      3      N
+03      2      5      4      4      N
+04      1      0      2     12      T
+05     14      0      0      1      A
+06      2      0     13      0      G
+07      0     15      0      0      C
+08      0     15      0      0      C
+09      2      0     12      1      G
+10      0     14      1      0      C
+11      0     13      2      0      C
+12      5      2      7      1      R
+13     10      2      2      1      A
+14      6      3      5      1      N
+15      6      2      7      0      R
+16      4      4      5      1      N
+17      4      5      4      1      N
+XX
+BA  15 sequences (compiled matrix imported from literature reference)
+XX
+CC  alignment done by author
+XX
+RN  [1]; RE0001517.
+RX  PUBMED: 2115115.
+RA  Luche R. M., Sumrada R., Cooper T. G.
+RT  A cis-acting element present in multiple genes serves as a repressor protein binding site for the yeast CAR1 gene
+RL  Mol. Cell. Biol. 10:3884-3895 (1990).
+XX
+//

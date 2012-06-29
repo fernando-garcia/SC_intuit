@@ -1,0 +1,48 @@
+AC  M02115
+XX
+ID  V$PRX2_Q2
+XX
+DT  24.10.2011 (created); mkl.
+DT  18.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Prx2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T22228; Prx2; Species: Mammalia; site(s) included: yes.
+BF  T16160; Prx2; Species: pig, Sus scrofa; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      3      0      6      T
+02      2      4      0      3      Y
+03      9      0      0      0      A
+04      4      0      2      3      W
+05      9      0      0      0      A
+06      0      2      3      4      K
+07      1      1      0      7      T
+08      5      1      1      2      A
+09      6      1      0      2      A
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTAAAGAAT; R28340; 7; 9;; p.
+BS  TAATATTTA; R28341; 8; 9;; p.
+BS  TTATATTTA; R28342; 3; 9;; n.
+BS  TTATACTCT; R28344; 3; 9;; n.
+BS  TCAGAGTAA; R28345; 2; 9;; p.
+BS  CCAAATTAA; R28346; 6; 9;; p.
+BS  TCAAATTAA; R28347; 9; 9;; n.
+BS  CAAGAGTGA; R36223; 18; 9;; p.
+BS  CCAAACCAC; R36231; 10; 9;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

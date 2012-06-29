@@ -1,0 +1,53 @@
+AC  M01717
+XX
+ID  F$MOT3_Q2
+XX
+DT  26.04.2010 (created); dtc.
+DT  30.04.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MOT3
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03500; MOT3; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      2      2      1      N
+02      4      0      3      0      R
+03      4      1      0      2      W
+04      2      2      0      3      H
+05      5      0      1      1      A
+06      1      2      0      5      T
+07      7      0      0      2      A
+08      0      0      9      0      G
+09      0      0      9      0      G
+10      4      5      0      0      M
+11      8      0      0      1      A
+12      2      3      0      3      H
+13      2      3      1      1      N
+14      1      2      3      1      N
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  nnnnnnaggcaann; R12379; -2; 14;; n.
+BS  nnnnnCAGGCAnnn; R12382; -5; 14;; p.
+BS  CGTCATAGGCACTT; R22662; 6; 14;; p.
+BS  TACTATAGGCACGG; R22665; 6; 14;; p.
+BS  AAAAACAGGCAACG; R22668; 6; 14;; p.
+BS  gaatgTTGGAAtag; R23736; 6; 14;; p.
+BS  ngtaaTAGGATcaa; R23737; -1; 14;; p.
+BS  ggatttaggaatcc; R23738; 14; 14;; n.
+BS  caacaATGGAAtcc; R23739; 28; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

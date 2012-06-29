@@ -1,0 +1,44 @@
+AC  M00230
+XX
+ID  N$SKN1_02
+XX
+DT  26.01.1996 (created); ewi.
+DT  10.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Skn-1
+XX
+DE  maternal gene product
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T01614; Skn-1; Species: Caenorhabditis elegans; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      6      2      2      N
+02      7      0      1      6      W
+03      5      1      2      6      W
+04      4      2      0      7      W
+05     17      0      0      0      A
+06      0      0      0     17      T
+07      0     17      0      0      C
+08     17      0      0      0      A
+09      0      0      0     17      T
+10      0      6      4      4      B
+11      6      4      1      3      N
+12      5      2      2      5      N
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Skn-1 from a pool of double-stranded oligonucleotides containing a core of 35 random nucleotides; several rounds of selection and amplification; fixed core of 5 nucleotides (ATCAT) used
+XX
+RN  [1]; RE0003599.
+RX  PUBMED: 7939715.
+RA  Blackwell T. K., Bowerman B., Priess J. R., Weintraub H.
+RT  Formation of a monomeric DNA binding domain by Skn-1 bZIP and homeodomain elements
+RL  Science 266:621-628 (1994).
+XX
+//

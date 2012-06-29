@@ -1,0 +1,56 @@
+AC  M00110
+XX
+ID  I$ELF1_01
+XX
+DT  05.05.1995 (created); ewi.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Elf-1
+XX
+DE  CP2 (human, mouse)
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+HP  M00951; I$GRH_01;  (family).
+XX
+BF  T01019; Elf-1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1      1      2      N
+02      1      1      2      1      N
+03      1      0      2      2      K
+04      2      0      1      2      W
+05      2      1      1      1      N
+06      0      2      1      2      Y
+07      0      0      4      1      G
+08      0      0      5      0      G
+09      0      0      0      5      T
+10      1      0      1      3      T
+11      0      0      0      5      T
+12      1      1      0      3      T
+13      1      0      3      1      G
+14      2      1      0      2      W
+15      3      1      1      0      A
+16      1      1      1      2      N
+XX
+BA  5 sequences (compiled matrix imported from literature reference)
+XX
+BS  TGATTCGGTATCGAAA; R06703; 1; 16;; p.
+BS  GGGAGCTGTTTTTTCC; R06704; 1; 16;; p.
+BS  TCGGATGGTTTTATAT; R06705; 1; 16;; p.
+BS  AATAAGGGTGTAGAGT; R06706; 1; 16;; p.
+BS  CTTTCTGGTTTTGCAG; R06707; 1; 16;; p.
+XX
+CC  binding sites from 2 genes
+XX
+RN  [1]; RE0000599.
+RX  PUBMED: 2606344.
+RA  Dynlacht B. D., Attardi L. D., Admon A., Freeman M., Tjian R.
+RT  Functional analysis of NTF-1, a developmentally regulated Drosophila transcription factor that binds neuronal cis elements
+RL  Genes Dev. 3:1677-1688 (1989).
+XX
+//

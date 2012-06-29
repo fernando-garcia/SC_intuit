@@ -1,0 +1,76 @@
+AC  M00451
+XX
+ID  V$NKX3A_01
+XX
+DT  23.08.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nkx3-1
+XX
+DE  NK class homeobox factor 3A
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04255; NKX3A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11165; NKX3A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15593; NKX3A; Species: Mammalia; site(s) included: no.
+BF  T04256; NKX3A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16826; NKX3A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16592; NKX3A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16593; NKX3A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04287; NKX3A-V1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04288; NKX3A-V2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04289; NKX3A-V3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04290; NKX3A-V4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      4      4      5      N
+02      8      1      1      8      W
+03     11      1      1      5      A
+04      1      1      0     17      T
+05     18      0      0      1      A
+06     18      1      0      0      A
+07      0      0     18      1      G
+08      0      0      0     19      T
+09     17      0      2      0      A
+10      3      3      0     13      T
+11     10      0      3      6      W
+12      4      3      2     10      T
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TATTAAGTATTT; R10331; 3; 12;; p.
+BS  GATTAAGTATGC; R10332; 6; 12;; p.
+BS  ATATAAGTACGA; R10333; 6; 12;; p.
+BS  TAATAAGTACAT; R10334; 3; 12;; p.
+BS  CGTTAAGTGTTT; R10335; 2; 12;; p.
+BS  TCGTAAGTATTA; R10336; 1; 12;; p.
+BS  CTATAAGTAATG; R10337; 1; 12;; p.
+BS  CTTTAAGTAATA; R10338; 2; 12;; p.
+BS  AAACAAGTAAAC; R10339; 2; 12;; p.
+BS  CTATAAGTATAT; R10340; 1; 12;; p.
+BS  TACTAATTATAT; R10341; 3; 12;; p.
+BS  GTATAAGTATAT; R10342; 1; 12;; p.
+BS     ATCGTATAT; R10343; 1; 12; 1, 2, 3; p.
+BS  ATATAAGTATAT; R10344; 3; 12;; p.
+BS  AAATAAGTATTA; R10345; 2; 12;; p.
+BS  GTATAAGTATGT; R10346; 1; 12;; p.
+BS  TAATAAGTATAT; R10347; 3; 12;; p.
+BS  ATATAAGTATAC; R10348; 5; 12;; p.
+BS  GATTAAGTGCAG; R10349; 2; 12;; p.
+XX
+CC  sequences selected with recombinant Nkx3-1 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0124.
+XX
+RN  [1]; RE0016763.
+RX  PUBMED: 10871372.
+RA  Steadman D. J., Giuffrida D., Gelmann E. P.
+RT  DNA-binding sequence of the human prostate-specific homeodomain protein NKX3.1
+RL  Nucleic Acids Res. 28:2389-2395 (2000).
+XX
+//

@@ -1,0 +1,63 @@
+AC  M01872
+XX
+ID  V$DBP_Q6_01
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DBP
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04875; DBP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09554; DBP; Species: human, Homo sapiens; site(s) included: no.
+BF  T18360; DBP; Species: Mammalia; site(s) included: yes.
+BF  T05865; DBP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10264; DBP; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00183; DBP; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15097; DBP; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     18      T
+02      3      1      1     13      T
+03     11      1      0      6      W
+04      0      3      3     12      T
+05      3      1     13      1      G
+06      1      8      2      7      Y
+07     16      2      0      0      A
+08     12      2      2      2      A
+XX
+BA  18 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTTGTAA; R00089; 6; 8;; p.
+BS  TTACGCAA; R00616; 5; 8;; n.
+BS  TTTTGGAT; R01175; -2; 8;; p.
+BS  TTATGCAA; R02457; 6; 8;; p.
+BS  TAATGGAG; R02458; 9; 8;; n.
+BS  TTAGAACA; R02987; -1; 8;; n.
+BS  TTATGCAA; R04270; 8; 8;; p.
+BS  TCTGtcaa; R08111; 3; 8;; n.
+BS  TTATGTCA; R08112; 13; 8;; p.
+BS  TATTGCAG; R08113; 14; 8;; p.
+BS  TTATGCAA; R20645; 11; 8;; n.
+BS  TTCTGCAA; R25816; 2; 8;; n.
+BS  TTTCGTAA; R32655; 19; 8;; n.
+BS  TAAGGTAA; R32673; 12; 8;; p.
+BS  TTATATAA; R32676; 12; 8;; p.
+BS  TTACCTAC; R32680; 12; 8;; n.
+BS  TGTTACAC; R32696; 18; 8;; p.
+BS  TTATGTAT; R34345; 4; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00624; V$DBP_Q6.
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

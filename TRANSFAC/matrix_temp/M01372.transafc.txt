@@ -1,0 +1,60 @@
+AC  M01372
+XX
+ID  V$NKX22_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NKX2B
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04272; NKX2B; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15817; NKX2B; Species: chick, Gallus gallus; site(s) included: no.
+BF  T04265; NKX2B; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T15818; NKX2B; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T04337; NKX2B; Species: human, Homo sapiens; site(s) included: no.
+BF  T16598; NKX2B; Species: human, Homo sapiens; site(s) included: no.
+BF  T15502; NKX2B; Species: Mammalia; site(s) included: no.
+BF  T02384; NKX2B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08295; NKX2B; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    0.3   0.26   0.14    0.3      N
+02   0.27   0.14   0.15   0.44      N
+03   0.48   0.21   0.23   0.07      N
+04   0.43   0.07   0.33   0.16      R
+05   0.12    0.7   0.17      0      C
+06      0   0.88      0   0.12      C
+07   0.92   0.01      0   0.07      A
+08   0.02   0.97      0      0      C
+09   0.01      0      0   0.99      T
+10      0    0.2      0    0.8      T
+11   0.13    0.1   0.75   0.01      G
+12   0.93      0   0.01   0.06      A
+13    0.5   0.11   0.36   0.03      R
+14   0.67   0.07   0.11   0.15      A
+15   0.36    0.1   0.23   0.32      N
+16   0.13   0.19    0.2   0.48      N
+17   0.29   0.16   0.23   0.32      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0111.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

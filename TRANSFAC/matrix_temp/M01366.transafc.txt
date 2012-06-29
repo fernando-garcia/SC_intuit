@@ -1,0 +1,59 @@
+AC  M01366
+XX
+ID  V$OTX1_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Otx1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01117; V$OTX_Q1;  (family).
+XX
+BF  T02079; Otx1; Species: human, Homo sapiens; site(s) included: no.
+BF  T15236; Otx1; Species: human, Homo sapiens; site(s) included: no.
+BF  T02080; Otx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15237; Otx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02081; Otx1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15238; Otx1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.30   0.15   0.30   0.25      N
+02   0.19   0.10   0.49   0.22      N
+03   0.37   0.11   0.16   0.36      N
+04   0.43   0.05   0.47   0.05      R
+05   0.18   0.20   0.61   0.02      G
+06   0.08   0.00   0.92   0.00      G
+07   0.01   0.00   0.99   0.01      G
+08   0.95   0.04   0.00   0.00      A
+09   0.00   0.00   0.00   0.99      T
+10   0.01   0.00   0.00   0.98      T
+11   0.94   0.00   0.00   0.06      A
+12   0.69   0.03   0.14   0.14      A
+13   0.12   0.13   0.10   0.66      T
+14   0.29   0.13   0.09   0.49      W
+15   0.24   0.24   0.20   0.32      N
+16   0.32   0.22   0.16   0.30      N
+17   0.19   0.26   0.24   0.31      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0129.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

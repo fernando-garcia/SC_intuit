@@ -1,0 +1,147 @@
+AC  M01186
+XX
+ID  P$STF1_01
+XX
+DT  22.05.2008 (created); nta.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STF1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T14442; STF1; Species: soybean, Glycine max; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     13     10     51      4      G
+02     43      5     32      3      R
+03      2      2      0     85      T
+04      0      2     98      0      G
+05    100      0      0      0      A
+06      0    100      0      0      C
+07      0      0    100      0      G
+08      0      1      0     95      T
+09     29     40     25      1      N
+10     32      0     20     16      R
+11      8     14     18     11      N
+12      7     26      8      2      C
+XX
+BA  100 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGTGACGTCA; R24286; 5; 12; 15, 16; p.
+BS  GATGACGTCA; R24293; 4; 12; 14, 15; p.
+BS  AATGACGTCA; R24294; 5; 12; 15, 16; p.
+BS  AGTGACGTCA; R24295; 4; 12; 14, 15; p.
+BS  GGTGACGTCA; R24296; 4; 12; 14, 15; p.
+BS  GATGACGTCA; R24297; 4; 12; 14, 15; p.
+BS  GATGACGTCA; R24298; 4; 12; 14, 15; p.
+BS  TGTGACGTCA; R24299; 5; 12; 15, 16; p.
+BS  GATGACGTC; R24300; 4; 12; 13, 14, 15; p.
+BS  GATGACGTCAT; R24301; 3; 12; 14; p.
+BS  GGTGACGTC; R24302; 5; 12; 14, 15, 16; p.
+BS  GGTGACGTC; R24303; 7; 12; 16, 17, 18; p.
+BS  GTTGACGTC; R24304; 5; 12; 14, 15, 16; p.
+BS  GGTGACGTC; R24305; 5; 12; 14, 15, 16; p.
+BS  GATGACGTC; R24306; 5; 12; 14, 15, 16; p.
+BS   ATGACGTCATG; R24307; 1; 12; 1; p.
+BS  CATGACGTCATG; R24308; 2; 12;; p.
+BS  GATGACGTCATC; R24309; 8; 12;; p.
+BS  GGTGACGTCAC; R24310; 2; 12; 13; p.
+BS  GATGACGTCACG; R24311; 2; 12;; p.
+BS  AATGACGTCACG; R24312; 2; 12;; p.
+BS  AGTGACGTCACG; R24313; 2; 12;; p.
+BS     GACGTCACT; R24314; 1; 12; 1, 2, 3; p.
+BS    TGACGTCACA; R24315; 1; 12; 1, 2; p.
+BS  CATGACGTCAG; R24316; 2; 12; 13; p.
+BS     GACGTCAGC; R24317; 1; 12; 1, 2, 3; p.
+BS     GACGTCAGC; R24318; 1; 12; 1, 2, 3; p.
+BS  GATGACGTCAGC; R24319; 2; 12;; p.
+BS  GATGACGTCG; R24320; 4; 12; 14, 15; p.
+BS    TGACGTCGTC; R24321; 1; 12; 1, 2; p.
+BS    TGACGTCGTC; R24322; 1; 12; 1, 2; p.
+BS  TATGACGTCGAC; R24323; 6; 12;; p.
+BS     GACGTCGGC; R24324; 1; 12; 1, 2, 3; p.
+BS     GACGTCGGC; R24325; 1; 12; 1, 2, 3; p.
+BS  GGTGACGTCT; R24326; 4; 12; 14, 15; p.
+BS  AATGACGTCT; R24327; 4; 12; 14, 15; p.
+BS     GACGTCTGC; R24328; 1; 12; 1, 2, 3; p.
+BS  GGTGACGTC; R24329; 4; 12; 13, 14, 15; p.
+BS  GCTGACGTG; R24330; 5; 12; 14, 15, 16; p.
+BS  GATGACGTG; R24331; 6; 12; 15, 16, 17; p.
+BS  GATGACGTG; R24332; 5; 12; 14, 15, 16; p.
+BS  GGTGACGTG; R24333; 4; 12; 13, 14, 15; p.
+BS  AGTGACGTG; R24334; 5; 12; 14, 15, 16; p.
+BS  CGTGACGTG; R24335; 5; 12; 14, 15, 16; p.
+BS  GGTGACGTG; R24336; 5; 12; 14, 15, 16; p.
+BS  GGTGACGTG; R24337; 5; 12; 14, 15, 16; p.
+BS  GATGACGTG; R24338; 4; 12; 13, 14, 15; p.
+BS  GATGACGTG; R24339; 5; 12; 14, 15, 16; p.
+BS  GATGACGTG; R24340; 5; 12; 14, 15, 16; p.
+BS   GTGACGTGTTT; R24341; 1; 12; 1; p.
+BS    TGACGTGTTC; R24342; 1; 12; 1, 2; p.
+BS  GATGACGTGTAC; R24343; 2; 12;; p.
+BS   CTGACGTGTAC; R24344; 1; 12; 1; p.
+BS   CTGACGTGTAC; R24345; 1; 12; 1; p.
+BS     GACGTGTAC; R24346; 1; 12; 1, 2, 3; p.
+BS  GGTGACGTGT; R24347; 4; 12; 14, 15; p.
+BS  GATGACGTGTA; R24348; 3; 12; 14; p.
+BS  GCTGACGTGTC; R24349; 3; 12; 14; p.
+BS  AATGACGTGTCA; R24350; 1; 12;; p.
+BS  AGTGACGTGTCG; R24351; 2; 12;; p.
+BS  CATGACGTGG; R24352; 4; 12; 14, 15; p.
+BS  TATGACGTGGCA; R24353; 2; 12;; p.
+BS     GACGTGGAC; R24354; 1; 12; 1, 2, 3; p.
+BS  CGTGACGTA; R24355; 5; 12; 14, 15, 16; p.
+BS  GGTGACGTA; R24356; 4; 12; 13, 14, 15; p.
+BS  AATGACGTA; R24357; 5; 12; 14, 15, 16; p.
+BS  GATGACGTA; R24358; 5; 12; 14, 15, 16; p.
+BS  GATGACGTA; R24359; 5; 12; 14, 15, 16; p.
+BS  GATGACGTA; R24360; 4; 12; 13, 14, 15; p.
+BS  GATGACGTA; R24361; 5; 12; 14, 15, 16; p.
+BS  AGTGACGTA; R24362; 5; 12; 14, 15, 16; p.
+BS  AATGACGTA; R24363; 5; 12; 14, 15, 16; p.
+BS  GGTGACGTATA; R24364; 3; 12; 14; p.
+BS   ATGACGTAAG; R24365; 1; 12; 1, 12; p.
+BS     GACGTAAGA; R24366; 1; 12; 1, 2, 3; p.
+BS     GACGTAAGC; R24367; 1; 12; 1, 2, 3; p.
+BS  AGTGACGTAAGC; R24368; 1; 12;; p.
+BS  CATGACGTAA; R24369; 4; 12; 14, 15; p.
+BS  GGTGACGTAATA; R24370; 4; 12;; p.
+BS  GATGACGTAATC; R24371; 2; 12;; p.
+BS  GTAGACGTTACA; R24372; 2; 12;; p.
+BS    TGACGTAACA; R24373; 1; 12; 1, 2; p.
+BS  GGTGACGTAGGC; R24374; 1; 12;; p.
+BS  TGTGACGTAGGC; R24375; 2; 12;; p.
+BS    TGACGTAGGC; R24376; 1; 12; 1, 2; p.
+BS  GCTGACGTAGG; R24377; 3; 12; 14; p.
+BS  GATGACGTAGGG; R24378; 2; 12;; p.
+BS  AATGACGTAG; R24379; 4; 12; 14, 15; p.
+BS  CATGACGTAG; R24380; 4; 12; 14, 15; p.
+BS  CGTGACGTAGTG; R24381; 1; 12;; p.
+BS  GGTGACGTAGCC; R24382; 1; 12;; p.
+BS     GACGTATGC; R24383; 1; 12; 1, 2, 3; p.
+BS  GATGACG; R24384; 4; 12; 11, 12, 13, 14, 15; p.
+BS  GATGACG; R24385; 7; 12; 14, 15, 16, 17, 18; p.
+BS  CATGACG; R24386; 7; 12; 14, 15, 16, 17, 18; p.
+BS  GATGACG; R24387; 4; 12; 11, 12, 13, 14, 15; p.
+BS  CGACACGTCGCC; R24388; 1; 12;; p.
+BS  GTCGACGTAG; R24389; 4; 12; 14, 15; p.
+BS  GGCCACGT; R24390; 6; 12; 14, 15, 16, 17; p.
+BS  GGTGACGCCAGC; R24391; 2; 12;; p.
+XX
+CC  sequences selected with recombinant STF1 from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0052988.
+RX  PUBMED: 18287490.
+RA  Song Y. H., Yoo C. M., Hong A. P., Kim S. H., Jeong H. J., Shin S. Y., Kim H. J., Yun D. J., Lim C. O., Bahk J. D., Lee S. Y., Nagao R. T., Key J. L., Hong J. C.
+RT  DNA-binding study identifies C-box and hybrid C/G-box or C/A-box motifs as high-affinity binding sites for STF1 and LONG HYPOCOTYL5 proteins.
+RL  Plant Physiol. 146:1862-1877 (2008).
+RN  [2]; RE0054624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel124:0001 (2008).
+XX
+//

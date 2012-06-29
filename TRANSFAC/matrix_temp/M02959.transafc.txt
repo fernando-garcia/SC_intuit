@@ -1,0 +1,60 @@
+AC  M02959
+AS  PH0017
+XX
+ID  V$CUX1_04
+XX
+DT  15.11.2011 (created); jaspar.
+DT  16.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Cux1
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T22732; Cux1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     23      8     21     47      N
+02     51     19     17     13      A
+03     42     14     32     12      N
+04      3     18      9     69      T
+05     14      5     66     14      G
+06     87      5      3      5      A
+07      4      1      1     94      T
+08     34      6     51     10      R
+09     94      1      1      4      A
+10      5      3      5     87      T
+11     14     66      5     14      C
+12     69      9     18      3      A
+13     26     41     15     18      N
+14     15      7     12     66      T
+15     49     13     19     19      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PH0017.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+RN  [3]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

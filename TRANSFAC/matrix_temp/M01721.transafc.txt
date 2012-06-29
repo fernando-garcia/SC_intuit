@@ -1,0 +1,58 @@
+AC  M01721
+XX
+ID  V$PUR1_Q4
+XX
+DT  26.04.2010 (created); dtc.
+DT  01.05.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PUR1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15666; PUR1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17582; PUR1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18248; PUR1; Species: Mammalia; site(s) included: yes.
+BF  T05167; PUR1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09275; PUR1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05173; PUR1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15680; PUR1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15678; PUR1; Species: sheep, Ovis aries; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      1      7      2      G
+02      3      1      7      1      G
+03      2      0     10      0      G
+04      3      4      4      1      N
+05      2      8      2      0      C
+06     11      0      0      1      A
+07      0      0     12      0      G
+08      3      2      3      4      N
+09      2      3      5      2      N
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAGGGAGAG; R04301; 8; 9;; p.
+BS  GAGCCAGTC; R04848; 1; 9;; p.
+BS  AAGACAGCT; R12760; 27; 9;; p.
+BS  AGAACAGAG; R12761; 7; 9;; p.
+BS  gggcctgtc; R26185; -1; 9;; n.
+BS  GGGGAAGGA; R26827; 2; 9;; p.
+BS  GTGGGAGGC; R26828; 3; 9;; p.
+BS  CGGGCAGAG; R26833; 8; 9;; p.
+BS  TGGCCAGGG; R26834; 8; 9;; p.
+BS  GCACCAGCA; R26841; 4; 9;; p.
+BS  GGGAAAGTG; R26846; 8; 9;; p.
+BS  TGGTCAGTT; R26857; 17; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

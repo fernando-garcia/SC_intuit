@@ -1,0 +1,68 @@
+AC  M00731
+XX
+ID  V$OSF2_Q6
+XX
+DT  02.06.2002 (created); ela.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Osf2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00769; V$AML_Q6;  (family).
+HP  M00984; V$PEBP_Q6;  (family).
+XX
+BF  T14835; AML3; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02281; AML3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09552; AML3; Species: Mammalia; site(s) included: no.
+BF  T08443; AML3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02441; AML3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08347; AML3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02318; AML3-G1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09536; AML3-G2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03984; AML3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09535; AML3-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03983; AML3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02266; AML3-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09533; AML3-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02319; AML3-U1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02320; AML3-Y1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09537; AML3-Y2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01062; PEBP2alphaA1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01063; PEBP2alphaA2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      0      2      0      A
+02      0     10      0      0      C
+03      0     10      0      0      C
+04      8      0      2      0      A
+05      0     10      0      0      C
+06     10      0      0      0      A
+07      5      1      2      2      N
+08      6      3      1      0      M
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACCGCAGC; R01222; 5; 8;; p.
+BS  ACCACATG; R01431; 4; 8;; n.
+BS  ACCGCAAA; R02927; 4; 8;; p.
+BS  GCCACATC; R04450; 22; 8;; p.
+BS  ACCACAAC; R04644; 12; 8;; p.
+BS  ACCACAGA; R05024; -3; 8;; n.
+BS  ACCACAAA; R05025; 2; 8;; n.
+BS  ACCACAAA; R05031; 12; 8;; n.
+BS  GCCACACA; R05032; -7; 8;; n.
+BS  ACCACAAA; C00231,  s00389; 2; 8;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; includes 1 TRANSCompel site
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

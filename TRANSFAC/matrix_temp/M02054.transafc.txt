@@ -1,0 +1,46 @@
+AC  M02054
+XX
+ID  V$ELF2_02
+XX
+DT  06.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ELF2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T11185; nerf; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05023; nerf-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05021; nerf-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05039; nerf-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     24     50      9     17      C
+02      5     76     16      3      C
+03     14     84      2      1      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     99      0      1      0      A
+07     70      4      0     26      A
+08     40      3     54      3      R
+09      9     35      9     47      Y
+10     30     20     26     24      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

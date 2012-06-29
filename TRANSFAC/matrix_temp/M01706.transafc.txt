@@ -1,0 +1,41 @@
+AC  M01706
+XX
+ID  I$CI_01
+XX
+DT  21.04.2010 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ci
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T06537; Ci; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.01      0   0.98   0.01      G
+02    0.9   0.05   0.05      0      A
+03   0.01   0.99      0      0      C
+04      0      1      0      0      C
+05    0.9   0.06   0.01   0.03      A
+06      0      1      0      0      C
+07   0.07   0.93      0      0      C
+08   0.02   0.95   0.01   0.02      C
+09   0.97   0.01   0.01   0.01      A
+10   0.41   0.46   0.07   0.06      M
+11   0.03   0.05   0.86   0.06      G
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  PWM was computed on the basis of affinity measurements with EEL
+XX
+RN  [1]; RE0066570.
+RX  PUBMED: 16413481.
+RA  Hallikas O., Palin K., Sinjushina N., Rautiainen R., Partanen J., Ukkonen E., Taipale J.
+RT  Genome-wide prediction of mammalian enhancers based on analysis of transcription-factor binding affinity.
+RL  Cell 124:47-59 (2006).
+XX
+//

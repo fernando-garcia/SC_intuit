@@ -1,0 +1,43 @@
+AC  M03183
+XX
+ID  P$AT5G52020_01
+XX
+DT  06.01.2012 (created); mkl.
+DT  06.01.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AT5G52020
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T07947; At5g52020; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T23011; AT5G52020; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01  0.232  0.341  0.231  0.196      N
+02  0.004  0.008  0.004  0.984      T
+03  0.283  0.262  0.449  0.006      N
+04  0.008  0.881  0.074  0.037      C
+05  0.001  0.996  0.001  0.002      C
+06  0.003  0.002  0.993  0.002      G
+07  0.004  0.978  0.014  0.004      C
+08  0.004  0.941  0.002  0.053      C
+09  0.005  0.069  0.922  0.004      G
+10  0.307  0.113  0.507  0.073      R
+XX
+BA  sequences (3D structure-based energy calculations)
+XX
+RN  [1]; RE0072515.
+RA  TRANSFAC_Team.
+RT  3DTF: a webserver for predicting transcription factor PWMs using 3D structure-based energy calculations
+RL  TRANSFAC Reports Rel20121:0002 (2012).
+RN  [2]; RE0072514.
+RX  PUBMED: 20438625.
+RA  Alamanova D., Stegmaier P., Kel A.
+RT  Creating PWMs of transcription factors using 3D structure-based computation of protein-DNA free binding energies.
+RL  BMC Bioinformatics 11:225 (2010).
+XX
+//

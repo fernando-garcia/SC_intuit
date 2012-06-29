@@ -1,0 +1,82 @@
+AC  M00139
+XX
+ID  V$AHR_01
+XX
+DT  26.05.1995 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AhR
+XX
+DE  aryl hydrocarbon / dioxin receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00976; V$AHRHIF_Q6;  (family).
+XX
+BF  T02270; AhR; Species: guinea pig, Cavia porcellus; site(s) included: no.
+BF  T01795; AhR; Species: human, Homo sapiens; site(s) included: no.
+BF  T08992; AhR; Species: human, Homo sapiens; site(s) included: no.
+BF  T00018; AhR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09051; AhR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05414; AhR; Species: pig, Sus scrofa; site(s) included: no.
+BF  T05398; AhR; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T00019; AhR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15046; AhR; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T18749; Ahr-xbb2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05424; AhR2; Species: killifish, Fundulus heteroclitus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      6      2      1      C
+02      0      6      0      3      C
+03      0      5      1      3      Y
+04      0      7      2      0      C
+05      2      3      3      1      N
+06      4      0      5      0      R
+07      3      1      4      1      R
+08      0      5      4      0      S
+09      0      0      0      9      T
+10      3      2      1      3      N
+11      0      0      9      0      G
+12      0      9      0      0      C
+13      0      0      9      0      G
+14      0      0      0      9      T
+15      0      0      9      0      G
+16      6      1      1      1      A
+17      1      3      5      0      S
+18      6      0      0      3      A
+XX
+BA  9 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites in rat and mouse cytochrome P450 genes; compiled and aligned by BIOBASE
+XX
+RN  [1]; RE0002644.
+RX  PUBMED: 1852076.
+RA  Hoffman E. C., Reyes H., Chu F.-F., Sander F., Conley H., Brooks B. A., Hankinson O.
+RT  Cloning of a factor required for activity of the Ah (dioxin) receptor
+RL  Science 252:954-958 (1991).
+RN  [2]; RE0001664.
+RX  PUBMED: 1652054.
+RA  Hapgood J., Cuthill S., Soederkvist P., Wilhelmsson A., Pongratz I., Tukey R. H., Johnson E. F., Gustafsson J.-A., Poellinger L.
+RT  Liver cells contain constitutive DNase I-hypersensitive sites at the xenobiotic response elements 1 and 2 (XRE1 and -2) of the rat cytochrome P-450IA1 gene and a constitutive, nuclear XRE-binding factor that is distinct from the dioxin receptor
+RL  Mol. Cell. Biol. 11:4314-4323 (1991).
+RN  [3]; RE0000896.
+RX  PUBMED: 2550446.
+RA  Denison M. S., Fisher J. M., Whitlock J. P.
+RT  Protein-DNA Interactions at Recognition Sites for the Dioxin-Ah Receptor Complex
+RL  J. Biol. Chem. 264:16478-16482 (1989).
+RN  [4]; RE0001231.
+RX  PUBMED: 2548080.
+RA  Neuhold L. A., Shirayoshi Y., Ozato K., Jones J. E., Nebert D. W.
+RT  Regulation of Mouse CYP1A1 Gene Expression by Dioxin: Requirement of Two cis-Acting Elements during Induction
+RL  Mol. Cell. Biol. 9:2378-2386 (1989).
+RN  [5]; RE0002274.
+RX  PUBMED: 2536161.
+RA  Hapgood J., Cuthill S., Denis M., Poellinger L., Gustafsson J.-A.
+RT  Specific protein-DNA interactions at a xenobiotic-responsive element: Copurification of dioxin receptor and DNA-binding affinity
+RL  Proc. Natl. Acad. Sci. USA 86:60-64 (1989).
+XX
+//

@@ -1,0 +1,41 @@
+AC  M00948
+XX
+ID  P$PCF2_01
+XX
+DT  29.10.2003 (created); rhe_cga.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PCF2
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05573; PCF2; Species: rice, Oryza sativa (japonica cultivar-group); site(s) included: yes.
+BF  T10960; PCF2; Species: rice, Oryza sativa (japonica cultivar-group); site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15     14     11     24      N
+02     16     14     30     14      N
+03      3      1     66      6      G
+04      3      6     65      2      G
+05     17     19     25     15      N
+06      2     71      2      1      C
+07      0     73      3      0      C
+08      0     75      0      1      C
+09     64      1      8      3      A
+10      1     66      2      7      C
+XX
+BA  76 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant PCF2 from a pool of double-stranded oligonucleotides containing a core of 8 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0023449.
+RX  PUBMED: 12000681.
+RA  Kosugi S., Ohashi Y.
+RT  DNA binding and dimerization specificity and potential targets for the TCP protein family.
+RL  Plant J. 30:337-348 (2002).
+XX
+//

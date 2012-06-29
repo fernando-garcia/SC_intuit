@@ -1,0 +1,48 @@
+AC  M01587
+XX
+ID  V$FPM315_01
+XX
+DT  24.11.2009 (created); sla.
+DT  05.02.2010 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FPM315 (ZNF263)
+XX
+DE  Zinc finger protein FPM315 with KRAB and SCAN domains
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16092; FPM315; Species: human, Homo sapiens; site(s) included: no.
+BF  T16093; FPM315; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17266; FPM315; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01     68    133    262     37      S
+02    172     43    221     64      R
+03     91      4    386     19      G
+04      5      1    485      9      G
+05      3     27    470      0      G
+06    493      4      0      3      A
+07      8      2    487      3      G
+08      4    125    370      1      G
+09    467      8     15     10      A
+10      8    148    333     11      G
+11     24    113    299     64      G
+12    182     91    190     37      N
+XX
+BA  500 sequences (ChIP-Seq)
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0065061.
+RX  PUBMED: 19887448.
+RA  Frietze S., Lan X., Jin V. X., Farnham P. J.
+RT  Genomic targets of the KRAB and scan domain-containing zinc finger protein 263 (ZNF263).
+RL  J. Biol. Chem. 285:1393-1403 (2009).
+XX
+//

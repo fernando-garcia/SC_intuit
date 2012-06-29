@@ -1,0 +1,77 @@
+AC  M01164
+XX
+ID  P$SQUA_01
+XX
+DT  03.03.2008 (created); nta.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SQUA
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03178; SQUA; Species: garden snapdragon, Antirrhinum majus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     28      0      2      C
+02      0     15      1     14      Y
+03     20      0      2      8      A
+04      3      1      0     26      T
+05      8      0      0     22      T
+06      3      0      0     27      T
+07     10      1      1     18      W
+08      4      1      0     25      T
+09     10      0     19      1      R
+10      2      2     17      9      K
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CTATTTATAG; R23378; 12; 10;; p.
+BS  CTATTTTTAG; R23394; 6; 10;; p.
+BS  CTATTTTTAG; R23395; 3; 10;; p.
+BS  CCATAAATGG; R23396; 14; 10;; p.
+BS  CCATTTATGG; R23397; 4; 10;; p.
+BS  CCTTATATGG; R23398; 9; 10;; p.
+BS  TCATTTACGA; R23399; 16; 10;; p.
+BS  CTATTTCTGG; R23400; 14; 10;; p.
+BS  CTTTTTGTAG; R23401; 5; 10;; p.
+BS  CCGTTTTTGG; R23402; 1; 10;; p.
+BS  CTACTTTTGT; R23403; 4; 10;; p.
+BS  CTGAATTAAG; R23404; 5; 10;; p.
+BS  CTATTTTTGA; R23405; 7; 10;; p.
+BS  CCATTATTGT; R23406; 17; 10;; p.
+BS  CCATTTTAAG; R23407; 12; 10;; p.
+BS  CTATATTTGT; R23408; 17; 10;; p.
+BS  TCATTTATAG; R23409; 10; 10;; p.
+BS  CCTTAATTAC; R23410; 8; 10;; p.
+BS  CTTTTTATGG; R23411; 11; 10;; p.
+BS  CCATATTTGC; R23412; 5; 10;; p.
+BS  CTATTTTTGG; R23413; 8; 10;; p.
+BS  CCAAATATAT; R23414; 16; 10;; p.
+BS  CCTTTTTTGT; R23415; 17; 10;; p.
+BS  CCATTTTTGT; R23416; 6; 10;; p.
+BS  CCTTATTTGT; R23417; 17; 10;; p.
+BS  CTATTTTTGT; R23418; 17; 10;; p.
+BS  CCTTTTATAG; R23419; 6; 10;; p.
+BS  CTATTTATGG; R23420; 9; 10;; p.
+BS  CGTATTTATG; R23421; 6; 10;; p.
+BS  CTATTTTAGT; R23422; 12; 10;; p.
+XX
+CC  sequences selected with recombinant SQUA from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0082.
+XX
+RN  [1]; RE0053941.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel123:0001 (2008).
+RN  [2]; RE0052084.
+RX  PUBMED: 9826749.
+RA  West A. G., Causier B. E., Davies B., Sharrocks A. D.
+RT  DNA binding and dimerisation determinants of Antirrhinum majus MADS-box transcription factors.
+RL  Nucleic Acids Res. 26:5277-5287 (1998).
+XX
+//

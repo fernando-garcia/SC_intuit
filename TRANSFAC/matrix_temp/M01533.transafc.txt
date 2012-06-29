@@ -1,0 +1,53 @@
+AC  M01533
+XX
+ID  F$FKH2_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Fkh2
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03304; FKH2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.24    0.2   0.22   0.34      N
+02   0.28   0.15   0.27   0.31      N
+03   0.34   0.17   0.22   0.26      N
+04   0.57   0.15   0.14   0.14      A
+05    0.5   0.11   0.18   0.22      N
+06   0.38   0.16   0.13   0.34      N
+07   0.18      0   0.81      0      G
+08   0.01      0      0   0.98      T
+09   0.95   0.05      0      0      A
+10   0.98   0.01      0   0.01      A
+11   0.99      0      0   0.01      A
+12      0    0.8      0    0.2      C
+13   0.99      0      0   0.01      A
+14   0.82   0.07   0.03   0.07      A
+15   0.68   0.03   0.11   0.18      A
+16   0.21   0.21   0.45   0.13      N
+17   0.35   0.17   0.32   0.15      N
+18   0.21   0.24   0.27   0.28      N
+19   0.32   0.07   0.43   0.18      N
+20   0.34   0.26   0.27   0.12      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064448.
+RX  PUBMED: 19158363.
+RA  Zhu C., Byers K. J., McCord R. P., Shi Z., Berger M. F., Newburger D. E., Saulrieta K., Smith Z., Shah M. V., Radhakrishnan M., Philippakis A. A., Hu Y., De Masi F., Pacek M., Rolfs A., Murthy T., LaBaer J., Bulyk M. L.
+RT  High-resolution DNA-binding specificity analysis of yeast transcription factors.
+RL  Genome Res. 19:556-566 (2009).
+RN  [2]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+XX
+//

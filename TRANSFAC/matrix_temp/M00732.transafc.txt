@@ -1,0 +1,51 @@
+AC  M00732
+XX
+ID  F$CAT8_Q6
+XX
+DT  02.06.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CAT8
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03227; CAT8; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     10      0      0      C
+02      0     10      0      0      C
+03      8      0      2      0      A
+04      0      1      1      8      T
+05      0      1      0      9      T
+06      1      5      3      1      S
+07      3      2      5      0      R
+08      2      1      2      5      N
+09      0     10      0      0      C
+10      0     10      0      0      C
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCATCCGTCC; R03791; 1; 10;; p.
+BS  CCGTTCGTCC; R11747; 1; 10;; p.
+BS  CCATTCATCC; R11749; 1; 10;; p.
+BS  CCATTGGGCC; R11750; 1; 10;; p.
+BS  CCATTGAGCC; R11751; 2; 10;; n.
+BS  CCATTCAACC; R11753; 2; 10;; n.
+BS  CCGGTGGTCC; R11755; 2; 10;; n.
+BS  CCACTAGACC; R11758; 1; 10;; p.
+BS  CCATTTCTCC; R11766; 2; 10;; n.
+BS  CCATTCCCCC; R12094; 2; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00732; F$CAT8_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

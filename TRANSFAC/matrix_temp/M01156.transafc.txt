@@ -1,0 +1,69 @@
+AC  M01156
+XX
+ID  P$BZR1_01
+XX
+DT  20.11.2007 (created); vma.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BZR1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T09158; BZR1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     28      0      0      C
+02      0      0     28      0      G
+03      0      0      0     28      T
+04      0      0     28      0      G
+05      0     18      1      9      Y
+06      4      0     23      1      G
+XX
+BA  28 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGTGCG; R22581; 1; 6;; p.
+BS  CGTGCG; R22582; 1; 6;; p.
+BS  CGTGCG; R22583; 1; 6;; p.
+BS  CGTGTG; R22584; 1; 6;; p.
+BS  CGTGGG; R22585; 1; 6;; p.
+BS  CGTGCG; R22586; 1; 6;; p.
+BS  CGTGTG; R22587; 1; 6;; p.
+BS  CGTGCG; R22588; 1; 6;; p.
+BS  CGTGCA; R22589; 1; 6;; p.
+BS  CGTGCG; R22590; 1; 6;; p.
+BS  CGTGTG; R22591; 1; 6;; p.
+BS  CGTGTG; R22592; 7; 6;; p.
+BS  CGTGCG; R22593; 7; 6;; p.
+BS  CGTGTG; R22594; 7; 6;; p.
+BS  CGTGTA; R22595; 7; 6;; p.
+BS  CGTGCG; R22596; 7; 6;; p.
+BS  CGTGCG; R22597; 7; 6;; p.
+BS  CGTGCT; R22598; 7; 6;; p.
+BS  CGTGTG; R22599; 7; 6;; p.
+BS  CGTGTG; R22600; 7; 6;; p.
+BS  CGTGTG; R22601; 7; 6;; p.
+BS  CGTGCG; R22602; 7; 6;; p.
+BS  CGTGCG; R22603; 7; 6;; p.
+BS  CGTGCA; R22604; 7; 6;; p.
+BS  CGTGCA; R22605; 7; 6;; p.
+BS  CGTGCG; R22606; 7; 6;; p.
+BS  CGTGCG; R22607; 7; 6;; p.
+BS  CGTGCG; R22608; 7; 6;; p.
+XX
+CC  sequences selected with recombinant BZR1 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+RN  [2]; RE0048015.
+RX  PUBMED: 15681342.
+RA  He J. X., Gendron J. M., Sun Y., Gampala S. S., Gendron N., Sun C. Q., Wang Z. Y.
+RT  BZR1 is a transcriptional repressor with dual roles in brassinosteroid homeostasis and growth responses.
+RL  Science 307:1634-1638 (2005).
+XX
+//

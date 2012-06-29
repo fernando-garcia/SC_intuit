@@ -1,0 +1,61 @@
+AC  M01284
+XX
+ID  V$SOX9_Q4
+XX
+DT  08.07.2009 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX9
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T16044; SOX9; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16045; SOX9; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01853; Sox9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08624; Sox9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10914; Sox9; Species: Mammalia; site(s) included: yes.
+BF  T01854; Sox9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09454; Sox9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05485; Sox9; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08440; Sox9; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      2      4      0      R
+02      5      2      1      3      N
+03      7      0      1      3      A
+04      0     11      0      0      C
+05     11      0      0      0      A
+06      8      0      3      0      A
+07      8      0      1      2      A
+08      0      0     10      1      G
+09      2      2      7      0      G
+10      4      3      4      0      V
+11      3      4      2      2      N
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAACAAAGCGC; R03576; 6; 11;; p.
+BS  CCACAAAGAGA; R22426; 8; 11;; p.
+BS  ACTCAAAGGGC; R22915; 20; 11;; p.
+BS  atacagagccc; R22916; 10; 11;; n.
+BS  gtacaatggca; R23225; 9; 11;; n.
+BS  CAACAAAGGAG; R23227; 13; 11;; p.
+BS  gaacagagggt; R26870; 10; 11;; n.
+BS  GAGCAATGGAG; R27941; 6; 11;; p.
+BS  atacaaaggat; R28022; -3; 11;; n.
+BS  agtcaggtgca; R28025; 9; 11;; n.
+BS  AATCAAAGAAC; R28244; 16; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+XX
+//

@@ -1,0 +1,59 @@
+AC  M00443
+XX
+ID  P$O2_Q2
+XX
+DT  02.07.2001 (created); rge.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Opaque-2
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T00668; Opaque-2; Species: maize, Zea mays; site(s) included: yes.
+BF  T08878; Opaque-2; Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      5      1      2      C
+02      7      0      2      1      A
+03      1      1      7      6      K
+04      6      1      1      7      W
+05      0      6      0      9      Y
+06      0      6      9      0      S
+07     15      0      0      0      A
+08      0     10      0      2      C
+09      3      0     12      0      G
+10      0      0      0     15      T
+11      5      4      6      0      V
+12      6      0      8      1      R
+13      6      0      0      4      W
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CATTCCACGTAGA; R02296; 4; 13;; p.
+BS  CATTCCACGTAGA; R02297; 13; 13;; p.
+BS  CATTCCACGTAGA; R02298; 13; 13;; p.
+BS  CATTCCACGTAGA; R02299; 13; 13;; p.
+BS  CATTCCACGTAGA; R02303; 13; 13;; p.
+BS    GTTGACGTGA; R02934; 1; 13; 1, 2, 13; p.
+BS    GATGACATGA; R02935; 1; 13; 1, 2, 13; p.
+BS    GATGATGTGG; R02936; 1; 13; 1, 2, 13; p.
+BS    GATGATATGG; R02937; 1; 13; 1, 2, 13; p.
+BS    GATGACATGG; R02938; 1; 13; 1, 2, 13; p.
+BS  TGGCTGA GTCAT; R08301; 9; 13; 16; p.
+BS  TACATGACGTGTA; R08302; 5; 13;; p.
+BS  AAGGTGA GTCAT; R08303; 2; 13; 9; p.
+BS  GTTTCCACGTCAT; R08304; 3; 13;; p.
+BS  AGAATGA GTCAT; R09152; 8; 13; 15; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

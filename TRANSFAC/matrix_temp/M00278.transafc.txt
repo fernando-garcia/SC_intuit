@@ -1,0 +1,78 @@
+AC  M00278
+XX
+ID  V$LMO2COM_02
+XX
+DT  17.02.1998 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Lmo2 complex
+XX
+DE  complex of Lmo2 bound to Tal-1, E2A proteins, and GATA-1, half-site 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16551; RBTN2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14264; RBTN2; Species: Mammalia; site(s) included: no.
+BF  T02251; RBTN2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10141; RBTN2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16550; RBTN2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02250; RBTN2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5     14      6      5      N
+02     14     11      0      6      M
+03      0      0     31      0      G
+04     31      0      0      0      A
+05      0      0      0     31      T
+06     31      0      0      0      A
+07     10      7     11      3      N
+08      1     11     15      4      S
+09      3      8     19      1      G
+XX
+BA  31 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCGATAAGG; R08040; 17; 9;; p.
+BS  ACGATAAGG; R08041; 15; 9;; p.
+BS  GCGATACGG; R08042; 17; 9;; p.
+BS  CCGATAGCC; R08043; 17; 9;; p.
+BS  GCGATAGTC; R08044; 17; 9;; p.
+BS  TTGATAAGC; R08045; 17; 9;; p.
+BS  CCGATAGCG; R08046; 18; 9;; p.
+BS  GCGATACGA; R08047; 18; 9;; p.
+BS  CAGATAAAC; R08048; 18; 9;; p.
+BS  TAGATAACG; R08049; 17; 9;; p.
+BS  TAGATAGTG; R08050; 20; 9;; p.
+BS  CTGATACCG; R08051; 18; 9;; p.
+BS  NAGATAGGC; R08052; 17; 9;; p.
+BS  TAGATACGC; R08053; 17; 9;; p.
+BS  CTGATATGA; R08054; 20; 9;; p.
+BS  CAGATAGTG; R08055; 18; 9;; p.
+BS  CCGATAGGC; R08056; 19; 9;; p.
+BS  ACGATACGG; R08057; 17; 9;; p.
+BS  CCGATATGG; R08058; 17; 9;; p.
+BS  CAGATAACG; R08059; 20; 9;; p.
+BS  ACGATAGCG; R08060; 20; 9;; p.
+BS  CTGATACCG; R08061; 20; 9;; p.
+BS  AAGATACCG; R08062; 20; 9;; p.
+BS  AAGATAACA; R08063; 19; 9;; p.
+BS  GTGATAATT; R08064; 18; 9;; p.
+BS  CTGATATCG; R08065; 20; 9;; p.
+BS  CAGATAACC; R08066; 17; 9;; p.
+BS  CAGATAGGG; R08067; 18; 9;; p.
+BS  GAGATAGGG; R08068; 20; 9;; p.
+BS  TAGATAAGG; R08069; 18; 9;; p.
+BS  CAGATAGGG; R08070; 19; 9;; p.
+XX
+CC  sequences selected with recombinant Lmo2 complex from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0005956.
+RX  PUBMED: 9214632.
+RA  Wadman I. A., Osada H., Gruetz G. G., Agulnick A. D., Westphal H., Forster A., Rabbitts T. H.
+RT  The LIM-only protein Lmo2 is a bridging molecule assembling an erythroid, DNA-binding complex which includes the TAL1, E47, GATA-1 and Ldb1/NLI proteins
+RL  EMBO J. 16:3145-3157 (1997).
+XX
+//

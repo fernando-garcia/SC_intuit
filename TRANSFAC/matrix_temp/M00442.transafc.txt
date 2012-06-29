@@ -1,0 +1,107 @@
+AC  M00442
+XX
+ID  P$ABF_Q2
+XX
+DT  02.07.2001 (created); rhe/rge.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ABF
+XX
+DE  ABA binding factor
+XX
+TY  family
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+HC  M00399; P$ABF1_01; ABA (abscisic acid) inducible transcriptional activator (specific).
+HC  M00400; P$ABF1_02; ABA (abscisic acid) inducible transcriptional activator (specific).
+HC  M00401; P$ABF1_03; ABA (abscisic acid) inducible transcriptional activator (specific).
+XX
+BF  T03820; ABF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13760; ABF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T03824; ABF3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13763; ABF3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T03825; ABF4; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T03823; AREB1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7     11     16     12      N
+02      3     12     20     12      N
+03      0      8     32      9      G
+04      8      5     30      6      G
+05     23     16      0     10      M
+06      0     38     10      1      C
+07     47      0      2      0      A
+08      1     48      0      0      C
+09      0      0     49      0      G
+10      0      0      0     49      T
+11      0      0     49      0      G
+12      0      0     43      6      G
+13      2     47      0      0      C
+14     18     17      8      4      N
+15      8     24     11      4      C
+16     11     10     22      4      N
+17     22     11     10      3      N
+XX
+BA  49 sequences (matrix compiled from individual genomic sites)
+XX
+BS    GGACACGTGGC; R03678; 1; 17; 1, 2, 14, 15, 16, 17; p.
+BS    GGACGCGTGGC; R09129; 1; 17; 1, 2, 14, 15, 16, 17; p.
+BS  GGGGACACGTGGCATAC; R09244; 7; 17;; p.
+BS  GGGGACACGTGGCGCTA; R09245; 5; 17;; p.
+BS  CGGGACACGTGGCGCAA; R09246; 4; 17;; p.
+BS  CGGGACACGTGGCCCAC; R09247; 4; 17;; p.
+BS  CGGGACACGTGGCACAA; R09248; 4; 17;; p.
+BS  ATGGACACGTGGCTAGA; R09249; 9; 17;; p.
+BS  TCGGACACGTGGCACGA; R09250; 6; 17;; p.
+BS  CAGGACACGTGGCACGC; R09251; 8; 17;; p.
+BS  ATGGACACGTGGCAGAG; R09252; 10; 17;; p.
+BS  GGTGACACGTGGCTTGA; R09253; 6; 17;; p.
+BS  GGTGACACGTGGCGAGG; R09254; 11; 17;; p.
+BS  GGTGACACGTGGCACGA; R09255; 10; 17;; p.
+BS  CGCGACACGTGGCTGTT; R09256; 4; 17;; p.
+BS  AGGAACACGTGGCCCGC; R09257; 8; 17;; p.
+BS  CGGAACACGTGGCACGA; R09258; 10; 17;; p.
+BS  GGGTACACGTGGCCCGA; R09259; 9; 17;; p.
+BS  TATGACACGTGGAGGC; R09260; 13; 17; 29; p.
+BS  TCGGACACGTGTCCCGA; R09261; 4; 17;; p.
+BS  CGGGACACGTGTCCGAC; R09262; 11; 17;; p.
+BS  TCTGACACGTGTCAGTC; R09263; 4; 17;; p.
+BS  GGGCCCACGTGGCTTCC; R09264; 6; 17;; p.
+BS  ATGGCCACGTGGCGCGA; R09265; 10; 17;; p.
+BS  GTGGCCACGTGGCGCGA; R09266; 10; 17;; p.
+BS  GAGGCCACGTGGCACGA; R09267; 10; 17;; p.
+BS  GGCGCCACGTGGCCGCG; R09268; 9; 17;; p.
+BS  ACCGCCACGTGGCCGAC; R09269; 11; 17;; p.
+BS  ACTGCCACGTGGCACGA; R09270; 10; 17;; p.
+BS  TTCGCCACGTGGCGACA; R09271; 12; 17;; p.
+BS  TTGTCCACGTGGCCCAC; R09272; 7; 17;; p.
+BS  CCGTCCACGTGGCCCGA; R09273; 10; 17;; p.
+BS  TCTACCACGTGGCACAC; R09274; 4; 17;; p.
+BS  GCTACCACGTGGCAAGA; R09275; 6; 17;; p.
+BS  AGCACCACGTGGCACGA; R09276; 10; 17;; p.
+BS  TCCATGACGTGGCGAGG; R09277; 8; 17;; p.
+BS  TTGATGACGTGGCCACG; R09278; 8; 17;; p.
+BS  TTCATGACGTGGCACCA; R09279; 7; 17;; p.
+BS  TGGCTGACGTGGCACTA; R09280; 6; 17;; p.
+BS  GTGGTGACGTGGCCGAG; R09281; 10; 17;; p.
+BS  TCGGTGACGTGTCCCGG; R09282; 8; 17;; p.
+BS  CTGCTGACGTGTCCCCG; R09283; 9; 17;; p.
+BS   TGTCGACGTGGCAACT; R09284; 1; 17; 1; p.
+BS  GGGCTTACGTGGCAGCG; R09285; 8; 17;; p.
+BS  GCCCTGAAGTGGACAGC; R09286; 6; 17;; p.
+BS  CCGTCCGCGTGGCAGCA; R09287; 6; 17;; p.
+BS  GTGGTGACGTGGCCGAG; R09288; 10; 17;; p.
+BS  GGGTACACGTGGCCCGA; R09289; 9; 17;; p.
+BS  CGTGCCACGTGTCCTGT; R09290; 6; 17;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better, but includes also 47 artificial sites
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

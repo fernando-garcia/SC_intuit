@@ -1,0 +1,66 @@
+AC  M02794
+AS  PB0060
+XX
+ID  V$SMAD3_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  17.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Smad3
+XX
+DE  class: Zinc-coordinating; family: MH1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00792; V$SMAD_Q6;  (family).
+HP  M00974; V$SMAD_Q6_01;  (family).
+XX
+BF  T04210; Smad3; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T09072; Smad3; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     28     41     11     19      N
+02     34     14     27     26      N
+03     40     17     17     26      N
+04     37     20     21     23      N
+05     24     18     22     35      N
+06      3     81      4     13      C
+07      0     82      4     14      C
+08     93      6      1      0      A
+09      1      0     99      0      G
+10     97      2      0      1      A
+11      1     98      0      0      C
+12     67      1     28      4      A
+13     13     17     33     36      N
+14     20     29     25     26      N
+15     42     19     16     22      N
+16     21     29     29     20      N
+17     37     29     15     19      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0060.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

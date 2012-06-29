@@ -1,0 +1,62 @@
+AC  M01471
+XX
+ID  V$LHX3_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Lhx3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01965; LHX3; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01963; LHX3; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T11062; LHX3; Species: human, Homo sapiens; site(s) included: no.
+BF  T17993; LHX3; Species: Mammalia; site(s) included: yes.
+BF  T10879; LHX3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11096; LHX3; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03446; LHX3a; Species: human, Homo sapiens; site(s) included: no.
+BF  T01964; LHX3a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03447; LHX3b; Species: human, Homo sapiens; site(s) included: no.
+BF  T04840; LHX3b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T13732; M2-LHX3; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.23   0.29   0.37   0.11      N
+02   0.26   0.23   0.25   0.26      N
+03   0.56   0.23   0.04   0.18      A
+04   0.63   0.09    0.2   0.08      A
+05   0.02    0.1   0.01   0.87      T
+06   0.02   0.03      0   0.95      T
+07   0.97      0   0.02      0      A
+08   0.98      0      0   0.01      A
+09   0.01      0      0   0.98      T
+10      0   0.02      0   0.97      T
+11   0.95      0   0.03   0.02      A
+12   0.87   0.01    0.1   0.02      A
+13   0.43   0.09   0.13   0.36      W
+14   0.34   0.03   0.08   0.54      W
+15   0.41   0.28   0.08   0.23      N
+16   0.34   0.32   0.11   0.24      N
+17   0.11   0.23   0.31   0.34      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0093.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

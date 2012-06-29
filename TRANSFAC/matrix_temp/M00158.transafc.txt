@@ -1,0 +1,102 @@
+AC  M00158
+XX
+ID  V$COUP_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  COUP-TF, HNF-4
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00134; V$HNF4_01; hepatic nuclear factor 4 (specific).
+HC  M00411; V$HNF4_01_B; Hepatocyte nuclear factor 4 (specific).
+HC  M00638; V$HNF4ALPHA_Q6;  (specific).
+HC  M01031; V$HNF4_Q6_01;  (specific).
+HC  M01032; V$HNF4_Q6_02; half-site 1 (specific).
+HC  M01033; V$HNF4_Q6_03; half-site 2 (specific).
+HC  M02016; V$HNF4A_Q6_01;  (specific).
+HC  M02220; V$HNF4A_03; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02764; V$HNF4A_04; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02868; V$HNF4A_02; class: Zinc-coordinating; family: Hormone-nuclear Receptor  (specific).
+XX
+BF  T02761; COUP; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T00147; COUP; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06153; COUP-TF1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00148; COUP-TF1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00149; COUP-TF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08505; COUP-TF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10201; COUP-TF1; Species: Mammalia; site(s) included: no.
+BF  T00994; COUP-TF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09428; COUP-TF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15391; COUP-TF1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T06251; COUP-TFI; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10280; COUP-TFI; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T05294; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T08260; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T02758; HNF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18464; HNF-4 alpha8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18418; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18419; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T03828; HNF-4alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08612; HNF-4alpha; Species: Mammalia; site(s) included: no.
+BF  T05287; HNF-4alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05288; HNF-4alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02421; HNF-4alpha1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02424; HNF-4alpha1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00372; HNF-4alpha1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00373; HNF-4alpha2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02423; HNF-4alpha2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02422; HNF-4alpha2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02428; HNF-4alpha3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02425; HNF-4alpha4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05285; HNF-4alpha7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02427; HNF-4alpha7; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      2     11      T
+02      1      0     12      0      G
+03     12      0      1      0      A
+04      6      7      0      0      M
+05      0     13      0      0      C
+06      0      3      0     10      T
+07      0      2      0     11      T
+08      1      0      0     12      T
+09      2      0     11      0      G
+10      6      4      3      0      M
+11      6      5      1      1      M
+12      1     10      1      1      C
+13      3      6      0      4      Y
+14      0      3      3      7      T
+XX
+BA  13 sequences (compiled matrix imported from literature reference)
+XX
+BS  TGAACTTTAAGCCT; R07440; 1; 14;; p.
+BS  GGACCTTTGATCCC; R07441; 1; 14;; p.
+BS  TGAACTTTAAACCT; R07442; 1; 14;; p.
+BS  TAACCTCTGAACTT; R07443; 1; 14;; p.
+BS  TGACCTTTGACACC; R07444; 1; 14;; p.
+BS  TGACCCCTGGACTT; R07445; 1; 14;; p.
+BS  GGACCTTTGACCCC; R07446; 1; 14;; p.
+BS  TGAACCTTGCCTAG; R07447; 1; 14;; p.
+BS  TGACCCTTGCAGAG; R07448; 1; 14;; p.
+BS  TGACCTTTGCCCAG; R07449; 1; 14;; p.
+BS  TGAACTTTGGACTT; R07450; 1; 14;; p.
+BS  TGAACTTTGGACTT; R07451; 1; 14;; p.
+BS  TGGACTTAGCCCCT; R07452; 1; 14;; p.
+XX
+CC  artificial binding sites for COUP-TF and HNF-4
+XX
+DR  JASPAR: MA0017.
+XX
+RN  [1]; RE0003125.
+RX  PUBMED: 8496174.
+RA  Kimura A., Nishiyori A., Murakami T., Tsukamoto T., Hata S., Osumi T., Okamura R., Mori M., Takiguchi M.
+RT  Chicken ovalbumin upstream promoter-transcription factor (COUP-TF) represses transcription from the promoter of the gene for ornithine transcarbamylase in a manner antagonistic to hepatocyte nuclear factor-4 (HNF-4)
+RL  J. Biol. Chem. 268:11125-11133 (1993).
+XX
+//

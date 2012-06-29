@@ -1,0 +1,52 @@
+AC  M01834
+XX
+ID  V$HOXD9_Q2
+XX
+DT  08.02.2011 (created); mkl.
+DT  14.02.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Hoxd9
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01756; hoxd9; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15829; hoxd9; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01424; hoxd9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15392; hoxd9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01755; hoxd9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15828; hoxd9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18715; hoxd9; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18716; hoxd9; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      1      0      0      A
+02      1      2      1      0      V
+03      1      1      1      1      N
+04      1      4      0      0      C
+05      5      0      0      0      A
+06      0      0      0      5      T
+07      3      0      0      2      W
+08      5      0      0      0      A
+09      4      0      0      1      A
+10      3      0      1      1      A
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  nnnaataaaa; R04091; 2; 10;; n.
+BS  ACACATTAAT; R04092; 2; 10;; p.
+BS  CCTCATAAAA; R04094; 4; 10;; p.
+BS  AGGCATAATA; R04095; 1; 10;; p.
+BS  aaccattaag; R25958; 4; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

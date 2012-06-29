@@ -1,0 +1,54 @@
+AC  M00146
+XX
+ID  V$HSF1_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HSF1
+XX
+DE  heat shock factor 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01044; HSF1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11325; HSF1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11469; HSF1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T10036; HSF1; Species: human, Homo sapiens; site(s) included: no.
+BF  T16989; HSF1; Species: Mammalia; site(s) included: no.
+BF  T11470; HSF1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T00384; HSF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05814; HSF1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15372; HSF1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01042; HSF1-L; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02104; HSF1-S; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05813; HSF1long; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01525; HSF1short; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     24      4     12      5      A
+02      0      0     45      0      G
+03     38      1      2      4      A
+04     36      1      2      6      A
+05      7     14      9     15      N
+06     13      2     21      8      R
+07      6      4      6     29      T
+08      5      4      5     31      T
+09      0     45      0      0      C
+10      6      7     21     11      N
+XX
+BA  45 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant HSF1 from a pool of double-stranded oligonucleotides containing a core of 27 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0003118.
+RX  PUBMED: 7935474.
+RA  Kroeger P. E., Morimoto R. I.
+RT  Selection of new HSF1 and HSF2 DNA-binding sites reveals differences in trimer cooperativity
+RL  Mol. Cell. Biol. 14:7592-7603 (1994).
+XX
+//

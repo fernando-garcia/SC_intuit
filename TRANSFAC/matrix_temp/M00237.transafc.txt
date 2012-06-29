@@ -1,0 +1,100 @@
+AC  M00237
+XX
+ID  V$AHRARNT_02
+XX
+DT  05.02.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AhR:Arnt
+XX
+DE  aryl hydrocarbon receptor:Arnt heterodimers, fixed core
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00976; V$AHRHIF_Q6;  (family).
+XX
+BF  T02270; AhR; Species: guinea pig, Cavia porcellus; site(s) included: yes.
+BF  T01795; AhR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08992; AhR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00018; AhR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09051; AhR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05414; AhR; Species: pig, Sus scrofa; site(s) included: no.
+BF  T05398; AhR; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T00019; AhR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15046; AhR; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T18749; Ahr-xbb2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05424; AhR2; Species: killifish, Fundulus heteroclitus; site(s) included: no.
+BF  T01346; arnt; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10835; arnt; Species: human, Homo sapiens; site(s) included: no.
+BF  T10818; arnt; Species: Mammalia; site(s) included: no.
+BF  T01797; arnt; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01798; arnt; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10933; arnt; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01796; Arnt (774 AA form); Species: human, Homo sapiens; site(s) included: yes.
+BF  T10458; arnt-L; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18790; arnt-S; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     16      4     76      4      G
+02     32      8     48     12      R
+03      8     24     56     12      G
+04     12     12     44     32      K
+05     72      0     24      4      A
+06      0      0     16     84      T
+07      0     52      0     48      Y
+08      0      0    100      0      G
+09      0    100      0      0      C
+10      0      0    100      0      G
+11      0      0      0    100      T
+12      0      0    100      0      G
+13     48     36      0     16      M
+14      8     56     28      8      C
+15     48      0      8     44      W
+16     40      4     32     24      N
+17      0     40     40     20      S
+18      0     72     16     12      C
+19      0    100      0      0      C
+XX
+BA  25 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ACGGATTGCGTGACTAGGC; R12170; 1; 19;; p.
+BS  GTCGGGTGCGTGACATGCC; R12171; 1; 19;; p.
+BS  GGATATCGCGTGCGGTGCC; R12172; 1; 19;; p.
+BS  GGCAGGTGCGTGACAATGC; R12173; 1; 19;; p.
+BS  ATGGGTTGCGTGACTTGCC; R12174; 1; 19;; p.
+BS  GGGGATCGCGTGACTGTTC; R12175; 1; 19;; p.
+BS  CTGGATCGCGTGTGTTGCC; R12176; 1; 19;; p.
+BS  GGGTATCGCGTGACTTGCC; R12177; 1; 19;; p.
+BS  GGAGATCGCGTGTAAGTTC; R12178; 1; 19;; p.
+BS  GCCCATCGCGTGCCGTCTC; R12179; 1; 19;; p.
+BS  GAGGTTCGCGTGCGAGTGC; R12180; 1; 19;; p.
+BS  GGGTATCGCGTGACTGCCC; R12181; 1; 19;; p.
+BS  GGGTATCGCGTGATTACCC; R12182; 1; 19;; p.
+BS  AATGGGTGCGTGTCAAGCC; R12183; 1; 19;; p.
+BS  GGGTATTGCGTGCCAACCC; R12184; 1; 19;; p.
+BS  TAGAGGTGCGTGCGAACCC; R12185; 1; 19;; p.
+BS  GGGTATTGCGTGCCAACCC; R12186; 1; 19;; p.
+BS  GGGTATCGCGTGATTACCC; R12187; 1; 19;; p.
+BS  GGGTATCGCGTGACTAGCC; R12188; 1; 19;; p.
+BS  GACAATTGCGTGCGAGGGC; R12189; 1; 19;; p.
+BS  GACGATTGCGTGCGAGTCC; R12190; 1; 19;; p.
+BS  GATGATTGCGTGTATGCCC; R12191; 1; 19;; p.
+BS  AATCGTTGCGTGAGAGGCC; R12192; 1; 19;; p.
+BS  GACGATCGCGTGCCTACCC; R12193; 1; 19;; p.
+BS  GGGCATCGCGTGACACCCC; R12194; 1; 19;; p.
+XX
+CC  fixed core of 5 nucleotides used;; sequences selected with recombinant AhR:Arnt from a pool of double-stranded oligonucleotides containing a core of 19 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0006.
+XX
+RN  [1]; RE0003789.
+RX  PUBMED: 7592839.
+RA  Swanson H. I., Chan W. K., Bradfield C. A.
+RT  DNA binding specificities and pairing rules of the Ah receptor, ARNT, and SIM proteins
+RL  J. Biol. Chem. 270:26292-26302 (1995).
+XX
+//

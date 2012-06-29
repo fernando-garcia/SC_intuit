@@ -1,0 +1,45 @@
+AC  M02045
+XX
+ID  F$RFX1_02
+XX
+DT  06.09.2011 (created); jtr.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RFX1 (Crt1)
+XX
+DE  RFX1p b.s.
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03541; rfx1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0      1      T
+02      0    0.6      0    0.4      Y
+03      0      0      1      0      G
+04      0      1      0      0      C
+05      0    0.8      0    0.2      C
+06    0.8      0    0.2      0      A
+07      0      0      0      1      T
+08      0      0      1      0      G
+09    0.2      0    0.8      0      G
+10    0.2    0.8      0      0      C
+11      1      0      0      0      A
+12      1      0      0      0      A
+13      0      1      0      0      C
+XX
+BA  30 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites in 30 genes; used MEME algorithm in combination with Markow model; figures are percentages
+XX
+RN  [1]; RE0071010.
+RX  PUBMED: 15494396.
+RA  Zaim J., Speina E., Kierzek A. M.
+RT  Identification of new genes regulated by the Crt1 transcription factor, an effector of the DNA damage checkpoint pathway in Saccharomyces cerevisiae.
+RL  J. Biol. Chem. 280:28-37 (2005).
+XX
+//

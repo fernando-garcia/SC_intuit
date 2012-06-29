@@ -1,0 +1,155 @@
+AC  M02106
+XX
+ID  V$NFYA_Q5
+XX
+DT  24.10.2011 (created); mkl.
+DT  18.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-YA
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00185; V$NFY_Q6; nuclear factor Y (Y-box binding factor) (family).
+HP  M00209; V$NFY_C; NF-Y  binding site (family).
+HP  M00775; V$NFY_Q6_01;  (family).
+XX
+BF  T10773; NF-YA; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T16563; NF-YA; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T01804; NF-YA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08563; NF-YA; Species: Mammalia; site(s) included: yes.
+BF  T10585; NF-YA; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T09472; NF-YA; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00088; NF-YA; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10234; NF-YA; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00615; NF-YA isoform-1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11     53     15     21      C
+02     46     10     38      6      R
+03     24      7     62      7      G
+04      0     98      1      1      C
+05      1     98      0      1      C
+06     98      1      0      1      A
+07     97      2      1      0      A
+08      0      0      0    100      T
+09      3     61     30      6      C
+10     62     10     24      4      A
+11     10     22     60      8      G
+12     38     30     22      8      N
+13     33      6     45     14      R
+14     16     36     31     15      N
+XX
+BA  100 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGGCCAATCAGAAA; R01088; 12; 14;; n.
+BS  CAGCCAATCAGAGC; R04344; 4; 14;; n.
+BS  GGACCAATGAAAGC; R04358; 5; 14;; n.
+BS  CAGCCCATGTGGCG; R04432; 3; 14;; p.
+BS  CAGCCAATCAGCCT; R04736; 7; 14;; n.
+BS  TCACCAATCGGGTA; R12441; 3; 14;; n.
+BS  CTACCAATCAGAAA; R16632; 19; 14;; n.
+BS  CAGCCAATGAGGTT; R16941; 8; 14;; p.
+BS  cgtCCAATcatgtt; R16955; 7; 14;; n.
+BS  TGGCCAATCATTAC; R16969; 3; 14;; n.
+BS  GGTCCAATCAGCTG; R16970; 5; 14;; p.
+BS  CCGCCAATCACAGC; R16971; 5; 14;; p.
+BS  CTGGCAATGGCGAG; R16982; 5; 14;; n.
+BS  CGTCCAATCAGGAG; R16987; 18; 14;; p.
+BS  TGGCCAATCAGAAT; R17073; 7; 14;; p.
+BS  CGGCCAATGGCGGG; R19471; 6; 14;; n.
+BS  TGACCAATGAGCAC; R19640; 9; 14;; p.
+BS  ACACCAATCGGCAG; R19647; 28; 14;; p.
+BS  acaCCAATcagcac; R19650; 31; 14;; p.
+BS  CTACCAATCAGCAG; R19652; 9; 14;; p.
+BS  TGACCAATACCAAC; R19721; 18; 14;; n.
+BS  CAGCCAATCGCAGC; R20182; 9; 14;; p.
+BS  CAGCCAATCTCATG; R20409; 13; 14;; n.
+BS  TGTCCAATCCGGGC; R20616; 6; 14;; n.
+BS  CGGCCAATCCCAAA; R20617; 6; 14;; n.
+BS  gaaCCAATcctgac; R20621; 9; 14;; n.
+BS  TGGCCAATGGGGAA; R21012; 8; 14;; n.
+BS  AAACCAATCAGCAC; R21014; 1; 14;; n.
+BS  CCGCCAATCACCGC; R21155; 24; 14;; p.
+BS  CAGCCAATGAGGAC; R21203; 16; 14;; n.
+BS  TGACCAGTCAGAGA; R21354; 5; 14;; p.
+BS  CAGCCAATCCTGAG; R21389; 10; 14;; p.
+BS  GAGCCAATGAATTG; R21390; 4; 14;; p.
+BS  CAGCCAATGAGAAG; R21519; 6; 14;; p.
+BS  CGACCAATCAGGGC; R21524; 6; 14;; p.
+BS  CAGCCAATCACGGT; R21527; 6; 14;; n.
+BS  CATCCAATTAGCCT; R21530; 7; 14;; n.
+BS  CAGCCAATCAGCCC; R21585; 36; 14;; p.
+BS  TGGCCAATGAAAGG; R22137; 6; 14;; n.
+BS  CCCCCAATCTGCTT; R22397; 5; 14;; p.
+BS  CCACCAATTAGGGT; R22398; 4; 14;; n.
+BS  TGGCCAATCATTAC; R22400; 3; 14;; n.
+BS  CAGCCAATCAGCGA; R22477; 6; 14;; p.
+BS  AGGCCAATGAGCGT; R22609; -1; 14;; n.
+BS  GGGCCAATCAGCGC; R22610; 10; 14;; p.
+BS  CGGCCAATCAGCGA; R22697; 10; 14;; n.
+BS  CTGCCAATCAAAGC; R22899; 16; 14;; p.
+BS  TAACCAATCAGAAA; R22901; 9; 14;; n.
+BS  CTGCCAATCACCGC; R22902; 12; 14;; n.
+BS  CAGCCAATGAGCGC; R22907; 13; 14;; p.
+BS  AGACCAATGAGCAC; R22962; 12; 14;; p.
+BS  GAGCCAATCACAAG; R22963; 10; 14;; n.
+BS  TAGCCAATGAGTGG; R23186; 2; 14;; n.
+BS  CAGCCAATCAGCGC; R23531; 3; 14;; n.
+BS  AGCCCAATGGCCAA; R24495; 17; 14;; p.
+BS  CGACCAATCAGTGA; R24778; 6; 14;; n.
+BS  AGCCCAATTAGAGT; R25638; 38; 14;; n.
+BS  GGGCCAATCAGCGT; R25973; 11; 14;; p.
+BS  CGTCCAATGGGAGG; R25977; 12; 14;; p.
+BS  CTGCCAATCAGCGC; R26645; 6; 14;; n.
+BS  CAGCCAATCAAnnn; R26742; 1; 14;; p.
+BS  TAGCCAATGGGnnn; R26744; 1; 14;; p.
+BS  GACCCAATCACAAC; R28124; 5; 14;; n.
+BS  TGGCCAATCCCAGG; R28321; 8; 14;; n.
+BS  TACCCAATACTCAG; R28464; 1; 14;; n.
+BS  cgACCAAtcgcagc; R29235; 7; 14;; n.
+BS  TGGCCAATCGGAGC; R29353; 9; 14;; n.
+BS  GAGCCAATCCCAGC; R29980; 6; 14;; n.
+BS  CAGCAAATGGCATT; R30338; 9; 14;; p.
+BS  GAACCAATGAAATG; R30506; 6; 14;; p.
+BS  CAGCCAATGGGAGG; R30918; 8; 14;; p.
+BS  CAGCCAATCAGCGC; R31268; 5; 14;; p.
+BS  CAGCCAATCAGCGC; R31381; 6; 14;; p.
+BS  CAGCCAATCAGCAA; R31586; 5; 14;; n.
+BS  GAGCCAATTGGGCC; R31845; 10; 14;; p.
+BS  CAGCCAATCAGAcg; R32056; 11; 14;; p.
+BS  CAGCCAATCCCTGA; R32285; 5; 14;; n.
+BS  GAACCAATCGTAGC; R32286; 6; 14;; n.
+BS  AAACCAATCAGGTT; R32287; 8; 14;; n.
+BS  TGGCCAATGAGAAG; R32288; 6; 14;; n.
+BS  AAGCCAATTAAAGT; R33057; 7; 14;; p.
+BS  CAGCCAATGAAGAG; R33077; 24; 14;; n.
+BS  CCGCCAATGGGAGC; R33104; 16; 14;; n.
+BS  TGGCCAATCACTGA; R33232; -2; 14;; n.
+BS  CAGCCAATAGGGTT; R33376; 5; 14;; n.
+BS  GGACCAATGAGCTC; R33377; 8; 14;; n.
+BS  CAGCCACTCAGAGG; R33578; 11; 14;; n.
+BS  CAACCAATCACAGA; R33606; 15; 14;; p.
+BS  GACCCAATCAGGAC; R34317; 9; 14;; n.
+BS  AGACCAATCACAGA; R34546; 5; 14;; n.
+BS  CGCCCAATTGAGAG; R34640; 18; 14;; p.
+BS  CCACCAATGGGAGG; R35988; 11; 14;; n.
+BS  CATCCAATCCACTG; R36031; 10; 14;; p.
+BS  GGGCCAATGGGAAC; R36243; 3; 14;; n.
+BS  AGGTTACTGGGCTG; R36457; -6; 14;; n.
+BS  CAGCCAATCTCCGC; R36458; 3; 14;; p.
+BS  TGGCCTATCGTTGG; R36459; 3; 14;; p.
+BS  CCGCCAATGGGAAG; R36461; 3; 14;; p.
+BS  TGGCCAATCAGGAG; R36763; 8; 14;; n.
+BS  CAGCCAATGGGAGG; R36773; 10; 14;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

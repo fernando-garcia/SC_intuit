@@ -1,0 +1,59 @@
+AC  M02252
+AS  MA0149
+XX
+ID  V$EWSR1FLI1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  EWSR1-FLI1
+XX
+DE  class: Winged Helix-Turn-Helix; family: Ets
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T08100; EWS; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08290; EWS; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0    105      0      G
+02      2      0    103      0      G
+03    104      0      1      0      A
+04    104      0      1      0      A
+05      1      0    104      0      G
+06      2      0    102      1      G
+07    103      0      2      0      A
+08    102      0      3      0      A
+09      0      0    104      1      G
+10      0      2    103      0      G
+11     99      4      2      0      A
+12    105      0      0      0      A
+13      0      0    105      0      G
+14      0      2    103      0      G
+15    100      3      0      2      A
+16    102      0      2      1      A
+17      5      0     97      3      G
+18      3      3     97      2      G
+XX
+BA  105 sequences (ChIP-Seq)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0149.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0064528.
+RX  PUBMED: 19305498.
+RA  Guillon N., Tirode F., Boeva V., Zynovyev A., Barillot E., Delattre O.
+RT  The oncogenic EWS-FLI1 protein binds in vivo GGAA microsatellite sequences with potential transcriptional activation function.
+RL  PLoS ONE 4:e4932 (2009).
+XX
+//

@@ -1,0 +1,64 @@
+AC  M01165
+XX
+ID  V$ELK1_04
+XX
+DT  04.03.2008 (created); smt.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Elk-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T17022; Elk-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00250; Elk-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14062; Elk-1; Species: Mammalia; site(s) included: no.
+BF  T05013; Elk-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05966; Elk-1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      5      0      3      2      R
+02     11      0      0      0      A
+03      0     11      0      0      C
+04      0     11      0      0      C
+05      0      0     11      0      G
+06      0      0     11      0      G
+07     11      0      0      0      A
+08     11      0      0      0      A
+09      0      0     11      0      G
+10      0      1      0     10      T
+11      5      1      4      1      R
+XX
+BA  11 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GACCGGAAGCA; R23423; 5; 11;; p.
+BS  AACCGGAAGTG; R23425; 6; 11;; p.
+BS  TACCGGAAGTA; R23426; 6; 11;; p.
+BS  AACCGGAAGTA; R23427; 17; 11;; p.
+BS  TACCGGAAGTG; R23428; 15; 11;; p.
+BS  AACCGGAAGTA; R23429; 7; 11;; p.
+BS  GACCGGAAGTG; R23430; 15; 11;; p.
+BS  AACCGGAAGTA; R23431; 12; 11;; p.
+BS  AACCGGAAGTG; R23432; 6; 11;; p.
+BS  GACCGGAAGTT; R23433; 6; 11;; p.
+BS   ACCGGAAGTC; R23434; 1; 11; 1; p.
+XX
+CC  sequences selected with recombinant Elk-1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0053941.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel123:0001 (2008).
+RN  [2]; RE0052080.
+RX  PUBMED: 8524663.
+RA  Shore P., Sharrocks A. D.
+RT  The ETS-domain transcription factors Elk-1 and SAP-1 exhibit differential DNA binding specificities.
+RL  Nucleic Acids Res. 23:4698-4706 (1995).
+XX
+//

@@ -1,0 +1,330 @@
+AC  M00931
+XX
+ID  V$SP1_Q6_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sp1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00008; V$SP1_01; stimulating protein 1 (specific).
+HC  M00196; V$SP1_Q6; stimulating protein 1 (specific).
+HC  M00665; V$SP3_Q3;  (specific).
+HC  M01273; V$SP4_Q5;  (specific).
+HC  M01303; V$SP1_02; Sp1 b.s. (specific).
+HC  M02281; V$SP1_03; class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger (specific).
+HC  M02810; V$SP4_03; class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger (specific).
+HC  M02914; V$SP4_04; class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger (specific).
+XX
+BF  T05998; Sp1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T10962; Sp1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00755; Sp1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10284; Sp1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T14185; Sp1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T00758; Sp1; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T10533; Sp1; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00753; Sp1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T16552; Sp1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T01228; Sp1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00759; Sp1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08484; Sp1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08326; Sp1; Species: Mammalia; site(s) included: no.
+BF  T10324; Sp1; Species: mink, Mustela vison; site(s) included: yes.
+BF  T00757; Sp1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00752; Sp1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05704; Sp1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00754; Sp1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09431; Sp1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18600; Sp1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T09118; Sp1-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11472; Sp1-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05999; Sp3; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02419; Sp3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T18023; Sp3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17642; sp3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T16553; Sp3; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T02338; Sp3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08327; Sp3; Species: Mammalia; site(s) included: no.
+BF  T10272; Sp3; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T05840; Sp3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10188; Sp3; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T02453; Sp3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18474; Sp3; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T09426; Sp3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19262; Sp3-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19256; Sp3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19261; Sp3-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19257; Sp3-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19260; Sp3-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19258; Sp3-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19259; Sp3-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09483; Sp3-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02339; sp4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09476; sp4; Species: Mammalia; site(s) included: no.
+BF  T02414; sp4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02456; sp4; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     37     17    137     44      G
+02     26      4    204      1      G
+03      0      3    230      2      G
+04      0      0    234      1      G
+05     40    159      5     31      C
+06      7      6    214      8      G
+07      1      2    212     20      G
+08     39     16    169     11      G
+09     31     31    155     18      G
+10     31    119     40     45      C
+XX
+BA  235 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGGGAGGGGT; R00004; 1; 10;; n.
+BS  GGGGCGGGAC; R00052; -3; 10;; n.
+BS  GGGGCGGGAC; R00149; -1; 10;; p.
+BS  AGGGCGGGCT; R00150; -1; 10;; n.
+BS  GGGGTGGAGC; R00191; -1; 10;; n.
+BS  GGGGCGGGGC; R00224; 1; 10;; n.
+BS  AAGGAGGCGT; R00275; 6; 10;; p.
+BS  GGGGCGGAGC; R00281; 1; 10;; p.
+BS  GGGGCGGGGC; R00287; 6; 10;; n.
+BS  GGGGCGGGGC; R00315; 7; 10;; p.
+BS  CGGGCGGGAT; R00337; 1; 10;; p.
+BS  TGGGCGTGGT; R00338; 1; 10;; p.
+BS  GGGGCGGCGC; R00374; 1; 10;; n.
+BS  GAGGAGGGAT; R00377; 1; 10;; n.
+BS  AGGGCGGGAG; R00378; 11; 10;; n.
+BS  GGGGCGGAGG; R00381; -2; 10;; n.
+BS  GGCGGGGACT; R00385; 9; 10;; n.
+BS  TGGGCGGGAC; R00447; -3; 10;; n.
+BS  TGGGTGGAGT; R00560; 5; 10;; n.
+BS  AGGGTGGGGC; R00565; 4; 10;; p.
+BS  TGGGCAGTAT; R00576; 1; 10;; n.
+BS  TGGGAGGAGC; R00610; 5; 10;; p.
+BS  GAGGCGTGGC; R00704; -2; 10;; p.
+BS  GGGGCGGGGC; R00816; -1; 10;; p.
+BS  GGGGCGGGGC; R00817; -3; 10;; n.
+BS  TGGGCGGGGC; R00818; -2; 10;; p.
+BS  GGGGCGGGGT; R00819; -1; 10;; p.
+BS  GGGGCGGGGG; R00821; -1; 10;; p.
+BS  GGGGCGGGGC; R00823; -1; 10;; p.
+BS  CGGGCGGGAC; R00825; -1; 10;; p.
+BS  GGGGCGGGCC; R00826; -3; 10;; n.
+BS  GGGGCGGGCC; R00955; -1; 10;; n.
+BS  AGTGTGCACA; R01021; -2; 10;; n.
+BS  GCGGAGTGCA; R01022; 2; 10;; n.
+BS  GGGGCGGTCC; R01023; 2; 10;; p.
+BS  CGGGCGGAGT; R01025; 4; 10;; n.
+BS  GGGGCGGGGC; R01039; 1; 10;; p.
+BS  GGGGCGGTTC; R01164; -3; 10;; n.
+BS  CGGGAGGCGG; R01305; 4; 10;; n.
+BS  CGGGCGGGGC; R01306; 1; 10;; n.
+BS  GGGGCGGGGC; R01307; 1; 10;; p.
+BS  GGGGCGGGGC; R01308; 1; 10;; p.
+BS  TGGGCGGAAC; R01375; -1; 10;; p.
+BS  TGGGCGGAGT; R01381; -1; 10;; p.
+BS  TGGGCGGGGT; R01442; 1; 10;; n.
+BS  GGGGCGGCGC; R01444; 1; 10;; p.
+BS  TGGGTGTGGT; R01484; 8; 10;; p.
+BS  GGGGCGGAGT; R01497; -1; 10;; p.
+BS  AGGGCGTGGC; R01498; -3; 10;; n.
+BS  AGGGCGGGGC; R01499; -1; 10;; p.
+BS  GGGGCGGAGA; R01608; 1; 10;; p.
+BS  GCCGAGGGTG; R01694; 11; 10;; p.
+BS  TGGGTGTGGC; R01696; 2; 10;; p.
+BS  GGGGCGTGTC; R01701; 1; 10;; p.
+BS  GGGGCGTGGC; R01702; -1; 10;; p.
+BS  GGGGCGGGAG; R01704; -1; 10;; p.
+BS  GGGGCGGCGG; R01728; -3; 10;; n.
+BS  GCGGCTCGTC; R01729; 4; 10;; n.
+BS  AGGGCAGGGC; R01753; -2; 10;; p.
+BS  GGGGAGGGGT; R01754; 2; 10;; p.
+BS  GGGGCAGGGG; R01755; -4; 10;; n.
+BS  GGGGAGGGGC; R01756; 1; 10;; n.
+BS  GGGGAGGGGG; R01758; 2; 10;; n.
+BS  CAGGAGGGCC; R01761; 3; 10;; n.
+BS  GGGGTGGGGG; R01762; 3; 10;; n.
+BS  GGGGCGGGTC; R01763; 1; 10;; n.
+BS  GGGGCGGGGC; R01764; 1; 10;; p.
+BS  GGGGCGGGGT; R01769; 4; 10;; p.
+BS  GGGGCGGCAC; R01770; 1; 10;; p.
+BS  AGGGCGTGGC; R01802; 4; 10;; p.
+BS  GAGGCGGGGC; R01909; 4; 10;; p.
+BS  GGGGCGGGGC; R01927; 4; 10;; p.
+BS  GGGGCGGGTG; R01991; -1; 10;; p.
+BS  AGGGTGGGGC; R02010; -2; 10;; n.
+BS  GAGGAGGGGC; R02013; 7; 10;; p.
+BS  GGGGCGGGAA; R02027; -2; 10;; p.
+BS  CAGGAGGGGC; R02029; -1; 10;; n.
+BS  TGGGAGGAGC; R02050; 2; 10;; p.
+BS  GGGGCGGGGG; R02085; 7; 10;; p.
+BS  TGGGCGGGGT; R02381; 1; 10;; n.
+BS  GGGGAGGGAT; R02423; 4; 10;; p.
+BS  GGGGAGGCGG; R02424; 8; 10;; n.
+BS  GGGGTGGGCT; R02426; 6; 10;; p.
+BS  GGGGCTGGAC; R02428; 7; 10;; p.
+BS  GGGGCGGGAC; R02432; 8; 10;; n.
+BS  AGGGCGGGAA; R02433; 6; 10;; n.
+BS  GGGGACGGGC; R02435; 7; 10;; n.
+BS  AAGGCGGGTC; R02436; 8; 10;; n.
+BS  GGGGCGTGTG; R02438; 7; 10;; p.
+BS  GGGGAGGGGC; R02439; 7; 10;; p.
+BS  CGGGCGGGGG; R02440; 6; 10;; p.
+BS  TGGGCGGGTG; R02444; 10; 10;; p.
+BS  GGGGAGGGGC; R02446; -1; 10;; n.
+BS  CGGGAGGCGC; R02448; -1; 10;; p.
+BS  GGGGCGGGGC; R02572; 1; 10;; n.
+BS  GGGGCGGAGC; R02593; 1; 10;; n.
+BS  GGGGCGGTCC; R02693; -1; 10;; p.
+BS  TGGGTGGTTC; R02704; 1; 10;; n.
+BS  TGGGCGGGTC; R02717; 6; 10;; p.
+BS  GGGGCGGGAC; R02846; 15; 10;; n.
+BS  TGGGTGGAGC; R02850; 6; 10;; p.
+BS  GGGGCGGCGG; R02857; 1; 10;; p.
+BS  CGGGCGGGGG; R02858; 5; 10;; p.
+BS  TGGGCGGGCC; R02859; 1; 10;; p.
+BS  GAGGCGGAGT; R02860; -1; 10;; p.
+BS  GGGGCCGGGC; R02873; 11; 10;; p.
+BS  GGGGCGGGGC; R02891; -3; 10;; n.
+BS  AGGGCGTAAC; R02922; 3; 10;; p.
+BS  GGGGTGGGGT; R03041; -1; 10;; n.
+BS  GAGGCTGAGG; R03042; -1; 10;; n.
+BS  AGGGAGGGAC; R03044; -1; 10;; n.
+BS  GGGGCCGGGC; R03051; 1; 10;; p.
+BS  GGGGCGGGGT; R03052; 1; 10;; p.
+BS  GGGGCAGGGC; R03053; 1; 10;; n.
+BS  GGGGTGGAGT; R03118; 5; 10;; n.
+BS  GGGGCGGGGT; R03205; 4; 10;; p.
+BS  GAGGCGGGCT; R03281; 3; 10;; p.
+BS  TGGGCGGAGC; R03308; 4; 10;; p.
+BS  GGGGCGGGGC; R03348; -1; 10;; n.
+BS  GGGGCGGAGG; R03361; 2; 10;; n.
+BS  GGGGTGTGGC; R03367; 10; 10;; n.
+BS  AGGGCAGGGC; R03373; 5; 10;; n.
+BS  GGGGCGGGGG; R03382; -2; 10;; n.
+BS  CGGGCGGCGC; R03389; 4; 10;; p.
+BS  GGGGAGGAGC; R03486; 8; 10;; n.
+BS  TGGGTGGGGC; R03612; 1; 10;; p.
+BS  CAGGAAGGCT; R03613; -4; 10;; p.
+BS  GAGGCGGGCC; R03614; 6; 10;; p.
+BS  GAGGCGGGGC; R03868; 5; 10;; p.
+BS  GGGGCGGTGC; R04005; 2; 10;; p.
+BS  GGGGCGGGGC; R04007; 8; 10;; p.
+BS  AAGGCGGGGT; R04008; 6; 10;; p.
+BS  TGGGCGGGGC; R04009; 11; 10;; p.
+BS  TGGGCGTGGT; R04025; 2; 10;; p.
+BS  GGGGCGGGGA; R04034; 9; 10;; p.
+BS  GGGGCGGCCA; R04124; 7; 10;; n.
+BS  AGGGCGGAGC; R04160; 5; 10;; n.
+BS  GGGGCCGGCG; R04195; 1; 10;; p.
+BS  GAGGCGGAGG; R04282; 5; 10;; p.
+BS  GGGGAGGGCG; R04375; -4; 10;; p.
+BS  TGGGCGGGAT; R04407; 9; 10;; p.
+BS  GGGGAGGGGA; R04421; 11; 10;; p.
+BS  GAGGAGGGAC; R04422; 7; 10;; p.
+BS  AGGGAGGCGA; R04426; -3; 10;; p.
+BS  TGGGCGGCGC; R04431; 1; 10;; p.
+BS  GGTGAGGGGT; R04456; 16; 10;; n.
+BS  TGGGTGGGGG; R04493; 16; 10;; n.
+BS  GGGGAGGGAA; R04625; 4; 10;; n.
+BS  AGGGCGGGGC; R04668; 13; 10;; p.
+BS  TGGGAGGGGC; R04669; 9; 10;; n.
+BS  GGGGCGGGGC; R04679; 4; 10;; p.
+BS  GGGGCGGGGC; R04680; 2; 10;; p.
+BS  TGGGCGGGCT; R04701; 3; 10;; n.
+BS  AGGGCGGAGG; R04716; 20; 10;; n.
+BS  GGGGCGTGGG; R04734; 8; 10;; p.
+BS  GGGGTGGGGA; R04741; -1; 10;; n.
+BS  GGGGCGGGAG; R04752; -2; 10;; p.
+BS  CGGGCGGCGC; R04790; -1; 10;; p.
+BS  TGGGCGTGTG; R04794; 8; 10;; p.
+BS  GGGGCGGGGA; R04795; 1; 10;; p.
+BS  GGGGCGGGGG; R04829; 5; 10;; p.
+BS  AGGGCGGGCC; R04830; 4; 10;; p.
+BS  GGGGCGGGGC; R04834; 12; 10;; n.
+BS  AGGGAGGAGC; R04852; 7; 10;; n.
+BS  AGGGCGGGGG; R04875; 8; 10;; p.
+BS  CGGGCGGGGG; R04883; 3; 10;; p.
+BS  GGGGTGGGTG; R04918; 5; 10;; p.
+BS  GGGGCGGGGC; R04930; 3; 10;; p.
+BS  GGGGTGGGGG; R04932; 8; 10;; p.
+BS  GGGGCGGGGC; R04966; 10; 10;; p.
+BS  GGGGGGGGGA; R04967; 8; 10;; p.
+BS  GGGGCGGGGG; R04968; 7; 10;; p.
+BS  GGGGCGGGAA; R04969; 9; 10;; p.
+BS  GAGTCTGGGA; R04979; 4; 10;; p.
+BS  AGGGCGGTCA; R04982; -1; 10;; n.
+BS  AGGGTGGGAT; R04995; 2; 10;; n.
+BS  AAGGCGGGAA; R04996; 14; 10;; p.
+BS  GGGGAGGGGA; R04997; 4; 10;; p.
+BS  GAGGCTGGGC; R04998; 9; 10;; p.
+BS  TGGGAGGGGC; R05000; 4; 10;; n.
+BS  TGGGTGGACA; R05001; 12; 10;; n.
+BS  AGGGGGGATG; R05003; 8; 10;; n.
+BS  AGGGAGGGGC; R08095; 7; 10;; n.
+BS  TGGGTGTGCC; R08166; -4; 10;; p.
+BS  AAGGTGGGCC; R08207; -2; 10;; p.
+BS  AGGGAGGGAT; R08503; 2; 10;; p.
+BS  GGGGCCGGTC; R08667; 1; 10;; p.
+BS  GGGGCGGGCT; R08671; 2; 10;; p.
+BS  GAGGCGGGGC; R08674; -2; 10;; p.
+BS  TGGGCGGACC; R08675; -1; 10;; p.
+BS  GAGGCGGGGT; R08677; -1; 10;; n.
+BS  GAGGCGGAGC; R09485; -1; 10;; n.
+BS  GGGGCGGGGT; R09487; -3; 10;; n.
+BS  GGGGCTGGGC; R09488; -1; 10;; n.
+BS  GGGGCTGGGA; R09489; -1; 10;; n.
+BS  AGGGCGGGGC; R09490; -3; 10;; n.
+BS  TGGGCGTGGG; R11274; 21; 10;; p.
+BS  GGGGCGGAAC; R11589; 8; 10;; p.
+BS  CGGGCGGCCA; R11778; 6; 10;; p.
+BS  CGGGCGTTCC; R12093; 5; 10;; p.
+BS  GGGGCTGGTT; R12971; 9; 10;; p.
+BS  GGGGCGGGAG; R12973; 7; 10;; n.
+BS  GGGGAGGAGG; R12978; 8; 10;; p.
+BS  TGGGCGGGGC; R13050; 4; 10;; n.
+BS  GGGGTGGGGA; R13166; 6; 10;; p.
+BS  GGGGCAGGGA; R13212; 4; 10;; n.
+BS  GGGGCGTGGC; R13258; 3; 10;; p.
+BS  GGGGCGGGGC; R13261; -1; 10;; p.
+BS  GGGGTGGGGC; R13276; 6; 10;; p.
+BS  GGCGGGGCAA; R13302; 2; 10;; p.
+BS  TGGGCGGGGC; R13304; -1; 10;; n.
+BS  TGGGCCGGCC; R13318; 1; 10;; n.
+BS  GGGGTGGGGA; R13413; 5; 10;; n.
+BS  TGGGTGGGCC; C00006,  s00009; -2; 10;; p.
+BS  TGGGTGGTTC; C00007,  s00010; -3; 10;; n.
+BS  GGGGCGGGGA; C00027,  s00016; -3; 10;; n.
+BS  TGGGCGAGGC; C00136,  s00208; -2; 10;; n.
+BS  AGGGCGGGTC; C00179,  s00290; -1; 10;; p.
+BS  TGGGCGGAGT; C00180,  s00292; 1; 10;; p.
+BS  GGGGAGGAGT; C00204,  s00339; -3; 10;; n.
+BS  TGGGAGGAGC; C00218,  s00365; 2; 10;; p.
+BS  GGGGCGGGGG; C00221,  s00371; -3; 10;; n.
+BS  AGGGCGGGGA; C00255,  s00430; 3; 10;; p.
+BS  AGGGTGGGGT; C00256,  s00432; 1; 10;; p.
+BS  CTGGTGGGCT; C00271,  s00460; -2; 10;; n.
+BS  TCGGTGGGCT; C00273,  s00465; -2; 10;; n.
+BS  GAGGAGGAGC; C00275,  s00469; 2; 10;; n.
+BS  GGGGAGGGGA; C00281,  s00481; 2; 10;; n.
+BS  GGGGCGTGGA; C00283,  s00486; -1; 10;; p.
+BS  GGGGCGGTGC; C00299,  s00522; -3; 10;; n.
+BS  AGGGCGGAGT; C00319,  s00559; 2; 10;; n.
+BS  AAGGGGGTGA; C00325,  s00566; -2; 10;; p.
+BS  GGGGCGGGGT; C00327,  s00571; -1; 10;; n.
+BS  TGGGCGGAAA; C00355,  s00616; -1; 10;; p.
+BS  AGGGCGGAGC; C00359,  s00624; -3; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; including 22 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

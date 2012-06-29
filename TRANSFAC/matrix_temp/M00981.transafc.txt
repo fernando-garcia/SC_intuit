@@ -1,0 +1,234 @@
+AC  M00981
+XX
+ID  V$CREBATF_Q6
+XX
+DT  13.02.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CREB, ATF
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00017; V$ATF_01; activating transcription factor (specific).
+HC  M00039; V$CREB_01; cAMP-responsive element binding protein (specific).
+HC  M00040; V$CREBP1_01; cAMP-responsive element binding protein 1 (specific).
+HC  M00041; V$CREBP1CJUN_01; CRE-binding protein 1:c-Jun heterodimer (specific).
+HC  M00113; V$CREB_02; cAMP-responsive element binding protein (specific).
+HC  M00114; V$TAXCREB_01; Tax/CREB complex (specific).
+HC  M00115; V$TAXCREB_02; Tax/CREB complex (specific).
+HC  M00177; V$CREB_Q2; cAMP-response element-binding protein (specific).
+HC  M00178; V$CREB_Q4; cAMP-response element binding protein (specific).
+HC  M00179; V$CREBP1_Q2; CRE-binding protein 1 (specific).
+HC  M00338; V$ATF_B; ATF binding site (specific).
+HC  M00483; V$ATF6_01; activating transcription factor 6 (specific).
+HC  M00513; V$ATF3_Q6; activating transcription factor 3 (specific).
+HC  M00514; V$ATF4_Q2; activating transcription factor 4 (specific).
+HC  M00691; V$ATF1_Q6;  (specific).
+HC  M01295; V$ATF5_01; ATF5 binding site (specific).
+HC  M01820; V$CREM_Q6;  (specific).
+HC  M01861; V$ATF1_Q6_01;  (specific).
+HC  M01862; V$ATF2_Q5;  (specific).
+HC  M01863; V$ATF3_Q6_01;  (specific).
+HC  M01864; V$ATF4_Q6;  (specific).
+HC  M02279; V$CREB1_01; class: Zipper-Type; family: Leucine Zipper (specific).
+HC  M02738; V$ATF1_03; class: Zipper-Type; family: Leucine Zipper (specific).
+HC  M02842; V$ATF1_04; class: Zipper-Type; family: Leucine Zipper (specific).
+XX
+BF  T01379; 120-kDa CRE-binding protein; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00442; 47-kDa CRE binding protein; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00051; ATF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14282; ATF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T14283; ATF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00968; ATF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09069; ATF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10237; ATF-1; Species: Mammalia; site(s) included: no.
+BF  T14818; ATF-1; Species: mink, Mustela vison; site(s) included: yes.
+BF  T01304; ATF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09930; ATF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10800; ATF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10801; ATF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10136; ATF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10236; ATF-2; Species: Mammalia; site(s) included: no.
+BF  T10238; ATF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01382; ATF-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10203; ATF-2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02056; ATF-2-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18791; ATF-2-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10202; ATF-2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01017; ATF-2-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09335; ATF-2-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02036; ATF-2-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10213; ATF-2-xbb3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00167; ATF-2-xbb4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01313; ATF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09553; ATF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14095; ATF-3; Species: Mammalia; site(s) included: no.
+BF  T04850; ATF-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08977; ATF-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01095; ATF-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09435; ATF-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01325; ATF-3 deltaZIP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08976; ATF-3b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01303; ATF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09531; ATF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04854; ATF-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08444; ATF-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06459; ATF-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10437; ATF-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04877; ATF-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17789; ATF-5; Species: Mammalia; site(s) included: yes.
+BF  T16632; ATF-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16634; Atf-5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04742; ATF-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09623; ATF-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08702; ATF-6; Species: Mammalia; site(s) included: no.
+BF  T19846; Atf-7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19847; Atf-7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00052; ATF-a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00054; ATF-like; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T01158; ATF/CREB; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T02052; ATF4 (381AA); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18797; ATFa; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00053; ATFa-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18799; ATFa-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18798; ATFa-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13725; CREB; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T01127; CREB; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T01307; CREB; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T01380; CREB; Species: mink, Mustela vison; site(s) included: yes.
+BF  T00989; CREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00163; CREB-A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00166; CREB-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01385; CREB1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T08562; CREB1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09920; CREB1; Species: Mammalia; site(s) included: no.
+BF  T14396; CREB1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T09440; CREB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18678; CREB1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00164; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08452; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18382; CREB1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T02361; CREBbeta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01312; CREBomega; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14286; CREM; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T09585; CREM; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09987; CREM; Species: Mammalia; site(s) included: no.
+BF  T10306; CREM; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09913; CREM; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14284; CREM isoform-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T14285; CREM isoform-2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18883; CREM-Ia; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18884; CREM-Ib; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01803; CREMalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01314; CREMalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01315; CREMbeta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01601; CREMdeltaC-F; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01600; CREMdeltaC-G; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01317; CREMepsilon; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01316; CREMgamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10026; CREMtau; Species: Mammalia; site(s) included: no.
+BF  T01309; CREMtau; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01919; CREMtau; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02108; CREMtau1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02109; CREMtau2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01602; CREMtaualpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01311; deltaCREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00165; deltaCREB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01319; ICER; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01321; ICER-I; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01322; ICER-Igamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02363; ICER-II; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01323; ICER-II; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02364; ICER-IIgamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17847; ICER-IIgamma; Species: Mammalia; site(s) included: yes.
+BF  T01324; ICER-IIgamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18885; ICER-xbb1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01310; S-CREM; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01320; S-CREMbeta; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     17     12     25      6      N
+02      0      0      1     59      T
+03      0      0     60      0      G
+04     59      0      1      0      A
+05      1     51      0      8      C
+06      0      0     60      0      G
+07      4     12      3     41      T
+08     20     25      7      8      N
+09     31      5     13     11      A
+XX
+BA  60 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTGACGTCA; R00288; 6; 9;; p.
+BS  CTGACGTGT; R00309; -1; 9;; p.
+BS  ATGACGTAG; R00322; 1; 9;; n.
+BS  GTGACGTAG; R00349; 1; 9;; p.
+BS  ATGACGTAA; R00356; 1; 9;; n.
+BS  GTGACGCAA; R00454; 1; 9;; p.
+BS  GTGACGTCA; R00456; -1; 9;; p.
+BS  GTGACGTTT; R00471; 1; 9;; p.
+BS  GTGACGTAG; R00479; 4; 9;; p.
+BS  CTGACGTCT; R00777; 6; 9;; p.
+BS  CTGACGTGT; R00779; 6; 9;; p.
+BS  TTGACGACA; R00780; 7; 9;; p.
+BS  TTGACGTCA; R00807; 5; 9;; p.
+BS  CTGACGTCA; R00963; 8; 9;; p.
+BS  GTGACGTCA; R01196; -1; 9;; p.
+BS  CTGACGTAA; R01215; 1; 9;; n.
+BS  CTGGCGTAG; R01256; -1; 9;; p.
+BS  TTGACGTCA; R01492; -3; 9;; p.
+BS  ATGACGAAC; R01534; 6; 9;; p.
+BS  GTGACGTCT; R01562; -1; 9;; p.
+BS  GTGACGTCA; R01941; 1; 9;; p.
+BS  GTGACGTGG; R01990; 1; 9;; p.
+BS  GTGACGTAG; R01992; 1; 9;; p.
+BS  GTGACGTTT; R01997; 1; 9;; p.
+BS  GTGACGATT; R02403; -1; 9;; p.
+BS  GTGACGGAA; R02427; 7; 9;; p.
+BS  CTGACGGAA; R02437; 5; 9;; p.
+BS  GTGACGTCA; R02658; 6; 9;; p.
+BS  GTGACGCTG; R02710; -1; 9;; p.
+BS  ATGACGTAA; R02812; 4; 9;; p.
+BS  GTGACGTAC; R02906; 14; 9;; n.
+BS  ATGACGCGG; R03001; 6; 9;; n.
+BS  CTGACGCAG; R03401; 1; 9;; n.
+BS  ATGATGCTA; R03694; 12; 9;; p.
+BS  ATGATGTCA; R03738; 1; 9;; n.
+BS  ATGACGTCA; R03916; 12; 9;; p.
+BS  GTGACGTGC; R03918; 4; 9;; n.
+BS  TTGATGGCA; R03925; 18; 9;; p.
+BS  GTGACGTCA; R03926; 7; 9;; p.
+BS  GTGATGTCA; R04029; 3; 9;; n.
+BS  CTGACGCAA; R04045; -1; 9;; p.
+BS  ATGACGTCA; R04356; 5; 9;; p.
+BS  TGGAAGCAA; R04501; 4; 9;; p.
+BS  CTGATGTCA; R04882; 8; 9;; n.
+BS  ATGACGTCA; R04884; 7; 9;; p.
+BS  ATGACGTCT; R04963; 8; 9;; p.
+BS  ATGACGCCA; R09065; 11; 9;; p.
+BS  ATGACGTCC; R09519; 5; 9;; p.
+BS  GTGATGCAA; R11477; 3; 9;; p.
+BS  ATGACGTTT; R12331; 8; 9;; n.
+BS  GTGACGTTA; R12540; 11; 9;; n.
+BS  GTGACGCTG; R13066; 12; 9;; p.
+BS  ATGACGCAT; C00382,  s00103; 1; 9;; n.
+BS  TTGACGTCA; C00088,  s00135; -1; 9;; p.
+BS  ATGATGTCA; C00093,  s00140; 2; 9;; n.
+BS  CTGATGACT; C00168,  s00271; 3; 9;; n.
+BS  GTGACGTAG; C00209,  s00349; -1; 9;; n.
+BS  CTGACGCAG; C00222,  s00374; -1; 9;; n.
+BS  GTGACGTGC; C00225,  s00378; 2; 9;; n.
+BS  ATGACGTGG; C00197,  s00694; -1; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; including 8 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

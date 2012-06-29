@@ -1,0 +1,65 @@
+AC  M00632
+XX
+ID  V$GATA4_Q3
+XX
+DT  08.03.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA-4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00789; V$GATA_Q6;  (family).
+XX
+BF  T02682; GATA-4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T19680; GATA-4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02711; GATA-4; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T19682; GATA-4; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02687; GATA-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09359; GATA-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08629; GATA-4; Species: Mammalia; site(s) included: no.
+BF  T02532; GATA-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08358; GATA-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10220; GATA-4; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T10221; GATA-4; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T08147; GATA-4; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T08631; GATA-4; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T02716; GATA-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08540; GATA-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      0      0      1      A
+02      1      0      5      1      G
+03      7      0      0      0      A
+04      2      0      0      5      T
+05      5      1      0      1      A
+06      3      0      2      2      D
+07      3      3      1      0      M
+08      5      0      2      0      A
+09      0      0      7      0      G
+10      2      0      4      1      G
+11      1      2      4      0      G
+12      6      0      1      0      A
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGATAGCAGTGA; R08150; 8; 12;; n.
+BS  AGATATGGGGAG; R08277; 16; 12;; p.
+BS  ATAAATCAGAGA; R08287; 15; 12;; p.
+BS  AGATAAAAGGCA; R08288; 9; 12;; p.
+BS  AGATAGAGGAGA; R08289; -6; 12;; n.
+BS  AGATTACAGGGA; R08290; 9; 12;; p.
+BS  AAAACAAAGGCA; R08292; 21; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

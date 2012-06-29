@@ -1,0 +1,128 @@
+AC  M00964
+XX
+ID  V$PXR_Q2
+XX
+DT  18.11.2003 (created); dtc.
+DT  28.09.2005 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PXR, CAR, LXR, FXR
+XX
+DE  half-site matrix
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00631; V$FXR_Q3;  (specific).
+HC  M00647; V$LXRA_RXRA_Q3;  (specific).
+HC  M00766; V$LXR_DR4_Q3;  (specific).
+HC  M00767; V$FXR_IR1_Q6;  (specific).
+HC  M01268; V$FXR_Q2; half-site (specific).
+HC  M02021; V$LXRB_RXRA_Q5;  (specific).
+XX
+BF  T04659; BXR-beta; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T14511; BXR-beta; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02261; CAR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05687; CAR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05312; CAR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05257; CAR2:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05315; CAR:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18581; FXR; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T05302; FXR; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T09632; FXR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17105; FXR; Species: Mammalia; site(s) included: no.
+BF  T02753; FXR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04494; FXR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09633; FXR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05303; FXR-alpha1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T05304; FXR-alpha2; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T05305; FXR-beta1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T05306; FXR-beta2; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T05308; FXR-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09890; FXR-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05307; FXR-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09299; FXR-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05309; FXR-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05313; FXR-isoform3:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04498; FXR-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05322; FXR:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05318; FXR:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05324; LXR-alpha:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05320; LXR-alpha:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05357; LXR-alpha:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05325; LXR-beta:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08949; PXR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04629; PXR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15803; PXR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04618; PXR-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04617; PXR-isoform1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19136; PXR-isoform1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19137; PXR-isoform1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04619; PXR-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19138; PXR-isoform2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19139; PXR-isoform2B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19140; PXR-isoform2C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04641; PXR-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05314; PXR:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04610; SXR; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14      0     11      8      R
+02     12      0     20      1      R
+03      7      0     26      0      G
+04      1      0     31      1      G
+05      0      1      1     31      T
+06      0     15      1     17      Y
+07     28      4      0      1      A
+08     12      5     10      6      N
+09      5      3      8     17      T
+10     15      6     12      0      R
+11     16      2      8      7      N
+12     14     14      3      2      M
+XX
+BA  33 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGGGTCAGGCCA; R09936; -1; 12;; p.
+BS  AGGGTTTAAATA; R09957; 13; 12;; p.
+BS  TGAGTGACCAAA; R09968; 2; 12;; n.
+BS  GGGGTTACTAGC; R09972; 23; 12;; n.
+BS  GGGGTTACTGGC; R09974; 10; 12;; n.
+BS  GGGGTCATTGTC; R09975; 4; 12;; p.
+BS  AGGGTCACTGGC; R09980; 4; 12;; p.
+BS  GAGGTTATTCAC; R09992; 6; 12;; n.
+BS  TGGGTTAATGAC; R10074; 3; 12;; p.
+BS  AAGGTTATTCAC; R10075; 6; 12;; n.
+BS  TGGGTTAATAAC; R10076; 3; 12;; p.
+BS  TGAGTTAATGAC; R10077; 3; 12;; p.
+BS  GAAGTTCATCTA; R10080; 2; 12;; n.
+BS  AAAGTTCATCTA; R10081; 12; 12;; p.
+BS  GAGGTCAGTGAG; R10090; 12; 12;; p.
+BS  AGGGTCAGCAAG; R10853; 10; 12;; n.
+BS  TGAGTTAACATT; R12029; -3; 12;; n.
+BS  AGGGTCAGTGAC; R12767; 11; 12;; p.
+BS  TAGGTCAAAGGA; R13013; 5; 12;; n.
+BS  AGAGTTCAAGGA; R13075; 6; 12;; n.
+BS  TTGGTTAAGAGT; R13076; 7; 12;; n.
+BS  GGGGTCATGAAC; R13127; 4; 12;; p.
+BS  GAGGTCAGAGAC; R13128; 7; 12;; p.
+BS  AGGATCAATGTC; R13129; 10; 12;; n.
+BS  GGGGTTACTACC; R13134; 10; 12;; n.
+BS  AGGGCTATGGAA; R13135; 6; 12;; p.
+BS  TGGTTCAGGAAA; R14174; 3; 12;; p.
+BS  AGGGTCAGGAAA; R14175; 5; 12;; p.
+BS  AAGGTCAGGAAA; R14178; 8; 12;; n.
+BS  GAAGTTCATCTA; R14179; 10; 12;; p.
+BS  GAGGTCAGAAGA; R14182; 10; 12;; n.
+BS  AAGGGTATTAGG; R14201; 14; 12;; p.
+BS  AAGGTCAGGAAA; R14220; 8; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

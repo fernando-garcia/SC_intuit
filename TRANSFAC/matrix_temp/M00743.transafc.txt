@@ -1,0 +1,48 @@
+AC  M00743
+XX
+ID  V$CETS168_Q6
+XX
+DT  03.09.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Ets-1 68
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00115; c-Ets-1 68; Species: chick, Gallus gallus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      7      1      0      C
+02      4      3      1      0      M
+03      0      0      8      0      G
+04      0      0      8      0      G
+05      8      0      0      0      A
+06      6      0      0      2      A
+07      0      0      8      0      G
+08      0      5      0      3      Y
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCGGAAGC; R01155; 6; 8;; n.
+BS  CAGGAAGT; R01711; 5; 8;; n.
+BS  CAGGAAGC; R02097; 2; 8;; p.
+BS  CGGGAAGC; R02099; 5; 8;; p.
+BS  CCGGAAGT; R02386; 6; 8;; p.
+BS  CAGGATGT; R02414; 3; 8;; p.
+BS  CCGGATGC; R02415; 32; 8;; n.
+BS  CAGGAAGC; R04065; 2; 8;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

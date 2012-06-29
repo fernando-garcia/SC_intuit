@@ -1,0 +1,39 @@
+AC  M01963
+XX
+ID  F$RDS1_02
+XX
+DT  15.04.2011 (created); mkl.
+DT  08.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RDS1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T16945; RDS1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.01   0.91   0.01   0.07      C
+02      0   0.11   0.89      0      G
+03      0      0      1      0      G
+04      0   0.84   0.16      0      C
+05      0   0.95   0.05      0      C
+06      0   0.11   0.89      0      G
+07   0.32   0.32   0.32   0.05      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  defined from z-scores of the octamers occupying the 32 spots in the PBM
+XX
+DR  JASPAR: MA0361.
+XX
+RN  [1]; RE0065610.
+RX  PUBMED: 19111667.
+RA  Badis G., Chan E. T., van Bakel H., Pena-Castillo L., Tillo D., Tsui K., Carlson C. D., Gossett A. J., Hasinoff M. J., Warren C. L., Gebbia M., Talukder S., Yang A., Mnaimneh S., Terterov D., Coburn D., Li Yeo A., Yeo Z. X., Clarke N. D., Lieb J. D., Ansari A. Z., Nislow C., Hughes T. R.
+RT  A library of yeast transcription factor motifs reveals a widespread function for Rsc3 in targeting nucleosome exclusion at promoters.
+RL  Mol. Cell 32:878-887 (2008).
+XX
+//

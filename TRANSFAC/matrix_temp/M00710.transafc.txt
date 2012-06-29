@@ -1,0 +1,50 @@
+AC  M00710
+XX
+ID  I$ZEN_Q6
+XX
+DT  13.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Zen
+XX
+TY  family
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+HC  M02374; I$ZEN_01; class: Helix-Turn-Helix; family: Homeo (specific).
+HC  M02375; I$ZEN2_01; class: Helix-Turn-Helix; family: Homeo (specific).
+XX
+BF  T00917; Zen-1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T02099; Zen-2; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      0      0      4      W
+02      0      8      0      1      C
+03      9      0      0      0      A
+04      1      0      1      7      T
+05      0      1      0      8      T
+06      4      1      0      4      W
+07      7      2      0      0      A
+08      5      4      0      0      M
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACATTTAA; R00411; 5; 8;; n.
+BS  ACATTTAA; R00412; 1; 8;; p.
+BS  TCATTTAA; R00413; 1; 8;; p.
+BS  TCAGCACC; R00418; 1; 8;; p.
+BS  ACATTTAC; R01282; 10; 8;; n.
+BS  TCATTCCA; R01283; 2; 8;; n.
+BS  ACATTAAC; R01284; 3; 8;; n.
+BS  TTATTAAA; R01678; 4; 8;; p.
+BS  ACAATAAC; R09872; 32; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

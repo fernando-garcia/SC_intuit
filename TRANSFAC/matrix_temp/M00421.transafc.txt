@@ -1,0 +1,68 @@
+AC  M00421
+XX
+ID  V$MEIS1BHOXA9_02
+XX
+DT  14.12.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MEIS1B:HOXA9
+XX
+DE  Meis-1b:HOXA9 heterodimeric binding
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01708; hoxa9; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01711; hoxa9; Species: guinea pig, Cavia sp.; site(s) included: yes.
+BF  T19693; hoxa9; Species: guinea pig, Cavia sp.; site(s) included: yes.
+BF  T13762; hoxa9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03772; hoxa9; Species: Japanese pufferfish, Fugu rubripes; site(s) included: yes.
+BF  T16579; hoxa9; Species: Mammalia; site(s) included: no.
+BF  T01710; hoxa9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14354; hoxa9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01707; hoxa9; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16585; hoxa9; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04361; hoxa9A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03623; HOXA9a; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T01709; hoxa9B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03624; HOXA9b; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T04132; hoxa9T; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03419; meis1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09943; meis1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09993; meis1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T03388; meis1-a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03389; meis1-b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04129; meis1-c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18367; meis1a; Species: Mammalia; site(s) included: yes.
+BF  T14180; meis1b; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0      0     14      T
+02      0      0     14      0      G
+03     14      0      0      0      A
+04      0     14      0      0      C
+05     13      0      1      0      A
+06      0      4      8      2      S
+07      1      2      3      8      T
+08      1      0      0     13      T
+09      1      0      0     13      T
+10      4      1      1      8      W
+11     13      0      1      0      A
+12      0      5      1      8      Y
+13      4      0      8      2      R
+14      5      2      7      0      R
+XX
+BA  14 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant MEIS1B:HOXA9 from a pool of double-stranded oligonucleotides containing a core of 59 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0015480.
+RX  PUBMED: 9343407.
+RA  Shen W. F., Montgomery J. C., Rozenfeld S., Moskow J. J., Lawrence H. J., Buchberg A. M., Largman C.
+RT  AbdB-like Hox proteins stabilize DNA binding by the Meis1 homeodomain proteins
+RL  Mol. Cell. Biol. 17:6448-6458 (1997).
+XX
+//

@@ -1,0 +1,99 @@
+AC  M00124
+XX
+ID  V$PBX1_02
+XX
+DT  22.05.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pbx-1b
+XX
+DE  homeo domain factor Pbx-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00998; V$PBX_Q3;  (family).
+XX
+BF  T06000; Pbx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09966; Pbx1; Species: Mammalia; site(s) included: no.
+BF  T08131; Pbx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08594; PBX1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01481; Pbx1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03451; Pbx1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02087; Pbx1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02088; Pbx1b; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8     16      5      4      N
+02     16      9      2     10      N
+03     10     20      4      5      C
+04     36      1      3      0      A
+05      0      1      0     39      T
+06      0     40      0      0      C
+07     37      3      0      0      A
+08     40      0      0      0      A
+09      0      0      0     40      T
+10      0     40      0      0      C
+11     36      2      1      1      A
+12     34      1      1      4      A
+13     16      4      6     14      N
+14      9      7      6     17      N
+15     11      6      3     18      W
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCAATCAATCAATAG; R06818; 12; 15;; p.
+BS  TCGATCAATCAAATC; R06819; 2; 15;; p.
+BS  GCCATCAATCAAAGA; R06820; 8; 15;; p.
+BS  TCAATCAATCAAGTT; R06821; 4; 15;; p.
+BS   TCATCAATCAATTT; R06822; 1; 15; 1; p.
+BS  CATATCAATCAAC; R06823; 15; 15; 28, 29; p.
+BS  AACATCAATCAATAA; R06824; 6; 15;; p.
+BS    CATCAATCAATCA; R06825; 1; 15; 1, 2; p.
+BS  ATCATCAATCAAGTT; R06826; 13; 15;; p.
+BS   TAATCAATCAATTT; R06827; 1; 15; 1; p.
+BS  CCCATCAATCAAGAT; R06828; 3; 15;; p.
+BS  CTAATCAATCAAAGC; R06829; 12; 15;; p.
+BS  CCCATCAATCAATCA; R06830; 11; 15;; p.
+BS  CTCATCAATCAAATT; R06831; 13; 15;; p.
+BS  CAAATCAATCAAAGT; R06832; 4; 15;; p.
+BS  ATCATCAATCAAGTT; R06833; 12; 15;; p.
+BS  GACATCAATCAATAT; R06834; 10; 15;; p.
+BS  AAGATCAATCAATCA; R06835; 14; 15;; p.
+BS    CATCAATCAAGAG; R06836; 1; 15; 1, 2; p.
+BS  CAAATCAATCAAACA; R06837; 15; 15;; p.
+BS  CAAATCAATCAAACT; R06838; 13; 15;; p.
+BS  CCCATCAATCAAAGT; R06839; 1; 15;; p.
+BS  TGACTCAATCAAGTC; R06840; 3; 15;; p.
+BS  CATGTCAATCAATTA; R06841; 4; 15;; p.
+BS  AATGTCAATCAATGC; R06842; 5; 15;; p.
+BS  AACGTCAATCAAATT; R06843; 11; 15;; p.
+BS  CATACCAATCAAAA; R06844; 17; 15; 31; p.
+BS     ATCCATCAACAT; R06845; 1; 15; 1, 2, 3; p.
+BS  ATGATCCATCAACTT; R06846; 4; 15;; p.
+BS  GTGATCCATCAATGT; R06847; 13; 15;; p.
+BS  TTCATCAATCTATTT; R06848; 4; 15;; p.
+BS  CACATCAATCCAATG; R06849; 2; 15;; p.
+BS   ACATCAATCCATCA; R06850; 1; 15; 1; p.
+BS  CAAATCAATCGACCA; R06851; 8; 15;; p.
+BS  ACCATCAATCATATA; R06852; 11; 15;; p.
+BS  CACATCAATCATTTC; R06853; 6; 15;; p.
+BS  CTAATCAATCATAAT; R06854; 10; 15;; p.
+BS  GGCATCAATCAGATC; R06855; 9; 15;; p.
+BS  CATATCAATCACAAT; R06856; 1; 15;; p.
+BS   CCATCAATCATATA; R06857; 1; 15; 1; p.
+XX
+CC  sequences selected with recombinant Pbx-1b from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: MA0070.
+XX
+RN  [1]; RE0003009.
+RX  PUBMED: 7910944.
+RA  Lu Q., Wright D. D., Kamps M. P.
+RT  Fusion with E2A converts the Pbx1 homeodomain protein into a constitutive transcriptional activator in human leukemias carrying the t(1;19) translocation
+RL  Mol. Cell. Biol. 14:3938-3948 (1994).
+XX
+//

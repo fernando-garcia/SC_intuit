@@ -1,0 +1,77 @@
+AC  M01015
+XX
+ID  P$PEND_01
+XX
+DT  27.08.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PEND
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05977; PEND; Species: pea, Pisum sativum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      2      3     33      T
+02     36      0      0      2      A
+03     36      0      1      1      A
+04      0      0     36      2      G
+05     35      3      0      0      A
+06     37      0      1      0      A
+07     10      1     25      2      G
+08      2      2      2     31      T
+XX
+BA  38 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAAGAAAT; R14887; 1; 8;; p.
+BS  GAAGAAGT; R14888; 4; 8;; p.
+BS  TAAGAAGT; R14889; 8; 8;; p.
+BS  TAAGAAGT; R14890; 9; 8;; p.
+BS  TAAGCAGT; R14891; 1; 8;; p.
+BS  TAATAGGA; R14892; 1; 8;; p.
+BS  TATGAAGT; R14893; 5; 8;; p.
+BS  GAAGAAAA; R14894; 10; 8;; p.
+BS  TAAGAAGT; R14895; 7; 8;; p.
+BS  TAAGAAGT; R14896; 6; 8;; p.
+BS  TAAGAAGT; R14897; 8; 8;; p.
+BS  TAAGAAGT; R14898; 6; 8;; p.
+BS  TAAGAAAT; R14899; 7; 8;; p.
+BS  TAAGAATT; R14900; 2; 8;; p.
+BS  TAAGAAGT; R14901; 9; 8;; p.
+BS  TAAGAAGT; R14902; 2; 8;; p.
+BS  CAAGAAGT; R14903; 3; 8;; p.
+BS  TAAGAAG; R14904; 14; 8; 21; p.
+BS  GAAGAAAT; R14905; 4; 8;; p.
+BS  TAGTAAGT; R14906; 4; 8;; p.
+BS  TAAGAACT; R14907; 6; 8;; p.
+BS  TAAGAATT; R14908; 7; 8;; p.
+BS  TAAGAAGC; R14909; 9; 8;; p.
+BS  TAAGAAGT; R14910; 4; 8;; p.
+BS  TAAGAAGT; R14911; 9; 8;; p.
+BS  TAAGAAGT; R14912; 1; 8;; p.
+BS  TAAGAAGT; R14913; 6; 8;; p.
+BS  TAAGAAAT; R14914; 4; 8;; p.
+BS  TAAGAAAT; R14915; 5; 8;; p.
+BS  TTAGAAAT; R14916; 11; 8;; p.
+BS  TAAGAAGT; R14917; 5; 8;; p.
+BS  TAAGAAGT; R14918; 9; 8;; p.
+BS  TAAGAAAC; R14919; 4; 8;; p.
+BS  TAAGCAGT; R14920; 4; 8;; p.
+BS  TAAGAAGG; R14921; 13; 8;; p.
+BS  TTAGCAGT; R14922; 3; 8;; p.
+BS  TAAGAAAG; R14923; 12; 8;; p.
+BS  TAAGAAAT; R14924; 2; 8;; p.
+XX
+CC  sequences selected with recombinant PEND from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0024267.
+RX  PUBMED: 11376142.
+RA  Sato N., Ohta N.
+RT  DNA-binding specificity and dimerization of the DNA-binding domain of the PEND protein in the chloroplast envelope membrane.
+RL  Nucleic Acids Res. 29:2244-2250 (2001).
+XX
+//

@@ -1,0 +1,48 @@
+AC  M00239
+XX
+ID  V$T3R_01
+XX
+DT  14.02.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  v-ErbA
+XX
+DE  viral homolog of thyroid hormone receptor alpha1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00886; v-ErbA; Species: AEV, avian erythroblastosis virus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      7      7      0      S
+02      8      3      2      4      N
+03      3      4      5      5      N
+04      0      0      1     16      T
+05      7      1      9      0      R
+06     16      0      1      0      A
+07      0      0     17      0      G
+08      0      0     17      0      G
+09      0      0      0     17      T
+10      0     17      0      0      C
+11     17      0      0      0      A
+12      2     12      0      3      C
+13      2      3     10      2      G
+14      2      8      7      0      S
+15      3      6      3      5      N
+16      6      5      3      3      N
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant v-ErbA from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0003804.
+RX  PUBMED: 7713893.
+RA  Subauste J. S., Koenig R. J.
+RT  Comparison of the DNA binding specificity and function of v-ErbA and thyroid hormone receptor alpha1
+RL  J. Biol. Chem. 270:7957-7962 (1995).
+XX
+//

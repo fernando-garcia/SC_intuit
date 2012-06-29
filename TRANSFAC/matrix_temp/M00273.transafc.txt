@@ -1,0 +1,89 @@
+AC  M00273
+XX
+ID  V$R_01
+XX
+DT  16.01.1998 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  R
+XX
+DE  Epstein-Barr virus transcription factor R
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00710; R; Species: EBV, Epstein-Barr virus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4     10      8     13      N
+02      3      7      8     17      N
+03      0      1     34      0      G
+04      1      3     16     15      K
+05      3     29      2      1      C
+06      0     35      0      0      C
+07      7      5     17      6      N
+08      2     22      2      9      C
+09      3     14     15      3      S
+10     12      7      7      9      N
+11     18      2     10      5      R
+12     11      4      7     13      N
+13      1     20      1     13      Y
+14      2      1     32      0      G
+15      6      9      0     20      T
+16      1      0     33      1      G
+17      0      0     34      1      G
+18      0      3      0     32      T
+19      0      0     35      0      G
+20      1     20      4     10      C
+21     14     12      3      6      N
+XX
+BA  35 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TCGGCCTTCTGTCGTGGTGGG; R07941; 1; 21;; p.
+BS  CTGGCCGCCACACGTGGTGTT; R07942; 1; 21;; p.
+BS  CGGGCCACGCTATGCGGTGGC; R07943; 1; 21;; p.
+BS  TTGCCCTTGCAGTGTGGTGTT; R07944; 1; 21;; p.
+BS  TTGTCCGCCAATCGAGGTGCC; R07945; 1; 21;; p.
+BS  CTGGCCGCCACACGTGGTGGA; R07946; 1; 21;; p.
+BS  TCGGCCGTACAACGTGGTGCG; R07947; 1; 21;; p.
+BS  CAGGCCTGCTAACGTGGTGCA; R07948; 1; 21;; p.
+BS  CGGGCCACGCTATGCGGTGCA; R07949; 1; 21;; p.
+BS  CCGGGCGCGTACTGCGGTGCC; R07950; 1; 21;; p.
+BS  TTGTCCGCCAATCGAGGTGCC; R07951; 1; 21;; p.
+BS  AGGTACTCCGATTGTGGTGCC; R07952; 1; 21;; p.
+BS  GTGGCCGTGTGGCGTGGTGTT; R07953; 1; 21;; p.
+BS  CAGGTCGCGGAGCGCGGTGTA; R07954; 1; 21;; p.
+BS  TTGGCCGCGCGGCGTAGTGTT; R07955; 1; 21;; p.
+BS  AGGGCCACCAAACGATGTGCA; R07956; 1; 21;; p.
+BS  AGCCCCTGTAGGCGTGGTGTA; R07957; 1; 21;; p.
+BS  CTGTCCCTGGGCCGTGGTGTC; R07958; 1; 21;; p.
+BS  TGGGCCATGCAAGATGGTGTA; R07959; 1; 21;; p.
+BS  GTGTACGCACAACGCGGTGCA; R07960; 1; 21;; p.
+BS  TTGTCCGCCAATCGAGGTGCA; R07961; 1; 21;; p.
+BS  GTGGCCGTATACCATGGTGCT; R07962; 1; 21;; p.
+BS  CTGTCCCAGTATCGTGGTGCA; R07963; 1; 21;; p.
+BS  AGGAGCGACGTGTCAGGTGGC; R07964; 1; 21;; p.
+BS  TTGTCCCCGGGTTGTGGCGCA; R07965; 1; 21;; p.
+BS  GTGTACTCGGTTCGTGGTGCC; R07966; 1; 21;; p.
+BS  TCGCCCCTTAATAGTGGTGTA; R07967; 1; 21;; p.
+BS  CAGTCCACTATCTGTGGTGCG; R07968; 1; 21;; p.
+BS  GGGTCCGTCTGACGCGGTGCC; R07969; 1; 21;; p.
+BS  GCGTCCACCTGATGCGGCGAA; R07970; 1; 21;; p.
+BS  TTGTCCGCCAATCGAGGTGCC; R07971; 1; 21;; p.
+BS  GCGGCCGCCAATTGTGGTGCC; R07972; 1; 21;; p.
+BS  GTGTCCGCGTGGTGCGGTGCC; R07973; 1; 21;; p.
+BS  TTGTCCCCGGGTTGTGGTGCT; R07974; 1; 21;; p.
+BS  TCGGCCACGAATTGCGTCGTA; R07975; 1; 21;; p.
+XX
+CC  sequences selected with recombinant R from a pool of double-stranded oligonucleotides containing a core of 23 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0006521.
+RX  PUBMED: 8165130.
+RA  Gruffat H., Sergeant A.
+RT  Characterization of the DNA-binding site repertoire for the epstein-barr virus transcription factor R
+RL  Nucleic Acids Res. 22:1172-1178 (1994).
+XX
+//

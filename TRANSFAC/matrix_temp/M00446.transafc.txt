@@ -1,0 +1,85 @@
+AC  M00446
+XX
+ID  V$SPZ1_01
+XX
+DT  21.08.2001 (created); rio.
+DT  10.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Spz1
+XX
+DE  spermatogenic Zip
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16587; SPZ1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04668; Spz1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14681; Spz1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16588; SPZ1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16589; SPZ1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16586; SPZ1 isoform1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      0      9      6      D
+02      4      8      7      5      N
+03     10      8      4      5      N
+04      0      4     26      0      G
+05      0      2     28      0      G
+06     12      2     11      5      R
+07      0      4     26      0      G
+08      0      5     25      0      G
+09      2      3     20      5      G
+10     10      3      0     17      W
+11     13      3      4     10      W
+12      6      5      6     13      N
+13      5      1     12      6      N
+14      3      6      9      4      N
+15      4      9      7      2      N
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGCGGAGGGTAT; R10171; 17; 15; 29, 30, 31; p.
+BS     GGCGCTTATGGC; R10173; 1; 15; 1, 2, 3; p.
+BS  GAAGGTGGTAAAGGC; R10174; 8; 15;; p.
+BS     GGAGGGTATAAG; R10175; 1; 15; 1, 2, 3; p.
+BS    AGGGGGGTTTGGT; R10176; 1; 15; 1, 2; p.
+BS  GTCGGAGGGAAACGG; R10177; 11; 15;; p.
+BS  GTCGGAGGGAACGGG; R10178; 11; 15;; p.
+BS  AGAGGGGGGTCGG; R10179; 14; 15; 27, 28; p.
+BS     CCGGGGTAGGGG; R10180; 1; 15; 1, 2, 3; p.
+BS  TTTGGAGCGTTAGAC; R10181; 2; 15;; p.
+BS  GCAGGTGCGCAGGTC; R10182; 5; 15;; p.
+BS  GAGGGAGGGTAGTGA; R10183; 1; 15;; p.
+BS  ACCCGAGGAACTACA; R10184; 13; 15;; p.
+BS    AGGAGGGTATTGC; R10185; 1; 15; 1, 2; p.
+BS  GGGGGGGGCCTCT; R10186; 13; 15; 26, 27; p.
+BS  GCAGGAGGATTTACT; R10187; 3; 15;; p.
+BS  GCCGGAGGGATAGTG; R10188; 3; 15;; p.
+BS  AATGGGGCGCCG; R10189; 17; 15; 29, 30, 31; p.
+BS    AGGTGGGTTCGCG; R10190; 1; 15; 1, 2; p.
+BS  TCGCGGGGGTTT; R10191; 15; 15; 27, 28, 29; p.
+BS  AGAGGAGGGATT; R10192; 15; 15; 27, 28, 29; p.
+BS  TGGGGGCGCTTCATC; R10193; 8; 15;; p.
+BS  TCAGCGGGCATCACC; R10194; 11; 15;; p.
+BS  AGCGGTGCTAGA; R10195; 13; 15; 25, 26, 27; p.
+BS  GTTGGCGGGAATGAG; R10196; 10; 15;; p.
+BS  TTAGGTGGGTGAGTC; R10197; 7; 15;; p.
+BS  AACGGGGGGTAT; R10198; 15; 15; 27, 28, 29; p.
+BS   CTGGGCGTTGTTCA; R10199; 1; 15; 1; p.
+BS   GCCGACGGAAGTGC; R10200; 1; 15; 1; p.
+BS   CTGGGCGTTGTTCA; R10201; 1; 15; 1; p.
+XX
+CC  sequences selected with recombinant Spz1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; several  rounds of selection and amplification
+XX
+DR  JASPAR: MA0111.
+XX
+RN  [1]; RE0016747.
+RX  PUBMED: 11165476.
+RA  Hsu S. H., Shyu H. W., Hsieh-Li H. M., Li H.
+RT  Spz1, a novel bHLH-Zip protein, is specifically expressed in testis
+RL  Mech. Dev. 100:177-187 (2001).
+XX
+//

@@ -1,0 +1,52 @@
+AC  M01428
+XX
+ID  V$GSC_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Gsc
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02047; Gsc; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.47   0.16   0.13   0.24      N
+02   0.34   0.22   0.24   0.21      N
+03    0.4   0.13   0.05   0.43      W
+04   0.26   0.46    0.1   0.18      N
+05   0.28   0.11   0.52   0.09      R
+06   0.07    0.4   0.01   0.52      Y
+07   0.03      0      0   0.97      T
+08   0.99      0   0.01      0      A
+09   0.99      0      0      0      A
+10      0      0   0.01   0.99      T
+11   0.01   0.97      0   0.03      C
+12      0   0.95      0   0.04      C
+13   0.03   0.44    0.4   0.13      S
+14   0.08   0.36   0.08   0.48      Y
+15   0.22   0.12   0.24   0.42      N
+16   0.26   0.23   0.12   0.39      N
+17   0.31   0.31   0.26   0.11      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0035.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

@@ -1,0 +1,63 @@
+AC  M01259
+XX
+ID  V$CTCF_02
+XX
+DT  30.06.2009 (created); sla.
+DT  10.07.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CTCF
+XX
+DE  CCCTC-binding factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02284; ctcf; Species: human, Homo sapiens; site(s) included: no.
+BF  T08865; ctcf; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14206; ctcf; Species: Mammalia; site(s) included: no.
+BF  T14290; ctcf; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T02285; ctcf; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08868; ctcf; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14313; ctcf; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14314; ctcf; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    144    131    113    112      N
+02    141    116    103    140      N
+03    131    124    126    119      N
+04     46    170     81    203      N
+05     99    101    160    140      N
+06    134     61    239     66      N
+07     40    389     31     40      C
+08     13    482      2      3      C
+09    393     11     30     66      A
+10     31    274    191      4      S
+11     91    202     55    152      N
+12    430     13     29     28      A
+13      8      3    481      8      G
+14    240      3    256      1      R
+15     18      3    262    217      K
+16      8      0    485      7      G
+17      8     11    438     43      G
+18     87    357      9     47      C
+19    205      9    259     27      R
+20     65    258    142     35      S
+XX
+BA  500 sequences (ChIP-Seq)
+XX
+DR  JASPAR: MA0139.
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0062858.
+RX  PUBMED: 17512414.
+RA  Barski A., Cuddapah S., Cui K., Roh T. Y., Schones D. E., Wang Z., Wei G., Chepelev I., Zhao K.
+RT  High-resolution profiling of histone methylations in the human genome.
+RL  Cell 129:823-837 (2007).
+XX
+//

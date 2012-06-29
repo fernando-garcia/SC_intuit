@@ -1,0 +1,58 @@
+AC  M00396
+XX
+ID  V$EN1_01
+XX
+DT  23.06.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  En-1
+XX
+DE  engrailed 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02014; En-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T02015; En-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T14355; En-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T16575; En-1; Species: Mammalia; site(s) included: no.
+BF  T02016; En-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09225; En-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16576; En-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      7      0      G
+02      2      0      0      8      T
+03      6      0      2      2      A
+04      4      1      3      2      N
+05      1      0      0      9      T
+06      1      2      3      4      N
+07      1      2      5      2      N
+XX
+BA  10 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTAATTG; R09094; 4; 7;; p.
+BS  ATAATCC; R09095; 3; 7;; p.
+BS  GTGGTTG; R09096; 8; 7;; p.
+BS  GTAGAAT; R09097; 5; 7;; p.
+BS  ATAGTTG; R09098; 2; 7;; p.
+BS  GTTATGA; R09099; 3; 7;; p.
+BS  GTATTCC; R09100; 6; 7;; p.
+BS  AAAATGG; R09101; 5; 7;; p.
+BS  GTTTTGT; R09102; 8; 7;; p.
+BS  GAGCTTG; R09103; 6; 7;; p.
+XX
+CC  sequences selected with recombinant En-1 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0027.
+XX
+RN  [1]; RE0003871.
+RX  PUBMED: 8096059.
+RA  Catron K. M., Iller N., Abate C.
+RT  Nucleotides flanking a conserved TAAT core dictate the DNA binding specifity of three murine homeodomain proteins
+RL  Mol. Cell. Biol. 13:2354-2365 (1993).
+XX
+//

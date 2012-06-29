@@ -1,0 +1,52 @@
+AC  M03147
+AS  MA0451
+XX
+ID  I$KNI_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  kni
+XX
+DE  class: Zinc-coordinating; family: Hormone-nuclear Receptor
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00445; KNIRPS; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     19      1      2      4      A
+02     25      1      0      0      A
+03     16      0      0     10      W
+04      5      9      6      6      N
+05      0      4      1     21      T
+06     21      0      5      0      A
+07      0      0     26      0      G
+08     17      0      8      1      A
+09      1      3     18      4      G
+10      0     26      0      0      C
+11     25      0      1      0      A
+12      5     12      7      2      N
+XX
+BA  26 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0451.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071779.
+RX  PUBMED: 18332042.
+RA  Noyes M. B., Meng X., Wakabayashi A., Sinha S., Brodsky M. H., Wolfe S. A.
+RT  A systematic characterization of factors that regulate Drosophila segmentation via a bacterial one-hybrid system.
+RL  Nucleic Acids Res. 36:2547-2560 (2008).
+XX
+//

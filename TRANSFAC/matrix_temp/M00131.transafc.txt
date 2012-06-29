@@ -1,0 +1,62 @@
+AC  M00131
+XX
+ID  V$HNF3B_01
+XX
+DT  22.05.1995 (created); hiwi.
+DT  19.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF3beta
+XX
+DE  Hepatocyte Nuclear Factor 3beta
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00791; V$HNF3_Q6;  (family).
+HP  M01012; V$HNF3_Q6_01;  (family).
+XX
+BF  T03256; HNF-3beta; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01053; HNF-3beta; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02513; HNF-3beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T09512; HNF-3beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T09404; HNF-3beta; Species: Mammalia; site(s) included: yes.
+BF  T02344; HNF-3beta; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09942; HNF-3beta; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01049; HNF-3beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08421; HNF-3beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      3      4      6      K
+02      1      0      9      4      G
+03      8      5      5      6      N
+04     15      5      2      2      A
+05     11      4      2      7      N
+06      0      1      0     23      T
+07     12      0     12      0      R
+08      0      0      0     24      T
+09      0      0      0     24      T
+10      1      0      3     20      T
+11     11      1      9      3      R
+12      2     10      1     11      Y
+13      3      1      3     17      T
+14      1      5      0     17      T
+15      8      0      1      5      W
+XX
+BA  24 sequences (matrix compiled from individual genomic sites)
+XX
+CC  the sequences from literature have been realigned by BIOBASE which leads to slight differences in consensus sequence; 14 genomic from 11 genes and 10 synthetic sites
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0003012.
+RX  PUBMED: 8139574.
+RA  Overdier D. G., Porcella A., Costa R. H.
+RT  The DNA-binding specificity of the hepatocyte nuclear factor 3/forkhead domain is influenced by amino acid residues adjacent to the recognition helix
+RL  Mol. Cell. Biol. 14:2755-2766 (1994).
+XX
+//

@@ -1,0 +1,141 @@
+AC  M02100
+XX
+ID  V$MYOD_Q6_02
+XX
+DT  24.10.2011 (created); mkl.
+DT  25.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MyoD
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00804; V$E2A_Q2;  (family).
+HP  M00929; V$MYOD_Q6_01;  (family).
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01128; MyoD; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15547; MyoD; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00524; MyoD; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T10010; MyoD; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T03902; MyoD; Species: common carp, Cyprinus carpio; site(s) included: no.
+BF  T00525; MyoD; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09197; MyoD; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10027; MyoD; Species: Mammalia; site(s) included: yes.
+BF  T00527; MyoD; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T00526; MyoD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09177; MyoD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01551; MyoD; Species: quail, Coturnix coturnix; site(s) included: no.
+BF  T15571; MyoD; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15572; MyoD; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03907; MyoD; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T03912; MyoD (275 AA); Species: rainbow trout, Oncorhynchus mykiss; site(s) included: no.
+BF  T03911; MyoD (376 AA); Species: rainbow trout, Oncorhynchus mykiss; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1     79      0      0      C
+02     76      2      1      1      A
+03      7     28     35     10      S
+04      4     63     10      3      C
+05      1      1      0     78      T
+06      0      2     77      1      G
+07      7     23     13     37      N
+08      4     48      5     23      C
+09     22     19     18     20      N
+XX
+BA  80 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CAGCTGTCA; R00012; 4; 9;; p.
+BS  CACCTGTTC; R00014; -2; 9;; n.
+BS  CACCTGTCC; R00019; 8; 9;; p.
+BS  CACCTGCTG; R00242; 6; 9;; p.
+BS  CAGCTGGCn; R00850; 2; 9;; p.
+BS  CACCTGCCT; R00881; -1; 9;; n.
+BS  caGCTGGcc; R01620; 4; 9;; n.
+BS  cacctGCTG; R02418; 9; 9;; n.
+BS  CAGCTGGCA; R02419; 10; 9;; p.
+BS  CAACTGACC; R02452; 3; 9;; p.
+BS  CAGCTGTCT; R02898; 10; 9;; n.
+BS  CACCTGCTG; R03074; 2; 9;; n.
+BS  CAGCTGGCG; R03075; 2; 9;; p.
+BS  CACCTGTTG; R03076; 2; 9;; n.
+BS  CACCTGCCT; R03109; 1; 9;; p.
+BS  CACCTGTCT; R03330; 8; 9;; p.
+BS  CATCTGTCC; R04020; 4; 9;; p.
+BS  CAGCTGACA; R04021; 19; 9;; p.
+BS  CAGATGTCC; R04046; 17; 9;; n.
+BS  CACCTGCTG; R04418; 11; 9;; p.
+BS  CAACTGCTG; R14856; 2; 9;; n.
+BS  CAGCTGACA; R14857; 8; 9;; n.
+BS  CAGCTGTTG; R14858; 12; 9;; p.
+BS  CAGCTGTCT; R14863; 8; 9;; n.
+BS  CAGCTGTTC; R14864; 20; 9;; n.
+BS  CACCTGCCT; R16707; 11; 9;; n.
+BS  CACCTGCTg; R16711; 14; 9;; p.
+BS  CACCTGCTt; R16714; 14; 9;; p.
+BS  CAGGTGCCt; R16715; 14; 9;; p.
+BS  CATCTGCCt; R16718; 10; 9;; n.
+BS  CACCTGCTc; R16721; 12; 9;; p.
+BS  CATCTGTCt; R16722; 10; 9;; n.
+BS  CACCTGTtc; R16726; 14; 9;; p.
+BS  CACGTGCTG; R20212; 2; 9;; n.
+BS  CAGGTGTCA; R20375; 11; 9;; p.
+BS  CATCTGTCG; R20586; 10; 9;; p.
+BS  CATCTGTCA; R20589; 7; 9;; n.
+BS  CAGCTGGCC; R20590; 10; 9;; p.
+BS  CACCAGCCT; R20591; -3; 9;; p.
+BS  CCGCTGAAA; R20592; -3; 9;; p.
+BS  CAGCTGGCA; R20593; 8; 9;; n.
+BS  CCTGTGGGC; R20595; 18; 9;; p.
+BS  CGCCTGTCA; R20596; 13; 9;; p.
+BS  CAGCTGGCA; R21748; 12; 9;; p.
+BS  CAGCTGTTC; R21757; 10; 9;; p.
+BS  CAGCTGTTA; R22201; 10; 9;; p.
+BS  CAGCTGTCA; R22281; 7; 9;; n.
+BS  CACATGAct; R25453; 10; 9;; p.
+BS  CAAGTGCca; R25456; 5; 9;; n.
+BS  CAGCTGCTG; R26210; 11; 9;; p.
+BS  CAGCTGGTA; R26268; 3; 9;; n.
+BS  CAGCTGTCT; R26271; 3; 9;; n.
+BS  CACCTGGGT; R26275; 7; 9;; p.
+BS  CACCTGTTC; R26341; 10; 9;; n.
+BS  CAGCTGCTG; R26413; 11; 9;; p.
+BS  CAGCTGCCG; R26414; 10; 9;; n.
+BS  CAGCTGTCC; R26437; 4; 9;; p.
+BS  CACCTGTCT; R28279; 27; 9;; n.
+BS  CAGCTGTCA; R29160; 10; 9;; p.
+BS  CAGCTGCCA; R29174; 5; 9;; n.
+BS  CAGCTGTTA; R29461; 8; 9;; p.
+BS  CAGCTGTAA; R29462; 12; 9;; p.
+BS  CACATGTAT; R29572; 1; 9;; n.
+BS  CACCCGCCG; R32406; -1; 9;; n.
+BS  CACCTTTGC; R32407; 10; 9;; n.
+BS  CACCTCAGC; R32415; 13; 9;; n.
+BS  CAGGTCTCC; R32420; 8; 9;; n.
+BS  CACCTGTTG; R32855; 10; 9;; p.
+BS  CACCTGTCT; R33222; 6; 9;; p.
+BS  CAGTTGtct; R33244; 7; 9;; n.
+BS  CAGTTGgcg; R33246; 6; 9;; n.
+BS  CATGTGGCA; R35608; 5; 9;; p.
+BS  CAATTGTGA; R35609; 5; 9;; n.
+BS  CAAATGtat; R35610; 4; 9;; p.
+BS  CATCTGCTG; R35611; 2; 9;; n.
+BS  CATGTGACA; R35612; 3; 9;; n.
+BS  CAAGTGtcc; R35613; 5; 9;; p.
+BS  CAGCTGcct; R35614; 6; 9;; p.
+BS  CAAGTGtcc; R35615; 6; 9;; p.
+BS  ATTCTGGCA; R35620; 14; 9;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00184; V$MYOD_Q6; myoblast determining factor
+OV  M00929; V$MYOD_Q6_01.
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

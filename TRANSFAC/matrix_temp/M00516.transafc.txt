@@ -1,0 +1,58 @@
+AC  M00516
+XX
+ID  V$E2F_03
+XX
+DT  08.11.2001 (created); oke.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00050; V$E2F_02; E2F (family).
+HP  M00803; V$E2F_Q2;  (family).
+HP  M00918; V$E2F_Q3_01;  (family).
+HP  M00919; V$E2F_Q4_01;  (family).
+HP  M00920; V$E2F_Q6_01;  (family).
+HP  M00939; V$E2F_Q4_02;  (family).
+XX
+BF  T04056; E2F; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04747; E2F; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02951; E2F-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T09329; E2F-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01542; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09117; E2F-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09570; E2F-1; Species: Mammalia; site(s) included: no.
+BF  T01543; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09126; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02952; E2F-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09988; E2F-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00221; E2F:DP; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      3      2     22      T
+02      1      1      2     25      T
+03      0      1      2     26      T
+04      1     13     15      0      S
+05      0      3     26      0      G
+06      0     29      0      0      C
+07      0      0     29      0      G
+08      0     22      7      0      C
+09      1      8     17      3      G
+10     15      9      3      2      M
+11     13      1      7      8      N
+12     13      4      9      3      R
+XX
+BA  29 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0016526.
+RX  PUBMED: 11491305.
+RA  Kel A., Kel-Margoulis O., Farnham P., Bartley S., Wingender E., Zhang M.
+RT  Computer-assisted identification of cell cycle-related genes: new targets for E2F transcription factors
+RL  J. Mol. Biol. 309:99-120 (2001).
+XX
+//

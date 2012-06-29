@@ -1,0 +1,67 @@
+AC  M01826
+XX
+ID  V$PITX1_Q6
+XX
+DT  08.02.2011 (created); mkl.
+DT  09.02.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PITX1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02455; pitx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10327; pitx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18392; pitx1; Species: Mammalia; site(s) included: yes.
+BF  T02415; pitx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08862; pitx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05166; pitx1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      2     11      0      G
+02      9      6      0      0      M
+03      4      8      1      2      M
+04      9      3      3      0      A
+05      4     12      2      3      C
+06      2      2      0     17      T
+07     21      0      0      0      A
+08     21      0      0      0      A
+09      0      1      4     16      T
+10      1     20      0      0      C
+11      1      9      0     11      Y
+XX
+BA  21 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GATGCTAAGCC; R04992; 6; 11;; p.
+BS  gacactaatct; R22965; 3; 11;; n.
+BS  gccactaagca; R22966; 12; 11;; n.
+BS  gacactaatct; R22967; 32; 11;; n.
+BS  aaccccaatcc; R26979; 11; 11;; n.
+BS  gcaagtaatcc; R26980; 1; 11;; n.
+BS  gcacataagct; R32786; 1; 11;; n.
+BS  gacactaatct; R32789; 1; 11;; n.
+BS  gacactaaccc; R32820; 32; 11;; n.
+BS  actcataatat; R32841; 21; 11;; n.
+BS  CCAGTAAATCC; R32849; 2; 11;; p.
+BS  nnnnctaatcc; R32861; 1; 11;; n.
+BS  nnnnataatct; R32862; 1; 11;; n.
+BS  nnnngtaatct; R32863; 1; 11;; n.
+BS  nnnnctaatct; R32864; 1; 11;; n.
+BS  nnnnctaatct; R32865; 1; 11;; n.
+BS  nnnnataatct; R32866; 1; 11;; n.
+BS  gacactaatcc; R33001; 3; 11;; n.
+BS  gagatcaagcc; R33023; 8; 11;; n.
+BS  CCAGTAAATCC; R33024; 4; 11;; p.
+BS  gacactaatct; R33025; 13; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

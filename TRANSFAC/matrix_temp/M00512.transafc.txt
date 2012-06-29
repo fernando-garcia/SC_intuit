@@ -1,0 +1,148 @@
+AC  M00512
+XX
+ID  V$PPARG_01
+XX
+DT  06.11.2001 (created); mas.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PPARgamma:RXRalpha
+XX
+DE  PPAR-gamma (peroxisome proliferator-activated receptor gamma)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00763; V$PPAR_DR1_Q2;  (family).
+XX
+BF  T17892; ORF4-gamma; Species: Mammalia; site(s) included: yes.
+BF  T15932; PPARgamma; Species: cattle, Bos taurus; site(s) included: no.
+BF  T08917; PPARgamma; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T10749; PPARgamma; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T01354; PPARgamma; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T08639; PPARgamma; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05351; PPARgamma; Species: human, Homo sapiens; site(s) included: no.
+BF  T09963; PPARgamma; Species: Mammalia; site(s) included: no.
+BF  T08883; PPARgamma; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T05347; PPARgamma; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06405; PPARgamma; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T05329; PPARgamma; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10937; PPARgamma; Species: Vertebrata; site(s) included: no.
+BF  T04794; PPARgamma1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02736; PPARgamma1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02529; PPARgamma1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05330; PPARgamma1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T04780; PPARgamma2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T03731; PPARgamma2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05332; PPARgamma2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05331; PPARgamma2; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     14     16     13     17      N
+02     12     21     14     16      N
+03     32      6      9     17      W
+04     19      3     45      3      G
+05     31      0     41      0      R
+06      0      0     72      0      G
+07      0      0     71      1      G
+08      0      0      0     72      T
+09      0     70      2      0      C
+10     72      0      0      0      A
+11     72      0      0      0      A
+12     71      0      1      0      A
+13      0      0     72      0      G
+14      0      0     70      2      G
+15      0      0      0     72      T
+16      0     69      1      2      C
+17     70      0      2      0      A
+18     16     20      2     20      N
+19     17     21     15      3      N
+20      8     15     13     13      N
+21     14      2     16     12      N
+XX
+BA  72 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS   TACAGGTCAAAGTTCA; R11480; 1; 21; 1, 18, 19, 20, 21; p.
+BS  CAAAGGGTCAAAGGTCAGACA; R11481; 1; 21;; p.
+BS  CTAAAGGTCAAAGGTCAACGA; R11482; 1; 21;; p.
+BS  TCTGAGGTCAAAGGTCACTAG; R11483; 1; 21;; p.
+BS  TCAAAGGTCAAAGGTCAAGAG; R11484; 1; 21;; p.
+BS  TCGTAGGTGAAAGGTCA; R11485; 1; 21; 18, 19, 20, 21; p.
+BS  CAAAAGGTCAAAGGTCAAAGT; R11486; 1; 21;; p.
+BS  AGTGGGGTCAAAGGTCACAGA; R11487; 1; 21;; p.
+BS    CGGGGTCAAAGGTCAACCT; R11488; 1; 21; 1, 2; p.
+BS  CCAGGGGTCAAAGGTCAACCC; R11489; 1; 21;; p.
+BS     GGGGTCAAAGGTCAC; R11490; 1; 21; 1, 2, 3, 19, 20, 21; p.
+BS  GAAAAGGTCAAAGGTCA; R11491; 1; 21; 18, 19, 20, 21; p.
+BS      AGGTCAAAGTTCATACT; R11492; 1; 21; 1, 2, 3, 4; p.
+BS  CGAGGGGTCAAAGGTGA; R11493; 1; 21; 18, 19, 20, 21; p.
+BS  GGTGGGGTCAAAGGTCATGCG; R11494; 1; 21;; p.
+BS  TCAAAGGTCAAAGGTCAACCA; R11495; 1; 21;; p.
+BS  CTAGGGGTCAAAGGTCACCGG; R11496; 1; 21;; p.
+BS  GCTGGGGTCAAAGGTCAACTG; R11497; 1; 21;; p.
+BS  AATGGGGTCAAAGGTCGCGCG; R11498; 1; 21;; p.
+BS  TTGGAGGTCAAAGGTCATAGT; R11499; 1; 21;; p.
+BS  AACGAGGTCAAAGGTCAAATA; R11500; 1; 21;; p.
+BS  GCAAAGGTCAAAGGTCATCGG; R11501; 1; 21;; p.
+BS  ACAGAGGTCAAAGGTCATTCA; R11502; 1; 21;; p.
+BS  TGAAAGGTGAAAGGTCA; R11503; 1; 21; 18, 19, 20, 21; p.
+BS  CACAAGGTCAAAGGTCACA; R11504; 1; 21; 20, 21; p.
+BS  ACAGGGGTCAAAGGTCACTG; R11505; 1; 21; 21; p.
+BS  GGAGGGGTCAAAGGTCATGGG; R11506; 1; 21;; p.
+BS  GTTAAGGTCAAAGGTCACCA; R11507; 1; 21; 21; p.
+BS  CGGGAGGTCAAAGGTCATAGA; R11508; 1; 21;; p.
+BS  CCAAAGGTCAAAGGTCAAAGG; R11509; 1; 21;; p.
+BS  GGTGAGTTCAAAGGTCA; R11510; 1; 21; 18, 19, 20, 21; p.
+BS     GGGGTCAAAGGTCATGGG; R11511; 1; 21; 1, 2, 3; p.
+BS   TAGGGGTCAAAGGTCACGCT; R11512; 1; 21; 1; p.
+BS  TAAGGGGTCAAGGGTCA; R11513; 1; 21; 18, 19, 20, 21; p.
+BS  ACGGGGGTCAAAGGTCACCGA; R11514; 1; 21;; p.
+BS  CTAGGGGTCAAAGGTCA; R11515; 1; 21; 18, 19, 20, 21; p.
+BS  TTTGGGGTCAAAGGTCATCTA; R11516; 1; 21;; p.
+BS  GGAGGGGTCAAAGGTCA; R11517; 1; 21; 18, 19, 20, 21; p.
+BS  ACAGAGGTCAAAGGTCACC; R11518; 1; 21; 20, 21; p.
+BS  CATGGGGTCAAAGGTCATG; R11519; 1; 21; 20, 21; p.
+BS  ACGCGGGTCAAAGGTCAAA; R11520; 1; 21; 20, 21; p.
+BS  TGTGGGGTCAAAGGTCACACG; R11521; 1; 21;; p.
+BS  AGCGGGGTCAAAGGTCAACTT; R11522; 1; 21;; p.
+BS     GAGGTCAAAGGTCATCCG; R11523; 1; 21; 1, 2, 3; p.
+BS  ACGGGGGTCAAAGGTCA; R11524; 1; 21; 18, 19, 20, 21; p.
+BS  CCAAAGGTCAAAGGTCATGG; R11525; 1; 21; 21; p.
+BS     GGGGTCAAAGGTCAAGTG; R11526; 1; 21; 1, 2, 3; p.
+BS  GTGAAGGTCAAAGGTCACGTC; R11527; 1; 21;; p.
+BS  TATAAGGTCAAAGGTCACC; R11528; 1; 21; 20, 21; p.
+BS  CCCAAGGTCAAAGGTCATGCA; R11529; 1; 21;; p.
+BS  TGAGGGGTCAAAGGTCATAAG; R11530; 1; 21;; p.
+BS  AAAGAGGTCAAAGGTCACC; R11531; 1; 21; 20, 21; p.
+BS     GGGGTCAAAGGTCATGCG; R11532; 1; 21; 1, 2, 3; p.
+BS  ATAGGGGTCAAAGGTCATCTT; R11533; 1; 21;; p.
+BS  TTAGGGGTCAAAGGTCATGA; R11534; 1; 21; 21; p.
+BS  GCTTGGGTCAAAGGTCA; R11535; 1; 21; 18, 19, 20, 21; p.
+BS  GAAAGGGTCAAAGGTCAA; R11536; 1; 21; 19, 20, 21; p.
+BS  CATAAGGTCAAAGGTCACACA; R11537; 1; 21;; p.
+BS     GGGGTCAAAGGTCACATA; R11538; 1; 21; 1, 2, 3; p.
+BS  CTTGGGGTCAAAGGTCACAC; R11539; 1; 21; 21; p.
+BS   CAGGGGTCAAAGGTCAAGTT; R11540; 1; 21; 1; p.
+BS  CCACAGGTCAAAGGTCACC; R11541; 1; 21; 20, 21; p.
+BS      GGGTCAAAGGTCAACAA; R11542; 1; 21; 1, 2, 3, 4; p.
+BS  ATTGGGGTCAAAGGTCGGATT; R11543; 1; 21;; p.
+BS  TCAAAGGTCAAAGGTTATCTT; R11544; 1; 21;; p.
+BS  TCGGAGGTCAAAGGTCA; R11545; 1; 21; 18, 19, 20, 21; p.
+BS  GGGTAGGTCAAAGGTCA; R11546; 1; 21; 18, 19, 20, 21; p.
+BS  ATAGGGGTCAAAGGTCATCTA; R11547; 1; 21;; p.
+BS  TTTGGGGTCAAAGGTCACGAT; R11548; 1; 21;; p.
+BS  GGAGGGGTCAAAGGTCAAATT; R11549; 1; 21;; p.
+BS  TTCGGGGTCAAAGGTTATCAG; R11550; 1; 21;; p.
+BS  TGTAGGGTCAAAGGTCA; R11551; 1; 21; 18, 19, 20, 21; p.
+XX
+CC  sequences selected with recombinant PPARgamma:RXRalpha from a pool of double-stranded oligonucleotides containing a core of 17 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0017041.
+RX  PUBMED: 11139380.
+RA  Okuno M., Arimoto E., Ikenobu Y., Nishihara T., Imagawa M.
+RT  Dual DNA-binding specificity of peroxisome-proliferator-activated receptor gamma controlled by heterodimer formation with retinoid X receptor alpha
+RL  Biochem. J. 353:193-198 (2001).
+XX
+//

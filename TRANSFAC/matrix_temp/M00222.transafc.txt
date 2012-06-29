@@ -1,0 +1,78 @@
+AC  M00222
+XX
+ID  V$HAND1E47_01
+XX
+DT  16.10.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Hand1:E47
+XX
+DE  Hand1:E47 heterodimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00804; V$E2A_Q2;  (family).
+HP  M00929; V$MYOD_Q6_01;  (family).
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T05422; E12; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00204; E12; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17415; E12; Species: Mammalia; site(s) included: no.
+BF  T01786; E12; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00675; E12; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19679; E2A; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T17424; E2A; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15605; E2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13855; E2A; Species: Mammalia; site(s) included: no.
+BF  T10541; E2A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05421; E47; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00207; E47; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10212; E47; Species: Mammalia; site(s) included: no.
+BF  T01788; E47; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00674; E47; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04373; EHAND; Species: human, Homo sapiens; site(s) included: no.
+BF  T01569; EHAND; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04375; EHAND; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00432; ITF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09296; Tcfe2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     12      5      4      8      N
+02     10      5      4     10      N
+03      8      2      8     11      N
+04      4      4     13      8      N
+05      5      2     18      4      G
+06      4     10      8      7      N
+07     10      0     16      3      R
+08      2      2      0     25      T
+09      1     27      1      0      C
+10      0      0      0     29      T
+11      0      0     29      0      G
+12      0      3     25      1      G
+13     10     13      1      5      M
+14     15      1      3     10      W
+15      6      5      3     15      T
+16      5      5      4     15      T
+XX
+BA  29 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Hand1:E47 from a pool of double-stranded oligonucleotides containing a core of 35 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0092.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0003452.
+RX  PUBMED: 7791788.
+RA  Hollenberg S. M., Sternglanz R., Cheng P. F., Weintraub H.
+RT  Identification of a new family of tissue-specific basic helix-loop-helix proteins with a two-hybrid system
+RL  Mol. Cell. Biol. 15:3813-3822 (1995).
+XX
+//

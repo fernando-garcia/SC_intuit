@@ -1,0 +1,38 @@
+AC  M01779
+XX
+ID  F$CBF1_03
+XX
+DT  09.07.2010 (created); smt.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CBF1 dimer
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T17947; CBF1:CBF1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10      0      5      1      R
+02      0      0      0     16      T
+03      0     16      0      0      C
+04     16      0      0      0      A
+05      0     15      0      1      C
+06      7      0      9      0      R
+07      0      0      0     16      T
+08      0      1     15      0      G
+XX
+BA  16 sequences (direct gel shift)
+XX
+CC  sequence alignment based on dissociation constants measured in gel retardation assays
+XX
+RN  [1]; RE0067329.
+RX  PUBMED: 11222754.
+RA  Wieland G., Hemmerich P., Koch M., Stoyan T., Hegemann J., Diekmann S.
+RT  Determination of the binding constants of the centromere protein Cbf1 to all 16 centromere DNAs of Saccharomyces cerevisiae.
+RL  Nucleic Acids Res. 29:1054-1060 (2001).
+XX
+//

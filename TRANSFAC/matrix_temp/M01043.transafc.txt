@@ -1,0 +1,61 @@
+AC  M01043
+XX
+ID  V$NKX25_Q5
+XX
+DT  18.02.2005 (created); dtc.
+DT  02.03.2005 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nkx2-5
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04334; CSX; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04330; CSX; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04323; CSX; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15272; CSX; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15777; CSX; Species: Mammalia; site(s) included: no.
+BF  T01675; CSX; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15273; CSX; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06362; CSX; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11251; CSX; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      4      0      8      T
+02      1      5      5      2      S
+03      0      7      1      5      Y
+04      0     13      0      0      C
+05     13      0      0      0      A
+06      0     13      0      0      C
+07      0      0      0     13      T
+08      0      0      0     13      T
+09      0      5      7      1      S
+10      7      5      1      0      M
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TCCCACTTCA; R15799; 12; 10;; n.
+BS  CCCCACTTCA; R15801; 12; 10;; n.
+BS  CCCCACTTCA; R15804; 12; 10;; n.
+BS  TCCCACTTCA; R15807; 11; 10;; n.
+BS  TTCCACTTGA; R15847; 8; 10;; p.
+BS  CACCACTTTG; R15867; 13; 10;; n.
+BS  CCCCACTTCA; R15968; 12; 10;; n.
+BS  TGTCACTTGC; R16044; 3; 10;; n.
+BS  TGTCACTTGC; R16045; 3; 10;; n.
+BS  TGTCACTTGC; R16046; 3; 10;; n.
+BS  TGTCACTTGC; R16047; 3; 10;; n.
+BS  ATGCACTTGA; R16056; 13; 10;; n.
+BS  TGTCACTTGC; R16101; 2; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0025480.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel91:0001 (2005).
+XX
+//

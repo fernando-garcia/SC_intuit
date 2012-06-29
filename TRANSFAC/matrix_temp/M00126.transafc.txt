@@ -1,0 +1,60 @@
+AC  M00126
+XX
+ID  V$GATA1_02
+XX
+DT  22.05.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA-1
+XX
+DE  GATA-binding factor 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00203; V$GATA_C; GATA binding site (family).
+HP  M00789; V$GATA_Q6;  (family).
+XX
+BF  T00267; GATA-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T08293; GATA-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00306; GATA-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10217; GATA-1; Species: Mammalia; site(s) included: no.
+BF  T00305; GATA-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08291; GATA-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10430; GATA-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10431; GATA-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08292; GATA-1 isoform 1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09480; GATA-1 isoform 2; Species: human, Homo sapiens; site(s) included: no.
+BF  T00304; GATA-1A; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02312; GATA-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+XX
+P0      A      C      G      T
+01      3      3      7      6      N
+02      5      4      2      8      N
+03      8      5      4      2      N
+04      5      4      5      5      N
+05      9      4      1      5      N
+06      0      0     20      0      G
+07     20      0      0      0      A
+08      0      0      0     20      T
+09     20      0      0      0      A
+10      6      4      9      1      N
+11      2      1     11      6      K
+12      4      3     11      2      G
+13      2      4     10      4      G
+14      6      4      4      6      N
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant GATA-1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0003011.
+RX  PUBMED: 8262042.
+RA  Whyatt D. J., deBoer E., Grosveld F.
+RT  The two zinc finger-like domains of GATA-1 have different DNA binding specificities
+RL  EMBO J. 12:4993-5005 (1993).
+XX
+//

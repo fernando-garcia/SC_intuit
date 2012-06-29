@@ -1,0 +1,51 @@
+AC  M00294
+XX
+ID  V$HFH8_01
+XX
+DT  19.06.1998 (created); tme.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HFH8 (FOXF1A)
+XX
+DE  HNF-3/Fkh Homolog-8
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00809; V$FOX_Q2;  (family).
+XX
+BF  T02464; FKHL5; Species: human, Homo sapiens; site(s) included: no.
+BF  T11108; FKHL5; Species: human, Homo sapiens; site(s) included: no.
+BF  T18668; FKHL5; Species: Mammalia; site(s) included: yes.
+BF  T02461; FKHL5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11166; FKHL5; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     13     18     11      6      N
+02     16      8     11     13      N
+03     13      4     10     21      N
+04      0      0      0     48      T
+05      7      0     41      0      G
+06      0      0      0     48      T
+07      0      0      0     48      T
+08      0      0      0     48      T
+09     39      0      9      0      A
+10      0      6      0     42      T
+11     20      1     11     16      N
+12      5     14      1     28      T
+13     18      4     22      4      R
+XX
+BA  48 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant HFH8 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0006911.
+RX  PUBMED: 9486531.
+RA  Peterson R. S., Linn L., Ye H., Zhou H., Overdier D. G., Costa R. H.
+RT  The winged helix transcriptional activator HFH-8 is expressed in the mesoderm of the primitive streak stage of mouse embryos and its cellular derivatives
+RL  Mech. Dev. 69:53-69 (1997).
+XX
+//

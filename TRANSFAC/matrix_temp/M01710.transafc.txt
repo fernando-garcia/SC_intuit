@@ -1,0 +1,47 @@
+AC  M01710
+XX
+ID  F$AMT1_Q2
+XX
+DT  26.04.2010 (created); dtc.
+DT  30.04.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AMT1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00925; AMT1; Species: yeast, Candida glabrata; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0      0      7      T
+02      0      9      0      0      C
+03      9      0      0      0      A
+04      0      0      9      0      G
+05      0      9      0      0      C
+06      2      2      2      3      N
+07      6      0      2      1      A
+08      7      0      0      2      A
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  tcagccaa; R03816; 14; 8;; n.
+BS  ACAGCAAT; R24172; 3; 8;; p.
+BS  TCAGCAAT; R24173; 2; 8;; p.
+BS  tcagccga; R24175; 3; 8;; n.
+BS  TCAGCGGA; R24176; 2; 8;; p.
+BS  ACAGCTTA; R24178; 5; 8;; p.
+BS  TCAGCGAA; R24179; 3; 8;; p.
+BS  tcagctaa; R24180; 8; 8;; n.
+BS  tcagctaa; R24181; 11; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

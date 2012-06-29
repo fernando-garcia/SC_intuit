@@ -1,0 +1,44 @@
+AC  M00208
+XX
+ID  V$NFKB_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  08.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-kappaB
+XX
+DE  NF-kappaB binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00774; V$NFKB_Q6_01;  (family).
+XX
+BF  T00590; NF-kappaB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00588; NF-kappaB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00587; NF-kappaB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00593; NF-kappaB1-p50; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00394; NF-kappaB2-p52; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   5.81   2.92   9.86   3.31      N
+02   0.00   0.00  22.49   0.00      G
+03   0.00   0.00  22.49   0.00      G
+04   0.00   0.00  22.49   0.00      G
+05  22.49   0.00   0.00   0.00      A
+06   4.03  12.56   0.00   5.31      C
+07   1.41   0.00   0.00  21.08      T
+08   0.00   5.94   0.00  16.55      T
+09   0.00   6.90   0.00  15.59      T
+10   1.21  20.68   0.00   0.00      C
+11   0.78  21.71   0.00   0.00      C
+12  13.10   4.81   2.60   1.98      A
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0.05, total weight of sequences: 22.49)
+XX
+//

@@ -1,0 +1,56 @@
+AC  M02455
+AS  MA0336
+XX
+ID  F$MGA1_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MGA1
+XX
+DE  class: Winged Helix-Turn-Helix; family: E2F
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03496; MGA1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    384     91    206    317      N
+02    305    124    376    194      N
+03    240    268    318    172      N
+04    367    171    306    154      N
+05    252    280    194    273      N
+06    116    204    230    448      N
+07    787      3    198     11      A
+08    192    110    166    531      T
+09    701    197     98      2      A
+10      5      2    989      2      G
+11    990      2      3      2      A
+12    990      2      2      5      A
+13     12    815     15    156      C
+14    844     39     82     32      A
+15     68    505     70    355      Y
+16    203    180    195    419      N
+17    301    353     84    260      N
+18    291    268     97    342      N
+19    441     70    229    257      N
+20    440    168    105    285      N
+21    342    295    216    144      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0336.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

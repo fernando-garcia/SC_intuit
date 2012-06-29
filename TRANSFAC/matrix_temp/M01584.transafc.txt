@@ -1,0 +1,41 @@
+AC  M01584
+XX
+ID  P$HY5_01
+XX
+DT  23.10.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HY5
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02812; HY5; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T10638; HY5; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     30     17     11     49      N
+02     10     32     42     23      N
+03     97      0      6      4      A
+04      3    100      2      2      C
+05      0      1    106      0      G
+06      1      0      0    106      T
+07      7      2     96      2      G
+08      1      0     95     11      G
+09     21     73      3     10      C
+10     18     23     43     23      N
+XX
+BA  107 sequences (ChIP-on-chip)
+XX
+CC  HY5 binding motif defined from ChIP-on-chip experiment with 4-d-old seedlings grown under Wc, FRc, Rc, or Bc light; confirmed by qPCR
+XX
+RN  [1]; RE0064506.
+RX  PUBMED: 17337630.
+RA  Lee J., He K., Stolc V., Lee H., Figueroa P., Gao Y., Tongprasit W., Zhao H., Lee I., Deng X. W.
+RT  Analysis of transcription factor HY5 genomic binding sites revealed its hierarchical role in light regulation of development.
+RL  Plant Cell 19:731-749 (2007).
+XX
+//

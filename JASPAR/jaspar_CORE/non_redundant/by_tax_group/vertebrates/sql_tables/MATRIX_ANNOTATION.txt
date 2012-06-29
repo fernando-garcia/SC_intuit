@@ -1,0 +1,891 @@
+9231	class	Zipper-Type
+9231	comment	-
+9231	family	Helix-Loop-Helix
+9231	medline	10497269
+9231	pazar_tf_id	TF0000002
+9231	tax_group	vertebrates
+9231	type	SELEX
+9232	class	Zipper-Type
+9232	comment	-
+9232	family	Helix-Loop-Helix
+9232	medline	7592839
+9232	pazar_tf_id	TF0000003
+9232	tax_group	vertebrates
+9232	type	SELEX
+9234	class	Zipper-Type
+9234	comment	dimer
+9234	family	Helix-Loop-Helix
+9234	medline	7592839
+9234	pazar_tf_id	TF0000004
+9234	tax_group	vertebrates
+9234	type	SELEX
+9235	class	Zinc-coordinating
+9235	comment	-
+9235	family	Hormone-nuclear Receptor
+9235	medline	1491700
+9235	pazar_tf_id	TF0000005
+9235	tax_group	vertebrates
+9235	type	SELEX
+9237	class	Beta-Hairpin-Ribbon
+9237	comment	-
+9237	family	T
+9237	medline	8344258
+9237	pazar_tf_id	TF0000006
+9237	tax_group	vertebrates
+9237	type	SELEX
+9242	class	Helix-Turn-Helix
+9242	comment	-
+9242	family	Homeo
+9242	medline	8406007
+9242	pazar_tf_id	TF0000011
+9242	tax_group	vertebrates
+9242	type	COMPILED
+9245	class	Zinc-coordinating
+9245	comment	-
+9245	family	Hormone-nuclear Receptor
+9245	medline	8496174
+9245	pazar_tf_id	TF0000012
+9245	tax_group	vertebrates
+9245	type	COMPILED
+9247	class	Zipper-Type
+9247	comment	dimer between Ddit3 and Cebpa
+9247	family	Leucine Zipper
+9247	medline	8657121
+9247	tax_group	vertebrates
+9247	type	SELEX
+9252	class	Winged Helix-Turn-Helix
+9252	comment	-
+9252	family	E2F
+9252	medline	1411535
+9252	pazar_tf_id	TF0000014
+9252	tax_group	vertebrates
+9252	type	COMPILED
+9253	class	Zipper-Type
+9253	comment	-
+9253	family	Leucine Zipper
+9253	medline	1620116
+9253	pazar_tf_id	TF0000015
+9253	tax_group	vertebrates
+9253	type	SELEX
+9255	class	Helix-Turn-Helix
+9255	comment	-
+9255	family	Homeo
+9255	medline	8096059
+9255	pazar_tf_id	TF0000016
+9255	tax_group	vertebrates
+9255	type	SELEX
+9256	class	Winged Helix-Turn-Helix
+9256	comment	-
+9256	family	Ets
+9256	medline	1425594
+9256	pazar_tf_id	TF0000017
+9256	tax_group	vertebrates
+9256	type	SELEX
+9257	class	Zinc-coordinating
+9257	comment	-
+9257	family	BetaBetaAlpha-zinc finger
+9257	medline	8321231
+9257	pazar_tf_id	TF0000018
+9257	tax_group	vertebrates
+9257	type	SELEX
+9258	class	Winged Helix-Turn-Helix
+9258	comment	-
+9258	family	Forkhead
+9258	medline	7957066
+9258	pazar_tf_id	TF0000019
+9258	tax_group	vertebrates
+9258	type	SELEX
+9259	class	Winged Helix-Turn-Helix
+9259	comment	-
+9259	family	Forkhead
+9259	medline	7957066
+9259	tax_group	vertebrates
+9259	type	SELEX
+9260	class	Winged Helix-Turn-Helix
+9260	comment	-
+9260	family	Forkhead
+9260	medline	7957066
+9260	pazar_tf_id	TF0000020
+9260	tax_group	vertebrates
+9260	type	SELEX
+9261	class	Winged Helix-Turn-Helix
+9261	comment	-
+9261	family	Forkhead
+9261	medline	7957066
+9261	pazar_tf_id	TF0000021
+9261	tax_group	vertebrates
+9261	type	SELEX
+9264	class	Zinc-coordinating
+9264	comment	-
+9264	family	GATA
+9264	medline	8321207
+9264	pazar_tf_id	TF0000023
+9264	tax_group	vertebrates
+9264	type	SELEX
+9265	class	Zinc-coordinating
+9265	comment	-
+9265	family	GATA
+9265	medline	8321207
+9265	pazar_tf_id	TF0000024
+9265	tax_group	vertebrates
+9265	type	SELEX
+9266	class	Zinc-coordinating
+9266	comment	-
+9266	family	BetaBetaAlpha-zinc finger
+9266	medline	8754800
+9266	pazar_tf_id	TF0000025
+9266	tax_group	vertebrates
+9266	type	SELEX
+9268	class	Winged Helix-Turn-Helix
+9268	comment	-
+9268	family	Forkhead
+9268	medline	8139574
+9268	tax_group	vertebrates
+9268	type	SELEX
+9269	class	Winged Helix-Turn-Helix
+9269	comment	-
+9269	family	Forkhead
+9269	medline	8139574
+9269	tax_group	vertebrates
+9269	type	SELEX
+9270	class	Winged Helix-Turn-Helix
+9270	comment	-
+9270	family	Forkhead
+9270	medline	9153225
+9270	pazar_tf_id	TF0000027
+9270	tax_group	vertebrates
+9270	type	SELEX
+9271	class	Zipper-Type
+9271	comment	-
+9271	family	Leucine Zipper
+9271	medline	8065331
+9271	pazar_tf_id	TF0000028
+9271	tax_group	vertebrates
+9271	type	SELEX
+9274	class	Helix-Turn-Helix
+9274	comment	-
+9274	family	Homeo
+9274	medline	9047360
+9274	tax_group	vertebrates
+9274	type	COMPILED
+9276	class	Zipper-Type
+9276	comment	-
+9276	family	Helix-Loop-Helix
+9276	medline	8289804
+9276	pazar_tf_id	TF0000030
+9276	tax_group	vertebrates
+9276	type	SELEX
+9278	class	Winged Helix-Turn-Helix
+9278	comment	-
+9278	family	IRF
+9278	medline	7687740
+9278	pazar_tf_id	TF0000032
+9278	tax_group	vertebrates
+9278	type	SELEX
+9279	class	Winged Helix-Turn-Helix
+9279	comment	-
+9279	family	IRF
+9279	medline	7687740
+9279	pazar_tf_id	TF0000033
+9279	tax_group	vertebrates
+9279	type	SELEX
+9280	class	Other Alpha-Helix
+9280	comment	-
+9280	family	MADS
+9280	medline	1748287
+9280	pazar_tf_id	TF0000034
+9280	tax_group	vertebrates
+9280	type	SELEX
+9283	class	Zipper-Type
+9283	comment	-
+9283	family	Helix-Loop-Helix
+9283	medline	9571041
+9283	tax_group	vertebrates
+9283	type	COMPILED
+9284	class	Zinc-coordinating
+9284	comment	-
+9284	family	BetaBetaAlpha-zinc finger
+9284	medline	8114711
+9284	pazar_tf_id	TF0000035
+9284	tax_group	vertebrates
+9284	type	SELEX
+9285	class	Zinc-coordinating
+9285	comment	-
+9285	family	BetaBetaAlpha-zinc finger
+9285	medline	8114711
+9285	pazar_tf_id	TF0000036
+9285	tax_group	vertebrates
+9285	type	SELEX
+9286	class	Zipper-Type
+9286	comment	-
+9286	family	Helix-Loop-Helix
+9286	medline	8265351
+9286	pazar_tf_id	TF0000037
+9286	tax_group	vertebrates
+9286	type	SELEX
+9287	class	Zipper-Type
+9287	comment	Heterodimer of MYC and MAX 
+9287	family	Helix-Loop-Helix
+9287	medline	8265351
+9287	pazar_tf_id	TF0000038
+9287	tax_group	vertebrates
+9287	type	SELEX
+9288	class	Other Alpha-Helix
+9288	comment	-
+9288	family	NFY CCAAT-binding
+9288	medline	9469818
+9288	tax_group	vertebrates
+9288	type	COMPILED
+9289	class	Ig-fold
+9289	comment	-
+9289	family	Rel
+9289	medline	8449662
+9289	tax_group	vertebrates
+9289	type	COMPILED
+9291	class	Helix-Turn-Helix
+9291	comment	-
+9291	family	Homeo
+9291	medline	7797561
+9291	pazar_tf_id	TF0000040
+9291	tax_group	vertebrates
+9291	type	SELEX
+9294	class	Zinc-coordinating
+9294	comment	-
+9294	family	Hormone-nuclear Receptor
+9294	medline	11139380
+9294	pazar_tf_id	TF0000042
+9294	tax_group	vertebrates
+9294	type	SELEX
+9295	class	Helix-Turn-Helix
+9295	comment	-
+9295	family	Homeo
+9295	medline	8132558
+9295	pazar_tf_id	TF0000043
+9295	tax_group	vertebrates
+9295	type	SELEX
+9296	class	Helix-Turn-Helix
+9296	comment	-
+9296	family	Homeo
+9296	medline	10567552
+9296	pazar_tf_id	TF0000044
+9296	tax_group	vertebrates
+9296	type	SELEX
+9297	class	Helix-Turn-Helix
+9297	comment	-
+9297	family	Homeo
+9297	medline	8132558
+9297	pazar_tf_id	TF0000045
+9297	tax_group	vertebrates
+9297	type	SELEX
+9298	class	Helix-Turn-Helix
+9298	comment	-
+9298	family	Homeo
+9298	medline	7910944
+9298	pazar_tf_id	TF0000046
+9298	tax_group	vertebrates
+9298	type	SELEX
+9299	class	Zinc-coordinating
+9299	comment	isoform type
+9299	family	Hormone-nuclear Receptor
+9299	medline	7926749
+9299	pazar_tf_id	TF0000047
+9299	tax_group	vertebrates
+9299	type	SELEX
+9300	class	Zinc-coordinating
+9300	comment	isoform type
+9300	family	Hormone-nuclear Receptor
+9300	medline	7926749
+9300	pazar_tf_id	TF0000048
+9300	tax_group	vertebrates
+9300	type	SELEX
+9301	class	Zinc-coordinating
+9301	comment	-
+9301	family	BetaBetaAlpha-zinc finger
+9301	medline	8816445
+9301	pazar_tf_id	TF0000049
+9301	tax_group	vertebrates
+9301	type	SELEX
+9302	class	Zinc-coordinating
+9302	comment	heterodimer between RXRA and VDR
+9302	family	Hormone-nuclear Receptor
+9302	medline	8674817
+9302	pazar_tf_id	TF0000050
+9302	tax_group	vertebrates
+9302	type	SELEX
+9303	class	Helix-Turn-Helix
+9303	comment	-
+9303	family	Homeo
+9303	medline	7901837
+9303	pazar_tf_id	TF0000051
+9303	tax_group	vertebrates
+9303	type	SELEX
+9304	class	Winged Helix-Turn-Helix
+9304	comment	-
+9304	family	Ets
+9304	medline	8524663
+9304	pazar_tf_id	TF0000052
+9304	tax_group	vertebrates
+9304	type	SELEX
+9305	class	Other Alpha-Helix
+9305	comment	-
+9305	family	High Mobility Group
+9305	medline	9973626
+9305	pazar_tf_id	TF0000053
+9305	tax_group	vertebrates
+9305	type	SELEX
+9306	class	Other Alpha-Helix
+9306	comment	-
+9306	family	High Mobility Group
+9306	medline	8636240
+9306	pazar_tf_id	TF0000054
+9306	tax_group	vertebrates
+9306	type	SELEX
+9309	class	Winged Helix-Turn-Helix
+9309	comment	-
+9309	family	Ets
+9309	medline	7624145
+9309	pazar_tf_id	TF0000057
+9309	tax_group	vertebrates
+9309	type	SELEX
+9311	class	Other Alpha-Helix
+9311	comment	-
+9311	family	MADS
+9311	medline	2243767
+9311	pazar_tf_id	TF0000058
+9311	tax_group	vertebrates
+9311	type	SELEX
+9312	class	Other Alpha-Helix
+9312	comment	-
+9312	family	High Mobility Group
+9312	medline	8190643
+9312	pazar_tf_id	TF0000059
+9312	tax_group	vertebrates
+9312	type	SELEX
+9315	class	Other Alpha-Helix
+9315	comment	-
+9315	family	High Mobility Group
+9315	medline	1396566
+9315	pazar_tf_id	TF0000062
+9315	tax_group	vertebrates
+9315	type	SELEX
+9316	class	Zinc-coordinating
+9316	comment	-
+9316	family	BetaBetaAlpha-zinc finger
+9316	medline	9009278
+9316	tax_group	vertebrates
+9316	type	COMPILED
+9317	class	Zipper-Type
+9317	comment	Heterodimer between TCF11 and Mafg
+9317	family	Leucine Zipper
+9317	medline	9421508
+9317	pazar_tf_id	TF0000063
+9317	tax_group	vertebrates
+9317	type	SELEX
+9318	class	Helix-Turn-Helix
+9318	comment	-
+9318	family	Homeo
+9318	medline	9571041
+9318	pazar_tf_id	TF0000064
+9318	tax_group	vertebrates
+9318	type	COMPILED
+9319	class	Zipper-Type
+9319	comment	Heterodimer between TAL1 and TCF3
+9319	family	Helix-Loop-Helix
+9319	medline	8289805
+9319	pazar_tf_id	TF0000065
+9319	tax_group	vertebrates
+9319	type	SELEX
+9320	class	Zipper-Type
+9320	comment	-
+9320	family	Helix-Loop-Helix
+9320	medline	7791788
+9320	pazar_tf_id	TF0000066
+9320	tax_group	vertebrates
+9320	type	SELEX
+9321	class	Zipper-Type
+9321	comment	-
+9321	family	Helix-Loop-Helix
+9321	medline	8052536
+9321	pazar_tf_id	TF0000067
+9321	tax_group	vertebrates
+9321	type	SELEX
+9323	class	Zinc-coordinating
+9323	comment	-
+9323	family	BetaBetaAlpha-zinc finger
+9323	medline	7816599
+9323	pazar_tf_id	TF0000069
+9323	tax_group	vertebrates
+9323	type	COMPILED
+9326	class	Winged Helix-Turn-Helix
+9326	comment	-
+9326	family	Ets
+9326	medline	1542566
+9326	pazar_tf_id	TF0000070
+9326	tax_group	vertebrates
+9326	type	SELEX
+9328	class	Helix-Turn-Helix
+9328	comment	-
+9328	family	Myb
+9328	medline	1861984
+9328	pazar_tf_id	TF0000072
+9328	tax_group	vertebrates
+9328	type	SELEX
+9329	class	Ig-fold
+9329	comment	-
+9329	family	Rel
+9329	medline	1406630
+9329	pazar_tf_id	TF0000073
+9329	tax_group	vertebrates
+9329	type	SELEX
+9331	class	Zinc-coordinating
+9331	comment	-
+9331	family	BetaBetaAlpha-zinc finger
+9331	medline	8065305
+9331	pazar_tf_id	TF0000074
+9331	tax_group	vertebrates
+9331	type	SELEX
+9333	class	Ig-fold
+9333	comment	-
+9333	family	Rel
+9333	medline	1406630
+9333	pazar_tf_id	TF0000076
+9333	tax_group	vertebrates
+9333	type	SELEX
+9334	class	Zinc-coordinating
+9334	comment	-
+9334	family	Loop-Sheet-Helix
+9334	medline	1588974
+9334	pazar_tf_id	TF0000077
+9334	tax_group	vertebrates
+9334	type	SELEX
+9335	class	Ig-fold
+9335	comment	-
+9335	family	Rel
+9335	medline	1406630
+9335	pazar_tf_id	TF0000078
+9335	tax_group	vertebrates
+9335	type	SELEX
+9337	class	Beta-sheet
+9337	comment	column 7 error fixed in version 2 
+9337	family	TATA-binding
+9337	medline	2329577
+9337	tax_group	vertebrates
+9338	class	Zinc-coordinating
+9338	comment	updated matrix sincle last release
+9338	family	GATA
+9338	medline	12198246
+9338	tax_group	vertebrates
+9338	type	SELEX
+9340	class	Other
+9340	comment	-
+9340	family	Other
+9340	medline	11165476
+9340	pazar_tf_id	TF0000079
+9340	tax_group	vertebrates
+9340	type	SELEX
+9342	class	Zinc-coordinating
+9342	comment	-
+9342	family	Hormone-nuclear Receptor
+9342	medline	15563547
+9342	tax_group	vertebrates
+9342	type	COMPILED
+9343	class	Zinc-coordinating
+9343	comment	-
+9343	family	Hormone-nuclear Receptor
+9343	medline	12385991
+9343	tax_group	vertebrates
+9343	type	COMPILED
+9344	class	Zinc-coordinating
+9344	comment	heterodimer between NR1H2 and RXR
+9344	family	Hormone-nuclear Receptor
+9344	medline	10187832
+9344	pazar_tf_id	TF0000080
+9344	tax_group	vertebrates
+9344	type	SELEX
+9345	class	Zinc-coordinating
+9345	comment	-
+9345	family	BetaBetaAlpha-zinc finger
+9345	medline	9774661
+9345	pazar_tf_id	TF0000081
+9345	tax_group	vertebrates
+9345	type	SELEX
+9346	class	Zipper-Type
+9346	comment	-
+9346	family	Leucine Zipper
+9346	medline	9571165
+9346	pazar_tf_id	TF0000082
+9346	tax_group	vertebrates
+9346	type	SELEX
+9348	class	Helix-Turn-Helix::Other
+9348	comment	heterodimer between TLX1 and NFIC
+9348	family	Homeo::Nuclear Factor I-CCAAT-binding
+9348	medline	10327073
+9348	pazar_tf_id	TF0000083
+9348	tax_group	vertebrates
+9348	type	SELEX
+9351	class	Helix-Turn-Helix
+9351	comment	-
+9351	family	Homeo
+9351	medline	12746429
+9351	pazar_tf_id	TF0000084
+9351	tax_group	vertebrates
+9351	type	SELEX
+9353	class	Helix-Turn-Helix
+9353	comment	-
+9353	family	Homeo
+9353	medline	10871372
+9353	pazar_tf_id	TF0000819
+9353	tax_group	vertebrates
+9353	type	SELEX
+9354	class	Helix-Turn-Helix
+9354	comment	-
+9354	family	Homeo
+9354	medline	16997917
+9354	pazar_tf_id	TF0000820
+9354	tax_group	vertebrates
+9354	type	SELEX
+9359	class	Zinc-coordinating
+9359	comment	-
+9359	family	BetaBetaAlpha-zinc finger
+9359	medline	15555547
+9359	pazar_tf_id	TF0000822
+9359	tax_group	vertebrates
+9359	type	SELEX
+9360	class	Zinc-coordinating
+9360	comment	-
+9360	family	BetaBetaAlpha-zinc finger
+9360	medline	14752047
+9360	pazar_tf_id	TF0000823
+9360	tax_group	vertebrates
+9360	type	SELEX
+9361	class	Helix-Turn-Helix
+9361	comment	-
+9361	family	Homeo
+9361	medline	14704343
+9361	pazar_tf_id	TF0000824
+9361	tax_group	vertebrates
+9361	type	SELEX
+9362	class	Other
+9362	comment	Multi-protein complex
+9362	family	Other
+9362	medline	14502648
+9362	pazar_tf_id	TF0000825
+9362	tax_group	vertebrates
+9362	type	SELEX
+9363	class	Helix-Turn-Helix
+9363	comment	-
+9363	family	Homeo
+9363	medline	11602361
+9363	pazar_tf_id	TF0000827
+9363	tax_group	vertebrates
+9363	type	SELEX
+9364	class	Winged Helix-Turn-Helix
+9364	comment	-
+9364	family	Ets
+9364	medline	16704374
+9364	pazar_tf_id	TF0000828
+9364	tax_group	vertebrates
+9364	type	SELEX
+9367	class	Zinc-coordinating 
+9367	comment	-
+9367	family	BetaBetaAlpha-zinc finger
+9367	medline	17512414 
+9367	pazar_tf_id	TF0000607
+9367	tax_group	vertebrates
+9367	type	ChiP-seq
+9368	class	Zipper-Type 
+9368	comment	Heterodimer between TAL1 and GATA1. Data is from Frank Grosveld's Lab.
+9368	family	Helix-Loop-Helix
+9368	medline	-
+9368	pazar_tf_id	TF0000022
+9368	tax_group	vertebrates
+9368	type	ChiP-seq
+9369	class	Zinc-coordinating      
+9369	comment	-
+9369	family	Hormone-nuclear Receptor
+9369	medline	18555785           
+9369	pazar_tf_id	-
+9369	tax_group	vertebrates
+9369	type	ChiP-seq
+9370	class	Helix-Turn-Helix
+9370	comment	-
+9370	family	Homeo
+9370	medline	18555785
+9370	pazar_tf_id	-
+9370	tax_group	vertebrates
+9370	type	Chip-seq
+9371	class	Other Alpha-Helix
+9371	comment	-
+9371	family	High Mobility Group
+9371	medline	18555785
+9371	pazar_tf_id	TF0000779
+9371	tax_group	vertebrates
+9371	type	ChiP-seq
+9372	class	Ig-fold
+9372	comment	-
+9372	family	Stat
+9372	medline	18555785 
+9372	pazar_tf_id	TF0000492
+9372	tax_group	vertebrates
+9372	type	ChiP-seq
+9373	class	Other
+9373	comment	-
+9373	family	CP2
+9373	medline	18555785 
+9373	pazar_tf_id	-
+9373	tax_group	vertebrates
+9373	type	ChiP-seq
+9374	class	Zinc-coordinating
+9374	comment	-
+9374	family	BetaBetaAlpha-zinc finger
+9374	medline	18555785
+9374	pazar_tf_id	-
+9374	tax_group	vertebrates
+9374	type	ChiP-seq
+9375	class	Zipper-Type
+9375	comment	-
+9375	family	Helix-Loop-Helix
+9375	medline	18555785
+9375	pazar_tf_id	TF0000420
+9375	tax_group	vertebrates
+9375	type	ChiP-seq
+9376	class	Winged Helix-Turn-Helix
+9376	comment	-
+9376	family	Forkhead
+9376	medline	18798982
+9376	pazar_tf_id	TF0000263
+9376	tax_group	vertebrates
+9376	type	ChiP-Seq
+9377	class	Winged Helix-Turn-Helix
+9377	comment	fusion protein between EWSR1 and FLI1 in an oncogenic event.
+9377	family	Ets
+9377	medline	19305498
+9377	pazar_tf_id	TF0000660
+9377	tax_group	vertebrates
+9377	type	ChiP-seq
+9378	class	Winged Helix-Turn-Helix
+9378	comment	-
+9378	family	Ets
+9378	medline	19160518  
+9378	pazar_tf_id	TF0000039
+9378	tax_group	vertebrates
+9378	type	ChiP-seq
+9379	class	Zinc-coordinating 
+9379	comment	Data is from Frank Grosveld's Lab. 
+9379	family	GATA
+9379	medline	-
+9379	pazar_tf_id	TF0000022
+9379	tax_group	vertebrates
+9379	type	ChiP-seq
+9380	class	Zinc-coordinating
+9380	comment	- 
+9380	family	BetaBetaAlpha-zinc finger
+9380	medline	18555785 
+9380	pazar_tf_id	TF0000026
+9380	tax_group	vertebrates
+9380	type	ChiP-seq
+9381	class	Zinc-coordinating
+9381	comment	-
+9381	family	BetaBetaAlpha-zinc finger
+9381	medline	17540862 
+9381	pazar_tf_id	TF0000830
+9381	tax_group	vertebrates
+9381	type	Chip-seq
+9382	class	Ig-fold
+9382	comment	Data is from Frank Grosveld's Lab.
+9382	family	Runt
+9382	medline	-
+9382	pazar_tf_id	TF0000001
+9382	tax_group	vertebrates
+9382	type	ChiP-seq
+9383	class	Ig-fold
+9383	comment	-
+9383	family	Stat
+9383	medline	17558387
+9383	pazar_tf_id	TF0000829
+9383	tax_group	vertebrates
+9383	type	ChiP-seq
+9384	class	Zipper-Type
+9384	comment	-
+9384	family	Helix-Loop-Helix
+9384	medline	18555785
+9384	pazar_tf_id	TF0000075
+9384	tax_group	vertebrates
+9384	type	ChiP-Seq
+9385	class	Winged Helix-Turn-Helix
+9385	comment	-
+9385	family	Forkhead
+9385	medline	19553195 
+9385	pazar_tf_id	TF0000029
+9385	tax_group	vertebrates
+9385	type	ChiP-seq
+9386	class	Zinc-coordinating
+9386	comment	-
+9386	family	Hormone-nuclear Receptor
+9386	medline	19339991
+9386	pazar_tf_id	TF0000189
+9386	tax_group	vertebrates
+9386	type	ChiP-seq
+9387	class	Zinc-coordinating
+9387	comment	Heterodimer between PPARG and RXRA
+9387	family	Hormone-nuclear Receptor
+9387	medline	18981474
+9387	pazar_tf_id	
+9387	tax_group	vertebrates
+9387	type	ChiP-seq
+9388	class	Zipper-Type
+9388	comment	Annotations from PAZAR NFE2L2(NRF2) in the AREs project (TF0000699).
+9388	family	Leucine Zipper
+9388	medline	17916232
+9388	pazar_tf_id	TF0000699
+9388	tax_group	vertebrates
+9388	type	COMPILED
+9389	class	Helix-Turn-Helix
+9389	comment	Annotations from PAZAR ARID3A_MOUSE in the TFe project (TF0000816).
+9389	family	Arid
+9389	medline	8543152
+9389	pazar_tf_id	TF0000816
+9389	tax_group	vertebrates
+9389	type	SELEX
+9390	class	Ig-fold
+9390	comment	Annotations from PAZAR NFAT1_MOUSE + NFAT1_HUMAN + NFAT1_RAT (TF0000191, TF0000193, TF0000195) in the pleiades genes project.
+9390	family	Rel
+9390	medline	17916232
+9390	pazar_tf_id	TF0000193
+9390	tax_group	vertebrates
+9390	type	COMPILED
+9391	class	Helix-Turn-Helix
+9391	comment	Annotations from PAZAR HNF1B_HUMAN + HNF1B_MOUSE (TF0000780, TF0000782) in the TFe project.
+9391	family	Homeo
+9391	medline	17916232
+9391	pazar_tf_id	TF0000780
+9391	tax_group	vertebrates
+9391	type	COMPILED
+9392	class	Zipper-Type
+9392	comment	Annotations from PAZAR EBF1_MOUSE (TF0000762) in the Olf_Ebf_TFBS project.
+9392	family	Helix-Loop-Helix
+9392	medline	17916232
+9392	pazar_tf_id	TF0000762
+9392	tax_group	vertebrates
+9392	type	COMPILED
+9393	class	Zinc-coordinating
+9393	comment	Annotations from PAZAR INSM1_HUMAN (TF0000773) in the TFe project.
+9393	family	BetaBetaAlpha-zinc finger
+9393	medline	17916232
+9393	pazar_tf_id	TF0000773
+9393	tax_group	vertebrates
+9393	type	COMPILED
+9394	class	Winged Helix-Turn-Helix
+9394	comment	Annotations from PAZAR FEV_RAT + FEV_HUMAN (TF0000158, TF0000163) in the pleiades genes project.
+9394	family	Ets
+9394	medline	17916232
+9394	pazar_tf_id	TF0000163
+9394	tax_group	vertebrates
+9394	type	COMPILED
+9395	class	Winged Helix-Turn-Helix
+9395	comment	Annotations from PAZAR FOXO3_MOUSE + FOXO3_HUMAN (TF0000811, TF0000812) in the TFe project.
+9395	family	Forkhead
+9395	medline	17916232
+9395	pazar_tf_id	-
+9395	tax_group	vertebrates
+9395	type	COMPILED
+9396	class	Helix-Turn-Helix
+9396	comment	Annotations from PAZAR HOXA5_MOUSE + HOXA5_HUMAN (TF0000293, TF0000501) in the pleiades genes project.
+9396	family	Homeo
+9396	medline	17916232
+9396	pazar_tf_id	TF0000501
+9396	tax_group	vertebrates
+9396	type	COMPILED
+9397	class	Zinc-coordinating
+9397	comment	Dimer. Annotations from PAZAR RXR/RAR_HUMAN (TF0000788) in the RARE project.
+9397	family	Hormone-nuclear Receptor
+9397	medline	17916232
+9397	pazar_tf_id	TF0000788
+9397	tax_group	vertebrates
+9397	type	COMPILED
+9398	class	Zinc-coordinating
+9398	comment	Annotations from PAZAR NR4A2_MOUSE + NR4A2_RAT + NR4A2_HUMAN (TF0000135, TF0000153, TF0000157) in the pleiades genes project.
+9398	family	Hormone-nuclear Receptor
+9398	medline	17916232
+9398	pazar_tf_id	TF0000135
+9398	tax_group	vertebrates
+9398	type	COMPILED
+9399	class	Other
+9399	comment	Half-site reported based on MEME analysis of SELEX sequences
+9399	family	NFI CCAAT-binding
+9399	medline	12101405
+9399	pazar_tf_id	TF0000368
+9399	tax_group	vertebrates
+9399	type	High-throughput SELEX SAGE
+9400	class	Zinc-coordinating
+9400	comment	aka Zif268
+9400	family	BetaBetaAlpha-zinc finger
+9400	medline	16041365
+9400	pazar_tf_id	TF0000345
+9400	tax_group	vertebrates
+9400	type	bacterial 1-hybrid
+9401	class	Zinc-coordinating
+9401	family	BetaBetaAlpha-zinc finger
+9401	medline	16041365
+9401	pazar_tf_id	-
+9401	tax_group	vertebrates
+9401	type	bacterial 1-hybrid
+9402	class	Zinc-coordinating
+9402	family	Hormone-nuclear Receptor
+9402	medline	15634773
+9402	pazar_tf_id	-
+9402	tax_group	vertebrates
+9402	type	SELEX
+9403	class	Winged Helix-Turn-Helix
+9403	comment	Annotations from PAZAR PU.1 in the pleiades genes project (TF0000134).
+9403	family	Ets
+9403	medline	17916232 
+9403	pazar_tf_id	TF0000056
+9403	tax_group	vertebrates
+9403	type	COMPILED
+9404	class	Zipper-Type
+9404	comment	Annotations from PAZAR CREB1_RAT + CREB1_HUMAN + CREB1_MOUSE in the pleiades genes project (TF0000110, TF0000150, TF0000732).
+9404	family	Leucine Zipper
+9404	medline	17916232 
+9404	pazar_tf_id	TF0000013
+9404	tax_group	vertebrates
+9404	type	COMPILED
+9405	class	Zipper-Type
+9405	comment	Dimer. Annotations from PAZAR C-JUN + JUN_RAT + JUN_MOUSE + JUN_HUMAN + FOS/JUN_HUMAN + FOS_HUMAN in the pleiades genes project (TF0000129, TF0000147, TF0000234, TF0000243, TF0000670, TF0000287).
+9405	family	Leucine Zipper
+9405	medline	17916232
+9405	pazar_tf_id	TF0000071
+9405	tax_group	vertebrates
+9405	type	COMPILED
+9406	class	Zinc-coordinating
+9406	comment	Annotations from PAZAR SP1 + SP1_MOUSE + SP1_HUMAN + SP1_RAT in the pleiades genes project (TF0000105, TF0000121, TF0000137, TF0000146).
+9406	family	BetaBetaAlpha-zinc finger
+9406	medline	17916232
+9406	pazar_tf_id	TF0000055
+9406	tax_group	vertebrates
+9406	type	COMPILED
+9407	class	Zipper-Type
+9407	comment	last 3 nt removed
+9407	family	Leucine Zipper
+9407	medline	1672737
+9407	tax_group	vertebrates
+9407	type	COMPILED
+9502	class	Zinc-coordinating
+9502	comment	-
+9502	family	Hormone-nuclear Receptor
+9502	medline	18272478
+9502	tax_group	vertebrates
+9502	type	ChIP-chip
+9503	class	Zipper-Type
+9503	comment	dimer between HIF1A and ARNT
+9503	family	Helix-Loop-Helix
+9503	medline	16234508
+9503	tax_group	vertebrates
+9503	type	COMPILED
+10526	class	Other Alpha-Helix
+10526	comment	Annotations from PAZAR SOX10_RAT + SOX10_HUMAN + SOX10_MOUSE (TF0000223, TF0000224, TF0000226) in the pleiades genes project.
+10526	family	High Mobility Group
+10526	medline	17916232
+10526	pazar_tf_id	TF0000224
+10526	tax_group	vertebrates
+10526	type	COMPILED

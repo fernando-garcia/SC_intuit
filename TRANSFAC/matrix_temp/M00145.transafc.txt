@@ -1,0 +1,70 @@
+AC  M00145
+XX
+ID  V$BRN2_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Brn-2
+XX
+DE  POU factor Brn-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T00630; POU3F2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09598; POU3F2; Species: human, Homo sapiens; site(s) included: no.
+BF  T01873; POU3F2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10030; POU3F2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01524; POU3F2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10040; POU3F2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00632; POU3F2 (N-Oct-5a); Species: human, Homo sapiens; site(s) included: no.
+BF  T00633; POU3F2 (N-Oct-5b); Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      2      3      4      3      N
+02      2      4      2      4      N
+03      1      9      1      1      C
+04     11      0      0      1      A
+05      1      0      0     11      T
+06      1      3      3      3      N
+07      1      5      3      1      S
+08      2      0      2      1      R
+09      6      0      0      6      W
+10     12      0      0      0      A
+11     12      0      0      0      A
+12      1      0      0     11      T
+13      4      2      5      1      N
+14      6      4      1      1      M
+15      5      0      5      2      R
+16      2      5      1      4      N
+XX
+BA  12 sequences (compiled matrix imported from literature reference)
+XX
+BS  GTCAATT AAATTTAT; R07241; 1; 16; 8; p.
+BS  GTAATCG TAAAGATC; R07242; 1; 16; 8; p.
+BS  TGCATAAATAATAGGC; R07243; 1; 16;; p.
+BS  GCGAT   TAATAAGC; R07244; 1; 16; 6,7,8; p.
+BS  CACTTGGATAATAAGC; R07245; 1; 16;; p.
+BS  ACCATTC TAATACGC; R07246; 1; 16; 8; p.
+BS  CGCATGC TAATGATA; R07247; 1; 16; 8; p.
+BS  AATATGC AAATCAGG; R07248; 1; 16; 8; p.
+BS  GTCAT   AAATCAAA; R07249; 1; 16; 6,7,8; p.
+BS  CCCATTCGAAATGCAT; R07250; 1; 16;; p.
+BS  TTCATCGGAAATGCAT; R07251; 1; 16;; p.
+BS  TCCATCCTAAATGCAT; R07252; 1; 16;; p.
+XX
+CC  binding sites from 9 vertebral and insect genes
+XX
+RN  [1]; RE0003117.
+RX  PUBMED: 8276233.
+RA  Li P., He X., Gerrero M. R., Mok M., Aggarwal A., Rosenfeld M. G.
+RT  Spacing and orientation of bipartite DNA-binding motifs as potential functional determinants for POU domain factors
+RL  Genes Dev. 7:2483-2496 (1993).
+XX
+//

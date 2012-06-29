@@ -1,0 +1,71 @@
+AC  M00727
+XX
+ID  V$SF1_Q6
+XX
+DT  02.06.2002 (created); ela.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04014; SF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T10285; SF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04016; SF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04015; SF-1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T10224; SF-1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T04018; SF-1; Species: frog, Rana rugosa; site(s) included: yes.
+BF  T02769; SF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09467; SF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10138; SF-1; Species: Mammalia; site(s) included: no.
+BF  T04017; SF-1; Species: medaka, Oryzias latipes; site(s) included: yes.
+BF  T08551; SF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04002; SF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09914; SF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04069; SF-1; Species: turtle, Trachemys scripta; site(s) included: yes.
+BF  T04065; SF-1; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T08507; SF-1; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T18295; SF1; Species: horse, Equus caballus; site(s) included: yes.
+BF  T18296; SF1; Species: horse, Equus caballus; site(s) included: yes.
+BF  T09519; SF1- isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01147; SF1- isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00251; SF1-Xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      1      7      T
+02      2      0      5      1      G
+03      6      0      2      0      R
+04      0      8      0      0      C
+05      0      8      0      0      C
+06      0      0      0      8      T
+07      0      0      0      8      T
+08      0      0      8      0      G
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGACCTTG; R01790; 1; 8;; n.
+BS  TAGCCTTG; R02343; 5; 8;; p.
+BS  GGACCTTG; R09689; 9; 8;; n.
+BS  TTACCTTG; R09693; 2; 8;; n.
+BS  TAACCTTG; R09694; 1; 8;; p.
+BS  TGACCTTG; C00213,  s00356; 1; 8;; p.
+BS  TGGCCTTG; C00214,  s00358; 1; 8;; p.
+BS  TGACCTTG; C00220,  s00369; 2; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; includes 3 TRANSCompel sites
+XX
+PV  M00727; V$SF1_Q6.
+RN  [1]; RE0023232.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0002 (2003).
+RN  [2]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

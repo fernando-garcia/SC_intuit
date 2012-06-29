@@ -1,0 +1,100 @@
+AC  M01070
+XX
+ID  V$CMAF_01
+XX
+DT  26.09.2005 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Maf
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T02201; c-MAF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05749; c-MAF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18005; c-MAF; Species: Mammalia; site(s) included: yes.
+BF  T01432; c-MAF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09212; c-MAF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05753; c-MAF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14842; c-MAF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09648; c-MAF-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19051; c-MAF-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01431; c-MAF-LONG; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11433; c-MAF-SHORT; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01463; mammary activating factor; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      5     14     10      N
+02     15      4      5     13      W
+03     11      5      6     15      N
+04     12      7      3     15      N
+05      6      4     12     15      N
+06      3      2      0     32      T
+07      1      2     34      0      G
+08      3     33      0      1      C
+09      3      2      2     30      T
+10      2      1     33      1      G
+11     32      0      2      3      A
+12      2     23      5      7      C
+13      6      2     16     13      K
+14      4     15      7     11      N
+15     10      5     12     10      N
+16     10      3     14     10      N
+17      9     14      6      8      N
+18      7      5     10     15      N
+19     14      7      9      7      N
+XX
+BA  37 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  tttttTGCTGACcgtgcaa; R18191; 17; 19;; p.
+BS  gacatTGCTGACgctctta; R18192; 17; 19;; p.
+BS  gacatTGCTGACacagccg; R18193; 17; 19;; p.
+BS  aaactTGCTGACgcgaatg; R18194; 17; 19;; p.
+BS  ttagtTGCTGACactagct; R18195; 17; 19;; p.
+BS  tggctTGCTGACacagctc; R18196; 17; 19;; p.
+BS  gcgagTGCTGACtggccgt; R18197; 17; 19;; p.
+BS  tgaaaTGCTGAtgccttca; R18198; 17; 19;; p.
+BS  gtgttTGCTGAttggtata; R18199; 17; 19;; p.
+BS  gctatTGCTGAgtcgtctt; R18200; 17; 19;; p.
+BS  gatctTGCTGAaaagaatg; R18201; 17; 19;; p.
+BS  ttaccTGCTGAttaaacac; R18202; 17; 19;; p.
+BS  aaatgTGCTGAgttgatat; R18203; 17; 19;; p.
+BS  tttagTGCTGAgtcgatgg; R18204; 17; 19;; p.
+BS  tggaaTGCcGACgttgata; R18205; 17; 19;; p.
+BS  gaaaaTGCaGACgtacggt; R18206; 17; 19;; p.
+BS  atttgTGaTGACaggtcta; R18207; 17; 19;; p.
+BS  taaaaTGaTGACgttgata; R18208; 17; 19;; p.
+BS  cattcTGaTGACaatgcgc; R18209; 17; 19;; p.
+BS  ggatgTcCTGACtcgtgaa; R18210; 17; 19;; p.
+BS  attttTaCTGACctagcaa; R18211; 17; 19;; p.
+BS  gagtaaGCTGACgctgcgg; R18212; 17; 19;; p.
+BS  gaagtaGCTGACgcatcgt; R18213; 17; 19;; p.
+BS  acattaGCTGACgcttcac; R18214; 17; 19;; p.
+BS  tattgcGCTGACgttgata; R18215; 17; 19;; p.
+BS  cattgTGCTGttgtagcga; R18216; 17; 19;; p.
+BS  gttccTGCTGtttggttgc; R18217; 17; 19;; p.
+BS  ctgaaTGCTGtatcagttg; R18218; 17; 19;; p.
+BS  gacgtTGCTaAtgtcgttg; R18219; 17; 19;; p.
+BS  aaccgTGCatACgcagcgc; R18220; 17; 19;; p.
+BS  gttttTGCgcACtacagca; R18221; 17; 19;; p.
+BS  gattgTGCgaACgttgata; R18222; 17; 19;; p.
+BS  attcgTGCcGgCgcatgca; R18223; 17; 19;; p.
+BS  cccagTGCaGgCggcaatg; R18224; 17; 19;; p.
+BS  atttgTGtTGAgttgatat; R18225; 17; 19;; p.
+BS  ttttcTcCTGAgttcaggg; R18226; 17; 19;; p.
+BS  cgaatcGCTGAttggtatc; R18227; 17; 19;; p.
+XX
+CC  sequences selected with recombinant c-Maf from a pool of double-stranded oligonucleotides containing a core of 5 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0035535.
+RX  PUBMED: 15972792.
+RA  Yoshida T., Ohkumo T., Ishibashi S., Yasuda K.
+RT  The 5'-AT-rich half-site of Maf recognition element: a functional target for bZIP transcription factor Maf.
+RL  Nucleic Acids Res. 33:3465-3478 (2005).
+XX
+//

@@ -1,0 +1,67 @@
+AC  M00024
+XX
+ID  V$E2F_01
+XX
+DT  04.12.1992 (created); ewi.
+DT  12.03.2002 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F
+XX
+DE  E2F
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00050; V$E2F_02; E2F (family).
+HP  M00803; V$E2F_Q2;  (family).
+HP  M00918; V$E2F_Q3_01;  (family).
+HP  M00919; V$E2F_Q4_01;  (family).
+HP  M00920; V$E2F_Q6_01;  (family).
+HP  M00939; V$E2F_Q4_02;  (family).
+XX
+BF  T02951; E2F-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T09329; E2F-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01542; E2F-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09117; E2F-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09570; E2F-1; Species: Mammalia; site(s) included: no.
+BF  T01543; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09126; E2F-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02952; E2F-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09988; E2F-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00221; E2F:DP; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      0      4      T
+02      2      1      0      2      W
+03      1      2      2      0      S
+04      0      1      4      0      G
+05      0      5      0      0      C
+06      0      0      5      0      G
+07      0      4      1      0      C
+08      0      0      5      0      G
+09      5      0      0      0      A
+10      5      0      0      0      A
+11      5      0      0      0      A
+12      5      0      0      0      A
+13      1      2      0      2      Y
+14      0      0      2      3      K
+15      2      0      3      0      R
+XX
+BA  5 sequences (compiled matrix imported from literature reference)
+XX
+BS  TTGGCGGGAAAAAGA; R05457; 12; 15;; p.
+BS  TAAGCGCGAAAACTA; R05458; 11; 15;; p.
+BS  ACCGCGCGAAAATTG; R05459; 1; 15;; p.
+BS  TTCCCGCGAAAATGG; R05460; 1; 15;; p.
+BS  TAGGCGCGAAAACTG; R05461; 1; 15;; p.
+XX
+RN  [1]; RE0000657.
+RX  PUBMED: 2721961.
+RA  Thalmeier K., Synovzik H., Mertz R., Winnacker E.-L., Lipp M.
+RT  Nuclear factor E2F mediates basic transcription and trans-activation by E1a of the human MYC promoter
+RL  Genes Dev. 3:527-536 (1989).
+XX
+//

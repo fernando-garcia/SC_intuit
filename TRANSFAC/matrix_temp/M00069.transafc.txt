@@ -1,0 +1,75 @@
+AC  M00069
+XX
+ID  V$YY1_02
+XX
+DT  13.04.1995 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YY1
+XX
+DE  Yin and Yang 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01214; NF-E; Species: human, Homo sapiens; site(s) included: no.
+BF  T14318; YY1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14319; YY1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00275; YY1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T17869; YY1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00915; YY1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08660; YY1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09133; YY1; Species: Mammalia; site(s) included: no.
+BF  T00278; YY1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10428; YY1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04970; YY1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08253; YY1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      2      4      2      3      N
+02      2      5      2      2      N
+03      2      2      4      3      N
+04      1      7      3      0      C
+05      1      2      6      2      G
+06      2      0      9      0      G
+07      0     11      0      0      C
+08      0     11      0      0      C
+09     11      0      0      0      A
+10      0      0      0     11      T
+11      0      8      2      1      C
+12      1      1      1      8      T
+13      2      0      2      7      T
+14      0      3      7      1      G
+15      2      2      4      3      N
+16      2      6      1      2      C
+17      1      1      1      8      T
+18      1      4      5      1      S
+19      2      4      3      2      N
+20      4      0      2      5      W
+XX
+BA  11 sequences (compiled matrix imported from literature reference)
+XX
+BS  GATCGGCCATCTTGACTCAA; R06105; 1; 20;; p.
+BS  GCCCGACCATTTTCTCTTCT; R06106; 1; 20;; p.
+BS  AATACGCCATGTACCCTGGA; R06107; 1; 20;; p.
+BS  CCCCGGCCATCTTGGCGGCT; R06108; 1; 20;; p.
+BS  TGGCTGCCATCTGTTTTACG; R06109; 1; 20;; p.
+BS  TGGCGGCCATCCGCCGCCTG; R06110; 1; 20;; p.
+BS  CTGGAACCATGGAGGCTGTT; R06111; 1; 20;; p.
+BS  CCGCTGCCATCATGGTTCGA; R06112; 1; 20;; p.
+BS  CCAGGGCCATCTTGAATGGA; R06113; 1; 20;; p.
+BS  ATTCGGCCATCTTGGCTCCT; R06114; 1; 20;; p.
+BS  TCAGCGCCATCTTGTAAGAT; R06115; 1; 20;; p.
+XX
+CC  activating binding sites from 8 cellular genes, 1 viral genome and 2 retrotransposon elements
+XX
+RN  [1]; RE0002938.
+RX  PUBMED: 7816599.
+RA  Shrivastava A., Calame K.
+RT  An analysis of genes regulated by the multi-functional transcriptional regulator Yin Yang-1
+RL  Nucleic Acids Res. 22:5151-5155 (1994).
+XX
+//

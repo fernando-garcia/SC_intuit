@@ -1,0 +1,103 @@
+AC  M00152
+XX
+ID  V$SRF_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SRF
+XX
+DE  serum response factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00762; SRF; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T18625; SRF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18626; SRF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00761; SRF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17868; SRF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00763; SRF; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T17840; SRF; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00764; SRF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09343; SRF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14063; SRF; Species: Mammalia; site(s) included: no.
+BF  T16471; SRF; Species: Mammalia; site(s) included: yes.
+BF  T05114; SRF; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00766; SRF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14064; SRF; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03997; SRF-I; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00765; SRF-L; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03995; SRF-M; Species: mouse, Mus musculus; site(s) included: no.
+BF  T03996; SRF-S; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     28      1      2      2      A
+02      1      0      0     32      T
+03      1      0     31      1      G
+04      7     25      0      1      C
+05      0     33      0      0      C
+06      0     33      0      0      C
+07     23      0      0     10      A
+08      2      0      0     31      T
+09     33      0      0      0      A
+10      0      0      0     33      T
+11     31      0      0      2      A
+12     10      0      0     23      T
+13      0      0     33      0      G
+14      0      0     33      0      G
+15     12      4      3     14      W
+16     13      9      8      3      N
+17     11      6      7      9      N
+18      1      4      8     20      T
+XX
+BA  33 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATGCCCATATATGGACTT; R07322; 17; 18;; p.
+BS  ATGCCCATATATGGCAAT; R07323; 12; 18;; p.
+BS  ATGCCCATATATGGCAAT; R07324; 12; 18;; p.
+BS  ATGCCCATATATGGTCAT; R07325; 19; 18;; p.
+BS  AAGCCCATATATGGTAGT; R07326; 18; 18;; p.
+BS  ATGCCCATATATGGACTT; R07327; 17; 18;; p.
+BS  GTGCCCATATATGGTCAT; R07328; 18; 18;; p.
+BS  TTGCCCATATATGGTGCG; R07329; 18; 18;; p.
+BS  ATGACCATATATGGACAT; R07330; 13; 18;; p.
+BS  TTGACCATATATGGAATT; R07331; 16; 18;; p.
+BS  ATGACCATATATGGAAGC; R07332; 15; 18;; p.
+BS  ATGACCATATATGGATAT; R07333; 16; 18;; p.
+BS  ATGCCCATATAAGGCGCC; R07334; 13; 18;; p.
+BS  ATGCCCATATAAGGTTTC; R07335; 15; 18;; p.
+BS  ATGCCCATATAAGGTGCG; R07336; 13; 18;; p.
+BS  ATGCCCATATATGGCAGT; R07337; 12; 18;; p.
+BS  GTGCCCATATAAGGTAAT; R07338; 14; 18;; p.
+BS  ATGCCCTTATATGGGTGT; R07339; 20; 18;; p.
+BS  CTGCCCTTATATGGTCAT; R07340; 20; 18;; p.
+BS  ATGCCCTTATATGGGATG; R07341; 20; 18;; p.
+BS  ATGCCCTTATATGGTAGT; R07342; 16; 18;; p.
+BS  ATGACCATATAAGGAGAA; R07343; 15; 18;; p.
+BS  ATGACCATATAAGGAAGT; R07344; 14; 18;; p.
+BS  ATACCCTTATATGGAAAC; R07345; 19; 18;; p.
+BS  ATTACCTTATATGGTGCG; R07346; 18; 18;; p.
+BS  ATGCCCTTATAAGGTACG; R07347; 17; 18;; p.
+BS  ATGCCCTTATAAGGACGT; R07348; 15; 18;; p.
+BS  ATGCCCTTATAAGGACTG; R07349; 13; 18;; p.
+BS  ATGTCCTTATAAGGAGTG; R07350; 12; 18;; p.
+BS  ATGCCCAAATATGGGGCT; R07351; 19; 18;; p.
+BS  ATGCCCAAATATGGTCAT; R07352; 12; 18;; p.
+BS  ATGCCCATATTTGGTGTT; R07353; 16; 18;; p.
+BS  ATGCCCATATTTGGTATG; R07354; 17; 18;; p.
+XX
+CC  sequences selected with recombinant SRF from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0083.
+XX
+RN  [1]; RE0003122.
+RX  PUBMED: 2243767.
+RA  Pollock R., Treisman R.
+RT  A sensitive method for the determination of protein-DNA binding specificities
+RL  Nucleic Acids Res. 18:6197-6204 (1990).
+XX
+//

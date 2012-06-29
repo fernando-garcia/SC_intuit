@@ -1,0 +1,78 @@
+AC  M00144
+XX
+ID  V$PAX5_02
+XX
+DT  08.06.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-5
+XX
+DE  B-cell-specific activating protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+XX
+BF  T03016; Pax-5; Species: chick, Gallus gallus; site(s) included: no.
+BF  T10245; Pax-5; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00070; Pax-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09204; Pax-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03221; Pax-5; Species: Japanese pufferfish, Fugu rubripes; site(s) included: no.
+BF  T10303; Pax-5; Species: Mammalia; site(s) included: no.
+BF  T01201; Pax-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09182; Pax-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03223; Pax-5; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+XX
+P0      A      C      G      T
+01      2      1      2      0      R
+02      3      0      2      0      R
+03      2      2      0      1      M
+04      1      2      2      0      S
+05      2      0      1      2      W
+06      1      0      4      0      G
+07      3      0      1      1      A
+08      1      1      1      2      N
+09      2      0      1      2      W
+10      0      2      1      2      Y
+11      0      3      1      1      C
+12      0      1      0      4      T
+13      1      1      2      1      N
+14      3      0      2      0      R
+15      4      0      1      0      A
+16      0      0      5      0      G
+17      0      5      0      0      C
+18      0      0      5      0      G
+19      0      0      2      3      K
+20      2      0      3      0      R
+21      4      0      0      1      A
+22      0      5      0      0      C
+23      1      2      2      0      S
+24      3      0      2      0      R
+25      0      2      0      3      Y
+26      2      1      1      1      N
+27      1      2      2      0      S
+28      2      2      0      1      M
+XX
+BA  5 sequences (compiled matrix imported from literature reference)
+XX
+BS  AGAATGGGGCCTGAGGCGTGACCACCGC; R07236; 1; 28;; p.
+BS  CAACTATTTCTTCAAGCGTGTCAACAAA; R07237; 1; 28;; p.
+BS  GATCAGAATTGTGAAGCGTGACCATAGA; R07238; 1; 28;; p.
+BS  AGCGAGATATCTAGAGCGGAACGGTTCC; R07239; 1; 28;; p.
+BS  GACGGGACAGCCTGAGCGGAACGGTGCT; R07240; 1; 28;; p.
+XX
+CC  binding sites from 5 genes
+XX
+DR  JASPAR: MA0014.
+XX
+RN  [1]; RE0003116.
+RX  PUBMED: 8406007.
+RA  Czerny T., Schaffner G., Busslinger M.
+RT  DNA sequence recognition by Pax proteins: bipartite structure of the paired domain and its binding site
+RL  Genes Dev. 7:2048-2061 (1993).
+XX
+//

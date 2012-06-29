@@ -1,0 +1,105 @@
+AC  M01204
+XX
+ID  V$SPIB_01
+XX
+DT  27.11.2008 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SPI-B
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T01401; Spi-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19590; SPI-B; Species: Mammalia; site(s) included: yes.
+BF  T14146; Spi-B; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19271; Spi-B; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     16      6      6      2      A
+02     22      5     10      2      A
+03     34      1      3      4      A
+04     39      0      0      5      A
+05     29      0      0     16      W
+06      5     12     27      1      G
+07     21     16      7      1      M
+08      0      0     46      0      G
+09      0      0     46      0      G
+10     46      0      0      0      A
+11     46      0      0      0      A
+12      0     10     27      0      G
+13      4      4      1     27      T
+14     13      3      4     15      W
+15      7      8      5      7      N
+16      1     11      6      4      S
+17      5      3      1      7      N
+XX
+BA  46 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGAATACGGAAGTT; R26103; 3; 17; 17, 18, 19; p.
+BS  ACAAAGAGGAACAAT; R26104; 2; 17; 17, 18; p.
+BS  CAAATGAGGAAGCC; R26105; 3; 17; 17, 18, 19; p.
+BS  AAAAAGCGGAACAGTC; R26106; 1; 17; 17; p.
+BS   AAATGGGGAAGTACTA; R26107; 1; 17; 1; p.
+BS   AAAACAGGAACAAGCT; R26108; 1; 17; 1; p.
+BS  GAAAAGGGGAA; R26109; 8; 17; 19, 20, 21, 22, 23, 24; p.
+BS    TATGCGGAAGTGATT; R26110; 1; 17; 1, 2; p.
+BS  TAAAACCGGAAGCAAC; R26111; 1; 17; 17; p.
+BS    ATTGCGGAAGTTGGC; R26112; 1; 17; 1, 2; p.
+BS  AGGAATAGGAACTATC; R26113; 1; 17; 17; p.
+BS  AGAATCCGGAAGTT; R26114; 3; 17; 17, 18, 19; p.
+BS         GGAAGCAGTT; R26115; 1; 17; 1, 2, 3, 4, 5, 6, 7; p.
+BS   GAATGCGGAAGTGTCG; R26116; 1; 17; 1; p.
+BS  CATATGAGGAAGTTTA; R26117; 1; 17; 17; p.
+BS  AGAAAGTGGAAGTA; R26118; 3; 17; 17, 18, 19; p.
+BS   AATTGAGGAAGTCAGA; R26119; 1; 17; 1; p.
+BS  CAAAAGAGGAAGTT; R26120; 3; 17; 17, 18, 19; p.
+BS  TAAAACAGGAACTACC; R26121; 1; 17; 17; p.
+BS   TAAAAGGGAAGTAACA; R26122; 1; 17; 1; p.
+BS  CAAAAGAGGAA; R26123; 8; 17; 19, 20, 21, 22, 23, 24; p.
+BS     TTGGGGAAGTTAGT; R26124; 1; 17; 1, 2, 3; p.
+BS  AGAATGAGGAACATC; R26125; 2; 17; 17, 18; p.
+BS  ACAAAGCGGAA; R26126; 8; 17; 19, 20, 21, 22, 23, 24; p.
+BS  CAGAAACGGAAGTTC; R26127; 2; 17; 17, 18; p.
+BS  GAAAAGAGGAA; R26128; 8; 17; 19, 20, 21, 22, 23, 24; p.
+BS  GCAAAGAGGAA; R26129; 8; 17; 19, 20, 21, 22, 23, 24; p.
+BS  AAATAGCGGAACTACC; R26130; 1; 17; 17; p.
+BS  CCAAACAGGAAGT; R26131; 4; 17; 17, 18, 19, 20; p.
+BS   TTAAGGGGAAGTTGTC; R26132; 1; 17; 1; p.
+BS  AAAATGCGGAA; R26133; 8; 17; 19, 20, 21, 22, 23, 24; p.
+BS  GAAAACCGGAAGTT; R26134; 3; 17; 17, 18, 19; p.
+BS  AGAAACAGGAA; R26135; 8; 17; 19, 20, 21, 22, 23, 24; p.
+BS  AGAAAGAGGAA; R26136; 8; 17; 19, 20, 21, 22, 23, 24; p.
+BS  GAAAACAGGAAC; R26137; 5; 17; 17, 18, 19, 20, 21; p.
+BS      TGCGGAAGTTTGC; R26138; 1; 17; 1, 2, 3, 4; p.
+BS  AGAATACGGAAGTTC; R26139; 2; 17; 17, 18; p.
+BS  AATTTAGGGAAGTA; R26140; 3; 17; 17, 18, 19; p.
+BS   AAAACAGGAAGTTAGT; R26141; 1; 17; 1; p.
+BS    CAAGCGGAAGTCACT; R26142; 1; 17; 1, 2; p.
+BS     ATGAGGAAGTTGGT; R26143; 1; 17; 1, 2, 3; p.
+BS   AAAAGGGGAAGGGTCA; R26144; 1; 17; 1; p.
+BS  AGAAACAGGAA; R26145; 8; 17; 19, 20, 21, 22, 23, 24; p.
+BS   AAAACAGGAACCACCA; R26146; 1; 17; 1; p.
+BS  ACAAACAGGAAGTA; R26147; 3; 17; 17, 18, 19; p.
+BS  AAGAAGCGGAACTTC; R26148; 2; 17; 17, 18; p.
+XX
+CC  sequences selected with recombinant SPI-B from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: MA0081.
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+RN  [2]; RE0033635.
+RX  PUBMED: 7624145.
+RA  Ray-Gallet D., Mao C., Tavitian A., Moreau-Gachelin F.
+RT  DNA binding specificities of Spi-1/PU.1 and Spi-B transcription factors and identification of a Spi-1/Spi-B binding site in the c-fes/c-fps promoter.
+RL  Oncogene 11:303-313 (1995).
+XX
+//

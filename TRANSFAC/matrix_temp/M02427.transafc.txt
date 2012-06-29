@@ -1,0 +1,56 @@
+AC  M02427
+AS  MA0308
+XX
+ID  F$GSM1_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Gsm1
+XX
+DE  class: Zinc-coordinating; family: Fungal Zn cluster
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T16935; Gsm1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    322    207    190    279      N
+02    160    172    229    438      N
+03    219    289    168    322      N
+04    461    124    184    229      N
+05    349    201    233    216      N
+06    342    144    281    231      N
+07    566     22     17    393      W
+08    849      9     20    120      A
+09    400    164    182    252      N
+10      3    916     10     69      C
+11      4    177     38    778      T
+12      3    985      1      9      C
+13      0    972     25      0      C
+14      0     30    967      1      G
+15    136      4    849      9      G
+16    708     60    197     32      A
+17    289    183    438     87      N
+18    164    172    205    458      N
+19    373    101    232    292      N
+20    225    168    299    306      N
+21    322    212    195    268      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0308.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

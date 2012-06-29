@@ -1,0 +1,70 @@
+AC  M00333
+XX
+ID  V$ZF5_B
+XX
+DT  11.11.1998 (created); abi.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZF5
+XX
+DE  ZF5 binding sites
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02349; ZF5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14521; ZF5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16569; ZFP161; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16570; ZFP161; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16572; ZFP161; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16573; ZFP161; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      6      3      5      N
+02      6      1      9      1      R
+03      3      2      8      4      N
+04      5      2     10      0      G
+05      3      4      8      2      N
+06      5      1     10      1      G
+07      0     14      0      3      C
+08      2      0     12      3      G
+09      1     11      1      4      C
+10      2      2     11      2      G
+11      0     14      1      2      C
+12      6      0      1     10      W
+13      5      2      3      7      N
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CATAAGCGCGCTA; R12596; 7; 13;; p.
+BS  GGAGAGCGCGCAT; R12597; 7; 13;; p.
+BS  TAGGCGTACTGTA; R12598; 7; 13;; p.
+BS  AGGCGGCACTCTA; R12599; 7; 13;; p.
+BS  CAGCGACTCGCTG; R12600; 7; 13;; p.
+BS  CAGGGTCGCGCTT; R12601; 7; 13;; p.
+BS  CTCGCGCGTGCAA; R12602; 7; 13;; p.
+BS  TGAGGACGTGCGT; R12603; 7; 13;; p.
+BS  TGCACATGCACTT; R12604; 7; 13;; p.
+BS  AGGGGGCGAGCAT; R12605; 7; 13;; p.
+BS  TCTGCACGCGTAC; R12606; 7; 13;; p.
+BS  CGTGTGCTGGCTA; R12607; 7; 13;; p.
+BS  TGTAGGTGTCCTG; R12608; 7; 13;; p.
+BS  GAGGAGCGTCCAT; R12609; 7; 13;; p.
+BS  GGAATGCTCGTTC; R12610; 7; 13;; p.
+BS  CAGGGCCGCGCAT; R12611; 7; 13;; p.
+BS  AGGAGACGCACTG; R12612; 7; 13;; p.
+XX
+CC  sequences selected with recombinant ZF5 from a pool of double-stranded oligonucleotides containing a core of 5 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: PB0095.
+XX
+RN  [1]; RE0007034.
+RX  PUBMED: 9092617.
+RA  Kaplan J., Calame K.
+RT  The ZiN/POZ domain of ZF5 is required for both transcriptional activation and repression
+RL  Nucleic Acids Res. 25:1108-1116 (1997).
+XX
+//

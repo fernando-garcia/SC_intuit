@@ -1,0 +1,68 @@
+AC  M01142
+XX
+ID  V$LRH1_Q5
+XX
+DT  29.05.2007 (created); dtc.
+DT  17.08.2007 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LRH1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04755; LRH-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10266; LRH-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02770; LRH-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08880; LRH-1; Species: Mammalia; site(s) included: yes.
+BF  T04754; LRH-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10265; LRH-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10363; LRH-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08492; LRH-1-xbb1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08525; LRH1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19149; LRH1-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19148; LRH1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19150; LRH1-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19147; LRH1-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      4      2      2      N
+02      2      3      4      5      N
+03      4      2      8      0      R
+04      6      1      6      1      R
+05      1     13      0      0      C
+06      0     14      0      0      C
+07      0      1      0     13      T
+08      0      0      0     14      T
+09      0      0     14      0      G
+10      5      4      5      0      V
+11      9      1      1      1      A
+12      2      6      2      2      N
+XX
+BA  14 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ctggccttgaac; R09994; -2; 12;; n.
+BS  tggaccttgcnn; R13044; -2; 12;; n.
+BS  ntgcccttggac; R13045; 6; 12;; n.
+BS  ccggccttgaac; R13131; 2; 12;; n.
+BS  AAGACCCTGCTG; R13136; 4; 12;; p.
+BS  ctagccttgaac; R19126; 1; 12;; n.
+BS  ntgtCCTTGAAC; R20844; -1; 12;; p.
+BS  gtggacttgagg; R20868; 2; 12;; n.
+BS  tgaaccttggaa; R20880; 6; 12;; n.
+BS  ncagccttgcaa; R20881; 2; 12;; n.
+BS  ggcaccttggat; R20882; 6; 12;; n.
+BS  nccaccttggnn; R20884; -2; 12;; n.
+BS  agagccttggat; R21181; 1; 12;; n.
+BS  cagaccttgccc; R21309; 16; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0050097.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel113:0001 (2007).
+XX
+//

@@ -1,0 +1,51 @@
+AC  M00289
+XX
+ID  V$HFH3_01
+XX
+DT  18.06.1998 (created); tme.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HFH3 (FOXI1)
+XX
+DE  HFH-3 (HNF3/fork head homolog 3)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02474; FOXI1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11113; FOXI1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02487; HFH-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11144; HFH-3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T02479; HFH-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     20      3     45     32      K
+02     12     26     39     23      N
+03     34     12     27     27      N
+04      0      0      0    100      T
+05     42      0     58      0      R
+06      0      0      0    100      T
+07      0      0      0    100      T
+08      0      0      0    100      T
+09     48      0     52      0      R
+10      0     23      0     77      T
+11     26      3     13     58      T
+12      7      3     13     77      T
+13     55      6     16     23      A
+XX
+BA  31 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant HFH3 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 6 rounds of selection and amplification; figures are percentages
+XX
+DR  JASPAR: MA0042.
+XX
+RN  [1]; RE0006904.
+RX  PUBMED: 9153225.
+RA  Overdier D. G., Ye H., Peterson R. S., Clevidence D.E., Costa R. H.
+RT  The winged helix transcriptional activator HFH-3 is expressed in the distal tubules of embryonic and adult kidney
+RL  J. Biol. Chem. 272:13725-13730 (1997).
+XX
+//

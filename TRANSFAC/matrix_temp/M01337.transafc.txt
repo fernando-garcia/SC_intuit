@@ -1,0 +1,55 @@
+AC  M01337
+XX
+ID  V$HOXA3_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXA3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04474; HOXA3; Species: horn shark, Heterodontus francisci; site(s) included: no.
+BF  T03318; HOXA3; Species: human, Homo sapiens; site(s) included: no.
+BF  T17233; HOXA3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03781; HOXA3; Species: Japanese pufferfish, Fugu rubripes; site(s) included: no.
+BF  T00378; HOXA3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09356; HOXA3; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.18   0.11   0.21   0.50      N
+02   0.16   0.29   0.19   0.35      N
+03   0.19   0.19   0.50   0.12      N
+04   0.39   0.30   0.15   0.16      N
+05   0.30   0.10   0.53   0.07      R
+06   0.07   0.30   0.34   0.28      N
+07   0.00   0.11   0.00   0.88      T
+08   0.90   0.10   0.00   0.00      A
+09   0.99   0.01   0.00   0.00      A
+10   0.00   0.00   0.00   0.99      T
+11   0.00   0.00   0.05   0.94      T
+12   0.97   0.00   0.02   0.01      A
+13   0.35   0.16   0.46   0.03      R
+14   0.05   0.35   0.12   0.47      Y
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PB0031.
+DR  JASPAR: PH0050.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

@@ -1,0 +1,69 @@
+AC  M00345
+XX
+ID  P$GAMYB_01
+XX
+DT  26.02.1999 (created); rhe.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GAMYB
+XX
+DE  GA-regulated myb gene from barley
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02679; GAMYB; Species: barley, Hordeum vulgare; site(s) included: yes.
+BF  T08409; GAMYB; Species: barley, Hordeum vulgare; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     16      0      9      Y
+02     25      0      0      0      A
+03     25      0      0      0      A
+04      0     25      0      0      C
+05      3     13      7      2      S
+06      5      3     17      0      G
+07     10     10      1      4      M
+08      5     17      2      0      C
+XX
+BA  25 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TAACCGCG; R11351; 7; 8;; p.
+BS  CAACCACC; R11352; 14; 8;; p.
+BS  CAACGCGA; R11353; 22; 8;; p.
+BS  TAACCGCC; R11354; 20; 8;; p.
+BS  CAACCGCC; R11355; 1; 8;; p.
+BS  CAACCGAC; R11356; 23; 8;; p.
+BS  TAACACAA; R11357; 10; 8;; p.
+BS  CAACCGAC; R11358; 23; 8;; p.
+BS  TAACGACA; R11359; 14; 8;; p.
+BS  TAACCGCC; R11360; 16; 8;; p.
+BS  CAACCGAC; R11361; 23; 8;; p.
+BS  TAACCACC; R11362; 8; 8;; p.
+BS  CAACCGAA; R11363; 13; 8;; p.
+BS  CAACGGAA; R11364; 4; 8;; p.
+BS  CAACGCCG; R11365; 21; 8;; p.
+BS  CAACAAAC; R11366; 6; 8;; p.
+BS  CAACCGAC; R11367; 23; 8;; p.
+BS  TAACTACC; R11368; 17; 8;; p.
+BS  TAACAGAC; R11369; 7; 8;; p.
+BS  CAACCGA; R11370; 23; 8; 30; p.
+BS  TAACCGTC; R11371; 22; 8;; p.
+BS  CAACGGCC; R11372; 19; 8;; p.
+BS  CAACGGTC; R11373; 22; 8;; p.
+BS  CAACGGTC; R11374; 22; 8;; p.
+BS  CAACTGTC; R11375; 5; 8;; p.
+XX
+CC  sequences selected with recombinant GAMYB from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0034.
+XX
+RN  [1]; RE0013393.
+RX  PUBMED: 10069063.
+RA  Gubler F., Raventos D., Keys M., Watts R., Mundy J., Jacobsen J. V.
+RT  Target genes and regulatory domains of the GAMYB transcriptional activator in cereal aleurone
+RL  Plant J. 17:1-9 (1999).
+XX
+//

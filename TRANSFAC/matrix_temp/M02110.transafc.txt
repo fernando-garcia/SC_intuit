@@ -1,0 +1,81 @@
+AC  M02110
+XX
+ID  V$NR1B1_Q6
+XX
+DT  24.10.2011 (created); mkl.
+DT  23.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NR1B1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00963; V$T3R_Q6; half-site matrix of TRE (thyroid hormone response element) and RARE (retinoic acid response element); (family).
+HP  M00965; V$DR4_Q2; direct repeat 4 (family).
+XX
+BF  T05299; NR1B1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14193; NR1B1; Species: Mammalia; site(s) included: yes.
+BF  T01327; NR1B1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08145; NR1B1; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T05274; NR1B1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00719; NR1B1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     19      7      8      0      A
+02     16      7      9      2      N
+03     26      0      7      1      A
+04      0      0     34      0      G
+05      0      0     24     10      G
+06      3      0      3     28      T
+07      0     29      5      0      C
+08     33      1      0      0      A
+09     12      9     10      2      N
+10     11      7      8      7      N
+XX
+BA  35 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGGGTTCAGT; R00135; 6; 10;; n.
+BS  GGAGGTGACA; R01169; 11; 10;; n.
+BS  CCGGGTGAAC; R01187; 10; 10;; p.
+BS  AAAGTTCACT; R01321; 12; 10;; p.
+BS  AAAGGTCATG; R01690; 4; 10;; n.
+BS  AGAGTTCAGT; R03017; 27; 10;; n.
+BS  aaGGGTCAac; R03928; 9; 10;; n.
+BS  ACAGGTCACA; R03931; -1; 10;; p.
+BS  GGAGGTGACA; R03942; 11; 10;; n.
+BS  AAAGGTCAGA; R03962; 13; 10;; p.
+BS  AAGGGTCACT; R03963; 1; 10;; n.
+BS  agAGTTCAgc; R04075; 16; 10;; p.
+BS  GCTGTGCAAA; R04758; 5; 10;; p.
+BS  AGAGGTGACC; R04761; 13; 10;; p.
+BS  ACAGGTCAnn; R04768; 6; 10;; p.
+BS  AAAGTTCAAC; R04769; 7; 10;; n.
+BS  AAAGGTCATA; R04770; -2; 10;; n.
+BS  AAAGTTCAAG; R09141; 12; 10;; p.
+BS  caAGGTCAgA; R12027; 7; 10;; p.
+BS  GGGGGTCAAG; R12073; 10; 10;; n.
+BS  CCAGGGCAAG; R13185; 7; 10;; n.
+BS  CCAGGACACT; R13186; 9; 10;; n.
+BS  GAAGGGCAGA; R13187; 20; 10;; n.
+BS  AGAGGTCAAG; R17087; 16; 10;; p.
+BS  GAAGGACAAA; R17158; 6; 10;; p.
+BS  AGGGGACAAA; R17159; 17; 10;; p.
+BS  GAAGGTCAAG; R21368; 14; 10;; p.
+BS  CAAGGTCAGG; R23949; 5; 10;; p.
+BS  CAAGGTCAGC; R27394; 18; 10;; p.
+BS  AAAGTTCCAA; R27480; 10; 10;; p.
+BS  AAAGTTCACT; R27490; 12; 10;; p.
+BS  CTAGGTGACC; R27536; 10; 10;; p.
+BS  GCAGGTCAGT; R27612; 13; 10;; p.
+BS  ATGGTTCAGG; R27686; 9; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

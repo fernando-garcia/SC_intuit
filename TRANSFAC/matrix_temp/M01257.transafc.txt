@@ -1,0 +1,69 @@
+AC  M01257
+XX
+ID  V$SRF_02
+XX
+DT  30.06.2009 (created); sla.
+DT  10.07.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SRF
+XX
+DE  serum response factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00762; SRF; Species: cat, Felis silvestris catus; site(s) included: no.
+BF  T18625; SRF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18626; SRF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00761; SRF; Species: chick, Gallus gallus; site(s) included: no.
+BF  T17868; SRF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00763; SRF; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T17840; SRF; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00764; SRF; Species: human, Homo sapiens; site(s) included: no.
+BF  T09343; SRF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14063; SRF; Species: Mammalia; site(s) included: no.
+BF  T16471; SRF; Species: Mammalia; site(s) included: yes.
+BF  T05114; SRF; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00766; SRF; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14064; SRF; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03997; SRF-I; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00765; SRF-L; Species: mouse, Mus musculus; site(s) included: no.
+BF  T03995; SRF-M; Species: mouse, Mus musculus; site(s) included: no.
+BF  T03996; SRF-S; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     80     97    205    118      N
+02    105    148    145    102      N
+03      9    470      7     14      C
+04      0    450      1     49      C
+05    339     61     29     71      A
+06    223     21     32    224      W
+07    454      9     30      7      A
+08    145     46     35    274      W
+09    425      8     23     44      A
+10    333      9     28    130      A
+11      7      3    488      2      G
+12      2     11    479      8      G
+13    149    200     95     56      N
+14    224    172     75     29      M
+15    276     52    104     68      A
+16    124     79    151    146      N
+17    114    114    151    121      N
+18    113    126    149    112      N
+XX
+BA  500 sequences (ChIP-Seq)
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0062885.
+RX  PUBMED: 19160518.
+RA  Valouev A., Johnson D. S., Sundquist A., Medina C., Anton E., Batzoglou S., Myers R. M., Sidow A.
+RT  Genome-wide analysis of transcription factor binding sites based on ChIP-Seq data.
+RL  Nat. Methods 5:829-834 (2008).
+XX
+//

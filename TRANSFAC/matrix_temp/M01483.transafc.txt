@@ -1,0 +1,55 @@
+AC  M01483
+XX
+ID  V$DBX1_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Dbx-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T08090; Dbx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11227; Dbx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08102; Dbx1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11235; Dbx1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.19   0.23   0.16   0.42      N
+02   0.61   0.07   0.05   0.27      A
+03   0.46   0.06   0.31   0.18      R
+04   0.23   0.13   0.10   0.55      T
+05   0.24   0.23   0.07   0.46      N
+06   0.62   0.14   0.08   0.16      A
+07   0.74   0.03   0.05   0.18      A
+08   0.11   0.10   0.07   0.72      T
+09   0.13   0.11   0.04   0.72      T
+10   0.73   0.03   0.09   0.15      A
+11   0.54   0.10   0.05   0.31      W
+12   0.20   0.15   0.10   0.56      T
+13   0.59   0.07   0.17   0.17      A
+14   0.50   0.16   0.22   0.12      N
+15   0.28   0.11   0.14   0.47      N
+16   0.30   0.19   0.19   0.33      N
+17   0.40   0.14   0.29   0.17      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0018.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

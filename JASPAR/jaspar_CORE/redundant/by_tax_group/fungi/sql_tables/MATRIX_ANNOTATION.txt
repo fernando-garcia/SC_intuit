@@ -1,0 +1,885 @@
+9509	class	Zinc-coordinating
+9509	family	BetaBetaAlpha-zinc finger
+9509	medline	19111667
+9509	tax_group	fungi
+9509	type	PBM, CSA and/or DIP-chip
+9510	class	Other Alpha-Helix
+9510	family	High Mobility Group
+9510	medline	19111667
+9510	tax_group	fungi
+9510	type	PBM, CSA and/or DIP-chip
+9511	class	Zinc-coordinating
+9511	family	BetaBetaAlpha-zinc finger
+9511	medline	19111667
+9511	tax_group	fungi
+9511	type	PBM, CSA and/or DIP-chip
+9512	class	Zinc-coordinating
+9512	family	BetaBetaAlpha-zinc finger
+9512	medline	19111667
+9512	tax_group	fungi
+9512	type	PBM, CSA and/or DIP-chip
+9513	class	Other
+9513	family	Other
+9513	medline	18842628
+9513	tax_group	fungi
+9513	type	PBM
+9514	class	Other
+9514	family	Other
+9514	medline	19111667
+9514	tax_group	fungi
+9514	type	PBM, CSA and/or DIP-chip
+9515	class	Other Alpha-Helix
+9515	family	MADS
+9515	medline	16522208
+9515	tax_group	fungi
+9515	type	ChIP-on-chip
+9516	class	Zinc-coordinating
+9516	family	Fungal Zn cluster
+9516	medline	16522208
+9516	tax_group	fungi
+9516	type	ChIP-on-chip
+9517	class	Zinc-coordinating
+9517	family	Fungal Zn cluster
+9517	medline	18842628
+9517	tax_group	fungi
+9517	type	PBM
+9518	class	Zipper-Type
+9518	family	Leucine Zipper
+9518	medline	16522208
+9518	tax_group	fungi
+9518	type	ChIP-on-chip
+9519	class	Zinc-coordinating
+9519	family	Fungal Zn cluster
+9519	medline	19111667
+9519	tax_group	fungi
+9519	type	PBM, CSA and/or DIP-chip
+9520	class	Zinc-coordinating
+9520	family	GATA
+9520	medline	16522208
+9520	tax_group	fungi
+9520	type	ChIP-on-chip
+9521	class	Zinc-coordinating
+9521	family	BetaBetaAlpha-zinc finger
+9521	medline	19111667
+9521	tax_group	fungi
+9521	type	PBM, CSA and/or DIP-chip
+9522	class	Helix-Turn-Helix
+9522	family	Myb
+9522	medline	18842628
+9522	tax_group	fungi
+9522	type	PBM
+9523	class	Zipper-Type
+9523	family	Leucine Zipper
+9523	medline	17130146
+9523	tax_group	fungi
+9523	type	COMPILED
+9524	class	Zinc-coordinating
+9524	family	Fungal Zn cluster
+9524	medline	19111667
+9524	tax_group	fungi
+9524	type	PBM, CSA and/or DIP-chip
+9525	class	Zipper-Type
+9525	family	Helix-Loop-Helix
+9525	medline	19111667
+9525	tax_group	fungi
+9525	type	PBM, CSA and/or DIP-chip
+9526	class	Zinc-coordinating
+9526	family	Fungal Zn cluster
+9526	medline	19111667
+9526	tax_group	fungi
+9526	type	PBM, CSA and/or DIP-chip
+9527	class	Zinc-coordinating
+9527	family	Fungal Zn cluster
+9527	medline	19111667
+9527	tax_group	fungi
+9527	type	PBM, CSA and/or DIP-chip
+9528	class	Zipper-Type
+9528	family	Leucine Zipper
+9528	medline	19111667
+9528	tax_group	fungi
+9528	type	PBM, CSA and/or DIP-chip
+9529	class	Zinc-coordinating
+9529	family	BetaBetaAlpha-zinc finger
+9529	medline	19111667
+9529	tax_group	fungi
+9529	type	PBM, CSA and/or DIP-chip
+9530	class	Zipper-Type
+9530	family	Leucine Zipper
+9530	medline	19111667
+9530	tax_group	fungi
+9530	type	PBM, CSA and/or DIP-chip
+9531	class	Zinc-coordinating
+9531	family	Copper fist
+9531	medline	17130146
+9531	tax_group	fungi
+9531	type	COMPILED
+9532	class	Helix-Turn-Helix
+9532	family	Homeo
+9532	medline	19111667
+9532	tax_group	fungi
+9532	type	PBM, CSA and/or DIP-chip
+9533	class	Zinc-coordinating
+9533	family	GATA
+9533	medline	19111667
+9533	tax_group	fungi
+9533	type	PBM, CSA and/or DIP-chip
+9534	class	Zinc-coordinating
+9534	family	Fungal Zn cluster
+9534	medline	16522208
+9534	tax_group	fungi
+9534	type	ChIP-on-chip
+9535	class	Other
+9535	family	Other
+9535	medline	19111667
+9535	tax_group	fungi
+9535	type	PBM, CSA and/or DIP-chip
+9536	class	Zinc-coordinating
+9536	family	Fungal Zn cluster
+9536	medline	19111667
+9536	tax_group	fungi
+9536	type	PBM, CSA and/or DIP-chip
+9537	class	Zinc-coordinating
+9537	family	GATA
+9537	medline	19111667
+9537	tax_group	fungi
+9537	type	PBM, CSA and/or DIP-chip
+9538	class	Zinc-coordinating
+9538	family	Fungal Zn cluster
+9538	medline	19111667
+9538	tax_group	fungi
+9538	type	PBM, CSA and/or DIP-chip
+9539	class	Winged Helix-Turn-Helix
+9539	family	Forkhead
+9539	medline	19111667
+9539	tax_group	fungi
+9539	type	PBM, CSA and/or DIP-chip
+9540	class	Winged Helix-Turn-Helix
+9540	family	Forkhead
+9540	medline	18842628
+9540	tax_group	fungi
+9540	type	PBM
+9541	class	Winged Helix-Turn-Helix
+9541	family	Forkhead
+9541	medline	19111667
+9541	tax_group	fungi
+9541	type	PBM, CSA and/or DIP-chip
+9542	class	Zinc-coordinating
+9542	family	BetaBetaAlpha-zinc finger
+9542	medline	19111667
+9542	tax_group	fungi
+9542	type	PBM, CSA and/or DIP-chip
+9543	class	Zinc-coordinating
+9543	family	Fungal Zn cluster
+9543	medline	18842628
+9543	tax_group	fungi
+9543	type	PBM
+9544	class	Zinc-coordinating
+9544	family	GATA
+9544	medline	19111667
+9544	tax_group	fungi
+9544	type	PBM, CSA and/or DIP-chip
+9545	class	Zinc-coordinating
+9545	family	GATA
+9545	medline	19111667
+9545	tax_group	fungi
+9545	type	PBM, CSA and/or DIP-chip
+9546	class	Zinc-coordinating
+9546	family	GATA
+9546	medline	19111667
+9546	tax_group	fungi
+9546	type	PBM, CSA and/or DIP-chip
+9547	class	Zipper-Type
+9547	family	Leucine Zipper
+9547	medline	18842628
+9547	tax_group	fungi
+9547	type	PBM
+9548	class	Other
+9548	family	Other
+9548	medline	10487868
+9548	tax_group	fungi
+9548	type	COMPILED
+9549	class	Other
+9549	family	Other
+9549	medline	16522208
+9549	tax_group	fungi
+9549	type	ChIP-on-chip
+9550	class	Zinc-coordinating
+9550	family	BetaBetaAlpha-zinc finger
+9550	medline	19111667
+9550	tax_group	fungi
+9550	type	PBM, CSA and/or DIP-chip
+9551	class	Zinc-coordinating
+9551	family	GATA
+9551	medline	19111667
+9551	tax_group	fungi
+9551	type	PBM, CSA and/or DIP-chip
+9552	class	Zinc-coordinating
+9552	family	Fungal Zn cluster
+9552	medline	18842628
+9552	tax_group	fungi
+9552	type	PBM
+9553	class	Zinc-coordinating
+9553	family	GATA
+9553	medline	19111667
+9553	tax_group	fungi
+9553	type	PBM, CSA and/or DIP-chip
+9554	class	Zipper-Type
+9554	family	Leucine Zipper
+9554	medline	19111667
+9554	tax_group	fungi
+9554	type	PBM, CSA and/or DIP-chip
+9555	class	Zinc-coordinating
+9555	family	Fungal Zn cluster
+9555	medline	19111667
+9555	tax_group	fungi
+9555	type	PBM, CSA and/or DIP-chip
+9556	class	Zinc-coordinating
+9556	family	Fungal Zn cluster
+9556	medline	19111667
+9556	tax_group	fungi
+9556	type	PBM, CSA and/or DIP-chip
+9557	class	Other Alpha-Helix
+9557	family	NFY CCAAT-binding
+9557	medline	17130146
+9557	tax_group	fungi
+9557	type	COMPILED
+9558	class	Other Alpha-Helix
+9558	family	NFY CCAAT-binding
+9558	medline	17130146
+9558	tax_group	fungi
+9558	type	COMPILED
+9559	class	Other Alpha-Helix
+9559	family	NFY CCAAT-binding
+9559	medline	16522208
+9559	tax_group	fungi
+9559	type	ChIP-on-chip
+9560	class	Other Alpha-Helix
+9560	family	NFY CCAAT-binding
+9560	medline	17130146
+9560	tax_group	fungi
+9560	type	COMPILED
+9561	class	Winged Helix-Turn-Helix
+9561	family	Forkhead
+9561	medline	19111667
+9561	tax_group	fungi
+9561	type	PBM, CSA and/or DIP-chip
+9562	class	Helix-Turn-Helix
+9562	family	Homeo
+9562	medline	19111667
+9562	tax_group	fungi
+9562	type	PBM, CSA and/or DIP-chip
+9563	class	Winged Helix-Turn-Helix
+9563	family	E2F
+9563	medline	19111667
+9563	tax_group	fungi
+9563	type	PBM, CSA and/or DIP-chip
+9564	class	Other
+9564	family	Other
+9564	medline	16522208
+9564	tax_group	fungi
+9564	type	ChIP-on-chip
+9565	class	Zipper-Type
+9565	family	Helix-Loop-Helix
+9565	medline	16522208
+9565	tax_group	fungi
+9565	type	ChIP-on-chip
+9566	class	Zipper-Type
+9566	family	Helix-Loop-Helix
+9566	medline	16522208
+9566	tax_group	fungi
+9566	type	ChIP-on-chip
+9567	class	Other Alpha-Helix
+9567	family	High Mobility Group
+9567	medline	16522208
+9567	tax_group	fungi
+9567	type	ChIP-on-chip
+9568	class	Zinc-coordinating
+9568	family	Fungal Zn cluster
+9568	medline	19111667
+9568	tax_group	fungi
+9568	type	PBM, CSA and/or DIP-chip
+9569	class	Zinc-coordinating
+9569	family	Fungal Zn cluster
+9569	medline	19111667
+9569	tax_group	fungi
+9569	type	PBM, CSA and/or DIP-chip
+9570	class	Zinc-coordinating
+9570	family	Copper fist
+9570	medline	17130146
+9570	tax_group	fungi
+9570	type	COMPILED
+9571	class	Helix-Turn-Helix
+9571	family	Homeo
+9571	medline	16522208
+9571	tax_group	fungi
+9571	type	ChIP-on-chip
+9572	class	Helix-Turn-Helix
+9572	family	Homeo
+9572	medline	10487868
+9572	tax_group	fungi
+9572	type	COMPILED
+9573	class	Ig-fold
+9573	family	Rel
+9573	medline	19111667
+9573	tax_group	fungi
+9573	type	PBM, CSA and/or DIP-chip
+9574	class	Ig-fold
+9574	family	Rel
+9574	medline	17130146
+9574	tax_group	fungi
+9574	type	COMPILED
+9575	class	Other Alpha-Helix
+9575	family	MADS
+9575	medline	17130146
+9575	tax_group	fungi
+9575	type	COMPILED
+9576	class	Zipper-Type
+9576	family	Leucine Zipper
+9576	medline	16522208
+9576	tax_group	fungi
+9576	type	ChIP-on-chip
+9577	class	Zinc-coordinating
+9577	family	BetaBetaAlpha-zinc finger
+9577	medline	19111667
+9577	tax_group	fungi
+9577	type	PBM, CSA and/or DIP-chip
+9578	class	Zinc-coordinating
+9578	family	BetaBetaAlpha-zinc finger
+9578	medline	19111667
+9578	tax_group	fungi
+9578	type	PBM, CSA and/or DIP-chip
+9579	class	Zipper-Type
+9579	family	Leucine Zipper
+9579	medline	16522208
+9579	tax_group	fungi
+9579	type	ChIP-on-chip
+9580	class	Winged Helix-Turn-Helix
+9580	family	E2F
+9580	medline	18842628
+9580	tax_group	fungi
+9580	type	PBM
+9581	class	Zinc-coordinating
+9581	family	BetaBetaAlpha-zinc finger
+9581	medline	19111667
+9581	tax_group	fungi
+9581	type	PBM, CSA and/or DIP-chip
+9582	class	Zinc-coordinating
+9582	family	BetaBetaAlpha-zinc finger
+9582	medline	19111667
+9582	tax_group	fungi
+9582	type	PBM, CSA and/or DIP-chip
+9583	class	Zinc-coordinating
+9583	family	BetaBetaAlpha-zinc finger
+9583	medline	19111667
+9583	tax_group	fungi
+9583	type	PBM, CSA and/or DIP-chip
+9584	class	Zinc-coordinating
+9584	family	BetaBetaAlpha-zinc finger
+9584	medline	16522208
+9584	tax_group	fungi
+9584	type	ChIP-on-chip
+9585	class	Zinc-coordinating
+9585	family	BetaBetaAlpha-zinc finger
+9585	medline	19111667
+9585	tax_group	fungi
+9585	type	PBM, CSA and/or DIP-chip
+9586	class	Zinc-coordinating
+9586	family	BetaBetaAlpha-zinc finger
+9586	medline	19111667
+9586	tax_group	fungi
+9586	type	PBM, CSA and/or DIP-chip
+9587	class	Ig-fold
+9587	family	NDT80/PhoG
+9587	medline	18842628
+9587	tax_group	fungi
+9587	type	PBM
+9588	class	Other Alpha-Helix
+9588	family	High Mobility Group
+9588	medline	19111667
+9588	tax_group	fungi
+9588	type	PBM, CSA and/or DIP-chip
+9589	class	Other Alpha-Helix
+9589	family	High Mobility Group
+9589	medline	18842628
+9589	tax_group	fungi
+9589	type	PBM
+9590	class	Other Alpha-Helix
+9590	family	High Mobility Group
+9590	medline	18842628
+9590	tax_group	fungi
+9590	type	PBM
+9591	class	Zinc-coordinating
+9591	family	BetaBetaAlpha-zinc finger
+9591	medline	18842628
+9591	tax_group	fungi
+9591	type	PBM
+9592	class	Zinc-coordinating
+9592	family	Fungal Zn cluster
+9592	medline	19111667
+9592	tax_group	fungi
+9592	type	PBM, CSA and/or DIP-chip
+9593	class	Zipper-Type
+9593	family	Leucine Zipper
+9593	medline	16522208
+9593	tax_group	fungi
+9593	type	ChIP-on-chip
+9594	class	Helix-Turn-Helix
+9594	family	Myb
+9594	medline	18842628
+9594	tax_group	fungi
+9594	type	PBM
+9595	class	Helix-Turn-Helix
+9595	family	Myb
+9595	medline	18842628
+9595	tax_group	fungi
+9595	type	PBM
+9596	class	Zinc-coordinating
+9596	family	Fungal Zn cluster
+9596	medline	19111667
+9596	tax_group	fungi
+9596	type	PBM, CSA and/or DIP-chip
+9597	class	Zinc-coordinating
+9597	family	Fungal Zn cluster
+9597	medline	16522208
+9597	tax_group	fungi
+9597	type	ChIP-on-chip
+9598	class	Zinc-coordinating
+9598	family	Fungal Zn cluster
+9598	medline	19111667
+9598	tax_group	fungi
+9598	type	PBM, CSA and/or DIP-chip
+9599	class	Other
+9599	family	KilA-N
+9599	medline	19111667
+9599	tax_group	fungi
+9599	type	PBM, CSA and/or DIP-chip
+9600	class	Helix-Turn-Helix
+9600	family	Homeo
+9600	medline	19111667
+9600	tax_group	fungi
+9600	type	PBM, CSA and/or DIP-chip
+9601	class	Zipper-Type
+9601	family	Helix-Loop-Helix
+9601	medline	18842628
+9601	tax_group	fungi
+9601	type	PBM
+9602	class	Zinc-coordinating
+9602	family	Fungal Zn cluster
+9602	medline	19111667
+9602	tax_group	fungi
+9602	type	PBM, CSA and/or DIP-chip
+9603	class	Helix-Turn-Helix
+9603	family	Myb
+9603	medline	19111667
+9603	tax_group	fungi
+9603	type	PBM, CSA and/or DIP-chip
+9604	class	Zinc-coordinating
+9604	family	Fungal Zn cluster
+9604	medline	19111667
+9604	tax_group	fungi
+9604	type	PBM, CSA and/or DIP-chip
+9605	class	Zinc-coordinating
+9605	family	Fungal Zn cluster
+9605	medline	19111667
+9605	tax_group	fungi
+9605	type	PBM, CSA and/or DIP-chip
+9606	class	Zinc-coordinating
+9606	family	Fungal Zn cluster
+9606	medline	19111667
+9606	tax_group	fungi
+9606	type	PBM, CSA and/or DIP-chip
+9607	class	Helix-Turn-Helix
+9607	family	Myb
+9607	medline	19111667
+9607	tax_group	fungi
+9607	type	PBM, CSA and/or DIP-chip
+9608	class	Zinc-coordinating
+9608	family	BetaBetaAlpha-zinc finger
+9608	medline	19111667
+9608	tax_group	fungi
+9608	type	PBM, CSA and/or DIP-chip
+9609	class	Winged Helix-Turn-Helix
+9609	family	RFX
+9609	medline	19111667
+9609	tax_group	fungi
+9609	type	PBM, CSA and/or DIP-chip
+9610	class	Zinc-coordinating
+9610	family	BetaBetaAlpha-zinc finger
+9610	medline	19111667
+9610	tax_group	fungi
+9610	type	PBM, CSA and/or DIP-chip
+9611	class	Zinc-coordinating
+9611	family	Fungal Zn cluster
+9611	medline	19111667
+9611	tax_group	fungi
+9611	type	PBM, CSA and/or DIP-chip
+9612	class	Zinc-coordinating
+9612	family	BetaBetaAlpha-zinc finger
+9612	medline	19111667
+9612	tax_group	fungi
+9612	type	PBM, CSA and/or DIP-chip
+9613	class	Other Alpha-Helix
+9613	family	MADS
+9613	medline	10487868
+9613	tax_group	fungi
+9613	type	COMPILED
+9614	class	Zinc-coordinating
+9614	family	BetaBetaAlpha-zinc finger
+9614	medline	16522208
+9614	tax_group	fungi
+9614	type	ChIP-on-chip
+9615	class	Other Alpha-Helix
+9615	family	High Mobility Group
+9615	medline	19111667
+9615	tax_group	fungi
+9615	type	PBM, CSA and/or DIP-chip
+9616	class	Zinc-coordinating
+9616	family	BetaBetaAlpha-zinc finger
+9616	medline	19111667
+9616	tax_group	fungi
+9616	type	PBM, CSA and/or DIP-chip
+9617	class	Zinc-coordinating
+9617	family	BetaBetaAlpha-zinc finger
+9617	medline	19111667
+9617	tax_group	fungi
+9617	type	PBM, CSA and/or DIP-chip
+9618	class	Zinc-coordinating
+9618	family	Fungal Zn cluster
+9618	medline	19111667
+9618	tax_group	fungi
+9618	type	PBM, CSA and/or DIP-chip
+9619	class	Zinc-coordinating
+9619	family	Fungal Zn cluster
+9619	medline	19111667
+9619	tax_group	fungi
+9619	type	PBM, CSA and/or DIP-chip
+9620	class	Zipper-Type
+9620	family	Helix-Loop-Helix
+9620	medline	18842628
+9620	tax_group	fungi
+9620	type	PBM
+9621	class	Winged Helix-Turn-Helix
+9621	family	E2F
+9621	medline	18842628
+9621	tax_group	fungi
+9621	type	PBM
+9622	class	Zinc-coordinating
+9622	family	BetaBetaAlpha-zinc finger
+9622	medline	18842628
+9622	tax_group	fungi
+9622	type	PBM
+9623	class	Zinc-coordinating
+9623	family	BetaBetaAlpha-zinc finger
+9623	medline	19111667
+9623	tax_group	fungi
+9623	type	PBM, CSA and/or DIP-chip
+9624	class	Zinc-coordinating
+9624	family	Fungal Zn cluster
+9624	medline	19111667
+9624	tax_group	fungi
+9624	type	PBM, CSA and/or DIP-chip
+9625	class	Winged Helix-Turn-Helix
+9625	family	E2F
+9625	medline	19111667
+9625	tax_group	fungi
+9625	type	PBM, CSA and/or DIP-chip
+9626	class	Zipper-Type
+9626	family	Leucine Zipper
+9626	medline	17130146
+9626	tax_group	fungi
+9626	type	COMPILED
+9627	class	Other Alpha-Helix
+9627	family	MADS
+9627	medline	18842628
+9627	tax_group	fungi
+9627	type	PBM
+9628	class	Helix-Turn-Helix
+9628	family	Myb
+9628	medline	17130146
+9628	tax_group	fungi
+9628	type	COMPILED
+9629	class	Other
+9629	family	KilA-N
+9629	medline	19111667
+9629	tax_group	fungi
+9629	type	PBM, CSA and/or DIP-chip
+9630	class	Beta-sheet
+9630	family	TATA-binding
+9630	medline	18842628
+9630	tax_group	fungi
+9630	type	PBM
+9631	class	Other Alpha-Helix
+9631	family	High Mobility Group
+9631	medline	16522208
+9631	tax_group	fungi
+9631	type	ChIP-on-chip
+9632	class	Other
+9632	family	Other
+9632	medline	16522208
+9632	tax_group	fungi
+9632	type	ChIP-on-chip
+9633	class	Zinc-coordinating
+9633	family	GATA
+9633	medline	19111667
+9633	tax_group	fungi
+9633	type	PBM, CSA and/or DIP-chip
+9634	class	Other
+9634	family	Other
+9634	medline	18842628
+9634	tax_group	fungi
+9634	type	PBM
+9635	class	Zinc-coordinating
+9635	family	Fungal Zn cluster
+9635	medline	19111667
+9635	tax_group	fungi
+9635	type	PBM, CSA and/or DIP-chip
+9636	class	Zinc-coordinating
+9636	family	Fungal Zn cluster
+9636	medline	19111667
+9636	tax_group	fungi
+9636	type	PBM, CSA and/or DIP-chip
+9637	class	Helix-Turn-Helix
+9637	family	Homeo
+9637	medline	17130146
+9637	tax_group	fungi
+9637	type	COMPILED
+9638	class	Zinc-coordinating
+9638	family	BetaBetaAlpha-zinc finger
+9638	medline	16522208
+9638	tax_group	fungi
+9638	type	ChIP-on-chip
+9639	class	Zinc-coordinating
+9639	family	BetaBetaAlpha-zinc finger
+9639	medline	18842628
+9639	tax_group	fungi
+9639	type	PBM
+9640	class	Zinc-coordinating
+9640	family	BetaBetaAlpha-zinc finger
+9640	medline	19111667
+9640	tax_group	fungi
+9640	type	PBM, CSA and/or DIP-chip
+9641	class	Zinc-coordinating
+9641	family	BetaBetaAlpha-zinc finger
+9641	medline	19111667
+9641	tax_group	fungi
+9641	type	PBM, CSA and/or DIP-chip
+9642	class	Other
+9642	family	AT-hook
+9642	medline	19111667
+9642	tax_group	fungi
+9642	type	PBM, CSA and/or DIP-chip
+9643	class	Zinc-coordinating
+9643	family	Fungal Zn cluster
+9643	medline	16522208
+9643	tax_group	fungi
+9643	type	ChIP-on-chip
+9644	class	Zinc-coordinating
+9644	family	Fungal Zn cluster
+9644	medline	18842628
+9644	tax_group	fungi
+9644	type	PBM
+9645	class	Ig-fold
+9645	family	Rel
+9645	medline	19111667
+9645	tax_group	fungi
+9645	type	PBM, CSA and/or DIP-chip
+9646	class	Zinc-coordinating
+9646	family	BetaBetaAlpha-zinc finger
+9646	medline	19111667
+9646	tax_group	fungi
+9646	type	PBM, CSA and/or DIP-chip
+9647	class	Helix-Turn-Helix
+9647	family	Myb
+9647	medline	19111667
+9647	tax_group	fungi
+9647	type	PBM, CSA and/or DIP-chip
+9648	class	Zinc-coordinating
+9648	family	Fungal Zn cluster
+9648	medline	19111667
+9648	tax_group	fungi
+9648	type	PBM, CSA and/or DIP-chip
+9649	class	Zinc-coordinating
+9649	family	Fungal Zn cluster
+9649	medline	19111667
+9649	tax_group	fungi
+9649	type	PBM, CSA and/or DIP-chip
+9650	class	Helix-Turn-Helix
+9650	family	Homeo
+9650	medline	19111667
+9650	tax_group	fungi
+9650	type	PBM, CSA and/or DIP-chip
+9651	class	Zinc-coordinating
+9651	family	Fungal Zn cluster
+9651	medline	17130146
+9651	tax_group	fungi
+9651	type	COMPILED
+9652	class	Helix-Turn-Helix
+9652	family	Homeo
+9652	medline	19111667
+9652	tax_group	fungi
+9652	type	PBM, CSA and/or DIP-chip
+9653	class	Zipper-Type
+9653	family	Helix-Loop-Helix
+9653	medline	19111667
+9653	tax_group	fungi
+9653	type	PBM, CSA and/or DIP-chip
+9654	class	Zinc-coordinating
+9654	family	Fungal Zn cluster
+9654	medline	19111667
+9654	tax_group	fungi
+9654	type	PBM, CSA and/or DIP-chip
+9655	class	Zinc-coordinating
+9655	family	Fungal Zn cluster
+9655	medline	19111667
+9655	tax_group	fungi
+9655	type	PBM, CSA and/or DIP-chip
+9656	class	Zinc-coordinating
+9656	family	Fungal Zn cluster
+9656	medline	17130146
+9656	tax_group	fungi
+9656	type	COMPILED
+9657	class	Zinc-coordinating
+9657	family	BetaBetaAlpha-zinc finger
+9657	medline	18842628
+9657	tax_group	fungi
+9657	type	PBM
+9658	class	Ig-fold
+9658	family	Rel
+9658	medline	19111667
+9658	tax_group	fungi
+9658	type	PBM, CSA and/or DIP-chip
+9659	class	Zipper-Type
+9659	family	Leucine Zipper
+9659	medline	18842628
+9659	tax_group	fungi
+9659	type	PBM
+9660	class	Zipper-Type
+9660	family	Leucine Zipper
+9660	medline	19111667
+9660	tax_group	fungi
+9660	type	PBM, CSA and/or DIP-chip
+9661	class	Zipper-Type
+9661	family	Leucine Zipper
+9661	medline	16522208
+9661	tax_group	fungi
+9661	type	ChIP-on-chip
+9662	class	Zipper-Type
+9662	family	Leucine Zipper
+9662	medline	18842628
+9662	tax_group	fungi
+9662	type	PBM
+9663	class	Zipper-Type
+9663	family	Leucine Zipper
+9663	medline	17130146
+9663	tax_group	fungi
+9663	type	COMPILED
+9664	class	Zinc-coordinating
+9664	family	Fungal Zn cluster
+9664	medline	19111667
+9664	tax_group	fungi
+9664	type	PBM, CSA and/or DIP-chip
+9665	class	Helix-Turn-Helix
+9665	family	Myb
+9665	medline	17130146
+9665	tax_group	fungi
+9665	type	COMPILED
+9666	class	Zinc-coordinating
+9666	family	Fungal Zn cluster
+9666	medline	19111667
+9666	tax_group	fungi
+9666	type	PBM, CSA and/or DIP-chip
+9667	class	Zinc-coordinating
+9667	family	BetaBetaAlpha-zinc finger
+9667	medline	19111667
+9667	tax_group	fungi
+9667	type	PBM, CSA and/or DIP-chip
+9668	class	Zinc-coordinating
+9668	family	Fungal Zn cluster
+9668	medline	19111667
+9668	tax_group	fungi
+9668	type	PBM, CSA and/or DIP-chip
+9669	class	Zinc-coordinating
+9669	family	BetaBetaAlpha-zinc finger
+9669	medline	19111667
+9669	tax_group	fungi
+9669	type	PBM, CSA and/or DIP-chip
+9670	class	Helix-Turn-Helix
+9670	family	Homeo
+9670	medline	16522208
+9670	tax_group	fungi
+9670	type	ChIP-on-chip
+9671	class	Zinc-coordinating
+9671	family	Fungal Zn cluster
+9671	medline	19111667
+9671	tax_group	fungi
+9671	type	PBM, CSA and/or DIP-chip
+9672	class	Zinc-coordinating
+9672	family	Fungal Zn cluster
+9672	medline	19111667
+9672	tax_group	fungi
+9672	type	PBM, CSA and/or DIP-chip
+9673	class	Zinc-coordinating
+9673	family	Fungal Zn cluster
+9673	medline	19111667
+9673	tax_group	fungi
+9673	type	PBM, CSA and/or DIP-chip
+9674	class	Zinc-coordinating
+9674	family	Fungal Zn cluster
+9674	medline	19111667
+9674	tax_group	fungi
+9674	type	PBM, CSA and/or DIP-chip
+9675	class	Zinc-coordinating
+9675	family	BetaBetaAlpha-zinc finger
+9675	medline	19111667
+9675	tax_group	fungi
+9675	type	PBM, CSA and/or DIP-chip
+9676	class	Zinc-coordinating
+9676	family	Fungal Zn cluster
+9676	medline	19111667
+9676	tax_group	fungi
+9676	type	PBM, CSA and/or DIP-chip
+9677	class	Helix-Turn-Helix
+9677	family	Homeo
+9677	medline	19111667
+9677	tax_group	fungi
+9677	type	PBM, CSA and/or DIP-chip
+9678	class	Zinc-coordinating
+9678	family	BetaBetaAlpha-zinc finger
+9678	medline	19111667
+9678	tax_group	fungi
+9678	type	PBM, CSA and/or DIP-chip
+9679	class	Zinc-coordinating
+9679	family	BetaBetaAlpha-zinc finger
+9679	medline	18842628
+9679	tax_group	fungi
+9679	type	PBM
+9680	class	Zinc-coordinating
+9680	family	BetaBetaAlpha-zinc finger
+9680	medline	19111667
+9680	tax_group	fungi
+9680	type	PBM, CSA and/or DIP-chip
+9681	class	Zinc-coordinating
+9681	family	Fungal Zn cluster
+9681	medline	19111667
+9681	tax_group	fungi
+9681	type	PBM, CSA and/or DIP-chip
+9682	class	Zinc-coordinating
+9682	family	Fungal Zn cluster
+9682	medline	19111667
+9682	tax_group	fungi
+9682	type	PBM, CSA and/or DIP-chip
+9683	class	Zinc-coordinating
+9683	family	Fungal Zn cluster
+9683	medline	19111667
+9683	tax_group	fungi
+9683	type	PBM, CSA and/or DIP-chip
+9684	class	Zinc-coordinating
+9684	family	BetaBetaAlpha-zinc finger
+9684	medline	16522208
+9684	tax_group	fungi
+9684	type	ChIP-on-chip
+9685	class	Zinc-coordinating
+9685	family	BetaBetaAlpha-zinc finger
+9685	medline	19111667
+9685	tax_group	fungi
+9685	type	PBM, CSA and/or DIP-chip

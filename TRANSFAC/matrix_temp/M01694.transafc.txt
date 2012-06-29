@@ -1,0 +1,86 @@
+AC  M01694
+XX
+ID  V$YY2
+XX
+DT  17.03.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YY2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17588; YY2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17589; YY2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T17735; YY2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T17736; YY2; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0     45      0      0      C
+02      0     45      0      0      C
+03     45      0      0      0      A
+04      0      0      0     45      T
+05     11      6      2     26      T
+06     23      2      7     13      W
+07      9     13      5     18      N
+XX
+BA  45 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CCATATT; R30722; 6; 7;; p.
+BS  CCATATT; R30726; 3; 7;; p.
+BS  CCATTTT; R30727; 3; 7;; p.
+BS  CCATATT; R30728; 3; 7;; p.
+BS  CCATATT; R30729; 8; 7;; p.
+BS  CCATTAT; R30730; 4; 7;; p.
+BS  CCATCCT; R30731; 5; 7;; p.
+BS  CCATATT; R30732; 4; 7;; p.
+BS  CCATCTT; R30733; 6; 7;; p.
+BS  CCATCTT; R30734; 4; 7;; p.
+BS  CCATCTT; R30735; 4; 7;; p.
+BS  CCATTTT; R30736; 7; 7;; p.
+BS  CCATCTT; R30737; 5; 7;; p.
+BS  CCATTGT; R30738; 7; 7;; p.
+BS  CCATTGT; R30739; 7; 7;; p.
+BS  CCATTGT; R30740; 7; 7;; p.
+BS  CCATTTG; R30741; 3; 7;; p.
+BS  CCATTAA; R30742; 3; 7;; p.
+BS  CCATTAC; R30743; 3; 7;; p.
+BS  CCATTGA; R30744; 3; 7;; p.
+BS  CCATTAG; R30745; 3; 7;; p.
+BS  CCATGAC; R30746; 4; 7;; p.
+BS  CCATTGA; R30747; 4; 7;; p.
+BS  CCATTAA; R30748; 7; 7;; p.
+BS  CCATTAC; R30749; 4; 7;; p.
+BS  CCATAGC; R30750; 4; 7;; p.
+BS  CCATTAC; R30751; 4; 7;; p.
+BS  CCATTAT; R30752; 3; 7;; p.
+BS  CCATTAG; R30753; 3; 7;; p.
+BS  CCATTAC; R30754; 3; 7;; p.
+BS  CCATTGA; R30755; 3; 7;; p.
+BS  CCATTAA; R30756; 3; 7;; p.
+BS  CCATTAA; R30757; 3; 7;; p.
+BS  CCATTAA; R30758; 3; 7;; p.
+BS  CCATTAA; R30759; 3; 7;; p.
+BS  CCATTAG; R30760; 3; 7;; p.
+BS  CCATTAC; R30761; 3; 7;; p.
+BS  CCATAAC; R30762; 3; 7;; p.
+BS  CCATAAC; R30763; 3; 7;; p.
+BS  CCATAAC; R30764; 3; 7;; p.
+BS  CCATAAC; R30764; 3; 7;; p.
+BS  CCATGAC; R30765; 3; 7;; p.
+BS  CCATCAC; R30766; 3; 7;; p.
+BS  CCATATG; R30767; 3; 7;; p.
+BS  CCATTCT; R30768; 3; 7;; p.
+XX
+CC  sequences selected with recombinant YY2 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0053050.
+RX  PUBMED: 17478514.
+RA  Kim J. D., Faulk C., Kim J.
+RT  Retroposition and evolution of the DNA-binding motifs of YY1, YY2 and REX1.
+RL  Nucleic Acids Res. 35:3442-3452 (2007).
+XX
+//

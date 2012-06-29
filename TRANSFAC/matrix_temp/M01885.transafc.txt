@@ -1,0 +1,45 @@
+AC  M01885
+XX
+ID  F$MSN2_Q4
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MSN2
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+HP  M00308; F$STRE_B; MSN2/MSN4, STRE (stress response element ), S. cerevisiae (family).
+XX
+BF  T01257; MSN2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      1      0      0      A
+02      4      0      0      0      A
+03      0      0      4      0      G
+04      0      0      4      0      G
+05      0      0      4      0      G
+06      0      0      4      0      G
+07      1      2      0      0      C
+08      0      1      0      2      T
+09      1      0      2      0      G
+XX
+BA  4 sequences (matrix compiled from individual genomic sites)
+XX
+BS  nAGGGGnnn; R12277; -1; 9;; p.
+BS  AAGGGGCCA; R12305; 4; 9;; p.
+BS  AAGGGGATG; R22944; 3; 9;; n.
+BS  CAGGGGCTG; R29893; 9; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

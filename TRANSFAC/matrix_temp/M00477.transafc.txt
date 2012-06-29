@@ -1,0 +1,49 @@
+AC  M00477
+XX
+ID  V$FOXO3_01
+XX
+DT  06.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXO3
+XX
+DE  fork head box O3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02938; FOXO3a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10677; FOXO3a; Species: Mammalia; site(s) included: no.
+BF  T04178; FOXO3a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15521; FOXO3a; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      4      4      2     11      T
+02      5      4      5      7      N
+03      1      6     10      5      N
+04      0      0      1     21      T
+05      0      0      0     22      T
+06      0      0     22      0      G
+07      0      0      0     22      T
+08      0      0      0     22      T
+09      1      0      1     20      T
+10     20      0      0      2      A
+11      0     19      1      2      C
+12      9      2      5      5      N
+13      4      1      0     13      T
+14      9      2      0      8      W
+XX
+BA  22 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant FOXO3 from a pool of double-stranded oligonucleotides containing a core of 32 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0016824.
+RX  PUBMED: 10880363.
+RA  Furuyama T., Nakazawa T., Nakano I., Mori N.
+RT  Identification of the differential distribution patterns of mRNAs and consensus binding sequences for mouse DAF-16 homologues
+RL  Biochem. J. 349:629-634 (2000).
+XX
+//

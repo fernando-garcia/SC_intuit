@@ -1,0 +1,53 @@
+AC  M01107
+XX
+ID  V$RUSH1A_02
+XX
+DT  07.03.2006 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RUSH-1alpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04146; hltf; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11427; hltf; Species: human, Homo sapiens; site(s) included: no.
+BF  T04148; hltf; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14956; hltf; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04147; HLTF (Met123); Species: human, Homo sapiens; site(s) included: yes.
+BF  T04162; RUSH-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T08634; RUSH-1alpha; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T04163; RUSH-1beta; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     16     10     12     13      N
+02     20     12      5     16      N
+03     26     33      0      0      M
+04      0     59      0      0      C
+05     25      0      0     34      W
+06      0      0      0     59      T
+07     24      5     12     18      N
+08      0      0     22     37      K
+09     15     14     14      8      N
+10     12     12     10     15      N
+XX
+BA  59 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant RUSH-1alpha from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0109.
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+RN  [2]; RE0047359.
+RX  PUBMED: 12198246.
+RA  Hewetson A., Hendrix E. C., Mansharamani M., Lee V. H., Chilton B. S.
+RT  Identification of the RUSH consensus-binding site by cyclic amplification and selection of targets: demonstration that RUSH mediates the ability of prolactin to augment progesterone-dependent gene expression.
+RL  Mol. Endocrinol. 16:2101-2112 (2002).
+XX
+//

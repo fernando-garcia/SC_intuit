@@ -1,0 +1,55 @@
+AC  M00424
+XX
+ID  V$NKX61_01
+XX
+DT  06.02.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nkx6-1
+XX
+DE  NKX6-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17854; Nkx6.1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T04270; NKX6A; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15821; NKX6A; Species: chick, Gallus gallus; site(s) included: no.
+BF  T04261; NKX6A; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15823; NKX6A; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T04268; NKX6A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15819; NKX6A; Species: human, Homo sapiens; site(s) included: no.
+BF  T04269; NKX6A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15820; NKX6A; Species: mouse, Mus musculus; site(s) included: no.
+BF  T04297; NKX6A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15822; NKX6A; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      4      1      9      T
+02      6      1      0     10      W
+03      1      3      0     13      T
+04      0      0      1     16      T
+05      0      0      0     17      T
+06     17      0      0      0      A
+07     17      0      0      0      A
+08      0      0      0     17      T
+09      1      0      4     12      T
+10      1      0     14      2      G
+11      3      2     10      2      G
+12      5      1      0     11      T
+13      2      1      1     13      T
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Nkx6-1 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0015720.
+RX  PUBMED: 10567713.
+RA  Jorgensen M. C., Petersen H. V., Ericson J., Madsen O. D., Serup P.
+RT  Cloning and DNA-binding properties of the rat pancreatic beta-cell-specific factor Nkx6.1
+RL  FEBS Lett. 461:287-294 (1999).
+XX
+//

@@ -1,0 +1,60 @@
+AC  M00215
+XX
+ID  V$SRF_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SRF
+XX
+DE  serum response factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00762; SRF; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T18625; SRF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18626; SRF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00761; SRF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17868; SRF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00763; SRF; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T17840; SRF; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00764; SRF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09343; SRF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14063; SRF; Species: Mammalia; site(s) included: no.
+BF  T16471; SRF; Species: Mammalia; site(s) included: yes.
+BF  T05114; SRF; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00766; SRF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14064; SRF; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03997; SRF-I; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00765; SRF-L; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03995; SRF-M; Species: mouse, Mus musculus; site(s) included: no.
+BF  T03996; SRF-S; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    1.8    0.0   3.23   1.75      D
+02    0.0  12.86    0.0    0.0      C
+03   0.00  12.86   0.00   0.00      C
+04   7.14   1.19   0.00   4.52      W
+05   2.65   0.00   0.00  10.20      T
+06   9.47   0.00   0.93   2.45      A
+07   0.93   1.22   0.00  10.71      T
+08  10.80   0.00   0.00   2.06      A
+09   3.52   0.00   0.00   9.34      T
+10   0.00   0.00  12.86   0.00      G
+11   0.00   0.00  12.86   0.00      G
+12   3.18   6.16   2.13   1.39      N
+13   1.68   7.87   2.45   0.85      C
+14   6.73   2.52   0.00   3.61      W
+15   1.46   2.49   4.63   4.28      N
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0.08, total weight of sequences: 12.86)
+XX
+DR  JASPAR: PB0078.
+XX
+//

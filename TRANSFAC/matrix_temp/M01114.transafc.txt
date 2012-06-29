@@ -1,0 +1,70 @@
+AC  M01114
+XX
+ID  P$E2F_Q2
+XX
+DT  02.06.2006 (created); dtc.
+DT  10.06.2006 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F
+XX
+TY  family
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05582; E2F; Species: carrot, Daucus carota; site(s) included: yes.
+BF  T08823; E2F; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+BF  T05536; E2F; Species: wheat, Triticum aestivum; site(s) included: yes.
+BF  T05975; E2F1; Species: rice, Oryza sativa; site(s) included: yes.
+BF  T06393; E2F1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T18338; E2F1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T06397; E2F1:DPa; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T06017; E2F1:DPb; Species: rice, Oryza sativa; site(s) included: yes.
+BF  T06017; E2F1:DPb; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T06398; E2F1:DPb; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T05976; E2F2; Species: rice, Oryza sativa; site(s) included: yes.
+BF  T06402; E2F2:DPa; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T06403; E2F2:DPb; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T06395; E2F3:DPa; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T06396; E2F3:DPb; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      4      1      7      N
+02      2      4      3      6      N
+03      2      0      0     13      T
+04      0      0      0     15      T
+05      0      0      0     15      T
+06      0     11      4      0      C
+07      0     10      5      0      C
+08      0     15      0      0      C
+09      0      0     15      0      G
+10      0     10      5      0      C
+11      0      8      4      3      C
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TATTTCCCGCT; R13183; 10; 11;; p.
+BS  tgtttcccgct; R15130; 3; 11;; n.
+BS  tttttcccgcc; R15131; 3; 11;; n.
+BS  TTTTTGGCGGC; R15136; -1; 11;; p.
+BS  CCATTCCCGCC; R15137; -1; 11;; p.
+BS  tgtttggcgcg; R16362; 18; 11;; n.
+BS  tttttggcggg; R16365; 18; 11;; n.
+BS  caTTTCCCGCc; R18707; 6; 11;; p.
+BS  ccTTTCCCGCc; R18708; 5; 11;; p.
+BS  attttcccgcg; R18710; 11; 11;; n.
+BS  tctttcccggt; R18711; 11; 11;; n.
+BS  attttcccgcc; R18712; 11; 11;; n.
+BS  gtTTTCCCGCc; R18713; 6; 11;; p.
+BS  acATTCGCGGc; R18715; 5; 11;; p.
+BS  cgtttggcggg; R18716; 12; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+XX
+//

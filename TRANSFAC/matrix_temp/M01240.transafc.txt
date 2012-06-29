@@ -1,0 +1,77 @@
+AC  M01240
+XX
+ID  V$BEN_01
+XX
+DT  13.05.2009 (created); apk.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BEN
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16293; (Ben)2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16290; Ben; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15974; Ben; Species: Mammalia; site(s) included: no.
+BF  T15762; Ben; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10495; Ben; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      2     22      6      0      C
+02     22      2      2      4      A
+03      2      0     28      0      G
+04      3     23      4      0      C
+05      2      7     21      0      G
+06     14      2     13      1      R
+07      8     10      6      6      N
+08      9     12      8      0      V
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGGCGACA; R27634; 6; 8;; p.
+BS  CTGCGATA; R27637; 6; 8;; p.
+BS  CTGCGATA; R27638; 6; 8;; p.
+BS  CTGCGATA; R27639; 6; 8;; p.
+BS  CTGCGATA; R27640; 6; 8;; p.
+BS  CAGCGGCA; R27641; 4; 8;; p.
+BS  CAGCGTGC; R27642; 6; 8;; p.
+BS  CAGCGATC; R27643; 9; 8;; p.
+BS  CCGGCCCN; R27644; 6; 8;; p.
+BS  CAGCGGAC; R27645; 9; 8;; p.
+BS  CAGCGACA; R27646; 6; 8;; p.
+BS  CCACGACA; R27647; 5; 8;; p.
+BS  CAGCGAGG; R27648; 5; 8;; p.
+BS  CAGCGGCG; R27649; 10; 8;; p.
+BS  CAGCGATA; R27650; 5; 8;; p.
+BS  CAGCGAGC; R27651; 8; 8;; p.
+BS  CAGCCGAC; R27652; 9; 8;; p.
+BS  CAGCCGAG; R27653; 7; 8;; p.
+BS  CAGCCGAC; R27654; 6; 8;; p.
+BS  CAGACGAC; R27655; 7; 8;; p.
+BS  CAGACGAC; R27656; 7; 8;; p.
+BS  CAGACGAC; R27657; 7; 8;; p.
+BS  GAGCGAGC; R27658; 4; 8;; p.
+BS  GAGGGACC; R27659; 5; 8;; p.
+BS  GAGCGAAC; R27660; 1; 8;; p.
+BS  GAGCGGCG; R27661; 5; 8;; p.
+BS  GAGCGGGG; R27662; 6; 8;; p.
+BS  GAACGGGG; R27663; 1; 8;; p.
+BS  AAGGAGCG; R27664; 8; 8;; p.
+BS  AGGGACCG; R27665; 7; 8;; p.
+XX
+CC  sequences selected with recombinant BEN from a pool of double-stranded oligonucleotides containing a core of 19 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+RN  [2]; RE0062688.
+RX  PUBMED: 18326499.
+RA  Lazebnik M. B., Tussie-Luna M. I., Roy A. L.
+RT  Determination and functional analysis of the consensus binding site for TFII-I family member BEN, implicated in Williams-Beuren syndrome.
+RL  J. Biol. Chem. 283:11078-11082 (2008).
+XX
+//

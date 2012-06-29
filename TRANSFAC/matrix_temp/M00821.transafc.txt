@@ -1,0 +1,65 @@
+AC  M00821
+XX
+ID  V$NRF2_Q4
+XX
+DT  29.08.2003 (created); vma.
+DT  31.08.2003 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nrf-2
+XX
+DE  heterodimer containing Nrf2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T01598; Nrf2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10871; Nrf2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01443; Nrf2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10925; Nrf2; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T13730; Nrf2; Species: Mammalia; site(s) included: no.
+BF  T04938; Nrf2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08469; Nrf2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05668; Nrf2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09645; Nrf2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10935; Nrf2-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10936; Nrf2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09244; Nrf2-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05576; Nrf2:MafK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05666; Nrf2:MafK; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      4      1      2      N
+02      1      1      1      7      T
+03      0      2      8      0      G
+04      2      7      0      1      C
+05      2      0      1      7      T
+06      1      1      7      1      G
+07      8      0      0      2      A
+08      0      0      8      2      G
+09      0      0      0     10      T
+10      0     10      0      0      C
+11     10      0      0      0      A
+12      0      2      3      5      K
+13      1      2      4      3      N
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATGATGAGTCATG; R02420; 9; 13;; p.
+BS  TCGCTGAGTCATG; R13440; 8; 13;; p.
+BS  CAGAGATGTCATA; R13577; 3; 13;; p.
+BS  CTCCAGATTCAGT; R13578; 1; 13;; p.
+BS  GTGTTGAGTCAGC; R13579; 1; 13;; p.
+BS  TTGCTGATTCATT; R13587; 6; 13;; p.
+BS  CGCCACAGTCAGC; R13588; 7; 13;; p.
+BS  CTGCTGAGTCACT; R13589; 9; 13;; n.
+BS  ATGCTTTGTCATG; R13590; 4; 13;; n.
+BS  ATGCTGAGTCACG; R14173; 4; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+//

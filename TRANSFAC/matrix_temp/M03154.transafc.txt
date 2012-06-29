@@ -1,0 +1,51 @@
+AC  M03154
+AS  MA0458
+XX
+ID  I$SLP1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  slp1
+XX
+DE  class: Winged Helix-Turn-Helix; family: Forkhead
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T01055; Slp1; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      8      3     14     16      N
+02      0      0      0     41      T
+03      3      0     38      0      G
+04      0      0      0     41      T
+05      0      0      1     40      T
+06      0      0      2     39      T
+07     27      0      4     10      A
+08      1     22      7     11      C
+09     17      8     15      1      R
+10      4     13      3     21      Y
+11     15      3      4     19      W
+XX
+BA  41 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0458.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071779.
+RX  PUBMED: 18332042.
+RA  Noyes M. B., Meng X., Wakabayashi A., Sinha S., Brodsky M. H., Wolfe S. A.
+RT  A systematic characterization of factors that regulate Drosophila segmentation via a bacterial one-hybrid system.
+RL  Nucleic Acids Res. 36:2547-2560 (2008).
+XX
+//

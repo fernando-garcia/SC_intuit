@@ -1,0 +1,62 @@
+AC  M00701
+XX
+ID  V$SMAD3_Q6
+XX
+DT  13.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SMAD3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00792; V$SMAD_Q6;  (family).
+HP  M00974; V$SMAD_Q6_01;  (family).
+XX
+BF  T18575; Smad3; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04248; Smad3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17939; Smad3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04251; Smad3; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T04096; Smad3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10378; Smad3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09538; Smad3; Species: Mammalia; site(s) included: no.
+BF  T04210; Smad3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09072; Smad3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04431; Smad3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08509; Smad3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04149; Smad3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      2      0      6      T
+02      1      0      8      0      G
+03      0      0      2      7      T
+04      0      9      0      0      C
+05      0      1      0      8      T
+06      0      0      9      0      G
+07      2      2      0      5      T
+08      0      9      0      0      C
+09      1      1      0      7      T
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGTCTGACT; R09881; -4; 9;; n.
+BS  TGTCTGCCC; R09935; 33; 9;; p.
+BS  TGTCTGTCT; R09952; 3; 9;; n.
+BS  CATCTGTCT; R09955; 8; 9;; n.
+BS  CGGCTGACT; R09967; 21; 9;; n.
+BS  AGTCTGTCT; R10061; 6; 9;; p.
+BS  TGGCCGTCT; R10063; 18; 9;; n.
+BS  TGTCTGCCA; R10069; 18; 9;; n.
+BS  TGTCTGTCT; R10078; 1; 9;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00701; V$SMAD3_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

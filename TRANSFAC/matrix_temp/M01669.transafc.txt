@@ -1,0 +1,39 @@
+AC  M01669
+XX
+ID  F$GCR2_01
+XX
+DT  22.02.2010 (created); mkl.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCR2
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03370; GCR2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      3     13      1      G
+02      0     20      0      0      C
+03      1      0      1     18      T
+04      0      0      0     20      T
+05      0     20      0      0      C
+06      0     20      0      0      C
+07      6      6      1      7      N
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  used PhyloCon and Converge for ChIP Motifs approach
+XX
+DR  JASPAR: MA0305.
+XX
+RN  [1]; RE0065640.
+RX  PUBMED: 16522208.
+RA  Macisaac K. D., Wang T., Gordon D. B., Gifford D. K., Stormo G. D., Fraenkel E.
+RT  An improved map of conserved regulatory sites for Saccharomyces cerevisiae.
+RL  BMC Bioinformatics 7:113 (2006).
+XX
+//

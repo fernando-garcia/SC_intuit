@@ -1,0 +1,61 @@
+AC  M01236
+XX
+ID  V$IPF1_04
+XX
+DT  23.04.2009 (created); apk.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IPF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04541; ipf1; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T04267; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T10381; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T15921; Ipf1; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T04362; ipf1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09250; ipf1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10332; ipf1; Species: Mammalia; site(s) included: no.
+BF  T02057; ipf1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09093; ipf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02058; ipf1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10232; ipf1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      6      0      0      C
+02      6      0      0      0      A
+03      0      0      0      6      T
+04      0      0      0      6      T
+05      6      0      0      0      A
+06      6      0      0      0      A
+07      0      0      0      6      T
+08      3      2      0      1      M
+09      1      0      4      1      G
+10      1      1      4      0      G
+XX
+BA  6 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CATTAATTGA; R27418; 1; 10;; p.
+BS  CATTAATCTG; R27419; 1; 10;; p.
+BS  CATTAATCAC; R27420; 1; 10;; p.
+BS  CATTAATAGG; R27421; 1; 10;; p.
+BS  CATTAATAGG; R27422; 1; 10;; p.
+BS  CATTAATAGG; R27423; 1; 10;; p.
+XX
+CC  sequences selected with recombinant IPF1 from a pool of double-stranded oligonucleotides containing a core of 10 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0062594.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20092:0001 (2009).
+RN  [2]; RE0052072.
+RX  PUBMED: 14704343.
+RA  Liberzon A., Ridner G., Walker M. D.
+RT  Role of intrinsic DNA binding specificity in defining target genes of the mammalian transcription factor PDX1.
+RL  Nucleic Acids Res. 32:54-64 (2004).
+XX
+//

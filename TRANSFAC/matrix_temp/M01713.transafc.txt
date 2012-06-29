@@ -1,0 +1,65 @@
+AC  M01713
+XX
+ID  F$GCN4_Q2
+XX
+DT  26.04.2010 (created); dtc.
+DT  30.04.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCN4
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T10854; GCN4; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      6      5      7      N
+02     14      3      3      3      A
+03      8      2      3     11      W
+04      2      3     14      5      G
+05     20      2      0      2      A
+06      0      0     22      2      G
+07      0      0      1     23      T
+08      4     19      1      0      C
+09     24      0      0      0      A
+10      4      3      3     13      T
+11      5      4      1     13      T
+XX
+BA  24 sequences (matrix compiled from individual genomic sites)
+XX
+BS  aagtcgtcatc; R00644; -2; 11;; n.
+BS  TAGGAGTCACT; R00645; -3; 11;; p.
+BS  CATTAGTCAGG; R00646; -3; 11;; p.
+BS  caagagtaata; R00647; -2; 11;; n.
+BS  aaagagtcatc; R00648; -2; 11;; n.
+BS  gatgagtcatt; R00649; -1; 11;; n.
+BS  ttagagtcagt; R00651; -2; 11;; n.
+BS  cgtgagtcact; R00655; -2; 11;; n.
+BS  TATCAGTCATT; R00656; -3; 11;; p.
+BS  tcatagtcata; R00657; -2; 11;; n.
+BS  AAAGAGTCATC; R00829; -3; 11;; p.
+BS  CTTGTGTGAGT; R00830; -6; 11;; p.
+BS  ACTAAGTCAAT; R00831; -3; 11;; p.
+BS  GATGATTCATT; R00832; -2; 11;; p.
+BS  agagagtcaat; R02022; -1; 11;; n.
+BS  tattagtcata; R02023; -1; 11;; n.
+BS  gaagagtcaat; R04022; -1; 11;; n.
+BS  gagcagtcatt; R04024; -1; 11;; n.
+BS  nnACATTCAnn; R12321; -2; 11;; p.
+BS  tttacgtaatt; R22310; 8; 11;; n.
+BS  CCCGAGGAACT; R22429; -6; 11;; p.
+BS  TACGTGTCATA; R22430; 9; 11;; p.
+BS  ggtgagtcaaa; R23519; 102; 11;; n.
+BS  CATTAGTAATC; R23818; 8; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

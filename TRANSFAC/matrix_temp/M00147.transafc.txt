@@ -1,0 +1,49 @@
+AC  M00147
+XX
+ID  V$HSF2_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HSF2
+XX
+DE  heat shock factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01045; HSF2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01043; HSF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00972; HSF2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08289; HSF2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08287; HSF2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08288; HSF2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09196; HSF2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16186; HSF2B; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      6      8      3      N
+02      0      0     27      0      G
+03     24      1      2      0      A
+04     20      1      2      4      A
+05      4      6      7     10      N
+06      8      7      8      4      N
+07      8      2      2     15      W
+08      4      0      2     20      T
+09      0     27      0      0      C
+10      2      4     12      9      K
+XX
+BA  27 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant HSF2 from a pool of double-stranded oligonucleotides containing a core of 27 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0003118.
+RX  PUBMED: 7935474.
+RA  Kroeger P. E., Morimoto R. I.
+RT  Selection of new HSF1 and HSF2 DNA-binding sites reveals differences in trimer cooperativity
+RL  Mol. Cell. Biol. 14:7592-7603 (1994).
+XX
+//

@@ -1,0 +1,52 @@
+AC  M02361
+AS  MA0243
+XX
+ID  I$SD_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  sd
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T02030; Sd; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      3      0      8      3      G
+02      8      1      1      4      A
+03      4      8      1      1      C
+04     14      0      0      0      A
+05      1      1      0     12      T
+06      3      0      1     10      T
+07      0      8      0      6      Y
+08      3      5      3      3      N
+09      4      1      2      7      W
+10      5      6      3      0      M
+11      5      1      7      1      R
+12      4      3      4      3      N
+XX
+BA  14 sequences (DNase I footprinting)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0243.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0035399.
+RX  PUBMED: 15572468.
+RA  Bergman C. M., Carlson J. W., Celniker S. E.
+RT  Drosophila DNase I footprint database: a systematic genome annotation of transcription factor binding sites in the fruitfly, Drosophila melanogaster.
+RL  Bioinformatics 21:1747-1749 (2005).
+XX
+//

@@ -1,0 +1,45 @@
+AC  M01599
+XX
+ID  V$FOXP3_01
+XX
+DT  20.01.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXP3
+XX
+DE  forkhead box P3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04280; FOXP3; Species: human, Homo sapiens; site(s) included: no.
+BF  T15481; FOXP3; Species: Mammalia; site(s) included: no.
+BF  T04279; FOXP3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15124; FOXP3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15125; FOXP3-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T18943; FOXP3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   2.32   0.01   1.67   0.01      R
+02   0.01   1.09   0.01   2.89      T
+03   4.05   0.01   0.01   0.01      A
+04   4.05   0.01   0.01   0.01      A
+05   4.05   0.01   0.01   0.01      A
+06   0.01   3.89   0.01   0.01      C
+07   4.05   0.01   0.01   0.01      A
+08   2.18   0.35   0.66   0.75      A
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  POXP3 binding motif defined from ChIP-on-chip experiment in T-cells; used THEME algorithm for ChIP Motifs approach and transformed in weights
+XX
+RN  [1]; RE0065572.
+RX  PUBMED: 17237765.
+RA  Marson A., Kretschmer K., Frampton G. M., Jacobsen E. S., Polansky J. K., Macisaac K. D., Levine S. S., Fraenkel E., von Boehmer H., Young R. A.
+RT  Foxp3 occupancy and regulation of key target genes during T-cell stimulation.
+RL  Nature 445:931-935 (2007).
+XX
+//

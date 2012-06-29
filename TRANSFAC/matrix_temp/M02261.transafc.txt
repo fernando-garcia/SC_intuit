@@ -1,0 +1,62 @@
+AC  M02261
+AS  MA0112
+XX
+ID  V$ESR1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ESR1
+XX
+DE  class: Zinc-coordinating; family: Hormone-nuclear Receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00959; V$ER_Q6_02; half-site matrix, half-ERE (family).
+XX
+BF  T00261; ER-alpha; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    122    120    154     71      N
+02    107     80    164    117      N
+03     64    173    149     82      N
+04     83    229     65     93      N
+05    134    232     47     57      M
+06    308     28     89     48      A
+07     36      8    387     43      G
+08     19     18    420     18      G
+09     33     41     91    310      T
+10      4    394     53     24      C
+11    398     13     27     37      A
+12     58    250    107     60      C
+13     63    276     53     83      C
+14     64    258     97     56      C
+15     32     19      8    416      T
+16     21     22    426      6      G
+17    305    106     31     33      A
+18     10    436     12     17      C
+19     59    353      2     61      C
+20     26    165     22    262      Y
+XX
+BA  sequences (ChIP-Seq)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0112.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0063368.
+RX  PUBMED: 19339991.
+RA  Welboren W. J., van Driel M. A., Janssen-Megens E. M., van Heeringen S. J., Sweep F. C., Span P. N., Stunnenberg H. G.
+RT  ChIP-Seq of ERalpha and RNA polymerase II defines genes differentially responding to ligands.
+RL  EMBO J. 28:1418-1428 (2009).
+XX
+//

@@ -1,0 +1,59 @@
+AC  M00479
+XX
+ID  P$ALFIN1_Q2
+XX
+DT  10.09.2001 (created); rhe/rge.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Alfin1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T04733; Alfin1; Species: alfalfa, Medicago sativa; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      0      4      2      R
+02      5      1      3      1      R
+03      5      1      4      0      R
+04      2      2      6      2      G
+05      5      2      5      0      R
+06      2      2      6      2      G
+07      0      0     13      0      G
+08      0      0      0     13      T
+09      0      0     13      0      G
+10      1      1      8      3      G
+11      1      1      8      3      G
+12      1      1     10      1      G
+13      3      4      3      2      N
+14      2      3      2      3      N
+15      1      0      5      3      K
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGAGCGGTGGCCC; R10969; 13; 15; 26, 27; p.
+BS  AAGGGGGTGGGGACG; R10970; 3; 15;; p.
+BS  AAGGGGGTGGGGACG; R10971; 3; 15;; p.
+BS  TAGGGTGTGGGGGGT; R10972; 3; 15;; p.
+BS  GCATAGGTGAGGTGG; R10973; 2; 15;; p.
+BS  AGAAACGTGGAGAAT; R10974; 10; 15;; p.
+BS  GAAGGAGTGTGGTAG; R10975; 5; 15;; p.
+BS  GGCAGCGTGTTGC; R10976; 11; 15; 24, 25; p.
+BS  GTGTAGGTGGGACT; R10977; 12; 15; 26; p.
+BS        GTGGGGGCA; R10978; 1; 15; 1, 2, 3, 4, 5, 6; p.
+BS     CATGTGTGTGTT; R10979; 1; 15; 1, 2, 3; p.
+BS     CAAGTGGTGCTG; R10980; 1; 15; 1, 2, 3; p.
+BS  AAAGCGGTGCTG; R10981; 1; 15; 13, 14, 15; p.
+XX
+CC  compiled and aligned by BIOBASE; includes artificial sites from SELEX
+XX
+RN  [1]; RE0016837.
+RX  PUBMED: 9869418.
+RA  Bastola D. R., Pethe V. V., Winicov I.
+RT  Alfin1, a novel zinc-finger protein in alfalfa roots that binds to promoter elements in the salt-inducible MsPRP2 gene
+RL  Plant Mol. Biol. 38:1123-1135 (1998).
+XX
+//

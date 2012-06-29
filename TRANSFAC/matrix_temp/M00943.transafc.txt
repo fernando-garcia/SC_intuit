@@ -1,0 +1,53 @@
+AC  M00943
+XX
+ID  P$TAF1_01
+XX
+DT  05.09.2003 (created); ela.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TAF-1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01090; TAF-1; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+BF  T11453; TAF-1; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      3      7      2      N
+02      3      7      1      4      N
+03      2     10      4      1      C
+04     16      1      0      0      A
+05      0     16      1      0      C
+06      0      0     16      1      G
+07      0      0      1     16      T
+08      0      4     13      0      G
+09      3      1      8      3      N
+10      2      6      4      3      N
+XX
+BA  17 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCCACGTGGC; R08680; 1; 10;; p.
+BS  GACACGTGTC; R08682; 1; 10;; p.
+BS  TCCACGTGGA; R08683; 1; 10;; p.
+BS  TACACGTGTA; R08684; 1; 10;; p.
+BS  CCCACGTGGG; R08687; 1; 10;; p.
+BS  ACCACGTGGT; R08689; 1; 10;; p.
+BS  AACACGTGTT; R08690; 1; 10;; p.
+BS  GCCACGTGGC; R08691; 1; 10;; p.
+BS  GTGACGTCAC; R08692; 1; 10;; p.
+BS  CTGACGTCAG; R08693; 1; 10;; p.
+BS  ATGACGTCAT; R08694; 1; 10;; p.
+BS  NNGACGTCNN; R08695; 1; 10;; p.
+BS  NNCACGTGNN; R08696; 1; 10;; p.
+BS  GTACGTGGCG; R09159; 1; 10;; p.
+BS  GCAACGTGGC; R09850; 1; 10;; p.
+BS  GCCACGTGGC; R09851; 1; 10;; p.
+BS  CGTACGTGGG; R09852; 1; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; includes artificial sites
+XX
+//

@@ -1,0 +1,53 @@
+AC  M01406
+XX
+ID  V$HOXC6_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  11.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXC6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01743; HOXC6 (PRI); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01744; HOXC6 (PRII); Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.14   0.45   0.16   0.25      N
+02   0.46   0.11   0.31   0.12      R
+03   0.48   0.17   0.13   0.23      N
+04   0.43   0.22   0.28   0.07      N
+05    0.1   0.04    0.4   0.46      K
+06   0.03   0.09   0.01   0.88      T
+07   0.91   0.02   0.01   0.06      A
+08   0.96   0.01   0.01   0.02      A
+09   0.02   0.01   0.01   0.96      T
+10   0.06   0.01   0.02   0.91      T
+11   0.88   0.01   0.09   0.03      A
+12   0.46    0.4   0.04    0.1      M
+13   0.12   0.22   0.24   0.42      N
+14   0.38   0.09   0.16   0.36      N
+15   0.46   0.16   0.23   0.15      N
+16   0.32   0.27   0.21    0.2      N
+17   0.32   0.18   0.23   0.27      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0071.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

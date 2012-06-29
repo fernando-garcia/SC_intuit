@@ -1,0 +1,167 @@
+AC  M01836
+XX
+ID  V$GR_Q6_02
+XX
+DT  08.02.2011 (created); mkl.
+DT  02.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GR
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00960; V$PR_Q2; half-site matrix (family).
+XX
+BF  T00336; GR; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00334; GR; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05076; GR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10446; GR; Species: Mammalia; site(s) included: yes.
+BF  T00335; GR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08555; GR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00333; GR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00337; GR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     17     52     16     21      N
+02     40     21     16     29      N
+03     31     25     24     28      N
+04     27     22     18     41      N
+05     29     34     18     27      N
+06      2      1      4    102      T
+07      3      8     91      7      G
+08      6      1      0    102      T
+09      9     34      8     58      Y
+10      1    108      0      0      C
+11     12     19      2     76      T
+12     17     29     31     29      N
+13     22     25     29     28      N
+XX
+BA  109 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CAATTTGATCTTA; R00591; -2; 13;; n.
+BS  TGAAGGGTACTTG; R00593; 8; 13;; n.
+BS  TGGAATTTCCTGT; R00595; -1; 13;; p.
+BS  CCCTGTGTTCTCT; R00973; -2; 13;; n.
+BS  CTTTATGTACAGG; R00974; -5; 13;; p.
+BS  CAAACTGTTCTTA; R01104; 7; 13;; p.
+BS  CCATCTGTTCTTG; R01146; -2; 13;; n.
+BS  CCATCTGTTCTTG; R01147; -2; 13;; n.
+BS  nnnnnTGTTCTnn; R01312; -5; 13;; p.
+BS  CAGGATGTTCTAG; R01481; 6; 13;; p.
+BS  TTGTTTGTTCTAG; R01483; -1; 13;; n.
+BS  CAATGTGTTCTTT; R01576; -1; 13;; n.
+BS  CCATCTGTTCTTG; R01645; 2; 13;; n.
+BS  TTAACTGTTCTTG; R01659; -2; 13;; n.
+BS  GGTTATCTGCCAC; R01698; 13; 13;; n.
+BS  CAAAGTGTTCAAA; R02021; 5; 13;; p.
+BS  GTCTTTGTCCTTG; R02043; 10; 13;; p.
+BS  CGACCTAAGCTGC; R03551; -2; 13;; p.
+BS  AAGATTGTGCAAT; R03552; 15; 13;; n.
+BS  TCTCCAGTCCTAT; R03555; 3; 13;; n.
+BS  CATTCTGCCCTCG; R03556; 7; 13;; p.
+BS  CTGTTTATACCCT; R03558; 2; 13;; n.
+BS  CTGTTTGTCCCGT; R12328; -2; 13;; n.
+BS  CTGAGTGTTCAAA; R12329; -2; 13;; n.
+BS  CGGCCTGTGCCCT; R12330; 5; 13;; p.
+BS  ACACGTGTTCTAG; R12338; -3; 13;; p.
+BS  ACACGTGTTCTAG; R12343; 2; 13;; p.
+BS  acacgTGTTCTag; R12346; 5; 13;; p.
+BS  TGACTTGTCCATT; R12380; 10; 13;; n.
+BS  CAgctTGTTCTgg; R12398; 13; 13;; n.
+BS  CACCTTGTCCTCC; R12399; 6; 13;; n.
+BS  CAAAATGTTCTTT; R12403; -1; 13;; n.
+BS  CTCTGTGTCCTTG; R13056; 8; 13;; p.
+BS  aaTGTTTTgcttn; R14193; 12; 13;; p.
+BS  CTTGTTGTTCCCT; R16490; 9; 13;; n.
+BS  nngaaTGTTCTtt; R19220; 4; 13;; n.
+BS  nntgcTGTTCCcc; R19221; 3; 13;; n.
+BS  TTTGCTCTCCTGG; R21184; 1; 13;; p.
+BS  GTGTATGTTCTCA; R21739; 11; 13;; p.
+BS  GAAATTGTCCTCT; R21743; 11; 13;; p.
+BS  TTCTTGGTACTGC; R22614; -3; 13;; n.
+BS  GAATGTGTTCTGC; R22615; -7; 13;; p.
+BS  CACTCTGTTCTGG; R22837; -2; 13;; n.
+BS  CCGGATGTTCTGC; R22838; 8; 13;; p.
+BS  CAGGATGTTCCTA; R22839; -1; 13;; n.
+BS  CATAATGTGCTTG; R22840; -3; 13;; n.
+BS  TTAGATCTTCTGA; R23870; -8; 13;; p.
+BS  TTTACGGTCCTGC; R23881; -4; 13;; n.
+BS  GCATGTGTCCAAC; R23892; 12; 13;; p.
+BS  ATTTCTGACCTTC; R23911; 3; 13;; n.
+BS  TTAGATCTTCTGA; R23921; 10; 13;; p.
+BS  GGAAATGTCCCGA; R26402; 1; 13;; p.
+BS  TGGGATGTCCTGT; R26403; -1; 13;; n.
+BS  CATGCTGTGCCAA; R26405; 1; 13;; n.
+BS  ACAGATGTTCTCT; R27053; 7; 13;; p.
+BS  tgccaTGTTCTca; R27054; 7; 13;; p.
+BS  GTAACTGTTCTCC; R27055; 7; 13;; p.
+BS  AACTCTGTCCTGA; R27204; 10; 13;; p.
+BS  CCTCCTGTTCTCA; R27218; 7; 13;; n.
+BS  AACTTTGTTCTTT; R28966; 4; 13;; p.
+BS  ggcttTGTTCTTT; R28967; 4; 13;; p.
+BS  CAAAATGTTCTCT; R29483; -3; 13;; n.
+BS  gacttTGACCTTC; R29504; 11; 13;; n.
+BS  CGCTCTCTTCTCA; R29680; -3; 13;; n.
+BS  CATTTTGTTCTnn; R29916; -2; 13;; n.
+BS  TCCAATGTACTCC; R30933; 8; 13;; p.
+BS  ACTCCTTTCCATC; R30944; -5; 13;; p.
+BS  GTTAATGTTATGT; R30945; 4; 13;; n.
+BS  ATCTATGATCCAC; R30946; -6; 13;; p.
+BS  GCAATTGTCCTGC; R30951; 8; 13;; p.
+BS  TCCAATGTACTCC; R30990; 1; 13;; n.
+BS  CACCCTGTTCTGA; R31970; 5; 13;; n.
+BS  CTCTCTGTACTTT; R33035; 6; 13;; n.
+BS  CAgtgTGTCCTtg; R33259; 9; 13;; n.
+BS  TACCCTCTCCCTG; R33841; 3; 13;; n.
+BS  CTTCCTGTCCAGA; R35146; -3; 13;; p.
+BS  CCCCCTGTCCTGC; R35197; 8; 13;; p.
+BS  CGGCATGTTCCCT; R35376; -1; 13;; n.
+BS  CCTTTTATTCTTG; R35379; 13; 13;; p.
+BS  AAGCGCGTCCCGG; R35415; 6; 13;; n.
+BS  AAGCGTCACCAAC; R35419; 12; 13;; p.
+BS  CAAAATGTTCTCA; R35431; 5; 13;; p.
+BS  CATTCTGTTCTnn; R35432; -2; 13;; n.
+BS  GCAATTGTCCGGA; R35523; -3; 13;; p.
+BS  CAGGATGTTCTGC; R35527; 11; 13;; p.
+BS  CACTCAGTTCTGG; R35544; 1; 13;; p.
+BS  CTGTTTGTGCGCG; R35545; -2; 13;; n.
+BS  AGTCCTGTACAGT; R35565; 7; 13;; p.
+BS  TGAGGTTTTCTGC; R35590; 6; 13;; n.
+BS  CCTCCTGTTCCCA; R35593; 8; 13;; p.
+BS  TTAGTTGTTCCAT; R35625; 1; 13;; p.
+BS  gcAGTTCTcctgn; R35637; 12; 13;; p.
+BS  TTCAATGTTCATT; R35683; 13; 13;; n.
+BS  CACTTTGTTCTGT; R35812; 5; 13;; p.
+BS  AGTACTTTACTAG; R35841; 14; 13;; p.
+BS  CATCATGTTCTGA; R35846; 13; 13;; n.
+BS  GTTAATGTCCCTG; R35861; 11; 13;; p.
+BS  GTTAATGTCCCTG; R35865; 11; 13;; p.
+BS  TACTGGGTCCCCT; R35998; 16; 13;; n.
+BS  AAATGTTTCCAAT; R36213; 14; 13;; n.
+BS  CACATTGTCCTTC; R37446; 7; 13;; p.
+BS  CTGTTTTTTCTCT; R37448; 7; 13;; p.
+BS  TTTACTGTTCTCA; R37449; 7; 13;; p.
+BS  CATGCTGTTCTCC; R37451; 7; 13;; p.
+BS  CAGTATGTCCTCG; R37452; 1; 13;; n.
+BS  CGGTCTGTTCTCA; R37453; 7; 13;; p.
+BS  CACTGTGTCCTCC; R37455; 7; 13;; p.
+BS  AAGTTTGTTCTGG; R37482; 11; 13;; n.
+BS  CTTGCTGTTCCCC; R37484; 11; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00192; V$GR_Q6; glucocorticoid receptor
+OV  M00921; V$GR_Q6_01; half-site matrix
+RN  [1]; RE0072507.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+RN  [2]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

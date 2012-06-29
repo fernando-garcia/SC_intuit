@@ -1,0 +1,74 @@
+AC  M00480
+XX
+ID  V$LUN1_01
+XX
+DT  10.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LUN-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T10287; LUN; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04734; LUN-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04736; LUN-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     24      T
+02      0     24      0      0      C
+03      0     24      0      0      C
+04      0     24      0      0      C
+05     24      0      0      0      A
+06      0      0     24      0      G
+07      1     22      1      0      C
+08      0      0      0      5      T
+09     23      0      0      1      A
+10      1     23      0      0      C
+11      0      1      0     16      T
+12      0      0      0     21      T
+13      1      2      0     21      T
+14      3      0     21      0      G
+15      0      0     23      0      G
+16      0      0     24      0      G
+17     24      0      0      0      A
+XX
+BA  24 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TCCCAGC ACTTAGGGA; R10982; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R10983; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R10984; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R10985; 21; 17; 28; p.
+BS  TCCCAGA ACTTTGGGA; R10986; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R10987; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R10988; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R10989; 21; 17; 28; p.
+BS  TCCCAGC TACTTGGGA; R10990; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R10991; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R10992; 21; 17; 28; p.
+BS  TCCCAGCTAC TCGGGA; R10993; 21; 17; 31; p.
+BS  TCCCAGC AC  TGGGA; R10994; 21; 17; 28, 31, 32; p.
+BS  TCCCAGC ACTTTGGGA; R10995; 21; 17; 28; p.
+BS  TCCCAGCTAC TCGGGA; R10996; 21; 17; 31; p.
+BS  TCCCAGC AC  TGGGA; R10997; 21; 17; 28, 31, 32; p.
+BS  TCCCAGCTAC  TA GA; R10998; 21; 17; 31, 32, 35; p.
+BS  TCCCAGC ACTTTGGGA; R10999; 21; 17; 28; p.
+BS  TCCCAGCTAC TTAGGA; R11000; 21; 17; 31; p.
+BS  TCCCAGCTAC TTAGGA; R11001; 21; 17; 31; p.
+BS  TCCCAGC ACTTTGGGA; R11002; 21; 17; 28; p.
+BS  TCCCAGG ACTTTGGGA; R11003; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R11004; 21; 17; 28; p.
+BS  TCCCAGC ACTTTGGGA; R11005; 21; 17; 28; p.
+XX
+CC  sequences selected with recombinant LUN-1 from a pool of double-stranded oligonucleotides containing a core of 52 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0016839.
+RX  PUBMED: 11278651.
+RA  Chu D., Kakazu N., Gorrin-Rivas M. J., Lu H. P., Kawata M., Abe T., Ueda K., Adachi Y.
+RT  Cloning and characterization of LUN, a novel ring finger protein that is highly expressed in lung and specifically binds to a palindromic sequence
+RL  J. Biol. Chem. 276:14004-14013 (2001).
+XX
+//

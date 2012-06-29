@@ -1,0 +1,38 @@
+AC  M01743
+XX
+ID  V$ING4_01
+XX
+DT  22.06.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ING4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17025; ing4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17890; ing4-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17889; ing4-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     52      5      0      C
+02      2     55      1      0      C
+03     52      2      0      4      A
+04      2     52      4      0      C
+05      0     57      1      0      C
+06     53      1      3      1      A
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  ing4 binding motif defined from ChIP-on-chip experiment in HT180 cells
+XX
+RN  [1]; RE0064476.
+RX  PUBMED: 19187765.
+RA  Hung T., Binda O., Champagne K. S., Kuo A. J., Johnson K., Chang H. Y., Simon M. D., Kutateladze T. G., Gozani O.
+RT  ING4 mediates crosstalk between histone H3 K4 trimethylation and H3 acetylation to attenuate cellular transformation.
+RL  Mol. Cell 33:248-256 (2009).
+XX
+//

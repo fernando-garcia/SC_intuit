@@ -1,0 +1,43 @@
+AC  M02037
+XX
+ID  V$PET1_01
+XX
+DT  20.07.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pet-1
+XX
+DE  FEV
+XX
+TY  specific
+XX
+OS  mouse, Mus musculus
+OC  eukaryota; animalia; metazoa; chordata; vertebrata; tetrapoda; mammalia; eutheria; rodentia; myomorpha; muridae; murinae
+XX
+BF  T05431; Pet-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14642; Pet-1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     56      9     22     13      A
+02     19     64     11      6      C
+03      9     88      2      0      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     98      0      1      1      A
+07     66      4      1     29      A
+08     36      6     56      3      R
+09      4     33      6     57      Y
+10     30     17     36     17      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

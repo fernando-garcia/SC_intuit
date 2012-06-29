@@ -1,0 +1,132 @@
+AC  M00135
+XX
+ID  V$OCT1_01
+XX
+DT  22.05.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Oct-1
+XX
+DE  octamer factor 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00210; V$OCT_C; Octamer binding site (family).
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T01031; POU2F1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01466; POU2F1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T00642; POU2F1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01157; POU2F1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T10501; POU2F1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T00545; POU2F1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08628; POU2F1; Species: Mammalia; site(s) included: no.
+BF  T00959; POU2F1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01192; POU2F1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00643; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09214; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19702; POU2F1-isoform1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00641; POU2F1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19701; POU2F1-isoform2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T18695; POU2F1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00644; POU2F1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01862; POU2F1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01863; POU2F1c; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      8      4      9      N
+02      6      8     11     14      N
+03     13     14     12      5      N
+04     23     12      7      9      N
+05     26      1     10     17      W
+06      1      1      0     54      T
+07     56      0      0      0      A
+08      0      0      0     56      T
+09      0      0     56      0      G
+10      0     53      1      2      C
+11     43      0      0     13      A
+12     56      0      0      0      A
+13     55      0      1      0      A
+14      3      0      1     52      T
+15     14      7      9     24      N
+16      4     11      6     32      T
+17      8     19     14      9      N
+18     13     11     14     10      N
+19     12      9     14     10      N
+XX
+BA  56 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CACAATATGCTAATA; R07002; 1; 19;; p.
+BS  CCCATTATGCAAATTA; R07003; 1; 19;; p.
+BS  CCCATTATGCTAATGT; R07004; 1; 19;; p.
+BS    CGATATGCTAATGCATG; R07005; -2; 19;; p.
+BS  CTACATATGCTAATGTATG; R07006; 1; 19;; p.
+BS  TGGATTATGCAAATATCGC; R07007; 1; 19;; p.
+BS  ATGATTATGCAAATGTCGT; R07008; 1; 19;; p.
+BS  TAGATTATGCAAATAGCG; R07009; 1; 19;; p.
+BS  ATCGTTATGCAAATTTC; R07010; 1; 19;; p.
+BS  GCAAGTATGCTAATTTCAA; R07011; 1; 19;; p.
+BS  TTTCGTATGCTAATTTCAA; R07012; 1; 19;; p.
+BS  TAAAGTATGCTAATTTTTG; R07013; 1; 19;; p.
+BS  CTTCGTATGCAAATTCC; R07014; 1; 19;; p.
+BS  ATAAATATGCAAATCT; R07015; 1; 19;; p.
+BS  GCACATATGCAAATCTGGA; R07016; 1; 19;; p.
+BS  ACTGATATGCAAATTGGC; R07017; 1; 19;; p.
+BS  AGGAATATGCAAATATCCG; R07018; 1; 19;; p.
+BS  CGGAATATGCAAATATGCG; R07019; 1; 19;; p.
+BS  ATGCATATGCAAATCAGAG; R07020; 1; 19;; p.
+BS  GTCAATATGCAAATCCCAA; R07021; 1; 19;; p.
+BS  ATGAATATGCAAAT; R07022; 1; 19;; p.
+BS  ATACATATGCAAATACAAG; R07023; 1; 19;; p.
+BS   AAAATATGCAAATTCAAT; R07024; -1; 19;; p.
+BS  TGGTATATGCAAATGCAA; R07025; 1; 19;; p.
+BS  TTGAATATGCAAAAACAGA; R07026; 1; 19;; p.
+BS   TCTGCATGCAAATTTCTG; R07027; -1; 19;; p.
+BS     TTTATGCAAATTCGTA; R07028; -3; 19;; p.
+BS      GTATGCAAATTTTTA; R07029; -4; 19;; p.
+BS     TCAATGCAAATTAGTA; R07030; -3; 19;; p.
+BS    TGTTATGCAAATTCGGC; R07031; -2; 19;; p.
+BS     CTTATGCAAATTGGAT; R07032; -3; 19;; p.
+BS    AGTTATGCAAATCTGGG; R07033; -2; 19;; p.
+BS      ATATGCAAATTCTGC; R07034; -4; 19;; p.
+BS   GTTTTATGCAAAACGGTC; R07035; -1; 19;; p.
+BS     AATATGCAAATGAGCA; R07036; -3; 19;; p.
+BS     AATATGCAAATGTGAA; R07037; -3; 19;; p.
+BS       TATGCTAATCGTCC; R07038; -5; 19;; p.
+BS   CCATTATGCTAATATCGG; R07039; -1; 19;; p.
+BS   ACCATATGCAAATATCCG; R07040; -1; 19;; p.
+BS       TATGCAAATGTGCG; R07041; -5; 19;; p.
+BS  GGAGGTATGCAAATTTCCA; R07042; 1; 19;; p.
+BS    ATTTATGCTAATTTTGC; R07043; -2; 19;; p.
+BS   TGCATATGCTAATATGTC; R07044; -1; 19;; p.
+BS   GCTTTATGCAAATTTTGC; R07045; -1; 19;; p.
+BS   GCCGTATGCAAATTTTAT; R07046; -1; 19;; p.
+BS  CGCCGTATGCAAATATCGA; R07047; 1; 19;; p.
+BS   GCCGTATGCAAATGTTCT; R07048; -1; 19;; p.
+BS  TCCAATATGCAAATATACT; R07049; 1; 19;; p.
+BS  TGAGATATGCAAATATCAC; R07050; 1; 19;; p.
+BS     AATATGCAAATTTCAT; R07051; -3; 19;; p.
+BS    AAATATGCAAATTGCAT; R07052; -2; 19;; p.
+BS      ATATGCTAATTTCGT; R07053; -4; 19;; p.
+BS  ACGTATATGGTAAT; R07054; 1; 19;; p.
+BS  TAATTTATGCAAGGATCTT; R07055; 1; 19;; p.
+BS     ATTATGTAAATTTACG; R07056; -3; 19;; p.
+BS  CTGATTATGTAAAATCTGG; R07057; 1; 19;; p.
+XX
+CC  sequences selected with recombinant Oct-1 from a pool of double-stranded oligonucleotides containing a core of 24 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0003015.
+RX  PUBMED: 1361172.
+RA  Verrijzer C. P., Alkema M. J., van Weperen W. W., van Leeuwen H. C., Strating M. J. J., van der Vliet P. C.
+RT  The DNA binding specificity of the bipartite POU domain and its subdomains
+RL  EMBO J. 11:4993-5003 (1992).
+XX
+//

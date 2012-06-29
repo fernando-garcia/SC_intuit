@@ -1,0 +1,57 @@
+AC  M00464
+XX
+ID  V$POU3F2_02
+XX
+DT  30.08.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  POU3F2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T00630; POU3F2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09598; POU3F2; Species: human, Homo sapiens; site(s) included: no.
+BF  T01873; POU3F2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10030; POU3F2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01524; POU3F2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10040; POU3F2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00632; POU3F2 (N-Oct-5a); Species: human, Homo sapiens; site(s) included: yes.
+BF  T00633; POU3F2 (N-Oct-5b); Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      0      6      T
+02      0      0      0      7      T
+03      7      0      0      0      A
+04      0      0      0      7      T
+05      0      0      7      0      G
+06      0      3      0      4      Y
+07      0      0      0      7      T
+08      7      0      0      0      A
+09      7      0      0      0      A
+10      0      0      0      7      T
+XX
+BA  7 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATATGTTAAT; R10708; 19; 10;; p.
+BS  TTATGCTAAT; R10709; 19; 10;; p.
+BS  TTATGTTAAT; R10710; 19; 10;; p.
+BS  TTATGTTAAT; R10711; 19; 10;; p.
+BS  TTATGTTAAT; R10712; 19; 10;; p.
+BS  TTATGCTAAT; R10713; 6; 10;; p.
+BS  TTATGCTAAT; R10714; 10; 10;; p.
+XX
+CC  sequences selected with recombinant POU3F2 from a pool of double-stranded oligonucleotides containing a core of 24 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0016787.
+RX  PUBMED: 9852081.
+RA  Rhee J. M., Gruber C. A., Brodie T. B., Trieu M., Turner E. E.
+RT  Highly cooperative homodimerization is a conserved property of neural POU proteins
+RL  J. Biol. Chem. 273:34196-34205 (1998).
+XX
+//

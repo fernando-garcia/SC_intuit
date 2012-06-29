@@ -1,0 +1,67 @@
+AC  M00082
+XX
+ID  V$EVI1_05
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Evi-1
+XX
+DE  ectopic viral integration site 1 encoded factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05220; Evi-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10210; Evi-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T00273; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10211; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16545; Evi1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14      0      1      4      A
+02      1      0     18      0      G
+03     18      1      0      0      A
+04      0      4      0     15      T
+05     18      0      0      1      A
+06     15      0      1      3      A
+07      1      0     18      0      G
+08     18      0      0      1      A
+09      1      0      0     18      T
+10     18      0      0      1      A
+11      7      1      6      4      N
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGATAAGATAG; R06224; 6; 11;; p.
+BS  AGATAAGATAA; R06225; 6; 11;; p.
+BS  TGACTAGATAT; R06226; 2; 11;; p.
+BS  GACTAGATAT; R06227; 3; 11; 13; p.
+BS  AGATAAGATAC; R06228; 9; 11;; p.
+BS  TGATAAGATAT; R06229; 6; 11;; p.
+BS  AGATAAGATAA; R06230; 4; 11;; p.
+BS  AGATAAGATAG; R06231; 10; 11;; p.
+BS  AGATAAGATAA; R06232; 6; 11;; p.
+BS  AGACAAGATAG; R06233; 8; 11;; p.
+BS  AGATAAGATAA; R06234; 8; 11;; p.
+BS  TGATATGATAT; R06235; 1; 11;; p.
+BS  AGATAAGATAG; R06236; 6; 11;; p.
+BS  AGATAAGATAA; R06237; 4; 11;; p.
+BS  AGACATGATAG; R06238; 8; 11;; p.
+BS  AGATATGATAG; R06239; 7; 11;; p.
+BS  TGACAAGATAT; R06240; 3; 11;; p.
+BS  AGATAAGATAA; R06241; 5; 11;; p.
+BS  AGATAAGATAA; R06242; 8; 11;; p.
+XX
+CC  sequences selected with recombinant Evi-1 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0002960.
+RX  PUBMED: 8321231.
+RA  Delwel R., Funabiki T., Kreider B. L., Morishita K., Ihle J. N.
+RT  Four of the seven zinc fingers of the Evi-1 myeloid-transforming gene are required for sequence-specific binding to GA(C/T)AAGA(T/C)AAGATAA
+RL  Mol. Cell. Biol. 13:4291-4300 (1993).
+XX
+//

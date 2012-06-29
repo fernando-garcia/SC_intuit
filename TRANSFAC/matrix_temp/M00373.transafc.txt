@@ -1,0 +1,60 @@
+AC  M00373
+XX
+ID  V$PAX4_01
+XX
+DT  28.02.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-4
+XX
+DE  Pax-4 binding sites
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+XX
+BF  T11179; Pax-4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11181; Pax-4; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02982; Pax-4a; Species: human, Homo sapiens; site(s) included: no.
+BF  T11221; Pax-4a; Species: human, Homo sapiens; site(s) included: no.
+BF  T02983; Pax-4a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03001; Pax-4a; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      4      7      8      7      N
+02      1      4     26      4      G
+03      6     16     10     10      N
+04     11     15     16      0      V
+05      3      3     25     12      G
+06      0      4      3     40      T
+07      0     29     14      0      C
+08     36      1      6      0      A
+09     11      5      6     21      N
+10      0      4     34      5      G
+11      3     30      7      3      C
+12      3      3     33      4      G
+13      0      7      7     27      T
+14      7      5     23      3      G
+15      8     11      5      8      N
+16      6      4     12      8      N
+17      4     14     11      1      S
+18     10      5     13      3      N
+19      8      6      8      7      N
+20      2     13      4      8      Y
+21      6      9      6      4      N
+XX
+BA  43 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Pax-4 from a pool of double-stranded oligonucleotides containing a core of 71 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0014123.
+RX  PUBMED: 10567553.
+RA  Fujitani Y., Kajimoto Y., Yasuda T., Matsuoka T. A., Kaneto H., Umayahara Y., Fujita N., Watada H., Miyazaki J. I., Yamasaki Y., Hori M.
+RT  Identification of a portable repression domain and an E1A-responsive activation domain in Pax4: a possible role of Pax4 as a transcriptional repressor in the pancreas
+RL  Mol. Cell. Biol. 19:8281-8291 (1999).
+XX
+//

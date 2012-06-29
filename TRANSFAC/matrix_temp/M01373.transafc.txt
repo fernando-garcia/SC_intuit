@@ -1,0 +1,61 @@
+AC  M01373
+XX
+ID  V$CDX1_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Cdx-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00991; V$CDX_Q5;  (family).
+XX
+BF  T01484; Cdx-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T02001; Cdx-1; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T03248; Cdx-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10893; CDX-1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T01999; Cdx-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14184; Cdx-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02000; Cdx-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14338; Cdx-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11359; Cdx-1-isoform1; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.29   0.15   0.18   0.38      N
+02   0.39   0.10   0.31   0.20      N
+03   0.40   0.25   0.24   0.11      N
+04   0.14   0.06   0.73   0.07      G
+05   0.13   0.03   0.83   0.01      G
+06   0.01   0.28   0.00   0.71      T
+07   0.49   0.47   0.00   0.04      M
+08   0.82   0.00   0.17   0.00      A
+09   0.01   0.00   0.00   0.99      T
+10   0.74   0.01   0.00   0.25      A
+11   0.92   0.00   0.00   0.08      A
+12   0.94   0.01   0.00   0.05      A
+13   0.64   0.11   0.05   0.19      A
+14   0.16   0.23   0.17   0.43      N
+15   0.14   0.11   0.26   0.49      N
+16   0.36   0.21   0.10   0.33      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0012.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

@@ -1,0 +1,40 @@
+AC  M01297
+XX
+ID  V$HOXA13_02
+XX
+DT  18.09.2009 (created); sla.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXA13
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T06053; HOXA13; Species: chick, Gallus gallus; site(s) included: no.
+BF  T03321; HOXA13; Species: human, Homo sapiens; site(s) included: no.
+BF  T16378; HOXA13; Species: Mammalia; site(s) included: yes.
+BF  T03337; HOXA13; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.55   0.18   0.19   0.07      A
+02   0.49   0.28   0.03    0.2      M
+03   0.59   0.04   0.31   0.07      R
+04      0      0      0      1      T
+05      1      0      0      0      A
+06      1      0      0      0      A
+07   0.75   0.12   0.05   0.07      A
+08   0.47   0.35   0.12   0.05      M
+09   0.17   0.51   0.15   0.17      C
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+RN  [1]; RE0062957.
+RX  PUBMED: 17200107.
+RA  Knosp W. M., Saneyoshi C., Shou S., Bachinger H. P., Stadler H. S.
+RT  Elucidation, quantitative refinement, and in vivo utilization of the HOXA13 DNA binding site.
+RL  J. Biol. Chem. 282:6843-6853 (2007).
+XX
+//

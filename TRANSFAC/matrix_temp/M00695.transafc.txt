@@ -1,0 +1,50 @@
+AC  M00695
+XX
+ID  V$ETF_Q6
+XX
+DT  13.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ETF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00270; ETF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04737; ETF; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0     11      2      G
+02      4      5      4      0      V
+03      0      0     12      1      G
+04      0      0     13      0      G
+05      5      8      0      0      M
+06      0      2     11      0      G
+07      0      0     13      0      G
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGGGAGG; R00042; 9; 7;; n.
+BS  GGGGCGG; R00043; -4; 7;; p.
+BS  GGGGCGG; R00044; 19; 7;; p.
+BS  GAGGCGG; R00045; 17; 7;; p.
+BS  GCGGCGG; R00046; -9; 7;; p.
+BS  GAGGAGG; R00379; -9; 7;; n.
+BS  GCGGCCG; R00380; 17; 7;; p.
+BS  GCGGAGG; R00382; -5; 7;; n.
+BS  GAGGCCG; R01371; -10; 7;; n.
+BS  TGGGCGG; R01375; -1; 7;; p.
+BS  TCGGAGG; R11017; 6; 7;; n.
+BS  GCTGAGG; R11039; 1; 7;; p.
+BS  GAGGCGG; R11040; 7; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

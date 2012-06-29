@@ -1,0 +1,38 @@
+AC  M00048
+XX
+ID  F$ADR1_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ADR1
+XX
+DE  alcohol dehydrogenase gene regulator 1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00011; ADR1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      5      2      6      N
+02      0      0     16      0      G
+03      0      0     16      0      G
+04      6      0     10      0      R
+05      0      0     15      0      G
+06      0      1      3      4      K
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant ADR1 from a pool of double-stranded oligonucleotides containing a core of 8 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0002920.
+RX  PUBMED: 8196627.
+RA  Cheng C., Kacherovsky N., Dombek K. M., Camier S., Thukral S. K., Rhim E., Young E. T.
+RT  Identification of potential target genes for Adr1p through characterization of essential nucleotides in UAS1
+RL  Mol. Cell. Biol. 14:3842-3852 (1994).
+XX
+//

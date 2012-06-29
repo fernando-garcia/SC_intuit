@@ -1,0 +1,56 @@
+AC  M00141
+XX
+ID  V$LYF1_01
+XX
+DT  29.05.1995 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Lyf-1
+XX
+DE  LyF-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02702; Ikaros; Species: human, Homo sapiens; site(s) included: no.
+BF  T15348; Ikaros; Species: Mammalia; site(s) included: no.
+BF  T00479; Ikaros; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08148; Ikaros; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      1      2      8      T
+02      0      3      0      8      T
+03      1      1      0      9      T
+04      2      0      9      0      G
+05      1      0     10      0      G
+06      0      1     10      0      G
+07      9      0      2      0      A
+08      3      0      7      1      G
+09      6      0      5      0      R
+XX
+BA  11 sequences (compiled matrix imported from literature reference)
+XX
+BS  TTTGGGAGA; R07200; 1; 9;; p.
+BS  TTCAGCAGG; R07201; 1; 9;; p.
+BS  GTTGGGATG; R07202; 1; 9;; p.
+BS  TTTGGGAGA; R07203; 1; 9;; p.
+BS  TCAGGGAGA; R07204; 1; 9;; p.
+BS  TCTGGGAGG; R07205; 1; 9;; p.
+BS  CCTGGGAGA; R07206; 1; 9;; p.
+BS  GTTGGGAGG; R07207; 1; 9;; p.
+BS  TTTGGGGAA; R07208; 1; 9;; p.
+BS  TTTAGGAAG; R07209; 1; 9;; p.
+BS  TTTGAGGAA; R07210; 1; 9;; p.
+XX
+CC  binding sites from 5 genes
+XX
+RN  [1]; RE0001480.
+RX  PUBMED: 1922043.
+RA  Lo K., Landau N. R., Smale S. T.
+RT  LyF-1, a transcriptional regulator that interacts with a novel class of promoters for lymphocytes-specific genes
+RL  Mol. Cell. Biol. 11:5229-5243 (1991).
+XX
+//

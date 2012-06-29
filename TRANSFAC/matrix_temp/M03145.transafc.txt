@@ -1,0 +1,50 @@
+AC  M03145
+AS  MA0449
+XX
+ID  I$H_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  h
+XX
+DE  class: Zipper-type; family: Helix-Loop-Helix
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00345; H; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      1      2     30      1      G
+02      3      7     17      7      G
+03      1     31      1      1      C
+04     22      1     10      1      A
+05      1     30      1      2      C
+06      2      1     30      1      G
+07      1     10      1     22      T
+08      1      1     31      1      G
+09      7     17      7      3      C
+10      1     30      2      1      C
+XX
+BA  34 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0449.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071779.
+RX  PUBMED: 18332042.
+RA  Noyes M. B., Meng X., Wakabayashi A., Sinha S., Brodsky M. H., Wolfe S. A.
+RT  A systematic characterization of factors that regulate Drosophila segmentation via a bacterial one-hybrid system.
+RL  Nucleic Acids Res. 36:2547-2560 (2008).
+XX
+//

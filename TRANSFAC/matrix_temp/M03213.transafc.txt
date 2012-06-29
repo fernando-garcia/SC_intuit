@@ -1,0 +1,43 @@
+AC  M03213
+XX
+ID  P$ESR1_01
+XX
+DT  06.01.2012 (created); mkl.
+DT  06.01.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ESR1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05350; ESR1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T11048; ESR1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01  0.329  0.220  0.176  0.275      N
+02  0.004  0.025  0.967  0.004      G
+03  0.002  0.002  0.992  0.004      G
+04  0.002  0.994  0.002  0.002      C
+05  0.002  0.996  0.001  0.001      C
+06  0.002  0.002  0.992  0.004      G
+07  0.012  0.927  0.055  0.006      C
+08  0.005  0.981  0.003  0.011      C
+09  0.014  0.924  0.057  0.005      C
+10  0.193  0.219  0.519  0.069      G
+XX
+BA  sequences (3D structure-based energy calculations)
+XX
+RN  [1]; RE0072515.
+RA  TRANSFAC_Team.
+RT  3DTF: a webserver for predicting transcription factor PWMs using 3D structure-based energy calculations
+RL  TRANSFAC Reports Rel20121:0002 (2012).
+RN  [2]; RE0072514.
+RX  PUBMED: 20438625.
+RA  Alamanova D., Stegmaier P., Kel A.
+RT  Creating PWMs of transcription factors using 3D structure-based computation of protein-DNA free binding energies.
+RL  BMC Bioinformatics 11:225 (2010).
+XX
+//

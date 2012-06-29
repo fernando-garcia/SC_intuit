@@ -1,0 +1,82 @@
+AC  M00095
+XX
+ID  V$CDP_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CDP
+XX
+DE  cut-like homeodomain protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00100; CDP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10007; CDP; Species: Mammalia; site(s) included: no.
+BF  T01083; CDP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09991; CDP; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09990; CDP-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17015; CDP-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18703; CDP-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17013; CDP-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02042; CDP-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18704; CDP-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17012; CDP-isoform5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18705; CDP-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17014; CDP-isoform6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18706; CDP-isoform7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02043; CDP2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11260; CDP2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     16      0      1      C
+02      0     17      0      1      C
+03     17      0      0      1      A
+04     17      1      0      0      A
+05      0      0      0     18      T
+06     18      0      0      0      A
+07     17      0      0      1      A
+08      0      3      0     15      T
+09      0     14      2      2      C
+10      5      0     13      0      G
+11     14      0      1      3      A
+12      2      1      1     14      T
+XX
+BA  18 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ACTATAACTGAT; R06378; 2; 12;; p.
+BS  CCAATAATCGAT; R06379; 1; 12;; p.
+BS  CCAATAATCGAT; R06380; 6; 12;; p.
+BS  CCAATAATGATA; R06381; 5; 12;; p.
+BS  CCACTAATCAAT; R06382; 6; 12;; p.
+BS  CTAATAACTAAT; R06383; 1; 12;; p.
+BS  CCAATATCGATG; R06384; 7; 12;; p.
+BS  CCAATAATCGAT; R06385; 1; 12;; p.
+BS  CCAATAATCGAT; R06386; 1; 12;; p.
+BS  TCAATAATCAGC; R06387; 6; 12;; p.
+BS  CCAATAATCGAT; R06388; 7; 12;; p.
+BS  CCAATAATCGAT; R06389; 1; 12;; p.
+BS  CCAATAATCGTA; R06390; 5; 12;; p.
+BS  CCAATAATCGAT; R06391; 1; 12;; p.
+BS  CCAATAATCGAT; R06392; 1; 12;; p.
+BS  CCAATAATCGAT; R06393; 1; 12;; p.
+BS  CCAATAATCGAT; R06394; 7; 12;; p.
+BS  CCAATAATCGAT; R06395; 7; 12;; p.
+XX
+CC  sequences selected with recombinant CDP from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification; fixed core of 3 nucleotides used
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0002967.
+RX  PUBMED: 7914370.
+RA  Aufiero B., Neufeld E. J., Orkin S. H.
+RT  Sequence-specific DNA binding of individual cut repeats of the human CCAAT displacement/ cut homeodomain protein
+RL  Proc. Natl. Acad. Sci. USA 91:7757-7761 (1994).
+XX
+//

@@ -1,0 +1,48 @@
+AC  M02376
+AS  MA0094
+XX
+ID  I$UBX_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ubx
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00863; Ubx; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      3      5      3      9      N
+02      0      0      0     20      T
+03      0      0      0     20      T
+04     17      0      0      3      A
+05     20      0      0      0      A
+06      0      0      0     20      T
+07      0      0      6     14      T
+08     14      0      6      0      A
+XX
+BA  20 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0094.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071780.
+RX  PUBMED: 18585360.
+RA  Noyes M. B., Christensen R. G., Wakabayashi A., Stormo G. D., Brodsky M. H., Wolfe S. A.
+RT  Analysis of homeodomain specificities allows the family-wide prediction of preferred recognition sites.
+RL  Cell 133:1277-1289 (2008).
+XX
+//

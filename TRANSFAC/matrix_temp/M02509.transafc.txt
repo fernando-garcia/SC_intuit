@@ -1,0 +1,56 @@
+AC  M02509
+AS  MA0390
+XX
+ID  F$STB3_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STB3
+XX
+DE  class: Other; family: Other
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T15929; STB3; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     98    168    546    185      G
+02    166    173    202    457      N
+03    182    415     57    343      Y
+04    194    379    107    318      N
+05    507     59    189    243      A
+06    547    120    151    181      A
+07    776     35     71    116      A
+08    499     27     33    440      W
+09     99     11      2    886      T
+10     53      5      1    939      T
+11     10      4      2    982      T
+12     13      0     15    970      T
+13      0     64     20    915      T
+14      3    990      2      4      C
+15    965      7     25      2      A
+16    150    587     84    177      C
+17    129    120    137    613      T
+18    166    326    200    306      N
+19    308    253    125    312      N
+20    233    170    315    280      N
+21    226    182    296    293      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0390.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

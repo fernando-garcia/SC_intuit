@@ -1,0 +1,50 @@
+AC  M02241
+AS  MA0136
+XX
+ID  V$ELF5_04
+XX
+DT  15.11.2011 (created); jaspar.
+DT  06.01.2012 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Elf5
+XX
+DE  class: Winged Helix-Turn-Helix; family: Ets
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15297; elf5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15298; elf5; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     12      9      3     20      N
+02     29      3      7      5      A
+03      2     20      5     17      Y
+04     14      0      1     29      T
+05      0      1      0     43      T
+06      0     44      0      0      C
+07      0     44      0      0      C
+08      4      3     11     26      T
+09      4      8     11     21      N
+XX
+BA  44 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  imported from JASPAR; sequences selected with recombinant elf5 from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0136.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0052076.
+RX  PUBMED: 16704374.
+RA  Choi Y. S., Sinha S.
+RT  Determination of the consensus DNA-binding sequence and a transcriptional activation domain for ESE-2.
+RL  Biochem. J. 398:497-507 (2006).
+XX
+//

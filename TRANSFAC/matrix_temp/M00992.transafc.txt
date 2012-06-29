@@ -1,0 +1,57 @@
+AC  M00992
+XX
+ID  V$FOXP3_Q4
+XX
+DT  14.05.2004 (created); dtc.
+DT  03.02.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXP3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04280; FOXP3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15481; FOXP3; Species: Mammalia; site(s) included: no.
+BF  T04279; FOXP3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15124; FOXP3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15125; FOXP3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18943; FOXP3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0      3      0      R
+02      3      0      0      2      W
+03      3      1      1      0      A
+04      2      1      2      0      R
+05      1      0      1      3      T
+06      0      0      4      1      G
+07      0      1      0      4      T
+08      0      0      0      5      T
+09      1      0      3      1      G
+10      1      0      0      4      T
+11      0      1      1      3      T
+12      1      0      1      3      T
+13      0      5      0      0      C
+14      4      0      0      1      A
+15      0      0      3      2      K
+16      4      0      1      0      A
+17      0      3      1      1      C
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AACCTGCTGATTCTGAT; R14641; 17; 17;; n.
+BS  GAAGTGTTATCACATAC; R14642; 9; 17;; p.
+BS  ATGGGGTTGTGGCAGGG; R14643; -4; 17;; n.
+BS  GTAATGTTTTTTCAGAC; R14644; 14; 17;; p.
+BS  GAAAATTTGTTTCATAC; R14645; 2; 17;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

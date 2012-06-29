@@ -1,0 +1,49 @@
+AC  M00616
+XX
+ID  V$AFP1_Q6
+XX
+DT  08.03.2002 (created); ela.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AFP1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00015; AFP1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03893; ATBF1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T03881; ATBF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16610; ATBF1-B; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01      5      0      0      0      A
+02      1      0      0      4      T
+03      1      0      0      4      T
+04      5      0      0      0      A
+05      5      0      0      0      A
+06      0      3      0      2      Y
+07      1      0      0      4      T
+08      3      0      2      0      R
+09      0      4      1      0      C
+10      5      0      0      0      A
+11      0      4      0      1      C
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATTAACTAGAC; R00080; -3; 11;; n.
+BS  ATTAACAGCAC; R00430; -6; 11;; n.
+BS  ATAAATTACAC; R01625; 2; 11;; n.
+BS  ATTAACTGCAT; R01913; -5; 11;; n.
+BS  AATAATTACAC; R09386; 6; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

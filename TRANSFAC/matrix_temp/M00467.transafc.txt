@@ -1,0 +1,69 @@
+AC  M00467
+XX
+ID  V$ROAZ_01
+XX
+DT  31.08.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Roaz
+XX
+DE  rat Olf-1/EBF-associated zinc finger protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05178; OAZ; Species: human, Homo sapiens; site(s) included: no.
+BF  T09560; OAZ; Species: human, Homo sapiens; site(s) included: no.
+BF  T06599; OAZ; Species: mouse, Mus musculus; site(s) included: no.
+BF  T02815; OAZ; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09561; OAZ; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15869; OAZ-isoform1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15870; OAZ-isoform2; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0     14      0      G
+02      0     14      0      0      C
+03     14      0      0      0      A
+04      0     14      0      0      C
+05      0     14      0      0      C
+06      0     14      0      0      C
+07     10      0      0      4      A
+08      9      0      0      5      W
+09      0      0     14      0      G
+10      0      0     14      0      G
+11      0      0     14      0      G
+12      0      0      0     14      T
+13      0      1     13      0      G
+14      6      7      0      1      M
+XX
+BA  14 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCACCCTAGGGTGT; R10731; 1; 14;; p.
+BS  GCACCCTTGGGTGC; R10732; 1; 14;; p.
+BS  GCACCCAAGGGTGA; R10733; 8; 14;; p.
+BS  GCACCCAAGGGTGA; R10734; 8; 14;; p.
+BS  GCACCCATGGGTGC; R10735; 5; 14;; p.
+BS  GCACCCAAGGGTGA; R10736; 8; 14;; p.
+BS  GCACCCAAGGGTGA; R10737; 7; 14;; p.
+BS  GCACCCTAGGGTGC; R10738; 4; 14;; p.
+BS  GCACCCTTGGGTCC; R10739; 5; 14;; p.
+BS  GCACCCATGGGTGC; R10740; 5; 14;; p.
+BS  GCACCCATGGGTGC; R10741; 1; 14;; p.
+BS  GCACCCAAGGGTGA; R10742; 8; 14;; p.
+BS  GCACCCAAGGGTGA; R10743; 8; 14;; p.
+BS  GCACCCAAGGGTGC; R10744; 5; 14;; p.
+XX
+CC  sequences selected with recombinant Roaz from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 9 rounds of selection and amplification
+XX
+DR  JASPAR: MA0116.
+XX
+RN  [1]; RE0013845.
+RX  PUBMED: 9774661.
+RA  Tsai R. Y. L., Reed R. R.
+RT  Identification of DNA recognition sequences and protein interaction domains of the multiple-Zn-finger protein Roaz
+RL  Mol. Cell. Biol. 18:6447-6456 (1998).
+XX
+//

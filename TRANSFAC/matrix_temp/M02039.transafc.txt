@@ -1,0 +1,45 @@
+AC  M02039
+XX
+ID  V$GABPA_01
+XX
+DT  20.07.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GABPalpha
+XX
+TY  specific
+XX
+OS  mouse, Mus musculus
+OC  eukaryota; animalia; metazoa; chordata; vertebrata; tetrapoda; mammalia; eutheria; rodentia; myomorpha; muridae; murinae
+XX
+HP  M00341; V$GABP_B; GA binding protein (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T01402; GABP-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     56      9     27      8      A
+02     14     65     18      3      C
+03      8     91      1      0      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     98      0      1      1      A
+07     74      4      1     22      A
+08     42      6     50      2      R
+09      5     39      7     49      Y
+10     29     22     33     17      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+DR  JASPAR: PB0020.
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

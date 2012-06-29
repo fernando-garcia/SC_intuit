@@ -1,0 +1,49 @@
+AC  M00199
+XX
+ID  V$AP1_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-1
+XX
+DE  AP-1 binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00172; V$AP1FJ_Q2; activator protein 1 (family).
+HP  M00517; V$AP1_01;  (family).
+HP  M00924; V$AP1_Q2_01;  (family).
+HP  M00925; V$AP1_Q6_01;  (family).
+HP  M00926; V$AP1_Q4_01;  (family).
+XX
+BF  T01140; AP-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00027; AP-1; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T01132; AP-1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T01156; AP-1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T01115; AP-1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00029; AP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00030; AP-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00032; AP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00031; AP-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   4.79   2.30   3.06   1.30      N
+02   0.00   0.00   0.00  12.15      T
+03   0.00   0.00   9.83   2.32      G
+04  11.28   0.00   0.00   0.87      A
+05   1.28   4.71   6.16   0.00      S
+06   0.00   0.00   0.00  12.15      T
+07   1.46  10.70   0.00   0.00      C
+08  12.15   0.00   0.00   0.00      A
+09   0.89   1.22   5.91   2.17      G
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 1.08, total weight of sequences: 12.15)
+XX
+//

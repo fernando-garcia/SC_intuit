@@ -1,0 +1,92 @@
+AC  M00210
+XX
+ID  V$OCT_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  OCT-x
+XX
+DE  Octamer binding site
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00135; V$OCT1_01; octamer factor 1 (specific).
+HC  M00136; V$OCT1_02; octamer factor 1 (specific).
+HC  M00137; V$OCT1_03; octamer factor 1 (specific).
+HC  M00138; V$OCT1_04; octamer factor 1 (specific).
+HC  M00161; V$OCT1_05; octamer-binding factor 1 (specific).
+HC  M00162; V$OCT1_06; octamer-binding factor 1 (specific).
+HC  M00195; V$OCT1_Q6; octamer factor 1 (specific).
+HC  M00248; V$OCT1_07; octamer factor 1 (specific).
+HC  M00342; V$OCT1_B; Octamer binding factor 1 (specific).
+HC  M00930; V$OCT1_Q5_01;  (specific).
+HC  M01354; V$OCT1_08; POU2F1 (specific).
+HC  M01368; V$OCT2_01; POU2F2 (specific).
+HC  M01761; V$OCT2_02;  (specific).
+XX
+BF  T00649; Oct-2; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00647; Oct-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10361; Oct-2; Species: Mammalia; site(s) included: no.
+BF  T13860; Oct-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05486; Oct-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00650; Oct-2; Species: rat, Rattus rattus; site(s) included: yes.
+BF  T00665; Oct-2.1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01864; Oct-2.1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00648; Oct-2.2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01865; Oct-2.3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01866; Oct-2.4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00964; Oct-2.5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01867; Oct-2.6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00662; Oct-2B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00663; oct-B2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00664; oct-B3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01031; POU2F1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01466; POU2F1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T00642; POU2F1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01157; POU2F1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T10501; POU2F1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T00545; POU2F1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08628; POU2F1; Species: Mammalia; site(s) included: no.
+BF  T00959; POU2F1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01192; POU2F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00643; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09214; POU2F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19702; POU2F1-isoform1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00641; POU2F1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19701; POU2F1-isoform2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T18695; POU2F1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00644; POU2F1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01862; POU2F1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01863; POU2F1c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01032; POU2F2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00646; POU2F2 (Oct-2.1); Species: human, Homo sapiens; site(s) included: yes.
+BF  T01870; POU2F2 (Oct-2.1); Species: rat, Rattus rattus; site(s) included: yes.
+BF  T01868; POU2F2 (Oct-2.7); Species: rat, Rattus rattus; site(s) included: yes.
+BF  T01869; POU2F2 (Oct-2.8); Species: rat, Rattus rattus; site(s) included: yes.
+BF  T01871; POU2F2B; Species: rat, Rattus rattus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   2.16   5.21   0.97   1.83      C
+02   0.86   0.00   0.83   8.48      T
+03   1.79   4.62   2.16   1.59      N
+04   8.76   1.40   0.00   0.00      A
+05   0.00   0.00   0.00  10.17      T
+06   0.00   0.00   0.00  10.17      T
+07   1.52   0.00   0.00   8.64      T
+08   0.00   0.00   8.64   1.52      G
+09   0.00  10.17   0.00   0.00      C
+10   9.23   0.00   0.93   0.00      A
+11   0.00   0.00   0.00  10.17      T
+12   6.68   0.00   2.52   0.97      A
+13   1.34   4.78   0.65   3.39      Y
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0-05, total weight of sequences: 10.17)
+XX
+//

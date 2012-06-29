@@ -1,0 +1,81 @@
+AC  M00472
+XX
+ID  V$FOXO4_01
+XX
+DT  06.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXO4
+XX
+DE  fork head box O4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03403; foxo4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09102; foxo4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16596; foxo4; Species: Mammalia; site(s) included: no.
+BF  T04176; foxo4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15128; foxo4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16595; foxo4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09105; foxo4a; Species: human, Homo sapiens; site(s) included: no.
+BF  T18942; foxo4b; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14      6      9      1      R
+02     10      1      0     19      W
+03     22      5      0      3      A
+04     30      0      0      0      A
+05     30      0      0      0      A
+06      0     30      0      0      C
+07     30      0      0      0      A
+08     16      7      3      4      A
+09      7      7      9      7      N
+10      5     13      3      9      N
+11      7     11      3      8      N
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAAAACACATG; R10866; 13; 11;; p.
+BS  GTAAACACCAT; R10867; 4; 11;; p.
+BS  ATAAACAAGAC; R10868; 11; 11;; p.
+BS  TAAAACAAGTT; R10869; 17; 11;; p.
+BS  CAAAACAACCC; R10870; 16; 11;; p.
+BS  ATAAACAATA; R10871; 17; 11; 27; p.
+BS  ATAAACAAAGT; R10872; 5; 11;; p.
+BS  ATAAACAGGCA; R10873; 10; 11;; p.
+BS  ATAAACATGCA; R10874; 10; 11;; p.
+BS  ACAAACATCCT; R10875; 5; 11;; p.
+BS  ATAAACAAATC; R10876; 13; 11;; p.
+BS  AAAAACAATAC; R10877; 11; 11;; p.
+BS  ATAAACAGTAG; R10878; 5; 11;; p.
+BS  GAAAACACTTA; R10879; 6; 11;; p.
+BS  GTAAACAAGTC; R10880; 4; 11;; p.
+BS  ATAAACAACCC; R10881; 8; 11;; p.
+BS  ATAAACAAGCT; R10882; 11; 11;; p.
+BS  GTAAACAATCA; R10883; 9; 11;; p.
+BS  CTAAACAATTG; R10884; 5; 11;; p.
+BS  GTAAACAAACC; R10885; 14; 11;; p.
+BS  GTAAACAACCT; R10886; 16; 11;; p.
+BS  GTAAACAGGGA; R10887; 13; 11;; p.
+BS  ATCAACAAGCC; R10888; 10; 11;; p.
+BS  CACAACAACCC; R10889; 6; 11;; p.
+BS  GTCAACACTGC; R10890; 6; 11;; p.
+BS  GTCAACACATT; R10891; 6; 11;; p.
+BS  CACAACATGCC; R10892; 7; 11;; p.
+BS  CATAACACATT; R10893; 13; 11;; p.
+BS  AATAACATCCA; R10894; 4; 11;; p.
+BS  AATAACACATA; R10895; 7; 11;; p.
+XX
+CC  sequences selected with recombinant FOXO4 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0016820.
+RX  PUBMED: 11353388.
+RA  Biggs W. H. 3rd, Cavenee W. K., Arden K. C.
+RT  Identification and characterization of members of the FKHR (FOX O) subclass of winged-helix transcription factors in the mouse
+RL  Mamm. Genome 12:416-425 (2001).
+XX
+//

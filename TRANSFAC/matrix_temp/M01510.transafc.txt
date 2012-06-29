@@ -1,0 +1,54 @@
+AC  M01510
+XX
+ID  F$MCM1_03
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MCM1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00500; MCM1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T00501; MCM1:MATalpha1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.25   0.16   0.11   0.48      N
+02   0.17   0.28   0.31   0.24      N
+03   0.17    0.2    0.1   0.52      T
+04   0.09   0.08   0.16   0.66      T
+05   0.17   0.03   0.13   0.67      T
+06   0.13   0.81   0.01   0.05      C
+07   0.01   0.81   0.01   0.17      C
+08   0.12   0.41   0.24   0.23      N
+09    0.6   0.08   0.17   0.15      A
+10   0.66   0.01   0.04   0.29      A
+11   0.29   0.04   0.01   0.66      T
+12   0.15   0.17   0.08    0.6      T
+13   0.17   0.44   0.27   0.12      N
+14   0.17   0.01   0.81   0.01      G
+15   0.05   0.01   0.81   0.13      G
+16   0.72   0.09    0.1   0.08      A
+17   0.48   0.29   0.08   0.15      M
+18   0.55   0.07   0.22   0.17      A
+19   0.18   0.32   0.11    0.4      N
+20   0.25   0.24   0.26   0.25      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064448.
+RX  PUBMED: 19158363.
+RA  Zhu C., Byers K. J., McCord R. P., Shi Z., Berger M. F., Newburger D. E., Saulrieta K., Smith Z., Shah M. V., Radhakrishnan M., Philippakis A. A., Hu Y., De Masi F., Pacek M., Rolfs A., Murthy T., LaBaer J., Bulyk M. L.
+RT  High-resolution DNA-binding specificity analysis of yeast transcription factors.
+RL  Genome Res. 19:556-566 (2009).
+RN  [2]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+XX
+//

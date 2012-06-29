@@ -1,0 +1,45 @@
+AC  M01004
+XX
+ID  V$HELIOSA_02
+XX
+DT  10.06.2004 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Helios A
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04954; HELIOS; Species: human, Homo sapiens; site(s) included: no.
+BF  T14509; HELIOS; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06012; HELIOS; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19008; HELIOS-A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11158; HELIOS-B; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      1      1      6      W
+02      4      3      1      6      N
+03      7      1      1      5      W
+04     10      0      0      4      A
+05      0      0     30      0      G
+06      0      0     30      0      G
+07     28      0      0      2      A
+08     22      2      1      5      A
+09     24      3      0      3      A
+10     26      1      1      2      A
+11     12      8      3      7      N
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Helios A from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0024294.
+RX  PUBMED: 9512513.
+RA  Hahm K., Cobb B. S., McCarty A. S., Brown K. E., Klug C. A., Lee R., Akashi K., Weissman I. L., Fisher A. G., Smale S. T.
+RT  Helios, a T cell-restricted Ikaros family member that quantitatively associates with Ikaros at centromeric heterochromatin.
+RL  Genes Dev. 12:782-796 (1998).
+XX
+//

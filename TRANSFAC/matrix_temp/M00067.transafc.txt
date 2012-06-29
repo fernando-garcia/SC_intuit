@@ -1,0 +1,46 @@
+AC  M00067
+XX
+ID  I$HAIRY_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Hairy
+XX
+DE  Hairy
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00345; H; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     20     30     35     15      N
+02     26     30     26     17      N
+03     12     16     56     16      G
+04     19     15     58      8      G
+05      0     96      0      4      C
+06     81     12      0      8      A
+07      0    100      0      0      C
+08      3      0     93      3      G
+09      0     83      7     10      C
+10      0     12     71     17      G
+11     36     41     18      5      M
+12      5     62     24     10      C
+13     47     21     11     21      N
+14     15     15     31     38      N
+XX
+BA  29 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant Hairy from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0002933.
+RX  PUBMED: 7958929.
+RA  van Doren M., Bailey A. M., Esnayra J., Ede K., Posakony J. W.
+RT  Negative regulation of proneural gene activity: hairy is a direct transcriptional repressor of achaete
+RL  Genes Dev. 8:2729-2742 (1994).
+XX
+//

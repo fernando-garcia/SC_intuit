@@ -1,0 +1,56 @@
+AC  M01217
+XX
+ID  V$NUR77_Q5
+XX
+DT  29.01.2009 (created); dtc.
+DT  13.02.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NUR77
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04739; Nur77; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T02767; Nur77; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08498; Nur77; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10625; Nur77; Species: Mammalia; site(s) included: yes.
+BF  T01348; Nur77; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08451; Nur77; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00619; Nur77; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10229; Nur77; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      3      2      3      N
+02      0      0      0      9      T
+03      1      0      8      0      G
+04      6      0      2      1      A
+05      0      9      0      0      C
+06      0      9      0      0      C
+07      0      0      0      9      T
+08      0      0      0      9      T
+09      0      3      3      3      B
+10      1      3      3      2      N
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ctgacctttc; R16895; 5; 10;; n.
+BS  gtagcctttt; R20495; 5; 10;; n.
+BS  TTGACCTTCG; R20502; 7; 10;; p.
+BS  atgaccttgc; R20569; 6; 10;; n.
+BS  ttgacctttc; R20622; 9; 10;; n.
+BS  CTGTCCTTGG; R20624; 6; 10;; p.
+BS  TTGGCCTTCA; R20644; 6; 10;; p.
+BS  gtgaccttgg; R21612; 8; 10;; n.
+BS  ctgaccttct; R23878; 2; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+XX
+//

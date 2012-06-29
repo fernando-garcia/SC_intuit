@@ -1,0 +1,53 @@
+AC  M00630
+XX
+ID  V$FOXM1_01
+XX
+DT  08.03.2002 (created); ela.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXM1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T09368; foxm1; Species: human, Homo sapiens; site(s) included: no.
+BF  T02515; foxm1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11161; foxm1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04208; foxm1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04207; foxm1-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T18936; foxm1-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02516; foxm1-isoform2; Species: human, Homo sapiens; site(s) included: no.
+BF  T18937; foxm1-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11404; foxm1-isoform3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02517; foxm1-isoform4; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      5      0      0      0      A
+02      2      0      3      0      R
+03      3      1      0      1      A
+04      1      0      0      4      T
+05      1      0      2      2      K
+06      0      1      4      0      G
+07      4      0      0      1      A
+08      0      2      2      1      S
+09      0      0      0      5      T
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGCTTGATT; R05100; 1; 9;; p.
+BS  AGATTGAGT; R09799; 1; 9;; p.
+BS  AATTGGTCT; R09800; 3; 9;; p.
+BS  AAATGCAGT; R09801; 3; 9;; n.
+BS  AGAAAGACT; R09802; 5; 9;; n.
+XX
+CC  compiled and aligned by BIOBASE; based on artificial sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

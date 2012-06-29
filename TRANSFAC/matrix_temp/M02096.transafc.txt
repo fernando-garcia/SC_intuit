@@ -1,0 +1,92 @@
+AC  M02096
+XX
+ID  V$IPF1_Q5
+XX
+DT  24.10.2011 (created); mkl.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ipf1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04267; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T10381; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15921; Ipf1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T04362; ipf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09250; ipf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10332; ipf1; Species: Mammalia; site(s) included: yes.
+BF  T02057; ipf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09093; ipf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02058; ipf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     22      6     18      Y
+02      5      0      0     42      T
+03     46      0      1      0      A
+04     46      0      1      0      A
+05      1      0      0     46      T
+06      3      0     30     14      G
+07     15      2     16     14      N
+XX
+BA  47 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTAATGA; R02709; 16; 7;; p.
+BS  CTAATGG; R02712; 3; 7;; p.
+BS  GTAATGT; R04225; 6; 7;; p.
+BS  CTGATGG; R04226; 8; 7;; n.
+BS  CTAATGA; R04227; 10; 7;; p.
+BS  TTAATGA; R10024; 9; 7;; p.
+BS  TTAATAA; R10032; 4; 7;; p.
+BS  ATAATGT; R14650; 13; 7;; p.
+BS  CTAATGA; R14651; 5; 7;; p.
+BS  TTAATTA; R14769; 9; 7;; n.
+BS  GAAATGG; R15419; 12; 7;; p.
+BS  CAAGTGT; R15420; 12; 7;; p.
+BS  CTAATGG; R15426; 5; 7;; p.
+BS  CTAATGA; R15427; 5; 7;; p.
+BS  TTAATTA; R15482; 9; 7;; n.
+BS  TTAATGG; R15491; 10; 7;; p.
+BS  CTAATGG; R15492; 9; 7;; p.
+BS  CTAATTC; R18137; 11; 7;; n.
+BS  TTAATGG; R19189; 9; 7;; n.
+BS  CTAATGT; R19481; 12; 7;; p.
+BS  TTAATTC; R19482; 8; 7;; n.
+BS  TAAATTT; R19509; 41; 7;; n.
+BS  CTAATGG; R20722; 11; 7;; p.
+BS  GAAATGG; R20723; 12; 7;; p.
+BS  CTAATGA; R20727; 11; 7;; p.
+BS  TTAATTT; R20795; 12; 7;; p.
+BS  CTAATAA; R20973; 2; 7;; p.
+BS  TTAATTG; R20974; 6; 7;; p.
+BS  TTAATAA; R21510; 2; 7;; n.
+BS  TTAATTA; R21532; 9; 7;; n.
+BS  CTAATGG; R21538; 7; 7;; p.
+BS  CTAATGA; R24014; 14; 7;; p.
+BS  GAAATGA; R24129; 14; 7;; n.
+BS  CTAATTA; R24284; 12; 7;; n.
+BS  CTAAATT; R25191; 14; 7;; p.
+BS  TTAATGG; R25192; 15; 7;; n.
+BS  GTAATGG; R25193; 4; 7;; p.
+BS  CTAATGT; R25222; 21; 7;; p.
+BS  TTAATGT; R27392; -1; 7;; p.
+BS  TTAATTT; R29135; 7; 7;; n.
+BS  TTAATTT; R29138; 10; 7;; p.
+BS  TTAATGT; R29139; 10; 7;; p.
+BS  TTAATGG; R29145; 3; 7;; p.
+BS  CTAATTG; R30055; 39; 7;; n.
+BS  CTAATGG; R32379; 5; 7;; n.
+BS  GTAATTT; R36158; 7; 7;; p.
+BS  CTAATGT; R36167; 14; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+OV  M01275; V$IPF1_Q6.
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

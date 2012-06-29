@@ -1,0 +1,38 @@
+AC  M01668
+XX
+ID  F$YHP1_01
+XX
+DT  22.02.2010 (created); mkl.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YHP1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T04357; YHP1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     20      T
+02     20      0      0      0      A
+03     20      0      0      0      A
+04      0      0      0     20      T
+05      0      0      0     20      T
+06      0      0     20      0      G
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  used PhyloCon and Converge for ChIP Motifs approach
+XX
+DR  JASPAR: MA0426.
+XX
+RN  [1]; RE0065640.
+RX  PUBMED: 16522208.
+RA  Macisaac K. D., Wang T., Gordon D. B., Gifford D. K., Stormo G. D., Fraenkel E.
+RT  An improved map of conserved regulatory sites for Saccharomyces cerevisiae.
+RL  BMC Bioinformatics 7:113 (2006).
+XX
+//

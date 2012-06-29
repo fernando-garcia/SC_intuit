@@ -1,0 +1,146 @@
+AC  M00056
+XX
+ID  V$MYOGNF1_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  myogenin / NF-1
+XX
+DE  myogenin / nuclear factor 1 or related factors
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01196; V$CTF1_01; selection of  the binding sites for CTCF by HOX11 cooperative DNA binding (specific).
+HC  M02103; V$NF1A_Q6;  (specific).
+XX
+BF  T00176; CTF-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T00177; CTF-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T00178; CTF-3; Species: human, Homo sapiens; site(s) included: no.
+BF  T02300; CTF-5; Species: human, Homo sapiens; site(s) included: no.
+BF  T02301; CTF-7; Species: human, Homo sapiens; site(s) included: no.
+BF  T00533; NF-1; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00536; NF-1; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T00538; NF-1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T01036; NF-1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00534; NF-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00537; NF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01298; NF-1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T00599; NF-1/L; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00604; NF-1/Red1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T04933; NF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15976; NF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19713; NF-1A; Species: Mammalia; site(s) included: yes.
+BF  T08176; NF-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15519; NF-1A; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00535; NF-1A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02331; NF-1A; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00544; NF-1A1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11331; NF-1A1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02296; NF-1A1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02297; NF-1A2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02298; NF-1A3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02299; NF-1A4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11430; NF-1B; Species: chick, Gallus gallus; site(s) included: no.
+BF  T04934; NF-1B; Species: human, Homo sapiens; site(s) included: no.
+BF  T19712; NF-1B; Species: Mammalia; site(s) included: yes.
+BF  T09201; NF-1B; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11189; NF-1B; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T19127; NF-1B-xbb5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00551; NF-1B1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T08170; NF-1B1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00552; NF-1B2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01909; NF-1B2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01910; NF-1B3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01911; NF-1B4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11435; NF-1C; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00174; NF-1C; Species: human, Homo sapiens; site(s) included: no.
+BF  T09202; NF-1C; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08191; NF-1C; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01907; NF-1C1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00554; NF-1C2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01908; NF-1C4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01903; NF-IX; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T18687; NF-IX; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00610; NF-IX; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T09259; NF-IX; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15389; NF-IX; Species: Mammalia; site(s) included: yes.
+BF  T09203; NF-IX; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09258; NF-IX; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00539; NF1C-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17687; NFI; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T19125; NFIA1-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19126; NFIA1-xbb2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08177; NFIA2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08178; NFIA2.1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08180; NFIB1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08199; NFIB2; Species: human, Homo sapiens; site(s) included: no.
+BF  T08181; NFIB2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08179; NFIB3; Species: human, Homo sapiens; site(s) included: no.
+BF  T08182; NFIB3; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08175; NFIB6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08185; NFIC10; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08186; NFIC11; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08183; NFIC1A; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08184; NFIC1B; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08187; NFIC2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10277; NFIC2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08188; NFIC5; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08189; NFIC8; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08190; NFIC9; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1      5      0      2      C
+02      5      0      3      0      R
+03      0      4      3      1      S
+04      1      6      0      1      C
+05      1      1      1      5      T
+06      0      2      5      1      G
+07      0      1      0      7      T
+08      0      2      2      4      T
+09      0      3      2      3      B
+10      3      1      1      3      N
+11      3      1      2      2      N
+12      2      0      1      5      T
+13      0      2      0      6      T
+14      0      0      1      7      T
+15      0      0      7      1      G
+16      0      0      8      0      G
+17      1      5      0      1      C
+18      5      0      2      1      A
+19      1      5      1      1      C
+20      0      2      4      2      G
+21      0      3      4      1      S
+22      3      1      1      3      N
+23      0      1      7      0      G
+24      0      7      0      1      C
+25      1      7      0      0      C
+26      6      0      1      1      A
+27      4      0      3      1      R
+28      1      4      1      2      C
+29      3      2      0      3      H
+XX
+BA  8 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGCACCTGTCGATTTGCGCCGCGCCAGCT; R05973; 10; 29;; p.
+BS  TGTCACCCCAAGCTGGCACGCAGCCAGTA; R05974; 8; 29;; p.
+BS  CACCTGTTTACATGGG AAGGAGCCAACA; R05975; 5; 29; 21; p.
+BS  CACCTGTTCAATTTGGCTTTGTGCAGAAT; R05976; 10; 29;; p.
+BS  AGCTGTTGTTTTCTGGCACCCGCTCAATT; R05977; 5; 29;; p.
+BS  CAGCTGTCGTGTTTGGAGCGCTGCCAACC; R05978; 4; 29;; p.
+BS  CAGCTGTTGTTTTTGGCAGGGAGCCTTCA; R05979; 4; 29;; p.
+BS  CAGCTGTTCGATTTGGTACTTTGCCAGGC; R05980; 4; 29;; p.
+XX
+CC  sequences selected with recombinant NF-1 from a pool of double-stranded oligonucleotides containing a core of 35 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0002924.
+RX  PUBMED: 1329097.
+RA  Funk W. D., Wright W. E.
+RT  Cyclic amplification and selection of targets for multicomponent complexes: Myogenin interacts with factors recognizing binding sites for basic helix--loop--helix, nuclear factor 1, myocyte-specific enhancer-binding factor 2, and COMP1 factor
+RL  Proc. Natl. Acad. Sci. USA 89:9484-9488 (1992).
+XX
+//

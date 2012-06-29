@@ -1,0 +1,49 @@
+AC  M01072
+XX
+ID  V$HIC1_02
+XX
+DT  30.09.2005 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HIC1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18968; HIC-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06430; HIC-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11080; HIC-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18969; HIC-1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06429; HIC-1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     24     36     25     15      N
+02     17     47     29      7      S
+03     15     49     25     11      N
+04     21     27     41     11      N
+05     13     24     50     13      N
+06      9     22     43     25      N
+07      0      0      0    100      T
+08      0      0    100      0      G
+09      0    100      0      0      C
+10     17     59     15      9      C
+11      5     66     20      8      C
+12     12     28     49     12      S
+13      8     38     40     14      S
+14     12     30     42     16      N
+15      9     23     41     27      N
+XX
+BA  74 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant HIC1 from a pool of double-stranded oligonucleotides containing a core of 27 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0035538.
+RX  PUBMED: 15231840.
+RA  Pinte S., Stankovic-Valentin N., Deltour S., Rood B. R., Guerardel C., Leprince D.
+RT  The tumor suppressor gene HIC1 (hypermethylated in cancer 1) is a sequence-specific transcriptional repressor: definition of its consensus binding sequence and analysis of its DNA binding and repressive properties.
+RL  J. Biol. Chem. 279:38313-38324 (2004).
+XX
+//

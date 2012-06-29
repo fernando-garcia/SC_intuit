@@ -1,0 +1,48 @@
+AC  M02319
+AS  MA0201
+XX
+ID  I$PTX1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ptx1
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T22665; Ptx1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T22666; Ptx1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      5      1     14      T
+02      0      0      0     20      T
+03     20      0      0      0      A
+04     20      0      0      0      A
+05      0      0      0     20      T
+06      0     20      0      0      C
+07      0     19      0      1      C
+XX
+BA  20 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0201.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071780.
+RX  PUBMED: 18585360.
+RA  Noyes M. B., Christensen R. G., Wakabayashi A., Stormo G. D., Brodsky M. H., Wolfe S. A.
+RT  Analysis of homeodomain specificities allows the family-wide prediction of preferred recognition sites.
+RL  Cell 133:1277-1289 (2008).
+XX
+//

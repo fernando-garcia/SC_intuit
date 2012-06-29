@@ -1,0 +1,71 @@
+AC  M02859
+AS  PB0125
+XX
+ID  V$GATA3_05
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Gata3
+XX
+DE  class: Zinc-coordinating; family: GATA
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00203; V$GATA_C; GATA binding site (family).
+HP  M00789; V$GATA_Q6;  (family).
+XX
+BF  T00310; GATA-3; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T08572; GATA-3; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     18     32     12     39      N
+02     14     18     21     48      N
+03     25     24     17     34      N
+04     24     21     24     31      N
+05     27     21     36     15      N
+06     10     32     19     39      N
+07     50     14      3     33      W
+08      5      2     90      3      G
+09     92      3      2      3      A
+10      3      7      2     87      T
+11     24     23     23     30      N
+12     11     22     28     39      N
+13     15     17     14     55      T
+14     84      5      6      5      A
+15      4      7      7     82      T
+16      5     85      3      7      C
+17     38      2     40     20      R
+18     38     22     26     15      N
+19      9     36     28     27      N
+20     30     18     18     34      N
+21     30     25     11     33      N
+22     35     27     14     24      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0125.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

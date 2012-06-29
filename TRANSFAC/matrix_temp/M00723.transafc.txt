@@ -1,0 +1,65 @@
+AC  M00723
+XX
+ID  I$GAGAFACTOR_Q6
+XX
+DT  02.06.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GAGA factor
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00301; GAGA factor; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     13      2      6      3      A
+02      2     11     12      0      S
+03     13      2      1      9      W
+04      0      2     21      2      G
+05     22      2      1      0      A
+06      1      0     24      0      G
+07     12     13      0      0      M
+08      5      0     20      0      G
+09      7      9      4      5      N
+10      9      3     12      1      R
+11     16      0      6      3      A
+XX
+BA  25 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AATGAACGAGA; R01517; -1; 11;; p.
+BS  AGAGAGCGCAA; R01520; 4; 11;; p.
+BS  ACAGAGAGCCA; R01524; 2; 11;; n.
+BS  GCAGAGCAAAG; R01526; 16; 11;; p.
+BS  AAAGAGAGTAG; R01862; 6; 11;; n.
+BS  AGAGAGCGGAA; R01863; 4; 11;; n.
+BS  AGAGAGCGCAA; R01864; 4; 11;; n.
+BS  TCAGAGCGTGA; R01865; 7; 11;; p.
+BS  CGTGAGCGGGT; R01867; 6; 11;; p.
+BS  TGAGCGAACGA; R02058; 2; 11;; n.
+BS  AGAGAGAGAGA; R02059; 2; 11;; n.
+BS  GCTCAGCACCG; R02062; 2; 11;; p.
+BS  GCTGAGAGTTA; R02063; 1; 11;; n.
+BS  NGCGAGCGGGA; R02064; 12; 11;; n.
+BS  GCTGGGAGCGG; R02065; -1; 11;; n.
+BS  CCAGAGCGCAG; R02066; 4; 11;; p.
+BS  GCTGAGAGCAG; R02067; 1; 11;; p.
+BS  TGTGAGCGGGA; R02266; 3; 11;; p.
+BS  AGTGAGAATCT; R02267; 2; 11;; p.
+BS  AGACAGAGCGT; R02268; 3; 11;; p.
+BS  ACCGCGAGTAA; R02269; 1; 11;; p.
+BS  ACTTAGCAAAA; R02270; 11; 11;; n.
+BS  AGGTAGAGAGA; R02271; 3; 11;; n.
+BS  GCAGAGCGAGA; R02558; 19; 11;; n.
+BS  AGAGAGAGAGA; R05045; 6; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

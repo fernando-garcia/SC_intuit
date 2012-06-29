@@ -1,0 +1,44 @@
+AC  M01759
+XX
+ID  V$AML2_01
+XX
+DT  29.06.2010 (created); apk.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AML2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00769; V$AML_Q6;  (family).
+HP  M00984; V$PEBP_Q6;  (family).
+XX
+BF  T02223; AML2; Species: human, Homo sapiens; site(s) included: no.
+BF  T09959; AML2; Species: Mammalia; site(s) included: yes.
+BF  T05409; AML2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05411; Runx3; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    454     38     52    130      A
+02    454     12      5      8      A
+03     10    454      0      2      C
+04     28    454      8      0      C
+05    458     66    454     18      R
+06      0    454      2      0      C
+07    454     82     20     50      A
+08    454    223    106     11      A
+XX
+BA  sequences (multiplexed massively parallel SELEX)
+XX
+CC  sequences selected with recombinant AML2 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0067210.
+RX  PUBMED: 20378718.
+RA  Jolma A., Kivioja T., Toivonen J., Cheng L., Wei G., Enge M., Taipale M., Vaquerizas J. M., Yan J., Sillanpaa M. J., Bonke M., Palin K., Talukder S., Hughes T. R., Luscombe N. M., Ukkonen E., Taipale J.
+RT  Multiplexed massively parallel SELEX for characterization of human transcription factor binding specificities.
+RL  Genome Res. 20:861-873 (2010).
+XX
+//

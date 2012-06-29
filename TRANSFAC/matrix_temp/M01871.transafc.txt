@@ -1,0 +1,92 @@
+AC  M01871
+XX
+ID  V$COE1_Q6
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  COE1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00977; V$EBF_Q6;  (family).
+XX
+BF  T16021; COE1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15977; COE1; Species: Mammalia; site(s) included: yes.
+BF  T09926; COE1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01040; COE1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11252; COE1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18847; COE1-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T01112; COE1-long; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18848; COE1-short; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05427; COE1-xbb1; Species: human, Homo sapiens; site(s) included: no.
+BF  T05428; COE1-xbb1; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      7     10      4     16      N
+02      1     30      1      5      C
+03      2     18      3     14      Y
+04      0     37      0      0      C
+05     21      5      0     11      W
+06     11      2     18      6      R
+07      3      0     34      0      G
+08      0      0     37      0      G
+09      0      0     37      0      G
+10     20      4      8      5      A
+11     18      8      4      7      N
+12      2     10      6     19      Y
+13      9     10      2     16      N
+14      5      8     13     10      N
+XX
+BA  37 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TCCCAGGGGAGGTG; R03609; 6; 14;; p.
+BS  CTCCTTGGGGACCA; R03611; -1; 14;; n.
+BS  TCCCTAGGGACTCT; R03618; 6; 14;; n.
+BS  CCTCAAGGGAATAT; R03620; 5; 14;; n.
+BS  TCCCTGGGGAatcc; R03621; 6; 14;; n.
+BS  aTTCTTGGGGGAat; R03622; 8; 14;; n.
+BS  ACTCAAGGGAATTG; R03699; 8; 14;; p.
+BS  ccaCAAGGGAATtt; R03700; 11; 14;; p.
+BS  TCTCAGGGGAATTG; R13324; 8; 14;; p.
+BS  ATCCCGGGGGAAAc; R13331; 10; 14;; p.
+BS  TCTCATGGGTTTtg; R13338; 5; 14;; n.
+BS  CCTCCAGGGACCct; R13339; 6; 14;; n.
+BS  GCCCTGGGGAcctg; R13345; 10; 14;; p.
+BS  ACTCCCGGGAATCT; R22521; 5; 14;; p.
+BS  ACTCAAGGGAATTG; R27667; 8; 14;; p.
+BS  CTCCAGGGGAGCCC; R27669; 14; 14;; p.
+BS  CACCAGGGGGCGAT; R27670; 9; 14;; p.
+BS  tCCCTGGGGtacag; R27721; 3; 14;; n.
+BS  CCGCAGGGGATGCG; R27722; 9; 14;; p.
+BS  TCACAGGGGCATTT; R27729; 5; 14;; n.
+BS  TCTCCTGGGTTCTG; R27787; 3; 14;; n.
+BS  TCCCAAGGGACCTA; R31247; 8; 14;; p.
+BS  TCGCTGGGGACTAC; R31252; 8; 14;; p.
+BS  ACTCAAGGGAATTG; R31258; 8; 14;; p.
+BS  TCCCAAAGGACTAC; R31264; 31; 14;; n.
+BS  GGCCCGGGGGTGTG; R31281; 6; 14;; p.
+BS  GCCCAGGGGCACAC; R31283; 4; 14;; n.
+BS  GCCCAGGGGCCTGA; R31286; 4; 14;; n.
+BS  TCTCAAGGGGAGTT; R31377; 10; 14;; p.
+BS  TCCCTGAGGGAGAG; R31378; 5; 14;; n.
+BS  TCTCAGGGGAATTG; R31383; 8; 14;; p.
+BS  CTCCTGAGggatga; R31384; 9; 14;; p.
+BS  TCTCAGGGGCTTCA; R31385; 4; 14;; n.
+BS  CCCCATGGGAGCCC; R31386; 2; 14;; n.
+BS  ACCCACGGGTATTT; R31387; 8; 14;; p.
+BS  tCGCTTGGGtttcc; R31388; 8; 14;; p.
+BS  CCTCTAGGGATCTn; R31405; -1; 14;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

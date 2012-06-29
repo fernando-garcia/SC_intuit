@@ -1,0 +1,130 @@
+AC  M01996
+XX
+ID  V$AR_Q6_01
+XX
+DT  19.07.2011 (created); mkl.
+DT  02.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AR
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00040; AR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15601; AR; Species: Mammalia; site(s) included: yes.
+BF  T08528; AR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08487; AR-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15     11     40     11      G
+02     27     15      9     26      N
+03     29     12     18     18      N
+04      3     58      8      8      C
+05     34     12      8     23      N
+06     14     18     13     32      N
+07     16     20     20     21      N
+08     20     24     15     18      N
+09     12      5      2     58      T
+10      2      5     69      1      G
+11      4      4      0     69      T
+12     11     11      8     47      T
+13      0     77      0      0      C
+14      5     21      0     50      T
+15     15     17     15     23      N
+XX
+BA  77 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTACGTGATGTTCTC; R03286; 2; 15;; p.
+BS  GCTCAGCTTGTACTT; R09458; 6; 15;; p.
+BS  GTAGCTTTTGTTCTA; R10144; 2; 15;; p.
+BS  GTAGATTCTGTTCTA; R10148; 2; 15;; p.
+BS  GTACATCTTGTTCAC; R10149; 2; 15;; p.
+BS  GTACTTCCTGCTCTT; R10150; -1; 15;; n.
+BS  AAACTCATTGTTCTA; R10151; 2; 15;; p.
+BS  GAGCATGAAGTACTC; R10152; 2; 15;; p.
+BS  GTACATTTTCTTCTC; R14260; 4; 15;; n.
+BS  GCACTTGCTGTTCTG; R14261; 4; 15;; n.
+BS  TCTGTGTGTCTTCTG; R14262; 12; 15;; n.
+BS  AAACCCCGTGTGCAC; R14263; 19; 15;; n.
+BS  TTGCTTACTGTCCTA; R14264; 15; 15;; n.
+BS  ATACAATATGTTCCT; R14265; 6; 15;; n.
+BS  TATCTTCATGATCTT; R14266; 27; 15;; p.
+BS  TTGCAAGTTGTCCCA; R14267; 16; 15;; n.
+BS  TAATTATCTGTTCTG; R14272; 9; 15;; p.
+BS  GGTCAGCCAGTTCTC; R14276; 5; 15;; p.
+BS  AAACAGCCTGTTCTG; R14278; 5; 15;; n.
+BS  TTCCAGGACATTCAG; R14281; 6; 15;; n.
+BS  CATCCAGGAGTACTG; R14282; 7; 15;; n.
+BS  AGACAGCTTGTACAC; R14283; 8; 15;; p.
+BS  GTGTAGTGTGTGCTG; R14284; 8; 15;; p.
+BS  GTTCTTGGAGTACTT; R14287; 6; 15;; p.
+BS  TAGCATCTTGTTCTT; R14293; 5; 15;; p.
+BS  GCTCTTTCAGTTCTA; R14294; 4; 15;; n.
+BS  GTTCCAAAGGCTCTT; R14295; 13; 15;; n.
+BS  TGCCAAATTGTTCCA; R14296; 22; 15;; n.
+BS  TTTGGCACTGTCCTC; R14297; 30; 15;; p.
+BS  GAGCACGATGTGCTT; R14299; 3; 15;; n.
+BS  TCTCATTCTGTTCCC; R14300; 8; 15;; p.
+BS  GAAGTTCCTGTTCTC; R14301; 5; 15;; p.
+BS  GAAACCAGTGTTCTT; R14302; 4; 15;; p.
+BS  AGCCAAGTTGTTCTA; R14303; 3; 15;; p.
+BS  GCAGGCTGTGTCCCT; R14306; 5; 15;; p.
+BS  CCATGGGATGTTCTC; R14308; 4; 15;; p.
+BS  GAACCTCGCGTGCTG; R14312; 6; 15;; n.
+BS  CTGTACCCTCTCCCT; R14314; -8; 15;; n.
+BS  AAGCACAGTGTTCTG; R24793; -1; 15;; n.
+BS  GACCTCCCTGATCTG; R24798; -1; 15;; n.
+BS  AACCAAACTGTTCTG; R24800; -1; 15;; n.
+BS  TAAGGATCTGTACTC; R26441; 5; 15;; n.
+BS  GTGCCAGAAGTTCCA; R26442; 7; 15;; p.
+BS  atgctAGATACAcct; R28692; 13; 15;; n.
+BS  GCTCTttcTGTTCTn; R28699; 2; 15;; p.
+BS  GCTAAATTAGTTCTT; R31237; 6; 15;; p.
+BS  CCTCCCCCTGCGCCC; R31241; 15; 15;; n.
+BS  GAGCATAATGTACTT; R31628; 7; 15;; n.
+BS  ATACTGCATGTTCCT; R31629; 9; 15;; p.
+BS  AACTTCTATGTACAA; R31773; 2; 15;; p.
+BS  CGGTTCATTGTTCTA; R32041; 7; 15;; n.
+BS  CCACACTGTGTCCCa; R32395; 11; 15;; n.
+BS  GAGCCTGTAGATCCG; R32428; -6; 15;; p.
+BS  GAATATTATGTTCTG; R32438; 10; 15;; n.
+BS  GAGATCAGAGTACTT; R32450; 8; 15;; p.
+BS  ACACCTAATGTTCTC; R32462; 2; 15;; n.
+BS  GACCTTTATGAACTA; R33840; -1; 15;; n.
+BS  GACCCTCTTCTCCnn; R34617; 3; 15;; p.
+BS  GTGCATCTTGTTCTA; R34744; 4; 15;; n.
+BS  CTGCGCTGTGTTCTT; R34745; 9; 15;; n.
+BS  ATACAATATGTTCCT; R34747; 4; 15;; n.
+BS  CAggaGATTGTGctt; R34875; 13; 15;; p.
+BS  GTACTTGCTGTTCTG; R34878; 4; 15;; n.
+BS  CCTCTTTGTTTTCCT; R34889; 15; 15;; p.
+BS  CTCTACTATGTGCCC; R34890; 9; 15;; n.
+BS  GCACTTGCTGTTCCn; R34994; 2; 15;; p.
+BS  AGCCATACTGTCCCn; R34995; 2; 15;; p.
+BS  AGCCATGCTGTCCCn; R34996; 2; 15;; p.
+BS  GGACGGGGCGTCCCn; R34997; -1; 15;; n.
+BS  GACCAGCTCGTCCCn; R34998; -1; 15;; n.
+BS  GTGCTTGCTGTGCTC; R35628; 2; 15;; p.
+BS  GCTCTGGTAGTTCTT; R35633; 6; 15;; p.
+BS  GTTCGCAGAGTTCTT; R35634; 6; 15;; p.
+BS  GTTCAagcAGTTCTc; R35636; 6; 15;; p.
+BS  GAACATCATGTTCTG; R35843; 14; 15;; n.
+BS  GATCCCACGGTTCTA; R37576; 6; 15;; p.
+BS  CGACATCACCTTCCT; R37579; 5; 15;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00962; V$AR_Q6; half-site matrix of ARE (androgen response element)
+RN  [1]; RE0072507.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+RN  [2]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

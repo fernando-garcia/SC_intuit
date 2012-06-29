@@ -1,0 +1,172 @@
+AC  M02031
+XX
+ID  V$SPI1_Q5
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SPI1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00703; SPI1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02068; SPI1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09976; SPI1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10037; SPI1; Species: Mammalia; site(s) included: yes.
+BF  T00702; SPI1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10429; SPI1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15606; SPI1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15607; SPI1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08317; SPI1-xbb1; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     97     10     18      0      A
+02      7      0    118      0      G
+03      0      0    125      0      G
+04    125      0      0      0      A
+05    119      1      4      1      A
+06     24     19     76      5      G
+XX
+BA  126 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGGAAC; R01068; 15; 6;; n.
+BS  CGGAAG; R01155; 7; 6;; n.
+BS  AGGAAG; R01711; 6; 6;; n.
+BS  CGGAAG; R02386; 7; 6;; p.
+BS  GGGAAG; R02685; 11; 6;; p.
+BS  AGGAAC; R02982; 6; 6;; p.
+BS  AGGAAG; R03475; 10; 6;; p.
+BS  AGGAAC; R03675; -1; 6;; n.
+BS  AGGAAG; R04263; 17; 6;; p.
+BS  CAGAAG; R04274; 2; 6;; n.
+BS  AGGAAG; R04413; -1; 6;; n.
+BS  AGGAGG; R04722; 2; 6;; n.
+BS  AGGAAA; R08101; 12; 6;; n.
+BS  AGGAAG; R08122; 5; 6;; p.
+BS  agGAGA; R08195; 12; 6;; n.
+BS  AGGAAG; R08196; 6; 6;; p.
+BS  GGGAAA; R13565; 5; 6;; p.
+BS  AGGAAg; R13568; 6; 6;; n.
+BS  AGGAAg; R13569; 12; 6;; p.
+BS  AGGAAg; R13570; 12; 6;; p.
+BS  AGGAAc; R13573; 12; 6;; p.
+BS  GGGAAG; R14192; 9; 6;; p.
+BS  GGGAAG; R14192; 9; 6;; p.
+BS  AGGAAC; R14490; 10; 6;; p.
+BS  AGGAAA; R14621; 9; 6;; n.
+BS  GGGAAG; R17016; 5; 6;; p.
+BS  AGGAAG; R18615; 13; 6;; n.
+BS  CGGAAG; R19547; 14; 6;; n.
+BS  AGGAAA; R20291; 10; 6;; n.
+BS  AGGAAC; R20410; 5; 6;; p.
+BS  AGGAAG; R20411; 16; 6;; n.
+BS  AGGAAG; R20444; 10; 6;; n.
+BS  AGGAAG; R20519; 7; 6;; p.
+BS  AGGAAG; R20560; 12; 6;; p.
+BS  AGGATG; R21052; 22; 6;; n.
+BS  GGGAAC; R21054; 11; 6;; p.
+BS  AGGAAG; R21097; 10; 6;; n.
+BS  AGGAAA; R21108; 15; 6;; n.
+BS  GGGAAG; R21120; 13; 6;; p.
+BS  AGGAAC; R21272; 32; 6;; p.
+BS  AGGAAT; R21505; 139; 6;; p.
+BS  GAGAAG; R22225; 7; 6;; n.
+BS  GAGAAG; R22226; 7; 6;; p.
+BS  AGGAAG; R22307; 17; 6;; p.
+BS  AGGAAG; R22316; 14; 6;; p.
+BS  AGGAAA; R22548; 8; 6;; p.
+BS  AGGACT; R24243; 6; 6;; p.
+BS  AGGAAG; R24244; 9; 6;; n.
+BS  AGGAAG; R24268; 7; 6;; n.
+BS  AGGAAC; R24517; 7; 6;; p.
+BS  aGGAAc; R24616; 2; 6;; p.
+BS  AGGAAG; R24622; 5; 6;; p.
+BS  AGGAAC; R25066; 6; 6;; p.
+BS  CAGAAG; R25067; 2; 6;; p.
+BS  AGGAGA; R25119; 7; 6;; n.
+BS  AGGAAG; R25146; 16; 6;; n.
+BS  AGGAAG; R25219; 17; 6;; p.
+BS  AGGAAA; R25472; 6; 6;; n.
+BS  aGGAAa; R25476; 16; 6;; p.
+BS  AGGAAG; R25665; 12; 6;; p.
+BS  CGGAAG; R25824; 11; 6;; n.
+BS  AGGAAG; R25865; 6; 6;; p.
+BS  AGGAAG; R25942; 5; 6;; n.
+BS  AGGAAG; R25964; 13; 6;; p.
+BS  AGGAAG; R25989; 14; 6;; n.
+BS  aGGAAG; R26033; 17; 6;; n.
+BS  GGGAAG; R26410; 18; 6;; p.
+BS  GGGAAG; R26475; 14; 6;; p.
+BS  GGGAAG; R26476; 8; 6;; n.
+BS  AGGAAA; R26699; 11; 6;; n.
+BS  GGGAAG; R26818; 12; 6;; p.
+BS  AGGAAA; R27164; 13; 6;; p.
+BS  AGGAAG; R27165; 14; 6;; p.
+BS  AGGAAG; R27437; 9; 6;; p.
+BS  GGGAAC; R27438; 10; 6;; n.
+BS  AGGAAc; R27475; 8; 6;; p.
+BS  AGGAAC; R27476; 8; 6;; p.
+BS  AGGAAG; R27495; 12; 6;; n.
+BS  AGGAAA; R27496; 10; 6;; p.
+BS  AGGAAG; R27497; 10; 6;; n.
+BS  AGGAAG; R27500; 11; 6;; p.
+BS  AGGAAA; R27501; 10; 6;; p.
+BS  aGGAAg; R28115; 11; 6;; n.
+BS  aGGAAg; R28116; 9; 6;; n.
+BS  AGGAAg; R28120; 6; 6;; n.
+BS  CGGAAA; R28152; 9; 6;; n.
+BS  GGGAAA; R28154; 9; 6;; p.
+BS  AGGAAG; R28247; 7; 6;; p.
+BS  AGGAAG; R28349; 11; 6;; n.
+BS  AGGAAC; R28507; 13; 6;; n.
+BS  AGGAAC; R28557; 9; 6;; n.
+BS  AGGAAG; R28560; 9; 6;; n.
+BS  AGGAAA; R28651; 14; 6;; n.
+BS  AGGAAC; R29048; 11; 6;; p.
+BS  AGGAAA; R29512; 18; 6;; p.
+BS  AGGAAG; R29766; 6; 6;; p.
+BS  CGGAAG; R29791; 9; 6;; n.
+BS  GAGAAG; R31077; 15; 6;; p.
+BS  AAGAAG; R31083; 20; 6;; n.
+BS  AGGAAG; R31181; 11; 6;; p.
+BS  AGGAAG; R32329; 12; 6;; n.
+BS  AGGAAG; R32550; 7; 6;; n.
+BS  AGGAAT; R32702; 6; 6;; n.
+BS  AGGAAA; R32703; 8; 6;; p.
+BS  AGGAAG; R32714; 5; 6;; n.
+BS  CGGAAG; R32715; 5; 6;; p.
+BS  AGGAAA; R32804; 10; 6;; n.
+BS  AGGAAA; R32810; 13; 6;; n.
+BS  AGGAAG; R32811; 10; 6;; n.
+BS  AGGAAA; R32812; 9; 6;; n.
+BS  CAGAAG; R32813; 14; 6;; p.
+BS  AGGAAA; R33102; 11; 6;; p.
+BS  GGGAAT; R33521; 48; 6;; p.
+BS  GGGAGG; R33594; 8; 6;; n.
+BS  AGGAAG; R33595; 11; 6;; p.
+BS  AGGAAn; R33599; 4; 6;; p.
+BS  AGGAAG; R33634; 18; 6;; p.
+BS  AGGAAC; R33695; 11; 6;; p.
+BS  AGGAAa; R33822; 14; 6;; n.
+BS  AGGAAG; R34243; 13; 6;; p.
+BS  AGGAAG; R34279; 2; 6;; n.
+BS  GGGAAG; R34280; 1; 6;; n.
+BS  AGGAAG; R34282; 1; 6;; n.
+BS  AGGAAC; R34283; 1; 6;; n.
+BS  AGGAAG; R34285; 8; 6;; n.
+BS  AGGAAT; R34286; 2; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

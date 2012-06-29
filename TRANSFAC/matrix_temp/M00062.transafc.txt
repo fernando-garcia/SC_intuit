@@ -1,0 +1,87 @@
+AC  M00062
+XX
+ID  V$IRF1_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRF-1
+XX
+DE  interferon regulatory factor 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00772; V$IRF_Q6;  (family).
+HP  M00972; V$IRF_Q6_01;  (family).
+XX
+BF  T15667; IRF-1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T15668; IRF-1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T05092; IRF-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00423; IRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09323; IRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14816; IRF-1; Species: Mammalia; site(s) included: no.
+BF  T00422; IRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09319; IRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00424; IRF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15745; IRF-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15782; IRF-1; Species: sheep, Ovis aries; site(s) included: no.
+BF  T15783; IRF-1; Species: sheep, Ovis aries; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      8     12      1      S
+02      9      0      0      0      A
+03     21      0      0      0      A
+04     20      0      0      1      A
+05     21      0      0      0      A
+06      1      4     12      1      G
+07      0     10      0     11      Y
+08      1      0     19      0      G
+09     21      0      0      0      A
+10     20      1      0      0      A
+11     21      0      0      0      A
+12      1     14      6      0      C
+13      1     13      1      6      C
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAAAAGTGAAACT; R06061; 1; 13;; p.
+BS  G AAAGTGAAAGT; R06062; 9; 13; 10; p.
+BS  TAAAACCGAAAGC; R06063; 10; 13;; p.
+BS  G AAA TGAAAGT; R06064; 7; 13; 8,12; p.
+BS  G AAACTGAAACC; R06065; 2; 13; 3; p.
+BS  CAAAACCGAAACC; R06066; 9; 13;; p.
+BS  CAAAAGTGAAAGC; R06067; 3; 13;; p.
+BS  G AAAGTGAAACC; R06068; 10; 13; 11; p.
+BS  CAAAAACGAAACC; R06069; 1; 13;; p.
+BS  G AAAGTGAAACT; R06070; 8; 13; 9; p.
+BS  CAAAACC AAACG; R06071; 5; 13; 12; p.
+BS  G AAAGCAAAAGT; R06072; 6; 13; 7; p.
+BS  CAAAAGTGAAACC; R06073; 1; 13;; p.
+BS  G AAAGTGAAACC; R06074; 1; 13; 2; p.
+BS  G AAAGTGAAACC; R06075; 3; 13; 4; p.
+BS  C AAATCGACAAC; R06076; 8; 13; 9; p.
+BS  G ATAGTGAAACC; R06077; 9; 13; 10; p.
+BS  G AAAGCGAAAGT; R06078; 2; 13; 3; p.
+BS  CAAAA CGAAACA; R06079; 11; 13; 16; p.
+BS  G AAAGCGAAACC; R06080; 1; 13; 2; p.
+BS  GAAAA CGAAACC; R06081; 1; 13; 6; p.
+XX
+CC  sequences selected with recombinant IRF-1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0050.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0002930.
+RX  PUBMED: 7687740.
+RA  Tanaka N., Kawakami T., Taniguchi T.
+RT  Recognition DNA sequences of interferon regulatory factor 1 (IRF-1) and IRF-2, regulators of cell growth and the interferon system
+RL  Mol. Cell. Biol. 13:4531-4538 (1993).
+XX
+//

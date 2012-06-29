@@ -1,0 +1,42 @@
+AC  M01629
+XX
+ID  F$LEU3_02
+XX
+DT  25.01.2010 (created); mkl.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LEU3
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00465; LEU3; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      0      0      C
+02      0      1      0      0      C
+03      0      0   0.57   0.43      K
+04    0.2      0   0.35   0.45      K
+05   0.26   0.34      0   0.41      H
+06   0.47   0.12   0.16   0.25      N
+07      0   0.61   0.39      0      S
+08      0      1      0      0      C
+09      0      0      1      0      G
+10      0   0.32   0.68      0      G
+XX
+BA  sequences (ChIP-on-high-density genome-wide array)
+XX
+CC  Dip-chip
+XX
+DR  JASPAR: MA0324.
+XX
+RN  [1]; RE0065610.
+RX  PUBMED: 19111667.
+RA  Badis G., Chan E. T., van Bakel H., Pena-Castillo L., Tillo D., Tsui K., Carlson C. D., Gossett A. J., Hasinoff M. J., Warren C. L., Gebbia M., Talukder S., Yang A., Mnaimneh S., Terterov D., Coburn D., Li Yeo A., Yeo Z. X., Clarke N. D., Lieb J. D., Ansari A. Z., Nislow C., Hughes T. R.
+RT  A library of yeast transcription factor motifs reveals a widespread function for Rsc3 in targeting nucleosome exclusion at promoters.
+RL  Mol. Cell 32:878-887 (2008).
+XX
+//

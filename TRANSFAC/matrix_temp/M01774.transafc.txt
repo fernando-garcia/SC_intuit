@@ -1,0 +1,41 @@
+AC  M01774
+XX
+ID  V$TBR2_01
+XX
+DT  30.06.2010 (created); apk.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBR2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04395; TBR2; Species: human, Homo sapiens; site(s) included: no.
+BF  T17922; TBR2; Species: Mammalia; site(s) included: yes.
+BF  T16915; Tbr2; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    577     29    118     80      A
+02     71      8    577     98      G
+03      0     19    577     25      G
+04      4     58     18    577      T
+05      4     12    577     15      G
+06      0    104     26    577      T
+07     34     45    577     63      G
+08    577      6      0      0      A
+09    577    118     51    170      A
+XX
+BA  sequences (multiplexed massively parallel SELEX)
+XX
+CC  sequences selected with recombinant TBR2 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0067210.
+RX  PUBMED: 20378718.
+RA  Jolma A., Kivioja T., Toivonen J., Cheng L., Wei G., Enge M., Taipale M., Vaquerizas J. M., Yan J., Sillanpaa M. J., Bonke M., Palin K., Talukder S., Hughes T. R., Luscombe N. M., Ukkonen E., Taipale J.
+RT  Multiplexed massively parallel SELEX for characterization of human transcription factor binding specificities.
+RL  Genome Res. 20:861-873 (2010).
+XX
+//

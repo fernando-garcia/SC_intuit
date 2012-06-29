@@ -1,0 +1,109 @@
+AC  M01294
+XX
+ID  V$PROP1_01
+XX
+DT  27.08.2009 (created); apk.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  (Prop-1)2
+XX
+DE  Prop-1 binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16380; (Prop-1)2; Species: pig, Sus scrofa; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     65      T
+02     65      0      0      0      A
+03     65      0      0      0      A
+04      0      0      0     65      T
+05      3      4      2     56      T
+06     20     10     13     22      N
+07     29      7     17     12      N
+08     51      0      5      9      A
+09      4      1      0     60      T
+10      6      0      0     59      T
+11     45      3      5     12      A
+XX
+BA  65 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TAATTTAATTA; R28912; 1; 11;; p.
+BS  TAATTTAATTA; R28912; 1; 11;; p.
+BS  TAATTTAATTA; R28912; 1; 11;; p.
+BS  TAATTTAATTA; R28912; 1; 11;; p.
+BS  TAATTTAATTA; R28912; 1; 11;; p.
+BS  TAATTTAATTA; R28912; 1; 11;; p.
+BS  TAATTTGATTA; R28913; 1; 11;; p.
+BS  TAATTTGATTA; R28913; 1; 11;; p.
+BS  TAATTTGATTA; R28913; 1; 11;; p.
+BS  TAATTGAATTA; R28914; 1; 11;; p.
+BS  TAATTGAATTA; R28914; 1; 11;; p.
+BS  TAATTGAATTA; R28914; 1; 11;; p.
+BS  TAATTGAATTA; R28914; 1; 11;; p.
+BS  TAATTGAATTA; R28914; 1; 11;; p.
+BS  TAATTGAATTA; R28914; 1; 11;; p.
+BS  TAATTGAATTA; R28914; 1; 11;; p.
+BS  TAATTCGATTA; R28915; 1; 11;; p.
+BS  TAATTCGATTA; R28915; 1; 11;; p.
+BS  TAATTCGATTA; R28915; 1; 11;; p.
+BS  TAATTCGATTA; R28915; 1; 11;; p.
+BS  TAATTGTATTA; R28916; 1; 11;; p.
+BS  TAATTCTATTA; R28917; 1; 11;; p.
+BS  TAATTTCATTA; R28918; 1; 11;; p.
+BS  TAATTTCATTA; R28918; 1; 11;; p.
+BS  TAATTTTATTA; R28919; 1; 11;; p.
+BS  TAATTAGATTA; R28920; 1; 11;; p.
+BS  TAATTAGATTA; R28920; 1; 11;; p.
+BS  TAATTAGATTA; R28920; 1; 11;; p.
+BS  TAATTAGATTA; R28920; 1; 11;; p.
+BS  TAATTAGATTA; R28920; 1; 11;; p.
+BS  TAATTATATTA; R28921; 1; 11;; p.
+BS  TAATTATATTA; R28921; 1; 11;; p.
+BS  TAATTATATTA; R28921; 1; 11;; p.
+BS  TAATTACATTA; R28922; 1; 11;; p.
+BS  TAATTACATTA; R28922; 1; 11;; p.
+BS  TAATCGTATTA; R28923; 1; 11;; p.
+BS  TAATCGTATTA; R28923; 1; 11;; p.
+BS  TAATCACATTA; R28924; 1; 11;; p.
+BS  TAATCTATTTA; R28925; 1; 11;; p.
+BS  TAATTAGATTT; R28926; 1; 11;; p.
+BS  TAATTAGATTT; R28926; 1; 11;; p.
+BS  TAATTTAATTT; R28927; 1; 11;; p.
+BS  TAATTCGATTT; R28928; 1; 11;; p.
+BS  TAATTAAATTG; R28929; 1; 11;; p.
+BS  TAATTGAATTG; R28930; 1; 11;; p.
+BS  TAATTTAATTG; R28931; 1; 11;; p.
+BS  TAATTTAATTG; R28931; 1; 11;; p.
+BS  TAATTGAATTC; R28932; 1; 11;; p.
+BS  TAATTAAGTTA; R28933; 1; 11;; p.
+BS  TAATTAGGTTA; R28934; 1; 11;; p.
+BS  TAATTACGTTA; R28935; 1; 11;; p.
+BS  TAATGCAGTTA; R28936; 1; 11;; p.
+BS  TAATTAATTTA; R28937; 1; 11;; p.
+BS  TAATTCGTTTA; R28938; 1; 11;; p.
+BS  TAATATAATAT; R28939; 1; 11;; p.
+BS  TAATTAATTAT; R28940; 1; 11;; p.
+BS  TAATTGTTTAT; R28941; 1; 11;; p.
+BS  TAATTTATTAC; R28942; 1; 11;; p.
+BS  TAATTTATTAC; R28942; 1; 11;; p.
+BS  TAATTTTTTAG; R28943; 1; 11;; p.
+BS  TAATTCTAATT; R28944; 1; 11;; p.
+BS  TAATATCAATT; R28945; 1; 11;; p.
+BS  TAATGCTAATT; R28946; 1; 11;; p.
+BS  TAATTAAGCTT; R28947; 1; 11;; p.
+BS  TAATATATATT; R28948; 1; 11;; p.
+XX
+CC  sequences selected with recombinant (Prop-1)2 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 9 rounds of selection and amplification
+XX
+RN  [1]; RE0063640.
+RX  PUBMED: 19524124.
+RA  Nakayama M., Kato T., Susa T., Sano A., Kitahara K., Kato Y.
+RT  Dimeric PROP1 binding to diverse palindromic TAAT sequences promotes its transcriptional activity.
+RL  Mol. Cell. Endocrinol. 307:36-42 (2009).
+XX
+//

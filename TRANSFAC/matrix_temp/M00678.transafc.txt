@@ -1,0 +1,53 @@
+AC  M00678
+XX
+ID  V$TEL2_Q6
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Tel-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T11152; ETV7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04998; Tel-2a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04886; Tel-2b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04999; Tel-2c; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05000; Tel-2d; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05001; Tel-2e; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05002; Tel-2f; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      2      0      2      Y
+02      0      1      0      4      T
+03      5      0      0      0      A
+04      0      5      0      0      C
+05      0      0      0      5      T
+06      0      0      0      5      T
+07      0      5      0      0      C
+08      0      5      0      0      C
+09      0      0      1      4      T
+10      0      0      5      0      G
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTACTTCCGG; R02386; 6; 10;; n.
+BS  CTACTTCCTG; R12017; 9; 10;; n.
+BS  CTACTTCCTG; R12018; 15; 10;; n.
+BS  TCACTTCCTG; R12019; 4; 10;; n.
+BS  ATACTTCCTG; R12020; 10; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

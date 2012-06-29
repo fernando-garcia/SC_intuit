@@ -1,0 +1,75 @@
+AC  M00017
+XX
+ID  V$ATF_01
+XX
+DT  17.11.1992 (created); ewi.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF
+XX
+DE  activating transcription factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T00051; ATF; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5     14      2      4      C
+02      2      6      8      9      N
+03      3     10     10      2      S
+04      0      0      0     25      T
+05      0      0     25      0      G
+06     25      0      0      0      A
+07      0     25      0      0      C
+08      0      0     25      0      G
+09      4      2      1     18      T
+10      7     11      3      4      N
+11      9      1      7      8      N
+12      6      7      7      5      N
+13      1     11      4      9      Y
+14      2     13      5      5      C
+XX
+BA  25 sequences (compiled matrix imported from literature reference)
+XX
+BS  CGTTGACGACAACC; R05303; 1; 14;; p.
+BS  CCCTGACGTGTCCC; R05304; 1; 14;; p.
+BS  CTCTGACGTCTCCC; R05305; 1; 14;; p.
+BS  CTCTGACGATTACC; R05306; 1; 14;; p.
+BS  CCCTGACGTCCCTC; R05307; 1; 14;; p.
+BS  TGCTGACGGCAGCT; R05308; 1; 14;; p.
+BS  AGCTGACGTCTCTG; R05309; 1; 14;; p.
+BS  CTCTGACGTCAGCC; R05310; 1; 14;; p.
+BS  CCGTGACGTCACCC; R05311; 1; 14;; p.
+BS  CCGTGACGTTTACA; R05312; 1; 14;; p.
+BS  TGCTGACGCAGATG; R05313; 1; 14;; p.
+BS  AGCTGACGCAGGCC; R05314; 1; 14;; p.
+BS  CCATGACGTCAATT; R05315; 1; 14;; p.
+BS  CCATGACGTCAATT; R05316; 1; 14;; p.
+BS  CTTTGACGTCAGCC; R05317; 1; 14;; p.
+BS  CTCTGACGTAAGGG; R05318; 1; 14;; p.
+BS  CTGTGACGTCTTTC; R05319; 1; 14;; p.
+BS  TTGTGACGTGGCGC; R05320; 1; 14;; p.
+BS  GGGTGACGTAGTAG; R05321; 1; 14;; p.
+BS  AAGTGACGTTTTTG; R05322; 1; 14;; p.
+BS  AGATGACGTAGTTT; R05323; 1; 14;; p.
+BS  CTGTGACGAAAGCC; R05324; 1; 14;; p.
+BS  AAGTGACGATTTGA; R05325; 1; 14;; p.
+BS  GGGTGACGTAGGTT; R05326; 1; 14;; p.
+BS  TTGTGACGTGGCGC; R05327; 1; 14;; p.
+XX
+CC  binding sites from15 genes
+XX
+RN  [1]; RE0001527.
+RX  PUBMED: 2169022.
+RA  Rooney R. J., Raychaudhuri P., Nevins J. R.
+RT  E4F and ATF, two transcription factors that recognize the same site, can be distinguished both physically and functionally: a role for E4F in E1A trans activation
+RL  Mol. Cell. Biol. 10:5138-5149 (1990).
+XX
+//

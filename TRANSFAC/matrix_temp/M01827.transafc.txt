@@ -1,0 +1,57 @@
+AC  M01827
+XX
+ID  P$GT1_Q6_01
+XX
+DT  08.02.2011 (created); mkl.
+DT  09.02.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GT-1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01089; GT-1; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+BF  T04284; GT-1a; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+BF  T04286; GT-1b; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     12      T
+02      3      2      2      5      N
+03      2      0      1      9      T
+04      2      0      5      5      K
+05      0      0      0     12      T
+06      3      0      2      7      T
+07      3      0      2      7      T
+08      3      0      0      9      T
+09      0      3      1      8      T
+10     10      0      2      0      A
+11      6      4      1      1      M
+12      2      5      1      4      N
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGTGTGGTTAAT; R01318; -1; 12;; p.
+BS  tgtgtttttaac; R03077; 8; 12;; n.
+BS  tatttaatcaca; R03078; 9; 12;; n.
+BS  TTATTGGTTACT; R03079; 6; 12;; p.
+BS  TATATTTAGAAC; R09823; 7; 12;; p.
+BS  tttttttttact; R09824; 5; 12;; n.
+BS  tttgtttttact; R09825; 5; 12;; n.
+BS  TTTGTAATTAAA; R09845; -3; 12;; p.
+BS  tcattttacgag; R09846; -3; 12;; n.
+BS  tatatttttatc; R09847; 1; 12;; n.
+BS  tcgtttttcgac; R11447; 13; 12;; n.
+BS  tttgtaaatagc; R11449; -3; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00635; P$GT1_Q6.
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

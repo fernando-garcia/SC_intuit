@@ -1,0 +1,71 @@
+AC  M01023
+XX
+ID  V$HSF1_Q6
+XX
+DT  12.11.2004 (created); dtc.
+DT  22.11.2004 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HSF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01044; HSF1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11325; HSF1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11469; HSF1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T10036; HSF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16989; HSF1; Species: Mammalia; site(s) included: no.
+BF  T11470; HSF1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00384; HSF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05814; HSF1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15372; HSF1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01042; HSF1-L; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02104; HSF1-S; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05813; HSF1long; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01525; HSF1short; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      4      1      2      N
+02      0      1      0     10      T
+03      0      0      1     10      T
+04      0     11      0      0      C
+05      0      3      0      8      T
+06      5      2      4      0      R
+07      0      0     11      0      G
+08      8      1      2      0      A
+09      8      1      2      0      A
+10      4      3      4      0      V
+11      2      3      2      4      N
+12      0      0      1     10      T
+13      0      0      0     11      T
+14      0     11      0      0      C
+15      1      0      3      7      T
+16      0      6      1      4      Y
+17      4      5      2      0      M
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATTCCAGGGGTTTCGCC; R00762; -3; 17;; n.
+BS  CTTCCAGCAGTTTCGCG; R03464; -1; 17;; n.
+BS  ACTCTGGAGAGTTCTGA; R04287; 15; 17;; p.
+BS  GTTCCAGAAGCTTCACA; R15761; 11; 17;; p.
+BS  ATTCTGGAACTTTCTCA; R15766; 6; 17;; p.
+BS  ATTCTCGAACATTCTTC; R15797; 9; 17;; n.
+BS  CTGCTAGAAACTTCTTC; R15803; 9; 17;; n.
+BS  TTTCTGGAAGGTTCGTG; R15816; 11; 17;; p.
+BS  CTTCTCGAAAAGTCTTA; R15818; 9; 17;; n.
+BS  CTTCTGGGCATTTCTCC; R15819; 16; 17;; p.
+BS  TTTCTAGAACCTTCTCC; R15820; 9; 17;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M01023; V$HSF1_Q6.
+RN  [1]; RE0025141.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel84:0001 (2004).
+XX
+//

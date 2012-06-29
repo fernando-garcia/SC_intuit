@@ -1,0 +1,45 @@
+AC  M01194
+XX
+ID  P$PDF2_01
+XX
+DT  11.06.2008 (created); nta.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PDF2
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T14553; PDF2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      2      5      0      G
+02      0      5      2      1      C
+03      4      3      0      1      M
+04      4      0      1      3      W
+05      0      0      0      9      T
+06      7      0      0      2      A
+07      9      0      0      0      A
+08      8      0      0      1      A
+09      0      0      0      9      T
+10      1      0      7      1      G
+11      1      6      0      2      C
+XX
+BA  9 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant PDF2 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0054624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel124:0001 (2008).
+RN  [2]; RE0053287.
+RX  PUBMED: 16778018.
+RA  Nakamura M., Katsumata H., Abe M., Yabe N., Komeda Y., Yamamoto K. T., Takahashi T.
+RT  Characterization of the class IV homeodomain-Leucine Zipper gene family in Arabidopsis.
+RL  Plant Physiol. 141:1363-1375 (2006).
+XX
+//

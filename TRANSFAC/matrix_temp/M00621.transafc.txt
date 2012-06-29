@@ -1,0 +1,67 @@
+AC  M00621
+XX
+ID  V$CEBPD_Q6
+XX
+DT  08.03.2002 (created); ela.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C/EBPdelta
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T00583; C/EBPdelta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09139; C/EBPdelta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10398; C/EBPdelta; Species: Mammalia; site(s) included: no.
+BF  T01114; C/EBPdelta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08900; C/EBPdelta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00109; C/EBPdelta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15084; C/EBPdelta; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      6      3      0      M
+02     14      0      0      2      A
+03      0      0      0     16      T
+04      0      0      1     15      T
+05      3      0      8      5      K
+06      0     16      0      0      C
+07      4      2      7      3      N
+08      1      4      2      9      T
+09      6      8      0      2      M
+10     12      3      0      1      A
+11      0      8      1      7      Y
+12      2      6      0      8      Y
+XX
+BA  16 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CATTACAAAATC; R00097; -1; 12;; n.
+BS  GTTTGCGCCACT; R00239; 1; 12;; n.
+BS  CATTTCGTAATT; R00629; 1; 12;; n.
+BS  CATTGCACAATC; R03136; 7; 12;; p.
+BS  GATTACATCACT; R03152; 8; 12;; n.
+BS  ATTTTCTTTCCC; R03322; 12; 12;; n.
+BS  AATTGCGTCATT; R04044; 1; 12;; p.
+BS  CATTGCCCAACT; R04494; 5; 12;; n.
+BS  AATGACATCACA; R04501; 12; 12;; p.
+BS  AATTTCCTTTCC; R04507; 8; 12;; p.
+BS  AATTGCTGCCTT; R04511; 7; 12;; p.
+BS  AATTGCTGCCTT; R04512; -9; 12;; p.
+BS  CATTTCGTAACT; R05074; 14; 12;; n.
+BS  AATTGCGTAAGC; R08091; 7; 12;; n.
+BS  CATTTCGTCACA; R08092; 8; 12;; p.
+BS  GATTGCGCCATC; R08105; 4; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

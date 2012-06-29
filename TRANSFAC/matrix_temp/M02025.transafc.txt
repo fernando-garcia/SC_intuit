@@ -1,0 +1,71 @@
+AC  M02025
+XX
+ID  V$MEF2C_Q4
+XX
+DT  19.07.2011 (created); mkl.
+DT  24.08.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MEF-2C
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00941; V$MEF2_Q6_01;  (family).
+XX
+BF  T01767; MEF-2C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16713; MEF-2C; Species: human, Homo sapiens; site(s) included: no.
+BF  T09402; MEF-2C; Species: Mammalia; site(s) included: yes.
+BF  T03814; MEF-2C; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01768; MEF-2C/delta32; Species: human, Homo sapiens; site(s) included: no.
+BF  T01766; MEF-2C/delta8; Species: human, Homo sapiens; site(s) included: no.
+BF  T01769; MEF-2C/delta8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02504; MEF-2C/delta8,32; Species: human, Homo sapiens; site(s) included: no.
+BF  T09547; MEF2C; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09397; MEF2C isoform 1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09399; MEF2C isoform 3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09400; MEF2C isoform 4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06566; MEF2C isoform 5; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      2      1      0     17      T
+02     20      0      0      0      A
+03      1      0      0     19      T
+04      3      0      0     17      T
+05      0      0      0     20      T
+06     10      0      0     10      W
+07      5      2      3     10      T
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TATTTTT; R00244; 19; 7;; n.
+BS  TAATTAA; R03585; 8; 7;; p.
+BS  TATTTAT; R09143; 3; 7;; n.
+BS  TATTTAC; R09226; 8; 7;; n.
+BS  TATATTA; R09231; 11; 7;; n.
+BS  TATATAA; R09387; 8; 7;; p.
+BS  TATTTTT; R09465; 10; 7;; n.
+BS  TATTTTT; R15855; 11; 7;; p.
+BS  TATTTTT; R19234; 7; 7;; p.
+BS  TATTTTT; R19560; 16; 7;; n.
+BS  TATTTAG; R19628; 10; 7;; p.
+BS  TATTTTA; R24920; 13; 7;; p.
+BS  AATTTAG; R26333; 11; 7;; n.
+BS  TATTTTA; R27159; 13; 7;; p.
+BS  AATTTAT; R27161; 3; 7;; p.
+BS  TATTTTT; R31138; 9; 7;; p.
+BS  CATTTAT; R31580; 2; 7;; p.
+BS  TATTTAG; R32856; 16; 7;; n.
+BS  TATATAC; R33495; 8; 7;; p.
+BS  TATTTTT; R33591; 3; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

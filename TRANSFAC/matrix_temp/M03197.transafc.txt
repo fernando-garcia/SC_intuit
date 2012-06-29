@@ -1,0 +1,43 @@
+AC  M03197
+XX
+ID  P$RAP26_01
+XX
+DT  06.01.2012 (created); mkl.
+DT  06.01.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RAP2.6
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T22958; RAP2.6; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T22959; RAP2.6; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01  0.329  0.220  0.176  0.275      N
+02  0.005  0.141  0.336  0.518      K
+03  0.004  0.002  0.992  0.002      G
+04  0.002  0.994  0.002  0.002      C
+05  0.001  0.997  0.001  0.001      C
+06  0.002  0.002  0.992  0.004      G
+07  0.366  0.543  0.084  0.007      M
+08  0.004  0.977  0.003  0.016      C
+09  0.939  0.030  0.024  0.007      A
+10  0.175  0.770  0.017  0.038      C
+XX
+BA  sequences (3D structure-based energy calculations)
+XX
+RN  [1]; RE0072515.
+RA  TRANSFAC_Team.
+RT  3DTF: a webserver for predicting transcription factor PWMs using 3D structure-based energy calculations
+RL  TRANSFAC Reports Rel20121:0002 (2012).
+RN  [2]; RE0072514.
+RX  PUBMED: 20438625.
+RA  Alamanova D., Stegmaier P., Kel A.
+RT  Creating PWMs of transcription factors using 3D structure-based computation of protein-DNA free binding energies.
+RL  BMC Bioinformatics 11:225 (2010).
+XX
+//

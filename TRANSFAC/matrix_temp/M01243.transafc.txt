@@ -1,0 +1,66 @@
+AC  M01243
+XX
+ID  V$MTF1_02
+XX
+DT  14.05.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MTF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02354; MTF-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10747; MTF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18614; MTF-1; Species: Mammalia; site(s) included: yes.
+BF  T00515; MTF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10644; MTF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16624; MTF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      3     16      T
+02      0      3     16      0      G
+03      1     16      2      0      C
+04      5      3     10      1      R
+05      3     16      0      0      C
+06     13      3      1      2      A
+07      0     16      3      0      C
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGCGCAC; R27702; 3; 7;; p.
+BS  TGCGCAC; R27703; 9; 7;; p.
+BS  TGCACAC; R27704; 4; 7;; p.
+BS  TGCGCAC; R27705; 11; 7;; p.
+BS  TGCGCAC; R27706; 5; 7;; p.
+BS  TGCACTC; R27707; 3; 7;; p.
+BS  TGCGCAC; R27708; 7; 7;; p.
+BS  GCGCACG; R27709; 4; 7;; p.
+BS  GCGCACG; R27710; 5; 7;; p.
+BS  GCACACG; R27711; 9; 7;; p.
+BS  TGCACAC; R27712; 11; 7;; p.
+BS  TGCTCTC; R27713; 5; 7;; p.
+BS  TGCGCAC; R27714; 5; 7;; p.
+BS  TGCGCAC; R27715; 9; 7;; p.
+BS  TGCACAC; R27716; 5; 7;; p.
+BS  TGCGCGC; R27717; 5; 7;; p.
+BS  TGCGCAC; R27718; 9; 7;; p.
+BS  TGCGCAC; R27719; 3; 7;; p.
+BS  TGCACAC; R27720; 4; 7;; p.
+XX
+CC  sequences selected with recombinant MTF1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+RN  [2]; RE0062717.
+RX  PUBMED: 15318811.
+RA  Wang Y., Lorenzi I., Georgiev O., Schaffner W.
+RT  Metal-responsive transcription factor-1 (MTF-1) selects different types of metal response elements at low vs. high zinc concentration.
+RL  Biol. Chem. 385:623-632 (2004).
+XX
+//

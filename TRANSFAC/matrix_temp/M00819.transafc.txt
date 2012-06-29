@@ -1,0 +1,80 @@
+AC  M00819
+XX
+ID  P$KNOX3_01
+XX
+DT  07.07.2003 (created); abd.
+DT  21.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Knox3
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02063; KNOX3; Species: barley, Hordeum vulgare; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3     12     11     11      N
+02     14     11      9      3      N
+03      5     12      7     13      N
+04      4     14     16      3      S
+05      0      3      1     33      T
+06      1      1     35      0      G
+07     37      0      0      0      A
+08      1     35      0      1      C
+09     15      8     13      1      R
+10      4      8     18      7      N
+11      9      6     13      9      N
+12      8      4     10     15      N
+XX
+BA  37 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GATCTGACAGGG; R13460; 5; 12;; p.
+BS  TGCTTGACGGAT; R13481; 21; 12;; p.
+BS  ATGATGACAGAT; R13482; 19; 12;; p.
+BS  TCTGTGACACCT; R13483; 7; 12;; p.
+BS  GACGTGACACGG; R13484; 15; 12;; p.
+BS  CGCGTGACGCTC; R13485; 17; 12;; p.
+BS  TCTGTGACAGTG; R13486; 7; 12;; p.
+BS  CCAACGACCGAT; R13487; 5; 12;; p.
+BS  CCCATGACTAGA; R13488; 18; 12;; p.
+BS  CAGCTGACGTGG; R13489; 19; 12;; p.
+BS  TCTGTGACAGGA; R13490; 7; 12;; p.
+BS  GATCCGACGTTT; R13491; 2; 12;; p.
+BS  TGGGTGACAGGG; R13492; 18; 12;; p.
+BS  CGTGTGACGCTC; R13493; 12; 12;; p.
+BS  CCCTTGACGTTG; R13494; 15; 12;; p.
+BS  GATCCGACCCTT; R13495; 2; 12;; p.
+BS  GGACTGACAAAC; R13496; 11; 12;; p.
+BS  AGACTGACCTGT; R13497; 8; 12;; p.
+BS  GACGTGACAGTT; R13498; 13; 12;; p.
+BS  TGACTGACGCAT; R13499; 14; 12;; p.
+BS  GATCTGACCGCT; R13500; 5; 12;; p.
+BS  CTGGTGACCGGC; R13501; 16; 12;; p.
+BS  GATCTGACGTTT; R13502; 5; 12;; p.
+BS  GACCTGACGTAT; R13503; 10; 12;; p.
+BS  CAGGTGACAGGG; R13504; 19; 12;; p.
+BS  CGTGTGACAGGA; R13505; 21; 12;; p.
+BS  ACCCTAACCAAG; R13506; 17; 12;; p.
+BS  TAAGTGATAGAG; R13507; 9; 12;; p.
+BS  TTCGTGACAAGA; R13508; 18; 12;; p.
+BS  CATGTGACAGGA; R13509; 21; 12;; p.
+BS  TCCTGCACGCCA; R13510; 16; 12;; p.
+BS  CCGGTGACCGCT; R13511; 5; 12;; p.
+BS  GATCTGACGTTG; R13512; 5; 12;; p.
+BS  TCGATGACGGAT; R13513; 22; 12;; p.
+BS  GACGTGACAGGA; R13514; 20; 12;; p.
+BS  TCTCTGACCGCT; R13515; 7; 12;; p.
+BS  CGCCTGAAGCCA; R13516; 10; 12;; p.
+XX
+CC  sequences selected with recombinant Knox3 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0022890.
+RX  PUBMED: 9180261.
+RA  Krusell L., Rasmussen I., Gausing K.
+RT  DNA binding sites recognised in vitro by a knotted class 1 homeodomain protein encoded by the hooded gene, k, in barley (Hordeum vulgare).
+RL  FEBS Lett. 408:25-29 (1997).
+XX
+//

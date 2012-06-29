@@ -1,0 +1,65 @@
+AC  M01087
+XX
+ID  I$CEBP_Q6
+XX
+DT  10.02.2006 (created); dtc.
+DT  24.02.2006 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CEBP
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00106; C/EBP; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      1      1      4      W
+02      3      3      4      2      N
+03      6      0      2      4      W
+04      4      0      2      6      W
+05      2      5      1      4      N
+06      1      0      1     10      T
+07      0      0      7      5      K
+08      0      0      0     12      T
+09      0      0     11      1      G
+10      0      4      4      4      B
+11      4      4      4      0      V
+12      8      3      1      0      A
+13      2      3      1      6      T
+14      0      7      2      3      C
+15      8      0      0      4      A
+16      0      2      5      5      K
+17      2      4      0      6      Y
+18      0      4      2      6      Y
+19      4      1      2      5      N
+20      3      1      2      6      T
+21      2      3      4      3      N
+22      2      5      3      2      N
+23      2      3      5      2      N
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGTTGTTTGCGCACATTCAAGCC; R17379; -3; 23;; p.
+BS  aagtttgtggaaggagccaaccg; R17380; -9; 23;; n.
+BS  TGTTTTTTGCAATCTTATTTGCC; R17381; -2; 23;; p.
+BS  aaaactgtgtgccctgccttcgt; R17389; 8; 23;; n.
+BS  TTGGCTGTGTGCCGTGTTGGCAA; R17391; -10; 23;; p.
+BS  cgatctgtgtcattttatttatt; R17392; -8; 23;; n.
+BS  GGAGATTTGGCAATATTTATTGA; R17393; -1; 23;; p.
+BS  actattgtgccactattcttttg; R17394; -2; 23;; n.
+BS  ACAATGTTGCAATCAGCGGAGCC; R17627; 1; 23;; p.
+BS  tttaatttgtaatcactttgtag; R17628; -6; 23;; n.
+BS  TCATCAGTGGGGTCAGCTATAGG; R17629; -1; 23;; p.
+BS  aaatctgttgcatcactgccgcg; R17792; -5; 23;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0047335.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel101:0001 (2006).
+XX
+//

@@ -1,0 +1,44 @@
+AC  M02074
+XX
+ID  V$GABPA_02
+XX
+DT  10.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GABPalpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00341; V$GABP_B; GA binding protein (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T01390; GABP-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09383; GABP-alpha; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     47     10     32     11      R
+02     17     60     19      4      C
+03     11     86      2      1      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     96      0      2      2      A
+07     59      8      1     31      W
+08     49      9     37      6      R
+09      7     29     10     54      Y
+10     33     19     29     19      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

@@ -1,0 +1,90 @@
+AC  M00510
+XX
+ID  V$LHX3A_01
+XX
+DT  31.10.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Lhx3a
+XX
+DE  LIM homeobox transcription factor 3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01965; LHX3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01963; LHX3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T11096; LHX3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03446; LHX3a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01964; LHX3a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T13732; M2-LHX3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     32      5      2      1      A
+02     22      2      5     11      W
+03      0      0      4     36      T
+04      0      0      0     40      T
+05     40      0      0      0      A
+06     40      0      0      0      A
+07      0      1      0     39      T
+08      1      2      1     36      T
+09     34      1      0      5      A
+10     23      4      6      7      A
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AATTAATTAG; R11390; 5; 10;; p.
+BS  AATTAATTAT; R11391; 9; 10;; p.
+BS  CTGTAATTAA; R11392; 5; 10;; p.
+BS  TGTTAATTAA; R11393; 5; 10;; p.
+BS  AATTAACTTT; R11394; 4; 10;; p.
+BS  ATTTAATTAA; R11395; 8; 10;; p.
+BS  AATTAATTAA; R11396; 6; 10;; p.
+BS  AATTAATTAA; R11397; 6; 10;; p.
+BS  AATTAATTCG; R11398; 10; 10;; p.
+BS  CATTAATTAA; R11399; 5; 10;; p.
+BS  CTTTAATTAA; R11400; 4; 10;; p.
+BS  AATTAATTAA; R11401; 4; 10;; p.
+BS  ATTTAATTAA; R11402; 10; 10;; p.
+BS  AATTAATTAA; R11403; 10; 10;; p.
+BS  AATTAATTAG; R11404; 4; 10;; p.
+BS  AATTAATTAA; R11405; 6; 10;; p.
+BS  AATTAATTAT; R11406; 8; 10;; p.
+BS  AATTAATTTT; R11407; 10; 10;; p.
+BS  AATTAATTAG; R11408; 4; 10;; p.
+BS  CATTAATTAA; R11409; 5; 10;; p.
+BS  AATTAATTTA; R11410; 10; 10;; p.
+BS  ATTTAATTAA; R11411; 7; 10;; p.
+BS  AGTTAATTAG; R11412; 10; 10;; p.
+BS  ATTTAATTAA; R11413; 6; 10;; p.
+BS  ATGTAATTAA; R11414; 3; 10;; p.
+BS  GCGTAATTAC; R11415; 2; 10;; p.
+BS  GCGTAATTAC; R11416; 2; 10;; p.
+BS  AATTAATGTG; R11417; 10; 10;; p.
+BS  AATTAATTAC; R11418; 9; 10;; p.
+BS  AGTTAATTAT; R11419; 10; 10;; p.
+BS  AATTAATTAT; R11420; 5; 10;; p.
+BS  ATTTAATTAA; R11421; 6; 10;; p.
+BS  AGTTAATTAA; R11422; 5; 10;; p.
+BS  ATTTAATTAA; R11423; 10; 10;; p.
+BS  ATTTAATTAA; R11424; 6; 10;; p.
+BS  AGTTAATCAA; R11425; 4; 10;; p.
+BS  CATTAATTAT; R11426; 6; 10;; p.
+BS  ATTTAATTAA; R11427; 6; 10;; p.
+BS  AATTAATCAC; R11428; 4; 10;; p.
+BS  AATTAATATA; R11429; 3; 10;; p.
+XX
+CC  sequences selected with recombinant LHX3 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0135.
+XX
+RN  [1]; RE0017016.
+RX  PUBMED: 11602361.
+RA  Bridwell J. L., Price J. R., Parker G. E., McCutchan Schiller A., Sloop K. W., Rhodes S. J.
+RT  Role of the LIM domains in DNA recognition by the Lhx3 neuroendocrine transcription factor.
+RL  Gene 277:239-250 (2001).
+XX
+//

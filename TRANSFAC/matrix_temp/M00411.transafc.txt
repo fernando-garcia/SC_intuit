@@ -1,0 +1,91 @@
+AC  M00411
+XX
+ID  V$HNF4_01_B
+XX
+DT  26.09.2000 (created); akl.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF4alpha1
+XX
+DE  Hepatocyte nuclear factor 4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00158; V$COUP_01;  (family).
+HP  M00762; V$DR1_Q3; Direct repeat 1 (family).
+HP  M00764; V$HNF4_DR1_Q3;  (family).
+HP  M00967; V$HNF4_Q6; half-site matrix (family).
+XX
+BF  T05294; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T08260; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T02758; HNF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18464; HNF-4 alpha8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18418; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18419; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T03828; HNF-4alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08612; HNF-4alpha; Species: Mammalia; site(s) included: no.
+BF  T05287; HNF-4alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05288; HNF-4alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02421; HNF-4alpha1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02424; HNF-4alpha1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00372; HNF-4alpha1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00373; HNF-4alpha2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02423; HNF-4alpha2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02422; HNF-4alpha2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02428; HNF-4alpha3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02425; HNF-4alpha4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05285; HNF-4alpha7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02427; HNF-4alpha7; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      3      8      2      N
+02      7      2      9      1      R
+03      1      0     18      0      G
+04      2      0     15      2      G
+05      4      3      6      6      N
+06      0     19      0      0      C
+07     19      0      0      0      A
+08     19      0      0      0      A
+09     19      0      0      0      A
+10      0      0     19      0      G
+11      0      1     12      6      G
+12      1      4      2     12      T
+13      1     16      0      2      C
+14     13      0      6      0      A
+15      2      6      5      5      N
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGGATCAAAGTCCAA; R09367; 4; 15;; p.
+BS  ATGGACAAAGCCTAC; R09368; 4; 15;; p.
+BS  GGGGACAAAGGTCAT; R09369; 3; 15;; p.
+BS  CAGTCCAAAGTGTGC; R09370; 4; 15;; p.
+BS   AGGGCAAAGGTCAG; R09371; -1; 15;; p.
+BS  GGGGTCAAAGGTCG; R09372; 4; 15;; p.
+BS  TGGACCAAAGTCCAC; R09373; 1; 15;; p.
+BS  CAGGGCAAAGTACAG; R09374; 2; 15;; p.
+BS  ACGGTCAAAGTTCAT; R09375; 4; 15;; p.
+BS  TAGGGCAAAGGTCAG; R09376; 2; 15;; p.
+BS  GAGGGCAAAGTCAAC; R09377; 2; 15;; p.
+BS  GGAGCCAAAGGTCGC; R09378; 1; 15;; p.
+BS  GGGGTCAAAGGTCGA; R09379; 4; 15;; p.
+BS  CAGGACAAAGGTCAC; R09380; 2; 15;; p.
+BS  GGGGTCAAAGGTCGG; R09381; 4; 15;; p.
+BS  GGGTACAAAGGTCAT; R09382; 4; 15;; p.
+BS  AAGGGCAAAGGGCAG; R09383; 2; 15;; p.
+BS  GCGGTCAAAGGTCGT; R09384; 4; 15;; p.
+BS  AGGGGCAAAGGTCAT; R09385; 3; 15;; p.
+XX
+CC  sequences selected with recombinant HNF4alpha1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0013346.
+RX  PUBMED: 9592157.
+RA  Fraser J. D., Martinez V., Straney R., Briggs M. R.
+RT  DNA binding and transcription activation specificity of hepatocyte nuclear factor 4
+RL  Nucleic Acids Res. 26:2702-2707 (1998).
+XX
+//

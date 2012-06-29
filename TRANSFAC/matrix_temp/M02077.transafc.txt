@@ -1,0 +1,41 @@
+AC  M02077
+XX
+ID  V$SPIC_02
+XX
+DT  11.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Spic
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T20133; Spic; Species: human, Homo sapiens; site(s) included: yes.
+BF  T20134; Spic; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     31     28     16     25      N
+02     16     11     67      6      G
+03     44     19     30      6      N
+04      7      0     91      2      G
+05      0      0    100      0      G
+06     85      2      5      8      A
+07     87      4      1      7      A
+08     11     29     55      5      S
+09      5     27     15     54      T
+10     27     21     29     23      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

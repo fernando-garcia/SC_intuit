@@ -1,0 +1,65 @@
+AC  M01078
+XX
+ID  V$CETS1P54_03
+XX
+DT  26.11.2005 (created); vma.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Ets-1 p54
+XX
+DE  Ets sites selected in the presence of CBF (core binding factor)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00340; V$ETS_B; c-Ets-2 binding sites (family).
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00112; c-Ets-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08495; c-Ets-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10873; c-Ets-1; Species: Mammalia; site(s) included: no.
+BF  T00111; c-Ets-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08420; c-Ets-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05015; c-Ets-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09318; c-Ets-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00114; c-Ets-1 54; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10243; c-Ets-1 54; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02040; c-Ets-1A; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14971; c-Ets-1A; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02123; c-Ets-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14972; c-Ets-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T01400; Ets-1 deltaVII; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      6      7      9     11      N
+02      7     11      9      6      N
+03      7      4      9     13      N
+04     16      2     10      5      R
+05      5     20      7      1      C
+06      9     24      0      0      C
+07      0      0     33      0      G
+08      0      0     33      0      G
+09     33      0      0      0      A
+10     18      0      0     15      W
+11     11      1     21      0      R
+12      2     10      2     19      Y
+13      9      7      9      8      N
+14      9      7     12      5      N
+15      3      8     14      8      N
+16     10      6      5     12      N
+XX
+BA  33 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant c-Ets-1 p54 from a pool of double-stranded oligonucleotides containing a core of 50 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0008414.
+RX  PUBMED: 8264651.
+RA  Wotton D., Ghyskael J., Wang S., Speck N. A., Owen M. J.
+RT  Cooperative binding of Ets-1 and core binding factor to DNA
+RL  Mol. Cell. Biol. 14:840-850 (1994).
+XX
+//

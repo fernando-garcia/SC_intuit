@@ -1,0 +1,55 @@
+AC  M01443
+XX
+ID  V$MOX1_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Mox1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04050; Meox1a; Species: human, Homo sapiens; site(s) included: no.
+BF  T04046; MOX1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09350; MOX1; Species: human, Homo sapiens; site(s) included: no.
+BF  T04047; Mox1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09349; Mox1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    0.3    0.2   0.43   0.07      N
+02   0.39   0.29   0.27   0.06      N
+03   0.18   0.12   0.44   0.25      N
+04   0.18   0.09   0.53    0.2      G
+05   0.01   0.17      0   0.82      T
+06   0.91   0.06   0.03      0      A
+07   0.98   0.01      0   0.01      A
+08   0.01      0   0.01   0.98      T
+09      0   0.03   0.06   0.91      T
+10   0.82      0   0.17   0.01      A
+11    0.1   0.43   0.28   0.19      N
+12   0.25   0.44   0.12   0.18      N
+13   0.16   0.29   0.08   0.47      Y
+14   0.16    0.4    0.2   0.24      N
+15   0.75   0.08   0.08   0.09      A
+16   0.18   0.09   0.57   0.16      G
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0103.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

@@ -1,0 +1,93 @@
+AC  M00130
+XX
+ID  V$FOXD3_01
+XX
+DT  22.05.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXD3
+XX
+DE  fork head box D3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00809; V$FOX_Q2;  (family).
+XX
+BF  T02495; FoxD3; Species: chick, Gallus gallus; site(s) included: no.
+BF  T09266; FoxD3; Species: chick, Gallus gallus; site(s) included: no.
+BF  T09301; foxD3; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T09302; foxD3; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T09228; foxd3; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T09229; foxd3; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T18389; HFH-2; Species: Mammalia; site(s) included: yes.
+BF  T04167; HFH2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15135; HFH2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04166; HFH2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15134; HFH2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02290; HFH2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15133; HFH2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      3     14      6      N
+02     21      2      0      9      A
+03     15      1      0     16      W
+04      1      2      0     29      T
+05     10      0     21      1      G
+06      0      0      0     32      T
+07      1      0      0     31      T
+08      5      0      5     22      T
+09     11      0     14      7      R
+10      5      5      1     21      T
+11      1      2      4     25      T
+12      1     10      0     21      T
+XX
+BA  32 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCTAGTTTATTC; R06938; 1; 12;; p.
+BS  GACTGTTTATTC; R06939; 1; 12;; p.
+BS  CTATGTTTATTC; R06940; 1; 12;; p.
+BS  GAATGTTTATTC; R06941; 1; 12;; p.
+BS  TAATGTTTATTT; R06942; 1; 12;; p.
+BS  GTTTATTTAACT; R06943; 1; 12;; p.
+BS  GTTTATTTAAGC; R06944; 1; 12;; p.
+BS  GTTTGTTTAAGC; R06945; 1; 12;; p.
+BS  GTTTGTTTAACC; R06946; 1; 12;; p.
+BS  GTTTGTTTAGGA; R06947; 1; 12;; p.
+BS  GTTTGTTATTGT; R06948; 1; 12;; p.
+BS  TATTGTTATTTT; R06949; 1; 12;; p.
+BS  GTTTGTTGTTTT; R06950; 1; 12;; p.
+BS  GATTGTTGTTTT; R06951; 1; 12;; p.
+BS  AAATATTATTTC; R06952; 1; 12;; p.
+BS  AAACATTATTTC; R06953; 1; 12;; p.
+BS  AAATATTTGCTT; R06954; 1; 12;; p.
+BS  AAATATTTGTTC; R06955; 1; 12;; p.
+BS  AAATATTAGCTT; R06956; 1; 12;; p.
+BS  AAATATTTGTTT; R06957; 1; 12;; p.
+BS  AAATATTGGTTT; R06958; 1; 12;; p.
+BS  AAACATTTACTT; R06959; 1; 12;; p.
+BS  AAATGTTTGCTT; R06960; 1; 12;; p.
+BS  GAATGTTTGTTT; R06961; 1; 12;; p.
+BS  TAATGTTTGTTT; R06962; 1; 12;; p.
+BS  GTTTGTTTGTTT; R06963; 1; 12;; p.
+BS  GCTTGTTTGTTT; R06964; 1; 12;; p.
+BS  CAATGTTTGTTT; R06965; 1; 12;; p.
+BS  TATTGTTTGCAT; R06966; 1; 12;; p.
+BS  CATTGTTGGTTT; R06967; 1; 12;; p.
+BS  TATTGTTGGTTT; R06968; 1; 12;; p.
+BS  TATTTTATTATT; R06969; 1; 12;; p.
+XX
+CC  sequences selected with recombinant FOXD3 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0041.
+XX
+RN  [1]; RE0003012.
+RX  PUBMED: 8139574.
+RA  Overdier D. G., Porcella A., Costa R. H.
+RT  The DNA-binding specificity of the hepatocyte nuclear factor 3/forkhead domain is influenced by amino acid residues adjacent to the recognition helix
+RL  Mol. Cell. Biol. 14:2755-2766 (1994).
+XX
+//

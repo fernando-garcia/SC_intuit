@@ -1,0 +1,68 @@
+AC  M00274
+XX
+ID  F$STE11_01
+XX
+DT  16.02.1998 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STE11
+XX
+DE  TR-boxes interacting with ubiquitous factor STE11
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01422; ste11; Species: fission yeast, Schizosaccharomyces pombe; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      2      4      5      N
+02      9      1      2      5      W
+03      5      4      5      3      N
+04      2      2      0     13      T
+05      0      0      0     17      T
+06      0      1      0     16      T
+07      0     17      0      0      C
+08      0      0      0     17      T
+09      0      0      0     17      T
+10      0      0      0     17      T
+11      0      0     17      0      G
+12      0      0      0     17      T
+13      0      0      0     17      T
+14      4      5      1      7      N
+15      5      3      4      5      N
+16      5      5      1      6      N
+17      6      2      2      7      W
+18      7      0      1      9      W
+XX
+BA  17 sequences (compiled matrix imported from literature reference)
+XX
+BS  GTATTTCTTTGTTCTTTA; R07976; 1; 18;; p.
+BS  AACTTTCTTTGTTCGGTT; R07977; 1; 18;; p.
+BS  GTGTTTCTTTGTTACAAA; R07978; 1; 18;; p.
+BS  CGATTTCTTTGTTCCTAT; R07979; 1; 18;; p.
+BS  AAGTTTCTTTGTTTTACA; R07980; 1; 18;; p.
+BS  GAGATTCTTTGTTTACTT; R07981; 1; 18;; p.
+BS  TAACTTCTTTGTTCTCTA; R07982; 1; 18;; p.
+BS  TCTTTTCTTTGTTTGTTT; R07983; 1; 18;; p.
+BS  ATTTTTCTTTGTTTACAT; R07984; 1; 18;; p.
+BS  TACATCCTTTGTTTACAA; R07985; 1; 18;; p.
+BS  AAGTTTCTTTGTTAATGT; R07986; 1; 18;; p.
+BS  AACTTTCTTTGTTATTGT; R07987; 1; 18;; p.
+BS  TGCTTTCTTTGTTATAAA; R07988; 1; 18;; p.
+BS  GAATTTCTTTGTTTACTA; R07989; 1; 18;; p.
+BS  TTGTTTCTTTGTTGCAAT; R07990; 1; 18;; p.
+BS  ATTTTTCTTTGTTTGACG; R07991; 1; 18;; p.
+BS  CAACTTCTTTGTTCGTTT; R07992; 1; 18;; p.
+XX
+CC  genomic sites from 9 genes hat are expressed in S. pombe M and P cells
+XX
+RN  [1]; RE0006527.
+RX  PUBMED: 9233811.
+RA  Kjaerulff S., Dooijes D., Clevers H., Nielsen O.
+RT  Cell differentiation by interaction of two HMG-box proteins: Mat1-Mc activates M cell-specific genes in S. pombe by recruiting the ubiquitous transcription factor Ste11 to weak binding sites
+RL  EMBO J. 16:4021-4033 (1997).
+XX
+//

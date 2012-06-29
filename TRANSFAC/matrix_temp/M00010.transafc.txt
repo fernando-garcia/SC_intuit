@@ -1,0 +1,53 @@
+AC  M00010
+XX
+ID  P$O2_01
+XX
+DT  09.11.1992 (created); ewi.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Opaque-2
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T00668; Opaque-2; Species: maize, Zea mays; site(s) included: yes.
+BF  T08878; Opaque-2; Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0      5      T
+02      0      5      0      0      C
+03      5      0      0      0      A
+04      0      0      0      5      T
+05      0      0      0      5      T
+06      0      5      0      0      C
+07      0      5      0      0      C
+08      5      0      0      0      A
+09      0      5      0      0      C
+10      0      0      5      0      G
+11      0      0      0      5      T
+12      5      0      0      0      A
+13      0      0      5      0      G
+14      5      0      0      0      A
+15      0      0      0      5      T
+16      3      0      2      0      R
+XX
+BA  5 sequences (compiled matrix imported from literature reference)
+XX
+BS  TCATTCCACGTAGATG; R02296; 3; 16;; p.
+BS  TCATTCCACGTAGATA; R02297; 12; 16;; p.
+BS  TCATTCCACGTAGATA; R02298; 12; 16;; p.
+BS  TCATTCCACGTAGATG; R02299; 12; 16;; p.
+BS  TCATTCCACGTAGATA; R02303; 12; 16;; p.
+XX
+CC  binding sites from 5 maize 22-kD zein genes
+XX
+RN  [1]; RE0002252.
+RX  PUBMED: 1392590.
+RA  Schmidt R. J., Ketudat M., Aukerman M. J., Hoschek G.
+RT  Opaque-2 is a transcriptional activator that recognizes a specific target site in 22-kD zein genes
+RL  Plant Cell 4:689-700 (1992).
+XX
+//

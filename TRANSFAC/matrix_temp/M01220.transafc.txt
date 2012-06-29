@@ -1,0 +1,51 @@
+AC  M01220
+XX
+ID  V$STAT3STAT3_Q3
+XX
+DT  29.01.2009 (created); dtc.
+DT  13.02.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT3:STAT3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05694; STAT3:STAT3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05698; STAT3:STAT3; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T05717; STAT3:STAT3; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      1      4      T
+02      0      0      0      5      T
+03      0      0      3      2      K
+04      2      3      0      0      M
+05      0      3      1      1      C
+06      0      0      5      0      G
+07      0      0      5      0      G
+08      0      0      5      0      G
+09      5      0      0      0      A
+10      5      0      0      0      A
+11      3      2      0      0      M
+12      1      1      0      3      T
+13      1      2      2      0      S
+14      0      3      1      1      C
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ttgacgggaactgc; R08485; -2; 14;; n.
+BS  tttctgggaaatac; R11115; 1; 14;; n.
+BS  tttcggggaaatcg; R14204; 4; 14;; n.
+BS  GTGCCGGGAAACCT; R14444; 6; 14;; p.
+BS  ttgacgggaacagc; R16092; -1; 14;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+XX
+//

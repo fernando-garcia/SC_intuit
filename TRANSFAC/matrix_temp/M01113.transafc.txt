@@ -1,0 +1,60 @@
+AC  M01113
+XX
+ID  V$CACD_01
+XX
+DT  28.05.2006 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CACD
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T06245; CACD; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2     15      0      0      C
+02      3     14      0      0      C
+03     12      3      2      0      A
+04      1     16      0      0      C
+05      9      2      6      0      R
+06      0     14      2      1      C
+07      0     17      0      0      C
+08      0     15      0      1      C
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CCACCGCC; R15682; 5; 8;; p.
+BS  CCGCGCCC; R15683; 7; 8;; p.
+BS  CCACACCC; R15684; 2; 8;; p.
+BS  CAACACCC; R15685; 3; 8;; p.
+BS  CCACACCT; R15686; 2; 8;; p.
+BS  CCACACCC; R15687; 11; 8;; p.
+BS  ACACACCC; R15688; 8; 8;; p.
+BS  CCACGCCC; R15689; 7; 8;; p.
+BS  ACCACGCC; R15690; 9; 8;; p.
+BS  CAACACCC; R15691; 3; 8;; p.
+BS  CAACGCCC; R15692; 2; 8;; p.
+BS  CCACGCCC; R15693; 1; 8;; p.
+BS  CCACGCCC; R15694; 5; 8;; p.
+BS  CCACGCC; R15695; 15; 8; 22; p.
+BS  CCCCACCC; R15696; 1; 8;; p.
+BS  CCGCATCC; R15697; 12; 8;; p.
+BS  CCCCACCC; R15698; 11; 8;; p.
+XX
+CC  sequences selected with recombinant CACD from a pool of double-stranded oligonucleotides containing a core of 21 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+RN  [2]; RE0007398.
+RX  PUBMED: 8417342.
+RA  Hartzog G. A., Myers R. M.
+RT  Discrimination among potential activators of the beta-globin CACCC element by correlation of binding and transcriptional properties
+RL  Mol. Cell. Biol. 13:44-56 (1993).
+XX
+//

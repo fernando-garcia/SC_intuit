@@ -1,0 +1,51 @@
+AC  M00742
+XX
+ID  V$HFH4_01
+XX
+DT  29.08.2002 (created); mas.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HFH4 (FOXJ1)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00809; V$FOX_Q2;  (family).
+XX
+BF  T10174; FOXJ1; Species: human, Homo sapiens; site(s) included: no.
+BF  T02460; FOXJ1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11164; FOXJ1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02520; FOXJ1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11174; FOXJ1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02519; FOXJ1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04221; FOXJ1b; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     51     19      9     21      A
+02     47      0      0     53      W
+03     19      0     43     38      K
+04     13     15      4     68      T
+05     11      0     89      0      G
+06      2      0      0     98      T
+07      0      0      0    100      T
+08      0      0      0    100      T
+09      6      0     94      0      G
+10      0      6      0     94      T
+11      4      0      0     96      T
+12      4      0      0     96      T
+13     87      0      4      9      A
+XX
+BA  47 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant HFH4 from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 6 rounds of selection and amplification; figures are percentages
+XX
+RN  [1]; RE0006971.
+RX  PUBMED: 9096351.
+RA  Lim L., Zhou H., Costa R. H.
+RT  The winged helix transcription factor HFH-4 is expressed during choroid plexus epithelial development in the mouse embryo
+RL  Proc. Natl. Acad. Sci. USA 94:3094-3099 (1997).
+XX
+//

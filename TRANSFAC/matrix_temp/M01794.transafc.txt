@@ -1,0 +1,43 @@
+AC  M01794
+XX
+ID  F$CBF1_CA_01
+XX
+DT  24.08.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CBF1
+XX
+DE  Matrix for Candida albicans
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T18355; CBF1; Species: Candida albicans strain SC5314 (Yeast); site(s) included: yes.
+XX
+P0      A      C      G      T
+01     59     11     21     19      A
+02      4      0     17     89      T
+03      0    110      0      0      C
+04    109      0      0      1      A
+05      0    110      0      0      C
+06      0      0    110      0      G
+07      0      0      0    110      T
+08      0      0    110      0      G
+09    109      1      0      0      A
+10      0     86      1     23      C
+11     46     28      0     36      H
+XX
+BA  110 sequences (ChIP-on-chip)
+XX
+CC  used  MEME algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0067392.
+RX  PUBMED: 20231876.
+RA  Lavoie H., Hogues H., Mallick J., Sellam A., Nantel A., Whiteway M.
+RT  Evolutionary tinkering with conserved components of a transcriptional regulatory network.
+RL  PLoS Biol. 8:e1000329 (2010).
+XX
+//

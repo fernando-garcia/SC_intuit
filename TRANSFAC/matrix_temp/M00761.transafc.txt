@@ -1,0 +1,179 @@
+AC  M00761
+XX
+ID  V$P53_DECAMER_Q2
+XX
+DT  29.11.2002 (created); ela.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  p53 decamer
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00034; V$P53_01; tumor suppressor p53 (specific).
+HC  M00272; V$P53_02; tumor suppressor p53 (specific).
+HC  M01651; V$P53_03; tumor suppressor p53 (specific).
+HC  M01652; V$P53_04; tumor suppressor p53 (specific).
+HC  M01655; V$P53_05;  (specific).
+HC  M01656; V$P63_01;  (specific).
+XX
+BF  T08472; Delta113p53; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T08426; Delta133p53; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08427; Delta133p53beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08428; Delta133p53gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08404; Delta40p53; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08424; Delta40p53beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08425; Delta40p53gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06134; DeltaN p63beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06010; DeltaN p63beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06013; DeltaN p73gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06004; DeltaNp63alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06011; DeltaNp63alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19168; DeltaNp63epsilon; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06136; DeltaNp63gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06292; DeltaNp63gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06002; DeltaNp73alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06288; DeltaNp73alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06003; DeltaNp73beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06289; DeltaNp73beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11037; p53; Species: Beechey ground squirrel, Spermophilus beecheyi; site(s) included: yes.
+BF  T06307; p53; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T06296; p53; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T06304; p53; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T06299; p53; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T08254; p53; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T06305; p53; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T10686; p53; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T06306; p53; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T06300; p53; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T11034; p53; Species: horse, Equus caballus; site(s) included: yes.
+BF  T00671; p53; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06310; p53; Species: macaque, Macaca fascicularis; site(s) included: yes.
+BF  T09500; p53; Species: Mammalia; site(s) included: no.
+BF  T17829; p53; Species: Mammalia; site(s) included: yes.
+BF  T11035; p53; Species: medaka, Oryzias latipes; site(s) included: yes.
+BF  T06298; p53; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T10269; p53; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01806; p53; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08323; p53; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06301; p53; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T11081; p53; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T06302; p53; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T11087; p53; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T11036; p53; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T04997; p53; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08884; p53; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06297; p53; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T11094; p53; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T06303; p53; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T08468; p53; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T08321; p53-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02103; p53as; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08422; p53beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08423; p53gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06131; p63; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16760; p63; Species: Mammalia; site(s) included: no.
+BF  T06293; p63; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06016; p63; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19169; p63-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19176; p63-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19177; p63-isoform3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19170; p63-isoform4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19171; p63-isoform5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19172; p63-isoform6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19173; p63-isoform7; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19174; p63-isoform8; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19175; p63-isoform9; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06132; p63alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06168; p63alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06133; p63beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06290; p63beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06005; p63delta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19167; p63epsilon; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06135; p63gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06291; p63gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06138; p73; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16759; p73; Species: Mammalia; site(s) included: no.
+BF  T06287; p73; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04931; p73alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09501; p73alpha; Species: Mammalia; site(s) included: no.
+BF  T06006; p73alpha; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T06008; p73alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06137; p73beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19698; p73beta; Species: Mammalia; site(s) included: yes.
+BF  T06014; p73beta; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T06009; p73beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06143; p73delta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06144; p73epsilon; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06179; p73eta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06142; p73gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06139; p73kappa; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06145; p73zeta; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     25      3     16      2      R
+02     14      0     32      0      G
+03     25      0     21      0      R
+04      2     39      4      1      C
+05     32      2      4      8      A
+06     23      2      2     19      W
+07      3      0     43      0      G
+08      9     15      5     17      N
+09      2     28      9      7      C
+10      5     22      5     14      Y
+XX
+BA  46 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CAACATGTTG; R04373; 11; 10;; p.
+BS  GAACATGTCC; R04373; 1; 10;; p.
+BS  AAAATAGCTC; R11271; 21; 10;; n.
+BS  AAACATGTCC; R11271; 1; 10;; n.
+BS  GGGCGTGGGC; R11272; 22; 10;; p.
+BS  AGACAAGCCT; R11272; 12; 10;; p.
+BS  AGACATGCCC; R11275; 11; 10;; n.
+BS  GAAGAAGACT; R11275; 1; 10;; p.
+BS  GGGCATACCC; R11279; 7; 10;; p.
+BS  GGGCTAGGGC; R11280; 8; 10;; p.
+BS  AGGCTTGAGC; R11283; 16; 10;; n.
+BS  AGGCAAGCTG; R11283; 1; 10;; p.
+BS  AGGAGAGTGA; R11305; 11; 10;; p.
+BS  GGAGGTGCCC; R11305; 1; 10;; p.
+BS  AGGGAAGACC; R11306; 11; 10;; n.
+BS  AGGCAAGAGT; R11306; 1; 10;; n.
+BS  AAACATGTCA; R11316; 11; 10;; p.
+BS  GGGCATGTAC; R11316; 1; 10;; p.
+BS  AAGCATGTTG; R11388; 12; 10;; n.
+BS  AAACAAGCCA; R11388; 1; 10;; p.
+BS  AGGCTTGGCA; R11389; 11; 10;; n.
+BS  GGGCAAGACC; R11389; 1; 10;; p.
+BS  AGACATGTCC; R11430; 20; 10;; n.
+BS  AAGCAAGCCT; R11430; 1; 10;; n.
+BS  GGACAAACCT; R11446; 1; 10;; p.
+BS  AGACACGTGC; R11446; 29; 10;; p.
+BS  GGGCCAGACC; R11626; 1; 10;; p.
+BS  AGACATGCCT; R11626; 11; 10;; p.
+BS  TGACAAGTGT; R11629; 21; 10;; n.
+BS  GAGCGCGTGC; R11629; 11; 10;; p.
+BS  AGACAAGTCC; R11629; 1; 10;; n.
+BS  TAGTAAGACT; R11629; 31; 10;; p.
+BS  GAACATGTAG; R11645; 26; 10;; p.
+BS  AGACATGTCT; R11645; 16; 10;; p.
+BS  GGGCAGATGC; R11699; 20; 10;; n.
+BS  AGGCATGGTT; R11699; 10; 10;; n.
+BS  AGACAAGTTC; R11703; 11; 10;; n.
+BS  AGACAAGCCT; R11703; 1; 10;; p.
+BS  GAGCTAGACG; R11723; 1; 10;; p.
+BS  GGGGCTGCCC; R11723; 14; 10;; n.
+BS  AGACTAGGCA; R11724; 13; 10;; n.
+BS  GGGCAGGCCC; R11724; 3; 10;; p.
+BS  CGACAAGCCC; R12753; 27; 10;; p.
+BS  AGACATGTCT; R12753; 4; 10;; p.
+BS  AGACTAGCTT; R12754; 14; 10;; p.
+BS  CAACTAGACT; R12754; 4; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better; recognizes matches bound by p53 and by its relatives p63, p73
+XX
+//

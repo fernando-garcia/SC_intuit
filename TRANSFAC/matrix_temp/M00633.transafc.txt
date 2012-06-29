@@ -1,0 +1,44 @@
+AC  M00633
+XX
+ID  F$GBF_Q6
+XX
+DT  08.03.2002 (created); ela.
+DT  08.03.2002 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GBF
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00315; GBF; Species: slime mold, Dictyostelium discoideum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      0      4      T
+02      0      0      0      5      T
+03      1      0      3      1      G
+04      1      0      4      0      G
+05      0      0      5      0      G
+06      0      0      4      1      G
+07      0      0      5      0      G
+08      0      0      0      5      T
+09      1      0      3      1      G
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATGGGGGTT; R00236; 7; 9;; p.
+BS  TTGAGTGTG; R00276; 19; 9;; p.
+BS  TTGGGGGTA; R00277; 1; 9;; p.
+BS  TTAGGGGTG; R01288; 16; 9;; p.
+BS  TTTGGGGTG; R01531; 3; 9;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

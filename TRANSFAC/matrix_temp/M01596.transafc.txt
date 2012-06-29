@@ -1,0 +1,49 @@
+AC  M01596
+XX
+ID  V$GLI3_01
+XX
+DT  04.01.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Gli3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01037; V$GLI_Q2;  (family).
+XX
+BF  T00331; gli3; Species: human, Homo sapiens; site(s) included: no.
+BF  T15791; gli3; Species: human, Homo sapiens; site(s) included: no.
+BF  T06387; gli3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11183; gli3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08122; XGli3; Species: clawed frog, Xenopus laevis; site(s) included: no.
+XX
+P0      A      C      G      T
+01     24    172    155     45      S
+02     60     15      3    318      T
+03     14      0    375      7      G
+04      4      0    308     84      G
+05      0      0    396      0      G
+06     40      2     12    342      T
+07      0      0    396      0      G
+08      0      0    394      2      G
+09      0    128     48    220      Y
+10     17    350     12     17      C
+11     59    124     19    194      Y
+XX
+BA  396 sequences (ChIP-on-chip)
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0065368.
+RX  PUBMED: 18832070.
+RA  Vokes S. A., Ji H., Wong W. H., McMahon A. P.
+RT  A genome-scale analysis of the cis-regulatory circuitry underlying sonic hedgehog-mediated patterning of the mammalian limb.
+RL  Genes Dev. 22:2651-2663 (2008).
+XX
+//

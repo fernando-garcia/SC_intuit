@@ -1,0 +1,42 @@
+AC  M00197
+XX
+ID  F$ABF_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ABF1
+XX
+DE  transcriptional activator binding to ARS sequences
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00056; ABF1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T10754; Abf1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   3.20   4.03   3.02   4.99      N
+02   9.97   0.00   5.26   0.00      R
+03   0.00   0.00   0.00  15.24      T
+04   0.00  15.24   0.00   0.00      C
+05  10.54   0.65   2.34   1.70      A
+06   0.00   8.13   0.00   7.10      Y
+07   1.45   1.63   2.95   9.20      T
+08   6.11   3.56   2.40   3.17      N
+09   2.52   2.99   2.28   7.45      N
+10   6.94   4.02   1.87   2.42      N
+11   5.85   1.92   3.93   3.53      N
+12  15.24   0.00   0.00   0.00      A
+13   0.00  15.24   0.00   0.00      C
+14   0.00   0.00  15.24   0.00      G
+15   5.83   0.00   3.21   5.36      W
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0.17, total weight of sequences: 15.24)
+XX
+//

@@ -1,0 +1,61 @@
+AC  M00650
+XX
+ID  V$MTF1_Q4
+XX
+DT  08.03.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MTF-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02354; MTF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10747; MTF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18614; MTF-1; Species: Mammalia; site(s) included: yes.
+BF  T00515; MTF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10644; MTF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16624; MTF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1      2      8      T
+02      0      4      4      4      B
+03      0      0      0     12      T
+04      0      0     12      0      G
+05      0     12      0      0      C
+06      9      0      3      0      A
+07      0     12      0      0      C
+08      5      4      0      3      H
+09      0     12      0      0      C
+10      2      1      8      1      G
+11      0      1     10      1      G
+12      1      9      2      0      C
+13      2      8      1      1      C
+14      0      8      3      1      C
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TCTGCACTCCGCCC; R01022; -1; 14;; p.
+BS  TTTGCACACGGCAC; R01816; 2; 14;; p.
+BS  TTTGCGCCCGGACT; R02016; 2; 14;; p.
+BS  TGTGCACACTGGCG; R03449; 2; 14;; p.
+BS  AGTGCGCTCGGCTC; R03450; 2; 14;; p.
+BS  TTTGCACTCGTCCC; R08293; 6; 14;; p.
+BS  CCTGCACACGCCCC; R08294; 8; 14;; n.
+BS  TCTGCACACGGGCC; R08295; 8; 14;; n.
+BS  TGTGCACACGGCGG; R08296; 6; 14;; p.
+BS  TTTGCACCCAGCAG; R08297; 1; 14;; n.
+BS  GGTGCGCCCGGCCC; R08298; 6; 14;; p.
+BS  GCTGCACCCAGCCC; R08299; 6; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

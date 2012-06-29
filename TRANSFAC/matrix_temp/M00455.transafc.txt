@@ -1,0 +1,85 @@
+AC  M00455
+XX
+ID  I$DRI_01
+XX
+DT  27.08.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  dri
+XX
+DE  dead ringer
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T04679; dri; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      7      7     19      N
+02      9     15      7     11      N
+03     21      0     21      0      R
+04     42      0      0      0      A
+05      1      0      0     41      T
+06      1      0      0     41      T
+07     37      0      5      0      A
+08     28      5      6      3      A
+09      9      5      6     22      T
+10     12     11     10      9      N
+XX
+BA  42 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTGATTAGCC; R10411; 12; 10;; p.
+BS  TAGATTATTG; R10412; 20; 10;; p.
+BS  CGAATTACAT; R10413; 12; 10;; p.
+BS  TCAATTAATA; R10414; 3; 10;; p.
+BS  ATGATTAAAT; R10415; 18; 10;; p.
+BS  TTGATTAATT; R10416; 12; 10;; p.
+BS  TCAATTAATA; R10417; 3; 10;; p.
+BS  TCAATTAACA; R10418; 14; 10;; p.
+BS  TGAATTAATT; R10419; 12; 10;; p.
+BS  GAGATTAATT; R10420; 7; 10;; p.
+BS  AGGATTAATC; R10421; 4; 10;; p.
+BS  CTGATTACGA; R10422; 14; 10;; p.
+BS  TCAATTAGAC; R10423; 3; 10;; p.
+BS  CAGATTATGC; R10424; 15; 10;; p.
+BS  GCGATTAAAT; R10425; 13; 10;; p.
+BS  TAAATTAGAA; R10426; 7; 10;; p.
+BS  GCGATTAAAA; R10427; 11; 10;; p.
+BS  TCAATTAAGA; R10428; 3; 10;; p.
+BS  AAAATTAGTG; R10429; 11; 10;; p.
+BS  AAGATTAATC; R10430; 9; 10;; p.
+BS  TTGATTGATG; R10431; 23; 10;; p.
+BS  TCAATTAGAC; R10432; 3; 10;; p.
+BS  ACAATTAATA; R10433; 12; 10;; p.
+BS  ATGATTAATG; R10434; 7; 10;; p.
+BS  TTGATTGATG; R10435; 23; 10;; p.
+BS  GCAAATAAGA; R10436; 6; 10;; p.
+BS  GGAATTAATC; R10437; 5; 10;; p.
+BS  AGGATTAATC; R10438; 12; 10;; p.
+BS  GAGATTATGA; R10439; 10; 10;; p.
+BS  TCAATTAGTA; R10440; 3; 10;; p.
+BS  TCAATTAATC; R10441; 9; 10;; p.
+BS  ATAATTAATG; R10442; 16; 10;; p.
+BS  TCGATTACGT; R10443; 11; 10;; p.
+BS  CAAATTGATG; R10444; 23; 10;; p.
+BS  CGAATTACAT; R10445; 12; 10;; p.
+BS  CAAATTACAA; R10446; 4; 10;; p.
+BS  GCGATTGATG; R10447; 23; 10;; p.
+BS  ATGATAAACT; R10448; 6; 10;; p.
+BS  CGGATTAACC; R10449; 12; 10;; p.
+BS  TTAATTAATC; R10450; 8; 10;; p.
+BS  TTGATTGATG; R10451; 23; 10;; p.
+BS  TCAATTAACG; R10452; 3; 10;; p.
+XX
+CC  sequences selected with recombinant dri from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0012299.
+RX  PUBMED: 8622680.
+RA  Gregory S. L., Kortschak R. D., Kalionis B., Staint R.
+RT  Characterization of the dead ringer gene identifies a novel, highly conserved family of sequence-specific DNA-binding proteins
+RL  Mol. Cell. Biol. 16:792-799 (1996).
+XX
+//

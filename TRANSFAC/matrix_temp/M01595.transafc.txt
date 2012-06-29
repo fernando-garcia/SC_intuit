@@ -1,0 +1,63 @@
+AC  M01595
+XX
+ID  V$STAT3_03
+XX
+DT  21.12.2009 (created); sla.
+DT  05.02.2010 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT3
+XX
+DE  signal transducer and activator of transcription 3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T11031; STAT3; Species: cattle, Bos taurus; site(s) included: no.
+BF  T15979; STAT3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T01493; STAT3; Species: human, Homo sapiens; site(s) included: no.
+BF  T17273; STAT3; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: no.
+BF  T14458; STAT3; Species: Mammalia; site(s) included: no.
+BF  T05697; STAT3; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T01574; STAT3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17244; STAT3; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T06605; STAT3; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    136    102    177     85      N
+02     68    217     86    129      N
+03     47     17     24    412      T
+04     17      8    153    322      T
+05     56    405     19     20      C
+06      6    342      6    146      C
+07    179      8    248     65      R
+08     14      1    484      1      G
+09     10      3    468     19      G
+10    479     17      1      3      A
+11    490      1      4      5      A
+12    158    100    178     64      N
+13    118    115    134    133      N
+14     82    163    212     43      N
+15    167     89    182     62      N
+16    141    112    190     57      N
+XX
+BA  500 sequences (ChIP-Seq)
+XX
+DR  JASPAR: MA0144.
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0063019.
+RX  PUBMED: 18555785.
+RA  Chen X., Xu H., Yuan P., Fang F., Huss M., Vega V. B., Wong E., Orlov Y. L., Zhang W., Jiang J., Loh Y. H., Yeo H. C., Yeo Z. X., Narang V., Govindarajan K. R., Leong B., Shahab A., Ruan Y., Bourque G., Sung W. K., Clarke N. D., Wei C. L., Ng H. H.
+RT  Integration of external signaling pathways with the core transcriptional network in embryonic stem cells.
+RL  Cell 133:1106-1117 (2008).
+XX
+//

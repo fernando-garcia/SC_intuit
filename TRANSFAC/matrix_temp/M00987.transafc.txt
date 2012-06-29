@@ -1,0 +1,135 @@
+AC  M00987
+XX
+ID  V$FOXP1_01
+XX
+DT  05.05.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXP1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04175; FOXP1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15129; FOXP1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04815; FOXP1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T21283; Foxp1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T21284; Foxp1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04811; FOXP1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04812; FOXP1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04813; FOXP1c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05943; FOXP1d; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      0     75      T
+02      0      0      0     76      T
+03     75      0      1      0      A
+04      0      0      0     76      T
+05      0      0      0     76      T
+06      0      0      0     76      T
+07     23      0     52      1      G
+08      0      0      0     76      T
+09     28      0     48      0      R
+10      0      0      0     76      T
+11      0      0      0     76      T
+12      0      0     48     28      K
+13      0      0     28     48      K
+14      0     25      1     50      Y
+15      2      0     21     53      T
+16     27      0      0     49      W
+17      0      0     26     50      K
+18      0      1      0     75      T
+19     49      0      1     26      W
+20      0      0      0     75      T
+XX
+BA  76 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTATTTGTGTTGTCTTGTTT; R14843; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R14844; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R14845; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R14846; 1; 20;; p.
+BS  TTATTTTTGTTGTGTTGCT; R14847; 2; 20; 21; p.
+BS  ATGTTTATGTTGTTATTTGT; R14848; 1; 20;; p.
+BS  TTATTTATATTTGTATTTAT; R14849; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15511; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15512; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15513; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15514; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15515; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15516; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15517; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15518; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15519; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15520; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15521; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15522; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15523; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15524; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15525; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15526; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15527; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15528; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15529; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15530; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15531; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15532; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15533; 1; 20;; p.
+BS  TTATTTGTGTTGTCTTGTTT; R15534; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15535; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15536; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15537; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15538; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15539; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15540; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15541; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15542; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15543; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15544; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15545; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15546; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15547; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15548; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15549; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15550; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15551; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15552; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15553; 1; 20;; p.
+BS  TTATTTATGTTGTTGTTTAT; R15554; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15555; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15556; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15557; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15558; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15559; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15560; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15561; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15562; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15563; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15564; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15565; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15566; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15567; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15568; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15569; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15570; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15571; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15572; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15573; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15574; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15575; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15576; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15577; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15578; 1; 20;; p.
+BS  TTATTTGTATTTGTTATTAT; R15579; 1; 20;; p.
+XX
+CC  sequences selected with recombinant FOXP1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0024165.
+RX  PUBMED: 12692134.
+RA  Wang B., Lin D., Li C., Tucker P.
+RT  Multiple domains define the expression and regulatory properties of Foxp1 forkhead transcriptional repressors.
+RL  J. Biol. Chem. 278:24259-24268 (2003).
+XX
+//

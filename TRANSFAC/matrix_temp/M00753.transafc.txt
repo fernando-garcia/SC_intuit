@@ -1,0 +1,49 @@
+AC  M00753
+XX
+ID  F$RCS1_Q2
+XX
+DT  03.09.2002 (created); ela.
+DT  22.11.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RCS1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03538; RCS1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      0      0      1      A
+02      4      2      0      0      A
+03      2      2      0      2      H
+04      0      1      0      5      T
+05      0      0      6      0      G
+06      0      0      6      0      G
+07      0      0      6      0      G
+08      0      0      0      6      T
+09      0      0      6      0      G
+10      0      5      0      1      C
+11      5      0      1      0      A
+12      0      1      2      3      K
+13      0      0      0      6      T
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGTGCACCCATTT; R12404; 2; 13;; p.
+BS  AATACACCCAATT; R12405; 2; 13;; p.
+BS  AATGCACCCAGGT; R12406; 2; 13;; p.
+BS  AATGCACCCGATT; R12407; 2; 13;; p.
+BS  ACTGCACCCAGGA; R12408; 2; 13;; n.
+BS  ACCGCACCCATTT; R12409; 2; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

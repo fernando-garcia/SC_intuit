@@ -1,0 +1,73 @@
+AC  M00405
+XX
+ID  V$MMEF2_Q6
+XX
+DT  19.09.2000 (created); dkl.
+DT  20.11.2000 (updated); dkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MEF-2
+XX
+DE  myocyte enhancer factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00941; V$MEF2_Q6_01;  (family).
+XX
+BF  T01006; aMEF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09508; mef2a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09389; mef2a; Species: Mammalia; site(s) included: no.
+BF  T15645; mef2A; Species: Mammalia; site(s) included: no.
+BF  T15781; mef2a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01004; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10368; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01005; MEF2A-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00505; mef2a-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06051; mef2a-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11401; mef2a-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19055; MEF2A-xbb5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01009; RSRFC4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01010; RSRFC9; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      5      2      0      C
+02      1      0      4      4      K
+03      0      3      5      1      S
+04      2      1      2      5      N
+05      2      3      0      5      Y
+06      0      0      0     10      T
+07     10      0      0      0      A
+08      8      0      0      2      A
+09     10      0      0      0      A
+10      7      0      0      3      A
+11      7      0      0      3      A
+12      4      1      0      5      W
+13      5      2      3      0      R
+14      4      4      1      0      M
+15      1      6      1      1      C
+16      1      5      0      3      Y
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CGCTCTAAAAATAACC; R00244; 13; 16;; p.
+BS  CTCTATAAATAACCCT; R03583; 3; 16;; p.
+BS  GGGGTTAAAAATAACC; R03584; 3; 16;; n.
+BS  CTGGTTATAATTAACC; R03585; 1; 16;; p.
+BS  GGGTTTAAAATAGCAA; R03586; 2; 16;; p.
+BS  CAGATTAAAAATAACT; R03587; 1; 16;; p.
+BS  AGGACTAAAAAAGGCC; R03588; 1; 16;; p.
+BS  ATTTCTATATATACTT; R03589; 1; 16;; p.
+BS     CTTAAAATAG; R04212; 1; 16; 1,2,3,14,15,16; n.
+BS  CTCTATAAATACCCGC; R09144; 9; 16;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0016965.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0001 (2000).
+XX
+//

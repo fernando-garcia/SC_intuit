@@ -1,0 +1,55 @@
+AC  M01426
+XX
+ID  V$HOXB9_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  11.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXB9
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01740; HOXB9; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T01738; HOXB9; Species: human, Homo sapiens; site(s) included: no.
+BF  T13738; HOXB9; Species: human, Homo sapiens; site(s) included: no.
+BF  T01739; HOXB9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09370; HOXB9; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.37   0.19   0.37   0.07      N
+02   0.36   0.16   0.41   0.07      R
+03   0.58   0.07   0.31   0.04      R
+04   0.10   0.13   0.65   0.12      G
+05   0.02   0.66   0.01   0.31      C
+06   0.42   0.54   0.01   0.03      M
+07   0.94   0.00   0.05   0.00      A
+08   0.01   0.01   0.00   0.98      T
+09   0.73   0.00   0.00   0.27      A
+10   0.96   0.00   0.00   0.04      A
+11   0.97   0.00   0.00   0.02      A
+12   0.87   0.01   0.03   0.09      A
+13   0.34   0.20   0.08   0.39      N
+14   0.20   0.27   0.10   0.43      N
+15   0.23   0.45   0.15   0.18      N
+16   0.25   0.18   0.36   0.21      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0064.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

@@ -1,0 +1,124 @@
+AC  M01300
+XX
+ID  V$HMGA2_01
+XX
+DT  25.09.2009 (created); pro.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HMGA2
+XX
+DE  HMGA2 binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00750; V$HMGIY_Q6;  (family).
+HP  M01010; V$HMGIY_Q3;  (family).
+XX
+BF  T01859; HMGI-C; Species: human, Homo sapiens; site(s) included: no.
+BF  T01860; HMGI-C; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15688; HMGI-C; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     66      0      0      5      A
+02     19      0      0     52      T
+03     66      0      0      5      A
+04     13      0      1     57      T
+05      3      3      0     65      T
+06      0     38     33      0      S
+07      1     32     37      1      S
+08      1     42     26      2      S
+09      0     30     40      1      S
+10     31      9     19     12      N
+11     34      0      1     36      W
+12     28      0      0     43      W
+13     60      0      0     11      A
+14     19      0      0     52      T
+15      0      2      0     69      T
+XX
+BA  71 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATATTCGGCAATATT; R29259; 1; 15;; p.
+BS  ATATTGCCGATTATT; R29261; 1; 15;; p.
+BS  ATATTCGCCAATATT; R29262; 1; 15;; p.
+BS  ATATTGCCGATAATT; R29263; 1; 15;; p.
+BS  ATATTCGCCGGAAAT; R29264; 1; 15;; p.
+BS  ATATTGCCCCATATT; R29265; 1; 15;; p.
+BS  ATATTCGCCATATTT; R29266; 1; 15;; p.
+BS  ATATTGGCGGAAATT; R29267; 1; 15;; p.
+BS  ATATTGGCGGAAATT; R29268; 1; 15;; p.
+BS  ATATTCGGCGATAAT; R29269; 1; 15;; p.
+BS  ATATTGTGGAATATC; R29270; 1; 15;; p.
+BS  ATATTCCGCATTATT; R29271; 1; 15;; p.
+BS  ATATTGCCGATATTT; R29272; 1; 15;; p.
+BS  ATATTGGCGATAAAT; R29273; 1; 15;; p.
+BS  ATATTGCGGATTATT; R29274; 1; 15;; p.
+BS  ATATTCCCGGATATT; R29275; 1; 15;; p.
+BS  ATATTCCGCTTAATT; R29276; 1; 15;; p.
+BS  ATATTCCGCCATATT; R29277; 1; 15;; p.
+BS  ATATTCCCCATATTT; R29278; 1; 15;; p.
+BS  ATATTCCCGATTATT; R29279; 1; 15;; p.
+BS  ATATTGGCGCATTTT; R29280; 1; 15;; p.
+BS  ATATTCGCCGTTAAT; R29281; 1; 15;; p.
+BS  ATATTCGCCGATATT; R29282; 1; 15;; p.
+BS  ATATTCCGCATAAAT; R29283; 1; 15;; p.
+BS  ATATTGCCGAATATT; R29284; 1; 15;; p.
+BS  TATTTGCGCATTAAT; R29285; 1; 15;; p.
+BS  ATAATCGCGTTAATT; R29286; 1; 15;; p.
+BS  AAATCGCGGAATAAT; R29287; 1; 15;; p.
+BS  TATTTCGCGTATTTT; R29288; 1; 15;; p.
+BS  AATTTGCGCATTATT; R29289; 1; 15;; p.
+BS  AAATTCGCGTAAATT; R29290; 1; 15;; p.
+BS  ATAATCGCCATAATT; R29291; 1; 15;; p.
+BS  ATAATCGGCGTTATT; R29292; 1; 15;; p.
+BS  AATGTCGTGAATATT; R29293; 1; 15;; p.
+BS  AAATTGCTCGAAAAT; R29294; 1; 15;; p.
+BS  AAATTCGGGAATAAT; R29295; 1; 15;; p.
+BS  AAAATGCCGGTTAAT; R29296; 1; 15;; p.
+BS  ATAATGGCCGATTTT; R29297; 1; 15;; p.
+BS  ATAATGCCGAATATT; R29298; 1; 15;; p.
+BS  AAATTGACGCTAAAT; R29299; 1; 15;; p.
+BS  TATTACGGCATTATT; R29300; 1; 15;; p.
+BS  AAAATCCGCCATATT; R29301; 1; 15;; p.
+BS  ATAATGGCGATTATT; R29302; 1; 15;; p.
+BS  AAATTGCCGTAAATT; R29303; 1; 15;; p.
+BS  AAATTGCGGTATATT; R29304; 1; 15;; p.
+BS  TAATCGCATTTATTC; R29305; 1; 15;; p.
+BS  ATAATGGCGCATAAT; R29306; 1; 15;; p.
+BS  AAATCGGGGTTTATT; R29307; 1; 15;; p.
+BS  AAATTGCGGTTTATT; R29308; 1; 15;; p.
+BS  ATAATCGCCGATAAT; R29309; 1; 15;; p.
+BS  ATAAACCGCGATTAT; R29310; 1; 15;; p.
+BS  ATATTCGCGGATATT; R29311; 1; 15;; p.
+BS  ATATTCGCGTTAATT; R29312; 1; 15;; p.
+BS  ATATTCGCGCTAATT; R29313; 1; 15;; p.
+BS  ATATTCGCGGTAAAT; R29314; 1; 15;; p.
+BS  ATATTCGCGCAATTT; R29315; 1; 15;; p.
+BS  ATATTCGCGTTAAAT; R29316; 1; 15;; p.
+BS  ATATTCGCGTAATAT; R29317; 1; 15;; p.
+BS  ATATTCGCGATAATT; R29318; 1; 15;; p.
+BS  ATATTCGCGGTAATT; R29319; 1; 15;; p.
+BS  ATATTCGCGAATATT; R29320; 1; 15;; p.
+BS  ATATTGCGCGTAATT; R29321; 1; 15;; p.
+BS  ATATTGCGCATTATT; R29322; 1; 15;; p.
+BS  ATATTGCGCCATATT; R29323; 1; 15;; p.
+BS  ATATTGCGCGATATT; R29324; 1; 15;; p.
+BS  ATATTGCGCAATATT; R29325; 1; 15;; p.
+BS  ATATTGCGCATAATT; R29326; 1; 15;; p.
+BS  ATATTGCGCGATTAT; R29327; 1; 15;; p.
+BS  AAATACGCGATAATT; R29328; 1; 15;; p.
+BS  AAAATCGCGATTAAT; R29329; 1; 15;; p.
+BS  TTAATCGCGATTATT; R29330; 1; 15;; p.
+XX
+CC  sequences selected with recombinant HMGA2 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 10 rounds of selection and amplification
+XX
+RN  [1]; RE0064209.
+RX  PUBMED: 17956125.
+RA  Cui T., Leng F.
+RT  Specific recognition of AT-rich DNA sequences by the mammalian high mobility group protein AT-hook 2: a SELEX study.
+RL  Biochemistry 46:13059-13066 (2007).
+XX
+//

@@ -1,0 +1,45 @@
+AC  M01782
+XX
+ID  V$TR4_03
+XX
+DT  23.07.2010 (created); jtr.
+DT  26.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TR4
+XX
+DE  (TR4)2 b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18017; (TR4)2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     23      0      7      0      A
+02      0      0     30      0      G
+03      0      0     29      1      G
+04      0      0      0     30      T
+05      0     29      0      1      C
+06     30      0      0      0      A
+07     28      0      2      0      A
+08     30      0      0      0      A
+09      0      0     30      0      G
+10      0      0     30      0      G
+11      0      0      0     30      T
+12      0     29      0      1      C
+13     30      0      0      0      A
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant TR4 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0040918.
+RX  PUBMED: 9556573.
+RA  Yan Z. H., Karam W. G., Staudinger J. L., Medvedev A., Ghanayem B. I., Jetten A. M.
+RT  Regulation of peroxisome proliferator-activated receptor alpha-induced transactivation by the nuclear orphan receptor TAK1/TR4
+RL  J. Biol. Chem. 273:10948-57 (1998).
+XX
+//

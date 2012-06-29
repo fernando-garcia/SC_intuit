@@ -1,0 +1,64 @@
+AC  M01109
+XX
+ID  V$SZF11_01
+XX
+DT  10.03.2006 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SZF1-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T08668; SZF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08669; SZF1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08667; SZF1-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      6      0      0      C
+02      0      7      1      0      C
+03      9      0      1      0      A
+04      0      2      9      0      G
+05      0      0     12      0      G
+06      0      0     12      0      G
+07      2      0      1      9      T
+08      8      0      1      3      A
+09      5      0      1      6      W
+10      2      8      1      1      C
+11      9      0      2      1      A
+12      0      1     10      1      G
+13      2      8      2      0      C
+14      2      5      2      1      N
+15      1      0      7      1      G
+XX
+BA  12 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS     GGGagtaAGata; R19087; 1; 15; 1, 2, 3; p.
+BS  ccaGGGtatCAGccg; R19088; 2; 15;; p.
+BS  ccaGGGtaaCAGccg; R19089; 2; 15;; p.
+BS   caGGGttaCAGccg; R19090; 1; 15; 1; p.
+BS  ccaGGGttaCAGccg; R19091; 2; 15;; p.
+BS  ccaGGGtatCAGccg; R19092; 2; 15;; p.
+BS  ccaGGGtatCAGcg; R19093; 1; 15; 15; p.
+BS    aGGGatggAGggg; R19094; 1; 15; 1, 2; p.
+BS  agacGGtaaCgta; R19095; 2; 15; 15, 16; p.
+BS      GGtatttGcag; R19096; 1; 15; 1, 2, 3, 4; p.
+BS  ccaGGGtatagcc; R19097; 2; 15; 15, 16; p.
+BS    gcGGgaaCAGgat; R19098; 1; 15; 1, 2; p.
+XX
+CC  sequences selected with recombinant SZF1-1 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+RN  [2]; RE0017949.
+RX  PUBMED: 12097288.
+RA  Peng H., Zheng L., Lee W. H., Rux J. J., Rauscher FJ 3. r. d.
+RT  A common DNA-binding site for SZF1 and the BRCA1-associated zinc finger protein, ZBRK1.
+RL  Cancer Res. 62:3773-3781 (2002).
+XX
+//

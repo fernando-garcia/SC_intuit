@@ -1,0 +1,141 @@
+AC  M00967
+XX
+ID  V$HNF4_Q6
+XX
+DT  20.11.2003 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF4, COUP
+XX
+DE  half-site matrix
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00134; V$HNF4_01; hepatic nuclear factor 4 (specific).
+HC  M00155; V$ARP1_01; apolipoprotein AI regulatory protein 1 (specific).
+HC  M00411; V$HNF4_01_B; Hepatocyte nuclear factor 4 (specific).
+HC  M00638; V$HNF4ALPHA_Q6;  (specific).
+HC  M01031; V$HNF4_Q6_01;  (specific).
+HC  M01032; V$HNF4_Q6_02; half-site 1 (specific).
+HC  M01033; V$HNF4_Q6_03; half-site 2 (specific).
+HC  M02016; V$HNF4A_Q6_01;  (specific).
+HC  M02220; V$HNF4A_03; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02764; V$HNF4A_04; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02783; V$NR2F2_03; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02868; V$HNF4A_02; class: Zinc-coordinating; family: Hormone-nuclear Receptor  (specific).
+HC  M02887; V$NR2F2_04; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+XX
+BF  T02761; COUP; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00147; COUP; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06153; COUP-TF1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00148; COUP-TF1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00149; COUP-TF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08505; COUP-TF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10201; COUP-TF1; Species: Mammalia; site(s) included: no.
+BF  T00994; COUP-TF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09428; COUP-TF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15391; COUP-TF1; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T18422; COUP-TF2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18423; COUP-TF2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T06155; COUP-TF2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00045; COUP-TF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10068; COUP-TF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10310; COUP-TF2; Species: Mammalia; site(s) included: no.
+BF  T13744; COUP-TF2; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T06154; COUP-TF2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09429; COUP-TF2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06156; COUP-TF2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10954; COUP-TF2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06251; COUP-TFI; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10280; COUP-TFI; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05294; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T08260; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T02758; HNF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05017; HNF-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18464; HNF-4 alpha8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18418; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18419; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T03828; HNF-4alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08612; HNF-4alpha; Species: Mammalia; site(s) included: no.
+BF  T05287; HNF-4alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05288; HNF-4alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02421; HNF-4alpha1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02424; HNF-4alpha1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00372; HNF-4alpha1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00373; HNF-4alpha2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02423; HNF-4alpha2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02422; HNF-4alpha2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02428; HNF-4alpha3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02425; HNF-4alpha4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05285; HNF-4alpha7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02427; HNF-4alpha7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18420; HNF-4gamma; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18421; HNF-4gamma; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02430; HNF-4gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15516; HNF-4gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16651; HNF-4gamma; Species: Mammalia; site(s) included: no.
+BF  T06235; HNF-4gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15517; HNF-4gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16652; HNF-4gamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     18      4      7      6      A
+02     22      2      8      3      A
+03     17      3     15      0      R
+04      2      2     31      0      G
+05      1      1      8     25      T
+06      1     26      1      7      C
+07      6     27      2      0      C
+08     34      1      0      0      A
+09     11      8      9      7      N
+XX
+BA  35 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TAAGTCCAC; R00114; 16; 9;; n.
+BS  AAAGTTCAT; R01183; 6; 9;; n.
+BS  GAAGTTCAG; R01186; 12; 9;; n.
+BS  GAGGTCAAA; R01457; 8; 9;; p.
+BS  AAGGGTCAT; R03035; 4; 9;; p.
+BS  AGAGGCCAC; R03318; 27; 9;; p.
+BS  ACCATCCAA; R03405; 10; 9;; n.
+BS  GAAGTCCAA; R03881; 5; 9;; p.
+BS  TAGGGGCAT; R04478; 24; 9;; n.
+BS  TGGGTCCAG; R08883; 1; 9;; p.
+BS  AAAGTTCAC; R08885; 6; 9;; n.
+BS  CACGGCCAA; R12074; 7; 9;; n.
+BS  GACCTCCAC; R13031; 2; 9;; n.
+BS  AGAGTCCAG; R13032; 3; 9;; n.
+BS  CAGATCAAA; R13033; 10; 9;; n.
+BS  AAAGTCCAA; R13037; 7; 9;; p.
+BS  AAAGTCCAG; R13055; 8; 9;; p.
+BS  AAAGACCAC; R13057; 7; 9;; n.
+BS  TCAGTCCCA; R13059; 21; 9;; p.
+BS  AAAGGCCAT; R13065; 11; 9;; p.
+BS  TAAGTCCAT; R13070; 3; 9;; n.
+BS  AGGGGCCAC; R13208; 4; 9;; n.
+BS  AGGGTCGAG; R13209; 9; 9;; n.
+BS  GTGCCCCAT; R13273; 16; 9;; p.
+BS  GGGGTCAAG; R14239; 11; 9;; n.
+BS  CTGGGCAAA; C00018,  s00023; 6; 9;; n.
+BS  AAGGTTCAT; C00065,  s00099; 4; 9;; p.
+BS  AAGGTCCAA; C00122,  s00180; 10; 9;; n.
+BS  GGGGTCAAG; C00123,  s00182; 8; 9;; n.
+BS  TAGGTCGAG; C00370,  s00186; 9; 9;; n.
+BS  AAAGTCCAC; C00283,  s00487; -2; 9;; n.
+BS  CTAGGCCAA; C00285,  s00491; 16; 9;; n.
+BS  AGGGTAAAG; C00288,  s00499; 7; 9;; n.
+BS  AAAGTTCAC; C00290,  s00503; 13; 9;; p.
+BS  AAAGTTCAA; C00369,  s00642; 6; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better;  including 10 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

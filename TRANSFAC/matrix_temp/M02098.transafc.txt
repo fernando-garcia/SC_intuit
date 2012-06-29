@@ -1,0 +1,95 @@
+AC  M02098
+XX
+ID  V$LRH1_Q5_01
+XX
+DT  24.10.2011 (created); mkl.
+DT  19.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LRH-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02770; LRH-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08880; LRH-1; Species: Mammalia; site(s) included: yes.
+BF  T04754; LRH-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10265; LRH-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10363; LRH-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08492; LRH-1-xbb1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08525; LRH1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7     10     19     10      N
+02      7     11     11     17      N
+03      2     16      7     23      Y
+04      0     47      1      0      C
+05     48      0      0      0      A
+06     45      0      3      1      A
+07      1      0     48      0      G
+08      0      0     46      3      G
+09      7     17      4     21      Y
+10      3     29      2     15      Y
+11     24     10      6      9      N
+XX
+BA  49 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGACAAGGTCA; R09548; 7; 11;; n.
+BS  GTTCAAGGCCA; R09994; -2; 11;; p.
+BS  TGGCAAGGCCA; R12703; 8; 11;; n.
+BS  nnGCAAGGTCC; R13044; -2; 11;; p.
+BS  gtCCAAGGGCA; R13045; 6; 11;; p.
+BS  GTTCAAGGCCG; R13131; 2; 11;; p.
+BS  CAGCAGGGTCT; R13136; 5; 11;; n.
+BS  gtTCAAGGCTA; R19126; 1; 11;; p.
+BS  GGTCAAGGCCT; R19282; -2; 11;; p.
+BS  GTTCAAGGTAA; R19636; 10; 11;; p.
+BS  TCCCAAGGTCA; R20184; 14; 11;; p.
+BS  GTTCAAGGaca; R20844; 1; 11;; n.
+BS  CCTCAAGTCCA; R20868; 2; 11;; p.
+BS  ttCCAAGGTTC; R20880; 6; 11;; p.
+BS  ttGCAAGGCTG; R20881; 2; 11;; p.
+BS  atCCAAGGTGC; R20882; 6; 11;; p.
+BS  TTTCAAGGTTA; R20883; 1; 11;; p.
+BS  nnCCAAGGTGG; R20884; -2; 11;; p.
+BS  GCCCAAGGTCT; R20900; 3; 11;; p.
+BS  CCTCAAGGTCG; R20902; 4; 11;; n.
+BS  ATCCAAGGCTC; R21181; 1; 11;; p.
+BS  GGGCAAGGTCT; R21309; 16; 11;; p.
+BS  ATCCAAGGTCA; R22207; 1; 11;; n.
+BS  TGCCAAGGGCC; R22990; 2; 11;; p.
+BS  gcTCAAGGCCA; R23036; 7; 11;; n.
+BS  TACCAAGGTCA; R23905; 4; 11;; p.
+BS  GTTCAAGGACA; R24066; 10; 11;; n.
+BS  ATTCAAGGGTT; R26895; 11; 11;; p.
+BS  AGCCAAGGCCA; R26898; 12; 11;; p.
+BS  GGTCAAGGCTA; R26901; 2; 11;; p.
+BS  TCCCAAGGCTC; R27498; 8; 11;; n.
+BS  CCTCAAGGCTG; R27585; 2; 11;; p.
+BS  GCTCAAGGTCA; R27822; 8; 11;; p.
+BS  nnnnnAGGTCA; R27834; -5; 11;; p.
+BS  GGTCAAGGAta; R27897; 8; 11;; n.
+BS  TGTCAAGGTTC; R28701; 5; 11;; p.
+BS  GTACAAGGACA; R28702; 5; 11;; p.
+BS  GTTCAAGGATC; R28817; 4; 11;; n.
+BS  GGTCAAGGGTC; R28910; 4; 11;; p.
+BS  TTCCAAGGCCT; R28949; 11; 11;; p.
+BS  caGCAAGGAAT; R28955; 5; 11;; p.
+BS  caGCAAGGAAT; R28957; 5; 11;; p.
+BS  GCCCAAGGCTG; R29090; 6; 11;; p.
+BS  CATGAAGTCCA; R29112; 6; 11;; p.
+BS  CATCATAGTTC; R29120; 11; 11;; p.
+BS  CACCAAGGTCT; R29154; 6; 11;; n.
+BS  GCTCAGGGCCA; R29209; 1; 11;; p.
+BS  acTCAAGTTCA; R31266; 10; 11;; p.
+BS  CGCCAGGGTCA; R36303; 8; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

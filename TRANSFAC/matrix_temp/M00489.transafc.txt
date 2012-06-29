@@ -1,0 +1,55 @@
+AC  M00489
+XX
+ID  V$NKX62_Q2
+XX
+DT  19.09.2001 (created); rio.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nkx6-2
+XX
+DE  NK related homeobox factor 6-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04787; NKX6B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15871; NKX6B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02050; NKX6B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16599; NKX6B; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      1      3      1      N
+02      3      1      0      3      W
+03      4      0      2      1      A
+04      3      0      2      2      D
+05      0      0      0      7      T
+06      7      0      0      0      A
+07      7      0      0      0      A
+08      3      0      0      4      W
+09      1      0      1      5      T
+10      4      1      1      1      A
+11      1      2      2      2      N
+12      1      2      2      2      N
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AAGTTAAATATG; R11176; 7; 12;; n.
+BS  CAAATAAATGCT; R11177; 5; 12;; p.
+BS  TTGGTAATATAG; R11178; 5; 12;; p.
+BS  GTATTAATGATT; R11179; 1; 12;; n.
+BS  AAAATAATTCCC; R11180; 5; 12;; p.
+BS  GCTATAAATAGC; R11181; 2; 12;; p.
+BS  GTAGTAATTAGA; R11182; 6; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; including 1 artificial site; sites quality 2 or better
+XX
+RN  [1]; RE0016906.
+RX  PUBMED: 9254678.
+RA  Awatramani R., Scherer S., Grinspan J., Collarini E., Skoff R., O'Hagan D., Garbern J., Kamholz J.
+RT  Evidence that the homeodomain protein Gtx is involved in the regulation of oligodendrocyte myelination
+RL  J. Neurosci. 17:6657-6668 (1997).
+XX
+//

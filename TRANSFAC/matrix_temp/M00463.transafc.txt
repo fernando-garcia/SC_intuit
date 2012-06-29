@@ -1,0 +1,71 @@
+AC  M00463
+XX
+ID  V$POU3F2_01
+XX
+DT  30.08.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  POU3F2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T00630; POU3F2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09598; POU3F2; Species: human, Homo sapiens; site(s) included: no.
+BF  T01873; POU3F2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10030; POU3F2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01524; POU3F2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10040; POU3F2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00632; POU3F2 (N-Oct-5a); Species: human, Homo sapiens; site(s) included: yes.
+BF  T00633; POU3F2 (N-Oct-5b); Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14      2      0      1      A
+02      0      1      0     16      T
+03      2      0     15      0      G
+04      8      9      0      0      M
+05     17      0      0      0      A
+06      0      0      0     17      T
+07      5      0      0      9      W
+08      1      0      0      1      W
+09     15      0      0      2      A
+10      1      0      0     16      T
+11      0      0      0     17      T
+12      2     12      0      3      C
+13     17      0      0      0      A
+14      0      0      0     17      T
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATGCATA AATTAT; R10691; 8; 14; 15; p.
+BS  ATACATATATTCAT; R10692; 5; 14;; p.
+BS  ATGAATT ATTAAT; R10693; 16; 14; 23; p.
+BS  ATGCATT ATTCAT; R10694; 16; 14; 23; p.
+BS  ATGCATT ATTTAT; R10695; 5; 14; 12; p.
+BS  ATGAATA TTTAAT; R10696; 6; 14; 13; p.
+BS  ATGAATT ATTCAT; R10697; 16; 14; 23; p.
+BS  ATGAATA ATTCAT; R10698; 10; 14; 17; p.
+BS  CTGCATT ATTCAT; R10699; 16; 14; 23; p.
+BS  TTGAATT ATTCAT; R10700; 16; 14; 23; p.
+BS  ATGAATT ATTCAT; R10701; 8; 14; 15; p.
+BS  ATGCAT  ATTCAT; R10702; 5; 14; 11, 12; p.
+BS  ATACATTATTTCAT; R10703; 15; 14;; p.
+BS  ATGAAT  ATTCAT; R10704; 17; 14; 23, 24; p.
+BS  CCGCATT ATTCAT; R10705; 12; 14; 19; p.
+BS  ATGCAT  ATTTAT; R10706; 10; 14; 16, 17; p.
+BS  ATGAATA ATTCAT; R10707; 16; 14; 23; p.
+XX
+CC  sequences selected with recombinant POU3F2 from a pool of double-stranded oligonucleotides containing a core of 24 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0016787.
+RX  PUBMED: 9852081.
+RA  Rhee J. M., Gruber C. A., Brodie T. B., Trieu M., Turner E. E.
+RT  Highly cooperative homodimerization is a conserved property of neural POU proteins
+RL  J. Biol. Chem. 273:34196-34205 (1998).
+XX
+//

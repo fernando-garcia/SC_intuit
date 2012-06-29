@@ -1,0 +1,74 @@
+AC  M00261
+XX
+ID  V$OLF1_01
+XX
+DT  22.05.1997 (created); ewi.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Olf-1
+XX
+DE  olfactory neuron-specific factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00977; V$EBF_Q6;  (family).
+XX
+BF  T16021; COE1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15977; COE1; Species: Mammalia; site(s) included: no.
+BF  T09926; COE1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01040; COE1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11252; COE1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18847; COE1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01112; COE1-long; Species: mouse, Mus musculus; site(s) included: no.
+BF  T18848; COE1-short; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05427; COE1-xbb1; Species: human, Homo sapiens; site(s) included: no.
+BF  T05428; COE1-xbb1; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      2      3      2      1      N
+02      3      1      2      2      N
+03      2      5      1      0      C
+04      3      0      2      3      D
+05      6      0      1      1      A
+06      0      3      2      3      B
+07      0      0      0      8      T
+08      0      8      0      0      C
+09      0      8      0      0      C
+10      0      7      0      1      C
+11      1      4      0      3      Y
+12      4      1      2      1      A
+13      2      0      6      0      G
+14      3      0      5      0      R
+15      0      0      8      0      G
+16      5      0      2      1      A
+17      3      1      4      0      R
+18      0      2      3      3      B
+19      2      1      2      3      N
+20      0      1      3      4      K
+21      2      1      5      0      G
+22      1      2      2      3      N
+XX
+BA  8 sequences (compiled matrix imported from literature reference)
+XX
+BS  GGAGAGTCCCTAGGGAGCTTGG; R07823; 4; 22;; p.
+BS  GTATATTCCCTTGAGGAGAGAT; R07824; 3; 22;; p.
+BS  ACCAATTCCCCCAAGAATTCCT; R07825; 4; 22;; p.
+BS  CAGGATTCCCCAGGGAGGGGAC; R07826; 4; 22;; p.
+BS  AGCAACTCCCTGGAGGCTGTGG; R07827; 1; 22;; p.
+BS  CACATCTCCCAGGGGAGGTGGA; R07828; 2; 22;; p.
+BS  CTCTGGTCCCCAAGGAGCCTGT; R07829; 2; 22;; p.
+BS  TACTACTCCTCAGGGTATATGC; R07830; 2; 22;; p.
+XX
+CC  binding sites in 5 genes
+XX
+RN  [1]; RE0005834.
+RX  PUBMED: 7689152.
+RA  Wang M. M., Tsai R. Y. L., Schrader K. A., Reed R. R.
+RT  Genes encoding components of the olfactory signal transduction cascade contain a DNA binding site that may direct neuronal expression
+RL  Mol. Cell. Biol. 13:5805-5813 (1993).
+XX
+//

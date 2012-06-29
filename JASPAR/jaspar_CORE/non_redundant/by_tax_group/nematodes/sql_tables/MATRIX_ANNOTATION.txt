@@ -1,0 +1,30 @@
+9504	class	Zinc-coordinating
+9504	comment	-
+9504	family	BetaBetaAlpha-zinc finger
+9504	medline	17606643
+9504	tax_group	nematodes
+9504	type	COMPILED
+9505	class	Other
+9505	comment	-
+9505	family	Other
+9505	medline	16314527 
+9505	tax_group	nematodes
+9505	type	SELEX
+9506	class	Zinc-coordinating
+9506	comment	-
+9506	family	DM
+9506	medline	9927589
+9506	tax_group	nematodes
+9506	type	EMSA
+9507	class	Helix-Turn-Helix
+9507	comment	dimer
+9507	family	Homeo
+9507	medline	15177025 
+9507	tax_group	nematodes
+9507	type	EMSA
+9508	class	Helix-Turn-Helix
+9508	comment	NK-2 class; ortholog to Drosophila tinman and vertebrate Nkx2-5
+9508	family	Homeo
+9508	medline	16998473
+9508	tax_group	nematodes
+9508	type	PBM

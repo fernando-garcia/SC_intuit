@@ -1,0 +1,54 @@
+AC  M00445
+XX
+ID  V$XVENT1_01
+XX
+DT  20.08.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Xvent-1
+XX
+DE  Xenopus ventral 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04665; Xvent-1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      3      4      0      S
+02      0      3      3      2      B
+03      1      3      3      1      N
+04      1      5      1      1      C
+05      2      0      1      5      T
+06      7      0      1      0      A
+07      0      0      0      8      T
+08      0      1      0      7      T
+09      0      1      0      7      T
+10      0      0      6      2      G
+11      0      3      1      4      Y
+12      0      3      2      1      S
+13      0      3      1      2      Y
+XX
+BA  8 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CCTCAATTTGTGC; R10156; 4; 13;; p.
+BS  GTCCGATTTGTTG; R10157; 4; 13;; p.
+BS  GGGTAATTTGTGT; R10158; 2; 13;; p.
+BS  CCGGTATTTTTCC; R10159; 5; 13;; p.
+BS  ACAATATTTTCCC; R10160; 5; 13;; p.
+BS  GTCCTATCCGG; R10161; 8; 13; 19, 20; p.
+BS  GGCCTATTTGCCT; R10162; 6; 13;; p.
+BS  CGGCTGTTTGC; R10163; 8; 13; 19, 20; p.
+XX
+CC  sequences selected with recombinant Xvent-1 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0013370.
+RX  PUBMED: 9545242.
+RA  Friedle H., Rastegar S., Paul H., Kaufmann E., Knoechel W.
+RT  Xvent-1 mediates BMP-4-induced suppression of the dorsal-lip-specific early response gene XFD-1' in Xenopus embryos
+RL  EMBO J. 17:2298-2307 (1998).
+XX
+//

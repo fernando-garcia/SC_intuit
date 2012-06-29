@@ -1,0 +1,43 @@
+AC  M00969
+XX
+ID  P$ATMYB15_01
+XX
+DT  23.11.2003 (created); vma.
+DT  21.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AtMYB-15
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02534; Myb-15; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4     73      9     14      C
+02     27     18     51      4      R
+03     64     18     18      0      A
+04      4     64     18     14      C
+05      0      0    100      0      G
+06      0      0    100      0      G
+07      0      0      0    100      T
+08     87      4      0      9      A
+09      0      0    100      0      G
+10      0      0    100      0      G
+11      0      0      0    100      T
+12     18      0     78      4      G
+13      4      0     87      9      G
+XX
+BA  sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant AtMYB-15 from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0007109.
+RX  PUBMED: 9628022.
+RA  Romero I., Fuertes A., Benito M. J., Malpica J., Leyva A., Paz-Ares J.
+RT  More than 80R2R3-MYB regulatory genes in the genome of Arabidopsis thaliana
+RL  Plant J. 14:273-284 (1998).
+XX
+//

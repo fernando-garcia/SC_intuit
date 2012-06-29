@@ -1,0 +1,51 @@
+AC  M01780
+XX
+ID  F$RAP1_CA_01
+XX
+DT  13.07.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RAP1
+XX
+DE  Matrix for Candida albicans
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T17893; RAP1; Species: Candida albicans (Yeast); site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14      0      1     18      W
+02      5     12     15      1      S
+03      6      2      0     25      T
+04     19      0     10      4      R
+05      0      0      0     33      T
+06      0      0     13     20      K
+07      0      0     18     15      K
+08     11      3     16      3      R
+09      3      0      4     26      T
+10      0      0     33      0      G
+11      0      2      0     31      T
+12     10      0     11     12      D
+13      3      1      0     29      T
+14      0      0     29      4      G
+15      0      1     32      0      G
+16     24      0      8      1      A
+17      0      0      2     31      T
+18      0      4     29      0      G
+19      0     13      1     19      Y
+XX
+BA  33 sequences (ChIP-on-chip)
+XX
+CC  used MEME algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0067392.
+RX  PUBMED: 20231876.
+RA  Lavoie H., Hogues H., Mallick J., Sellam A., Nantel A., Whiteway M.
+RT  Evolutionary tinkering with conserved components of a transcriptional regulatory network.
+RL  PLoS Biol. 8:e1000329 (2010).
+XX
+//

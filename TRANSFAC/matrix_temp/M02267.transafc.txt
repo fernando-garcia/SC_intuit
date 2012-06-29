@@ -1,0 +1,52 @@
+AC  M02267
+AS  MA0154
+XX
+ID  V$EBF1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  EBF1
+XX
+DE  class: Zipper-Type; family: Helix-Loop-Helix
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00977; V$EBF_Q6;  (family).
+XX
+BF  T09926; COE1; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     11      9      2      3      M
+02      0     22      0      3      C
+03      1     16      1      7      C
+04      2     20      0      3      C
+05     11      9      0      5      M
+06     16      1      5      3      A
+07      0      0     25      0      G
+08      2      0     23      0      G
+09      0      0     25      0      G
+10     21      0      4      0      A
+XX
+BA  25 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Annotations from PAZAR EBF1_MOUSE (TF0000762) in the Olf_Ebf_TFBS project
+XX
+DR  JASPAR: MA0154.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

@@ -1,0 +1,53 @@
+AC  M00259
+XX
+ID  I$STAT_01
+XX
+DT  02.12.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT
+XX
+DE  signal transducers and activators of transcription
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T01988; STAT; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      5      9      7      N
+02      7      7      8      6      N
+03     12      6      5      7      N
+04      5      7      9      9      N
+05      9      5      6     10      N
+06      2      0      0     28      T
+07      0      0      0     30      T
+08      0      0      0     30      T
+09      0     30      0      0      C
+10      2     21      4      3      C
+11      4     14     11      1      S
+12      3      4     20      3      G
+13      0      0     30      0      G
+14     30      0      0      0      A
+15     30      0      0      0      A
+16     30      0      0      0      A
+17      4      8      5     12      N
+18      7      6      9      6      N
+19      5      8      8      5      N
+20      6      8      2     10      N
+21      9      3      7      7      N
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant STAT from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0005083.
+RX  PUBMED: 8608596.
+RA  Yan R., Small S., Desplan C., Dearolf C. R., Darnell jr J. E.
+RT  Identification of a STAT gene that functions in Drosophila development
+RL  Cell 84:421-430 (1996).
+XX
+//

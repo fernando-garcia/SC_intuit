@@ -1,0 +1,58 @@
+AC  M01266
+XX
+ID  V$ELF1_Q5
+XX
+DT  08.07.2009 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ELF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T01113; Elf-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08988; Elf-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10659; Elf-1; Species: Mammalia; site(s) included: yes.
+BF  T05012; Elf-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08318; Elf-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05014; Elf-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09351; Elf-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11      3      0      0      A
+02      0      0     14      0      G
+03      0      0     14      0      G
+04     14      0      0      0      A
+05     14      0      0      0      A
+06      2      1     11      0      G
+XX
+BA  14 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGGAAA; R00930; 8; 6;; p.
+BS  AGGAAG; R12017; 10; 6;; p.
+BS  aggaag; R12032; 14; 6;; n.
+BS  AGGAAA; R12070; 14; 6;; p.
+BS  AGGAAG; R14427; 9; 6;; p.
+BS  aggaag; R14808; 6; 6;; n.
+BS  aggaag; R18615; 13; 6;; n.
+BS  CGGAAG; R19663; 15; 6;; p.
+BS  aggaag; R20444; 10; 6;; n.
+BS  AGGAAG; R22316; 14; 6;; p.
+BS  cggaag; R22619; 20; 6;; n.
+BS  cggaag; R25824; 11; 6;; n.
+BS  AGGAAG; R25964; 13; 6;; p.
+BS  AGGAAc; R27475; 8; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+XX
+//

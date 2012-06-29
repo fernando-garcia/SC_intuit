@@ -1,0 +1,74 @@
+AC  M00485
+XX
+ID  V$NKX22_01
+XX
+DT  12.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nkx2-2
+XX
+DE  NK2 class homeobox factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04272; NKX2B; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15817; NKX2B; Species: chick, Gallus gallus; site(s) included: no.
+BF  T04265; NKX2B; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15818; NKX2B; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T04337; NKX2B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16598; NKX2B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15502; NKX2B; Species: Mammalia; site(s) included: no.
+BF  T02384; NKX2B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08295; NKX2B; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      0      0     13      T
+02      0      5      1     17      T
+03     23      0      0      0      A
+04     23      0      0      0      A
+05      0      0     23      0      G
+06      1      0      0     22      T
+07     10      1     12      0      R
+08      0      8     11      4      S
+09      1      1      0     21      T
+10      1      0      0     22      T
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTAAGTGGTT; R11092; 1; 10;; p.
+BS  TCAAGTGGAT; R11093; 3; 10;; p.
+BS  ATAAGTACTT; R11094; 6; 10;; p.
+BS   TAAGTGGTT; R11095; 1; 10; 1; p.
+BS  TCAAGAGGTT; R11096; 5; 10;; p.
+BS   TAAGTACTT; R11097; 1; 10; 1; p.
+BS  TTAAGTACTT; R11098; 6; 10;; p.
+BS  ATAAGTACTT; R11099; 6; 10;; p.
+BS  TTAAGTACTT; R11100; 6; 10;; p.
+BS  ATAAGTGTTT; R11101; 1; 10;; p.
+BS  TTAAGTGGTT; R11102; 6; 10;; p.
+BS   TAAGTGTTT; R11103; 1; 10; 1; p.
+BS  TTAAGTGGTT; R11104; 2; 10;; p.
+BS  TCAAGTAGTT; R11105; 4; 10;; p.
+BS  ATAAGTACTT; R11106; 4; 10;; p.
+BS  TCAAGTGTTT; R11107; 4; 10;; p.
+BS  TCAAGTAGTT; R11108; 4; 10;; p.
+BS  TGAAGTCGTT; R11109; 2; 10;; p.
+BS  TTAAGTGGCA; R11110; 5; 10;; p.
+BS   TAAGTGGTT; R11111; 1; 10; 1; p.
+BS  ATAAGTACTT; R11112; 6; 10;; p.
+BS  TTAAGTGTTT; R11113; 3; 10;; p.
+BS  ATAAGTACTT; R11114; 6; 10;; p.
+XX
+CC  sequences selected with recombinant Nkx2-2 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0016875.
+RX  PUBMED: 10944215.
+RA  Watada H., Mirmira R. G., Kalamaras J., German M. S.
+RT  Intramolecular control of transcriptional activity by the NK2-specific domain in NK-2 homeodomain proteins.
+RL  Proc. Natl. Acad. Sci. USA 97:9443-9448 (2000).
+XX
+//

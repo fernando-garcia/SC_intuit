@@ -1,0 +1,36 @@
+AC  M01701
+XX
+ID  P$NAC6_01
+XX
+DT  16.04.2010 (created); sla.
+DT  13.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NAC6
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T17708; NAC6; Species: rice, Oryza sativa (japonica cultivar-group); site(s) included: yes.
+XX
+P0      A      C      G      T
+01    300     38     27     58      A
+02     93    270     22     38      C
+03     35     61    299     28      G
+04     21     83     21    298      T
+05    284     23     21     95      A
+06    319     36     37     29      A
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed using a  quadruple 9-mer protein binding microarray (Q9-PBM)  expressed with DsRed-monomer fluorescent protein
+XX
+RN  [1]; RE0066545.
+RX  PUBMED: 19761621.
+RA  Kim M. J., Lee T. H., Pahk Y. M., Kim Y. H., Park H. M., Choi Y. D., Nahm B. H., Kim Y. K.
+RT  Quadruple 9-mer-based protein binding microarray with DsRed fusion protein.
+RL  BMC Mol. Biol. 10:91 (2009).
+XX
+//

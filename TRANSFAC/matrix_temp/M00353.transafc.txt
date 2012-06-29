@@ -1,0 +1,46 @@
+AC  M00353
+XX
+ID  P$DOF2_01
+XX
+DT  29.04.1999 (created); rhe.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Dof2
+XX
+DE  Dof2 - single zinc finger transcription factor
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02690; Dof2; Species: maize, Zea mays; site(s) included: yes.
+BF  T15264; Dof2; Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      7      2      5      N
+02      7      6      4      4      N
+03      7      3      4      7      N
+04      7      2      2     10      W
+05     21      0      0      0      A
+06     21      0      0      0      A
+07     21      0      0      0      A
+08      0      0     21      0      G
+09      3     12      2      4      C
+10      7      4      6      4      N
+11      7      6      5      3      N
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Dof2 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0020.
+XX
+RN  [1]; RE0013547.
+RX  PUBMED: 10074718.
+RA  Yanagisawa S., Schmidt R. J.
+RT  Diversity and similarity among recognition sequences of Dof transcription factors.
+RL  Plant J. 17:209-214 (1999).
+XX
+//

@@ -1,0 +1,106 @@
+AC  M01724
+XX
+ID  V$T3RALPHA_Q6
+XX
+DT  26.04.2010 (created); dtc.
+DT  19.07.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  T3RALPHA
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00963; V$T3R_Q6; half-site matrix of TRE (thyroid hormone response element) and RARE (retinoic acid response element); (family).
+XX
+BF  T01351; T3R-alpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T08501; T3R-alpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T08895; T3R-alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04774; T3R-alpha; Species: halibut, Hippoglossus hippoglossus; site(s) included: no.
+BF  T00838; T3R-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10825; T3R-alpha; Species: Mammalia; site(s) included: yes.
+BF  T08894; T3R-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04771; T3R-alpha; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T00841; T3R-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04720; T3R-alpha1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01152; T3R-alpha1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10184; T3R-alpha1; Species: Mammalia; site(s) included: yes.
+BF  T00836; T3R-alpha1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01342; T3R-alpha1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04772; T3R-alpha1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T04721; T3R-alpha2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01153; T3R-alpha2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01173; T3R-alpha2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01343; T3R-alpha2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17545; T3R-alpha3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17546; T3R-alpha3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17548; T3R-alpha4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6     12     14      9      N
+02      7     11      8     15      N
+03      3      7      6     25      T
+04      2     13     19      7      S
+05     25      2     14      1      R
+06      0      0     42      0      G
+07      0      0     42      0      G
+08      0      0      1     41      T
+09      1     34      4      3      C
+10     34      3      2      3      A
+11      9     12     16      3      N
+XX
+BA  42 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTTGGGGTCGA; R00621; 6; 11;; p.
+BS  GCAGAGGTCAC; R00624; 15; 11;; p.
+BS  GTTGGGGTTAG; R01617; 6; 11;; p.
+BS  GCTGAGGTCAA; R01673; 10; 11;; p.
+BS  ccaaaggtcat; R01690; 5; 11;; n.
+BS  gatcaggtcac; R01906; 12; 11;; n.
+BS  GTTTGGGTCAC; R03102; -2; 11;; p.
+BS  GGTGGGGTCAA; R03192; -1; 11;; p.
+BS  gccgaggtccc; R03886; -2; 11;; n.
+BS  CTTGAGGTCAT; R03899; 6; 11;; p.
+BS  ctggaggtgac; R03942; 12; 11;; n.
+BS  GGTGGGGTCAA; R03956; 3; 11;; p.
+BS  AAGCAGGTGAG; R03958; -2; 11;; p.
+BS  gacttggtccc; R03959; 24; 11;; n.
+BS  gtgggggtcaa; R04018; 8; 11;; n.
+BS  TACAAGGTGAG; R04090; 6; 11;; p.
+BS  TCTCAGGTCAG; R04401; 7; 11;; p.
+BS  GGGCAGGTCAG; R04402; 2; 11;; p.
+BS  ACTGAGGTCAG; R08504; -1; 11;; p.
+BS  cctcgggtcaa; R10034; 7; 11;; n.
+BS  gctggggtcaa; R19722; 12; 11;; n.
+BS  agttGGGTCAn; R20170; 3; 11;; p.
+BS  aaatGGGTCAn; R20190; 3; 11;; p.
+BS  cctgcggtcac; R20554; 19; 11;; n.
+BS  cttgAGGTCAg; R22274; 20; 11;; p.
+BS  cttgAGGTCAg; R22277; 13; 11;; p.
+BS  gctgaggtcag; R22508; 12; 11;; n.
+BS  TGTGGGGTCTA; R25389; 82; 11;; p.
+BS  tttgaggttgc; R26513; 29; 11;; n.
+BS  TCTTAGGTCAC; R26837; 27; 11;; p.
+BS  CTTTGGGtgtg; R26838; 13; 11;; p.
+BS  agtcaggtcag; R28235; 4; 11;; n.
+BS  nnnnaggtcac; R29243; 11; 11;; n.
+BS  ctgcaggtcac; R29247; 15; 11;; n.
+BS  TTTCAGGTCAG; R29253; 12; 11;; p.
+BS  gttcagggcag; R29341; -3; 11;; n.
+BS  agcccggtctg; R29372; 19; 11;; n.
+BS  ttccaggtcaa; R29449; 5; 11;; n.
+BS  CGTGAGGTCAG; R29451; 2; 11;; p.
+BS  TAGTAGGTACT; R29532; 26; 11;; p.
+BS  caccgggtcag; R29570; 14; 11;; n.
+BS  TTCCGGGTTAC; R30519; -1; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

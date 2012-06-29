@@ -1,0 +1,50 @@
+AC  M01650
+XX
+ID  V$PNR_01
+XX
+DT  25.01.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PNR
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03723; PNR; Species: human, Homo sapiens; site(s) included: no.
+BF  T04861; PNR; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15028; PNR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19143; PNR-Isoform  Long; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15027; PNR-Isoform Short; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9      2     11      1      R
+02     17      1      5      0      A
+03      3      3     16      1      G
+04      9      0     13      1      R
+05      0      0      0     23      T
+06      0     22      0      1      C
+07     23      0      0      0      A
+08     19      0      2      2      A
+09     23      0      0      0      A
+10      8      0     14      1      R
+11      8      0     14      1      R
+12      0      0      0     23      T
+13      0     21      0      2      C
+14     23      0      0      0      A
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant PNR from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0164.
+XX
+RN  [1]; RE0049162.
+RX  PUBMED: 15634773.
+RA  Chen J., Rattner A., Nathans J.
+RT  The rod photoreceptor-specific nuclear receptor Nr2e3 represses transcription of multiple cone-specific genes.
+RL  J. Neurosci. 25:118-129 (2005).
+XX
+//

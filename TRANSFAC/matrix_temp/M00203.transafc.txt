@@ -1,0 +1,88 @@
+AC  M00203
+XX
+ID  V$GATA_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA-X
+XX
+DE  GATA binding site
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00075; V$GATA1_01; GATA-binding factor 1 (specific).
+HC  M00076; V$GATA2_01; GATA-binding factor 2 (specific).
+HC  M00077; V$GATA3_01; GATA-binding factor 3 (specific).
+HC  M00126; V$GATA1_02; GATA-binding factor 1 (specific).
+HC  M00127; V$GATA1_03; GATA-binding factor 1 (specific).
+HC  M00128; V$GATA1_04; GATA-binding factor 1 (specific).
+HC  M00346; V$GATA1_05; GATA-binding factor 1 (specific).
+HC  M00347; V$GATA1_06; GATA-binding factor 1 (specific).
+HC  M00348; V$GATA2_02; GATA-binding factor 2 (specific).
+HC  M00349; V$GATA2_03; GATA-binding factor 2 (specific).
+HC  M00350; V$GATA3_02; GATA-binding factor 3 (specific).
+HC  M00351; V$GATA3_03; GATA-binding factor 3 (specific).
+HC  M02004; V$GATA1_Q6;  (specific).
+HC  M02243; V$TAL1::GATA1_01; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02254; V$GATA1_09; class: Zinc-coordinating; family: GATA (specific).
+HC  M02859; V$GATA3_05; class: Zinc-coordinating; family: GATA   (specific).
+XX
+BF  T00267; GATA-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T08293; GATA-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00306; GATA-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10217; GATA-1; Species: Mammalia; site(s) included: no.
+BF  T00305; GATA-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08291; GATA-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10430; GATA-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10431; GATA-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08292; GATA-1 isoform 1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09480; GATA-1 isoform 2; Species: human, Homo sapiens; site(s) included: no.
+BF  T00304; GATA-1A; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02312; GATA-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T10951; GATA-2; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00307; GATA-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10393; GATA-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00309; GATA-2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00308; GATA-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08571; GATA-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17995; GATA-2; Species: Mammalia; site(s) included: yes.
+BF  T01302; GATA-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08573; GATA-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15259; GATA-2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T18946; GATA-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00313; GATA-3; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00314; GATA-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10392; GATA-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00312; GATA-3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16673; GATA-3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T09925; GATA-3; Species: human, Homo sapiens; site(s) included: no.
+BF  T13822; GATA-3; Species: Mammalia; site(s) included: no.
+BF  T00310; GATA-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08572; GATA-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16558; GATA-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00311; GATA-3 isoform-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09924; GATA-3 isoform-2; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01   6.39   0.00   4.00   4.40      N
+02   0.00   0.00  16.31   0.00      G
+03  16.31   0.00   0.00   0.00      A
+04   0.00   0.82   0.00  15.49      T
+05  16.31   0.00   0.00   0.00      A
+06  10.80   1.40   2.62   0.91      A
+07   4.32   0.84  10.31   0.84      G
+08   4.04   2.95   5.08   4.25      N
+09   5.74   6.76   2.29   1.52      M
+10   4.46   7.12   0.68   4.05      N
+11   4.78   4.08   1.63   5.82      N
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation:2.62, total weight of sequences: 16.31)
+XX
+//

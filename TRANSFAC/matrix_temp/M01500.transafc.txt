@@ -1,0 +1,49 @@
+AC  M01500
+XX
+ID  F$ASG1_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Asg1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T16776; Asg1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.22   0.36   0.07   0.35      N
+02   0.05   0.85   0.02   0.07      C
+03   0.02   0.89   0.08   0.01      C
+04   0.01    0.1   0.88   0.02      G
+05   0.05   0.07   0.84   0.04      G
+06   0.23   0.42   0.28   0.06      N
+07   0.26    0.5   0.06   0.17      M
+08   0.04   0.06   0.65   0.25      G
+09   0.48   0.07   0.22   0.23      N
+10   0.06   0.07   0.65   0.22      G
+11   0.35   0.06   0.08   0.51      W
+12   0.11   0.32   0.14   0.43      N
+13   0.04   0.84   0.07   0.05      C
+14   0.02   0.88    0.1   0.01      C
+15   0.01   0.08   0.89   0.02      G
+16   0.07   0.02   0.85   0.05      G
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064448.
+RX  PUBMED: 19158363.
+RA  Zhu C., Byers K. J., McCord R. P., Shi Z., Berger M. F., Newburger D. E., Saulrieta K., Smith Z., Shah M. V., Radhakrishnan M., Philippakis A. A., Hu Y., De Masi F., Pacek M., Rolfs A., Murthy T., LaBaer J., Bulyk M. L.
+RT  High-resolution DNA-binding specificity analysis of yeast transcription factors.
+RL  Genome Res. 19:556-566 (2009).
+RN  [2]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+XX
+//

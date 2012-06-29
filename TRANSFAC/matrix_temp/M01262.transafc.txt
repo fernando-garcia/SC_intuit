@@ -1,0 +1,74 @@
+AC  M01262
+XX
+ID  V$TBX18_01
+XX
+DT  08.07.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBX18
+XX
+DE  T-box 18
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04402; TBX18; Species: human, Homo sapiens; site(s) included: no.
+BF  T11330; TBX18; Species: human, Homo sapiens; site(s) included: no.
+BF  T04418; Tbx18; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11332; Tbx18; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14      0      5      0      A
+02      0      0     19      0      G
+03      0      0     19      0      G
+04      0      0      0     19      T
+05      0      0     19      0      G
+06      0      0      0     19      T
+07      0      0     19      0      G
+08     19      0      0      0      A
+09     19      0      0      0      A
+10     14      0      0      0      A
+11      2      0      0      5      T
+12      0      0      0     19      T
+13      2     12      5      0      C
+14      2      0     12      5      G
+15      0     19      0      0      C
+16     19      0      0      0      A
+17      0     19      0      0      C
+18      0     19      0      0      C
+19      0      0      0     19      T
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  AGGTGTGAAANTCGCACCT; R28323; 18; 19; 28; p.
+BS  gGGTGTGAANTTGTCACCT; R28324; 11; 19; 20; p.
+BS  gGGTGTGAANTTGTCACCT; R28324; 11; 19; 20; p.
+BS  gGGTGTGAANTTGTCACCT; R28324; 11; 19; 20; p.
+BS  gGGTGTGAANTTGTCACCT; R28324; 11; 19; 20; p.
+BS  gGGTGTGAANTTGTCACCT; R28324; 11; 19; 20; p.
+BS  AGGTGTGAAAATAACACCT; R28325; 18; 19;; p.
+BS  AGGTGTGAAAATAACACCT; R28325; 18; 19;; p.
+XX
+CC  sequences selected with recombinant TBX18 from a pool of double-stranded oligonucleotides containing a core of  48 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0063405.
+RX  PUBMED: 17584735.
+RA  Farin H. F., Bussen M., Schmidt M. K., Singh M. K., Schuster-Gossler K., Kispert A.
+RT  Transcriptional repression by the T-box proteins Tbx18 and Tbx15 depends on Groucho corepressors.
+RL  J. Biol. Chem. 282:25748-25759 (2007).
+XX
+//

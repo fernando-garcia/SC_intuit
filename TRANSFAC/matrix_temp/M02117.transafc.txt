@@ -1,0 +1,68 @@
+AC  M02117
+XX
+ID  V$STAT4_Q5
+XX
+DT  24.10.2011 (created); mkl.
+DT  25.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T01577; STAT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10339; STAT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16672; STAT4; Species: Mammalia; site(s) included: no.
+BF  T01576; STAT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10342; STAT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16671; STAT4; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      1      2     18      T
+02      0      3      1     17      T
+03      8      9      2      2      M
+04      5      6      2      8      N
+05      8      4      6      3      N
+06     10      0     11      0      R
+07      0      0     21      0      G
+08     21      0      0      0      A
+09     21      0      0      0      A
+10     14      2      1      4      A
+XX
+BA  21 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTCTAGGAAG; R11154; 8; 10;; p.
+BS  TTATCAGAAA; R11155; 7; 10;; n.
+BS  TTATTGGAAA; R13236; 4; 10;; n.
+BS  TTCTCGGAAT; R13241; 6; 10;; n.
+BS  TTACAGGAAC; R13242; 7; 10;; n.
+BS  TTCCCAGAAA; R16930; 12; 10;; p.
+BS  TTGCAGGAAA; R22537; 10; 10;; n.
+BS  TCGCGGGAAA; R25470; 10; 10;; p.
+BS  TTTAGAGAAC; R25471; 35; 10;; n.
+BS  TCAGAAGAAA; R25764; 8; 10;; n.
+BS  CCATAAGAAA; R25909; 14; 10;; p.
+BS  GGACTGGAAA; R25927; -2; 10;; n.
+BS  TTAAAAGAAA; R25930; 31; 10;; n.
+BS  TTCGGGGAAA; R26378; 8; 10;; n.
+BS  TTCAGAGAAT; R29787; 31; 10;; p.
+BS  TTCTGGGAAA; R30825; 4; 10;; n.
+BS  GTTCCAGAAA; R31000; 8; 10;; p.
+BS  TTCATAGAAT; R36238; 7; 10;; p.
+BS  TTCTAGGAAA; R36240; 6; 10;; n.
+BS  TTATGAGAAT; R36241; 6; 10;; n.
+BS  TTCAAGGAAA; R36242; 6; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

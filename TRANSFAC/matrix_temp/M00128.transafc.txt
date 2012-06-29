@@ -1,0 +1,57 @@
+AC  M00128
+XX
+ID  V$GATA1_04
+XX
+DT  22.05.1995 (created); hiwi.
+DT  18.10.1995 (updated); ewi.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA-1
+XX
+DE  GATA-binding factor 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00203; V$GATA_C; GATA binding site (family).
+HP  M00789; V$GATA_Q6;  (family).
+XX
+BF  T00267; GATA-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T08293; GATA-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00306; GATA-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10217; GATA-1; Species: Mammalia; site(s) included: no.
+BF  T00305; GATA-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08291; GATA-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10430; GATA-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10431; GATA-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08292; GATA-1 isoform 1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09480; GATA-1 isoform 2; Species: human, Homo sapiens; site(s) included: no.
+BF  T00304; GATA-1A; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02312; GATA-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+XX
+P0      A      C      G      T
+01     15      1     11     10      N
+02     10     11     12     15      N
+03     11     25      9      3      C
+04     25      2      2     19      W
+05      0      0     48      0      G
+06     48      0      0      0      A
+07      0      0      0     48      T
+08     48      0      0      0      A
+09     27      1     16      4      R
+10     11      8     24      5      N
+11     12      8     18     10      N
+12     15     13     16      4      N
+13      8     13     14     12      N
+XX
+BA  48 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0003011.
+RX  PUBMED: 8262042.
+RA  Whyatt D. J., deBoer E., Grosveld F.
+RT  The two zinc finger-like domains of GATA-1 have different DNA binding specificities
+RL  EMBO J. 12:4993-5005 (1993).
+XX
+//

@@ -1,0 +1,102 @@
+AC  M00026
+XX
+ID  V$RSRFC4_01
+XX
+DT  31.01.1994 (created); ewi.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RSRFC4
+XX
+DE  related to serum response factor, C4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00941; V$MEF2_Q6_01;  (family).
+XX
+BF  T01006; aMEF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09508; mef2a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09389; mef2a; Species: Mammalia; site(s) included: no.
+BF  T15645; mef2A; Species: Mammalia; site(s) included: no.
+BF  T15781; mef2a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01004; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10368; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01005; MEF2A-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00505; mef2a-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06051; mef2a-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11401; mef2a-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19055; MEF2A-xbb5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01009; RSRFC4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01010; RSRFC9; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     17      4     12      5      R
+02     10      2     13     13      N
+03      3      3     12     20      K
+04      0     35      0      3      C
+05      0      0      0     38      T
+06     38      0      0      0      A
+07      1      0      0     37      T
+08      5      0      0     33      T
+09      8      0      0     30      T
+10     23      0      0     15      W
+11      0      0      0     38      T
+12     38      0      0      0      A
+13      4      1     33      0      G
+14     14     20      0      4      M
+15     12      6      2     18      W
+16      5      9      5     19      N
+XX
+BA  38 sequences (compiled matrix imported from literature reference)
+XX
+BS  AGGCTATTTATAGAAC; R05493; 16; 16;; p.
+BS  ATTCTATTTATAGCTT; R05494; 22; 16;; p.
+BS  ATTCTATTTATAGCTT; R05495; 22; 16;; p.
+BS  GTTCTATTTATAGATG; R05496; 18; 16;; p.
+BS  GGTCTATTTATAGAAT; R05497; 17; 16;; p.
+BS  AGGCTATTTATAGCTC; R05498; 15; 16;; p.
+BS  ATCCTATTTATAGCTC; R05499; 15; 16;; p.
+BS  CGTCTATTTATAGATT; R05500; 20; 16;; p.
+BS  AGACTATTTATAGCAA; R05501; 13; 16;; p.
+BS  AGTCTATTTATAGCCT; R05502; 22; 16;; p.
+BS  GCACTATTTATAGTTC; R05503; 22; 16;; p.
+BS  GGGCTATTTATAGAAA; R05504; 16; 16;; p.
+BS  CAACTATTTATAACTC; R05505; 15; 16;; p.
+BS  GTTCTATTTATAACTT; R05506; 14; 16;; p.
+BS  GTGTTATTTATAGATT; R05507; 19; 16;; p.
+BS  AATCTATTTTTAGTTT; R05508; 18; 16;; p.
+BS  AATCTATTTTTAGCAG; R05509; 12; 16;; p.
+BS  TTTCTATTTTTAGATC; R05510; 19; 16;; p.
+BS  GGGCTATTTTTAGATT; R05511; 16; 16;; p.
+BS  TAGCTATTTTTAGAAT; R05512; 12; 16;; p.
+BS  GATCTATTTTTAGCCA; R05513; 16; 16;; p.
+BS  ATGCTATTTTTAGACA; R05514; 22; 16;; p.
+BS  CATCTATTTTTAGCCG; R05515; 21; 16;; p.
+BS  TTGCTATTTTTAACTT; R05516; 18; 16;; p.
+BS  CTCTTATTTTTAGCAC; R05517; 15; 16;; p.
+BS  AGGCTATTAATAGTAT; R05518; 14; 16;; p.
+BS  AGCCTATTAATAGCAA; R05519; 12; 16;; p.
+BS  GGTCTATTAATAGCGT; R05520; 22; 16;; p.
+BS  AATCTATTAATAGCCT; R05521; 14; 16;; p.
+BS  ATTCTATTAATAGCTG; R05522; 16; 16;; p.
+BS  TGGCTATTAATACTTT; R05523; 14; 16;; p.
+BS  AATCTATTAATAACAT; R05524; 12; 16;; p.
+BS  TGGCTATATTTAGAAG; R05525; 13; 16;; p.
+BS  ATTCTATATTTAGATT; R05526; 17; 16;; p.
+BS  GATTTATATTTAGACT; R05527; 20; 16;; p.
+BS  GTTCTATATATAGCGC; R05528; 15; 16;; p.
+BS  AATCTATTATTAGCTC; R05529; 16; 16;; p.
+BS  GCGCTAAATTTAGAAT; R05530; 16; 16;; p.
+XX
+DR  JASPAR: MA0052.
+XX
+RN  [1]; RE0000769.
+RX  PUBMED: 1748287.
+RA  Pollock R., Treisman R.
+RT  Human SRF-related proteins: DNA-binding properties and potential regulatory targets
+RL  Genes Dev. 5:2327-2341 (1991).
+XX
+//

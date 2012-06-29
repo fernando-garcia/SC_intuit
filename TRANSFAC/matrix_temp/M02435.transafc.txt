@@ -1,0 +1,50 @@
+AC  M02435
+AS  MA0316
+XX
+ID  F$HAP5_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  22.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HAP5
+XX
+DE  class: Other Alpha-Helix; family: NFY CCAAT-binding
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03426; HAP5; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    641    935   1033   1789      N
+02    200   1914   2108     97      S
+03    113   1513   2485    433      S
+04    826   1137   2155    453      N
+05   1817   1451    440   1002      N
+06    127    637   1273   2389      K
+07     98   3199    677    624      C
+08      0    700      0   3713      T
+09    537   1308   1904    793      N
+10   4156      0      0      0      A
+11      0      0      0   4156      T
+12      0      0    234   3922      T
+13    387      0   3788      0      G
+14    361    497   3123    262      G
+15      0   1730      0   2808      Y
+XX
+BA  4398 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0316.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

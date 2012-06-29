@@ -1,0 +1,47 @@
+AC  M01998
+XX
+ID  F$CUP2_Q4
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CUP2
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00179; CUP2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      0      0      0      A
+02      0      0      6      0      G
+03      2      4      0      0      M
+04      3      0      3      0      R
+05      1      1      4      0      G
+06      6      0      0      0      A
+07      6      0      0      0      A
+08      6      0      0      0      A
+09      2      0      0      4      W
+10      0      0      6      0      G
+11      2      3      0      1      M
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGCAAAAATGT; R01040; -6; 11;; n.
+BS  AGAAGAAATGC; R01041; 18; 11;; n.
+BS  AGCGGAAAAGA; R01043; 8; 11;; n.
+BS  AGAAGAAATGC; R01845; 1; 11;; n.
+BS  AGCGGAAAAGA; R01846; 7; 11;; n.
+BS  AGCGCAAATGC; R03493; 4; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

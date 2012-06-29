@@ -1,0 +1,80 @@
+AC  M02101
+XX
+ID  V$MYOGENIN_Q6_01
+XX
+DT  24.10.2011 (created); mkl.
+DT  25.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  myogenin
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00804; V$E2A_Q2;  (family).
+HP  M00929; V$MYOD_Q6_01;  (family).
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01531; myogenin; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15550; myogenin; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00520; Myogenin; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08836; Myogenin; Species: human, Homo sapiens; site(s) included: no.
+BF  T10831; Myogenin; Species: Mammalia; site(s) included: yes.
+BF  T00528; myogenin; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08853; myogenin; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01533; myogenin; Species: quail, Coturnix coturnix; site(s) included: no.
+BF  T01532; myogenin; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15573; myogenin; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     30      0      0      C
+02     30      0      0      0      A
+03      0      1     29      0      G
+04      2     21      5      2      C
+05      1      0      0     29      T
+06      0      0     30      0      G
+XX
+BA  30 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GACAGG; R00019; 8; 6;; n.
+BS  AGCAGG; R00242; 6; 6;; n.
+BS  CAGCTG; R00850; 2; 6;; p.
+BS  Caggtg; R02418; 9; 6;; p.
+BS  CAGCTG; R02419; 10; 6;; p.
+BS  GTCAGT; R02452; 3; 6;; n.
+BS  CAGCTG; R02898; 13; 6;; p.
+BS  CAGGTG; R03074; 5; 6;; p.
+BS  CAGCTG; R03075; 2; 6;; p.
+BS  GGCAGG; R03109; 1; 6;; n.
+BS  CGCAGA; R04046; 20; 6;; n.
+BS  CCCAGA; R08512; 1; 6;; n.
+BS  CAGTTG; R14856; 5; 6;; p.
+BS  CAGCTG; R14857; 11; 6;; p.
+BS  CAGCTG; R14858; 12; 6;; p.
+BS  CAGCTG; R21748; 12; 6;; p.
+BS  CAGCTG; R21757; 10; 6;; p.
+BS  CAGCTG; R22201; 10; 6;; p.
+BS  CAGCTG; R22281; 10; 6;; p.
+BS  CAGCTG; R26413; 11; 6;; p.
+BS  CAGCTG; R26414; 13; 6;; p.
+BS  CAGCTG; R26437; 4; 6;; p.
+BS  CAGCTG; R26974; 7; 6;; p.
+BS  CAGCTG; R29174; 8; 6;; p.
+BS  CAGCTG; R29375; 10; 6;; p.
+BS  CAGCTG; R29461; 8; 6;; p.
+BS  CAGCTG; R29462; 12; 6;; p.
+BS  CAGCTG; R30388; 11; 6;; p.
+BS  CAGCTG; R30391; 11; 6;; p.
+BS  CACGTG; R35478; 1; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00712; V$MYOGENIN_Q6.
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

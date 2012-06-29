@@ -1,0 +1,49 @@
+AC  M00258
+XX
+ID  V$ISRE_01
+XX
+DT  02.12.1996 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ISGF-3
+XX
+DE  interferon-stimulated response element
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00972; V$IRF_Q6_01;  (family).
+XX
+BF  T00428; ISGF-3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      8      2      2      C
+02     12      0      1      0      A
+03      0      0     13      0      G
+04      0      0      0     13      T
+05      0      0      0     13      T
+06      0      0      0     13      T
+07      0     13      0      0      C
+08      7      1      1      4      W
+09      1      7      2      3      C
+10      1      0      0     12      T
+11      0      0      0     13      T
+12      0      3      0     10      T
+13      0      8      0      5      Y
+14      2      7      2      2      C
+15      1      8      3      1      C
+XX
+BA  13 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites from from 11 genes
+XX
+RN  [1]; RE0003477.
+RX  PUBMED: 3371658.
+RA  Levy D. E., Kessler D. S., Pine R., Reich N., Darnell jr J. E.
+RT  Interferon-induced nuclear factors that bind a shared promoter element correlate with positive and negative control
+RL  Genes Dev. 2:383-393 (1988).
+XX
+//

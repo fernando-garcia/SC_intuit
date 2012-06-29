@@ -1,0 +1,63 @@
+AC  M00399
+XX
+ID  P$ABF1_01
+XX
+DT  13.09.2000 (created); rge.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ABF1
+XX
+DE  ABA (abscisic acid) inducible transcriptional activator
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+HP  M00442; P$ABF_Q2; ABA binding factor (family).
+XX
+BF  T03820; ABF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13760; ABF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      2     12      1      G
+02      4      3      0     10      T
+03      3     11      4      2      C
+04      0      4     12      4      G
+05      5      3      3      4      N
+06      3      4      5      3      N
+07      2      3     12      2      G
+08      0      0     15      5      G
+09      2      0     12      1      G
+10     20      0      0      0      A
+11      0     20      0      0      C
+12     20      0      0      0      A
+13      0     20      0      0      C
+14      0      0     20      0      G
+15      0      0      0     20      T
+16      0      0     20      0      G
+17      0      0     17      3      G
+18      1     19      0      0      C
+19      7      4      4      3      N
+20      3     12      3      2      C
+21      3      1     12      2      G
+22     12      4      1      2      A
+23      4      9      5      1      N
+24      7      4      6      1      N
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant ABF1 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0015064.
+RX  PUBMED: 10636868.
+RA  Choi H., Hong J., Ha J., Kang J., Kim S. Y.
+RT  ABFs, a family of ABA-responsive element binding factors
+RL  J. Biol. Chem. 275:1723-1730 (2000).
+RN  [2]; RE0016965.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0001 (2000).
+XX
+//

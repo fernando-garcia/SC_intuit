@@ -1,0 +1,56 @@
+AC  M02496
+AS  MA0377
+XX
+ID  F$SFL1_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SFL1
+XX
+DE  class: Winged Helix-Turn-Helix; family: E2F
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03590; SFL1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    272    183    130    414      N
+02    368    262    124    244      N
+03    281    244    332    141      N
+04    382    256    117    244      N
+05    314     98    349    237      N
+06    368    221    198    212      N
+07    727     30    124    118      A
+08    127    178    108    586      T
+09    506    261    226      6      M
+10     18     10    960     10      G
+11    956     16      5     21      A
+12    959      9     21      9      A
+13     22     47    806    123      G
+14    616    129    218     36      A
+15    596    134     36    232      A
+16    535    221     48    194      A
+17    256    156    146    440      N
+18    492     96    217    193      N
+19    431     67     99    401      W
+20    369    123    146    360      N
+21    409    121     72    395      W
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0377.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

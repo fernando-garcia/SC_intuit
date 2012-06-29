@@ -1,0 +1,70 @@
+AC  M00220
+XX
+ID  V$SREBP1_01
+XX
+DT  16.10.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SREBP-1
+XX
+DE  sterol regulatory element-binding protein 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00776; V$SREBP_Q3;  (family).
+HP  M01168; V$SREBP_Q6;  (family).
+XX
+BF  T17378; SREBP-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T17379; SREBP-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04584; SREBP-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15900; SREBP-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01559; SREBP-1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T10877; SREBP-1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T04563; SREBP-1; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T15901; SREBP-1; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T08912; SREBP-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09095; SREBP-1; Species: Mammalia; site(s) included: no.
+BF  T06577; SREBP-1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T04562; SREBP-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10488; SREBP-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T04556; SREBP-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T15902; SREBP-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T01562; SREBP-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01556; SREBP-1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09109; SREBP-1a; Species: Mammalia; site(s) included: no.
+BF  T15263; SREBP-1A; Species: mouse, Mus musculus; site(s) included: no.
+BF  T17434; SREBP-1a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01557; SREBP-1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01558; SREBP-1c; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10660; SREBP-1c; Species: Mammalia; site(s) included: no.
+BF  T08890; SREBP-1c; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10028; SREBP-1c; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4     10     11      5      N
+02     23      1      5      1      A
+03      1      1      0     28      T
+04      0     30      0      0      C
+05     30      0      0      0      A
+06      0     27      1      2      C
+07      2      6     22      0      G
+08      0      0      0     30      T
+09      0      0     30      0      G
+10     21      3      1      2      A
+11      2     12      5     11      Y
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant SREBP-1 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0003451.
+RX  PUBMED: 7739539.
+RA  Kim J. B., Spotts G. D., Halvorsen Y.-D., Shih H.-M., Ellenberger T., Towle H. C., Spiegelman B. M.
+RT  Dual DNA binding specificity of ADD1/SREBP1 controlled by a single amino acid in the basic helix-loop-helix domain
+RL  Mol. Cell. Biol. 15:2582-2588 (1995).
+XX
+//

@@ -1,0 +1,58 @@
+AC  M01200
+XX
+ID  V$CTCF_01
+XX
+DT  02.11.2008 (created); vma.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CTCF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02284; ctcf; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14206; ctcf; Species: Mammalia; site(s) included: no.
+BF  T14290; ctcf; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T02285; ctcf; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14314; ctcf; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.22   0.24   0.33   0.22      N
+02   0.06   0.35   0.21   0.37      N
+03    0.2   0.19   0.41   0.19      N
+04   0.28   0.06   0.57   0.09      G
+05   0.05   0.87   0.05   0.03      C
+06   0.02   0.96   0.01   0.01      C
+07   0.67   0.02   0.14   0.16      A
+08   0.05   0.53   0.41   0.01      S
+09   0.13   0.54   0.12   0.21      C
+10    0.9   0.02   0.04   0.05      A
+11   0.01   0.01   0.97   0.01      G
+12   0.39   0.01   0.59   0.01      R
+13   0.03   0.02   0.62   0.33      K
+14   0.02   0.01   0.97   0.01      G
+15   0.02   0.03   0.91   0.04      G
+16   0.17   0.72   0.02    0.1      C
+17   0.39   0.02   0.51   0.08      R
+18   0.04   0.52   0.41   0.03      S
+19   0.15   0.38   0.14   0.34      N
+20   0.31   0.28   0.33   0.08      N
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  used MARSMotif and DME-X algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+RN  [2]; RE0053658.
+RX  PUBMED: 17382889.
+RA  Kim T. H., Abdullaev Z. K., Smith A. D., Ching K. A., Loukinov D. I., Green R. D., Zhang M. Q., Lobanenkov V. V., Ren B.
+RT  Analysis of the vertebrate insulator protein CTCF-binding sites in the human genome.
+RL  Cell 128:1231-1245 (2007).
+XX
+//

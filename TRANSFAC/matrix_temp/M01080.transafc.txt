@@ -1,0 +1,48 @@
+AC  M01080
+XX
+ID  V$CBF_02
+XX
+DT  26.11.2005 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CBF (core binding factor)
+XX
+DE  CBF sites selected in the absence of Ets-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01530; core-binding factor; Species: cattle, Bos taurus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15      9      6     11      N
+02      9     11     12      9      N
+03     12     10     12      7      N
+04     13     14      6      8      N
+05      7     17      9      8      N
+06      7      6      3     25      T
+07      0      0     41      0      G
+08      0     22      0     19      Y
+09      0      0     41      0      G
+10      0      0     41      0      G
+11      6      6      3     26      T
+12      4     15      4     18      Y
+13     17      6      7     11      N
+14     15      9      7     10      N
+15     14     11      9      7      N
+16     13      7      5     16      N
+XX
+BA  41 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant CBF from a pool of double-stranded oligonucleotides containing a core of 50 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0008414.
+RX  PUBMED: 8264651.
+RA  Wotton D., Ghyskael J., Wang S., Speck N. A., Owen M. J.
+RT  Cooperative binding of Ets-1 and core binding factor to DNA
+RL  Mol. Cell. Biol. 14:840-850 (1994).
+XX
+//

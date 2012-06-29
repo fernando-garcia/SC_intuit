@@ -1,0 +1,68 @@
+AC  M02911
+AS  PB0177
+XX
+ID  V$SOX7_04
+XX
+DT  15.11.2011 (created); jaspar.
+DT  17.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sox7
+XX
+DE  class: Other Alpha-Helix; family: High Mobility Group
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T06032; Sox7; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T11275; Sox7; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      7     13     65     15      G
+02     16     11     15     58      T
+03     21     27     36     17      N
+04      9     46     27     17      N
+05     29     10     15     46      N
+06     64     18      7     11      A
+07     75      4      9     12      A
+08      8      6      4     81      T
+09     14      4      2     79      T
+10     25      9     62      4      G
+11     30      4      3     64      T
+12     19     31     34     16      N
+13     18     19     10     53      T
+14     15     17     56     13      G
+15     27     24     21     28      N
+16     22     11     57     10      G
+17     18     18     30     34      N
+18     33     20     27     20      N
+19     23     36     18     23      N
+20      6      7     46     41      K
+21     20     32     30     17      N
+22     18     29     20     33      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0177.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

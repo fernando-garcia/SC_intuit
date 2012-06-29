@@ -1,0 +1,52 @@
+AC  M01305
+XX
+ID  V$TEF_01
+XX
+DT  01.10.2009 (created); jtr.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TEF
+XX
+DE  TEF b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17787; TEF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00806; TEF-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T17039; TEF-1; Species: Mammalia; site(s) included: yes.
+BF  T01124; TEF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15524; TEF-1; Species: quail, Coturnix coturnix; site(s) included: no.
+BF  T02362; TEF-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T17870; TEF1; Species: chick, Gallus gallus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      6      1      4      Y
+02      9      0      3      0      A
+03      0     12      0      0      C
+04     12      0      0      0      A
+05      0      0      0     12      T
+06      0      0      0     12      T
+07      0     12      0      0      C
+08      0     11      0      1      C
+09      5      0      0      7      W
+10      1      7      4      0      S
+11      2      4      3      3      N
+12      0      2      8      2      G
+XX
+BA  12 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites with an experimetally determined role in skeletal muscle gene expression
+XX
+DR  JASPAR: MA0090.
+XX
+RN  [1]; RE0015243.
+RX  PUBMED: 9571041.
+RA  Wasserman W. W., Fickett J. W.
+RT  Identification of regulatory regions which confer muscle-specific gene expression
+RL  J. Mol. Biol. 278:167-181 (1998).
+XX
+//

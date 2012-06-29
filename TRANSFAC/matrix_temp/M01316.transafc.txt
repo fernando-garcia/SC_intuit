@@ -1,0 +1,60 @@
+AC  M01316
+XX
+ID  V$TST1_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Oct-6
+XX
+DE  POU3F1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T00655; POU3F1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00656; POU3F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18500; POU3F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00969; POU3F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T23051; POU3F1; Species: rat, Rattus norvegicus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01   0.38   0.13   0.29   0.19      N
+02   0.35   0.26   0.25   0.15      N
+03    0.2   0.27   0.21   0.31      N
+04    0.1   0.05   0.17   0.68      T
+05   0.82   0.13   0.02   0.04      A
+06   0.91   0.03   0.02   0.03      A
+07   0.05   0.01   0.01   0.93      T
+08   0.03   0.01   0.02   0.94      T
+09   0.94   0.02   0.01   0.03      A
+10   0.93   0.01   0.01   0.05      A
+11   0.03   0.02   0.03   0.91      T
+12   0.04   0.02   0.13   0.82      T
+13   0.81   0.11   0.01   0.08      A
+14   0.66    0.1   0.16   0.08      A
+15   0.12    0.2   0.33   0.35      N
+16    0.2   0.12   0.14   0.54      T
+17   0.27   0.28   0.22   0.23      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0146.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

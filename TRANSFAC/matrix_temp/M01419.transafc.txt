@@ -1,0 +1,58 @@
+AC  M01419
+XX
+ID  V$MEIS1_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  11.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Meis1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03419; meis1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09943; meis1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09993; meis1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03388; meis1-a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03389; meis1-b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04129; meis1-c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18367; meis1a; Species: Mammalia; site(s) included: yes.
+BF  T14180; meis1b; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.43   0.11   0.13   0.32      W
+02   0.51   0.06   0.21   0.22      A
+03   0.23   0.28   0.28   0.22      N
+04   0.09   0.29   0.36   0.26      N
+05   0.95   0.01   0.03   0.02      A
+06   0.03   0.44   0.51   0.03      S
+07   0.02   0.96   0.01   0.00      C
+08   0.00   0.02   0.00   0.98      T
+09   0.01   0.00   0.99   0.00      G
+10   0.03   0.00   0.00   0.97      T
+11   0.00   0.99   0.00   0.00      C
+12   0.99   0.00   0.00   0.00      A
+13   0.70   0.02   0.01   0.27      A
+14   0.36   0.09   0.09   0.46      W
+15   0.45   0.20   0.18   0.16      N
+16   0.20   0.39   0.17   0.23      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0102.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

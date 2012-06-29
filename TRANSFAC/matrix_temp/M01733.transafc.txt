@@ -1,0 +1,75 @@
+AC  M01733
+XX
+ID  V$MZF1_Q5
+XX
+DT  26.04.2010 (created); dtc.
+DT  30.04.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MZF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T09481; MZF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14260; MZF-1; Species: Mammalia; site(s) included: no.
+BF  T08516; MZF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08517; MZF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14541; MZF-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T17573; MZF1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00529; MZF1B-C; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      2      6     20      T
+02      0      0     32      0      G
+03      0      0     32      0      G
+04      1      0     30      1      G
+05      0      0     32      0      G
+06     31      0      0      1      A
+07      9      5     16      2      R
+XX
+BA  32 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGGGGAT; R04971; 13; 7;; p.
+BS  TGGGGAA; R04972; 12; 7;; p.
+BS  CGGGGAG; R04973; 10; 7;; p.
+BS  GGGGGAG; R04974; 14; 7;; p.
+BS  tggggag; R15108; 4; 7;; n.
+BS  TGGGGTA; R15109; 20; 7;; p.
+BS  TGGGGAG; R16213; 24; 7;; p.
+BS  GGGGGAA; R18409; 8; 7;; p.
+BS  TGGGGAC; R18809; 13; 7;; p.
+BS  CGGGGAA; R18810; 16; 7;; p.
+BS  tggggac; R18811; 15; 7;; n.
+BS  aggggag; R18812; 10; 7;; n.
+BS  TGGGGAC; R19649; 7; 7;; p.
+BS  GGGGGAG; R21147; 5; 7;; p.
+BS  TGGGGAA; R21150; 4; 7;; p.
+BS  TGGGGAA; R21322; 9; 7;; p.
+BS  TGGGGAG; R21326; 19; 7;; p.
+BS  TGGGGAG; R23462; 14; 7;; p.
+BS  TGGTGAG; R27459; -2; 7;; p.
+BS  TGGGGAG; R28566; 4; 7;; p.
+BS  TGGGGAG; R28567; 4; 7;; p.
+BS  TGGGGAA; R28571; 8; 7;; p.
+BS  TGGGGAC; R28583; 9; 7;; p.
+BS  tggggag; R28605; 7; 7;; n.
+BS  GGGGGAG; R28619; 8; 7;; p.
+BS  TGGGGAT; R28624; 13; 7;; p.
+BS  TGGGGAG; R28626; 11; 7;; p.
+BS  GGGGGAA; R28655; 11; 7;; p.
+BS  GGGGGAG; R28657; 9; 7;; p.
+BS  AGGGGAG; R28658; 1; 7;; p.
+BS  TGGGGAC; R28659; 15; 7;; p.
+BS  AGGAGAA; R28660; 8; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

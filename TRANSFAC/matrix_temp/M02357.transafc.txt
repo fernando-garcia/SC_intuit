@@ -1,0 +1,50 @@
+AC  M02357
+AS  MA0239
+XX
+ID  I$PRD_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  16.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  prd
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T22704; Poxn; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T22705; Poxn; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10      4      0      7      W
+02      1      4     14      2      G
+03      4      2      2     13      T
+04     20      0      0      1      A
+05     21      0      0      0      A
+06      0     21      0      0      C
+07      7      5      3      6      N
+08      0      0     21      0      G
+09      5      4      2     10      N
+XX
+BA  21 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0239.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0067275.
+RX  PUBMED: 16041365.
+RA  Meng X., Brodsky M. H., Wolfe S. A.
+RT  A bacterial one-hybrid system for determining the DNA-binding specificity of transcription factors.
+RL  Nat. Biotechnol 23:988-994 (2005).
+XX
+//

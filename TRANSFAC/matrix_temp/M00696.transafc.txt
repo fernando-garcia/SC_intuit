@@ -1,0 +1,48 @@
+AC  M00696
+XX
+ID  I$EN_Q6
+XX
+DT  13.03.2002 (created); ela.
+DT  14.03.2002 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  En
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00253; En; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      6      1      4      Y
+02      0      9      0      2      C
+03      9      0      0      2      A
+04      8      0      1      2      A
+05      0      0      0     11      T
+06      0      0      0     11      T
+07     11      0      0      0      A
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TCAATTA; R00411; 12; 7;; p.
+BS  TCAATTA; R00412; 14; 7;; n.
+BS  CTATTTA; R00757; 3; 7;; n.
+BS  CCTTTTA; R00998; 3; 7;; n.
+BS  CCTGTTA; R01528; 14; 7;; n.
+BS  TCAATTA; R01781; 3; 7;; p.
+BS  CCAATTA; R01782; 1; 7;; p.
+BS  CTAATTA; R01783; 2; 7;; n.
+BS  GCAATTA; R01784; 3; 7;; p.
+BS  CCAATTA; R01785; 1; 7;; p.
+BS  TCAATTA; R01786; 1; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

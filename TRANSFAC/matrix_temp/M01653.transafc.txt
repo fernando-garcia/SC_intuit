@@ -1,0 +1,82 @@
+AC  M01653
+XX
+ID  V$HMGIY_01
+XX
+DT  27.01.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HMGIY
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00750; V$HMGIY_Q6;  (family).
+HP  M01010; V$HMGIY_Q3;  (family).
+XX
+BF  T02368; HMGIY; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10358; HMGIY; Species: Mammalia; site(s) included: no.
+BF  T01852; HMGIY; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06606; HMGIY; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     11      3     16      7      N
+02      7      3     21      6      G
+03     11      4      4     18      W
+04     18      1      0     18      W
+05     26      0      0     11      A
+06      4      0      0     33      T
+07      4      4      0     29      T
+08      6      7      8     16      N
+XX
+BA  37 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGTTATCT; R30222; 1; 8;; p.
+BS  TGTAATTC; R30223; 1; 8;; p.
+BS  AGTTATCA; R30224; 1; 8;; p.
+BS  GGTTATTC; R30225; 1; 8;; p.
+BS  GGTTATTG; R30226; 1; 8;; p.
+BS  GGTTTTTG; R30227; 1; 8;; p.
+BS  GCATATTG; R30228; 1; 8;; p.
+BS  AGATATTG; R30229; 1; 8;; p.
+BS  GGAAATTT; R30230; 1; 8;; p.
+BS  AGTAAATC; R30231; 1; 8;; p.
+BS  GATAATTG; R30232; 1; 8;; p.
+BS  GGTAATTA; R30233; 1; 8;; p.
+BS  GATAATTC; R30234; 1; 8;; p.
+BS  GATAATAC; R30235; 1; 8;; p.
+BS  GGTATAAG; R30236; 1; 8;; p.
+BS  AAAAATTC; R30237; 1; 8;; p.
+BS  AAAAATTT; R30238; 1; 8;; p.
+BS  AAGTATTA; R30239; 1; 8;; p.
+BS  TGCTATTT; R30240; 1; 8;; p.
+BS  CTGTATTT; R30241; 1; 8;; p.
+BS  TATATTTT; R30242; 1; 8;; p.
+BS  GCTATTTT; R30243; 1; 8;; p.
+BS  TGTATTTT; R30244; 1; 8;; p.
+BS  ATATTTTT; R30245; 1; 8;; p.
+BS  ATAAATTC; R30246; 1; 8;; p.
+BS  ATATTTTT; R30247; 1; 8;; p.
+BS  AGCAATTT; R30248; 1; 8;; p.
+BS  TGCTATAT; R30249; 1; 8;; p.
+BS  GGATAAAT; R30250; 1; 8;; p.
+BS  CGCATTCT; R30251; 1; 8;; p.
+BS  GGATAATA; R30252; 1; 8;; p.
+BS  GCATTTTG; R30253; 1; 8;; p.
+BS  CGTAATCA; R30254; 1; 8;; p.
+BS  TTGAATTA; R30255; 1; 8;; p.
+BS  TTGCATTT; R30256; 1; 8;; p.
+BS  GGTTTTTG; R30257; 1; 8;; p.
+BS  AGTTTTTT; R30258; 1; 8;; p.
+XX
+CC  sequences selected with recombinant HMGA1a from a pool of double-stranded oligonucleotides containing a core of 31 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0065632.
+RX  PUBMED: 19956671.
+RA  Manabe T., Katayama T., Tohyama M.
+RT  HMGA1a recognition candidate DNA sequences in humans.
+RL  PLoS ONE 4:e8004 (2009).
+XX
+//

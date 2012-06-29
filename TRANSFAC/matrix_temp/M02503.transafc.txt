@@ -1,0 +1,47 @@
+AC  M02503
+AS  MA0384
+XX
+ID  F$SNT2_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  16.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SNT2
+XX
+DE  class: Helix-Turn-Helix; family: Myb
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T22724; SNT2; Species: Saccharomyces cerevisiae S288c; site(s) included: yes.
+BF  T22725; SNT2; Species: Saccharomyces cerevisiae S288c; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     89    313   2817      T
+02      0      0   3136      0      G
+03   1405    269   1721      0      R
+04      0      0      0   3136      T
+05   3120      0     35      0      A
+06      7      0   3130      0      G
+07      0   3136      0      0      C
+08      0      0   3136      0      G
+09      8   3072     75      0      C
+10    168   2969      0      0      C
+11    944    231   1666    589      R
+XX
+BA  3219 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0384.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

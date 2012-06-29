@@ -1,0 +1,74 @@
+AC  M02021
+XX
+ID  V$LXRB_RXRA_Q5
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LXRbeta:RXRalpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00964; V$PXR_Q2; half-site matrix (family).
+HP  M00965; V$DR4_Q2; direct repeat 4 (family).
+XX
+BF  T05325; LXR-beta:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08731; LXR-beta:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16261; LXR-beta:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17867; LXR-beta:RXR-alpha; Species: Mammalia; site(s) included: yes.
+BF  T05701; LXR-beta:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16261; LXR-beta:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08731; LXR-beta:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15959; LXR-beta:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      5      6      8      B
+02      5      0     13      1      G
+03     11      1      6      1      R
+04      1      1     16      1      G
+05      1      0     17      1      G
+06      0      0      0     19      T
+07      0     15      0      4      C
+08     19      0      0      0      A
+09      1      9      5      3      S
+10      2      1      6      9      K
+11      7      1     10      0      R
+12      3      5      8      2      N
+13      4      5      1      8      N
+14      1      2     10      5      K
+15      3      4      8      3      N
+XX
+BA  19 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTGGTCACTCAAGT; R09968; 2; 15;; p.
+BS  TGGGGTCATTGTCGG; R09975; 3; 15;; p.
+BS  CAGGGTCACTGGCGG; R09980; 3; 15;; p.
+BS  GGCtatcATTGGAga; R14234; 6; 15;; p.
+BS  caGGGTCActggCGG; R14401; 3; 15;; p.
+BS  GGAGGTCACCACCGG; R14402; 4; 15;; n.
+BS  TGAGGTTACTGCTGG; R14418; 8; 15;; n.
+BS  cgaggtcannnnnnn; R19154; 9; 15;; p.
+BS  CGGGGTTACTACCGG; R19168; 3; 15;; p.
+BS  CAAAGTCACAGTTTA; R27582; 3; 15;; p.
+BS  ggGGGTTACTGGAGG; R28491; 9; 15;; p.
+BS  TGAGGTCAggagttc; R28492; 4; 15;; n.
+BS  GAGGGTCAggacact; R28493; 4; 15;; n.
+BS  TGAGGTCAggagttc; R28494; 19; 15;; p.
+BS  TGAGGTCAggagttt; R28495; 4; 15;; n.
+BS  TGAGGTCAggagttc; R28496; 4; 15;; n.
+BS  TGAGGTTACTGCTGG; R28533; 14; 15;; n.
+BS  GGACTTCATGGATCA; R28554; 1; 15;; n.
+BS  GAAGGTCAAAGAGAC; R31625; 15; 15;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

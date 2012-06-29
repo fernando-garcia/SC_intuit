@@ -1,0 +1,59 @@
+AC  M00264
+XX
+ID  V$STAF_02
+XX
+DT  29.10.1997 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Staf
+XX
+DE  Se-Cys tRNA gene transcription activating factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02247; Staf; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04993; Staf; Species: human, Homo sapiens; site(s) included: no.
+BF  T18490; Staf; Species: Mammalia; site(s) included: yes.
+BF  T18502; Staf; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19419; Staf; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      3      1      1      M
+02      2      3      1      4      N
+03      0      2      2      6      T
+04      2      1      0      7      T
+05      1      8      0      1      C
+06      0     10      0      0      C
+07      0     10      0      0      C
+08      9      0      1      0      A
+09      1      1      3      5      K
+10      3      5      2      0      M
+11      6      1      2      1      A
+12      0      0      2      8      T
+13      0      2      5      3      K
+14      0     10      0      0      C
+15      4      5      0      1      M
+16      3      1      1      5      W
+17      2      2      1      5      N
+18      1      1      7      1      G
+19      3      7      0      0      C
+20      3      1      4      1      R
+21      4      2      2      0      A
+XX
+BA  10 sequences (compiled matrix imported from literature reference)
+XX
+CC  genomic binding sites from 4 pol II and 5 pol III genes
+XX
+DR  JASPAR: MA0088.
+XX
+RN  [1]; RE0005958.
+RX  PUBMED: 9009278.
+RA  Schaub M., Myslinski E., Schuster C., Krol A., Carbon P.
+RT  Staf, a promiscuous activator for enhanced transcription by RNA polymerases II and IIII
+RL  EMBO J. 16:173-181 (1997).
+XX
+//

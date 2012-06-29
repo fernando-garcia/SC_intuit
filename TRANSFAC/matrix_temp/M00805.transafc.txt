@@ -1,0 +1,95 @@
+AC  M00805
+XX
+ID  V$LEF1_Q2
+XX
+DT  02.06.2003 (created); dtc.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LEF1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01022; V$LEF1_Q2_01;  (specific).
+HC  M01594; V$TCF3_01;  (specific).
+HC  M02019; V$LEF1_Q5;  (specific).
+HC  M02774; V$LEF1_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02816; V$TCF3_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02817; V$TCF7_03; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02878; V$LEF1_03; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02920; V$TCF3_05; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02921; V$TCF7_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+XX
+BF  T03553; LEF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17029; LEF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02963; LEF-1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16141; LEF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09551; LEF-1; Species: Mammalia; site(s) included: no.
+BF  T00930; LEF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09576; LEF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03554; LEF-1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01389; LEF-1S; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02905; LEF1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19041; LEF1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19042; LEF1-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19040; LEF1-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01002; TCF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16692; TCF-1; Species: Mammalia; site(s) included: no.
+BF  T11358; TCF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16008; TCF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01109; TCF-1(P); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00999; TCF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01000; TCF-1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02945; TCF-1B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01001; TCF-1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01846; TCF-1D; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01979; TCF-1E; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01981; TCF-1F; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01982; TCF-1G; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02857; TCF-3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T18225; TCF-3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T02877; TCF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16693; TCF-3; Species: Mammalia; site(s) included: no.
+BF  T01111; TCF-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16695; TCF-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17523; Tcf-3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      0     10      T
+02      0     13      0      0      C
+03     13      0      0      0      A
+04     13      0      0      0      A
+05     11      0      1      1      A
+06      0      2     11      0      G
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACAAAG; R04278; 3; 6;; p.
+BS  TCAAAG; R08576; 2; 6;; n.
+BS  TCAAAG; R08589; 2; 6;; p.
+BS  TCAAAG; R08591; 2; 6;; p.
+BS  TCAAAG; R08631; 9; 6;; n.
+BS  TCAAAC; R08636; 4; 6;; n.
+BS  TCAAAC; R08649; 1; 6;; n.
+BS  TCAAAG; R08820; 7; 6;; p.
+BS  ACAAAG; R08821; 7; 6;; n.
+BS  ACAATG; R08823; 7; 6;; n.
+BS  TCAAAG; R08824; 7; 6;; p.
+BS  TCAAGG; R13042; 5; 6;; p.
+BS  TCAAAG; C00269,  s00456; 2; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better; includes 1 TRANSCompel site
+XX
+RN  [1]; RE0023232.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0002 (2003).
+RN  [2]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

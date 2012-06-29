@@ -1,0 +1,50 @@
+AC  M03215
+XX
+ID  F$CCBF_Q6
+XX
+DT  01.02.2012 (created); mkl.
+DT  02.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CCBF
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00096; CCBF; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      0      4      W
+02      0      0      0      7      T
+03      0      0      1      6      T
+04      1      2      2      2      N
+05      2      0      3      2      D
+06      0      7      0      0      C
+07      0      0      7      0      G
+08      0      5      0      2      C
+09      0      0      7      0      G
+10      0      0      2      5      T
+11      2      1      0      4      T
+12      0      0      2      5      T
+13      0      7      0      0      C
+14      3      2      1      1      N
+15      0      2      0      4      T
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATTTTCGTGGATCAT; R00720; -2; 15;; n.
+BS  TTTGGCGCGTTTCGT; R03735; 2; 15;; n.
+BS  ATTTTCGTGGATCCN; R03752; -6; 15;; n.
+BS  ATTGACGCGTTTCCT; R28175; 92; 15;; p.
+BS  TTGAACGCGTCTCTT; R28176; 5; 15;; n.
+BS  TTTCGCGCGTTGCAC; R34955; 11; 15;; p.
+BS  TTTCGCGCGTTGCAC; R34957; 11; 15;; p.
+XX
+RN  [1]; RE0072507.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

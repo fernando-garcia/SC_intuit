@@ -1,0 +1,60 @@
+AC  M01021
+XX
+ID  P$ID1_01
+XX
+DT  09.11.2004 (created); sla.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ID1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03994; ID1; Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      3      0     13      T
+02      0      0      0     16      T
+03      0      1      0     15      T
+04      0      0     14      2      G
+05      0      1      1     14      T
+06      0     15      0      1      C
+07      0      5      9      2      S
+08      0      6      0     10      Y
+09      4      2      0     10      T
+10      5      2      0      9      W
+11      3      1      0     12      T
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTTGTCGTTTT; R15873; 6; 11;; p.
+BS  TTTGTCGCTTT; R15875; 10; 11;; p.
+BS  TTTGTCGTTAT; R15876; 3; 11;; p.
+BS  TTTGTCGTATT; R15877; 8; 11;; p.
+BS  TTTGTCCTATT; R15878; 1; 11;; p.
+BS  TTTGTCGCTTA; R15879; 3; 11;; p.
+BS  CTTGTCCTTAT; R15880; 1; 11;; p.
+BS  CTCGTCGTTTT; R15881; 1; 11;; p.
+BS  TTTGGCGTTAT; R15882; 4; 11;; p.
+BS  TTTGTCCCATA; R15883; 7; 11;; p.
+BS  TTTGTCCCTAC; R15884; 4; 11;; p.
+BS  TTTGTCTCATT; R15885; 6; 11;; p.
+BS  CTTGTCTTTAT; R15886; 9; 11;; p.
+BS  TTTTCCGTTCT; R15887; 10; 11;; p.
+BS  TTTGTTGTCCT; R15888; 6; 11;; p.
+BS  TTTTTCCCCTA; R15889; 5; 11;; p.
+XX
+CC  sequences selected with recombinant ID1 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: MA0120.
+XX
+RN  [1]; RE0025087.
+RX  PUBMED: 15020707.
+RA  Kozaki A., Hake S., Colasanti J.
+RT  The maize ID1 flowering time regulator is a zinc finger protein with novel DNA binding properties.
+RL  Nucleic Acids Res. 32:1710-1720 (2004).
+XX
+//

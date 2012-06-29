@@ -1,0 +1,61 @@
+AC  M00395
+XX
+ID  V$HOXA3_01
+XX
+DT  23.06.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXA3
+XX
+DE  HOXA3 (homeobox cluster protein)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04474; HOXA3; Species: horn shark, Heterodontus francisci; site(s) included: no.
+BF  T03318; HOXA3; Species: human, Homo sapiens; site(s) included: no.
+BF  T17233; HOXA3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03781; HOXA3; Species: Japanese pufferfish, Fugu rubripes; site(s) included: no.
+BF  T00378; HOXA3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09356; HOXA3; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      9      3      1      C
+02      3      5      5      1      N
+03      1      1      1     11      T
+04      9      0      2      3      A
+05      6      2      2      4      N
+06      3      1      3      7      N
+07      4      1      4      5      N
+08      1      1      7      5      K
+09      1      3      5      5      N
+XX
+BA  14 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGTAATTTG; R09080; 4; 9;; p.
+BS  CATAATAGC; R09081; 3; 9;; p.
+BS  CCAGATGGC; R09082; 7; 9;; p.
+BS  CATAAAAAT; R09083; 3; 9;; p.
+BS  GCTAAGATT; R09084; 4; 9;; p.
+BS  TTCACTACT; R09085; 8; 9;; p.
+BS  CCTACTGTA; R09086; 5; 9;; p.
+BS  CCTTTGTTG; R09087; 3; 9;; p.
+BS  ACGAGATTG; R09088; 4; 9;; p.
+BS  GGTATTCGG; R09089; 5; 9;; p.
+BS  CGTAAAGGT; R09090; 3; 9;; p.
+BS  CGTTGCTGT; R09091; 4; 9;; p.
+BS  CATGTTGGG; R09092; 3; 9;; p.
+BS  CGTTTGTGC; R09093; 5; 9;; p.
+XX
+CC  sequences selected with recombinant HOXA3 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0003871.
+RX  PUBMED: 8096059.
+RA  Catron K. M., Iller N., Abate C.
+RT  Nucleotides flanking a conserved TAAT core dictate the DNA binding specifity of three murine homeodomain proteins
+RL  Mol. Cell. Biol. 13:2354-2365 (1993).
+XX
+//

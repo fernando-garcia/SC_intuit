@@ -1,0 +1,44 @@
+AC  M01582
+XX
+ID  P$AGL9_01
+XX
+DT  23.10.2009 (created); sla.
+DT  09.11.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AGL9
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03032; AGL9; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13808; AGL9; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3     10      8     32      T
+02     15      9      3     26      W
+03      5     46      2      0      C
+04      0     53      0      0      C
+05     24     17      1     11      M
+06     39      5      2      7      A
+07     48      0      0      5      A
+08     53      0      0      0      A
+09     48      0      2      3      A
+10     15      4      0     34      T
+11     16      0     37      0      G
+12      0      3     50      0      G
+13     23     17     12      1      M
+14     32     10      3      8      A
+15     33      5      1     14      A
+XX
+BA  53 sequences (ChIP-Seq)
+XX
+RN  [1]; RE0064502.
+RX  PUBMED: 19385720.
+RA  Kaufmann K., Muino J. M., Jauregui R., Airoldi C. A., Smaczniak C., Krajewski P., Angenent G. C.
+RT  Target genes of the MADS transcription factor SEPALLATA3: integration of developmental and hormonal pathways in the Arabidopsis flower.
+RL  PLoS Biol. 7:e1000090 (2009).
+XX
+//

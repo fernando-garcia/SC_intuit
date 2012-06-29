@@ -1,0 +1,57 @@
+AC  M00635
+XX
+ID  P$GT1_Q6
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GT-1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T04310; GT-1; Species: Madagascar periwinkle, Catharanthus roseus; site(s) included: yes.
+BF  T00339; GT-1; Species: pea, Pisum sativum; site(s) included: yes.
+BF  T04454; GT-1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T14433; GT-1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T01089; GT-1; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+BF  T04286; GT-1b; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1     14      0      G
+02      0      0      0     15      T
+03      6      1      6      2      R
+04      9      0      3      3      A
+05     11      0      0      4      A
+06      6      0      0      9      W
+07     14      0      1      0      A
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTGTAAA; R01316; 3; 7;; n.
+BS  GTGGATA; R01317; 10; 7;; n.
+BS  GTGGTTA; R01318; -7; 7;; p.
+BS  GTGAAAA; R01319; 5; 7;; n.
+BS  GTTAAAA; R03077; 8; 7;; p.
+BS  GTGATTA; R03078; 10; 7;; p.
+BS  GTGAATG; R03079; 28; 7;; p.
+BS  CTAAATA; R09823; 9; 7;; n.
+BS  GTAAAAA; R09824; 6; 7;; p.
+BS  GTAAAAA; R09825; 6; 7;; p.
+BS  GTAATTA; R09845; 1; 7;; p.
+BS  GTATTTA; R09846; 11; 7;; n.
+BS  GTTTATA; R09847; -7; 7;; n.
+BS  GTCGAAA; R11447; 13; 7;; p.
+BS  GTAAATA; R11449; -1; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00635; P$GT1_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

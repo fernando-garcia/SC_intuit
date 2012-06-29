@@ -1,0 +1,98 @@
+AC  M00776
+XX
+ID  V$SREBP_Q3
+XX
+DT  30.11.2002 (created); dtc.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SREBP
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00220; V$SREBP1_01; sterol regulatory element-binding protein 1 (specific).
+HC  M00221; V$SREBP1_02; sterol regulatory element-binding protein 1 (specific).
+HC  M00749; V$SREBP1_Q6;  (specific).
+HC  M01173; V$SREBP1_Q5;  (specific).
+HC  M01177; V$SREBP2_Q6;  (specific).
+XX
+BF  T17378; SREBP-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T17379; SREBP-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04584; SREBP-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15900; SREBP-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01559; SREBP-1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T10877; SREBP-1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T04563; SREBP-1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T15901; SREBP-1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T08912; SREBP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09095; SREBP-1; Species: Mammalia; site(s) included: no.
+BF  T06577; SREBP-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T04562; SREBP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10488; SREBP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04556; SREBP-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T15902; SREBP-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T01562; SREBP-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01556; SREBP-1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09109; SREBP-1a; Species: Mammalia; site(s) included: no.
+BF  T15263; SREBP-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17434; SREBP-1a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01557; SREBP-1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01558; SREBP-1c; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10660; SREBP-1c; Species: Mammalia; site(s) included: no.
+BF  T08890; SREBP-1c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10028; SREBP-1c; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04553; SREBP-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16665; SREBP-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01561; SREBP-2; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T10876; SREBP-2; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T01560; SREBP-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09098; SREBP-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16049; SREBP-2; Species: Mammalia; site(s) included: no.
+BF  T16666; SREBP-2; Species: mink, Mustela vison; site(s) included: yes.
+BF  T15631; SREBP-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19272; SREBP-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04567; SREBP-2; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T16664; SREBP-2; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T04564; SREBP-2; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T16667; SREBP-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16668; SREBP-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      3      4      0      V
+02      2      3      3      2      N
+03      2      3      4      2      N
+04      5      3      3      0      V
+05      0      2      0      9      T
+06      0     11      0      0      C
+07     11      0      0      0      A
+08      0      9      2      0      C
+09      2      8      1      0      C
+10      0     11      0      0      C
+11      0      6      1      4      Y
+12     11      0      0      0      A
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTTATCACGCCA; R04416; 5; 12;; p.
+BS  CCGCTCACACTA; R04417; 4; 12;; n.
+BS  GGCATCACCCCA; R04430; -3; 12;; p.
+BS  AAAATCACCCCA; C00204,  s00338; -3; 12;; p.
+BS  NNCATCACCCCA; C00205,  s00340; -3; 12;; p.
+BS  GCTGTCAGCCCA; C00206,  s00343; -3; 12;; p.
+BS  ATACTCACACGA; C00207,  s00345; -3; 12;; p.
+BS  CGGGCCACCCTA; C00208,  s00347; -5; 12;; p.
+BS  CGGGCCACCCTA; C00209,  s00348; -4; 12;; p.
+BS  GCCATCACCCCA; C00210,  s00350; -3; 12;; p.
+BS  AAGCTCAGCCTA; C00211,  s00353; -3; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better; includes 8 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

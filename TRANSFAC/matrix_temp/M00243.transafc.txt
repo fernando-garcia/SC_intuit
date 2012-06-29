@@ -1,0 +1,61 @@
+AC  M00243
+XX
+ID  V$EGR1_01
+XX
+DT  20.02.1996 (created); ewi.
+DT  31.01.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Egr-1
+XX
+DE  Egr-1/Krox-24/NGFI-A immediate-early gene product
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00807; V$EGR_Q6;  (family).
+HP  M00982; V$KROX_Q6;  (family).
+XX
+BF  T14429; Egr-1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14430; Egr-1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14186; Egr-1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T00241; Egr-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09462; Egr-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10531; Egr-1; Species: Mammalia; site(s) included: no.
+BF  T02340; Egr-1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T00244; Egr-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10013; Egr-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14617; Egr-1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T14618; Egr-1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T05807; Egr-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T17113; Egr-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T01200; Egr-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10132; Egr-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   45.5    6.1    6.1   42.4      W
+02    5.1    2.6    5.1   87.2      T
+03    7.3      0   92.7      0      G
+04      0   98.2      0    1.8      C
+05    1.8      0   98.2      0      G
+06      0    1.8   14.5   83.6      T
+07   30.9      0   69.1      0      G
+08      0      0    100      0      G
+09      0      0    100      0      G
+10   12.7   76.4      0   10.9      C
+11      0      0    100      0      G
+12      0      0   42.3   57.7      K
+XX
+BA  sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Egr-1 from a pool of double-stranded oligonucleotides containing a core of 21 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0003829.
+RX  PUBMED: 7891721.
+RA  Swirnoff A. H., Milbrandt J.
+RT  DNA-binding specificity of NGFI-A and related zinc finger transcription factors
+RL  Mol. Cell. Biol. 15:2275-2287 (1995).
+XX
+//

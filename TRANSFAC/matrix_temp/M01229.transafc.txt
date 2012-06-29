@@ -1,0 +1,91 @@
+AC  M01229
+XX
+ID  V$GTF2IRD1_01
+XX
+DT  24.03.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GTF2IRD1-isoform2
+XX
+DE  GTF2IRD1-isoform2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16290; Ben; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15974; Ben; Species: Mammalia; site(s) included: no.
+BF  T15762; Ben; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10495; Ben; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15763; Ben-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15771; Ben-isoform10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15761; Ben-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15764; Ben-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15765; Ben-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15766; Ben-isoform5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15767; Ben-isoform6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15768; Ben-isoform7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15769; Ben-isoform8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15770; Ben-isoform9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10489; GTF2IRD1 isoform 1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10490; GTF2IRD1 isoform 2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      5     16      7      G
+02      8      2     20      0      G
+03      0      0     30      0      G
+04     29      0      0      1      A
+05      1      1      0     28      T
+06      1      0      0     29      T
+07     18      0     11      1      R
+08      1      9     11      9      N
+09      9      2     16      1      R
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TAGATTAGG; R27056; 5; 9;; p.
+BS  GGGATTATG; R27061; 1; 9;; p.
+BS  TGGATTACA; R27062; 8; 9;; p.
+BS  CAGATTAAC; R27063; 1; 9;; p.
+BS  TGGATTAGG; R27064; 6; 9;; p.
+BS  GGGATTGGG; R27065; 5; 9;; p.
+BS   GGACTACC; R27066; 1; 9; 1; p.
+BS  GGGATTGGG; R27067; 5; 9;; p.
+BS  TGGAATGCA; R27068; 7; 9;; p.
+BS  GGGTTAGT; R27069; 7; 9; 15; p.
+BS  GGGATTGGG; R27070; 4; 9;; p.
+BS  CCGATTACA; R27071; 1; 9;; p.
+BS  TGGATTAGG; R27074; 6; 9;; p.
+BS  GAGATTATG; R27075; 5; 9;; p.
+BS  TGGATTAGG; R27076; 6; 9;; p.
+BS  GGGATTGGG; R27077; 4; 9;; p.
+BS  CAGATTACG; R27078; 1; 9;; p.
+BS  CGGATTGGG; R27079; 4; 9;; p.
+BS  GGGATTATG; R27080; 5; 9;; p.
+BS  GGGATTAGG; R27081; 3; 9;; p.
+BS  GAGATTGTA; R27082; 4; 9;; p.
+BS  GGGATTAGG; R27083; 4; 9;; p.
+BS  GGGATTGTA; R27084; 9; 9;; p.
+BS  GAGATTAC; R27085; 8; 9; 16; p.
+BS  GGGATTGTA; R27086; 9; 9;; p.
+BS  GGATTTTAC; R27087; 4; 9;; p.
+BS  AGATTATGG; R27088; 2; 9;; p.
+BS  AGATTACAA; R27089; 3; 9;; p.
+BS  CGATTACTA; R27090; 5; 9;; p.
+BS  GGATTGCAG; R27091; 2; 9;; p.
+XX
+CC  sequences selected with recombinant GTF2IRD1-isoform2 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0062594.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20092:0001 (2009).
+RN  [2]; RE0035284.
+RX  PUBMED: 15987678.
+RA  Vullhorst D., Buonanno A.
+RT  Multiple GTF2I-like repeats of general transcription factor 3 exhibit DNA binding properties: Evidence for a comon origin as a sequence-specific DNA interaction module.
+RL  J. Biol. Chem. 280:31722-31731 (2005).
+XX
+//

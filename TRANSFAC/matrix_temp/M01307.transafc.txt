@@ -1,0 +1,48 @@
+AC  M01307
+XX
+ID  V$POU5F1_01
+XX
+DT  01.10.2009 (created); jtr.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  POU5F1
+XX
+DE  POU5F1 b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T08316; Oct3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10890; Oct3; Species: Mammalia; site(s) included: no.
+BF  T10884; Oct3; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T09363; Oct3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16677; Oct3; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    331    247    217    207      N
+02    881     59      0     62      A
+03     92      0     64    846      T
+04     53     50    839     60      G
+05    100    730    110     62      C
+06    954     47      0      1      A
+07    833     44     57     68      A
+08    363    173    237    229      N
+09    301    231    198    272      N
+10    321    201    209    271      N
+XX
+BA  1002 sequences (ChIP-on-chip)
+XX
+CC  PO5F1 binding motif defined from ChIP-on-chip experiment in Ntera2 cells; used Weeder and MEME for ChIP Motifs approach
+XX
+RN  [1]; RE0064267.
+RX  PUBMED: 17567999.
+RA  Jin V. X., O'Geen H., Iyengar S., Green R., Farnham P. J.
+RT  Identification of an OCT4 and SRY regulatory module using integrated computational and experimental genomics approaches.
+RL  Genome Res. 17:807-817 (2007).
+XX
+//

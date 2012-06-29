@@ -1,0 +1,53 @@
+AC  M01517
+XX
+ID  F$SIP4_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sip4
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03600; SIP4; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.06   0.51   0.13    0.3      Y
+02    0.2   0.38   0.27   0.15      N
+03   0.29    0.3   0.25   0.15      N
+04   0.17   0.34   0.15   0.34      N
+05   0.35   0.26   0.11   0.29      N
+06   0.33   0.16   0.14   0.37      N
+07    0.1   0.21   0.05   0.64      T
+08   0.02   0.08   0.05   0.85      T
+09   0.01   0.92   0.01   0.05      C
+10   0.01   0.93   0.05   0.01      C
+11   0.01   0.05   0.93   0.01      G
+12   0.05   0.01   0.92   0.01      G
+13   0.85   0.05   0.08   0.02      A
+14   0.64   0.05   0.21    0.1      A
+15   0.43   0.11   0.21   0.25      N
+16   0.25   0.24   0.29   0.22      N
+17   0.25    0.3    0.1   0.34      N
+18   0.23   0.27   0.14   0.37      N
+19   0.17   0.31   0.23    0.3      N
+20   0.15   0.43   0.24   0.18      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064448.
+RX  PUBMED: 19158363.
+RA  Zhu C., Byers K. J., McCord R. P., Shi Z., Berger M. F., Newburger D. E., Saulrieta K., Smith Z., Shah M. V., Radhakrishnan M., Philippakis A. A., Hu Y., De Masi F., Pacek M., Rolfs A., Murthy T., LaBaer J., Bulyk M. L.
+RT  High-resolution DNA-binding specificity analysis of yeast transcription factors.
+RL  Genome Res. 19:556-566 (2009).
+RN  [2]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+XX
+//

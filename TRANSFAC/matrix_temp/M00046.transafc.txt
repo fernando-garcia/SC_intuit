@@ -1,0 +1,49 @@
+AC  M00046
+XX
+ID  F$GCR1_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCR1
+XX
+DE  GCR1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00322; GCR1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T10720; GCR1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0      4      0      G
+02      1      0      4      1      G
+03      0      6      0      0      C
+04      1      0      0      5      T
+05      0      0      0      6      T
+06      0      6      0      0      C
+07      0      6      0      0      C
+08      3      0      0      3      W
+09      1      4      1      0      C
+XX
+BA  6 sequences (compiled matrix imported from literature reference)
+XX
+BS  AGCTTCCTC; R05782; 14; 9;; p.
+BS  GGCATCCAG; R05783; 13; 9;; p.
+BS  GTCTTCCTA; R05784; 14; 9;; p.
+BS  AGCTTCCAC; R05785; 14; 9;; p.
+BS  GGCTTCCAC; R05786; 14; 9;; p.
+BS  GACTTCCTC; R05787; 14; 9;; p.
+XX
+CC  binding sites from 5 genes
+XX
+RN  [1]; RE0002918.
+RX  PUBMED: 1588965.
+RA  Huie M. A., Scott E. W., Drazinic C. M., Lopez M. C., Hornstra I. K., Yang T. P., Baker H. V.
+RT  Characterization of the DNA-binding activity of GCR1: In vivo evidence for two GCR1-binding sites in the upstream activating sequence of TPI of Saccharomyces cerevisiae
+RL  Mol. Cell. Biol. 12:2690-2700 (1992).
+XX
+//

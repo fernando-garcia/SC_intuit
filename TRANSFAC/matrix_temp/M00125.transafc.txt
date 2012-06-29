@@ -1,0 +1,72 @@
+AC  M00125
+XX
+ID  F$MCM1_01
+XX
+DT  22.05.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MCM1
+XX
+DE  yeast factor MCM1 cooperating with MATalpha factors
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00500; MCM1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      3      2     10      W
+02      3      4      4     12      T
+03      6      0      5     12      T
+04      0     23      0      0      C
+05      0     23      0      0      C
+06      0     10      0     13      Y
+07     18      1      1      3      A
+08     19      0      1      3      A
+09     11      0      0     12      W
+10      5     10      4      4      N
+11      8      4      6      5      N
+12      5      0     18      0      G
+13      1      0     21      1      G
+14      6      2      0     15      T
+15     14      6      2      1      A
+16     15      0      2      6      A
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CATCCTAAAAAGGAAA; R06858; 15; 16;; p.
+BS  ATGCCTAAACAGGTAG; R06859; 19; 16;; p.
+BS  CGTCCTAAACAGGACA; R06860; 14; 16;; p.
+BS  TCGCCTAAATAAGTAA; R06861; 16; 16;; p.
+BS  ACTCCTAAATAGGCTA; R06862; 22; 16;; p.
+BS  TTGCCTAAAGCGGTAA; R06863; 19; 16;; p.
+BS  TTTCCTAATCGGTTGT; R06864; 19; 16;; p.
+BS  TATCCTAATGTGGTAT; R06865; 15; 16;; p.
+BS  ACTCCTATATAAATCG; R06866; 20; 16;; p.
+BS  TTTCCTAGACCGGTCA; R06867; 14; 16;; p.
+BS  ATGCCTTAACGGGTAA; R06868; 21; 16;; p.
+BS  ATACCTTATGTGGTAT; R06869; 19; 16;; p.
+BS  TTACCTCATCCAGCCT; R06870; 19; 16;; p.
+BS  TTGCCCAAAAGGGACA; R06871; 19; 16;; p.
+BS  ATACCCAAAGTAGAAA; R06872; 14; 16;; p.
+BS  GTTCCCAATCAGGAGA; R06873; 19; 16;; p.
+BS  CCACCCAATCCAGTAA; R06874; 12; 16;; p.
+BS  AGTCCCAATCGGGTCA; R06875; 12; 16;; p.
+BS  TGACCCAATATGGTAT; R06876; 22; 16;; p.
+BS  TATCCCATTAAGGTAA; R06877; 12; 16;; p.
+BS  AGTCCCATTAGGGTAA; R06878; 22; 16;; p.
+BS  GTTCCCTATCGGGTAA; R06879; 20; 16;; p.
+BS  TTACCCGATTTGGAAT; R06880; 18; 16;; p.
+XX
+CC  sequences selected with recombinant MCM1 from a pool of double-stranded oligonucleotides containing a core of 57 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0003010.
+RX  PUBMED: 1630900.
+RA  Wynne J., Treisman R.
+RT  SRF and MCM1 have related but distinct DNA binding specificities
+RL  Nucleic Acids Res. 20:3297-3303 (1992).
+XX
+//

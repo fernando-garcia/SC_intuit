@@ -1,0 +1,49 @@
+AC  M00490
+XX
+ID  V$BACH2_01
+XX
+DT  19.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Bach2
+XX
+DE  BTB and CNC homolog 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T04795; bach2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09643; bach2; Species: human, Homo sapiens; site(s) included: no.
+BF  T04792; bach2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10673; bach2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16602; Bach2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2     11      7      2      S
+02     10      2     13      1      R
+03      0      0      2     24      T
+04      0      0     25      1      G
+05     18      6      1      1      A
+06      2      0     24      0      G
+07      1      0      1     24      T
+08      2     23      1      0      C
+09     21      0      1      0      A
+10      2      5      3     10      N
+11      3     11      5      1      C
+XX
+BA  26 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Bach2 from a pool of double-stranded oligonucleotides containing a core of 55 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0016914.
+RX  PUBMED: 8887638.
+RA  Oyake T., Itoh K., Motohashi H., Hayashi N., Hoshino H., Nishizawa M., Yamamoto M., Igarashi K.
+RT  Bach proteins belong to a novel family of BTB-basic leucine zipper transcription factors that interact with MafK and regulate transcription through the NF-E2 site
+RL  Mol. Cell. Biol. 16:6083-6095 (1996).
+XX
+//

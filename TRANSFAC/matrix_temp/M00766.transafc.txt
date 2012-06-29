@@ -1,0 +1,55 @@
+AC  M00766
+XX
+ID  V$LXR_DR4_Q3
+XX
+DT  29.11.2002 (created); ela.
+DT  29.11.2002 (updated); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LXR direct repeat 4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00964; V$PXR_Q2; half-site matrix (family).
+HP  M00965; V$DR4_Q2; direct repeat 4 (family).
+XX
+BF  T05324; LXR-alpha:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05320; LXR-alpha:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05357; LXR-alpha:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05325; LXR-beta:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      0      7      T
+02      0      0      8      0      G
+03      6      2      0      0      A
+04      1      7      0      0      C
+05      0      8      0      0      C
+06      0      1      5      2      G
+07      1      3      3      1      N
+08      2      3      1      2      N
+09      5      1      1      1      A
+10      1      1      5      1      G
+11      0      0      0      8      T
+12      5      0      3      0      R
+13      8      0      0      0      A
+14      1      7      0      0      C
+15      0      8      0      0      C
+16      0      8      0      0      C
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGACCTGGCCTGACCC; R09936; 1; 16;; n.
+BS  TGAACTTATTTAAACC; R09957; 15; 16;; n.
+BS  TGACCGCCAGTAACCC; R09971; 16; 16;; p.
+BS  CGCCCGCTAGTAACCC; R09972; 18; 16;; p.
+BS  TGCCCGACAATGACCC; R09975; 5; 16;; n.
+BS  TGACCGCCAGTGACCC; R09980; 5; 16;; n.
+BS  TGACCCGAGGTAACCC; R10034; 8; 16;; p.
+BS  TGACCGGTAGTAACCC; R13134; 5; 16;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+//

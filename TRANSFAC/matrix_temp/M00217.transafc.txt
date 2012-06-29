@@ -1,0 +1,53 @@
+AC  M00217
+XX
+ID  V$USF_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  USF
+XX
+DE  USF binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00187; V$USF_Q6; upstream stimulating factor (family).
+HP  M00796; V$USF_Q6_01;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T00872; USF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00876; USF; Species: duck, Cairina moschata; site(s) included: yes.
+BF  T00870; USF; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T08280; usf1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T17657; usf1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00874; usf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09328; usf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02378; usf1; Species: Kenyan clawed frog, Xenopus borealis; site(s) included: no.
+BF  T08329; usf1; Species: Mammalia; site(s) included: no.
+BF  T00877; usf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09188; usf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15656; usf1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T15657; usf1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T00875; usf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08279; usf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15479; usf1; Species: sheep, Ovis aries; site(s) included: no.
+XX
+P0      A      C      G      T
+01   1.64   4.01   0.94   2.54      N
+02   0.00  10.07   0.00   0.00      C
+03   8.46   1.60   0.00   0.00      A
+04   0.00   9.16   0.00   0.90      C
+05   1.77   0.90   7.39   0.00      G
+06   0.00   0.00   0.00  10.07      T
+07   0.00   0.00  10.07   0.00      G
+08   2.31   3.61   0.94   2.41      N
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 2.19, total weight of sequences: 10.07)
+XX
+//

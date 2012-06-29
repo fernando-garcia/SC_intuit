@@ -1,0 +1,51 @@
+AC  M01778
+XX
+ID  V$PLAG1_01
+XX
+DT  06.07.2010 (created); pro.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PLAG1
+XX
+DE  PLAG1 binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T20058; PLAG1; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T17934; PLAG1; Species: Mammalia; site(s) included: yes.
+BF  T21518; Plag1; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T21292; Plag1; Species: rat, Rattus norvegicus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      1      0     22      0      G
+02      8      0     15      0      R
+03      0      0     23      0      G
+04      0      2     21      0      G
+05      1     19      0      3      C
+06      8      7      3      5      N
+07      5      6      5      7      N
+08      7      6      0      8      H
+09      9      5      4      1      N
+10      4      1      9      5      N
+11      8      3      5      3      N
+12      5      3     10      1      R
+13      7      0     11      1      R
+14      1      0     18      0      G
+15      1      0     15      3      G
+16      2      0     13      4      G
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant PLAG1 from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0040135.
+RX  PUBMED: 10646861.
+RA  Voz M. L., Agten N. S., van de Ven W. J., Kas K.
+RT  PLAG1, the main translocation target in pleomorphic adenoma of the salivary glands, is a positive regulator of IGF-II
+RL  Cancer Res. 60:106-13 (2000).
+XX
+//

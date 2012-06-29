@@ -1,0 +1,44 @@
+AC  M02041
+XX
+ID  V$SPIB_02
+XX
+DT  20.07.2011 (created); sla.
+DT  08.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Spi-B
+XX
+TY  specific
+XX
+OS  mouse, Mus musculus
+OC  eukaryota; animalia; metazoa; chordata; vertebrata; tetrapoda; mammalia; eutheria; rodentia; myomorpha; muridae; murinae
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T14146; Spi-B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19268; Spi-B-IA; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19269; Spi-B-IIA; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     53     20     15     13      A
+02     19     29     48      3      S
+03     32     36     28      4      N
+04      0      0    100      0      G
+05      0      5     95      0      G
+06     86      5      4      5      A
+07     73      7      0     20      A
+08     20     27     49      4      S
+09     10     21      4     65      T
+10     44     16     20     20      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

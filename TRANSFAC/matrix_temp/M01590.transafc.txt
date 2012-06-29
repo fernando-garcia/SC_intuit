@@ -1,0 +1,60 @@
+AC  M01590
+XX
+ID  V$SMAD1_01
+XX
+DT  02.12.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SMAD1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00792; V$SMAD_Q6;  (family).
+HP  M00974; V$SMAD_Q6_01;  (family).
+XX
+BF  T03889; Smad1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T04432; Smad1; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T03885; Smad1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09175; Smad1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10783; Smad1; Species: Mammalia; site(s) included: no.
+BF  T04254; Smad1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08914; Smad1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03888; Smad1; Species: quail, Coturnix coturnix; site(s) included: no.
+BF  T04429; Smad1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14746; Smad1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03890; Smad1; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T03886; Smad1.1; Species: clawed frog, Xenopus laevis; site(s) included: no.
+XX
+P0      A      C      G      T
+01    195    173     84     48      N
+02    341     12     48     99      A
+03    176     19    163    142      N
+04    255     92    143     10      R
+05    478      2      8     12      A
+06     16    342    134      8      C
+07    496      1      1      2      A
+08    482      2     11      5      A
+09    334      1     32    133      A
+10    167     12    302     19      R
+11    116     74    294     16      G
+12    185    155    109     51      N
+XX
+BA  500 sequences (ChIP-on-chip)
+XX
+CC  confirmed by qPCR
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0063019.
+RX  PUBMED: 18555785.
+RA  Chen X., Xu H., Yuan P., Fang F., Huss M., Vega V. B., Wong E., Orlov Y. L., Zhang W., Jiang J., Loh Y. H., Yeo H. C., Yeo Z. X., Narang V., Govindarajan K. R., Leong B., Shahab A., Ruan Y., Bourque G., Sung W. K., Clarke N. D., Wei C. L., Ng H. H.
+RT  Integration of external signaling pathways with the core transcriptional network in embryonic stem cells.
+RL  Cell 133:1106-1117 (2008).
+XX
+//

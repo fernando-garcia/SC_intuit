@@ -1,0 +1,55 @@
+AC  M00190
+XX
+ID  V$CEBP_Q2
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C/EBP
+XX
+DE  CCAAT/enhancer binding factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T01388; C/EBP; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00107; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09178; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00105; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08465; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08664; C/EBPalpha; Species: Mammalia; site(s) included: no.
+BF  T00104; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08464; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00108; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08574; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02359; C/EBPalpha(p20); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02026; C/EBPalpha(p30); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02027; C/EBPalpha(p30); Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     24     10     13     15      N
+02     14     17     15     16      N
+03     31      9     13      9      A
+04      0      4      0     58      T
+05      0      0      0     62      T
+06      8      0     49      5      G
+07      5     39     10      8      C
+08     22      4     22     14      N
+09     15     13      7     27      N
+10     36     13      5      8      A
+11     43      3     12      4      A
+12     15     10     15     22      N
+13     16      8     17     21      N
+14     21     15     12     14      N
+XX
+BA  62 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+//

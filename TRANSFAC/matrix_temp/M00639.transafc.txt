@@ -1,0 +1,72 @@
+AC  M00639
+XX
+ID  V$HNF6_Q6
+XX
+DT  08.03.2002 (created); ela.
+DT  09.01.2004 (updated); oke.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF6
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M02112; V$OC2_Q3;  (specific).
+XX
+BF  T10379; HNF-6; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T10380; HNF-6; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T03286; HNF-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15794; HNF-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09411; HNF-6; Species: Mammalia; site(s) included: no.
+BF  T03296; HNF-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08419; HNF-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09127; HNF-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10020; HNF-6alpha; Species: Mammalia; site(s) included: no.
+BF  T03257; HNF-6alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10021; HNF-6beta; Species: Mammalia; site(s) included: no.
+BF  T03258; HNF-6beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03259; OC-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11361; OC-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16614; OC-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16615; OC-2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      4      0      4      H
+02      6      1      2      4      W
+03     10      0      1      2      A
+04     13      0      0      0      A
+05      9      0      4      0      A
+06      0      0      0     13      T
+07      0     13      0      0      C
+08     12      1      0      0      A
+09     13      0      0      0      A
+10      0      0      0     13      T
+11      8      2      2      1      A
+12      6      1      2      4      W
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTAAGTCAATAA; R01464; 1; 12;; p.
+BS  TGAAATCAATTT; R02988; 5; 12;; p.
+BS  AGAAGTCAATGA; R08910; 6; 12;; p.
+BS  AAAAATCAATAT; R08911; 14; 12;; n.
+BS  TTTAGTCAATCA; R08912; 6; 12;; p.
+BS  AAAAATCCATAA; R08914; 18; 12;; p.
+BS  AAAAATCAATAT; R08915; 6; 12;; n.
+BS  CAAAGTCAATAA; R08916; 1; 12;; p.
+BS  ATAAATCAATAG; R08917; 2; 12;; n.
+BS  CTAAATCAATGG; R08921; 2; 12;; n.
+BS  TAAAATCAATCC; R08922; 9; 12;; p.
+BS  TCTAATCAATAA; R08923; 2; 12;; n.
+BS  CAGAATCAATAT; R08924; 2; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

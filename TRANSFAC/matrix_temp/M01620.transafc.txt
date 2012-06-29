@@ -1,0 +1,40 @@
+AC  M01620
+XX
+ID  F$STB5_01
+XX
+DT  25.01.2010 (created); mkl.
+DT  25.01.2010 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STB5
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03676; STB5; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T10849; STB5; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.00   0.99   0.00   0.00      C
+02   0.00   0.00   0.99   0.00      G
+03   0.00   0.00   0.99   0.00      G
+04   0.23   0.19   0.26   0.32      N
+05   0.23   0.23   0.47   0.08      N
+06   0.19   0.25   0.12   0.45      N
+07   0.06   0.12   0.06   0.76      T
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  defined from z-scores of the octamers occupying the 32 spots in the PBM
+XX
+DR  JASPAR: MA0392.
+XX
+RN  [1]; RE0065610.
+RX  PUBMED: 19111667.
+RA  Badis G., Chan E. T., van Bakel H., Pena-Castillo L., Tillo D., Tsui K., Carlson C. D., Gossett A. J., Hasinoff M. J., Warren C. L., Gebbia M., Talukder S., Yang A., Mnaimneh S., Terterov D., Coburn D., Li Yeo A., Yeo Z. X., Clarke N. D., Lieb J. D., Ansari A. Z., Nislow C., Hughes T. R.
+RT  A library of yeast transcription factor motifs reveals a widespread function for Rsc3 in targeting nucleosome exclusion at promoters.
+RL  Mol. Cell 32:878-887 (2008).
+XX
+//

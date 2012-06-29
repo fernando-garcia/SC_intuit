@@ -1,0 +1,95 @@
+AC  M01651
+XX
+ID  V$P53_03
+XX
+DT  26.01.2010 (created); sla.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  P53
+XX
+DE  tumor suppressor p53
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00761; V$P53_DECAMER_Q2;  (family).
+XX
+BF  T08472; Delta113p53; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T08426; Delta133p53; Species: human, Homo sapiens; site(s) included: no.
+BF  T08427; Delta133p53beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T08428; Delta133p53gamma; Species: human, Homo sapiens; site(s) included: no.
+BF  T08404; Delta40p53; Species: human, Homo sapiens; site(s) included: no.
+BF  T08424; Delta40p53beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T08425; Delta40p53gamma; Species: human, Homo sapiens; site(s) included: no.
+BF  T11037; p53; Species: Beechey ground squirrel, Spermophilus beecheyi; site(s) included: no.
+BF  T06307; p53; Species: cat, Felis silvestris catus; site(s) included: no.
+BF  T06296; p53; Species: cattle, Bos taurus; site(s) included: no.
+BF  T06304; p53; Species: chick, Gallus gallus; site(s) included: no.
+BF  T06299; p53; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T08254; p53; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T06305; p53; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T10686; p53; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T06306; p53; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T06300; p53; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T11034; p53; Species: horse, Equus caballus; site(s) included: no.
+BF  T00671; p53; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06310; p53; Species: macaque, Macaca fascicularis; site(s) included: no.
+BF  T09500; p53; Species: Mammalia; site(s) included: no.
+BF  T17829; p53; Species: Mammalia; site(s) included: yes.
+BF  T11035; p53; Species: medaka, Oryzias latipes; site(s) included: no.
+BF  T06298; p53; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T10269; p53; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T01806; p53; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08323; p53; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06301; p53; Species: pig, Sus scrofa; site(s) included: no.
+BF  T11081; p53; Species: pig, Sus scrofa; site(s) included: no.
+BF  T06302; p53; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T11087; p53; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T11036; p53; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: no.
+BF  T04997; p53; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08884; p53; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T06297; p53; Species: sheep, Ovis aries; site(s) included: no.
+BF  T11094; p53; Species: sheep, Ovis aries; site(s) included: no.
+BF  T06303; p53; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T08468; p53; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T08321; p53-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02103; p53as; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08422; p53beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T08423; p53gamma; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01  0.361  0.077    0.4  0.166      R
+02  0.272  0.028  0.567  0.138      G
+03  0.636  0.002  0.334  0.033      R
+04  0.002  0.986  0.002  0.016      C
+05  0.808  0.006   0.05   0.14      A
+06  0.228  0.016  0.033  0.728      T
+07  0.003  0.002  0.998  0.002      G
+08  0.038   0.38  0.002  0.586      Y
+09  0.082   0.71  0.017  0.196      C
+10  0.135  0.404  0.068  0.399      Y
+11  0.404  0.053  0.413  0.135      R
+12  0.174  0.013  0.739  0.079      G
+13  0.604  0.002  0.367  0.031      R
+14  0.002  0.998  0.002  0.003      C
+15  0.697   0.03  0.019  0.259      A
+16  0.138  0.047  0.008  0.812      T
+17  0.017  0.003  0.983  0.002      G
+18  0.038   0.35  0.003  0.614      Y
+19  0.141  0.538  0.024  0.301      Y
+20  0.157  0.407  0.091   0.35      Y
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  using flourescence anisotrophy titrations
+XX
+RN  [1]; RE0065629.
+RX  PUBMED: 18234719.
+RA  Veprintsev D. B., Fersht A. R.
+RT  Algorithm for prediction of tumour suppressor p53 affinity for binding sites in DNA.
+RL  Nucleic Acids Res. 36:1589-1598 (2008).
+XX
+//

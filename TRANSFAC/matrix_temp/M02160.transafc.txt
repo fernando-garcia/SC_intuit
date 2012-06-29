@@ -1,0 +1,50 @@
+AC  M02160
+AS  MA0044
+XX
+ID  P$HMG1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  06.01.2012 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HMG-1
+XX
+DE  class: Other Alpha-Helix; family: High Mobility Group
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T18372; HMG1; Species: pea, Pisum sativum; site(s) included: unknown.
+BF  T18373; HMG1; Species: pea, Pisum sativum; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0      5      8      0      S
+02      0      0      3     10      T
+03      0      4      0      9      T
+04      0      2     10      1      G
+05      0      1      0     12      T
+06      6      1      3      3      N
+07      3      5      0      5      Y
+08      0      1      2     10      T
+09      0      8      1      4      C
+XX
+BA  13 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant HMG1 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0044.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0052083.
+RX  PUBMED: 9161031.
+RA  Webster C. I., Packman L. C., Pwee K. H., Gray J. C.
+RT  High mobility group proteins HMG-1 and HMG-I/Y bind to a positive regulatory region of the pea plastocyanin gene promoter.
+RL  Plant J. 11:703-715 (1997).
+XX
+//

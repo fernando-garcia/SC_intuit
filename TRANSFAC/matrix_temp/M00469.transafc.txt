@@ -1,0 +1,58 @@
+AC  M00469
+XX
+ID  V$AP2ALPHA_01
+XX
+DT  04.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-2alpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00189; V$AP2_Q6; activator protein 2 (family).
+HP  M00800; V$AP2_Q3;  (family).
+HP  M00915; V$AP2_Q6_01;  (family).
+XX
+BF  T06547; AP-2; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T10513; AP-2alpha; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T08146; AP-2alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10504; AP-2alpha; Species: Mammalia; site(s) included: no.
+BF  T00033; AP-2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10025; AP-2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06374; AP-2alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10369; AP-2alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02488; AP-2alpha isoform 2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02489; AP-2alpha isoform 3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02490; AP-2alpha isoform 4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00035; AP-2alphaA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02466; AP-2alphaB; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0    185      0      G
+02      0    185      0      0      C
+03      0    185      0      0      C
+04     22     71     46     46      N
+05     19     57     61     48      N
+06     55     44     67     19      N
+07     53     30     91     11      R
+08     19     16    137     13      G
+09      9     78     79     19      S
+XX
+BA  185 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AP-2alpha from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0003.
+DR  JASPAR: PB0189.
+XX
+RN  [1]; RE0016805.
+RX  PUBMED: 10497269.
+RA  McPherson L. A., Weigel R. J.
+RT  AP2alpha and AP2gamma: a comparison of binding site specificity and trans-activation of the estrogen receptor promoter and single site promoter constructs
+RL  Nucleic Acids Res. 27:4040-4049 (1999).
+XX
+//

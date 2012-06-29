@@ -1,0 +1,245 @@
+AC  M01873
+XX
+ID  V$EGR1_Q6
+XX
+DT  12.04.2011 (created); mkl.
+DT  02.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Egr-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00807; V$EGR_Q6;  (family).
+HP  M00982; V$KROX_Q6;  (family).
+XX
+BF  T14429; Egr-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T14430; Egr-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T14186; Egr-1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T00241; Egr-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09462; Egr-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10531; Egr-1; Species: Mammalia; site(s) included: yes.
+BF  T02340; Egr-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00244; Egr-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10013; Egr-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14617; Egr-1; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T14618; Egr-1; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T05807; Egr-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T01200; Egr-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10132; Egr-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5     27    141     11      G
+02     21    117     20     26      C
+03      2      2    181      0      G
+04     11     13    128     33      G
+05     11      6    167      1      G
+06      1      0    182      2      G
+07      0      2    182      0      G
+08     17    138      7     23      C
+09      5      7    169      4      G
+10     21     24    115     20      G
+XX
+BA  188 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCGGGGGCGG; R00721; 9; 10;; p.
+BS  GGGCGGGTGA; R01614; 12; 10;; p.
+BS  GCGGGGGCGA; R01615; 6; 10;; n.
+BS  GCGGGGGCAA; R01616; 7; 10;; p.
+BS  GCGTGGGCGG; R03721; 1; 10;; p.
+BS  GAGTAGGCGC; R04733; -4; 10;; n.
+BS  GCGGGGGCGC; R04739; 8; 10;; p.
+BS  GAGAGGGCGG; R04748; 13; 10;; p.
+BS  CTGGGGGCGT; R04749; 11; 10;; n.
+BS  GCGGGGGCGG; R04853; 6; 10;; n.
+BS  GCGGGGGCGA; R04878; 6; 10;; n.
+BS  GCGGGGGCGG; R04893; 9; 10;; n.
+BS  GGGAGGGGGG; R04894; 7; 10;; n.
+BS  CGGGGGGAGG; R04907; 1; 10;; n.
+BS  CCGTGGGTGn; R04913; -1; 10;; n.
+BS  GAGGAGGAGG; R04926; 4; 10;; n.
+BS  GCGGAGGAGG; R04927; 3; 10;; n.
+BS  TTGGGGGCGA; R09545; -1; 10;; n.
+BS  GCGTAGGCGC; R10929; 1; 10;; n.
+BS  AAGGGGGTGG; R13412; 8; 10;; n.
+BS  GCGCGGGCGG; R14442; 7; 10;; n.
+BS  GCGCGGGCTC; R14539; 15; 10;; p.
+BS  GCGGGGGCGG; R14632; 3; 10;; n.
+BS  TTGTGGGCGG; R14693; 2; 10;; p.
+BS  AAGTGGGTGT; R14704; 14; 10;; p.
+BS  GCGGGGGCGG; R14966; 10; 10;; n.
+BS  GGGCGGGGGC; R15104; 7; 10;; p.
+BS  GCGGGGGCGG; R15703; 10; 10;; p.
+BS  GCGGAGGCGG; R16446; 11; 10;; p.
+BS  GCGGGGGCCA; R16963; 7; 10;; p.
+BS  GGGAGGGCGG; R17082; 2; 10;; p.
+BS  GCGGGGGCGg; R17109; 11; 10;; n.
+BS  GCGGGGGAGG; R19606; 8; 10;; p.
+BS  CCGGGGGCGG; R20418; 21; 10;; p.
+BS  TTGCGTGGGC; R20511; 16; 10;; n.
+BS  GCGGGGGCGG; R20852; 8; 10;; n.
+BS  GCGGGGGCGG; R20856; 8; 10;; p.
+BS  GCGGGGGCGG; R20893; 17; 10;; p.
+BS  CAGGGGGCGG; R20909; 10; 10;; p.
+BS  GCGTGGGCGG; R21167; 11; 10;; p.
+BS  TCGGGGGCGT; R21248; 6; 10;; p.
+BS  CTGGCGGCGC; R21337; 3; 10;; p.
+BS  GCGGGGGCGG; R21427; 6; 10;; n.
+BS  GCGGGGGGGA; R21428; 7; 10;; p.
+BS  GTGGGGGTGG; R21517; 9; 10;; n.
+BS  GCGGGGGCGG; R21725; 11; 10;; p.
+BS  GAGTGGGCGA; R21790; 5; 10;; p.
+BS  GCGGGGGCGG; R22372; 12; 10;; p.
+BS  CTGGGGGCGG; R22377; 17; 10;; p.
+BS  GCGGGGGTGG; R22637; 16; 10;; n.
+BS  GCGGGGGTGG; R22669; 14; 10;; p.
+BS  GAGTGGGCGG; R22789; 11; 10;; p.
+BS  GCGTCAGAGA; R22991; 16; 10;; p.
+BS  GAGTGGGTGT; R23685; 5; 10;; p.
+BS  GCGAGGGGGC; R23776; 12; 10;; p.
+BS  GAGTGGGCGA; R23814; 3; 10;; p.
+BS  AGGTGGGTGG; R23848; 4; 10;; n.
+BS  GCGGGGGAGA; R23851; 9; 10;; n.
+BS  TTGGGGGTGG; R23852; 13; 10;; p.
+BS  GTGGGGGCGT; R23858; 9; 10;; p.
+BS  GAGGCGGGCG; R23860; 11; 10;; p.
+BS  GGAGGGGCGG; R23862; 17; 10;; p.
+BS  GCGCGGGCGG; R23889; 17; 10;; n.
+BS  GCGGGGGCGG; R23903; 7; 10;; n.
+BS  GCGGGGGCGG; R24090; 5; 10;; n.
+BS  CTGGGGGCGG; R24139; 7; 10;; n.
+BS  GCGTAGGAGG; R24140; 4; 10;; p.
+BS  GCGGGGGCGC; R24149; 8; 10;; p.
+BS  GCGGGGGTGG; R24155; 4; 10;; p.
+BS  GAGGGGGCGG; R24190; 9; 10;; p.
+BS  GCGGGGGCGG; R24208; 8; 10;; p.
+BS  GCGGGGGAGA; R24214; 21; 10;; p.
+BS  GCGGGGGCGG; R24219; 8; 10;; p.
+BS  GCGGGGGCCG; R24238; 6; 10;; n.
+BS  GCGGGGGCGG; R24256; 10; 10;; p.
+BS  GCGGTGGCGT; R24258; 15; 10;; n.
+BS  GGGCGGGCGC; R24259; 14; 10;; p.
+BS  GCGGGGGCGG; R24288; 2; 10;; n.
+BS  GCGGGGGCGG; R24456; 7; 10;; p.
+BS  GCGGGGGCTG; R24475; 7; 10;; n.
+BS  GTGGGGGCGG; R24476; 5; 10;; n.
+BS  GCGGGGGCGA; R24501; 8; 10;; n.
+BS  GCGCGGGCGG; R24608; 5; 10;; p.
+BS  GCGGGGGCGG; R24612; 9; 10;; p.
+BS  GCGGGGGCGG; R24621; 5; 10;; p.
+BS  GCGGGGGCGG; R24638; 10; 10;; n.
+BS  TCGGGGGCGG; R24693; 10; 10;; n.
+BS  GCGGGGGTGA; R24695; 8; 10;; p.
+BS  GAGGGGGCGC; R24730; -1; 10;; n.
+BS  GCGGGGGCGG; R24733; 5; 10;; n.
+BS  GCGGGGGCGG; R24762; 4; 10;; n.
+BS  GCGGGGCCGT; R24773; 14; 10;; p.
+BS  GGGAGGGCGG; R24774; 11; 10;; p.
+BS  GCGGAGGCGG; R24775; 16; 10;; n.
+BS  GCGCGGGCGG; R24789; 8; 10;; n.
+BS  GCGGAGGCGG; R24799; 13; 10;; p.
+BS  GCGGGGGCGG; R24825; 7; 10;; n.
+BS  GCGGGGGCGG; R24837; 5; 10;; p.
+BS  GCGGGGGCGG; R24846; 19; 10;; n.
+BS  GTGGGGGCGG; R24883; 19; 10;; n.
+BS  CGGAGGGCGT; R24887; 10; 10;; n.
+BS  GTGGGGGCGG; R24889; 6; 10;; n.
+BS  GCGGGGGCGG; R24898; 15; 10;; p.
+BS  GCGGGGGAGG; R24913; 6; 10;; n.
+BS  GCGCGGGCGT; R24915; 5; 10;; n.
+BS  GCGGGGGCGC; R24952; 7; 10;; p.
+BS  GCGGGGGCGG; R24954; 7; 10;; p.
+BS  GCGGGGGCGG; R24957; 17; 10;; n.
+BS  GCGGGGGCAG; R25006; 7; 10;; p.
+BS  GCGTGGGCTG; R25101; 17; 10;; p.
+BS  ACGTGGGCCC; R25112; 20; 10;; p.
+BS  GGGGGGGCGG; R25224; 7; 10;; p.
+BS  GCGTAGGAGG; R25639; 16; 10;; p.
+BS  GCGGGGGCAG; R26545; 7; 10;; n.
+BS  GCGGGGGCGG; R26567; 4; 10;; p.
+BS  GAGGAGGCGT; R26626; 8; 10;; p.
+BS  GCGGGGGTGG; R26689; 15; 10;; p.
+BS  GAGGGGGCGC; R26893; 9; 10;; p.
+BS  GCGTGGGCGG; R27602; 7; 10;; p.
+BS  GAGGGGGAGA; R27981; 15; 10;; p.
+BS  GCGGGGGCGt; R28440; 8; 10;; n.
+BS  GCGGGGGAGC; R28441; 8; 10;; n.
+BS  GCGAGGGCGG; R28564; 5; 10;; p.
+BS  GCGTGGGTGG; R28594; 9; 10;; p.
+BS  GGGTGGGCGG; R28595; 10; 10;; n.
+BS  GCGTGGGCTT; R28596; 10; 10;; n.
+BS  GTGGGGGTGG; R29057; 14; 10;; n.
+BS  GAGTGGGAGA; R29058; 15; 10;; p.
+BS  GTGGGGGTGG; R29653; 17; 10;; n.
+BS  GAGTGGGTGT; R29700; 7; 10;; p.
+BS  TTCTGGGCGG; R29706; 4; 10;; p.
+BS  GCGGGGGCGG; R30147; 1; 10;; n.
+BS  CCGGGGGCGc; R30152; 4; 10;; n.
+BS  AGGAGGGCGG; R30528; -1; 10;; p.
+BS  GCGGGGGCGG; R30577; 4; 10;; n.
+BS  CGAGGGGCGT; R31057; 6; 10;; p.
+BS  GGGTGGGCGG; R31061; 10; 10;; p.
+BS  CTGGGGGCGG; R31064; 11; 10;; n.
+BS  GCGGGGGCGC; R31103; 3; 10;; n.
+BS  TCGAATGCAA; R31104; 3; 10;; p.
+BS  CCGGGGGCGn; R31114; -1; 10;; n.
+BS  CCGGGGGCGn; R31115; 2; 10;; p.
+BS  CCGGCGGCCG; R31121; -2; 10;; n.
+BS  GAGTGGGAGG; R31202; 11; 10;; p.
+BS  TTGGGGGCGT; R31582; 6; 10;; n.
+BS  TTGGGGGCGT; R31585; 6; 10;; n.
+BS  GCGTGGGCGG; R31815; 12; 10;; n.
+BS  GTGGGGGCGT; R31842; 20; 10;; n.
+BS  GCGGCGGCGG; R31956; 7; 10;; p.
+BS  GCGGGGGCGG; R31996; 10; 10;; n.
+BS  CCGGGGCCGC; R32080; 9; 10;; p.
+BS  CCGGGGGCGG; R32150; 7; 10;; p.
+BS  CGGTGGGCGG; R32154; 13; 10;; n.
+BS  GTGTGGGAGG; R32209; 9; 10;; p.
+BS  GGCGGGGCGG; R32429; 13; 10;; p.
+BS  GCGGGGGCGG; R32796; 21; 10;; p.
+BS  CCGGGGGCGG; R32814; 20; 10;; n.
+BS  CCGGGGGCGa; R32821; 20; 10;; n.
+BS  GCGGGGGCCA; R32853; 11; 10;; p.
+BS  CCGGGGGCGC; R32871; 8; 10;; n.
+BS  GCGGGGGCGG; R32874; 16; 10;; n.
+BS  GTGGGGGCGg; R32995; 16; 10;; n.
+BS  CCGGGGGCGa; R32998; 21; 10;; n.
+BS  GCGGGGGCGG; R33390; 5; 10;; p.
+BS  GTGTGGGTGT; R33405; 15; 10;; n.
+BS  GTGTGGGTGn; R33406; 2; 10;; p.
+BS  nnGTGGGTGT; R33407; 10; 10;; n.
+BS  GCGGGGGTGA; R33614; 9; 10;; n.
+BS  TCGGGGGCGC; R34174; 6; 10;; n.
+BS  CCGCGGNTGC; R34258; 21; 10;; p.
+BS  GCGGGGGCGG; R34429; 8; 10;; n.
+BS  GAGAGGGCAG; R34788; -2; 10;; p.
+BS  GCGGGGGAGG; R34789; 8; 10;; p.
+BS  GCGGGGGCGG; R34791; 5; 10;; p.
+BS  GTGGGGGGGC; R34809; 2; 10;; p.
+BS  CAGCGGGCGG; R34892; 7; 10;; n.
+BS  CCGGGGGCGG; R35461; 9; 10;; p.
+BS  GGGGGGGCGC; R35463; 8; 10;; n.
+BS  CGGGGGGCGG; R35466; 8; 10;; n.
+BS  CCGGGGGCGG; R35467; 8; 10;; p.
+BS  GGGGCGGAGC; R35468; 13; 10;; p.
+BS  GTGTGGGTGT; R36015; -1; 10;; n.
+BS  GCGGGGGCCn; R36899; 1; 10;; p.
+BS  GCGCGGGCGG; R37462; 7; 10;; n.
+BS  GCGAGGGCGG; R37704; 5; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0072507.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+RN  [2]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

@@ -1,0 +1,63 @@
+AC  M00506
+XX
+ID  P$LIM1_01
+XX
+DT  17.10.2001 (created); rge.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LIM1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T04817; LIM1; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     17      0      2      C
+02      2     15      1      2      C
+03     14      1      1      4      A
+04      3     15      1      1      C
+05      5     10      3      2      C
+06     14      0      0      6      A
+07      8      5      3      4      N
+08     10      6      2      2      M
+09      4      8      3      5      N
+10      4      9      1      6      N
+11      5     11      2      2      C
+12      2      6      5      7      N
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAACCACTAAAG; R11284; 5; 12;; p.
+BS  TCTCAAGACCCC; R11286; 5; 12;; p.
+BS  CGACCACAATAG; R11287; 5; 12;; p.
+BS  CCAATACTGGAC; R11288; 5; 12;; p.
+BS  CCTCATACTCAT; R11289; 5; 12;; p.
+BS  CCATCAAGCTCT; R11290; 5; 12;; p.
+BS  CCACTATCACCC; R11291; 5; 12;; p.
+BS  CTCCCAAGCCCA; R11292; 5; 12;; p.
+BS  AAACCAAACTCT; R11293; 5; 12;; p.
+BS  CCACCTTCTCTG; R11294; 5; 12;; p.
+BS  CCACGTCACCCC; R11295; 5; 12;; p.
+BS  CCACATAAGCCT; R11296; 5; 12;; p.
+BS  CCACCTTCTCTG; R11297; 5; 12;; p.
+BS  CCGACAAACACT; R11298; 5; 12;; p.
+BS  CCACCACATTGG; R11299; 5; 12;; p.
+BS  CTTGGAAACTCC; R11300; 5; 12;; p.
+BS  TCACAAGCCTCT; R11301; 5; 12;; p.
+BS  CCACATGCAACT; R11302; 5; 12;; p.
+BS  CCTCCAAATCAC; R11303; 5; 12;; p.
+BS  CCAAGATAGAGA; R11304; 5; 12;; p.
+XX
+CC  sequences selected with recombinant LIM1 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0016954.
+RX  PUBMED: 10849346.
+RA  Kawaoka A., Kaothien P., Yoshida K., Endo S., Yamada K., Ebinuma H.
+RT  Functional analysis of tobacco LIM protein Ntlim1 involved in lignin biosynthesis
+RL  Plant J. 22:289-301 (2000).
+XX
+//

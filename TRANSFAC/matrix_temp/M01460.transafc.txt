@@ -1,0 +1,55 @@
+AC  M01460
+XX
+ID  V$HOXB6_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXB6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01732; HOXB6; Species: human, Homo sapiens; site(s) included: no.
+BF  T01733; HOXB6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09940; HOXB6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09933; HOXB6-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T18712; HOXB6-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.29   0.14   0.06   0.52      W
+02   0.55   0.10   0.08   0.28      W
+03   0.18   0.04   0.18   0.60      T
+04   0.18   0.10   0.35   0.38      N
+05   0.17   0.30   0.33   0.20      N
+06   0.07   0.11   0.67   0.14      G
+07   0.02   0.20   0.02   0.76      T
+08   0.83   0.12   0.02   0.03      A
+09   0.95   0.01   0.01   0.02      A
+10   0.02   0.01   0.01   0.95      T
+11   0.03   0.02   0.12   0.83      T
+12   0.76   0.02   0.20   0.02      A
+13   0.11   0.74   0.06   0.09      C
+14   0.20   0.33   0.30   0.17      N
+15   0.26   0.13   0.29   0.32      N
+16   0.18   0.25   0.24   0.33      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0061.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

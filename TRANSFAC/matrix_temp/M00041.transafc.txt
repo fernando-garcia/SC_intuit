@@ -1,0 +1,80 @@
+AC  M00041
+XX
+ID  V$CREBP1CJUN_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  22.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF2:c-Jun
+XX
+DE  CRE-binding protein 1:c-Jun heterodimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00172; V$AP1FJ_Q2; activator protein 1 (family).
+HP  M00517; V$AP1_01;  (family).
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00924; V$AP1_Q2_01;  (family).
+HP  M00925; V$AP1_Q6_01;  (family).
+HP  M00926; V$AP1_Q4_01;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+HP  M02280; V$AP1_02; class: Zipper-Type; family: Leucine Zipper (specific).
+XX
+BF  T10136; ATF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10236; ATF-2; Species: Mammalia; site(s) included: no.
+BF  T10238; ATF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01382; ATF-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10203; ATF-2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02056; ATF-2-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18791; ATF-2-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10202; ATF-2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01017; ATF-2-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09335; ATF-2-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02036; ATF-2-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10213; ATF-2-xbb3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00167; ATF-2-xbb4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15626; c-Jun; Species: cattle, Bos taurus; site(s) included: no.
+BF  T15627; c-Jun; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00134; c-Jun; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10315; c-Jun; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15585; c-Jun; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T02830; c-Jun; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T17873; c-Jun; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T00135; c-Jun; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T00133; c-Jun; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08461; c-Jun; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01976; c-Jun; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: no.
+BF  T09446; c-Jun; Species: Mammalia; site(s) included: no.
+BF  T08950; c-Jun; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T00131; c-Jun; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08587; c-Jun; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08071; c-Jun; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T00132; c-Jun; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08466; c-Jun; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15665; c-Jun; Species: sheep, Ovis aries; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      1      0     42      T
+02      2      0     41      0      G
+03     43      0      0      0      A
+04      0     43      0      0      C
+05      2      1     40      0      G
+06      0      0      0     43      T
+07      0     20      3     20      Y
+08     40      1      0      2      A
+XX
+BA  43 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant ATF2:c-Jun from a pool of double-stranded oligonucleotides containing a core of 44 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0002915.
+RX  PUBMED: 8190638.
+RA  Benbrook D. M., Jones N. C.
+RT  Different binding specificities and transactivation of variant CRE's by CREB complexes
+RL  Nucleic Acids Res. 22:1463-1469 (1994).
+XX
+//

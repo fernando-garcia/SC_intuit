@@ -1,0 +1,53 @@
+AC  M00015
+XX
+ID  F$ABF1_01
+XX
+DT  16.11.1992 (created); ewi.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ABF1
+XX
+DE  ARS binding factor 1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00056; ABF1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T10754; Abf1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      6      3      7      N
+02      6     10      4      4      N
+03     13      0      4      7      W
+04      4      6      4     10      N
+05     15      0      9      0      R
+06      0      0      1     23      T
+07      1     23      0      0      C
+08     18      0      5      1      A
+09      0     10      0     14      Y
+10      1      3      4     16      T
+11     11      4      3      6      N
+12      4      4      1     15      T
+13     13      2      4      5      A
+14      6      5      5      8      N
+15     24      0      0      0      A
+16      0     24      0      0      C
+17      0      0     24      0      G
+18     10      0      6      8      D
+19     12      3      5      4      A
+20      9      5      3      6      N
+21      6      7      6      4      N
+22      7      4      2     10      N
+XX
+BA  24 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0000935.
+RX  PUBMED: 2203770.
+RA  Della Seta F., Treich I., Buhler J.-M., Sentenac A.
+RT  ABF1 binding sites in yeast RNA polymerase genes
+RL  J. Biol. Chem. 265:15168-15175 (1990).
+XX
+//

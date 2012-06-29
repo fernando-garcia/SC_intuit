@@ -1,0 +1,63 @@
+AC  M01736
+XX
+ID  F$REB1_Q5
+XX
+DT  26.04.2010 (created); dtc.
+DT  04.05.2010 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  REB1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00725; Reb1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      9      8      0      S
+02      3     19      0      0      C
+03      0      0     22      0      G
+04      0      0     22      0      G
+05      0      0     22      0      G
+06      0      0      0     22      T
+07     15      0      6      1      A
+08     19      0      3      0      A
+09      2     10      3      5      C
+10     10      3      4      3      A
+11      9      1      8      2      R
+XX
+BA  22 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ccgggtgacag; R00020; 7; 11;; n.
+BS  ccgggtaatga; R00206; 5; 11;; n.
+BS  GCGGGTGACAG; R00489; -1; 11;; p.
+BS  gcgggtagcgg; R01304; 7; 11;; n.
+BS  gcgggtgagcg; R01467; 7; 11;; n.
+BS  cagggtaagtg; R01600; 7; 11;; n.
+BS  ccgggtaagag; R01601; 7; 11;; n.
+BS  ccgggtaaccc; R03753; 4; 11;; n.
+BS  CCGGGTAAAAA; R04027; 6; 11;; p.
+BS  ncgggttannn; R12340; -3; 11;; n.
+BS  ncgggtaannn; R12342; -3; 11;; n.
+BS  acgggtgaatg; R23854; 3; 11;; n.
+BS  GCGGGTAGCAA; R24694; 11; 11;; p.
+BS  CCGGGTAATGA; R24699; 5; 11;; p.
+BS  GCGGGTGACAG; R24769; 8; 11;; p.
+BS  gagggtaacat; R24777; 64; 11;; n.
+BS  gcgggtaatga; R28208; 1; 11;; n.
+BS  GCGGGTAACTA; R29537; 10; 11;; p.
+BS  acgggtaatct; R29707; 7; 11;; n.
+BS  acgggtaacaa; R30009; 7; 11;; n.
+BS  CCGGGTGGCAA; R30010; 12; 11;; p.
+BS  cagggtaataa; R30011; 6; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

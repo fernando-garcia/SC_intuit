@@ -1,0 +1,54 @@
+AC  M01417
+XX
+ID  V$ALX4_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  11.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Alx-4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04012; Alx-4; Species: human, Homo sapiens; site(s) included: no.
+BF  T11400; Alx-4; Species: human, Homo sapiens; site(s) included: no.
+BF  T02967; Alx-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09355; Alx-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16612; Alx-4; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.16   0.59   0.15   0.11      C
+02    0.1   0.24   0.56    0.1      G
+03   0.19   0.44   0.16   0.21      N
+04    0.4   0.15   0.29   0.16      N
+05   0.02   0.34   0.01   0.62      Y
+06   0.01   0.08      0   0.92      T
+07   0.99   0.01   0.01      0      A
+08   0.98      0   0.01   0.01      A
+09   0.01   0.01      0   0.98      T
+10      0   0.01   0.01   0.99      T
+11   0.92      0   0.08   0.01      A
+12   0.62   0.01   0.34   0.02      R
+13   0.17   0.23   0.18   0.42      N
+14   0.29   0.28   0.13    0.3      N
+15   0.36   0.23   0.19   0.22      N
+16   0.23   0.29   0.25   0.23      N
+17   0.12   0.43   0.21   0.24      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

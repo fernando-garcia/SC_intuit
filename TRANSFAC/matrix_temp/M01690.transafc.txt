@@ -1,0 +1,51 @@
+AC  M01690
+XX
+ID  F$DAL81_01
+XX
+DT  22.02.2010 (created); mkl.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DAL81
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03293; DAL81; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     20      0      0      0      A
+02     20      0      0      0      A
+03     20      0      0      0      A
+04     20      0      0      0      A
+05      0      0     20      0      G
+06      0     20      0      0      C
+07      0     20      0      0      C
+08      0      0     20      0      G
+09      0     20      0      0      C
+10      0      0     20      0      G
+11      0      0     20      0      G
+12      0      0     20      0      G
+13      0     20      0      0      C
+14      0      0     20      0      G
+15      0      0     20      0      G
+16      0      0     20      0      G
+17     20      0      0      0      A
+18      0      0      0     20      T
+19      0      0      0     20      T
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  used PhyloCon and Converge for ChIP Motifs approach
+XX
+DR  JASPAR: MA0290.
+XX
+RN  [1]; RE0065640.
+RX  PUBMED: 16522208.
+RA  Macisaac K. D., Wang T., Gordon D. B., Gifford D. K., Stormo G. D., Fraenkel E.
+RT  An improved map of conserved regulatory sites for Saccharomyces cerevisiae.
+RL  BMC Bioinformatics 7:113 (2006).
+XX
+//

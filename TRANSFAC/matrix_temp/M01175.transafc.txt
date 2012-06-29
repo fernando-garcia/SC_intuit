@@ -1,0 +1,54 @@
+AC  M01175
+XX
+ID  V$CKROX_Q2
+XX
+DT  12.03.2008 (created); dtc.
+DT  18.03.2008 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CKROX
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T10066; c-Krox; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10067; c-Krox; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10045; c-Krox; Species: Mammalia; site(s) included: yes.
+BF  T09540; c-Krox; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09541; c-Krox; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10189; c-Krox; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      4      4      2      S
+02      0     10      0      0      C
+03      0     10      0      0      C
+04      0     10      0      0      C
+05      0      0      3      7      T
+06      0      9      1      0      C
+07      0     10      0      0      C
+08      0     10      0      0      C
+09      1      6      2      1      C
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  gccctcccc; R19733; 8; 9;; n.
+BS  GCCCTCCCA; R19734; 13; 9;; p.
+BS  TCCCTCCCC; R20202; 6; 9;; p.
+BS  cccctcccg; R20205; 5; 9;; n.
+BS  GCCCGCCCG; R20454; 11; 9;; p.
+BS  cccctcccc; R20571; 7; 9;; n.
+BS  cccctgccc; R20572; 10; 9;; n.
+BS  tcccgccct; R20575; 27; 9;; n.
+BS  gcccgcccc; R20576; 16; 9;; n.
+BS  CCCCTCCCC; R20577; 8; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+XX
+//

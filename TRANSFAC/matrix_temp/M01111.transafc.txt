@@ -1,0 +1,62 @@
+AC  M01111
+XX
+ID  V$RBPJK_Q4
+XX
+DT  21.04.2006 (created); dtc.
+DT  24.04.2006 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RBP-Jkappa
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01616; RBPJK; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16056; RBPJK; Species: Mammalia; site(s) included: no.
+BF  T16118; RBPJK; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01617; RBPJK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09441; RBPJK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16124; RBPJK; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T16116; RBPJK; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16117; RBPJK; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19281; RBPJK-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15292; RBPJK-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19282; RBPJK-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19283; RBPJK-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19280; RBPJK-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19284; RBPJK-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     10      T
+02      0      0      0     10      T
+03      0     10      0      0      C
+04      0     10      0      0      C
+05      0     10      0      0      C
+06     10      0      0      0      A
+07      0      7      0      3      C
+08      2      0      5      3      K
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ttcccacg; R12363; 1; 8;; n.
+BS  TTCCCACA; R12706; 6; 8;; p.
+BS  TTCCCACA; R12706; 6; 8;; p.
+BS  TTCCCATG; R12708; 16; 8;; p.
+BS  ttcccaca; R12717; 10; 8;; n.
+BS  ttcccatg; R12718; 13; 8;; n.
+BS  ttcccact; R12720; 15; 8;; n.
+BS  ttcccacg; R12721; 13; 8;; n.
+BS  ttcccact; R12722; 13; 8;; n.
+BS  ttcccatt; R12723; 12; 8;; n.
+BS  ttcccacg; R12724; 9; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+XX
+//

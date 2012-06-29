@@ -1,0 +1,38 @@
+AC  M01030
+XX
+ID  F$RIM101_01
+XX
+DT  15.11.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Rim101p
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T06356; Rim101p; Species: Candida albicans strain SC5314 (Yeast); site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     21      0      2      C
+02      0     23      0      0      C
+03     19      2      2      0      A
+04     23      0      0      0      A
+05      0      0     22      1      G
+06     10      7      2      4      N
+07     16      5      0      1      A
+08     14      5      0      2      A
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Rim101p from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0025121.
+RX  PUBMED: 12912891.
+RA  Ramon A. M., Fonzi W. A.
+RT  Diverged binding specificity of Rim101p, the Candida albicans ortholog of PacC.
+RL  Eukaryot. Cell 2:718-728 (2003).
+XX
+//

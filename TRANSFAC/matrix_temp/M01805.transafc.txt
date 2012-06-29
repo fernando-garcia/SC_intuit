@@ -1,0 +1,41 @@
+AC  M01805
+XX
+ID  A$CGD2
+XX
+DT  28.09.2010 (created); sla.
+DT  13.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Cgd2
+XX
+TY  specific
+XX
+BF  T18454; Cgd2; Species: Cryptosporidium parvum Iowa II; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.31   0.31   0.14   0.24      N
+02   0.27   0.29    0.2   0.24      N
+03   0.28   0.43   0.11   0.19      N
+04      0   0.64   0.01   0.35      Y
+05   0.01      0   0.99      0      G
+06      0   0.99      0      0      C
+07   0.99      0      0      0      A
+08      0      0      0   0.99      T
+09      0      0   0.99      0      G
+10      0   0.98      0   0.01      C
+11   0.65      0   0.34      0      R
+12   0.16   0.27   0.18   0.38      N
+13   0.11   0.37   0.31   0.21      N
+14   0.13   0.48   0.17   0.22      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+RN  [1]; RE0068174.
+RX  PUBMED: 18541913.
+RA  De Silva E. K., Gehrke A. R., Olszewski K., Leon I., Chahal J. S., Bulyk M. L., Llinas M.
+RT  Specific DNA-binding by apicomplexan AP2 transcription factors.
+RL  Proc. Natl. Acad. Sci. USA 105:8393-8398 (2008).
+XX
+//

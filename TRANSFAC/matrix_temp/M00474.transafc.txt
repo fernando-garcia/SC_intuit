@@ -1,0 +1,75 @@
+AC  M00474
+XX
+ID  V$FOXO1_02
+XX
+DT  06.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXO1
+XX
+DE  fork head box O1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01216; V$FOXO1_Q5;  (family).
+XX
+BF  T02936; FOXO1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10353; FOXO1A; Species: human, Homo sapiens; site(s) included: no.
+BF  T14067; FOXO1A; Species: Mammalia; site(s) included: no.
+BF  T04203; FOXO1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09104; FOXO1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17666; FOXO1A; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      1     11      4      G
+02      4      2      4     10      N
+03      3      5      8      5      N
+04      2      1      0     18      T
+05      0      0      0     21      T
+06      0      0     21      0      G
+07      1      0      0     20      T
+08      1      0      0     20      T
+09      0      0      1     20      T
+10     19      0      0      2      A
+11      0     20      0      1      C
+12      7      1      7      5      N
+13      3      3      3     11      T
+14      0      5      4     10      T
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GAGTTGTTTAC; R10898; 22; 14; 33, 34, 35; p.
+BS  TTATTGTTTACAT; R10899; 20; 14; 33; p.
+BS  GGCTTGTTTACGTC; R10900; 19; 14;; p.
+BS  TTGTTGTTGTCATT; R10901; 17; 14;; p.
+BS  AAGTTGTTTACGTT; R10902; 17; 14;; p.
+BS  GTCTTGTTTACTAG; R10903; 16; 14;; p.
+BS  GTCTTGAATACTGT; R10904; 16; 14;; p.
+BS  AGGTTGTTTACATT; R10905; 15; 14;; p.
+BS  GGGTTGTTTACATC; R10906; 13; 14;; p.
+BS  TTATTGTTTACGTC; R10907; 11; 14;; p.
+BS  CCTATGTTTACCAG; R10908; 10; 14;; p.
+BS  AGTTTGTTTACAGC; R10909; 9; 14;; p.
+BS  GTCTTGTTTACGCC; R10910; 9; 14;; p.
+BS  GAGTTGTTTACTCT; R10911; 7; 14;; p.
+BS  ATGTTGTTTTTGCG; R10912; 6; 14;; p.
+BS  TTATTGTTTACTGT; R10913; 3; 14;; p.
+BS  GTCCTGTTTACATT; R10914; 1; 14;; p.
+BS  GTTTTGTTTACAAT; R10915; 1; 14;; p.
+BS  GATTTGTTTACGTT; R10916; 1; 14;; p.
+BS  GCTATGTTTACGTT; R10917; 1; 14;; p.
+BS    GTTGTTTACTTG; R10918; 1; 14; 1, 2; p.
+XX
+CC  sequences selected with recombinant FOXO1 from a pool of double-stranded oligonucleotides containing a core of 32 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0016824.
+RX  PUBMED: 10880363.
+RA  Furuyama T., Nakazawa T., Nakano I., Mori N.
+RT  Identification of the differential distribution patterns of mRNAs and consensus binding sequences for mouse DAF-16 homologues
+RL  Biochem. J. 349:629-634 (2000).
+XX
+//

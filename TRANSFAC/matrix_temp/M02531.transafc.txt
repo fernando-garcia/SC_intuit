@@ -1,0 +1,48 @@
+AC  M02531
+AS  MA0412
+XX
+ID  F$UME6_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  UME6
+XX
+DE  class: Zinc-coordinating; family: Fungal Zn cluster
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01247; UME6; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      2      0      0     16      T
+02      0     10      5      3      C
+03      2      0     16      0      G
+04      0      0     18      0      G
+05      0     18      0      0      C
+06      0      0     18      0      G
+07      0      0     18      0      G
+08      0     17      0      1      C
+09      1      0      0     17      T
+10     18      0      0      0      A
+11     10      1      0      7      W
+12      7      2      1      8      W
+13      2      0      1     15      T
+XX
+BA  18 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0412.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

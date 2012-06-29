@@ -1,0 +1,65 @@
+AC  M01185
+XX
+ID  V$BCL6_02
+XX
+DT  16.04.2008 (created); vma.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BCL6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02322; BCL-6; Species: human, Homo sapiens; site(s) included: no.
+BF  T09129; BCL-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16043; BCL-6; Species: Mammalia; site(s) included: no.
+BF  T08156; BCL-6; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14189; BCL-6; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16051; Bcl-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16052; Bcl-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      1      5      W
+02      3      0      5      1      R
+03      0      9      0      0      C
+04      0      0      0     10      T
+05      0      0      0     10      T
+06      0      0      0     10      T
+07      0     10      0      0      C
+08      0      2      3      5      K
+09      8      0      0      2      A
+10      1      2      7      0      G
+11      1      0      9      0      G
+12      6      0      4      0      R
+13      7      1      0      2      A
+14      0      0      0     10      T
+XX
+BA  10 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTCTTTCGAGGAAT; R23990; 10; 14;; p.
+BS  AGCTTTCGAGGAAT; R23991; 8; 14;; p.
+BS  TACTTTCTAGGAAT; R23992; 4; 14;; p.
+BS  TGCTTTCTAGGGAT; R23993; 4; 14;; p.
+BS  TGCTTTCTAGGGAT; R23994; 4; 14;; p.
+BS  AACTTTCGAAAGCT; R23995; 3; 14;; p.
+BS  TACTTTCTAGGAAT; R23996; 11; 14;; p.
+BS  TGCTTTCTAGGGAT; R23997; 4; 14;; p.
+BS  AGCTTTCCTCGATT; R23998; 7; 14;; p.
+BS     TTTCCTCGATT; R23999; 1; 14; 1, 2, 3; p.
+XX
+CC  sequences selected with recombinant BCL6 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0052624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel122:0001 (2008).
+RN  [2]; RE0052169.
+RX  PUBMED: 7945383.
+RA  Kawamata N., Miki T., Ohashi K., Suzuki K., Fukuda T., Hirosawa S., Aoki N.
+RT  Recognition DNA sequence of a novel putative transcription factor, BCL6.
+RL  Biochem. Biophys. Res. Commun. 204:366-374 (1994).
+XX
+//

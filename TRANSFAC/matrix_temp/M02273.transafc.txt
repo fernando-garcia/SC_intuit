@@ -1,0 +1,49 @@
+AC  M02273
+AS  MA0160
+XX
+ID  V$NR4A2_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NR4A2
+XX
+DE  class: Zinc-coordinating; family: Hormone-nuclear Receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02742; NURR1; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T10108; NURR1; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      8      1      3      1      A
+02     13      0      1      0      A
+03      0      0     13      1      G
+04      3      0     11      0      G
+05      2      2      0     10      T
+06      0     13      0      1      C
+07     14      0      0      0      A
+08      3      8      2      0      C
+XX
+BA  13 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Annotations from PAZAR NR4A2_MOUSE + NR4A2_RAT + NR4A2_HUMAN (TF0000135, TF0000153, TF0000157) in the pleiades genes project
+XX
+DR  JASPAR: MA0160.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

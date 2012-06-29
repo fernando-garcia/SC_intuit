@@ -1,0 +1,55 @@
+AC  M00641
+XX
+ID  V$HSF_Q6
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HSF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01041; HSF; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00383; HSF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01044; HSF1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11469; HSF1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T10036; HSF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16989; HSF1; Species: Mammalia; site(s) included: no.
+BF  T11470; HSF1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00384; HSF1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05814; HSF1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0      5      T
+02      0      0      0      5      T
+03      0      5      0      0      C
+04      0      3      1      1      C
+05      3      2      0      0      M
+06      0      0      5      0      G
+07      3      1      1      0      A
+08      2      0      3      0      R
+09      0      0      5      0      G
+10      0      2      0      3      Y
+11      0      0      0      5      T
+12      0      0      0      5      T
+13      0      5      0      0      C
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTCGCGAAGTTTC; R00756; 11; 13;; p.
+BS  TTCCAGGGGTTTC; R00762; 1; 13;; n.
+BS  TTCTAGAGGCTTC; R00773; 1; 13;; n.
+BS  TTCCAGCAGTTTC; R03464; 3; 13;; n.
+BS  TTCCCGAGGCTTC; R03623; 7; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

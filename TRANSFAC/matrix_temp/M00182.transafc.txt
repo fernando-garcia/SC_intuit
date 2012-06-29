@@ -1,0 +1,36 @@
+AC  M00182
+XX
+ID  P$GBP_Q6
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GBP
+XX
+DE  G-box binding proteins
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+P0      A      C      G      T
+01      4      1      6      5      N
+02      4      2      8      2      N
+03      4      7      1      4      N
+04      0      9      5      2      S
+05     16      0      0      0      A
+06      0     16      0      0      C
+07      0      0     16      0      G
+08      0      1      0     15      T
+09      2      4      9      1      G
+10      4      2      8      2      N
+11      2     11      2      1      C
+12      8      5      3      0      M
+XX
+BA  16 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

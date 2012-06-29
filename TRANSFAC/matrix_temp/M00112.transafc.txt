@@ -1,0 +1,82 @@
+AC  M00112
+XX
+ID  I$CF1_02
+XX
+DT  11.05.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CF1 / USP
+XX
+DE  chorion factor 1
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00117; CF1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1     36      0      G
+02      2      0     36      0      G
+03      0      0     38      0      G
+04      0      0     38      0      G
+05      0      0      0     38      T
+06      0     36      1      1      C
+07     36      0      2      0      A
+08      4     25      3      6      C
+09      5     10     20      3      G
+XX
+BA  38 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGGGTCACG; R10931; 1; 9;; p.
+BS  GGGGTCACG; R10932; 2; 9;; p.
+BS  GGGGTCACG; R10933; 1; 9;; p.
+BS  GGGGTCAGC; R10934; 4; 9;; p.
+BS  GGGGTCACG; R10935; 1; 9;; p.
+BS  GGGGTCACG; R10936; 5; 9;; p.
+BS  GGGGTCACG; R10937; 1; 9;; p.
+BS  GGGGTCACG; R10938; 1; 9;; p.
+BS  GGGGTCACG; R10939; 3; 9;; p.
+BS  GGGGTCACG; R10940; 7; 9;; p.
+BS  GGGGTCACG; R10941; 3; 9;; p.
+BS  GGGGTCACG; R10942; 10; 9;; p.
+BS  GGGGTCACG; R10943; 10; 9;; p.
+BS  GGGGTCACG; R10944; 1; 9;; p.
+BS  GGGGTCACG; R10945; 1; 9;; p.
+BS  GGGGTCACG; R10946; 1; 9;; p.
+BS  GGGGTCACT; R10947; 1; 9;; p.
+BS  GGGGTCAGG; R10948; 11; 9;; p.
+BS  GGGGTCACC; R10949; 1; 9;; p.
+BS  GGGGTCATC; R10950; 12; 9;; p.
+BS  GGGGTCAAG; R10951; 1; 9;; p.
+BS  GGGGTCACA; R10952; 1; 9;; p.
+BS  GGGGTCACC; R10953; 11; 9;; p.
+BS  GGGGTCAAG; R10954; 1; 9;; p.
+BS  GGGGTCACC; R10955; 3; 9;; p.
+BS  GGGGTCACA; R10956; 1; 9;; p.
+BS  GGGGTCACC; R10957; 3; 9;; p.
+BS  GGGGTCATG; R10958; 10; 9;; p.
+BS  GGGGTCAAC; R10959; 1; 9;; p.
+BS  GGGGTCATC; R10960; 1; 9;; p.
+BS  GGGGTGACA; R10961; 1; 9;; p.
+BS  GGGGTCAGC; R10962; 2; 9;; p.
+BS  GGGGTCATC; R10963; 1; 9;; p.
+BS  GGGGTCATT; R10964; 1; 9;; p.
+BS  GGGGTCAAT; R10965; 1; 9;; p.
+BS  AAGGTCACG; R10966; 7; 9;; p.
+BS  GGGGTTGTA; R10967; 1; 9;; p.
+BS  CAGGTCGCA; R10968; 2; 9;; p.
+XX
+CC  sequences selected with recombinant CF1 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0016.
+XX
+RN  [1]; RE0003005.
+RX  PUBMED: 1280827.
+RA  Christianson A. M. K., King D. L., Hatzivassiliou E., Casas J. E., Hallenbeck P. L., Nikodem V. M., Mitsialis S. A., Kafatos F. C.
+RT  DNA binding and heteromerization of the Drosophila transcription factor chorion factor 1/ultraspiracle
+RL  Proc. Natl. Acad. Sci. USA 89:11503-11507 (1992).
+XX
+//

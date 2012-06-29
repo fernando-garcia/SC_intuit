@@ -1,0 +1,52 @@
+AC  M01432
+XX
+ID  V$HOXD8_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXD8
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01426; HOXD8; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.13   0.12    0.2   0.55      T
+02    0.6   0.12   0.11   0.16      A
+03    0.6   0.08    0.2   0.11      A
+04   0.33   0.05   0.29   0.33      N
+05   0.07   0.23   0.01   0.69      T
+06   0.72   0.12   0.03   0.12      A
+07   0.92   0.02   0.02   0.04      A
+08   0.04   0.01   0.01   0.94      T
+09   0.05   0.01      0   0.94      T
+10   0.95      0   0.01   0.03      A
+11   0.79   0.05   0.02   0.13      A
+12   0.07   0.09   0.05   0.79      T
+13   0.35   0.04   0.47   0.14      R
+14   0.24   0.07   0.56   0.13      G
+15   0.19    0.5   0.08   0.24      N
+16   0.19   0.09   0.14   0.59      T
+17   0.36   0.21   0.18   0.25      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0080.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

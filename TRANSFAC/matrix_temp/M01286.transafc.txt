@@ -1,0 +1,37 @@
+AC  M01286
+XX
+ID  V$SOX_01
+XX
+DT  13.07.2009 (created); smt.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16167; SOX; Species: Mammalia; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     28      0      2      C
+02      4      5      0     22      T
+03      1      5      4     21      T
+04      2      0      0     29      T
+05      0      3     24      4      G
+06     17      3      1     10      W
+07     13      2      7      9      N
+XX
+BA  31 sequences (compiled matrix imported from literature reference)
+XX
+CC  based on 17 experimentally validated sites from three cartilage-characteristic mouse genes and its mouse and human orthologs; aligned by WU-BLAST programm
+XX
+RN  [1]; RE0063451.
+RX  PUBMED: 17785538.
+RA  Davies S. R., Chang L. W., Patra D., Xing X., Posey K., Hecht J., Stormo G. D., Sandell L. J.
+RT  Computational identification and functional validation of regulatory motifs in cartilage-expressed genes.
+RL  Genome Res. 17:1438-1447 (2007).
+XX
+//

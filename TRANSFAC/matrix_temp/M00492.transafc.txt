@@ -1,0 +1,52 @@
+AC  M00492
+XX
+ID  V$STAT1_02
+XX
+DT  20.09.2001 (created); vma.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT1
+XX
+DE  signal transducer and activator of transcription 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T11028; STAT1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T04759; STAT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05696; STAT1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T08951; STAT1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05665; STAT1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01492; STAT1alpha; Species: human, Homo sapiens; site(s) included: no.
+BF  T01575; STAT1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08549; STAT1alpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01573; STAT1beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T11029; STAT1beta; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      6     57     23     14      C
+02     62     13     14     11      A
+03     26     27     10     36      N
+04      2      2      2     95      T
+05      2      3      2     93      T
+06      5     89      2      4      C
+07      2     95      2      2      C
+08      2     48     49      2      S
+XX
+BA  52 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant STAT1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0016858.
+RX  PUBMED: 11053426.
+RA  Ehret G. B., Reichenbach P., Schindler U., Horvath C. M., Fritz S., Nabholz M., Bucher P.
+RT  DNA binding specificity of different STAT proteins. Comparison of in vitro specificity with natural target sites.
+RL  J. Biol. Chem. 276:6675-6688 (2001).
+XX
+//

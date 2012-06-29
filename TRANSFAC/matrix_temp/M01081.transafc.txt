@@ -1,0 +1,64 @@
+AC  M01081
+XX
+ID  V$ZEC_01
+XX
+DT  21.12.2005 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Zec
+XX
+DE  zinc finger protein expressed in embryonal cells and certain adult organs
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T08320; ZEC; Species: human, Homo sapiens; site(s) included: no.
+BF  T08325; ZEC; Species: human, Homo sapiens; site(s) included: no.
+BF  T08319; Zec; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08324; Zec; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1     12      2      0      C
+02     12      0      0      3      A
+03     13      0      0      2      A
+04      0      0     13      2      G
+05      0      2     12      1      G
+06      0      0      2     13      T
+07      2      0      1     12      T
+08      1      0     14      0      G
+09      0      0     15      0      G
+10      0      0      0     15      T
+11      0      0      0     15      T
+12      0      0     15      0      G
+13      0     13      0      2      C
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATAGCTAGGTTGc; R18631; 8; 13;; p.
+BS  CAAGCTTGGTTGc; R18632; 4; 13;; p.
+BS  CAAGGTTGGTTGc; R18633; 7; 13;; p.
+BS  CAAGGTTGGTTGc; R18634; 7; 13;; p.
+BS  CAAGGTTGGTTGc; R18635; 7; 13;; p.
+BS  CAAGGTTGGTTGc; R18636; 7; 13;; p.
+BS  CAAGGTTGGTTGc; R18637; 7; 13;; p.
+BS  CAAGGTTGGTTGc; R18638; 7; 13;; p.
+BS  CAAGGTTGGTTGc; R18639; 7; 13;; p.
+BS  CAAGGTTGGTTGc; R18640; 5; 13;; p.
+BS  CAAGGTTGGTTGc; R18641; 5; 13;; p.
+BS  CAAGGTTGGTTGc; R18642; 5; 13;; p.
+BS  CAAGTTTGGTTGc; R18643; 7; 13;; p.
+BS  GTTTGGAGGTTGt; R18644; 7; 13;; p.
+BS  GTTTGGGAGTTGt; R18645; 6; 13;; p.
+XX
+CC  sequences selected with recombinant Zec from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 10 rounds of selection and amplification
+XX
+RN  [1]; RE0035609.
+RX  PUBMED: 15556296.
+RA  Chen G. Y., Muramatsu H., Ichihara-Tanaka K., Muramatsu T.
+RT  ZEC, a zinc finger protein with novel binding specificity and transcription regulatory activity.
+RL  Gene 340:71-81 (2004).
+XX
+//

@@ -1,0 +1,50 @@
+AC  M01228
+XX
+ID  V$CMAF_02
+XX
+DT  23.03.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C-MAF
+XX
+DE  C-MAF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T02201; c-MAF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05749; c-MAF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18005; c-MAF; Species: Mammalia; site(s) included: yes.
+BF  T01432; c-MAF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09212; c-MAF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05753; c-MAF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14842; c-MAF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09648; c-MAF-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19051; c-MAF-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01431; c-MAF-LONG; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11433; c-MAF-SHORT; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01463; mammary activating factor; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      1      7      T
+02      0      0      8      0      G
+03      7      0      0      1      A
+04      1      5      1      1      C
+05      1      2      0      5      T
+XX
+BA  8 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant C-MAF from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0028174.
+RX  PUBMED: 9571165.
+RA  Matsushima-Hibiya Y., Nishi S., Sakai M.
+RT  Rat maf-related factors: the specificities of DNA binding and heterodimer formation.
+RL  Biochem. Biophys. Res. Commun. 245:412-418 (1998).
+XX
+//

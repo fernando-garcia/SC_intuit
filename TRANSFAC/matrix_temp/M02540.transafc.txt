@@ -1,0 +1,46 @@
+AC  M02540
+AS  MA0421
+XX
+ID  F$YDR026C_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  16.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YDR026C
+XX
+DE  class: Helix-Turn-Helix; family: Myb
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T22726; YDR026C; Species: Saccharomyces cerevisiae S288c; site(s) included: yes.
+BF  T22727; YDR026C; Species: Saccharomyces cerevisiae S288c; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    174      0    274   1457      T
+02      0      0     40   1817      T
+03      0    103      0   1784      T
+04   1832      0      0      0      A
+05      0   1832      0      0      C
+06      0   1832      0      0      C
+07    118   1739      0      0      C
+08      0      0   1832      0      G
+09     49      0   1784      0      G
+10    779    841    117    291      M
+XX
+BA  1905 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0421.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

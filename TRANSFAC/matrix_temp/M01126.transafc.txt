@@ -1,0 +1,45 @@
+AC  M01126
+XX
+ID  P$BPC1_Q2
+XX
+DT  30.08.2006 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BPC1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T09001; BPC1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T09002; BPC1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      0      0      0      A
+02      0      0      9      0      G
+03      9      0      0      0      A
+04      9      0      0      0      A
+05      6      0      2      1      A
+06      3      1      4      1      R
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGAAAG; R19421; 29; 6;; p.
+BS  AGAAGA; R19422; 32; 6;; p.
+BS  AGAAAG; R19423; 7; 6;; p.
+BS  AGAAAG; R19424; 11; 6;; p.
+BS  AGAAAG; R19425; 7; 6;; p.
+BS  agaatc; R19426; 5; 6;; n.
+BS  agaaat; R19427; 6; 6;; n.
+BS  agaaga; R19428; 13; 6;; n.
+BS  agaaaa; R19429; 7; 6;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0048137.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel103:0001 (2006).
+XX
+//

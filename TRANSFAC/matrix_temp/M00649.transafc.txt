@@ -1,0 +1,61 @@
+AC  M00649
+XX
+ID  V$MAZ_Q6
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MAZ
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02304; MAZ; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00490; MAZ; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10433; MAZ; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10527; MAZ; Species: Mammalia; site(s) included: no.
+BF  T02303; MAZ; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10487; MAZ; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10493; MAZ; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02305; MAZi; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05025; SAF-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T06574; SAF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16144; SAF1; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T16143; SAF1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      8      1      G
+02      0      0     12      0      G
+03      0      0     11      1      G
+04      0      1     11      0      G
+05     10      2      0      0      A
+06      0      0     12      0      G
+07      2      1      9      0      G
+08      0      0     12      0      G
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGGGCGGG; R00315; 7; 8;; p.
+BS  GGGGAGGG; R02306; -1; 8;; p.
+BS  GGGGAGGG; R04621; 19; 8;; n.
+BS  GGGGAGGG; R04622; 6; 8;; p.
+BS  GGGCAGAG; R04623; 3; 8;; p.
+BS  GGGGAGGG; R04625; 6; 8;; n.
+BS  GGGGCGAG; R04626; -9; 8;; p.
+BS  AGGGAGCG; R04627; 17; 8;; p.
+BS  GGGGAGGG; R04628; 21; 8;; p.
+BS  TGTGAGGG; R04630; 16; 8;; p.
+BS  AGGGAGGG; R04976; 12; 8;; p.
+BS  AGGGAGGG; R08503; 2; 8;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00649; V$MAZ_Q6.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

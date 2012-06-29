@@ -1,0 +1,46 @@
+AC  M01662
+XX
+ID  F$PDR1_Q2
+XX
+DT  29.01.2010 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PDR1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03524; PDR1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      1      2      T
+02      0      0      0      5      T
+03      0      1      0      4      T
+04      0      5      0      0      C
+05      0      5      0      0      C
+06      2      0      3      0      R
+07      0      5      0      0      C
+08      0      0      5      0      G
+09      0      0      5      0      G
+10      5      0      0      0      A
+11      3      0      1      0      A
+12      2      1      0      1      A
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTCCACGGAAC; R12387; 2; 12;; p.
+BS  ntcccgcggann; R12390; -2; 12;; n.
+BS  gttccgcggaga; R12393; 2; 12;; n.
+BS  attccgcggaaa; R12396; 5; 12;; n.
+BS  tttccacggaat; R12397; 3; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0065667.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20101:0001 (2010).
+XX
+//

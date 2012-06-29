@@ -1,0 +1,46 @@
+AC  M02336
+AS  MA0218
+XX
+ID  I$CT_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ct
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T02004; Cut; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0      6      0     14      T
+02      1      2      0     17      T
+03      9      0     11      0      R
+04     20      0      0      0      A
+05     17      0      1      2      A
+06      0     19      1      0      C
+XX
+BA  20 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0218.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071779.
+RX  PUBMED: 18332042.
+RA  Noyes M. B., Meng X., Wakabayashi A., Sinha S., Brodsky M. H., Wolfe S. A.
+RT  A systematic characterization of factors that regulate Drosophila segmentation via a bacterial one-hybrid system.
+RL  Nucleic Acids Res. 36:2547-2560 (2008).
+XX
+//

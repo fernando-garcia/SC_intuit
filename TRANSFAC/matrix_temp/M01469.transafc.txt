@@ -1,0 +1,61 @@
+AC  M01469
+XX
+ID  V$NKX61_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NKX6.1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17854; Nkx6.1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T04270; NKX6A; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15821; NKX6A; Species: chick, Gallus gallus; site(s) included: no.
+BF  T04261; NKX6A; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T15823; NKX6A; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T04268; NKX6A; Species: human, Homo sapiens; site(s) included: no.
+BF  T15819; NKX6A; Species: human, Homo sapiens; site(s) included: no.
+BF  T04269; NKX6A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15820; NKX6A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04297; NKX6A; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15822; NKX6A; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.37   0.23   0.25   0.14      N
+02   0.26   0.24   0.39   0.11      N
+03   0.09   0.21   0.06   0.64      T
+04   0.56   0.08   0.07   0.29      W
+05   0.84   0.02   0.02   0.11      A
+06   0.18   0.01   0.04   0.77      T
+07      0   0.07      0   0.93      T
+08   0.98      0   0.01   0.01      A
+09   0.98      0      0   0.01      A
+10   0.02      0      0   0.98      T
+11   0.01   0.02   0.26   0.71      T
+12   0.79      0   0.17   0.04      A
+13   0.09   0.43   0.22   0.26      N
+14   0.15   0.24   0.28   0.34      N
+15   0.08   0.34   0.06   0.51      Y
+16   0.12   0.57   0.13   0.18      C
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0119.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

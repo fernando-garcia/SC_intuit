@@ -1,0 +1,73 @@
+AC  M01267
+XX
+ID  V$FRA1_Q5
+XX
+DT  08.07.2009 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FRA1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00517; V$AP1_01;  (family).
+HP  M00924; V$AP1_Q2_01;  (family).
+HP  M00925; V$AP1_Q6_01;  (family).
+HP  M00926; V$AP1_Q4_01;  (family).
+XX
+BF  T17699; fra 1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T01462; Fra-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08989; Fra-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00292; Fra-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08533; Fra-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01208; Fra-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08537; Fra-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18680; Fra1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      1     22      T
+02      0      1     23      0      G
+03     18      1      0      5      A
+04      0      1     19      4      G
+05      0      0      0     24      T
+06      3     21      0      0      C
+07     24      0      0      0      A
+08      3      4      6     11      N
+XX
+BA  24 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGAGTCAT; R02952; 14; 8;; p.
+BS  TGTTTCAT; R05036; 9; 8;; p.
+BS  TGTGTAAT; R05052; 9; 8;; p.
+BS  GGTGTAAT; R05079; 3; 8;; p.
+BS  tgattcat; R08494; 1; 8;; n.
+BS  TGAGTCAA; R13178; 8; 8;; p.
+BS  TGTCTCAT; R13430; 11; 8;; p.
+BS  TGAGTCAA; R14478; 7; 8;; p.
+BS  tgattcac; R14480; 6; 8;; n.
+BS  TGCGTCAG; R14540; 11; 8;; p.
+BS  TGAGTCAG; R14725; 8; 8;; p.
+BS  tcagtcat; R21509; 15; 8;; n.
+BS  TGAGTCAG; R21762; 9; 8;; p.
+BS  tgattcag; R21765; 7; 8;; n.
+BS  tgtgtcat; R22730; 10; 8;; n.
+BS  tgagtcac; R23153; 4; 8;; n.
+BS  TGAGTAAT; R23479; 9; 8;; p.
+BS  tgagtcat; R24899; 7; 8;; n.
+BS  TGAGTCAC; R25018; 8; 8;; p.
+BS  TGAGTCAA; R25214; 6; 8;; p.
+BS  TGAGTCAG; R25215; 4; 8;; p.
+BS  TGAGTCAG; R26758; 8; 8;; p.
+BS  tgagtcac; R26776; 8; 8;; n.
+BS  tgagtcat; R26793; 7; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+XX
+//

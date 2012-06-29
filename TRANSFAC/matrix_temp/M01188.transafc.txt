@@ -1,0 +1,85 @@
+AC  M01188
+XX
+ID  P$CBNAC_01
+XX
+DT  04.06.2008 (created); nta.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CBNAC
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T14491; CBNAC; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      5      9     23      T
+02      9      4      5     22      T
+03      0      0     44      0      G
+04      0     44      0      0      C
+05      0      0      0     44      T
+06      0      0      0     44      T
+XX
+BA  44 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTGCTT; R24523; 4; 6;; p.
+BS  GAGCTT; R24524; 8; 6;; p.
+BS  GGGCTT; R24525; 2; 6;; p.
+BS  AAGCTT; R24526; 4; 6;; p.
+BS  GTGCTT; R24527; 9; 6;; p.
+BS  TTGCTT; R24528; 2; 6;; p.
+BS    GCTT; R24529; 1; 6; 1, 2; p.
+BS  CTGCTT; R24530; 3; 6;; p.
+BS  TTGCTT; R24531; 7; 6;; p.
+BS  TTGCTT; R24532; 2; 6;; p.
+BS  TTGCTT; R24533; 4; 6;; p.
+BS    GCTT; R24534; 1; 6; 1, 2; p.
+BS  GGGCTT; R24535; 6; 6;; p.
+BS  TTGCTT; R24536; 3; 6;; p.
+BS  TTGCTT; R24537; 6; 6;; p.
+BS   GGCTT; R24538; 1; 6; 1; p.
+BS  GAGCTT; R24539; 2; 6;; p.
+BS    GCTT; R24540; 1; 6; 1, 2; p.
+BS  TTGCTT; R24541; 4; 6;; p.
+BS  CCGCTT; R24542; 7; 6;; p.
+BS  TTGCTT; R24543; 3; 6;; p.
+BS  TTGCTT; R24544; 5; 6;; p.
+BS  TTGCTT; R24545; 7; 6;; p.
+BS  TCGCTT; R24546; 2; 6;; p.
+BS    GCTT; R24547; 1; 6; 1, 2; p.
+BS  TTGCTT; R24548; 7; 6;; p.
+BS  TTGCTT; R24549; 3; 6;; p.
+BS  CGGCTT; R24550; 2; 6;; p.
+BS  TAGCTT; R24551; 10; 6;; p.
+BS   CGCTT; R24552; 1; 6; 1; p.
+BS  GGGCTT; R24553; 3; 6;; p.
+BS  TTGCTT; R24554; 5; 6;; p.
+BS  CAGCTT; R24555; 5; 6;; p.
+BS  GTGCTT; R24556; 2; 6;; p.
+BS  TTGCTT; R24557; 2; 6;; p.
+BS  TTGCTT; R24558; 5; 6;; p.
+BS  GAGCTT; R24559; 9; 6;; p.
+BS  TTGCTT; R24560; 5; 6;; p.
+BS  TAGCTT; R24561; 7; 6;; p.
+BS  TTGCTT; R24562; 8; 6;; p.
+BS  TTGCTT; R24563; 3; 6;; p.
+BS  CCGCTT; R24564; 8; 6;; p.
+BS  TAGCTT; R24565; 7; 6;; p.
+BS  TAGCTT; R24566; 3; 6;; p.
+XX
+CC  sequences selected with recombinant CBNAC from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0054624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel124:0001 (2008).
+RN  [2]; RE0053189.
+RX  PUBMED: 17947243.
+RA  Kim H. S., Park B. O., Yoo J. H., Jung M. S., Lee S. M., Han H. J., Kim K. E., Kim S. H., Lim C. O., Yun D. J., Lee S. Y., Chung W. S.
+RT  Identification of a calmodulin-binding NAC protein as a transcriptional repressor in Arabidopsis.
+RL  J. Biol. Chem. 282:36292-36302 (2007).
+XX
+//

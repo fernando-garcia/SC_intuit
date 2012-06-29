@@ -1,0 +1,58 @@
+AC  M01255
+XX
+ID  V$IPF1_05
+XX
+DT  24.06.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IPF1
+XX
+DE  homeobox transcription factor Pdx-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04541; ipf1; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T04267; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T10381; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T15921; Ipf1; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T04362; ipf1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09250; ipf1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10332; ipf1; Species: Mammalia; site(s) included: no.
+BF  T02057; ipf1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09093; ipf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02058; ipf1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10232; ipf1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     92     29     59     20      R
+02     70     65     61      4      N
+03     73     31     12     84      W
+04     46    145      8      1      C
+05    197      1      0      2      A
+06      2      0     21    177      T
+07      4      1      1    194      T
+08    165     29      0      6      A
+09    188      1      9      2      A
+10     98     29     27     46      N
+11     99     35     10     56      W
+12     60     42     33     65      N
+XX
+BA  200 sequences (ChIP-on-chip)
+XX
+CC  IPF1binding motif defined from ChIP-on-chip experiment in NIT-1cells; confirmed by qPCR
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0063075.
+RX  PUBMED: 17761679.
+RA  Keller D. M., McWeeney S., Arsenlis A., Drouin J., Wright C. V., Wang H., Wollheim C. B., White P., Kaestner K. H., Goodman R. H.
+RT  Characterization of pancreatic transcription factor Pdx-1 binding sites using promoter microarray and serial analysis of chromatin occupancy.
+RL  J. Biol. Chem. 282:32084-32092 (2007).
+XX
+//

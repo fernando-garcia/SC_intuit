@@ -1,0 +1,72 @@
+AC  M01013
+XX
+ID  V$IPF1_Q4_01
+XX
+DT  27.08.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IPF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04541; ipf1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04267; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T10381; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15921; Ipf1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T04362; ipf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09250; ipf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10332; ipf1; Species: Mammalia; site(s) included: no.
+BF  T02057; ipf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09093; ipf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02058; ipf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10232; ipf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06106; ipf1:Pbx; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      3      1      8      T
+02      1      6      7      2      S
+03      3      2      7      4      N
+04      3      4      9      0      G
+05      2      5      0      9      Y
+06      3     12      0      1      C
+07     16      0      0      0      A
+08      0      0      0     16      T
+09      0      1      0     15      T
+10     15      0      0      1      A
+11      4      2      7      3      N
+12      6      4      1      5      N
+13      3      5      5      3      N
+14      3      4      2      7      N
+15      2      8      4      2      C
+XX
+BA  16 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CGGGTCATTAGAGTC; R02709; 12; 15;; n.
+BS  GTAGACATTACCACC; R04225; 2; 15;; n.
+BS  TTGGCCATCAGTCCC; R04226; 4; 15;; p.
+BS  TCTATCATTAGAGCC; R04227; 6; 15;; n.
+BS  TCTGTCATTAATTTC; R10024; 5; 15;; n.
+BS  TGGGTCATTATTACA; R10025; 14; 15;; n.
+BS  ACTGTTATTATTAAG; R10032; 3; 15;; n.
+BS  NCTCACATTATACAT; R14650; 9; 15;; n.
+BS  TCCCTCATTAGCTGG; R14651; 1; 15;; n.
+BS  TCAGTAATTAATCAT; R14769; 5; 15;; p.
+BS  CGGACCATTTCCCTG; R15419; 8; 15;; n.
+BS  TGGGTCATTAGAGTC; R15427; 1; 15;; n.
+BS  TGGCCCATTAAGGGC; R15491; 6; 15;; n.
+BS  CGCACCATTAGCCTC; R15492; 5; 15;; n.
+BS  AGGGTAATTAGATTA; R15493; 9; 15;; n.
+BS  AAACCAATTAAAGTG; C00277,  s00472; -2; 15;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better; including 1 TRANSCompel site
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

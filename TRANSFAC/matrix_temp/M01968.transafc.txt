@@ -1,0 +1,252 @@
+AC  M01968
+XX
+ID  V$FOXO1_03
+XX
+DT  11.05.2011 (created); pch.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXO1
+XX
+DE  IRE alone shows weaker binding
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01216; V$FOXO1_Q5;  (family).
+XX
+BF  T10353; FOXO1A; Species: human, Homo sapiens; site(s) included: no.
+BF  T14067; FOXO1A; Species: Mammalia; site(s) included: yes.
+BF  T04203; FOXO1A; Species: mouse, Mus musculus; site(s) included: no.
+BF  T17666; FOXO1A; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1      1      0    205      T
+02     13      0    194      0      G
+03      0      0      0    207      T
+04      0      0      0    207      T
+05      0      0    121     86      K
+06    198      2      4      3      A
+07      2    194      3      8      C
+XX
+BA  45 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTGAC; R35134; 17; 7;; p.
+BS  TGTTTAC; R35147; 19; 7;; p.
+BS  TGTTTAC; R35147; 19; 7;; p.
+BS  TGTTTAC; R35147; 19; 7;; p.
+BS  TGTTTAC; R35148; 17; 7;; p.
+BS  TGTTGAT; R35149; 17; 7;; p.
+BS  CGTTGAC; R35150; 17; 7;; p.
+BS  TGTTTAC; R35151; 21; 7;; p.
+BS  TGTTTAC; R35152; 22; 7;; p.
+BS  TGTTGAC; R35153; 17; 7;; p.
+BS  TGTTGAC; R35154; 14; 7;; p.
+BS  TGTTGAC; R35155; 16; 7;; p.
+BS  TGTTTAC; R35156; 14; 7;; p.
+BS  TGTTTAC; R35157; 24; 7;; p.
+BS  TGTTTAC; R35157; 24; 7;; p.
+BS  TGTTTAC; R35157; 24; 7;; p.
+BS  TGTTTAC; R35157; 24; 7;; p.
+BS  TGTTTAC; R35157; 24; 7;; p.
+BS  TGTTTAC; R35157; 24; 7;; p.
+BS  TGTTTAC; R35158; 25; 7;; p.
+BS  TATTTAC; R35159; 12; 7;; p.
+BS  TATTTAC; R35159; 12; 7;; p.
+BS  TATTTAC; R35159; 12; 7;; p.
+BS  TATTTAC; R35159; 12; 7;; p.
+BS  TATTTAC; R35159; 12; 7;; p.
+BS  TATTTAC; R35159; 12; 7;; p.
+BS  TATTTAC; R35159; 12; 7;; p.
+BS  TATTTAC; R35159; 12; 7;; p.
+BS  TGTTGTC; R35160; 17; 7;; p.
+BS  TGTTGTC; R35161; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35162; 26; 7;; p.
+BS  TGTTTAC; R35163; 26; 7;; p.
+BS  TGTTTAC; R35164; 15; 7;; p.
+BS  TGTTTGC; R35165; 23; 7;; p.
+BS  TGTTTAC; R35166; 10; 7;; p.
+BS  TGTTTAC; R35167; 1; 7;; p.
+BS  TATTTAC; R35168; 17; 7;; p.
+BS  TATTTAC; R35168; 17; 7;; p.
+BS  TATTTAC; R35168; 17; 7;; p.
+BS  TATTTAC; R35168; 17; 7;; p.
+BS  TATTTAC; R35168; 17; 7;; p.
+BS  TGTTTCC; R35169; 24; 7;; p.
+BS  TGTTTAC; R35170; 17; 7;; p.
+BS  TGTTTGC; R35171; 18; 7;; p.
+BS  TGTTTAC; R35172; 26; 7;; p.
+BS  TGTTTAC; R35173; 25; 7;; p.
+BS  TGTTTAC; R35173; 25; 7;; p.
+BS  TGTTGAC; R35174; 25; 7;; p.
+BS  TGTTGAC; R35174; 25; 7;; p.
+BS  TGTTGAC; R35174; 25; 7;; p.
+BS  TGTTGAC; R35174; 25; 7;; p.
+BS  TGTTTAC; R35175; 23; 7;; p.
+BS  TGTTTGC; R35176; 12; 7;; p.
+BS  TGTTTAC; R35177; 25; 7;; p.
+BS  TGTTTAC; R35178; 15; 7;; p.
+BS  TGTTTAT; R35179; 12; 7;; p.
+BS  TGTTTAT; R35179; 12; 7;; p.
+BS  TGTTTAT; R35179; 12; 7;; p.
+BS  TGTTTAT; R35179; 12; 7;; p.
+BS  TGTTTAT; R35179; 12; 7;; p.
+BS  TGTTTAT; R35180; 15; 7;; p.
+BS  TGTTTAC; R35181; 19; 7;; p.
+BS  TGTTGTA; R35182; 4; 7;; p.
+BS  TGTTTAC; R35183; 24; 7;; p.
+BS  TGTTTGC; R35184; 16; 7;; p.
+BS  TGTTTAC; R35185; 7; 7;; p.
+BS  TGTTGAG; R35186; 25; 7;; p.
+BS  TGTTTCA; R35187; 21; 7;; p.
+BS  AGTTTAT; R35188; 23; 7;; p.
+BS  TGTTTAG; R35189; 13; 7;; p.
+BS  TGTTTAG; R35190; 10; 7;; p.
+XX
+CC  sequences selected with recombinant FOXO1A from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 9 rounds of selection and amplification
+XX
+RN  [1]; RE0069983.
+RX  PUBMED: 18537265.
+RA  Sidhu A., Miller P. J., Johanson K. E., Hollenbach A. D.
+RT  Novel flanking DNA sequences enhance FOXO1a DNA binding affinity but do not alter DNA bending.
+RL  Biochemistry 47:6809-6818 (2008).
+XX
+//

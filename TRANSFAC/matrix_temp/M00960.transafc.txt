@@ -1,0 +1,108 @@
+AC  M00960
+XX
+ID  V$PR_Q2
+XX
+DT  18.11.2003 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PR, GR
+XX
+DE  half-site matrix
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00192; V$GR_Q6; glucocorticoid receptor (specific).
+HC  M00205; V$GRE_C; Glucocorticoid response element (specific).
+HC  M00921; V$GR_Q6_01; half-site matrix (specific).
+HC  M00954; V$PR_01; high affinity binding sites for progesterone receptor (specific).
+HC  M00955; V$GR_01; high affinity binding site for glucocorticoid receptor (specific).
+HC  M00957; V$PR_02; progesterone receptor (specific).
+HC  M01836; V$GR_Q6_02;  (specific).
+HC  M02219; V$NR3C1_01; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+XX
+BF  T06232; GR; Species: Bolivian squirrel monkey, Saimiri boliviensis boliviensis; site(s) included: yes.
+BF  T00336; GR; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T00334; GR; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04685; GR; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T06233; GR; Species: common squirrel monkey, Saimiri sciureus; site(s) included: yes.
+BF  T06234; GR; Species: common tree shrew, Tupaia glis belangeri; site(s) included: yes.
+BF  T06231; GR; Species: cotton-top tamarin, Saguinus oedipus; site(s) included: yes.
+BF  T06226; GR; Species: guinea pig, Cavia porcellus; site(s) included: yes.
+BF  T05076; GR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06228; GR; Species: Japanese flounder, Paralichthys olivaceus; site(s) included: yes.
+BF  T06225; GR; Species: Ma's night monkey, Aotus nancymaae; site(s) included: yes.
+BF  T10446; GR; Species: Mammalia; site(s) included: no.
+BF  T00335; GR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08555; GR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06229; GR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T06230; GR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T06227; GR; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T00333; GR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05075; GR; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T18951; GR-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18950; GR-Abeta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00337; GR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08475; GR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18948; GR-Alpha-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01920; GR-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15248; GR-beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18949; GR-Beta-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00698; PR; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05742; PR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04680; PR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14602; PR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04681; PR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08998; PR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01661; PR A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00696; PR B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00697; PR B; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T15123; PR-alpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11394; PR-beta; Species: chick, Gallus gallus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      2     10      4      N
+02     11      2      1      6      W
+03      7      2      6      5      N
+04     12      0      4      4      A
+05      0      0     20      0      G
+06     11      0      7      2      R
+07     20      0      0      0      A
+08      0     19      1      0      C
+09     19      0      0      1      A
+10      3      5      6      6      N
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CAGAGAACAC; R00973; -3; 10;; p.
+BS  TTATGTACAG; R00974; -3; 10;; p.
+BS  GTTTGTACAG; R00976; -3; 10;; p.
+BS  TTAAGAACAG; R01112; 6; 10;; n.
+BS  TTAAGAACAG; R01120; -1; 10;; n.
+BS  GCTAGAACAT; R01481; 10; 10;; n.
+BS  GAGGGGAGAA; R01546; 3; 10;; n.
+BS  AAAAGGACTC; R01548; -1; 10;; n.
+BS  GAGTGAACAG; R01551; -1; 10;; n.
+BS  AAGAGGACAT; R01555; -1; 10;; n.
+BS  GAAAGAACAC; R01575; 4; 10;; p.
+BS  CAAAGGACAG; R02993; 9; 10;; n.
+BS  GAAAGGACAT; R02994; 9; 10;; n.
+BS  AGTAGAACAT; R02995; 9; 10;; n.
+BS  GAGAGGACAT; R02996; -3; 10;; p.
+BS  GTGGGAACAT; R03270; -3; 10;; p.
+BS  GCTGGAACAA; R03271; -3; 10;; p.
+BS  AACGGGACAA; R12328; -3; 10;; p.
+BS  TTTTGAACAC; R12329; -3; 10;; p.
+BS  GACAGAACAC; R14316; -3; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

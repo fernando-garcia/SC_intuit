@@ -1,0 +1,38 @@
+AC  M01680
+XX
+ID  F$YAP5_01
+XX
+DT  22.02.2010 (created); mkl.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YAP5
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03713; YAP5; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15      0      1      4      A
+02     13      0      7      0      R
+03      8      0     12      0      R
+04      0     19      0      1      C
+05     20      0      0      0      A
+06      2      1      0     17      T
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  used PhyloCon and Converge for ChIP Motifs approach
+XX
+DR  JASPAR: MA0417.
+XX
+RN  [1]; RE0065640.
+RX  PUBMED: 16522208.
+RA  Macisaac K. D., Wang T., Gordon D. B., Gifford D. K., Stormo G. D., Fraenkel E.
+RT  An improved map of conserved regulatory sites for Saccharomyces cerevisiae.
+RL  BMC Bioinformatics 7:113 (2006).
+XX
+//

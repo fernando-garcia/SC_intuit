@@ -1,0 +1,45 @@
+AC  M01798
+XX
+ID  V$RPC155_01
+XX
+DT  01.09.2010 (created); sla.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RPC155
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18330; DNA-directed RNA polymerase III largest subunit; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18379; DNA-directed RNA polymerase III largest subunit; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     28     57    107    313      T
+02     15    411     10     69      C
+03    227    178     63     37      M
+04     45    129    231    100      N
+05     52     28    376     49      G
+06    272      6    212     15      R
+07     14      7    482      2      G
+08     43      3      3    456      T
+09      2     12      6    485      T
+10      5    428     10     62      C
+11    204     13    276     12      R
+12    487      4      4     10      A
+13    132     14    297     62      G
+14    239     65     34    167      W
+15     23    464      8     10      C
+16     21    428      7     49      C
+XX
+BA  505 sequences (ChIP-on-chip)
+XX
+CC  used SEEDER algorthm for ChIP Motifs approach using top  500 scoring sequences from ENCODE sets
+XX
+RN  [1]; RE0063123.
+RT  ENCODE Transcription Factor Binding Sites by ChIP-seq from Yale/UC-Davis/Harvard; URL: http://genome.ucsc.edu/cgi-bin/hgTrackUi?db=hg18&g=wgEncodeYaleChIPseq
+RL  Internet : ().
+XX
+//

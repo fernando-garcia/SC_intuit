@@ -1,0 +1,81 @@
+AC  M00511
+XX
+ID  V$ERR1_Q2
+XX
+DT  05.11.2001 (created); mas.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ERR1
+XX
+DE  estrogen-related receptor alpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02765; ERR1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05682; ERR1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14760; ERR1; Species: Mammalia; site(s) included: no.
+BF  T15811; ERR1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T04849; ERR1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14761; ERR1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15809; ERR1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15810; ERR1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18903; ERR1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      4      4      8      N
+02      4      6      8      7      N
+03      8      7      5      5      N
+04      5      2      3     15      T
+05      8     10      6      1      N
+06     16      1      6      2      A
+07     23      1      0      1      A
+08      0      0     25      0      G
+09      0      0     25      0      G
+10      3      0      0     22      T
+11      0     23      2      0      C
+12     23      1      0      1      A
+13      5      6      5      9      N
+14     11      4      4      6      N
+XX
+BA  25 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCCTCAAGGTCACC; R11448; 18; 14;; p.
+BS  TAGCGAAGGTCAAG; R11453; 7; 14;; p.
+BS  TTAGCAAGGTCATG; R11454; 11; 14;; p.
+BS  CGGTAGAGGTCACC; R11455; 13; 14;; p.
+BS  GTGACAAGGTCAGA; R11456; 15; 14;; p.
+BS  GGTTAGCGGTCATT; R11457; 4; 14;; p.
+BS  AAATAAAGGTCATT; R11458; 10; 14;; p.
+BS  ACTACAAGGTCACG; R11459; 4; 14;; p.
+BS  GGATGAAGGTCAGA; R11460; 16; 14;; p.
+BS  TGAGAAAGGTGCCA; R11461; 4; 14;; p.
+BS  TCCTGAAGGTCATT; R11462; 17; 14;; p.
+BS  AAGGGCAGGACAAA; R11463; 6; 14;; p.
+BS  CTTTAGAGGTCACA; R11464; 13; 14;; p.
+BS  ACATCTAGGACATT; R11465; 4; 14;; p.
+BS  TGTACAAGGTCAAA; R11466; 14; 14;; p.
+BS  CCATGAAGGTGATA; R11467; 16; 14;; p.
+BS  ATCACAAGGTCAGA; R11468; 4; 14;; p.
+BS  AGATATTGGTCATC; R11469; 4; 14;; p.
+BS  TCATAGAGGTCTTC; R11470; 11; 14;; p.
+BS  TTCTCAAGGTCAGA; R11471; 11; 14;; p.
+BS  AGCTCGAGGTCACT; R11472; 2; 14;; p.
+BS  AATAGAAGGTCAAA; R11473; 11; 14;; p.
+BS  TTCCAAAGGACAGG; R11474; 14; 14;; p.
+BS  AGCTCGAGGTCATT; R11475; 2; 14;; p.
+BS  CTGTTAAGGTCAAA; R11476; 4; 14;; p.
+XX
+CC  sequences selected with recombinant ERR1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 8 rounds of selection and amplification
+XX
+PV  M00511; V$ERR1_Q2; estrogen-related receptor alpha
+RN  [1]; RE0017042.
+RX  PUBMED: 9271417.
+RA  Sladek R., Bader J. A., Giguere V.
+RT  The orphan nuclear receptor estrogen-related receptor alpha is a transcriptional regulator of the human medium-chain acyl coenzyme A dehydrogenase gene
+RL  Mol. Cell. Biol. 17:5400-5409 (1997).
+XX
+//

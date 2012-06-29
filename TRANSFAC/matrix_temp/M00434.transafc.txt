@@ -1,0 +1,49 @@
+AC  M00434
+XX
+ID  P$PIF3_01
+XX
+DT  15.05.2001 (created); rge.
+DT  15.05.2001 (updated); rge.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PIF3
+XX
+DE  acts in phytochrome signalling pathways
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T04492; PIF3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T09089; PIF3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      5     15      5      G
+02      5      1     10     11      K
+03     11      2     12      2      R
+04      6      0     17      4      G
+05      5      3     17      2      G
+06     11     11      5      0      M
+07      0     27      0      0      C
+08     27      0      0      0      A
+09      0     27      0      0      C
+10      0      0     27      0      G
+11      0      0      0     27      T
+12      0      0     27      0      G
+13     11      2     13      1      R
+14      9     12      6      0      M
+15      3      9     13      2      S
+16     11      6      0     10      W
+17      4     19      4      0      C
+18      4      2      9     12      K
+XX
+BA  27 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+RN  [1]; RE0016175.
+RX  PUBMED: 10797009.
+RA  Martinez-Garcia J. F., Huq E., Quail P. H.
+RT  Direct targeting of light signals to a promoter element-bound transcription factor
+RL  Science 288:859-863 (2000).
+XX
+//

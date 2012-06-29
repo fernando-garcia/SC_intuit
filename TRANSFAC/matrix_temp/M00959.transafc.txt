@@ -1,0 +1,149 @@
+AC  M00959
+XX
+ID  V$ER_Q6_02
+XX
+DT  18.11.2003 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ER
+XX
+DE  half-site matrix, half-ERE
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00191; V$ER_Q6; estrogen receptor (specific).
+HC  M01801; V$ERALPHA_01; 2 ERE half-sites with a 3bp spacer within (specific).
+HC  M01875; V$ERBETA_Q5;  (specific).
+HC  M02261; V$ESR1_01; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02377; V$ESR2_01; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+XX
+BF  T06188; ER-alpha; Species: atlantic croaker, Micropogonias undulatus; site(s) included: yes.
+BF  T06197; ER-alpha; Species: atlantic salmon, Salmo salar; site(s) included: yes.
+BF  T00262; ER-alpha; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00264; ER-alpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00263; ER-alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T06182; ER-alpha; Species: desert grassland whiptail lizard, Cnemidophorus uniparens; site(s) included: yes.
+BF  T06199; ER-alpha; Species: gilthead sea bream, Sparus aurata; site(s) included: yes.
+BF  T17320; ER-alpha; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T06183; ER-alpha; Species: horse, Equus caballus; site(s) included: yes.
+BF  T00261; ER-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06191; ER-alpha; Species: Israeli tilapia, Oreochromis aureus; site(s) included: yes.
+BF  T09637; ER-alpha; Species: Mammalia; site(s) included: no.
+BF  T06193; ER-alpha; Species: medaka, Oryzias latipes; site(s) included: yes.
+BF  T00259; ER-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08596; ER-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06192; ER-alpha; Species: Nile tilapia, Oreochromis niloticus (Tilapia nilotica); site(s) included: yes.
+BF  T06195; ER-alpha; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T05703; ER-alpha; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00258; ER-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18905; ER-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06194; ER-alpha; Species: red sea bream, Pagrus major (Chrysophrys major); site(s) included: yes.
+BF  T06198; ER-alpha; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T06196; ER-alpha; Species: zebra finch, Poephila guttata (Taeniopygia guttata); site(s) included: yes.
+BF  T06181; ER-alpha; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T08300; ER-alpha-L; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18904; ER-alpha-S; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05702; ER-alpha:ER-beta-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06206; ER-beta; Species: atlantic croaker, Micropogonias undulatus; site(s) included: yes.
+BF  T06201; ER-beta; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T06205; ER-beta; Species: channel catfish, Ictalurus punctatus; site(s) included: yes.
+BF  T06203; ER-beta; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T06202; ER-beta; Species: common marmoset, Callithrix jacchus; site(s) included: yes.
+BF  T06222; ER-beta; Species: gilthead sea bream, Sparus aurata; site(s) included: yes.
+BF  T08515; ER-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06200; ER-beta; Species: Japanese eel, Anguilla japonica; site(s) included: yes.
+BF  T06204; ER-beta; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T16015; ER-beta; Species: Mammalia; site(s) included: no.
+BF  T17427; ER-beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06208; ER-beta; Species: Nile tilapia, Oreochromis niloticus (Tilapia nilotica); site(s) included: yes.
+BF  T06209; ER-beta; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T06207; ER-beta; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T02764; ER-beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06220; ER-beta; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T06223; ER-beta; Species: starling, Sturnus vulgaris; site(s) included: yes.
+BF  T04651; ER-beta-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05388; ER-beta-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05389; ER-beta-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05390; ER-beta-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05391; ER-beta-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18907; ER-beta-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18908; ER-beta-isoform7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18906; ER-beta-isoform8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18909; ER-beta1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06180; ER-beta1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06216; ER-beta1-delta3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06219; ER-beta1-delta4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18910; ER-beta2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06215; ER-beta2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06217; ER-beta2-delta3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18911; ER-beta5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18912; ER-beta5A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04649; ER-beta6; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9     16      8      6      N
+02     29      3      7      0      A
+03      1      0     36      2      G
+04      0      0     39      0      G
+05      1      0      3     35      T
+06      1     35      3      0      C
+07     37      1      0      1      A
+08      6     17      8      8      N
+09      7     11     16      5      N
+10      7     11     17      4      N
+11      4     11      3     21      Y
+XX
+BA  39 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAGGTCTTTTG; R00144; 5; 11;; n.
+BS  TGGGTCACTGA; R00153; 6; 11;; n.
+BS  CAGGTCAGACT; R00154; -1; 11;; p.
+BS  AAGGTCAAACT; R01194; -2; 11;; p.
+BS  CCGGTCACGCT; R01571; 5; 11;; n.
+BS  CCGGTCACGCT; R01573; -1; 11;; n.
+BS  CAGGTCAACAT; R01577; -2; 11;; p.
+BS  TGGGTCACGGC; R01579; 5; 11;; n.
+BS  CAGGTCACAGT; R01586; -2; 11;; p.
+BS  GAGGTCATGAT; R01592; 28; 11;; n.
+BS  GAGGTCATGAT; R02665; 25; 11;; n.
+BS  CAGGTCAGGGT; R02926; -1; 11;; p.
+BS  TGGGTCATCTT; R03269; 5; 11;; n.
+BS  CAGGTCATGTC; R03272; -2; 11;; p.
+BS  CAGGTCACCAT; R03366; 6; 11;; p.
+BS  CATGTGAGGGT; R03480; 5; 11;; n.
+BS  AAGGTCAGCTA; R03566; 13; 11;; n.
+BS  CAGGTCAAGCT; R03567; 24; 11;; n.
+BS  CAGGTCACAGA; R03568; 13; 11;; n.
+BS  CAGGTCAAAGC; R03569; 6; 11;; n.
+BS  AAAGTGACTGA; R10107; 10; 11;; p.
+BS  GAGGGCAGGGT; R10108; 10; 11;; n.
+BS  CGGGGCAACCT; R13302; 4; 11;; p.
+BS  AAGGTCACGGT; R14194; 18; 11;; p.
+BS  AAGGTCATGCT; R14197; 10; 11;; n.
+BS  TAGGGCACCAC; R14203; 37; 11;; p.
+BS  GAGGTCACGAG; R14207; 8; 11;; n.
+BS  GCGGTCACTGC; R14209; 5; 11;; n.
+BS  AAGGTCAGAAC; R14214; 11; 11;; p.
+BS  CGGGTCATTGC; R14217; 19; 11;; p.
+BS  AGGGTCAGGGC; R14226; 10; 11;; n.
+BS  AAGGTGACCCC; R14231; 15; 11;; p.
+BS  GAGGTCACCCT; R14232; 14; 11;; n.
+BS  CATGTCCCCCT; R14235; 5; 11;; n.
+BS  AAGGTCACCGC; R14237; 3; 11;; n.
+BS  GGGGTCAGCCC; R14291; 10; 11;; n.
+BS  CAGGTCAAGGT; C00019,  s00025; -2; 11;; p.
+BS  TAGGACATAGT; C00363,  s00631; 5; 11;; n.
+BS  TAGGTAACGGG; C00403,  s00707; -1; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; ncluding 3 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

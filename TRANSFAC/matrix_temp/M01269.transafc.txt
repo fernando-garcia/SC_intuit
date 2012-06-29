@@ -1,0 +1,49 @@
+AC  M01269
+XX
+ID  V$NURR1_Q3
+XX
+DT  08.07.2009 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NURR1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04744; NURR1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02742; NURR1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10108; NURR1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14174; NURR1; Species: Mammalia; site(s) included: yes.
+BF  T10226; NURR1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04743; NURR1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10637; NURR1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04312; NURR1-isoform 1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10247; NURR1-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      2      0      3      Y
+02      2      0      3      0      R
+03      2      0      3      0      R
+04      0      5      0      0      C
+05      0      5      0      0      C
+06      0      0      0      5      T
+07      0      1      0      4      T
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  tagcctt; R20495; 7; 7;; n.
+BS  CAGCCTT; R20502; 2; 7;; p.
+BS  tgacctt; R21612; 10; 7;; n.
+BS  TGACCTT; R21685; 11; 7;; p.
+BS  cggcctc; R23081; 10; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+XX
+//

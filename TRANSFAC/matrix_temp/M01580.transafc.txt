@@ -1,0 +1,53 @@
+AC  M01580
+XX
+ID  F$RTG3_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Rtg3
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03579; RTG3; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.39   0.15   0.33   0.13      N
+02   0.22   0.15   0.27   0.36      N
+03   0.36   0.32   0.21   0.11      N
+04   0.16   0.18   0.30   0.36      N
+05   0.16   0.12   0.25   0.47      N
+06   0.53   0.11   0.20   0.15      A
+07   0.03   0.03   0.66   0.28      G
+08   0.02   0.95   0.02   0.01      C
+09   0.91   0.01   0.08   0.01      A
+10   0.01   0.95   0.02   0.03      C
+11   0.03   0.02   0.95   0.01      G
+12   0.01   0.08   0.01   0.91      T
+13   0.01   0.02   0.95   0.02      G
+14   0.28   0.66   0.03   0.03      C
+15   0.15   0.33   0.16   0.36      N
+16   0.11   0.27   0.19   0.43      N
+17   0.40   0.12   0.28   0.20      N
+18   0.28   0.26   0.30   0.17      N
+19   0.32   0.17   0.03   0.48      W
+20   0.25   0.40   0.11   0.25      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064448.
+RX  PUBMED: 19158363.
+RA  Zhu C., Byers K. J., McCord R. P., Shi Z., Berger M. F., Newburger D. E., Saulrieta K., Smith Z., Shah M. V., Radhakrishnan M., Philippakis A. A., Hu Y., De Masi F., Pacek M., Rolfs A., Murthy T., LaBaer J., Bulyk M. L.
+RT  High-resolution DNA-binding specificity analysis of yeast transcription factors.
+RL  Genome Res. 19:556-566 (2009).
+RN  [2]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+XX
+//

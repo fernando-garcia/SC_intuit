@@ -1,0 +1,80 @@
+AC  M01177
+XX
+ID  V$SREBP2_Q6
+XX
+DT  12.03.2008 (created); dtc.
+DT  18.03.2008 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SREBP2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00776; V$SREBP_Q3;  (family).
+HP  M01168; V$SREBP_Q6;  (family).
+XX
+BF  T04553; SREBP-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16665; SREBP-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01561; SREBP-2; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T10876; SREBP-2; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T01560; SREBP-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09098; SREBP-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16049; SREBP-2; Species: Mammalia; site(s) included: no.
+BF  T16666; SREBP-2; Species: mink, Mustela vison; site(s) included: yes.
+BF  T15631; SREBP-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19272; SREBP-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04567; SREBP-2; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T16664; SREBP-2; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T04564; SREBP-2; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T16667; SREBP-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16668; SREBP-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      6      4      4      N
+02      3      6      8      4      N
+03      5      2     12      2      G
+04      0     13      0      8      Y
+05      0     21      0      0      C
+06     21      0      0      0      A
+07      0     11      5      5      C
+08      4     10      2      5      N
+09      3      8      4      6      N
+10      2      8      8      3      S
+11      9      8      2      2      M
+12      3      8      6      3      N
+XX
+BA  21 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACGCCAGTCTCC; R04416; 13; 12;; p.
+BS  cgctcacactag; R04417; 10; 12;; n.
+BS  ggATCACTTGAG; R13175; 6; 12;; p.
+BS  atgtcacatgaa; R13177; 6; 12;; n.
+BS  TCGCCATCTGCC; R19288; 4; 12;; p.
+BS  gcgccattttca; R19290; -3; 12;; n.
+BS  CTGTCAGCCCAT; R19305; -2; 12;; p.
+BS  ggaCCAtcggca; R19307; 4; 12;; p.
+BS  AGCCCACCTACG; R19361; 7; 12;; p.
+BS  CGATCAGCGCCC; R19472; 10; 12;; p.
+BS  CGGCCAGAGGGC; R19664; 31; 12;; p.
+BS  TTGTCACGTGCG; R19665; 14; 12;; p.
+BS  acgccactgcan; R20657; -1; 12;; n.
+BS  caatcatcccac; R20660; 6; 12;; n.
+BS  ttgccaccaaag; R20662; 2; 12;; n.
+BS  CAGCCACTCCTG; R20665; 8; 12;; p.
+BS  TGGCCAGACGGT; R20666; 6; 12;; p.
+BS  GCTCCACGAGCT; R20861; 9; 12;; p.
+BS  acgccatcactc; R21130; 13; 12;; n.
+BS  AAATCACCCCAC; R21206; -2; 12;; p.
+BS  AGTCCACCCCAC; R22190; 8; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+XX
+//

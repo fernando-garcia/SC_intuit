@@ -1,0 +1,62 @@
+AC  M01133
+XX
+ID  P$AG_Q2
+XX
+DT  05.03.2007 (created); dtc.
+DT  13.03.2007 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AG
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01773; AG; Species: rape, Brassica napus; site(s) included: yes.
+BF  T01007; AG; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T09071; AG; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      2      2      2      A
+02      4      3      0      6      W
+03      2      1      1      9      T
+04      2      1      0     10      T
+05      4      1      2      6      W
+06      0     13      0      0      C
+07      1     12      0      0      C
+08      7      0      0      6      W
+09      3      0      0     10      T
+10      3      0      0     10      T
+11      0      0      0     13      T
+12      2      0      0     11      T
+13      4      0      1      8      T
+14      2      0     11      0      G
+15      2      1      7      3      G
+16      5      2      0      6      W
+17     11      0      1      1      A
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACTTTCCATTTTTAGTA; R08876; 51; 17;; p.
+BS  cttttCCATTTTTGGta; R08880; 29; 17;; p.
+BS  TCTTCCCTTTTTTGGCA; R19440; 1; 17;; p.
+BS  attttccatttatgtaa; R19441; 5; 17;; n.
+BS  CAGTTCCTAATTAAGAA; R19442; 1; 17;; p.
+BS  aaataccttttttgtta; R19443; 4; 17;; n.
+BS  aaacaccatattagatt; R19444; 4; 17;; n.
+BS  tttagccatttaaggag; R19445; 4; 17;; n.
+BS  GTCTTCAATTTTGGAAA; R19446; -1; 17;; p.
+BS  GTTTACCTATTTAGCCA; R19447; 1; 17;; p.
+BS  actttccttatttggaa; R19448; 4; 17;; n.
+BS  AATAACCAATTTTGTTA; R19449; 1; 17;; p.
+BS  ATTTGCCTTTTTTGGTA; R19450; 1; 17;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0049552.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel111:0001 (2007).
+XX
+//

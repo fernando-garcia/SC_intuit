@@ -1,0 +1,56 @@
+AC  M02497
+AS  MA0378
+XX
+ID  F$SFP1_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SFP1
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T16947; SFP1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    427    159    161    250      N
+02    202    293    194    309      N
+03    289    174    192    343      N
+04    250    217    293    238      N
+05    353     77    297    271      N
+06    533     42    342     82      R
+07    782     73     71     73      A
+08    898     36     46     18      A
+09    904      9     50     35      A
+10    855     14     42     86      A
+11    541     34     16    408      W
+12     86     42     14    855      T
+13     35     50      9    904      T
+14     18     46     36    898      T
+15     73     71     73    782      T
+16    126    405     91    376      Y
+17     82    354    103    459      Y
+18    327    201    165    306      N
+19    115    428    154    301      N
+20    217     83    374    324      N
+21    216    169    405    208      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0378.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

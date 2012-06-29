@@ -1,0 +1,64 @@
+AC  M00465
+XX
+ID  V$POU6F1_01
+XX
+DT  30.08.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  POU6F1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04470; POU6F1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11287; POU6F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01891; POU6F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11259; POU6F1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01889; POU6F1 (c1); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01888; POU6F1 (c2); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01890; POU6F1 (c7); Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      1     12      0      G
+02      2     13      0      1      C
+03     14      0      0      2      A
+04      2      0      0     14      T
+05     13      1      0      2      A
+06     13      1      2      0      A
+07      7      0      0      9      W
+08      0      0      0     16      T
+09      3      0      0     13      T
+10     16      0      0      0      A
+11      0      0      1     15      T
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCATAGATTAT; R10715; 3; 11;; p.
+BS  CATATCATTAT; R10716; 4; 11;; p.
+BS  GCATAAATTAT; R10717; 10; 11;; p.
+BS  GCATAAATTAT; R10718; 4; 11;; p.
+BS  GCATAATTTAT; R10719; 11; 11;; p.
+BS  GCATAAATTAT; R10720; 12; 11;; p.
+BS  GCATAATTTAT; R10721; 10; 11;; p.
+BS  GCATAATTTAT; R10722; 4; 11;; p.
+BS  AATATGTTAAT; R10723; 8; 11;; p.
+BS  ACATAAATTAT; R10724; 9; 11;; p.
+BS  GCATAATTAAG; R10725; 4; 11;; p.
+BS  ATATCATTAAT; R10726; 5; 11;; p.
+BS  GCATAAATTAT; R10727; 3; 11;; p.
+BS  GCATAATTTAT; R10728; 9; 11;; p.
+BS  GCATAATTTAT; R10729; 10; 11;; p.
+BS  GCATAATTTAT; R10730; 7; 11;; p.
+XX
+CC  sequences selected with recombinant POU6F1 from a pool of double-stranded oligonucleotides containing a core of 24 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0016787.
+RX  PUBMED: 9852081.
+RA  Rhee J. M., Gruber C. A., Brodie T. B., Trieu M., Turner E. E.
+RT  Highly cooperative homodimerization is a conserved property of neural POU proteins
+RL  J. Biol. Chem. 273:34196-34205 (1998).
+XX
+//

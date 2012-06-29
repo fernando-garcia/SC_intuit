@@ -1,0 +1,72 @@
+AC  M00003
+XX
+ID  V$VMYB_01
+XX
+DT  19.10.1992 (created); ewi.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  v-Myb
+XX
+DE  v-Myb
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00895; v-Myb; Species: AMV, avian myeloblastosis virus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     13      4      4      3      A
+02     14      3      5      2      A
+03      2      7      1     14      T
+04     23      0      0      1      A
+05     24      0      0      0      A
+06      1     23      0      0      C
+07      0      1     17      6      G
+08      1      1     21      1      G
+09     11      5      4      4      N
+10     12      5      2      5      A
+XX
+BA  24 sequences (compiled matrix imported from literature reference)
+XX
+BS  GATAACGGTT; R05119; 1; 10;; p.
+BS  CCAAACTGCC; R05120; 1; 10;; p.
+BS  ATGAACTGTG; R05121; 1; 10;; p.
+BS  GGTAACGGGC; R05122; 1; 10;; p.
+BS  CGCAACGCCC; R05123; 1; 10;; p.
+BS  ACCAACGGCC; R05124; 1; 10;; p.
+BS  AACAACGGTT; R05125; 1; 10;; p.
+BS  GTCAACTGCT; R05126; 1; 10;; p.
+BS  AACAACGGAA; R05127; 1; 10;; p.
+BS  AATAACGGAA; R05128; 1; 10;; p.
+BS  AATAACGGAA; R05129; 1; 10;; p.
+BS  AATAACGGAA; R05130; 1; 10;; p.
+BS  AATAACGGAA; R05131; 1; 10;; p.
+BS  AATAACGGAA; R05132; 1; 10;; p.
+BS  AATAACGGAA; R05133; 1; 10;; p.
+BS  AATAACGGAA; R05134; 1; 10;; p.
+BS  CATAACGGAA; R05135; 1; 10;; p.
+BS  GCTAACGGCA; R05136; 1; 10;; p.
+BS  TGAAACTTGG; R05137; 1; 10;; p.
+BS  TACAACTGAA; R05138; 1; 10;; p.
+BS  AGCAACTGAC; R05139; 1; 10;; p.
+BS  TATAACGGTT; R05140; 10; 10;; p.
+BS  AGTAACGGGT; R05141; 10; 10;; p.
+BS  CATTAACAGA; R05142; 9; 10;; p.
+XX
+CC  includes artificial sites
+XX
+RN  [1]; RE0000112.
+RX  PUBMED: 2688896.
+RA  Ness S. A., Marknell A., Graf T.
+RT  The v-myb oncogene product binds to and activates the promyelocyte-specific mim-1 gene
+RL  Cell 59:1115-1125 (1989).
+RN  [2]; RE0001835.
+RX  PUBMED: 3185713.
+RA  Biedenkapp H., Borgmeyer U., Sippel A., Klempnauer K.-H.
+RT  Viral myb oncogene encodes a sequence-specific DNA-binding activity
+RL  Nature 335:835-837 (1988).
+XX
+//

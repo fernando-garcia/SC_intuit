@@ -1,0 +1,68 @@
+AC  M00257
+XX
+ID  V$RREB1_01
+XX
+DT  28.11.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RREB-1
+XX
+DE  Ras-responsive element binding protein 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T14979; RREB-1; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T01975; RREB-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09923; RREB-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14982; RREB-1; Species: Mammalia; site(s) included: no.
+BF  T17652; RREB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17651; RREB1isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17653; RREB1isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17654; RREB1isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17655; RREB1isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      8      0      0      C
+02      0     11      0      0      C
+03      1     10      0      0      C
+04      0     11      0      0      C
+05     11      0      0      0      A
+06      9      2      0      0      A
+07      8      3      0      0      A
+08      2      8      0      1      C
+09      4      7      0      0      M
+10      7      4      0      0      M
+11      3      8      0      0      C
+12      2      9      0      0      C
+13      3      8      0      0      C
+14      2      7      1      1      C
+XX
+BA  11 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CCCCAAACACCCCC; R07781; 3; 14;; p.
+BS  CCCCAAACCACCCA; R07782; 3; 14;; p.
+BS  CCCCAAACCAACCC; R07783; 3; 14;; p.
+BS  CCCCAACACCCCCT; R07784; 8; 14;; p.
+BS  CCACAAATCACCCC; R07785; 6; 14;; p.
+BS  CCCCACACCACCAC; R07786; 4; 14;; p.
+BS  CCCCAAACAACACC; R07787; 8; 14;; p.
+BS  CCCCAAACCACCAG; R07788; 1; 14;; p.
+BS  ACCCAACACAACCA; R07789; 4; 14;; p.
+BS  ACCCACCCACCAAC; R07790; 7; 14;; p.
+BS  ACCCAAACACACCC; R07791; 6; 14;; p.
+XX
+CC  sequences selected with recombinant RREB-1 from a pool of double-stranded oligonucleotides containing a core of 23 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0073.
+XX
+RN  [1]; RE0004978.
+RX  PUBMED: 8816445.
+RA  Thiagalingam A., de Bustros A., Borges M., Jasti R., Compton D., Diamond L., Mabry M., Ball D. W., Baylin S. B., Nelkin B. D.
+RT  RREB-1, a novel zinc finger protein, is involved in the differentiation response to Ras in human medullary thyroid carcinomas
+RL  Mol. Cell. Biol. 16:5335-5345 (1996).
+XX
+//

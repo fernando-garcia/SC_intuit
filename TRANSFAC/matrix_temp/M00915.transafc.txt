@@ -1,0 +1,104 @@
+AC  M00915
+XX
+ID  V$AP2_Q6_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  11.09.2003 (updated); ddt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-2
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00469; V$AP2ALPHA_01;  (specific).
+HC  M00470; V$AP2GAMMA_01;  (specific).
+HC  M01045; V$AP2ALPHA_02;  (specific).
+HC  M01047; V$AP2ALPHA_03;  (specific).
+HC  M01857; V$AP2ALPHA_Q6;  (specific).
+HC  M01858; V$AP2BETA_Q3;  (specific).
+HC  M01859; V$AP2GAMMA_Q5;  (specific).
+HC  M02819; V$TCFAP2A_03; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02820; V$TCFAP2B_03; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02821; V$TCFAP2C_03; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02924; V$TCFAP2B_04; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02925; V$TCFAP2C_04; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+XX
+BF  T00952; AP-2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T06547; AP-2; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00034; AP-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10513; AP-2alpha; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T08146; AP-2alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10504; AP-2alpha; Species: Mammalia; site(s) included: no.
+BF  T00033; AP-2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10025; AP-2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06374; AP-2alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10369; AP-2alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02488; AP-2alpha isoform 2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02489; AP-2alpha isoform 3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02490; AP-2alpha isoform 4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00035; AP-2alphaA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02466; AP-2alphaB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02467; AP-2beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10491; AP-2beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10999; AP-2beta; Species: Mammalia; site(s) included: no.
+BF  T02469; AP-2beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15063; AP-2beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02468; AP-2gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09207; AP-2gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02470; AP-2gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10482; AP-2gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10535; AP-2gamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     12      8      4      S
+02      5      8      8      3      N
+03      2      8     10      4      N
+04      1     10      7      6      N
+05      0     22      1      1      C
+06      2     20      1      1      C
+07      2     10      7      5      N
+08      1     18      4      1      C
+09     12      5      5      2      A
+10      0      1     23      0      G
+11      0      2     22      0      G
+12      0     22      2      0      C
+13      3      8      7      6      N
+XX
+BA  24 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAGTCCGCAGGCG; R00958; 1; 13;; n.
+BS  CCCGCCGCCGGCC; R00959; 1; 13;; p.
+BS  CGTCCCCGAGGCG; R01032; 9; 13;; p.
+BS  CGGGCCGCGGGCG; R01034; 2; 13;; n.
+BS  GAAACACCCGGCC; R01035; 3; 13;; n.
+BS  GAATCCCCAGCCC; R01054; -4; 13;; n.
+BS  CCGCCCACCGGCC; R01157; 6; 13;; p.
+BS  GGGTCCTCAGCCG; R01158; -3; 13;; n.
+BS  CAGCCCGCCGGCG; R01261; -1; 13;; p.
+BS  CTCCCCAGTGGCT; R01563; -1; 13;; p.
+BS  CCCGCCTCAGGCT; R02425; 2; 13;; p.
+BS  CCGTCCTCAGGCG; R02702; 4; 13;; p.
+BS  GGGCCTGCAGGCT; R03674; -1; 13;; n.
+BS  TCTCCCCCGCGCC; R04035; -2; 13;; p.
+BS  GCCTGGCCAGGCC; R04379; 19; 13;; p.
+BS  GGCGCCCCAGGCC; R04414; 6; 13;; n.
+BS  CGGGCCCCGGGCA; R04415; -2; 13;; p.
+BS  CCGCCCTGCGGCT; R04670; 8; 13;; p.
+BS  CCCCTCCCAGGGA; R04999; 10; 13;; p.
+BS  TACCCCCATGGCC; R05002; 8; 13;; n.
+BS  TTTGCCTGGGGCT; R08502; 1; 13;; p.
+BS  TGCCCAGCAGGCT; R08882; -1; 13;; n.
+BS  GGGGCCGTGGGCG; R13305; 3; 13;; n.
+BS  CTTTCCCCAGGGA; C00346,  s00603; -4; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

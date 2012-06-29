@@ -1,0 +1,62 @@
+AC  M00798
+XX
+ID  P$MYBAS1_01
+XX
+DT  30.05.2003 (created); abd.
+DT  22.12.2011 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MYBAS1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05553; MYBAS1; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      7      4      2      N
+02      4      7      5      2      N
+03      5      6      5      2      N
+04      0      9      2      9      Y
+05     20      0      0      0      A
+06     20      0      0      0      A
+07      0     20      0      0      C
+08      3      4      6      6      N
+09      2      4      9      4      N
+10      3      9      3      4      N
+11      2      8      0      8      Y
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS   CCCAACCCGT; R13434; 1; 11; 1; p.
+BS  GGGCAAC; R13441; 23; 11; 30, 31, 32, 33; p.
+BS  GTCCAACGGTT; R13442; 11; 11;; p.
+BS  GGGTAACGGCC; R13443; 6; 11;; p.
+BS  AAGTAACCCCC; R13444; 7; 11;; p.
+BS  CGTTAACGGC; R13445; 17; 11; 27; p.
+BS  CCACAACTGCC; R13446; 8; 11;; p.
+BS  CGCTAACCTCT; R13447; 8; 11;; p.
+BS  ACATAACTAAT; R13448; 6; 11;; p.
+BS  CCGTAACAGTC; R13449; 3; 11;; p.
+BS  TTACAACATAT; R13450; 11; 11;; p.
+BS     GAACGTGC; R13451; 1; 11; 1, 2, 3; p.
+BS  CATCAACTGCC; R13452; 16; 11;; p.
+BS     TAACCGGA; R13453; 1; 11; 1, 2, 3; p.
+BS  CAATAACGGAC; R13454; 11; 11;; p.
+BS  GCCGAACTACC; R13455; 1; 11;; p.
+BS  ACCTAACACCT; R13456; 1; 11;; p.
+BS  AGGCAACGGTA; R13457; 15; 11;; p.
+BS  CAACAACTTTT; R13458; 6; 11;; p.
+BS  TCCCAACTCCT; R13459; 12; 11;; p.
+XX
+CC  sequences selected with recombinant MYBAS1 from a pool of double-stranded oligonucleotides containing a core of 23 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0022859.
+RX  PUBMED: 11500571.
+RA  Yang S., Sweetman J. P., Amirsadeghi S., Barghchi M., Huttly A. K., Chung W. I., Twell D.
+RT  Novel anther-specific myb genes from tobacco as putative regulators of phenylalanine ammonia-lyase expression.
+RL  Plant Physiol. 126:1738-1753 (2001).
+XX
+//

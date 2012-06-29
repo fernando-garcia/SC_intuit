@@ -1,0 +1,54 @@
+AC  M00419
+XX
+ID  V$MEIS1_01
+XX
+DT  14.12.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MEIS1
+XX
+DE  Meis-1 (myeloid ecotropic viral integration site 1)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03390; Meis-1-1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T03391; Meis-1-2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T03411; Meis-1-3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T03419; meis1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09943; meis1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09993; meis1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T03388; meis1-a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03389; meis1-b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04129; meis1-c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18367; meis1a; Species: Mammalia; site(s) included: yes.
+BF  T14180; meis1b; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01      3      5      2      4      N
+02      5      4      1      4      N
+03      4      3      5      2      N
+04      1      0      1     30      T
+05      0      0     32      0      G
+06     28      0      1      3      A
+07      0     32      0      0      C
+08     32      0      0      0      A
+09      1      4     26      1      G
+10      2      1      3      1      N
+11      2      1      2      3      N
+12      1      3      2      1      N
+XX
+BA  32 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant MEIS1 from a pool of double-stranded oligonucleotides containing a core of 59 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0015480.
+RX  PUBMED: 9343407.
+RA  Shen W. F., Montgomery J. C., Rozenfeld S., Moskow J. J., Lawrence H. J., Buchberg A. M., Largman C.
+RT  AbdB-like Hox proteins stabilize DNA binding by the Meis1 homeodomain proteins
+RL  Mol. Cell. Biol. 17:6448-6458 (1997).
+XX
+//

@@ -1,0 +1,108 @@
+AC  M01122
+XX
+ID  V$ZNF219_01
+XX
+DT  02.06.2006 (created); dtc.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZNF219
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T08613; zfp219; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08614; zfp219; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1     36      2      2      C
+02     16      0     21     11      R
+03      0     60      0      0      C
+04      0     60      0      0      C
+05      0     60      0      0      C
+06      0     60      0      0      C
+07      0     60      0      0      C
+08      6     52      2      0      C
+09     12     21      6     20      N
+10      1     42     14      0      C
+11     12     42      1      2      C
+12      3     49      4      1      C
+XX
+BA  60 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGCCCCCCTCCC; R18937; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18938; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18939; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18940; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18941; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18942; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18943; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18944; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18945; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18946; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18947; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18948; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18949; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18950; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18951; 3; 12;; p.
+BS  CGCCCCCCTCCC; R18952; 3; 12;; p.
+BS  nnCCCCCCCGAC; R18953; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18954; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18955; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18956; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18957; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18958; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18959; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18960; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18961; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18962; -2; 12;; p.
+BS  nnCCCCCCCGAC; R18963; -2; 12;; p.
+BS  CACCCCCCACCC; R18964; 3; 12;; p.
+BS  CACCCCCCACCC; R18965; 3; 12;; p.
+BS  CACCCCCCACCC; R18966; 3; 12;; p.
+BS  CACCCCCCACCC; R18967; 3; 12;; p.
+BS  CACCCCCCACCC; R18968; 3; 12;; p.
+BS  CACCCCCCACCC; R18969; 3; 12;; p.
+BS  CACCCCCCACCC; R18970; 3; 12;; p.
+BS  CACCCCCCACCC; R18971; 3; 12;; p.
+BS  CACCCCCCACCC; R18972; 3; 12;; p.
+BS  CACCCCCCACCC; R18973; 3; 12;; p.
+BS  nTCCCCCCGCCG; R18974; -1; 12;; p.
+BS  nTCCCCCCGCCG; R18975; -1; 12;; p.
+BS  nTCCCCCCGCCG; R18976; -1; 12;; p.
+BS  nTCCCCCCGCCG; R18977; -1; 12;; p.
+BS  CGCCCCCACCCC; R18978; 6; 12;; p.
+BS  CGCCCCCACCCC; R18979; 6; 12;; p.
+BS  CGCCCCCACCCC; R18980; 6; 12;; p.
+BS  CGCCCCCACCCC; R18981; 6; 12;; p.
+BS  nTCCCCCCTCCC; R18982; -1; 12;; p.
+BS  nTCCCCCCTCCC; R18983; -1; 12;; p.
+BS  CACCCCCCGCCC; R18984; 3; 12;; p.
+BS  CGCCCCCCnnnn; R18985; 11; 12;; p.
+BS  CTCCCCCCCCCC; R18986; 5; 12;; p.
+BS  GTCCCCCAAnnn; R18987; 10; 12;; p.
+BS  TACCCCCCCGAC; R18988; 6; 12;; p.
+BS  ATCCCCCCGGCC; R18989; 7; 12;; p.
+BS  TACCCCCAAnnn; R18990; 10; 12;; p.
+BS  CACCCCCGTCCC; R18991; 2; 12;; p.
+BS  CACCCCCCCCTA; R18992; 7; 12;; p.
+BS  nnCCCCCCTAGT; R18993; -2; 12;; p.
+BS  CTCCCCCGCCTC; R18994; 1; 12;; p.
+BS  nTCCCCCCCCCA; R18995; -1; 12;; p.
+BS  GACCCCCCCGCA; R18996; 1; 12;; p.
+XX
+CC  sequences selected with recombinant ZNF219 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+RN  [2]; RE0047358.
+RX  PUBMED: 14621294.
+RA  Sakai T., Hino K., Wada S., Maeda H.
+RT  Identification of the DNA binding specificity of the human ZNF219 protein and its function as a transcriptional repressor.
+RL  DNA Res. 10:155-165 (2003).
+XX
+//

@@ -1,0 +1,70 @@
+AC  M00053
+XX
+ID  V$CREL_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Rel
+XX
+DE  c-Rel
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01154; c-Rel; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01934; c-Rel; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T00168; c-Rel; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09254; c-Rel; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11261; c-Rel; Species: Mammalia; site(s) included: no.
+BF  T00169; c-Rel; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09255; c-Rel; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17115; c-Rel; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T16540; c-Rel; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      5      8      4      S
+02      0      0     16      1      G
+03      1      0     15      1      G
+04      5      1      9      2      R
+05      6      5      3      3      N
+06      5      1      1     10      T
+07      1      0      0     16      T
+08      2      0      0     15      T
+09      0     15      0      2      C
+10      1     16      0      0      C
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGGAACTTTC; R05876; 13; 10;; p.
+BS  GGGAATTTCC; R05877; 11; 10;; p.
+BS  GGGGTTTTTC; R05878; 13; 10;; p.
+BS  TGGTCTTTCC; R05879; 11; 10;; p.
+BS  TGGGCTTTCC; R05880; 11; 10;; p.
+BS  GGGGGTTTCC; R05881; 13; 10;; p.
+BS  CGGGAATTCC; R05882; 13; 10;; p.
+BS  GGGGTATTCC; R05883; 11; 10;; p.
+BS  GGGAAGTACA; R05884; 6; 10;; p.
+BS  CGGCATTTCC; R05885; 8; 10;; p.
+BS  CTAAAAAACC; R05886; 10; 10;; p.
+BS  CGTGCATTCC; R05887; 7; 10;; p.
+BS  GGGGCTTTCC; R05888; 7; 10;; p.
+BS  CGGGGTTTCC; R05889; 11; 10;; p.
+BS  TGGGCATTCC; R05890; 13; 10;; p.
+BS  GGGTTTTTCC; R05891; 8; 10;; p.
+BS  TGGAGTTTCC; R05892; 13; 10;; p.
+XX
+CC  sequences selected with recombinant c-Rel from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0101.
+XX
+RN  [1]; RE0002922.
+RX  PUBMED: 1406630.
+RA  Kunsch C., Ruben S. M., Rosen C. A.
+RT  Selection of optimal kappaB/Rel DNA-binding motifs: interaction of both subunits of NF-kappaB with DNA is required for transcriptional activation
+RL  Mol. Cell. Biol. 12:4412-4421 (1992).
+XX
+//

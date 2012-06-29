@@ -1,0 +1,54 @@
+AC  M00020
+XX
+ID  I$FTZ_01
+XX
+DT  30.11.1992 (created); ewi.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ftz
+XX
+DE  fushi tarazu
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00295; Ftz; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      2      2      0      A
+02      4      2      2      1      N
+03      4      0      2      3      W
+04      2      2      5      0      G
+05      0      6      0      3      C
+06      7      0      1      1      A
+07      9      0      0      0      A
+08      0      0      0      9      T
+09      0      0      0      9      T
+10      9      0      0      0      A
+11      9      0      0      0      A
+12      0      0      9      0      G
+XX
+BA  9 sequences (compiled matrix imported from literature reference)
+XX
+BS  CTAGTAATTAAG; R05416; 1; 12;; p.
+BS  AAAGCTATTAAG; R05417; 1; 12;; p.
+BS  AATCTAATTAAG; R05418; 1; 12;; p.
+BS  AAAGCGATTAAG; R05419; 1; 12;; p.
+BS  GCTGCAATTAAG; R05420; 1; 12;; p.
+BS  GAGGTAATTAAG; R05421; 1; 12;; p.
+BS  AGACCAATTAAG; R05422; 1; 12;; p.
+BS  AGTACAATTAAG; R05423; 1; 12;; p.
+BS  CCGACAATTAAG; R05424; 1; 12;; p.
+XX
+CC  ATTAAG was fixed
+XX
+RN  [1]; RE0002815.
+RX  PUBMED: 1675428.
+RA  Florence B., Handrow R., Laughon A.
+RT  DNA-binding specificity of th fushi tarazu homeodomain
+RL  Mol. Cell. Biol. 11:3613-3623 (1991).
+XX
+//

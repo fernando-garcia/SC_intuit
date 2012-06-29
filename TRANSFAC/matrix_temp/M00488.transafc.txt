@@ -1,0 +1,61 @@
+AC  M00488
+XX
+ID  I$DREF_Q3
+XX
+DT  18.09.2001 (created); rio.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DREF
+XX
+DE  DNA replication-related element binding factor
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T04324; DREF; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T15518; DREF; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      1      0      2      A
+02      2      3      5      0      S
+03      1      6      1      2      C
+04      0      0      0     10      T
+05      9      0      0      1      A
+06      1      0      0      9      T
+07      0     10      0      0      C
+08      0      0     10      0      G
+09      8      0      0      2      A
+10      2      0      0      8      T
+11      7      0      0      3      A
+12      3      0      3      4      D
+13      4      1      3      2      N
+14      2      2      1      5      Y
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGTTATCGATATGT; R09869; 4; 14;; p.
+BS  CACTATCGATATTA; R09870; 4; 14;; p.
+BS  ACCTATCGATATAT; R09871; 6; 14;; p.
+BS  AGCTTTCGATAACA; R11160; 6; 14;; p.
+BS  AGTTATCGATTGGC; R11172; 9; 14;; p.
+BS  ACGTAACGATAAAC; R11173; 9; 14;; p.
+BS  AGCTATCGATAGTT; R11174; 9; 14;; p.
+BS  AGCTATCGTTTGAT; R11175; 19; 14;; p.
+BS   CCTATCGTAATAT; R11175; 1; 14; 1; p.
+BS  TAATATCGAATAGG; R11175; 8; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; binding sites in 4 genes;; sites quality 3 or better
+XX
+RN  [1]; RE0023232.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0002 (2003).
+RN  [2]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

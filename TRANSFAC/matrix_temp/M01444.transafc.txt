@@ -1,0 +1,56 @@
+AC  M01444
+XX
+ID  V$PMX2A_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PMX2A
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03959; PMX2A; Species: human, Homo sapiens; site(s) included: no.
+BF  T11466; PMX2A; Species: human, Homo sapiens; site(s) included: no.
+BF  T02090; PMX2A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11461; PMX2A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03960; PMX2A; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11460; PMX2A; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.17   0.32   0.23   0.28      N
+02    0.3   0.22   0.28   0.21      N
+03   0.21   0.24    0.3   0.25      N
+04    0.3   0.38   0.08   0.23      N
+05   0.68   0.12   0.15   0.05      A
+06   0.03   0.35   0.02    0.6      Y
+07      0   0.11      0   0.88      T
+08   0.97   0.01   0.01   0.01      A
+09   0.99      0   0.01      0      A
+10   0.01      0      0   0.99      T
+11      0      0   0.02   0.97      T
+12   0.88   0.01    0.1   0.01      A
+13   0.29   0.04    0.6   0.08      G
+14   0.05   0.25   0.21   0.49      N
+15   0.33   0.18   0.33   0.16      N
+16   0.26   0.28   0.39   0.08      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0135.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

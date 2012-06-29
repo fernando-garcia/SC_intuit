@@ -1,0 +1,53 @@
+AC  M00035
+XX
+ID  V$VMAF_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  22.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  v-Maf
+XX
+DE  v-Maf
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T01430; v-Maf; Species: AS42, avian musculoaponeurotic fibrosarcoma virus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     17      3      8     11      N
+02     12      7      8     12      N
+03     19      7      6      7      N
+04      5      6      1     27      T
+05      2      0     36      1      G
+06      9     29      0      1      C
+07      2      2      0     35      T
+08      1      2     33      3      G
+09     37      0      2      0      A
+10      0     34      0      5      C
+11      5      5      6     23      T
+12      8     21      7      3      C
+13     23      1      7      8      A
+14      1      0     36      2      G
+15      4     29      4      2      C
+16     24      5      7      3      A
+17      7     18      6      8      N
+18     12     11      9      7      N
+19     12     10      9      8      N
+XX
+BA  39 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant v-Maf from a pool of double-stranded oligonucleotides containing a core of 64 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0002917.
+RX  PUBMED: 8264639.
+RA  Kataoka K., Noda M., Nishizawa M.
+RT  Maf  nuclear oncoprotein recognizes sequences related to an AP-1 site and forms heterodimers with both Fos and Jun
+RL  Mol. Cell. Biol. 14:700-712 (1994).
+XX
+//

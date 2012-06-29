@@ -1,0 +1,84 @@
+AC  M00160
+XX
+ID  V$SRY_02
+XX
+DT  08.06.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SRY
+XX
+DE  sex-determining region Y gene product
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T02903; SRY; Species: gibbon ape, Hylobates lar; site(s) included: no.
+BF  T00997; SRY; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09097; SRY; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00996; SRY; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10666; SRY; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10667; SRY; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T21373; Sry; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      6     10      7      N
+02     10      4      3     12      W
+03     15      1      2     11      W
+04     21      2      1      5      A
+05     25      0      0      4      A
+06      0     29      0      0      C
+07     28      0      0      1      A
+08     27      0      0      2      A
+09     10      0      1     18      W
+10     16      3      5      5      A
+11      7      6     13      3      N
+12     11      2     10      6      N
+XX
+BA  29 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ACACACAATCGA; R07475; 24; 12;; p.
+BS  TAAAACAAGCGA; R07476; 24; 12;; p.
+BS  GATAACAATGGC; R07477; 22; 12;; p.
+BS  ATTAACAATAGT; R07478; 18; 12;; p.
+BS  CGTAACAATTCG; R07479; 25; 12;; p.
+BS  TGTATCAATTTT; R07480; 22; 12;; p.
+BS  CTAAACAAAGCT; R07481; 17; 12;; p.
+BS  ATCAACAAAGAG; R07482; 11; 12;; p.
+BS  GTTAACAAATGG; R07483; 18; 12;; p.
+BS  GCTATCAATTGT; R07484; 10; 12;; p.
+BS  GAAAACAATCGA; R07485; 13; 12;; p.
+BS  TAATACATAATA; R07486; 18; 12;; p.
+BS  ATAAACAATAAA; R07487; 19; 12;; p.
+BS  GTATACAATGAG; R07488; 27; 12;; p.
+BS  ATTATCATAACG; R07489; 16; 12;; p.
+BS  TAAAACAATACA; R07490; 10; 12;; p.
+BS  CTTAACAATAGA; R07491; 14; 12;; p.
+BS  TAGAACAAAACC; R07492; 7; 12;; p.
+BS  CCAAACAATTAG; R07493; 15; 12;; p.
+BS  GAATACAATAAT; R07494; 7; 12;; p.
+BS  GTTTACAATAGA; R07495; 10; 12;; p.
+BS  TGTGACAATAGA; R07496; 27; 12;; p.
+BS  GATAACAAAGAG; R07497; 7; 12;; p.
+BS  ATAAACAATATG; R07498; 25; 12;; p.
+BS  TAAAACAAAAGG; R07499; 12; 12;; p.
+BS  GCGCACAATAGA; R07500; 15; 12;; p.
+BS  GTATTCAAAACT; R07501; 10; 12;; p.
+BS  CAAAACTAAAAG; R07502; 15; 12;; p.
+BS  CTAAACAATAGA; R07503; 17; 12;; p.
+XX
+CC  sequences selected with recombinant SRY from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 9 rounds of selection and amplification
+XX
+DR  JASPAR: MA0084.
+XX
+RN  [1]; RE0003126.
+RX  PUBMED: 8190643.
+RA  Harley V. R., Lovell-Badge R., Goodfellow P. N.
+RT  Definition of a consensus DNA binding site for SRY
+RL  Nucleic Acids Res. 22:1500-1501 (1994).
+XX
+//

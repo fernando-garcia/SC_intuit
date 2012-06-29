@@ -1,0 +1,45 @@
+AC  M02112
+XX
+ID  V$OC2_Q3
+XX
+DT  24.10.2011 (created); mkl.
+DT  25.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  OC-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00639; V$HNF6_Q6;  (family).
+XX
+BF  T03259; OC-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T11361; OC-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16614; OC-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16615; OC-2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0      5      T
+02      0      5      0      0      C
+03      4      1      0      0      A
+04      5      0      0      0      A
+05      0      0      0      5      T
+06      4      1      0      0      A
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TCAATA; R08894; 9; 6;; p.
+BS  AATCAA; R08911; 15; 6;; n.
+BS  TCAATC; R08912; 11; 6;; p.
+BS  TCCATA; R08914; 23; 6;; p.
+BS  TCAATA; R33017; 27; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

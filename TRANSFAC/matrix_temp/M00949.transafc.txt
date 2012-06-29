@@ -1,0 +1,47 @@
+AC  M00949
+XX
+ID  P$AGL15_01
+XX
+DT  06.11.2003 (created); rhe_cga.
+DT  21.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AGL15
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03018; AGL15; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T09190; AGL15; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      4      3     20      T
+02      4      2      1     25      T
+03     16      2      4     10      W
+04      0     32      0      0      C
+05      1     15      0     16      Y
+06     17      4      1     10      W
+07     10      3      2     17      W
+08     17      0      1     14      W
+09     13      0      0     19      W
+10     19      1      2     10      W
+11      8      1      4     19      T
+12     19      0     12      1      R
+13      0      0     31      1      G
+14      9      5      4     14      N
+15     26      1      1      4      A
+16     19      3      4      6      A
+XX
+BA  32 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AGL15 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 3 to 5 rounds of selection and amplification
+XX
+RN  [1]; RE0023431.
+RX  PUBMED: 12743119.
+RA  Tang W., Perry S. E.
+RT  Binding site selection for the plant MADS domain protein AGL15: an in vitro and in vivo study.
+RL  J. Biol. Chem. 278:28154-28159 (2003).
+XX
+//

@@ -1,0 +1,44 @@
+AC  M02053
+XX
+ID  V$ELF_02
+XX
+DT  06.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ELF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T01113; Elf-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08988; Elf-1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     25     43     14     18      N
+02      6     69     21      4      C
+03     13     84      2      1      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     97      1      0      2      A
+07     66      6      1     27      A
+08     48      5     45      2      R
+09      6     18      7     69      T
+10     38     13     31     19      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

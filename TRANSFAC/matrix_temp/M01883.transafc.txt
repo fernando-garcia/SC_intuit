@@ -1,0 +1,51 @@
+AC  M01883
+XX
+ID  V$IRF4_Q6
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRF-4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00772; V$IRF_Q6;  (family).
+HP  M00972; V$IRF_Q6_01;  (family).
+XX
+BF  T04929; IRF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10395; IRF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01412; IRF-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09278; IRF-4-isoform1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T21769; IRF-4-isoform2; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0      7      0      G
+02      7      0      0      0      A
+03      7      0      0      0      A
+04      7      0      0      0      A
+05      3      0      3      1      R
+06      0      1      0      6      T
+07      4      2      0      1      A
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAAAACA; R02982; 13; 7;; p.
+BS  GAAAATT; R13438; 8; 7;; p.
+BS  GAAAGTC; R15508; -3; 7;; n.
+BS  GAAAATA; R25473; 11; 7;; n.
+BS  GAAAGTC; R25477; 23; 7;; p.
+BS  GAAAGTA; R26729; 12; 7;; p.
+BS  GAAAtta; R30511; 19; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

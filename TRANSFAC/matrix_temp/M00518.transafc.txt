@@ -1,0 +1,94 @@
+AC  M00518
+XX
+ID  V$PPARA_02
+XX
+DT  08.11.2001 (created); mas.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PPARalpha:RXRalpha
+XX
+DE  PPAR-alpha:RXR-alpha heterodimer (peroxisome proliferator activated factor alpha:retinoid X receptor alpha)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00763; V$PPAR_DR1_Q2;  (family).
+HP  M00963; V$T3R_Q6; half-site matrix of TRE (thyroid hormone response element) and RARE (retinoic acid response element); (family).
+HP  M00965; V$DR4_Q2; direct repeat 4 (family).
+HP  M00966; V$DR3_Q4; direct repeat 3 (family).
+XX
+BF  T01352; PPARalpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T10003; PPARalpha; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02726; PPARalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08632; PPARalpha; Species: human, Homo sapiens; site(s) included: no.
+BF  T09956; PPARalpha; Species: Mammalia; site(s) included: no.
+BF  T00694; PPARalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08431; PPARalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00991; PPARalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08991; PPARalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01359; RXR-alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T19709; RXR-alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01345; RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08433; RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09964; RXR-alpha; Species: Mammalia; site(s) included: no.
+BF  T08965; RXR-alpha; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T01331; RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08348; RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08133; RXR-alpha; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T04383; RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08930; RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      6      2      8      N
+02      5      6      4      4      N
+03      6      2      9      2      R
+04      0      0     19      0      G
+05      0      0     19      0      G
+06      0      1      1     17      T
+07      1     13      2      3      C
+08     16      1      2      0      A
+09      0      0      0      1      T
+10      3      0      2      5      W
+11      2      2     12      3      G
+12      4      1     14      0      G
+13      0      0     19      0      G
+14      0      0     19      0      G
+15      0      0      2     17      T
+16      0     10      7      2      S
+17     12      0      4      3      A
+18      5      3      7      3      N
+19      1      1     12      4      G
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CTGGGTCA  TAGGTGAGG; R11591; 1; 19; 9, 10; p.
+BS  GTCGGTCA  AGGGTGAGG; R11592; 1; 19; 9, 10; p.
+BS  CAAGGTCA  GGGGTCGGT; R11593; 1; 19; 9, 10; p.
+BS  TGGGGTCA  GGGGTCATG; R11594; 1; 19; 9, 10; p.
+BS  ATAGGTTA  GAGGTCAGG; R11595; 1; 19; 9, 10; p.
+BS  CGGGGTCG  GGGGTTACA; R11596; 1; 19; 9, 10; p.
+BS  TAGGGTCA  GGGGTGTAT; R11597; 1; 19; 9, 10; p.
+BS  TACGGCCA  CAGGTTACT; R11598; 1; 19; 9, 10; p.
+BS  TGTGGTGA  TCGGGCACG; R11604; 10; 19; 18, 19; p.
+BS  GTAGGTCG GGGGGTCGAG; R11605; 1; 19; 9; p.
+BS  AGGGGTCA TGGGGTCGAG; R11606; 1; 19; 9; p.
+BS  ACAGGTCA TGGGGTGAGG; R11607; 1; 19; 9; p.
+BS  TCGGGTCA TAGGGTGTAG; R11608; 1; 19; 9; p.
+BS  TCGGGTAA AGGGGTCAGT; R11609; 1; 19; 9; p.
+BS  CAAGGTGC TGGGGTGGTG; R11610; 1; 19; 9; p.
+BS  CAGGGGCA GCAGGGCTAC; R11611; 1; 19; 9; p.
+BS  TCGGGTTA AGGGGTGAGG; R11612; 10; 19; 18; p.
+BS  CCTGGTCA ATGGGTCATG; R11613; 9; 19; 17; p.
+BS  TCAGGTTATTGGGGTCA; R11619; 1; 19; 18, 19; p.
+XX
+CC  sequences selected with recombinant PPARalpha:RXRalpha from a pool of double-stranded oligonucleotides containing a core of 27 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

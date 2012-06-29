@@ -1,0 +1,62 @@
+AC  M01180
+XX
+ID  P$SPL14_01
+XX
+DT  25.03.2008 (created); nta.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SPL14
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T09195; SPL14; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     16      0      0      C
+02      0     20      0      0      C
+03      0      0     20      0      G
+04      0      0      0     20      T
+05     20      0      0      0      A
+06      0     18      0      0      C
+07     12      0      5      0      A
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS   CGTACA; R23686; 1; 7; 1; p.
+BS   CGTACA; R23687; 1; 7; 1; p.
+BS   CGTACA; R23688; 1; 7; 1; p.
+BS   CGTACA; R23689; 1; 7; 1; p.
+BS  CCGTACG; R23690; 7; 7;; p.
+BS  CCGTACA; R23691; 7; 7;; p.
+BS  CCGTACA; R23692; 7; 7;; p.
+BS  CCGTA; R23693; 7; 7; 12, 13; p.
+BS  CCGTA; R23694; 7; 7; 12, 13; p.
+BS  CCGTAC; R23695; 7; 7; 13; p.
+BS  CCGTACA; R23696; 7; 7;; p.
+BS  CCGTACG; R23697; 7; 7;; p.
+BS  CCGTACA; R23698; 7; 7;; p.
+BS  CCGTACA; R23699; 7; 7;; p.
+BS  CCGTACG; R23700; 7; 7;; p.
+BS  CCGTACA; R23701; 7; 7;; p.
+BS  CCGTACG; R23702; 7; 7;; p.
+BS  CCGTACA; R23703; 7; 7;; p.
+BS  CCGTACA; R23704; 7; 7;; p.
+BS  CCGTACG; R23705; 7; 7;; p.
+XX
+CC  sequences selected with recombinant SPL14 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0052385.
+RX  PUBMED: 18302343.
+RA  Liang X., Nazarenus T. J., Stone J. M.
+RT  Identification of a Consensus DNA-Binding Site for the Arabidopsis thaliana SBP Domain Transcription Factor, AtSPL14, and Binding Kinetics by Surface Plasmon Resonance.
+RL  Biochemistry 47:3645-3653 (2008).
+RN  [2]; RE0053941.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel123:0001 (2008).
+XX
+//

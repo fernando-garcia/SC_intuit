@@ -1,0 +1,37 @@
+AC  M00204
+XX
+ID  F$GCN4_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCN4
+XX
+DE  GCN4
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00321; GCN4; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T10854; GCN4; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   2.69   2.46   1.74   0.81      N
+02   5.18   0.00   2.52   0.00      A
+03   4.30   0.00   2.43   0.97      R
+04   0.00   0.00   0.00   7.70      T
+05   0.00   0.00   7.70   0.00      G
+06   7.70   0.00   0.00   0.00      A
+07   0.00   6.01   0.00   1.68      C
+08   0.00   0.00   0.00   7.70      T
+09   0.00   7.70   0.00   0.00      C
+10   3.40   1.65   0.00   1.88      W
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0.22, total weight of sequences: 7.70)
+XX
+//

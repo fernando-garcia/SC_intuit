@@ -1,0 +1,80 @@
+AC  M00447
+XX
+ID  V$AR_Q2
+XX
+DT  22.08.2001 (created); mas.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AR
+XX
+DE  androgen receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04652; AR; Species: baboon, Papio hamadryas; site(s) included: yes.
+BF  T16701; AR; Species: baboon, Papio hamadryas; site(s) included: yes.
+BF  T06152; AR; Species: bull frog, Rana catesbeiana; site(s) included: yes.
+BF  T16706; AR; Species: bull frog, Rana catesbeiana; site(s) included: yes.
+BF  T04653; AR; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T16702; AR; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T06147; AR; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T16705; AR; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00040; AR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04655; AR; Species: lemur, Eulemur fulvus collaris; site(s) included: yes.
+BF  T16704; AR; Species: lemur, Eulemur fulvus collaris; site(s) included: yes.
+BF  T04654; AR; Species: macaque, Macaca fascicularis; site(s) included: yes.
+BF  T16703; AR; Species: macaque, Macaca fascicularis; site(s) included: yes.
+BF  T15601; AR; Species: Mammalia; site(s) included: no.
+BF  T00041; AR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08473; AR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06150; AR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T16707; AR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T06151; AR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T16708; AR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00042; AR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08528; AR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06149; AR; Species: spotted hyena, Crocuta crocuta; site(s) included: yes.
+BF  T16709; AR; Species: spotted hyena, Crocuta crocuta; site(s) included: yes.
+BF  T16700; AR; Species: Vertebrata; site(s) included: no.
+BF  T08487; AR-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18763; AR-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      0      1      0      A
+02      1      0      6      0      G
+03      3      0      0      4      W
+04      5      0      2      0      A
+05      0      5      2      0      C
+06      4      1      1      1      A
+07      0      1      1      5      T
+08      1      1      3      2      N
+09      3      1      0      3      W
+10      2      0      0      5      T
+11      0      0      7      0      G
+12      0      0      0      7      T
+13      2      0      0      5      T
+14      0      7      0      0      C
+15      1      0      0      6      T
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGTACGTGATGTTCT; R03286; 1; 15;; p.
+BS  AGTAGCTTTTGTTCT; R10144; 1; 15;; p.
+BS  AGTAGATTCTGTTCT; R10148; 1; 15;; p.
+BS  GGTACATCTTGTTCA; R10149; 1; 15;; p.
+BS  AGAGCAGGAAGTACT; R10150; 1; 15;; p.
+BS  AAAACTCATTGTTCT; R10151; 1; 15;; p.
+BS  AGAGCATGAAGTACT; R10152; 1; 15;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

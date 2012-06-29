@@ -1,0 +1,46 @@
+AC  M01302
+XX
+ID  V$MYF_01
+XX
+DT  30.09.2009 (created); jtr.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MYF
+XX
+DE  Myf b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16734; Myf; Species: Mammalia; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      8      1      0      M
+02      9      0      7      0      R
+03      4      2     10      0      G
+04      0     15      1      0      C
+05     16      0      0      0      A
+06      7      0      9      0      R
+07      0     15      1      0      C
+08      6      0      0     10      W
+09      0      0     16      0      G
+10      0     10      6      0      S
+11      6      0      0     10      W
+12      0      0     16      0      G
+XX
+BA  16 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites with an experimetally determined role in skeletal muscle gene expression
+XX
+DR  JASPAR: MA0055.
+XX
+RN  [1]; RE0015243.
+RX  PUBMED: 9571041.
+RA  Wasserman W. W., Fickett J. W.
+RT  Identification of regulatory regions which confer muscle-specific gene expression
+RL  J. Mol. Biol. 278:167-181 (1998).
+XX
+//

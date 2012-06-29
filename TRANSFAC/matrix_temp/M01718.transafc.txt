@@ -1,0 +1,109 @@
+AC  M01718
+XX
+ID  V$NFAT2_Q5
+XX
+DT  26.04.2010 (created); dtc.
+DT  01.09.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-AT2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00302; V$NFAT_Q6; Nuclear factor of activated T-cells (family).
+HP  M00935; V$NFAT_Q4_01;  (family).
+XX
+BF  T01945; NF-AT2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11025; NF-AT2; Species: Mammalia; site(s) included: yes.
+BF  T01947; NF-AT2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09906; NF-AT2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17544; NF-AT2b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10296; NFAT2-A-alpha-prime; Species: human, Homo sapiens; site(s) included: no.
+BF  T08999; NFAT2-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19119; NFAT2-B-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10297; NFAT2-B-alpha-prime; Species: human, Homo sapiens; site(s) included: no.
+BF  T19120; NFAT2-B-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10295; NFAT2-C-alpha-prime; Species: human, Homo sapiens; site(s) included: no.
+BF  T19121; NFAT2-C-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05544; NFAT2A-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05545; NFAT2A-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16364; NFAT2C-alpha; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1      1      3     50      T
+02      0      1      0     54      T
+03      0      0      0     55      T
+04      0     55      0      0      C
+05      1     54      0      0      C
+06     28      5      6     15      W
+07     14     16      9     15      N
+XX
+BA  55 sequences (matrix compiled from individual genomic sites)
+XX
+BS  tttcctc; R00931; 2; 7;; n.
+BS  tttcctc; R02348; -2; 7;; n.
+BS  tttcctc; R02349; -2; 7;; n.
+BS  ATTCCAG; R05049; 7; 7;; p.
+BS  tttcaaa; R05051; -2; 7;; n.
+BS  TTTCCAG; R05053; 6; 7;; p.
+BS  TTTCCAA; R05080; 3; 7;; p.
+BS  tttccag; R05097; 4; 7;; n.
+BS  TTTCCAA; R08170; 13; 7;; p.
+BS  GTTCCAT; R13414; 5; 7;; p.
+BS  TTTCCAA; R14422; 6; 7;; p.
+BS  TTTCCAT; R14475; 18; 7;; p.
+BS  tttccct; R14626; 12; 7;; n.
+BS  tttccgc; R14662; 10; 7;; n.
+BS  gttccgc; R14705; 8; 7;; n.
+BS  tttccct; R19778; 16; 7;; n.
+BS  tttccgc; R20468; 6; 7;; n.
+BS  TTTCCTA; R20907; 12; 7;; p.
+BS  TTTCCGC; R21082; 42; 7;; p.
+BS  tttccnn; R21503; -2; 7;; n.
+BS  tttccta; R21504; -2; 7;; n.
+BS  tttccaa; R21752; 8; 7;; n.
+BS  tttccac; R24088; 7; 7;; n.
+BS  tttcctt; R24474; 13; 7;; n.
+BS  tctccca; R24711; 12; 7;; n.
+BS  TTTCCAT; R25248; 17; 7;; p.
+BS  tttccat; R25664; 4; 7;; n.
+BS  tttcctc; R26633; 1; 7;; n.
+BS  tttcctt; R27156; 15; 7;; n.
+BS  tttccac; R27157; 11; 7;; n.
+BS  tttcctc; R27348; 2; 7;; n.
+BS  TTTCCTA; R28018; 7; 7;; p.
+BS  tttccaa; R29501; 7; 7;; n.
+BS  tttccgc; R29590; 5; 7;; n.
+BS  tttccaa; R29623; 6; 7;; n.
+BS  tttccac; R29624; 3; 7;; n.
+BS  tttccaa; R29645; 4; 7;; n.
+BS  TTTCCAG; R29658; 13; 7;; p.
+BS  tttccgc; R29670; 9; 7;; n.
+BS  tttccag; R29724; 10; 7;; n.
+BS  tttccat; R29735; 6; 7;; n.
+BS  gttccat; R29747; 10; 7;; n.
+BS  CTTCCAT; R29750; 11; 7;; p.
+BS  tttcctg; R29799; 14; 7;; n.
+BS  TTTCCTG; R29800; 6; 7;; p.
+BS  tttccac; R29846; 6; 7;; n.
+BS  tttccaa; R29894; 8; 7;; n.
+BS  tttcccg; R29899; 16; 7;; n.
+BS  tttccta; R30033; 16; 7;; n.
+BS  tttcctt; R30049; 12; 7;; n.
+BS  TTTCCAT; R30062; 10; 7;; p.
+BS  TTTCCat; R30108; 11; 7;; p.
+BS  tttccct; R30110; 6; 7;; n.
+BS  TTTCCag; R30111; 11; 7;; p.
+BS  tttcctc; R30119; 14; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

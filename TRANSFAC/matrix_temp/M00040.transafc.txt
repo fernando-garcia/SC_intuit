@@ -1,0 +1,55 @@
+AC  M00040
+XX
+ID  V$CREBP1_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  22.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF2
+XX
+DE  cAMP-responsive element binding protein 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T10136; ATF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10236; ATF-2; Species: Mammalia; site(s) included: no.
+BF  T10238; ATF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01382; ATF-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10203; ATF-2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02056; ATF-2-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18791; ATF-2-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10202; ATF-2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01017; ATF-2-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09335; ATF-2-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02036; ATF-2-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10213; ATF-2-xbb3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00167; ATF-2-xbb4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     47      T
+02      0      0      8     39      T
+03     47      0      0      0      A
+04      0     47      0      0      C
+05      4      0     43      0      G
+06      0      0      0     47      T
+07     39      7      0      1      A
+08     45      2      0      0      A
+XX
+BA  47 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant ATF2 from a pool of double-stranded oligonucleotides containing a core of 44 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0002915.
+RX  PUBMED: 8190638.
+RA  Benbrook D. M., Jones N. C.
+RT  Different binding specificities and transactivation of variant CRE's by CREB complexes
+RL  Nucleic Acids Res. 22:1463-1469 (1994).
+XX
+//

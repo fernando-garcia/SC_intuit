@@ -1,0 +1,57 @@
+AC  M01864
+XX
+ID  V$ATF4_Q6
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF-4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T01303; ATF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09531; ATF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04854; ATF-4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08444; ATF-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06459; ATF-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10437; ATF-4; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02052; ATF4 (381AA); Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      1      4      5      K
+02      8      0      2      0      A
+03      0     10      0      0      C
+04      3      0      6      1      G
+05      0      0      1      9      T
+06      0     10      0      0      C
+07     10      0      0      0      A
+08      1      1      4      4      K
+09      1      4      4      1      S
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GACGTCAGC; R01358; 1; 9;; n.
+BS  GACGTCATG; R03916; 11; 9;; n.
+BS  TGCATCATC; R16637; 7; 9;; p.
+BS  TGCGTCAAG; R22891; 7; 9;; n.
+BS  TACATCAGA; R26801; 19; 9;; p.
+BS  TACTTCATG; R29487; 10; 9;; n.
+BS  GACGTCAGG; R30029; 14; 9;; p.
+BS  GACGTCAGC; R34063; 5; 9;; n.
+BS  TACATCATC; R34152; 6; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

@@ -1,0 +1,121 @@
+AC  M01007
+XX
+ID  V$SRF_Q5_02
+XX
+DT  27.08.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SRF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00762; SRF; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T18625; SRF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18626; SRF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00761; SRF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17868; SRF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00763; SRF; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T17840; SRF; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00764; SRF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09343; SRF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14063; SRF; Species: Mammalia; site(s) included: no.
+BF  T16471; SRF; Species: Mammalia; site(s) included: yes.
+BF  T05114; SRF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00766; SRF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14064; SRF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03690; SRF; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03997; SRF-I; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00765; SRF-L; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03995; SRF-M; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03996; SRF-S; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7     29     11      7      C
+02     22     15      6     11      N
+03      4      6     19     25      K
+04      9     18     16     11      N
+05      4      9     15     26      K
+06      0     52      0      2      C
+07      0     52      0      2      C
+08     12      5      0     37      T
+09      3      0      0     51      T
+10     35      2      4     13      A
+11      0      1      1     52      T
+12     31      1      1     21      W
+13      5      2      2     45      T
+14      8      0     46      0      G
+15      1      0     53      0      G
+16      8     19     12     15      N
+17     13     21      9     11      N
+18     21      9     11     13      N
+19      5      9     18     22      N
+XX
+BA  54 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCTTGCCTTATTTGGTCCC; R00024; -4; 19;; n.
+BS  CCTTGCCTTATTTGGTCCC; R00026; -4; 19;; n.
+BS  CCTTGCCTTATTTGGTCCC; R00027; -4; 19;; n.
+BS  TCGAGCCATATTTGGGTGT; R00036; 1; 19;; n.
+BS  CATGTCCTTATATGGACTC; R00038; -5; 19;; p.
+BS  GGAATCCCTATTTGGCCAT; R00048; -5; 19;; p.
+BS  TTAGCCCATGTATGGAAAG; R00049; -4; 19;; n.
+BS  CCTGCCCTTATTTGGTAGC; R00050; -4; 19;; n.
+BS  GATGCCCATATTTGGCGAT; R00051; 3; 19;; p.
+BS  CAGCCCCCTCTCCAGATTA; R00142; -6; 19;; p.
+BS  CAGCTCCCTATTTGGCCAT; R01757; -5; 19;; p.
+BS  CCCTTCCTTACATGGTCTG; R01759; -5; 19;; p.
+BS  CATGGCCATATATGGGAAG; R01795; 3; 19;; n.
+BS  CAGCGCCTTATATGGAGTG; R01796; 2; 19;; p.
+BS  CTGCTCCTTATATGGCGTT; R01797; 3; 19;; n.
+BS  CATATCCTTTTATGGCCCT; R02907; -5; 19;; p.
+BS  TATTTCCATATTTGGGTAT; R03375; 1; 19;; n.
+BS  AGCAGCCATATGTGGACAG; R03412; 2; 19;; p.
+BS  ACGCTCCTTATACGGCCCG; R03495; 1; 19;; p.
+BS  GAGCGCCTTCTTTGGGCAG; R03496; 1; 19;; p.
+BS  GAGCTCCTTATATGGCTAA; R08490; -5; 19;; p.
+BS  CCGCTCCTTATATGGCGAG; R09533; -4; 19;; n.
+BS  TGTTTCCTTTTATGGCGAG; R09534; -4; 19;; n.
+BS  TATCTCTTTATATGGGGGG; R09535; -8; 19;; p.
+BS  CCGCGCCTTATAAGGCGGC; R09538; 5; 19;; p.
+BS  AAAAACCTTTTATGGGCAG; R09541; 1; 19;; n.
+BS  GAGGTCCCTATATGGTTGT; R09597; 1; 19;; p.
+BS  CTGCTCCTTATATGGCGTT; R09704; 3; 19;; n.
+BS  CTGCTTCTTATATGGCATT; R09707; 9; 19;; n.
+BS  TCTGCCCATATATGGGCCT; R13375; 2; 19;; p.
+BS  CTGCTCCTTATATGGCATT; R14637; 6; 19;; n.
+BS  ACCCACCTTATATGGTAAT; R14706; 20; 19;; p.
+BS  CCTGGCCTTTTTGGGTTGT; R14816; 4; 19;; p.
+BS  CGGGACCATATTTAGTCAG; R14817; 8; 19;; p.
+BS  AAGACCCAAGTTTGGCTTG; R14834; 5; 19;; p.
+BS  GATTGCCTTAGTTGGGATG; R14835; 5; 19;; p.
+BS  CATTTCCTAATTAGGTAAA; R14840; 2; 19;; n.
+BS  TTGCTCCTTGTTTGGGAAG; R14841; 1; 19;; p.
+BS  AGTTGCTTTATATAAACTA; R14842; 9; 19;; p.
+BS  CAGATCCATGTATGGAAGC; R14851; 9; 19;; p.
+BS  CTCTTCCTTTTATAGTCAG; R14859; 2; 19;; p.
+BS  GAGATCCTTATTTGGTCAA; R14866; 3; 19;; p.
+BS  GCTCTCCATTTATAGCACC; R14868; 9; 19;; p.
+BS  CTTAGCCTATTTAGGGTCT; R14871; 9; 19;; p.
+BS  AAACACCTTATATGGCCAT; R14873; 6; 19;; p.
+BS  GATGCCCCTTTAAGGTCTG; R14881; 2; 19;; p.
+BS  CCTGGCCTTTTTGGGTTGT; R14882; 4; 19;; p.
+BS  GACTTCCTTTTATGGCCTG; R14883; 7; 19;; p.
+BS  GATGCCCTTTTAAAGTTAT; R14955; 14; 19;; n.
+BS  CCCGCCCTTATTTGGAGCC; R14956; -1; 19;; p.
+BS  CTTGTCCTTTTATAGCAGT; R14969; 2; 19;; p.
+BS  CGTCGCCATATTTGGGTGT; C00008,  s00012; -4; 19;; n.
+BS  CTTGTCCTTTTATAGCAGT; s00080; 9; 19;; p.
+BS  CTTGTTCTTATATGGGCAT; C00127,  s00190; -5; 19;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better; including 3 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

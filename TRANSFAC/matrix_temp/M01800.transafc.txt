@@ -1,0 +1,40 @@
+AC  M01800
+XX
+ID  P$HMGIY_01
+XX
+DT  09.09.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HMGIY
+XX
+DE  binding to A/T rich region
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T18374; HMGIY; Species: pea, Pisum sativum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      0      0      9      W
+02      6      1      0      7      W
+03      4      0      0     10      T
+04      3      0      0     11      T
+05      1      0      0     13      T
+06      1      1      2      9      T
+XX
+BA  14 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant HMGIY from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0045.
+XX
+RN  [1]; RE0052083.
+RX  PUBMED: 9161031.
+RA  Webster C. I., Packman L. C., Pwee K. H., Gray J. C.
+RT  High mobility group proteins HMG-1 and HMG-I/Y bind to a positive regulatory region of the pea plastocyanin gene promoter.
+RL  Plant J. 11:703-715 (1997).
+XX
+//

@@ -1,0 +1,40 @@
+AC  M01678
+XX
+ID  F$MET4_01
+XX
+DT  22.02.2010 (created); mkl.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MET4
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T02310; MET4; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     20      0      0      0      A
+02     10      5      5      0      V
+03      0     16      0      4      C
+04      0      0      0     20      T
+05      0      0     20      0      G
+06      0      0      0     20      T
+07      0      0     20      0      G
+08      0      0     20      0      G
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  used PhyloCon and Converge for ChIP Motifs approach
+XX
+DR  JASPAR: MA0335.
+XX
+RN  [1]; RE0065640.
+RX  PUBMED: 16522208.
+RA  Macisaac K. D., Wang T., Gordon D. B., Gifford D. K., Stormo G. D., Fraenkel E.
+RT  An improved map of conserved regulatory sites for Saccharomyces cerevisiae.
+RL  BMC Bioinformatics 7:113 (2006).
+XX
+//

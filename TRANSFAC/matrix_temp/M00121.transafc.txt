@@ -1,0 +1,67 @@
+AC  M00121
+XX
+ID  V$USF_01
+XX
+DT  19.05.1995 (created); ewi.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  USF
+XX
+DE  upstream stimulating factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00187; V$USF_Q6; upstream stimulating factor (family).
+HP  M00796; V$USF_Q6_01;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T00872; USF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00876; USF; Species: duck, Cairina moschata; site(s) included: yes.
+BF  T00870; USF; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T08280; usf1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T17657; usf1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00874; usf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09328; usf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02378; usf1; Species: Kenyan clawed frog, Xenopus borealis; site(s) included: no.
+BF  T08329; usf1; Species: Mammalia; site(s) included: no.
+BF  T00877; usf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09188; usf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15656; usf1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T15657; usf1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T00875; usf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08279; usf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15479; usf1; Species: sheep, Ovis aries; site(s) included: no.
+XX
+P0      A      C      G      T
+01     13      7     11      5      N
+02      7      6     17     10      N
+03     19      3     17      3      R
+04      6     16      4     20      Y
+05      0     58      0      0      C
+06     56      1      1      0      A
+07      0     55      0      3      C
+08      3      0     55      0      G
+09      0      1      1     56      T
+10      0      0     58      0      G
+11     20      4     16      6      R
+12      3     17      3     19      Y
+13     10     17      6      7      N
+14      5     11      7     13      N
+XX
+BA  58 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  half-site sequences selected with recombinant USF from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 2 rounds of selection and amplification; figures have been mirrored to obtain the complete matrix
+XX
+DR  JASPAR: MA0093.
+XX
+RN  [1]; RE0002936.
+RX  PUBMED: 8052536.
+RA  Bendall A. J., Molloy P. L.
+RT  Base preference for DNA binding by the bHLH-Zip protein USF: effects of magnesiumchloride on specificity and comparison with binding of Myc family members
+RL  Nucleic Acids Res. 22:2801-2810 (1994).
+XX
+//

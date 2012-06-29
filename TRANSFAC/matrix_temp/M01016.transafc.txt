@@ -1,0 +1,82 @@
+AC  M01016
+XX
+ID  V$SOX17_01
+XX
+DT  27.08.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX17
+XX
+DE  half-site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T06030; Sox17; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17871; Sox17; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17962; Sox17; Species: Mammalia; site(s) included: yes.
+BF  T06029; Sox17; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17872; Sox17-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19249; Sox17-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     19      8      3      1      A
+02     31      0      0      0      A
+03      0     31      0      0      C
+04     31      0      0      0      A
+05     31      0      0      0      A
+06      0      0      0     31      T
+XX
+BA  31 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AACAAT; R15236; 6; 6;; p.
+BS  AACAAT; R15237; 7; 6;; p.
+BS  AACAAT; R15238; 6; 6;; p.
+BS  AACAAT; R15239; 10; 6;; p.
+BS  AACAAT; R15240; 8; 6;; p.
+BS  AACAAT; R15241; 6; 6;; p.
+BS  AACAAT; R15242; 6; 6;; p.
+BS  AACAAT; R15243; 6; 6;; p.
+BS  AACAAT; R15244; 6; 6;; p.
+BS  AACAAT; R15245; 6; 6;; p.
+BS  AACAAT; R15246; 6; 6;; p.
+BS  AACAAT; R15247; 7; 6;; p.
+BS  AACAAT; R15248; 8; 6;; p.
+BS  AACAAT; R15249; 6; 6;; p.
+BS  AACAAT; R15250; 6; 6;; p.
+BS  AACAAT; R15251; 6; 6;; p.
+BS  AACAAT; R15252; 6; 6;; p.
+BS  AACAAT; R15253; 6; 6;; p.
+BS  AACAAT; R15254; 6; 6;; p.
+BS  TACAAT; R15255; 7; 6;; p.
+BS  GACAAT; R15256; 6; 6;; p.
+BS  GACAAT; R15257; 6; 6;; p.
+BS  CACAAT; R15258; 6; 6;; p.
+BS  CACAAT; R15259; 6; 6;; p.
+BS  CACAAT; R15260; 5; 6;; p.
+BS  CACAAT; R15261; 5; 6;; p.
+BS  CACAAT; R15262; 5; 6;; p.
+BS  CACAAT; R15263; 5; 6;; p.
+BS  CACAAT; R15264; 5; 6;; p.
+BS  GACAAT; R15265; 6; 6;; p.
+BS  CACAAT; R15266; 5; 6;; p.
+XX
+CC  sequences selected with recombinant SOX17 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 7 rounds of selection and amplification
+XX
+DR  JASPAR: MA0078.
+DR  JASPAR: PB0066.
+XX
+RN  [1]; RE0050097.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel113:0001 (2007).
+RN  [2]; RE0024438.
+RX  PUBMED: 8636240.
+RA  Kanai Y., Kanai-Azuma M., Noce T., Saido T. C., Shiroishi T., Hayashi Y., Yazaki K.
+RT  Identification of two Sox17 messenger RNA isoforms, with and without the high mobility group box region, and their differential expression in mouse spermatogenesis.
+RL  J. Cell Biol. 133:667-681 (1996).
+XX
+//

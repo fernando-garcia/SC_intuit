@@ -1,0 +1,63 @@
+AC  M01202
+XX
+ID  V$VDRRXR_01
+XX
+DT  25.11.2008 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  VDR:RXR
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15476; VDR:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15476; VDR:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      7      0      G
+02      0      0     10      0      G
+03      0      0      9      1      G
+04      0      0      0     10      T
+05      0      9      0      1      C
+06      9      0      1      0      A
+07      4      2      0      4      W
+08      2      4      2      2      N
+09      2      0      8      0      G
+10      5      0      5      0      R
+11      0      0     10      0      G
+12      0      0      0     10      T
+13      1      0      0      9      T
+14      0      9      0      1      C
+15      7      1      2      0      A
+XX
+BA  10 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGGTCATAGGGTTCA; R26009; 11; 15;; p.
+BS  AGGTCAACGAGTTCA; R26011; 11; 15;; p.
+BS  GGGTCGTGGGGTTCA; R26012; 11; 15;; p.
+BS  GGGTCATTAAGTTCA; R26013; 11; 15;; p.
+BS  GGGTCAAAGAGTTCA; R26014; 11; 15;; p.
+BS  GGGTCAACGGGTTTA; R26015; 11; 15;; p.
+BS  GGTTCAACGGGTTCA; R26016; 11; 15;; p.
+BS  GGGTCATGAGGTTCC; R26017; 11; 15;; p.
+BS  AGGTCACCGAGTACG; R26018; 11; 15;; p.
+BS  GGGTTACTGAGTTCG; R26019; 11; 15;; p.
+XX
+CC  sequences selected with recombinant VDR:RXR from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0074.
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+RN  [2]; RE0052081.
+RX  PUBMED: 8674817.
+RA  Colnot S., Lambert M., Blin C., Thomasset M., Perret C.
+RT  Identification of DNA sequences that bind retinoid X receptor-1,25(OH)2D3-receptor heterodimers with high affinity.
+RL  Mol. Cell. Endocrinol. 113:89-98 (1995).
+XX
+//

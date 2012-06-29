@@ -1,0 +1,93 @@
+AC  M00735
+XX
+ID  P$ZAP1_01
+XX
+DT  21.08.2002 (created); sla.
+DT  22.12.2011 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZAP1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03722; ZAP1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      1     50      T
+02      1      0      0     51      T
+03      1      0     51      0      G
+04     50      1      1      0      A
+05      2     50      0      0      C
+06      1     47      2      2      C
+07      4      5     40      3      G
+08     33     12      4      3      A
+09      2      8     37      5      G
+10      2     28      7     15      Y
+XX
+BA  52 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTGACCGAGT; R09161; 5; 10;; p.
+BS  TTGACCGAGC; R09162; 5; 10;; p.
+BS  TTGACCGAGT; R09163; 5; 10;; p.
+BS  TTGACCGAGT; R09164; 5; 10;; p.
+BS  TTGACCGAGC; R09165; 5; 10;; p.
+BS  TTGACCGAGT; R09166; 5; 10;; p.
+BS  TTGACCGAGT; R09167; 5; 10;; p.
+BS  TTGACCGAGC; R09168; 5; 10;; p.
+BS  TTGACCGAGT; R09169; 5; 10;; p.
+BS  TTGACCTCAA; R09170; 5; 10;; p.
+BS  TTGACCGATC; R09171; 14; 10;; p.
+BS  TTGACCGAGC; R09172; 5; 10;; p.
+BS  TTGACCGAGC; R09173; 7; 10;; p.
+BS  TTGACCGAGT; R09174; 5; 10;; p.
+BS  TTGACCGAGC; R09175; 5; 10;; p.
+BS  TTGACCGAGC; R09177; 7; 10;; p.
+BS  TTGACTATTG; R09178; 16; 10;; p.
+BS  TTGACCGAGC; R09179; 5; 10;; p.
+BS  TTGACCGGTC; R09180; 10; 10;; p.
+BS  TTGACCGAGC; R09181; 5; 10;; p.
+BS  TTGACCGAGC; R09182; 5; 10;; p.
+BS  TTGACCGACT; R09183; 9; 10;; p.
+BS  TTGACCGAGC; R09184; 5; 10;; p.
+BS  TTGACCGTTG; R09185; 5; 10;; p.
+BS  TTGACCGAGC; R09186; 5; 10;; p.
+BS  TTGACCGAGC; R09187; 5; 10;; p.
+BS  TTGACCGAGT; R09188; 5; 10;; p.
+BS  TTGACCGAGC; R09189; 5; 10;; p.
+BS  TTGACCGCGC; R09190; 5; 10;; p.
+BS  TTGACCGAGG; R09191; 5; 10;; p.
+BS  TTGACCCGCG; R09192; 5; 10;; p.
+BS  TTGACCGAGT; R09193; 5; 10;; p.
+BS  TTGACCGAGC; R09194; 5; 10;; p.
+BS  TTGACCGAGT; R09195; 5; 10;; p.
+BS  TTGACCCGCA; R09196; 8; 10;; p.
+BS  TTGACCGAGC; R09197; 5; 10;; p.
+BS  TTGACCTTGT; R09198; 9; 10;; p.
+BS  TTGACCGAGT; R09199; 5; 10;; p.
+BS  TTGACCGCGC; R09200; 5; 10;; p.
+BS  TTGACCGAGC; R09201; 7; 10;; p.
+BS  TTGACCGCCC; R09202; 12; 10;; p.
+BS  TTGACCCCAC; R09203; 5; 10;; p.
+BS  TTGACCGAGC; R09204; 5; 10;; p.
+BS  TTGACCGCGG; R09205; 10; 10;; p.
+BS  TTGACCGAGC; R09206; 5; 10;; p.
+BS  AAAGATACCC; R09207; 5; 10;; p.
+BS  TTGACCACGC; R09208; 5; 10;; p.
+BS  TTGACGCCCG; R09209; 16; 10;; p.
+BS  TTGACCCCCC; R09210; 7; 10;; p.
+BS  TTGACATCGT; R09211; 5; 10;; p.
+BS  TTGACCGGCG; R09212; 6; 10;; p.
+BS  GTGCAGACTT; R09213; 5; 10;; p.
+XX
+CC  sequences selected with recombinant ZAP1 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0014988.
+RX  PUBMED: 8972846.
+RA  de Pater S., Greco V., Pham K., Memelink J., Kijne J.
+RT  Characterization of a zinc-dependent transcriptional activator from Arabidopsis
+RL  Nucleic Acids Res. 24:4624-4631 (1996).
+XX
+//

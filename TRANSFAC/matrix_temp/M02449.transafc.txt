@@ -1,0 +1,42 @@
+AC  M02449
+AS  MA0330
+XX
+ID  F$MBP1::SWI6_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MBP1::SWI6
+XX
+DE  class: Ig-fold; family: Rel
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03480; MBP1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01  15153      0    405   6881      A
+02     82  21942    101    179      C
+03     45    182  21983     23      G
+04     31  19078    188   3065      C
+05     59    182  21982     21      G
+06    726   1491   1506  18880      T
+07    365   9107    882  13437      Y
+XX
+BA  22439 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0330.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

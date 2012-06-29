@@ -1,0 +1,72 @@
+AC  M00155
+XX
+ID  V$ARP1_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ARP-1 (COUP-TF2)
+XX
+DE  apolipoprotein AI regulatory protein 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00762; V$DR1_Q3; Direct repeat 1 (family).
+HP  M00765; V$COUP_DR1_Q6;  (family).
+HP  M00965; V$DR4_Q2; direct repeat 4 (family).
+HP  M00967; V$HNF4_Q6; half-site matrix (family).
+HP  M01036; V$COUPTF_Q6;  (family).
+XX
+BF  T18422; COUP-TF2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18423; COUP-TF2; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T06155; COUP-TF2; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00045; COUP-TF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10068; COUP-TF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10310; COUP-TF2; Species: Mammalia; site(s) included: no.
+BF  T13744; COUP-TF2; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T06154; COUP-TF2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09429; COUP-TF2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06156; COUP-TF2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10954; COUP-TF2; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      1      0      6      T
+02      0      1      6      0      G
+03      6      1      0      0      A
+04      1      0      1      0      R
+05      0      5      1      1      C
+06      0      6      0      1      C
+07      0      4      0      3      Y
+08      1      1      0      5      T
+09      0      0      0      7      T
+10      0      0      7      0      G
+11      4      0      1      0      A
+12      2      3      1      0      M
+13      2      5      0      0      C
+14      0      5      0      2      C
+15      0      4      1      2      C
+16      3      0      0      4      W
+XX
+BA  7 sequences (compiled matrix imported from literature reference)
+XX
+BS  TGAACCCTTGACCCCT; R07372; 3; 16;; p.
+BS  TGA TCCTTGAACTCT; R07373; 3; 16; 6; p.
+BS  TGA CCTTTG  CCCA; R07374; 6; 16; 9,16,17; p.
+BS  CGC CCTTTGGACCTT; R07375; 3; 16; 6; p.
+BS  TGA CCTTTGACACCA; R07376; 10; 16; 13; p.
+BS  TGA CCCCTG GACTT; R07377; 15; 16; 18,25; p.
+BS  TCAGGTCATGACCTGA; R07378; 1; 16;; p.
+XX
+CC  binding sites from 6 genes
+XX
+RN  [1]; RE0002714.
+RX  PUBMED: 1899293.
+RA  Ladias J. A. A., Karathanasis S. K.
+RT  Regulation of the apolipoprotein A1 gene by ARP-1, a novel member of the steroid receptor superfamily
+RL  Science 251:561-565 (1991).
+XX
+//

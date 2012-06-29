@@ -1,0 +1,80 @@
+AC  M00042
+XX
+ID  V$SOX5_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  22.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX5
+XX
+DE  Sox-5
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T18021; L-Sox5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16046; SOX5; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16047; SOX5; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10544; Sox5; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T01861; Sox5; Species: human, Homo sapiens; site(s) included: no.
+BF  T10439; Sox5; Species: human, Homo sapiens; site(s) included: no.
+BF  T17612; Sox5; Species: Mammalia; site(s) included: yes.
+BF  T01429; Sox5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10543; Sox5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16536; Sox5; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      6      3      9      N
+02      7      4      3      8      N
+03     21      0      1      1      A
+04     22      0      1      0      A
+05      0     22      0      1      C
+06     23      0      0      0      A
+07     22      1      0      0      A
+08      0      0      0     23      T
+09     10      3      6      4      N
+10      5      7      6      5      N
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CTAACAATGT; R05705; 11; 10;; p.
+BS  TCAACAATAG; R05706; 18; 10;; p.
+BS  TAAACAATTC; R05707; 15; 10;; p.
+BS  AAAACAATTC; R05708; 14; 10;; p.
+BS  GTAACAATCA; R05709; 11; 10;; p.
+BS  TAAACAATTT; R05710; 8; 10;; p.
+BS  CAAACAATAC; R05711; 11; 10;; p.
+BS  TCAACAATAA; R05712; 19; 10;; p.
+BS    AACAATGG; R05713; -2; 10;; p.
+BS  CAAACAATAG; R05714; 13; 10;; p.
+BS  CTAACAATAC; R05715; 11; 10;; p.
+BS  CTAACAATGA; R05716; 30; 10;; p.
+BS  AGAACAATAC; R05717; 22; 10;; p.
+BS  ATAACAATAG; R05718; 27; 10;; p.
+BS  TCAACAATAG; R05719; 18; 10;; p.
+BS  CTAACAATGT; R05720; 11; 10;; p.
+BS  ATAACAATCT; R05721; 26; 10;; p.
+BS  GCAACAATGA; R05722; 30; 10;; p.
+BS  TTGACAATAA; R05723; 12; 10;; p.
+BS  TGAATAATAT; R05724; 18; 10;; p.
+BS  GAAACACTCG; R05725; 11; 10;; p.
+BS  TATACAATTC; R05726; 12; 10;; p.
+BS  TGAGCAATGC; R05727; 29; 10;; p.
+XX
+CC  sequences selected with recombinant SOX5 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0087.
+DR  JASPAR: PB0072.
+XX
+RN  [1]; RE0002914.
+RX  PUBMED: 1396566.
+RA  Denny P., Swift S., Connor F., Ashworth A.
+RT  An SRY-related gene expressed during spermatogenesis in the mouse encodes a sequence-specific DNA-binding protein
+RL  EMBO J. 11:3705-3712 (1992).
+XX
+//

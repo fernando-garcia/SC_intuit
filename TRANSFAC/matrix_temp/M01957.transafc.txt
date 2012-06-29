@@ -1,0 +1,43 @@
+AC  M01957
+XX
+ID  F$YRR1_02
+XX
+DT  15.04.2011 (created); mkl.
+DT  21.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YRR1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03716; YRR1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.21   0.42   0.22   0.15      N
+02   0.16   0.16    0.1   0.58      T
+03   0.22   0.08   0.04   0.66      T
+04   0.89   0.01   0.02   0.08      A
+05   0.19   0.09   0.04   0.68      T
+06   0.28   0.33   0.08   0.32      N
+07   0.04   0.22   0.07   0.68      T
+08      0      1      0      0      C
+09      0      1      0      0      C
+10   0.03      0   0.95   0.02      G
+11   0.06   0.41   0.14   0.39      Y
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  defined from z-scores of the octamers occupying the 32 spots in the PBM
+XX
+DR  JASPAR: MA0439.
+XX
+RN  [1]; RE0065610.
+RX  PUBMED: 19111667.
+RA  Badis G., Chan E. T., van Bakel H., Pena-Castillo L., Tillo D., Tsui K., Carlson C. D., Gossett A. J., Hasinoff M. J., Warren C. L., Gebbia M., Talukder S., Yang A., Mnaimneh S., Terterov D., Coburn D., Li Yeo A., Yeo Z. X., Clarke N. D., Lieb J. D., Ansari A. Z., Nislow C., Hughes T. R.
+RT  A library of yeast transcription factor motifs reveals a widespread function for Rsc3 in targeting nucleosome exclusion at promoters.
+RL  Mol. Cell 32:878-887 (2008).
+XX
+//

@@ -1,0 +1,45 @@
+AC  M01787
+XX
+ID  F$RAP1_03
+XX
+DT  23.08.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RAP1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00715; RAP1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     92     21     37     10      A
+02     26    125      9      0      C
+03    149      5      6      0      A
+04      4    110      3     43      C
+05      2    158      0      0      C
+06      6    148      0      6      C
+07     97      3     53      7      R
+08     12     24     14    110      T
+09    112      6     34      8      A
+10      0    157      2      1      C
+11    135     25      0      0      A
+12      2     55      0    103      Y
+13     25     81      3     51      Y
+14     42     30     18     70      N
+15     28     58     17     57      N
+XX
+BA  160 sequences (ChIP-on-chip)
+XX
+CC  used  MEME algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0067392.
+RX  PUBMED: 20231876.
+RA  Lavoie H., Hogues H., Mallick J., Sellam A., Nantel A., Whiteway M.
+RT  Evolutionary tinkering with conserved components of a transcriptional regulatory network.
+RL  PLoS Biol. 8:e1000329 (2010).
+XX
+//

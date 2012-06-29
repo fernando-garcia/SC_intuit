@@ -1,0 +1,74 @@
+AC  M01028
+XX
+ID  V$NRSF_Q4
+XX
+DT  12.11.2004 (created); dtc.
+DT  23.08.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NRSF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T10492; REST; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T06124; REST; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10469; REST; Species: Mammalia; site(s) included: no.
+BF  T05934; REST; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09307; REST; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05957; REST; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10483; REST isoform 1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18280; Rest isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01974; Rest isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10486; REST4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18251; RESTisoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18252; RESTisoform4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      2     11      1      G
+02      1      8      0      5      Y
+03      4      1      7      2      R
+04      0     13      1      0      C
+05      1      0      0     13      T
+06      0      2     12      0      G
+07      0      2      0     12      T
+08      0     13      0      1      C
+09      0     13      1      0      C
+10      5      2      7      0      R
+11      0      6      0      8      Y
+12      0      0     12      2      G
+13      0      2     12      0      G
+14      1      0      0     13      T
+15      0      0     12      2      G
+16      0     14      0      0      C
+17      1      0      0     13      T
+18      0      1     13      0      G
+19      9      2      3      0      A
+XX
+BA  14 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCAGAGTCCATTCAGCACC; R14827; -6; 19;; p.
+BS  GCACTCTCCGTGGTGCTGA; R15608; 2; 19;; n.
+BS  GCGCTCTCCGCGGTGCTGA; R15609; 2; 19;; n.
+BS  GTCCTGCCCATGGTGCTGA; R15627; 9; 19;; p.
+BS  GAACTGTCCGTGGTGCTGG; R15635; 11; 19;; n.
+BS  CTTCTGTCCATGGTGCTGA; R15639; 3; 19;; n.
+BS  GCACTGTCCGCGGTGCTGA; R15652; 2; 19;; n.
+BS  GTGCTGTCCGTGGTTCTGA; R15654; 2; 19;; n.
+BS  GCGCTGTCCGCGGTGCTGA; R15657; 2; 19;; n.
+BS  GCTCTGTCCACGGTGCTGG; R15659; 2; 19;; n.
+BS  TCGCTGTCCCTGGTGCTGA; R15660; 2; 19;; n.
+BS  GCGCTGTCCGCGGTGCTGC; R15662; 2; 19;; n.
+BS  GTGCTGCTGCCTCTGCTGG; R15673; -3; 19;; n.
+BS  CTGCTGTCCATGGTTCTGA; R15680; 2; 19;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0025141.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel84:0001 (2004).
+XX
+//

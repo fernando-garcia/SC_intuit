@@ -1,0 +1,77 @@
+AC  M01809
+XX
+ID  P$RIN_01
+XX
+DT  07.01.2011 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RIN
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T14801; RIN; Species: tomato, Lycopersicon esculentum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     33      0      0      C
+02      0     27      0      7      C
+03     31      0      0      3      A
+04     16      0      4     16      W
+05     28      0      0      8      A
+06     25      0      0     11      A
+07     34      0      0      2      A
+08      7      0      0     28      T
+09     33      0      2      0      A
+10      0      0     35      0      G
+XX
+BA  36 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CTATAAATAG; R33999; 11; 10;; p.
+BS  CTATAAATAG; R34000; 11; 10;; p.
+BS  CTATAAATAG; R34001; 15; 10;; p.
+BS  CTATAAATAG; R34002; 15; 10;; p.
+BS  CTATAAATAG; R34003; 10; 10;; p.
+BS  CTAAAAATAG; R34004; 8; 10;; p.
+BS  CCAAAAATGG; R34005; 11; 10;; p.
+BS  CCAAAAAAGG; R34006; 5; 10;; p.
+BS  CCAAATA; R34007; 20; 10; 27, 28, 29; p.
+BS  CCATTAATAG; R34008; 13; 10;; p.
+BS  CCATTTATAG; R34009; 10; 10;; p.
+BS  CCATTTATAG; R34010; 10; 10;; p.
+BS     TTTATAG; R34011; 1; 10; 1, 2, 3; p.
+BS  CCATTTATAG; R34012; 15; 10;; p.
+BS  CCATTTATAG; R34013; 14; 10;; p.
+BS  CCATAAATAG; R34014; 6; 10;; p.
+BS  CCATAAATAG; R34015; 14; 10;; p.
+BS  CCAAATATAG; R34016; 2; 10;; p.
+BS  CCAAAAATAG; R34017; 9; 10;; p.
+BS  CCAAAAATAG; R34018; 10; 10;; p.
+BS  CCAAAAATAG; R34019; 4; 10;; p.
+BS  CCAAAAATAG; R34020; 7; 10;; p.
+BS  CCAAAAATAG; R34021; 12; 10;; p.
+BS  CCAAAAATAG; R34022; 12; 10;; p.
+BS     AAAATAG; R34023; 1; 10; 1, 2, 3; p.
+BS  CCTAAAATAG; R34024; 7; 10;; p.
+BS  CCTAATATAG; R34025; 7; 10;; p.
+BS  CCTTAAATAG; R34026; 13; 10;; p.
+BS  CCAAAAAAAG; R34027; 8; 10;; p.
+BS  CCATTTTAAG; R34028; 9; 10;; p.
+BS  CCATTTTAAG; R34029; 3; 10;; p.
+BS  CCAAATAAAG; R34030; 9; 10;; p.
+BS  ACAGAAATAG; R34031; 5; 10;; p.
+BS  CCAGAAATAG; R34032; 7; 10;; p.
+BS  CTAGAAAAAG; R34033; 5; 10;; p.
+BS  CCAGAAAAAG; R34034; 5; 10;; p.
+XX
+CC  sequences selected with recombinant RIN from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0067113.
+RX  PUBMED: 18363783.
+RA  Ito Y., Kitagawa M., Ihashi N., Yabe K., Kimbara J., Yasuda J., Ito H., Inakuma T., Hiroi S., Kasumi T.
+RT  DNA-binding specificity, transcriptional activation potential, and the rin mutation effect for the tomato fruit-ripening regulator RIN.
+RL  Plant J. 55:212-223 (2008).
+XX
+//

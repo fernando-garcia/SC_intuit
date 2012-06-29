@@ -1,0 +1,68 @@
+AC  M02764
+AS  PB0030
+XX
+ID  V$HNF4A_04
+XX
+DT  15.11.2011 (created); jaspar.
+DT  10.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF4-alpha
+XX
+DE  class: Zinc-coordinating; family: Hormone-nuclear Receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00158; V$COUP_01;  (family).
+HP  M00762; V$DR1_Q3; Direct repeat 1 (family).
+HP  M00764; V$HNF4_DR1_Q3;  (family).
+HP  M00967; V$HNF4_Q6; half-site matrix (family).
+XX
+BF  T05287; HNF-4alpha; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T02423; HNF-4alpha2; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     22     28     25     24      N
+02     20     19     27     34      N
+03     15     32     21     32      N
+04     27     30     24     18      N
+05     44     33      2     21      M
+06     13      3     83      1      G
+07     14      0     85      0      G
+08      0      0     99      1      G
+09      0      0     88     11      G
+10      0      0      2     98      T
+11      0     98      0      2      C
+12     88      9      3      0      A
+13     74     11      8      8      A
+14     16     32     18     34      N
+15     23     18     16     44      N
+16     23     19     33     25      N
+17     32     31     20     17      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0030.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

@@ -1,0 +1,70 @@
+AC  M02079
+XX
+ID  V$ISL2_02
+XX
+DT  20.10.2011 (created); lat.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Isl2
+XX
+DE  class I, fragment containing only homeodomain
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T22549; Isl-2a; Species: chinook salmon, Oncorhynchus tschawytscha; site(s) included: yes.
+BF  T22551; Isl2; Species: chinook salmon, Oncorhynchus tschawytscha; site(s) included: yes.
+BF  T22552; Isl2b; Species: chinook salmon, Oncorhynchus tschawytscha; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     20      0      7      C
+02      0      0      0     28      T
+03     28      0      0      0      A
+04     28      0      0      0      A
+05      0      0      0     28      T
+06      1      0     16     11      K
+07     11      1     15      1      R
+XX
+BA  28 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CTAATTA; R36906; 7; 7;; p.
+BS  TTAATGG; R36907; 11; 7;; p.
+BS  CTAATGA; R36908; 14; 7;; p.
+BS  CTAATTA; R36909; 13; 7;; p.
+BS  CTAATTA; R36910; 11; 7;; p.
+BS  TTAATTA; R36911; 14; 7;; p.
+BS  CTAATGG; R36912; 9; 7;; p.
+BS  CTAATTA; R36913; 13; 7;; p.
+BS  CTAATGA; R36914; 13; 7;; p.
+BS  TTAATGG; R36915; 9; 7;; p.
+BS  CTAATGA; R36916; 12; 7;; p.
+BS  CTAATGG; R36917; 9; 7;; p.
+BS  TTAATAG; R36918; 11; 7;; p.
+BS  CTAATGG; R36919; 6; 7;; p.
+BS  CTAATTA; R36920; 10; 7;; p.
+BS  CTAATGT; R36921; 12; 7;; p.
+BS  CTAATTG; R36922; 10; 7;; p.
+BS  CTAATGG; R36923; 12; 7;; p.
+BS  ATAATGG; R36924; 9; 7;; p.
+BS  CTAATTG; R36925; 12; 7;; p.
+BS  CTAATGG; R36926; 10; 7;; p.
+BS  TTAATGG; R36927; 13; 7;; p.
+BS  CTAATGC; R36928; 10; 7;; p.
+BS  CTAATGA; R36929; 11; 7;; p.
+BS  CTAATTA; R36930; 11; 7;; p.
+BS  CTAATTG; R36931; 14; 7;; p.
+BS  TTAATTG; R36932; 14; 7;; p.
+BS  TTAATGG; R36933; 14; 7;; p.
+XX
+CC  sequences selected with recombinant ISl2 homeo domain from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5th and 6th rounds of selection and amplification
+XX
+RN  [1]; RE0071293.
+RX  PUBMED: 7999775.
+RA  Gong Z., Hew C. L.
+RT  Zinc and DNA binding properties of a novel LIM homeodomain protein Isl-2.
+RL  Biochemistry 33:15149-15158 (1994).
+XX
+//

@@ -1,0 +1,56 @@
+AC  M00154
+XX
+ID  F$STRE_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STRE
+XX
+DE  stress-response element
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+P0      A      C      G      T
+01      3      3      1     10      T
+02      6      7      1      3      M
+03     17      0      0      0      A
+04      0      0     17      0      G
+05      0      0     17      0      G
+06      0      0     17      0      G
+07      0      0     17      0      G
+08      4      5      7      1      N
+XX
+BA  17 sequences (compiled matrix imported from literature reference)
+XX
+BS  CAAGGGGA; R07355; 1; 8;; p.
+BS  TAAGGGGC; R07356; 1; 8;; p.
+BS  TAAGGGGT; R07357; 1; 8;; p.
+BS  TAAGGGGC; R07358; 1; 8;; p.
+BS  ACAGGGGG; R07359; 1; 8;; p.
+BS  AAAGGGGC; R07360; 1; 8;; p.
+BS  TCAGGGGG; R07361; 1; 8;; p.
+BS  CCAGGGGA; R07362; 1; 8;; p.
+BS  TCAGGGGC; R07363; 1; 8;; p.
+BS  TCAGGGGG; R07364; 1; 8;; p.
+BS  TTAGGGGG; R07365; 1; 8;; p.
+BS  TTAGGGGG; R07366; 1; 8;; p.
+BS  TAAGGGGG; R07367; 1; 8;; p.
+BS  TTAGGGGA; R07368; 1; 8;; p.
+BS  GCAGGGGG; R07369; 1; 8;; p.
+BS  AGAGGGGA; R07370; 1; 8;; p.
+BS  CCAGGGGC; R07371; 1; 8;; p.
+XX
+CC  stress-response element-related sequences from 7 stress-induced yeast genes
+XX
+RN  [1]; RE0003123.
+RX  PUBMED: 7523111.
+RA  Schueller C., Brewster J. L., Alexander M. R., Gustin M. C., Ruis H.
+RT  The HOG pathway controls osmotic regulation of transcription via the stress response element (STRE) of the Saccharomyces cerevisiae CTT1 gene
+RL  EMBO J. 13:4382-4389 (1994).
+XX
+//

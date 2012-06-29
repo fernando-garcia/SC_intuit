@@ -1,0 +1,41 @@
+AC  M00946
+XX
+ID  P$TGA1B_01
+XX
+DT  05.09.2003 (created); ela.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TGA1b
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T00830; TGA1b; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      3      0      D
+02      1      1      0      2      H
+03      0      3      3      0      S
+04      6      0      0      0      A
+05      0      6      0      0      C
+06      0      0      6      0      G
+07      0      0      0      6      T
+08      0      3      3      0      S
+09      2      0      1      1      D
+10      0      3      0      1      B
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GACACGTGTC; R08682; 1; 10;; p.
+BS  GCCACGTGGC; R08691; 1; 10;; p.
+BS  GTGACGTCAC; R08692; 1; 10;; p.
+BS  ATGACGTCAT; R08694; 1; 10;; p.
+BS  NNGACGTCNN; R08695; 1; 10;; p.
+BS  NNCACGTGNN; R08696; 1; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; artificial sites
+XX
+//

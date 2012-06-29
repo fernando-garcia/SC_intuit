@@ -1,0 +1,47 @@
+AC  M02224
+AS  MA0118
+XX
+ID  M$MACHO1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  06.01.2012 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Macho-1
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Tunicata
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Coelomata; Deuterostomia; Chordata
+XX
+P0      A      C      G      T
+01      5     15      6     16      N
+02      9      2     23      8      G
+03      0      0     42      0      G
+04      0      0     42      0      G
+05      3      4     23     12      K
+06      0      0     42      0      G
+07      5      7     15     15      N
+08      5     14      4     19      Y
+09     13     14     10      5      N
+XX
+BA  42 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  imported from JASPAR; sequences selected with recombinant Macho-1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0118.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0052075.
+RX  PUBMED: 15661650.
+RA  Sawada K., Fukushima Y., Nishida H.
+RT  Macho-1 functions as transcriptional activator for muscle formation in embryos of the ascidian Halocynthia roretzi.
+RL  Gene Expr. Patterns 5:429-437 (2005).
+XX
+//

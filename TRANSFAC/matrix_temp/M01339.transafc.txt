@@ -1,0 +1,55 @@
+AC  M01339
+XX
+ID  V$PAX7_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-7
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03021; Pax-7; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00396; Pax-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02960; Pax-7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17836; Pax-7; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.32   0.36   0.14   0.18      N
+02   0.20   0.23   0.40   0.17      N
+03   0.41   0.21   0.08   0.29      N
+04   0.29   0.29   0.21   0.21      N
+05   0.11   0.44   0.02   0.43      Y
+06   0.06   0.20   0.01   0.72      T
+07   0.91   0.01   0.08   0.00      A
+08   0.95   0.00   0.02   0.03      A
+09   0.03   0.02   0.00   0.95      T
+10   0.00   0.08   0.01   0.91      T
+11   0.72   0.01   0.20   0.06      A
+12   0.43   0.02   0.44   0.11      R
+13   0.12   0.20   0.29   0.39      N
+14   0.40   0.21   0.13   0.25      N
+15   0.31   0.33   0.21   0.15      N
+16   0.26   0.15   0.27   0.33      N
+17   0.37   0.19   0.23   0.21      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0133.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

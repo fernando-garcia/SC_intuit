@@ -1,0 +1,64 @@
+AC  M02262
+AS  MA0065
+XX
+ID  V$PPARGRXRA_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PPARgamma:RXR-alpha
+XX
+DE  class: Zinc-coordinating; family: Hormone-nuclear Receptor, heterodimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00763; V$PPAR_DR1_Q2;  (family).
+HP  M00963; V$T3R_Q6; half-site matrix of TRE (thyroid hormone response element) and RARE (retinoic acid response element); (family).
+HP  M00965; V$DR4_Q2; direct repeat 4 (family).
+HP  M00966; V$DR3_Q4; direct repeat 3 (family).
+XX
+BF  T05347; PPARgamma; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T02529; PPARgamma1; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T05332; PPARgamma2; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T01331; RXR-alpha; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T08348; RXR-alpha; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     94    317    320    126      N
+02    101    166    127    464      T
+03    390     23    368     79      R
+04    100      3    671     87      G
+05    139     15    674     34      G
+06    145    129    395    193      N
+07     71    547    179     66      C
+08    819     21     15      8      A
+09    522     48    270     23      R
+10    713      5    137      9      A
+11     82      2    767     12      G
+12     41      9    693    120      G
+13     22     99    263    479      K
+14     54    555    144    109      C
+15    676     58     47     81      A
+XX
+BA  sequences (ChIP-Seq)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0065.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071777.
+RX  PUBMED: 18981474.
+RA  Nielsen R., Pedersen T. A., Hagenbeek D., Moulos P., Siersbaek R., Megens E., Denissov S., Borgesen M., Francoijs K. J., Mandrup S., Stunnenberg H. G.
+RT  Genome-wide profiling of PPARgamma:RXR and RNA polymerase II occupancy reveals temporal activation of distinct metabolic pathways and changes in RXR dimer composition during adipogenesis.
+RL  Genes Dev. 22:2953-2967 (2008).
+XX
+//

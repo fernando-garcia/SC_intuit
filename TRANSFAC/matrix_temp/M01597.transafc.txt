@@ -1,0 +1,45 @@
+AC  M01597
+XX
+ID  V$ZFP281_01
+XX
+DT  18.01.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Zfp281
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16856; Zfp281; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     65     30    116    275      T
+02      8      3    463     12      G
+03      4      3    476      3      G
+04     29      0    449      8      G
+05      4      1    476      5      G
+06      5      4    477      0      G
+07    302     43      4    137      A
+08     35      3    412     36      G
+09      4      1    478      3      G
+10     19      3    447     17      G
+11     19      3    454     10      G
+XX
+BA  486 sequences (ChIP-on-chip)
+XX
+CC  Zpf281 binding motif defined from ChIP-on-chip experiment in mouse J1 ES cell line
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0062853.
+RX  PUBMED: 18358816.
+RA  Kim J., Chu J., Shen X., Wang J., Orkin S. H.
+RT  An extended transcriptional network for pluripotency of embryonic stem cells.
+RL  Cell 132:1049-1061 (2008).
+XX
+//

@@ -1,0 +1,50 @@
+AC  M01703
+XX
+ID  V$GLI2_01
+XX
+DT  20.04.2010 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Gli2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01037; V$GLI_Q2;  (family).
+XX
+BF  T11124; GLI2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17905; Gli2; Species: Mammalia; site(s) included: yes.
+BF  T06386; Gli2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17629; Gli2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04961; GLI2alpha; Species: human, Homo sapiens; site(s) included: no.
+BF  T08167; Gli2beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T08169; Gli2delta; Species: human, Homo sapiens; site(s) included: no.
+BF  T08168; Gli2gamma; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0   0.98   0.02      G
+02   0.82   0.09   0.09      0      A
+03   0.04   0.96      0      0      C
+04      0      1      0      0      C
+05   0.84   0.06   0.01   0.09      A
+06      0      1      0      0      C
+07    0.1    0.9      0      0      C
+08   0.01   0.89      0    0.1      C
+09      1      0      0      0      A
+10   0.38   0.36   0.12   0.14      N
+11   0.04   0.16   0.71   0.09      G
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  PWM was computed on the basis of affinity measurements with EEL
+XX
+RN  [1]; RE0066570.
+RX  PUBMED: 16413481.
+RA  Hallikas O., Palin K., Sinjushina N., Rautiainen R., Partanen J., Ukkonen E., Taipale J.
+RT  Genome-wide prediction of mammalian enhancers based on analysis of transcription-factor binding affinity.
+RL  Cell 124:47-59 (2006).
+XX
+//

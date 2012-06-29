@@ -1,0 +1,242 @@
+AC  M00926
+XX
+ID  V$AP1_Q4_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  11.09.2003 (updated); ddt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00041; V$CREBP1CJUN_01; CRE-binding protein 1:c-Jun heterodimer (specific).
+HC  M00173; V$AP1_Q2; activator protein 1 (specific).
+HC  M00174; V$AP1_Q6; activator protein 1 (specific).
+HC  M00188; V$AP1_Q4; activator protein 1 (specific).
+HC  M00199; V$AP1_C; AP-1 binding site (specific).
+HC  M01267; V$FRA1_Q5;  (specific).
+HC  M02095; V$FRA1_Q6;  (specific).
+HC  M02280; V$AP1_02; class: Zipper-Type; family: Leucine Zipper (specific).
+XX
+BF  T00029; AP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00032; AP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00031; AP-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15628; c-Fos; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T15629; c-Fos; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00125; c-Fos; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00123; c-Fos; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08776; c-Fos; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02205; c-Fos; Species: Japanese pufferfish, Fugu rubripes; site(s) included: yes.
+BF  T10346; c-Fos; Species: Mammalia; site(s) included: no.
+BF  T00122; c-Fos; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08534; c-Fos; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08072; c-Fos; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T17690; c-fos; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00124; c-Fos; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08493; c-Fos; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15626; c-Jun; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T15627; c-Jun; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00134; c-Jun; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10315; c-Jun; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15585; c-Jun; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T02830; c-Jun; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T17873; c-Jun; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T00135; c-Jun; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00133; c-Jun; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08461; c-Jun; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01976; c-Jun; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T09446; c-Jun; Species: Mammalia; site(s) included: no.
+BF  T08950; c-Jun; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00131; c-Jun; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08587; c-Jun; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08071; c-Jun; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00132; c-Jun; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08466; c-Jun; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15665; c-Jun; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T05989; deltaFosB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02198; deltaFosB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05987; deltaFosB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05984; FosB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08993; FOSB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00291; FosB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10574; FOSB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05985; FosB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11091; FOSB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17699; fra 1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T01462; Fra-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08989; Fra-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00292; Fra-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08533; Fra-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01208; Fra-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08537; Fra-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01990; Fra-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15637; Fra-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01991; Fra-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08990; Fra-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02199; Fra-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08535; Fra-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02200; Fra-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10423; Fra-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18680; Fra1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T17697; jun B; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T17698; jun D; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T01977; JunB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08491; JunB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10510; JunB; Species: Mammalia; site(s) included: no.
+BF  T00436; JunB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08590; JunB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06445; JunB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09434; JunB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02196; JunD; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01978; JunD; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08995; JunD; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09447; JunD; Species: Mammalia; site(s) included: no.
+BF  T00437; JunD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08536; JunD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02197; JunD; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10426; JunD; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      7     19     85      T
+02     27      5     65     22      G
+03     76     13     13     17      A
+04      6     17     86     10      G
+05      0      1      0    118      T
+06      4    112      1      2      C
+07    118      1      0      0      A
+08     12     29     30     48      N
+XX
+BA  119 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGAGTCAT; R00133; 4; 8;; n.
+BS  TGAGTCAG; R00235; 2; 8;; p.
+BS  TTAGTCAT; R00341; 10; 8;; n.
+BS  TTCGTCAC; R00343; 8; 8;; p.
+BS  TAACTCAC; R00345; 1; 8;; p.
+BS  TACGTCAC; R00352; -1; 8;; n.
+BS  GACGTCAC; R00455; 3; 8;; p.
+BS  TGCGTCAG; R00468; 1; 8;; p.
+BS  TGGCTAAG; R00578; 8; 8;; p.
+BS  TGATTCAG; R00736; 1; 8;; n.
+BS  TTAGTCAT; R00742; 2; 8;; p.
+BS  TGAGTCAA; R00805; 2; 8;; n.
+BS  TGAGTCAA; R00806; 15; 8;; p.
+BS  TAATCTAA; R00903; 5; 8;; p.
+BS  TCAGTCAG; R00934; 1; 8;; p.
+BS  GGAGTCAG; R00954; 2; 8;; n.
+BS  GATGTCAC; R00957; 1; 8;; n.
+BS  TCACTCAC; R00960; 5; 8;; n.
+BS  TGAGTCAC; R01037; -1; 8;; n.
+BS  GAGGTCAG; R01050; 8; 8;; p.
+BS  CGCGTCAT; R01052; 8; 8;; n.
+BS  CGCGTCAA; R01062; 1; 8;; n.
+BS  TGGGTCAC; R01195; 1; 8;; p.
+BS  TTAGTCAC; R01223; -1; 8;; n.
+BS  CCAATCAT; R01239; 1; 8;; p.
+BS  TGAGTCAC; R01249; 1; 8;; n.
+BS  TGCGTCAG; R01258; 1; 8;; p.
+BS  TTAGTCAG; R01287; 5; 8;; p.
+BS  TTAGTCAG; R01383; 1; 8;; n.
+BS  TTAGTCAG; R01394; 1; 8;; n.
+BS  TGTGTCAG; R01412; 1; 8;; p.
+BS  CAACTCAC; R01460; -2; 8;; n.
+BS  GCGATCAC; R01461; 8; 8;; n.
+BS  TGAGTCAT; R01567; 12; 8;; p.
+BS  CGTCTCAG; R01729; -1; 8;; n.
+BS  AGTCTCAA; R01730; -1; 8;; n.
+BS  TGAGTCAT; R01776; -1; 8;; n.
+BS  TGAGTCAT; R01777; -1; 8;; n.
+BS  TGAGTCAG; R02340; 7; 8;; p.
+BS  CACGTGCT; R02378; 7; 8;; n.
+BS  TGAGTCAC; R02413; 10; 8;; p.
+BS  TAAATCAT; R02571; 8; 8;; n.
+BS  TGAGTCAC; R02573; -1; 8;; n.
+BS  TGAGTCAT; R02887; 2; 8;; n.
+BS  AGAGTCAT; R02952; 14; 8;; p.
+BS  TGACTCAT; R03059; 7; 8;; n.
+BS  TGGGTCAC; R03102; 2; 8;; p.
+BS  TTACTCAT; R03300; 9; 8;; n.
+BS  GAGCTCAT; R03386; 2; 8;; p.
+BS  TGAGTCAT; R03439; 10; 8;; n.
+BS  TGAGTCAT; R03440; 8; 8;; p.
+BS  GATGTCAT; R03479; -1; 8;; n.
+BS  TTAGTCAT; R03489; 3; 8;; p.
+BS  AGAGTCAT; R03522; 7; 8;; p.
+BS  GATGTCAC; R04032; -1; 8;; n.
+BS  TTATTCAT; R04079; 2; 8;; p.
+BS  TTAGTCAC; R04127; 1; 8;; n.
+BS  TGAGTCAA; R04330; 11; 8;; p.
+BS  TGAGTCAG; R04348; 7; 8;; n.
+BS  TTAGTCAA; R04658; 2; 8;; n.
+BS  TTAGTCAT; R05017; 31; 8;; n.
+BS  TTAATCAT; R05033; 13; 8;; p.
+BS  TGTTTCAT; R05035; 12; 8;; p.
+BS  TGTTTCAT; R05036; 9; 8;; p.
+BS  AAGGTAAT; R05050; 10; 8;; p.
+BS  TGTGTAAT; R05052; 9; 8;; p.
+BS  TAGCTCAC; R05071; 7; 8;; n.
+BS  GGTGTAAT; R05079; 3; 8;; p.
+BS  TGAGTCAG; R05083; 16; 8;; p.
+BS  GATGTCAT; R05089; 6; 8;; p.
+BS  AGAGTCAT; R05091; 8; 8;; n.
+BS  TGAGTCAC; R05093; 6; 8;; n.
+BS  TTAATCAT; R05095; 8; 8;; p.
+BS  AAACTCAG; R05098; 13; 8;; n.
+BS  TTAGTCAA; R08116; 8; 8;; p.
+BS  TGAGTCAG; R08470; 1; 8;; p.
+BS  TGAGTCAC; R08472; 1; 8;; p.
+BS  TGAGTCAC; R08473; 1; 8;; p.
+BS  GAGGTCAG; R08476; 8; 8;; p.
+BS  TACCTCAT; R08483; 2; 8;; p.
+BS  GAAGTCAT; R08493; 3; 8;; p.
+BS  TGATTCAT; R08494; 1; 8;; n.
+BS  TGATTCAC; R08510; 1; 8;; p.
+BS  AGAGTCAG; R11383; 10; 8;; n.
+BS  TACGTCAG; R11553; 2; 8;; p.
+BS  TGAGTCAT; R13173; 7; 8;; n.
+BS  TGAGTCAA; R13178; 8; 8;; p.
+BS  GAGGTCAC; R13230; 5; 8;; p.
+BS  TGAGTCAG; R13244; 2; 8;; n.
+BS  TGGCTCAC; R13275; 12; 8;; n.
+BS  TGAGTCAG; R13320; 10; 8;; p.
+BS  TGTCTCAT; R13430; 11; 8;; p.
+BS  TGCGTCAT; C00106,  s00103; 2; 8;; p.
+BS  TCATTCAC; C00076,  s00113; -1; 8;; n.
+BS  TGTGTCAT; C00079,  s00118; 1; 8;; p.
+BS  TATGTCAT; C00094,  s00138; -1; 8;; n.
+BS  TGTTTCAT; C00166,  s00163; 1; 8;; p.
+BS  TTAATCAC; C00111,  s00164; -1; 8;; n.
+BS  TGAGTCAG; C00116,  s00169; 1; 8;; p.
+BS  TACCTCAT; C00133,  s00202; -1; 8;; n.
+BS  TGAGTCAG; C00139,  s00213; 1; 8;; p.
+BS  GATGTCAT; C00142,  s00219; 2; 8;; p.
+BS  TGAGTCAT; C00238,  s00404; 1; 8;; p.
+BS  CTCGTCAC; C00241,  s00410; -1; 8;; n.
+BS  TGAGTCAG; C00251,  s00424; 1; 8;; p.
+BS  TGAGTCAA; C00263,  s00446; 1; 8;; p.
+BS  TGAGTCAG; C00264,  s00447; -1; 8;; n.
+BS  GAGCTCAT; C00266,  s00452; 1; 8;; n.
+BS  TGAGTCAT; C00267,  s00453; 2; 8;; p.
+BS  TGAGTCAC; C00268,  s00457; 1; 8;; p.
+BS  TTACTCAT; C00293,  s00508; -1; 8;; n.
+BS  AGAGTCAC; C00294,  s00511; -1; 8;; n.
+BS  TTAGTCAA; C00316,  s00553; 1; 8;; p.
+BS  GGAGTCAA; C00319,  s00558; 2; 8;; n.
+BS  GATGTCAG; C00347,  s00604; 2; 8;; p.
+BS  GAGGTCAG; C00348,  s00606; 2; 8;; p.
+BS  GTAGTTAG; C00354,  s00615; -2; 8;; n.
+BS  TGAGTCAT; C00357,  s00620; -1; 8;; n.
+BS  TTATTCAT; C00365,  s00635; 1; 8;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

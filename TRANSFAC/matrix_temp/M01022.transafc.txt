@@ -1,0 +1,81 @@
+AC  M01022
+AS  M00745
+XX
+ID  V$LEF1_Q2_01
+XX
+DT  12.11.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LEF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00805; V$LEF1_Q2;  (family).
+HP  M00978; V$LEF1TCF1_Q4;  (family).
+XX
+BF  T03553; LEF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17029; LEF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02963; LEF-1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16141; LEF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09551; LEF-1; Species: Mammalia; site(s) included: no.
+BF  T00930; LEF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09576; LEF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03730; LEF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02953; LEF-1; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03554; LEF-1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01389; LEF-1S; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02905; LEF1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19041; LEF1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19042; LEF1-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19040; LEF1-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      8      8      4      N
+02     12      3      1      7      W
+03      7      1      1     14      T
+04      1     22      0      0      C
+05     23      0      0      0      A
+06     22      1      0      0      A
+07     21      0      1      1      A
+08      0      2     21      0      G
+09      4      3      9      7      N
+10      5      6     10      2      N
+XX
+BA  23 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAACAAAGGG; R03470; 1; 10;; p.
+BS  GAACAAAGCG; R03576; 6; 10;; p.
+BS  GAACAAAGGA; R04278; 1; 10;; p.
+BS  GATCAAAGCC; R08576; -1; 10;; n.
+BS  CATCAAAGGA; R08589; -1; 10;; p.
+BS  CATCAAAGTA; R08591; -1; 10;; p.
+BS  CTTCAAAGGG; R08631; 7; 10;; n.
+BS  NTACAAAGAC; R08638; 8; 10;; n.
+BS  CTTCAAACTT; R08649; -2; 10;; n.
+BS  TTACAAAGGA; R08809; 10; 10;; n.
+BS  CTTCAAAGCC; R08816; 9; 10;; n.
+BS  CATCAAAGTG; R08820; 5; 10;; p.
+BS  GAACAAAGAG; R08821; 5; 10;; n.
+BS  CAACAATGGG; R08823; 5; 10;; n.
+BS  CTTCAAAGGG; R08824; 5; 10;; p.
+BS  GATCAAGGGG; R13042; 3; 10;; p.
+BS  GAGCAAAGAA; R14796; -1; 10;; n.
+BS  GCTCACAGAG; R14797; 12; 10;; p.
+BS  TATCAAAGTC; R15455; 15; 10;; n.
+BS  ACCCAAAGTG; R15488; 17; 10;; n.
+BS  AGTCAAACTC; R15489; 20; 10;; n.
+BS  TCTAAAAGGC; R15773; 4; 10;; p.
+BS  TTTCAAAGTT; C00269,  s00456; -1; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better; including 1 TRANSCompel site
+XX
+RN  [1]; RE0025141.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel84:0001 (2004).
+XX
+//

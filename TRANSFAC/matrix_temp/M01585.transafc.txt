@@ -1,0 +1,41 @@
+AC  M01585
+XX
+ID  P$PIF1_01
+XX
+DT  23.10.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PIF1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T06460; PIF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13900; PIF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     19     14     59     14      G
+02     28     24     36     18      N
+03      3     99      2      2      C
+04     87      0     17      2      A
+05      0    100      1      5      C
+06      2      0    104      0      G
+07      3      0      0    103      T
+08      1      2    101      2      G
+09     30      4     50     22      R
+10     23     29     31     23      N
+XX
+BA  106 sequences (ChIP-on-chip)
+XX
+CC  PIF1 binding motif defined from ChIP-on-chip experiment with imbibed seeds; confirmed by qPCR
+XX
+RN  [1]; RE0064507.
+RX  PUBMED: 19244139.
+RA  Oh E., Kang H., Yamaguchi S., Park J., Lee D., Kamiya Y., Choi G.
+RT  Genome-wide analysis of genes targeted by PHYTOCHROME INTERACTING FACTOR 3-LIKE5 during seed germination in Arabidopsis.
+RL  Plant Cell 21:403-419 (2009).
+XX
+//

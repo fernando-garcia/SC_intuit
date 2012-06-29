@@ -1,0 +1,40 @@
+AC  M00986
+XX
+ID  V$CHCH_01
+XX
+DT  29.02.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Churchill
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05880; ChCh; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11078; ChCh; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05879; ChCh; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T11311; ChCh; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T05881; ChCh; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     14     52     17     17      C
+02      0      0    100      0      G
+03      0      0    100      0      G
+04      0      0    100      0      G
+05     28     10     38     24      N
+06     31     21     41      7      N
+XX
+BA  29 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Churchill from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0023944.
+RX  PUBMED: 14651851.
+RA  Sheng G., dos Reis M., Stern C. D.
+RT  Churchill, a zinc finger transcriptional activator, regulates the transition between gastrulation and neurulation.
+RL  Cell 115:603-613 (2003).
+XX
+//

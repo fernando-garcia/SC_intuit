@@ -1,0 +1,68 @@
+AC  M00119
+XX
+ID  V$MAX_01
+XX
+DT  18.05.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Max
+XX
+DE  Max
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00799; V$MYC_Q2;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T03570; Max; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16687; Max; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T03596; Max; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16688; Max; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05056; Max; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09085; Max; Species: Mammalia; site(s) included: no.
+BF  T16609; Max; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00523; Max; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16608; Max; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03595; Max; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03552; Max; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T16690; Max; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T01567; Max-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09499; Max-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00489; Max-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09909; Max-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01566; Max-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     38     16     26     20      N
+02     42     10     33     15      N
+03     62      3     30      5      A
+04     30     32     15     23      N
+05      0    100      0      0      C
+06    100      0      0      0      A
+07      0    100      0      0      C
+08      0      0    100      0      G
+09      0      0      0    100      T
+10      0      0    100      0      G
+11     23     15     32     30      N
+12      5     30      3     62      T
+13     15     33     10     42      N
+14     20     26     16     38      N
+XX
+BA  37 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; fixed core of 6 nucleotides used;; sequences selected with recombinant Max from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 an 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0058.
+DR  JASPAR: PB0043.
+XX
+RN  [1]; RE0002937.
+RX  PUBMED: 8265351.
+RA  Solomon D. L. C., Amati B., Land H.
+RT  Distinct DNA binding preferences for the c-Myc/Max and Max/Max dimers
+RL  Nucleic Acids Res. 21:5372-5376 (1993).
+XX
+//

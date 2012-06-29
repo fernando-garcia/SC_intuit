@@ -1,0 +1,51 @@
+AC  M00767
+XX
+ID  V$FXR_IR1_Q6
+XX
+DT  29.11.2002 (created); ela.
+DT  03.12.2002 (updated); oke.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FXR inverted repeat 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00964; V$PXR_Q2; half-site matrix (family).
+XX
+BF  T05174; FOR1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05175; FOR2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05313; FXR-isoform3:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05322; FXR:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05318; FXR:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0      5      0      G
+02      1      0      6      0      G
+03      1      0      6      0      G
+04      0      0      0      7      T
+05      0      2      2      3      B
+06      6      0      0      1      A
+07      6      1      0      0      A
+08      0      0      0      7      T
+09      3      0      4      0      R
+10      6      0      0      1      A
+11      0      7      0      0      C
+12      0      7      0      0      C
+13      0      3      0      4      Y
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGGTGAATAACCT; R09992; 4; 13;; p.
+BS  GGGTTAATGACCC; R10074; 4; 13;; p.
+BS  AGGTGAATAACCT; R10075; 4; 13;; p.
+BS  GGGTTAATAACCC; R10076; 4; 13;; p.
+BS  GAGTTAATGACCT; R10077; 4; 13;; p.
+BS  AGGTCTCTGACCT; R13128; 8; 13;; n.
+BS  GGATCAATGTCCC; R13129; 8; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

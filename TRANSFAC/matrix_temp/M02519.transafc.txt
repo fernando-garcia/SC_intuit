@@ -1,0 +1,55 @@
+AC  M02519
+AS  MA0400
+XX
+ID  F$SUT2_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SUT2
+XX
+DE  class: Zinc-coordinating; family: Fungal Zn cluster
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T04613; SUT2; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    333    232    112    321      N
+02    225    206    264    303      N
+03    269    218    277    233      N
+04    354    200    100    345      N
+05    248    216    153    381      N
+06    522     85    287    104      R
+07    940      6     12     40      A
+08    971      0     11     16      A
+09      0    709    287      2      C
+10      1     16      0    981      T
+11      2    992      1      2      C
+12      1    984     12      1      C
+13      2      1    993      2      G
+14    789     16    168     24      A
+15    523     80    257    137      A
+16    375    252    154    217      N
+17    338    214    168    279      N
+18    279    204    209    306      N
+19    163    253    252    330      N
+20    281    136    244    338      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0400.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

@@ -1,0 +1,42 @@
+AC  M01772
+XX
+ID  V$CEBPE_01
+XX
+DT  30.06.2010 (created); apk.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  cebpe
+XX
+DE  homodimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17920; (cebpe)2; Species: Mammalia; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    615    202    390     56      R
+02      0      2      0    615      T
+03      2      5    180    615      T
+04    615      4    621    342      R
+05     80    615     43    284      C
+06    200     72    615     84      G
+07    233    615      9    437      Y
+08    615     47      2      0      A
+09    615      1      5      0      A
+10     41    364    161    615      Y
+XX
+BA  sequences (multiplexed massively parallel SELEX)
+XX
+CC  sequences selected with recombinant cebpe from a pool of double-stranded oligonucleotides containing a core of14 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0067210.
+RX  PUBMED: 20378718.
+RA  Jolma A., Kivioja T., Toivonen J., Cheng L., Wei G., Enge M., Taipale M., Vaquerizas J. M., Yan J., Sillanpaa M. J., Bonke M., Palin K., Talukder S., Hughes T. R., Luscombe N. M., Ukkonen E., Taipale J.
+RT  Multiplexed massively parallel SELEX for characterization of human transcription factor binding specificities.
+RL  Genome Res. 20:861-873 (2010).
+XX
+//

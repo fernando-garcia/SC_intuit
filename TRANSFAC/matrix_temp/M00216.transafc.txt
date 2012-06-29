@@ -1,0 +1,45 @@
+AC  M00216
+XX
+ID  V$TATA_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TATA
+XX
+DE  Retroviral TATA box
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00794; TBP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08520; TBP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14175; TBP; Species: Mammalia; site(s) included: no.
+BF  T00796; TBP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08953; TBP; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16554; TBP; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00821; TFIID; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00820; TFIID; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01159; TFIID; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01175; TFIID; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   3.00   3.89   2.48   3.99      N
+02   0.00  10.19   2.66   0.52      C
+03   0.33   3.33   0.00   9.71      T
+04   9.76   0.00   0.00   3.61      A
+05   0.00   0.00   0.00  13.36      T
+06  13.36   0.00   0.00   0.00      A
+07  12.40   0.00   0.00   0.96      A
+08  13.36   0.00   0.00   0.00      A
+09  13.36   0.00   0.00   0.00      A
+10   3.92   1.36   6.11   1.97      R
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0.30, total weight of sequences: 13.36)
+XX
+//

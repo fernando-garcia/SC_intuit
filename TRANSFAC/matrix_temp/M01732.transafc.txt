@@ -1,0 +1,68 @@
+AC  M01732
+XX
+ID  F$MIG1_Q6
+XX
+DT  26.04.2010 (created); dtc.
+DT  30.04.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MIG1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00509; MIG1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      4      5      6      N
+02      0     25      0      1      C
+03      0     25      0      1      C
+04      0     24      1      1      C
+05      0     26      0      0      C
+06     11      0     15      0      R
+07      1     14      9      2      S
+08     17      1      3      3      A
+09      5      4      2     13      T
+10      9      1      0     14      W
+11      9      1      1     13      W
+12      8      2      0     14      W
+XX
+BA  26 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TCCCCGCATTTT; R02024; -1; 12;; p.
+BS  cccccggataat; R02025; 8; 12;; n.
+BS  TCCCCAGATTTT; R04147; 6; 12;; p.
+BS  cccccacattaa; R04148; 2; 12;; n.
+BS  GCCCCGGCTTTT; R04149; -1; 12;; p.
+BS  tccccacaaaaa; R04150; 2; 12;; n.
+BS  accccacacaat; R04151; 2; 12;; n.
+BS  ACCCCGGGTTTA; R04152; -1; 12;; p.
+BS  TCCCCACACTAT; R04153; 1; 12;; p.
+BS  ACCCCGCGTTTA; R04154; -1; 12;; p.
+BS  ACCCCAGTTTTA; R04155; -1; 12;; p.
+BS  tccccgctttta; R04156; 2; 12;; n.
+BS  gccccgcaaaat; R12326; 1; 12;; n.
+BS  GCCCCGCAGCTT; R22620; -1; 12;; p.
+BS  accccgcttttc; R22621; 2; 12;; n.
+BS  cccccggataat; R23484; 5; 12;; n.
+BS  accccagaaata; R23485; 4; 12;; n.
+BS  gccccacaaacc; R23486; 4; 12;; n.
+BS  TCTCCAGATTGT; R23706; 4; 12;; p.
+BS  accccgtnnnnn; R23873; -5; 12;; n.
+BS  nCCCCACACAAT; R23875; -1; 12;; p.
+BS  nccgcgaaaatt; R23876; 4; 12;; n.
+BS  CTCTCGCnnnnn; R23877; 9; 12;; p.
+BS  nccccgtgttta; R23879; 4; 12;; n.
+BS  ACCCCAGAGTAT; R28358; -1; 12;; p.
+BS  gccccgcacttt; R28360; 2; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

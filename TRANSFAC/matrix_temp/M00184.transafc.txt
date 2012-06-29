@@ -1,0 +1,59 @@
+AC  M00184
+XX
+ID  V$MYOD_Q6
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MyoD
+XX
+DE  myoblast determining factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00804; V$E2A_Q2;  (family).
+HP  M00929; V$MYOD_Q6_01;  (family).
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01128; MyoD; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15547; MyoD; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00524; MyoD; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T10010; MyoD; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T03902; MyoD; Species: common carp, Cyprinus carpio; site(s) included: yes.
+BF  T00525; MyoD; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09197; MyoD; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10027; MyoD; Species: Mammalia; site(s) included: no.
+BF  T00527; MyoD; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00526; MyoD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09177; MyoD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01551; MyoD; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T15571; MyoD; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15572; MyoD; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03907; MyoD; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03912; MyoD (275 AA); Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T03911; MyoD (376 AA); Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      2      3      4      N
+02      3      5      5      1      N
+03      0     14      0      0      C
+04     14      0      0      0      A
+05      1      7      3      3      C
+06      0     12      1      1      C
+07      0      0      0     14      T
+08      0      0     14      0      G
+09      2      4      2      6      N
+10      0      9      0      5      Y
+XX
+BA  14 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00184; V$MYOD_Q6; myoblast determining factor
+XX
+//

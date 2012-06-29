@@ -1,0 +1,46 @@
+AC  M01707
+XX
+ID  F$MIG2_02
+XX
+DT  23.04.2010 (created); smt.
+DT  08.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MIG2
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03498; MIG2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    107      1     24     15      A
+02     13     15     21     98      T
+03     80     12     28     27      A
+04     92     15     17     23      A
+05    122      5     15      5      A
+06    126      2     11      8      A
+07    103      6     25     13      A
+08      5     12     11    119      T
+09      1      5    140      1      G
+10      2    134      4      7      C
+11      1      1    140      5      G
+12      1      1    144      1      G
+13      4      2    138      3      G
+14      1      6    136      4      G
+15     75     12     41     19      R
+16     74     11     44     18      R
+XX
+BA  147 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant MIG2 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides
+XX
+RN  [1]; RE0014691.
+RX  PUBMED: 9832517.
+RA  Lutfiyya L. L., Iyer V. R., DeRisi J., DeVit M. J., Brown P. O., Johnston M.
+RT  Characterization of three related glucose repressors and genes they regulate in Saccharomyces cerevisiae
+RL  Genetics 150:1377-1391 (1998).
+XX
+//

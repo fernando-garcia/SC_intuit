@@ -1,0 +1,43 @@
+AC  M00968
+XX
+ID  P$ATMYB77_01
+XX
+DT  23.11.2003 (created); vma.
+DT  21.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AtMYB-77
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02590; Myb-77; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     33     30     20     17      N
+02     57     17     17      9      A
+03     27      9     37     27      N
+04      6     30     20     44      N
+05      9      6     82      3      G
+06     68      3     23      6      A
+07      0    100      0      0      C
+08     50      0     50      0      R
+09      0      0    100      0      G
+10      0      0      0    100      T
+11      0      0      0    100      T
+12     68      3     26      3      A
+13      3     55     30     12      S
+XX
+BA  sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant AtMYB-77 from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0007109.
+RX  PUBMED: 9628022.
+RA  Romero I., Fuertes A., Benito M. J., Malpica J., Leyva A., Paz-Ares J.
+RT  More than 80R2R3-MYB regulatory genes in the genome of Arabidopsis thaliana
+RL  Plant J. 14:273-284 (1998).
+XX
+//

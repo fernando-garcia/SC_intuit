@@ -1,0 +1,62 @@
+AC  M00087
+XX
+ID  V$IK2_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Ik-2
+XX
+DE  Ikaros 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02702; Ikaros; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15348; Ikaros; Species: Mammalia; site(s) included: no.
+BF  T00479; Ikaros; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08148; Ikaros; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09490; Ikaros-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15475; Ikaros-1; Species: Mammalia; site(s) included: no.
+BF  T09491; Ikaros-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15466; Ikaros-2; Species: Mammalia; site(s) included: no.
+BF  T09492; Ikaros-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09493; Ikaros-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09494; Ikaros-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09495; Ikaros-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09496; Ikaros-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01469; Ikaros-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01470; Ikaros-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01471; Ikaros-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01472; Ikaros-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01473; Ikaros-isoform5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19007; Ikaros-isoform6; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9     10     12      5      N
+02     11      5      7     13      N
+03      5      7      7     17      N
+04      6     10      0     20      T
+05      6      0     30      0      G
+06      0      0     36      0      G
+07      0      0     36      0      G
+08     36      0      0      0      A
+09     18      5      1     12      W
+10     10      7      6     13      N
+11     12      8      9      7      N
+12      9     18      5      4      C
+XX
+BA  36 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Ik-2 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0002963.
+RX  PUBMED: 7969165.
+RA  Molnar A., Georgopoulos K.
+RT  The Ikaros gene encodes a family of functionally diverse zinc finger DNA-binding proteins
+RL  Mol. Cell. Biol. 14:8292-8303 (1994).
+XX
+//

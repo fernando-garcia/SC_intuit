@@ -1,0 +1,46 @@
+AC  M01308
+XX
+ID  V$SOX4_01
+XX
+DT  09.10.2009 (created); smt.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sox4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T01276; Sox4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17043; Sox4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16961; Sox4; Species: Mammalia; site(s) included: no.
+BF  T01838; Sox4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T17807; Sox4; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.77   0.03   0.16   0.05      A
+02   0.96      0      0   0.04      A
+03      0   0.95   0.01   0.04      C
+04   0.99      0      0   0.01      A
+05   0.99      0      0      0      A
+06   0.63   0.01      0   0.37      W
+07   0.15      0   0.83   0.01      G
+08   0.31   0.14   0.54   0.01      R
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  Sox4 binding motif defined from ChIP-on-chip experiment in LNCaP cell line
+XX
+DR  JASPAR: PB0071.
+XX
+RN  [1]; RE0063805.
+RX  PUBMED: 19147588.
+RA  Scharer C. D., McCabe C. D., Ali-Seyed M., Berger M. F., Bulyk M. L., Moreno C. S.
+RT  Genome-wide promoter analysis of the SOX4 transcriptional network in prostate cancer cells.
+RL  Cancer Res. 69:709-717 (2009).
+XX
+//

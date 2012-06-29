@@ -1,0 +1,68 @@
+AC  M00242
+XX
+ID  V$PPARA_01
+XX
+DT  19.02.1996 (created); ewi.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PPARalpha:RXRalpha
+XX
+DE  PPAR:RXR heterodimers
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00763; V$PPAR_DR1_Q2;  (family).
+XX
+BF  T01352; PPARalpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T10003; PPARalpha; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02726; PPARalpha; Species: human, Homo sapiens; site(s) included: no.
+BF  T08632; PPARalpha; Species: human, Homo sapiens; site(s) included: no.
+BF  T09956; PPARalpha; Species: Mammalia; site(s) included: no.
+BF  T00694; PPARalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08431; PPARalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00991; PPARalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08991; PPARalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      5      1      0      C
+02      4      1      0      2      A
+03      4      0      3      0      R
+04      5      1      1      0      A
+05      4      0      1      2      A
+06      1      5      1      0      C
+07      0      2      0      5      T
+08      6      0      1      0      A
+09      0      0      7      0      G
+10      0      0      7      0      G
+11      1      2      1      3      N
+12      1      6      0      0      C
+13      7      0      0      0      A
+14      5      0      0      2      A
+15      7      0      0      0      A
+16      0      0      7      0      G
+17      0      0      5      2      G
+18      0      0      0      7      T
+19      0      6      1      0      C
+20      6      0      0      1      A
+XX
+BA  7 sequences (compiled matrix imported from literature reference)
+XX
+BS  CAAAACTAGGTCAAAGGTCA; R07669; 1; 20;; p.
+BS  GCGCGCCAGGTCAAAGGTCA; R07670; 1; 20;; p.
+BS  CAAATATAGGCCATAGGTCA; R07671; 1; 20;; p.
+BS  CTGGACCAGGACAAAGGTCA; R07672; 1; 20;; p.
+BS  CTGAACTAGGGCAAAGTTGA; R07673; 1; 20;; p.
+BS  CAAATGTAGGTAATAGTTCA; R07674; 1; 20;; p.
+BS  AAAAACTGGGCCAAAGGTCT; R07675; 1; 20;; p.
+XX
+RN  [1]; RE0003809.
+RX  PUBMED: 7608174.
+RA  Palmer C. N. A., Hsu M.-H., Griffin K. J., Johnson E. F.
+RT  Novel sequence determinants in peroxisome proliferator signaling
+RL  J. Biol. Chem. 270:16114-16121 (1995).
+XX
+//

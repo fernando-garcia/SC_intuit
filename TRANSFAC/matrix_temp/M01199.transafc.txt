@@ -1,0 +1,45 @@
+AC  M01199
+XX
+ID  V$RNF96_01
+XX
+DT  29.10.2008 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RNF96
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17026; RNF96; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16076; RNF96; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     15     21     14      B
+02      3     31     10      6      C
+03      1     48      0      1      C
+04      1     46      2      1      C
+05      1      0     43      6      G
+06      3     47      0      0      C
+07     18      3     25      4      R
+08      0      2     47      1      G
+09      1     45      4      0      C
+10      1     41      3      5      C
+XX
+BA  50 sequences (Biotin-ChIP)
+XX
+CC  confirmed by qPCR (28 sites) and also in some cases with ChIP assays using an antibody against the endogenous RNF96 protein
+XX
+RN  [1]; RE0063069.
+RX  PUBMED: 19339689.
+RA  Hu G., Kim J., Xu Q., Leng Y., Orkin S. H., Elledge S. J.
+RT  A genome-wide RNAi screen identifies a new transcriptional module required for self-renewal.
+RL  Genes Dev. 23:837-848 (2009).
+RN  [2]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+XX
+//

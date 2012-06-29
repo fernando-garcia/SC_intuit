@@ -1,0 +1,54 @@
+AC  M00094
+XX
+ID  I$BRCZ4_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BR-C Z4
+XX
+DE  Broad-Complex Z4
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T01480; BR-C Z4; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      0      3      W
+02      2      1      0      3      W
+03      3      0      1      2      W
+04      3      0      2      1      R
+05      0      0      2      4      T
+06      6      0      0      0      A
+07      6      0      0      0      A
+08      6      0      0      0      A
+09      0      3      2      1      S
+10      4      0      1      1      A
+11      3      1      0      2      W
+12      5      0      0      1      A
+13      4      0      0      2      A
+XX
+BA  6 sequences (compiled matrix imported from literature reference)
+XX
+BS  ATAATAAACAAAA; R06372; 1; 13;; p.
+BS  ATAATAAACAAAA; R06373; 1; 13;; p.
+BS  AATAGAAAGGTAT; R06374; 1; 13;; p.
+BS  TAAGTAAACTAAA; R06375; 1; 13;; p.
+BS  TCTGTAAATATTT; R06376; 1; 13;; p.
+BS  TTGTGAAAGACAA; R06377; 1; 13;; p.
+XX
+CC  binding sites within the Pig-1/Sgs-4 intergenic region compiled sequences, bound in vitro by bacterially expressed protein
+XX
+DR  JASPAR: MA0013.
+XX
+RN  [1]; RE0002966.
+RX  PUBMED: 8062827.
+RA  von Kalm L., Crossgrove K., Von Seggern D., Guild G. M., Beckendorf S. K.
+RT  The Broad-Complex directly controls a tissue-specific response to the steroid hormone ecdysone at the onset of Drosophila metamorphosis
+RL  EMBO J. 13:3505-3516 (1994).
+XX
+//

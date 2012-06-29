@@ -1,0 +1,43 @@
+AC  M02445
+AS  MA0326
+XX
+ID  F$MAC1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  22.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MAC1
+XX
+DE  class: Zinc-coordinating; family: Copper fist
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01265; MAC1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    108      0      0   1632      T
+02     89      0    219   1451      T
+03      0      0      0   1714      T
+04    115      0   1599      0      G
+05      0   1714      0      0      C
+06      0      0      0   1714      T
+07      0   1714      0      0      C
+08    958      0    655    113      R
+XX
+BA  1740 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0326.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

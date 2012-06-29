@@ -1,0 +1,53 @@
+AC  M01423
+XX
+ID  V$ARX_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  11.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Arx
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T19737; ARX; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19738; ARX; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16769; Arx; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16770; Arx; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.24   0.22    0.4   0.14      N
+02   0.13   0.16   0.19   0.52      T
+03   0.16   0.37   0.29   0.19      N
+04   0.22   0.56   0.13    0.1      C
+05    0.5   0.06   0.38   0.07      R
+06   0.01   0.38   0.01    0.6      Y
+07   0.01   0.13      0   0.86      T
+08   0.98      0      0   0.01      A
+09   0.99      0   0.01   0.01      A
+10   0.01   0.01      0   0.99      T
+11   0.01      0      0   0.98      T
+12   0.86      0   0.13   0.01      A
+13    0.6   0.01   0.38   0.01      R
+14   0.16   0.16   0.14   0.54      T
+15   0.18   0.11   0.44   0.27      N
+16   0.09   0.36   0.37   0.18      N
+17   0.53    0.1   0.07    0.3      W
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

@@ -1,0 +1,90 @@
+AC  M01231
+XX
+ID  V$ZNF515_01
+XX
+DT  16.04.2009 (created); jtr.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZNF515
+XX
+DE  Glis binding sites
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17366; Glis-3; Species: Mammalia; site(s) included: no.
+BF  T17364; Glis-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18952; ZNF515; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18953; ZNF515; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15726; ZNF515; Species: Mammalia; site(s) included: no.
+BF  T17410; ZNF515; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18954; ZNF515-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15909; ZNF515-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      8     20      0      G
+02      1      9      5     21      T
+03      1      1     32      2      G
+04      0      0     31      5      G
+05      0      0     36      0      G
+06      2      0     28      6      G
+07      0      0     36      0      G
+08      0      2     33      1      G
+09      0      8      1     27      T
+10     14     16      3      3      M
+XX
+BA  36 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGTGGGGGTC; R27301; 6; 10;; p.
+BS  AGCGGGGGTC; R27307; 7; 10;; p.
+BS  GTAGGGGGTC; R27308; 6; 10;; p.
+BS  GCGGGGGGCC; R27309; 4; 10;; p.
+BS  GTGGGGGGTA; R27310; 5; 10;; p.
+BS  ATGGGGGGTA; R27311; 9; 10;; p.
+BS  GTGGGGGGTC; R27312; 6; 10;; p.
+BS  CAGGGGGGTC; R27313; 11; 10;; p.
+BS  CTGGGGGGTG; R27314; 12; 10;; p.
+BS  GCGGGGGGTA; R27315; 11; 10;; p.
+BS  CCGGGTGGTC; R27316; 7; 10;; p.
+BS  CGGGGGGGTA; R27317; 13; 10;; p.
+BS  GCGTGGGGTA; R27318; 10; 10;; p.
+BS  GCGTGGGGTA; R27319; 7; 10;; p.
+BS  GTGTGGGGTA; R27320; 5; 10;; p.
+BS  GTGGGTGGTA; R27321; 12; 10;; p.
+BS  GGGTGGGGTC; R27322; 9; 10;; p.
+BS  GTGGGAGGTA; R27323; 10; 10;; p.
+BS  CTGGGGGTGA; R27324; 4; 10;; p.
+BS  CCGGGGGGCC; R27325; 2; 10;; p.
+BS  GCGGGAGGTA; R27326; 12; 10;; p.
+BS  CTGGGGGGTG; R27327; 12; 10;; p.
+BS  GTGGGGGGTT; R27328; 12; 10;; p.
+BS  GTGGGGGCTA; R27329; 2; 10;; p.
+BS   CGGGGGGTC; R27330; 1; 10; 1; p.
+BS  CTGGGGGGCC; R27331; 11; 10;; p.
+BS   TGGGGGGCC; R27332; 1; 10; 1; p.
+BS   TGGGGGGCT; R27333; 1; 10; 1; p.
+BS  GGGTGGGGTC; R27334; 9; 10;; p.
+BS   TGGGGGCCT; R27335; 1; 10; 1; p.
+BS  GTGGGTGGTA; R27336; 1; 10;; p.
+BS   TGGGGGGTC; R27337; 1; 10; 1; p.
+BS  GTGGGTGGTA; R27338; 7; 10;; p.
+BS  GTGGGTGGCC; R27339; 1; 10;; p.
+BS  GCTGGGGGCG; R27340; 3; 10;; p.
+BS  GTGGGTGGTC; R27341; 2; 10;; p.
+XX
+CC  sequences selected with recombinant ZNF515 from a pool of double-stranded oligonucleotides containing a core of 22 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0062594.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20092:0001 (2009).
+RN  [2]; RE0055968.
+RX  PUBMED: 18263616.
+RA  Beak J. Y., Kang H. S., Kim Y. S., Jetten A. M.
+RT  Functional analysis of the zinc finger and activation domains of Glis3 and mutant Glis3(NDH1).
+RL  Nucleic Acids Res. 36:1690-1702 (2008).
+XX
+//

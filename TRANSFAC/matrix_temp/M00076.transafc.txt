@@ -1,0 +1,55 @@
+AC  M00076
+XX
+ID  V$GATA2_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA-2
+XX
+DE  GATA-binding factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00203; V$GATA_C; GATA binding site (family).
+HP  M00789; V$GATA_Q6;  (family).
+XX
+BF  T10951; GATA-2; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00307; GATA-2; Species: chick, Gallus gallus; site(s) included: no.
+BF  T10393; GATA-2; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00309; GATA-2; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T00308; GATA-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08571; GATA-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17995; GATA-2; Species: Mammalia; site(s) included: yes.
+BF  T01302; GATA-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08573; GATA-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15259; GATA-2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T18946; GATA-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6     16     18     13      N
+02     15     18     18      2      N
+03     13     12     18     10      N
+04      0      4     49      0      G
+05     52      0      0      1      A
+06      0      1      0     52      T
+07     27      6     14      6      R
+08      7     13     23     10      N
+09      5     20     15     13      N
+10      7     13     19     14      N
+XX
+BA  53 sequences (compiled matrix imported from literature reference)
+XX
+DR  JASPAR: MA0036.
+XX
+RN  [1]; RE0002959.
+RX  PUBMED: 8321207.
+RA  Merika M., Orkin S. H.
+RT  DNA-binding specificity of GATA family transcription factors
+RL  Mol. Cell. Biol. 13:3999-4010 (1993).
+XX
+//

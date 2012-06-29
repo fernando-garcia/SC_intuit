@@ -1,0 +1,55 @@
+AC  M01214
+XX
+ID  V$ESE1_Q3
+XX
+DT  29.01.2009 (created); dtc.
+DT  06.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ESE-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05448; ESE-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18901; ESE-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15361; ESE-1; Species: Mammalia; site(s) included: yes.
+BF  T08074; ESE-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15555; ESE-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05437; ESE-1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05449; ESE-1b; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     18     48     24     10      N
+02     19     47     31      3      S
+03     33     57      7      2      M
+04      2      0     98      0      G
+05      0      0    100      0      G
+06     96      0      1      2      A
+07     95      1      0      4      A
+08     40      6     53      2      R
+09     10     27      6     58      T
+10     48     14     23     15      N
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGTTTCCTTG; R14482; 4; 10;; p.
+BS  nGTTTCCTGt; R16977; -1; 10;; p.
+BS  GTTTCCCTCn; R16978; 9; 10;; p.
+BS  agtttCCTGT; R17052; 5; 10;; p.
+BS  GACTTCCCGA; R25504; 11; 10;; p.
+BS  TGCATCCTGA; R25849; 6; 10;; p.
+BS  aatttcctga; R25850; 6; 10;; n.
+BS  TACATCCTGT; R25851; 6; 10;; p.
+BS  AGTTTCCTGT; R26411; 9; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+XX
+//

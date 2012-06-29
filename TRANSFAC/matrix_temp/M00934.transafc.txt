@@ -1,0 +1,66 @@
+AC  M00934
+XX
+ID  I$ZESTE_Q2_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  11.09.2003 (updated); ddt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Zeste
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00918; Zeste; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T02100; Zeste; Species: fruit fly, Drosophila virilis; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      5      5      6      N
+02     11      2      3      8      W
+03      6      2      7      9      N
+04      3      2      1     18      T
+05      0      5      1     18      T
+06      0      0     24      0      G
+07     24      0      0      0      A
+08      0      0     24      0      G
+09      1      4      0     19      T
+10      0      1     22      1      G
+11     10      3      8      3      N
+XX
+BA  24 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTCTTGAGTGT; R01518; -1; 11;; n.
+BS  TTTTTGAGCGC; R01521; 4; 11;; n.
+BS  GTTTTGAGCGT; R01523; -2; 11;; p.
+BS  AAAACGAGTGG; R01525; 5; 11;; n.
+BS  GAGTCGAGTGA; R01527; -5; 11;; p.
+BS  CAGGCGAGTGA; R01599; 2; 11;; p.
+BS  CATTTGAGTGA; R04938; 2; 11;; p.
+BS  TGGTTGAGTGA; R04939; -1; 11;; n.
+BS  TCACTGAGCGA; R04940; -4; 11;; p.
+BS  AAAATGAGTGA; R04941; -4; 11;; p.
+BS  AGGTTGAGTGG; R04942; -1; 11;; n.
+BS  AAGCTGAGTGG; R04943; -1; 11;; n.
+BS  ATTTTGAGTGA; R04944; -1; 11;; n.
+BS  ACTTTGAGTGG; R04945; -1; 11;; n.
+BS  CTTTTGAGTGC; R04946; -4; 11;; p.
+BS  AAATTGAGTCG; R04947; -4; 11;; p.
+BS  GAAATGAGATA; R04948; -4; 11;; p.
+BS  AAGTCGAGTGA; R04949; 4; 11;; n.
+BS  GATTGGAGTGC; R04950; -1; 11;; n.
+BS  GTTTTGAGTGG; R04953; -1; 11;; n.
+BS  TGGTTGAGTGT; R04954; -4; 11;; p.
+BS  CTCTTGAGTGG; R04955; -1; 11;; n.
+BS  TATTCGAGTGA; R04956; -4; 11;; p.
+BS  TTATTGAGCGG; R04958; -4; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

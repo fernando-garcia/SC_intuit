@@ -1,0 +1,45 @@
+AC  M00214
+XX
+ID  V$SEF1_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SEF-1
+XX
+DE  SEF1 binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00743; SEF-1 (1); Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   6.26   0.90   0.97   0.00      A
+02   6.26   0.00   1.87   0.00      A
+03   0.00   6.62   0.97   0.54      C
+04   7.19   0.94   0.00   0.00      A
+05   0.00   2.81   0.00   0.00      C
+06   0.00   1.91   6.22   0.00      G
+07   0.00   0.94   6.22   0.00      G
+08   7.23   0.90   0.00   0.00      A
+09   0.00   0.90   0.97   5.32      T
+10   6.22   0.00   1.91   0.00      A
+11   0.00   0.94   0.90   6.29      T
+12   0.00   8.13   0.00   0.00      C
+13   0.00   0.00   0.00   8.13      T
+14   0.00   0.00   8.13   0.00      G
+15   0.00   0.90   0.00   7.23      T
+16   0.00   0.00   8.13   0.00      G
+17   0.00   0.00   8.13   0.00      G
+18   0.00   0.00   0.00   8.13      T
+19   1.54   3.53   0.00   3.06      Y
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: <0.01, total weight of sequences: 8.13)
+XX
+//

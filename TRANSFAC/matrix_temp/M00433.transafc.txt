@@ -1,0 +1,54 @@
+AC  M00433
+XX
+ID  V$HMX1_01
+XX
+DT  02.05.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Hmx3 (Nkx5-1)
+XX
+DE  H6 homeobox 3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04446; Nkx5-1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     11      0      0      C
+02     11      0      0      0      A
+03     11      0      0      0      A
+04      0      0     11      0      G
+05      0      0      0     11      T
+06      0      1     10      0      G
+07      0     10      1      0      C
+08      0      0     11      0      G
+09      1      0      0     10      T
+10      1      0     10      0      G
+XX
+BA  11 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAAGTGCGTG; R09938; 4; 10;; p.
+BS  CAAGTGCGTG; R09940; 4; 10;; p.
+BS  CAAGTCGGAA; R09941; 4; 10;; p.
+BS  CAAGTGCGTG; R09943; 4; 10;; p.
+BS  CAAGTGCGTG; R09944; 4; 10;; p.
+BS  CAAGTGCGTG; R09945; 4; 10;; p.
+BS  CAAGTGCGTG; R09946; 4; 10;; p.
+BS  CAAGTGCGTG; R09947; 4; 10;; p.
+BS  CAAGTGCGTG; R09948; 4; 10;; p.
+BS  CAAGTGCGTG; R09949; 4; 10;; p.
+BS  CAAGTGCGTG; R09950; 18; 10;; p.
+XX
+CC  sequences selected with recombinant Hmx3 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0016078.
+RX  PUBMED: 10206974.
+RA  Amendt B. A., Sutherland L. B., Russo A. F.
+RT  Transcriptional antagonism between Hmx1 and Nkx2.5 for a shared DNA-binding site
+RL  J. Biol. Chem. 274:11635-11642 (1999).
+XX
+//

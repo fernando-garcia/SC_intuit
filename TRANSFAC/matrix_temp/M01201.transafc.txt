@@ -1,0 +1,104 @@
+AC  M01201
+XX
+ID  V$AR_04
+XX
+DT  21.11.2008 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AR
+XX
+DE  Androgen receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04652; AR; Species: baboon, Papio hamadryas; site(s) included: no.
+BF  T16701; AR; Species: baboon, Papio hamadryas; site(s) included: yes.
+BF  T06152; AR; Species: bull frog, Rana catesbeiana; site(s) included: no.
+BF  T16706; AR; Species: bull frog, Rana catesbeiana; site(s) included: yes.
+BF  T04653; AR; Species: chimpanzee, Pan troglodytes; site(s) included: no.
+BF  T16702; AR; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T06147; AR; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T16705; AR; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00040; AR; Species: human, Homo sapiens; site(s) included: no.
+BF  T04655; AR; Species: lemur, Eulemur fulvus collaris; site(s) included: no.
+BF  T16704; AR; Species: lemur, Eulemur fulvus collaris; site(s) included: yes.
+BF  T04654; AR; Species: macaque, Macaca fascicularis; site(s) included: no.
+BF  T16703; AR; Species: macaque, Macaca fascicularis; site(s) included: yes.
+BF  T15601; AR; Species: Mammalia; site(s) included: no.
+BF  T00041; AR; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08473; AR; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06150; AR; Species: pig, Sus scrofa; site(s) included: no.
+BF  T16707; AR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T06151; AR; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T16708; AR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00042; AR; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08528; AR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06149; AR; Species: spotted hyena, Crocuta crocuta; site(s) included: no.
+BF  T16709; AR; Species: spotted hyena, Crocuta crocuta; site(s) included: yes.
+BF  T16700; AR; Species: Vertebrata; site(s) included: no.
+BF  T08487; AR-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T18763; AR-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      1     19      1      G
+02      0      0     23      1      G
+03      8      4      4      8      N
+04     18      2      0      4      A
+05      0     24      0      0      C
+06     13      1      8      2      R
+07      3      6      8      7      N
+08      7      3     10      4      N
+09      8      3     12      1      R
+10      2      5      0     17      T
+11      0      0     24      0      G
+12      1      0      0     23      T
+13      8      2      3     11      W
+14      2     22      0      0      C
+15      2      4      1     17      T
+XX
+BA  24 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGAACGCCGCGTACT; R10202; 5; 15;; p.
+BS  AGAACGAAATGTTCT; R10205; 5; 15;; p.
+BS  GGTACAGGGTGTACT; R10206; 5; 15;; p.
+BS  GGTACGTATCGTACG; R10207; 5; 15;; p.
+BS  GGAACAGAGTGTACT; R10208; 5; 15;; p.
+BS  GGAACATTATGTTCT; R10209; 5; 15;; p.
+BS  GGGACACGGTGTGCT; R10210; 5; 15;; p.
+BS  TTCACATGATGTTCC; R10211; 5; 15;; p.
+BS  GGACCGATGAGTCCT; R10212; 5; 15;; p.
+BS  GGCACATGGTGTACA; R10213; 5; 15;; p.
+BS  GGGTCAGGGTGTTCC; R10214; 5; 15;; p.
+BS  GGAACGTGATGTTCT; R10215; 5; 15;; p.
+BS  GGTTCACGATGTAAT; R10216; 5; 15;; p.
+BS  GGGACTGGACGTTAT; R10217; 5; 15;; p.
+BS  GGTACGGACTGTGCT; R10218; 5; 15;; p.
+BS  AGCACACAGTGTACT; R10219; 5; 15;; p.
+BS  GGATCAGGACGTTCT; R10220; 5; 15;; p.
+BS  GGGACAGGCTGTGCT; R10221; 5; 15;; p.
+BS  AGCACGACGCGTTCT; R10222; 5; 15;; p.
+BS  GGTACTCTAAGTTCT; R10223; 5; 15;; p.
+BS  GGTTCATAGTGATCC; R10224; 5; 15;; p.
+BS  CGTACAGAGTGTTCT; R10225; 5; 15;; p.
+BS  GGTACCCTGTGTCCC; R10228; 5; 15;; p.
+BS  GGACCGTCCTGTACA; R10229; 5; 15;; p.
+XX
+CC  sequences selected with recombinant AR from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0007.
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+RN  [2]; RE0016743.
+RX  PUBMED: 1491700.
+RA  Roche P. J., Hoare S. A., Parker M. G.
+RT  A consensus DNA-binding site for the androgen receptor
+RL  Mol. Endocrinol. 6:2229-2235 (1992).
+XX
+//

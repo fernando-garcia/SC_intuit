@@ -1,0 +1,114 @@
+AC  M01244
+XX
+ID  V$HSF2_02
+XX
+DT  15.05.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HSF2
+XX
+DE  Heat shock transcription factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01045; HSF2; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01043; HSF2; Species: human, Homo sapiens; site(s) included: no.
+BF  T00972; HSF2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08289; HSF2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08287; HSF2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08288; HSF2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09196; HSF2A; Species: human, Homo sapiens; site(s) included: no.
+BF  T16186; HSF2B; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0     57      0      G
+02     57      0      0      0      A
+03     57      0      0      0      A
+04     11     25      9     12      N
+05     22      5     27      3      R
+06      0      0      0     57      T
+07      0      0      0     57      T
+08      0     57      0      0      C
+09      0      3      4     50      T
+10     53      1      3      0      A
+11      0      0     57      0      G
+12     57      0      0      0      A
+13     56      0      0      1      A
+XX
+BA  57 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GAACCTTCTAGAA; R27730; 4; 13;; p.
+BS  GAACATTCTAGAA; R27731; 4; 13;; p.
+BS  GAACGTTCTAGAT; R27732; 4; 13;; p.
+BS  GAACATTCTCGAA; R27733; 4; 13;; p.
+BS  GAACATTCTAGAA; R27734; 4; 13;; p.
+BS  GAAAATTCTAGAA; R27735; 4; 13;; p.
+BS  GAAAGTTCTAGAA; R27736; 4; 13;; p.
+BS  GAATATTCTAGAA; R27737; 4; 13;; p.
+BS  GAACTTTCTAGAA; R27738; 4; 13;; p.
+BS  GAACATTCTAGAA; R27739; 4; 13;; p.
+BS  GAATGTTCTAGAA; R27740; 4; 13;; p.
+BS  GAACTTTCTGGAA; R27741; 4; 13;; p.
+BS  GAAGGTTCTAGAA; R27742; 4; 13;; p.
+BS  GAACATTCTAGAA; R27743; 4; 13;; p.
+BS  GAAAGTTCTAGAA; R27744; 4; 13;; p.
+BS  GAATGTTCTAGAA; R27745; 4; 13;; p.
+BS  GAACATTCCAGAA; R27746; 4; 13;; p.
+BS  GAAGCTTCCAGAA; R27747; 4; 13;; p.
+BS  GAACATTCTAGAA; R27748; 4; 13;; p.
+BS  GAAAGTTCTAGAA; R27749; 4; 13;; p.
+BS  GAACCTTCTAGAA; R27750; 4; 13;; p.
+BS  GAATGTTCTAGAA; R27751; 4; 13;; p.
+BS  GAATGTTCTAGAA; R27752; 4; 13;; p.
+BS  GAAGGTTCTAGAA; R27753; 4; 13;; p.
+BS  GAACATTCGAGAA; R27754; 4; 13;; p.
+BS  GAATGTTCTAGAA; R27755; 4; 13;; p.
+BS  GAACATTCTAGAA; R27756; 4; 13;; p.
+BS  GAACATTCTAGAA; R27757; 4; 13;; p.
+BS  GAAAGTTCTAGAA; R27758; 4; 13;; p.
+BS  GAACGTTCTAGAA; R27759; 4; 13;; p.
+BS  GAAAGTTCTAGAA; R27760; 4; 13;; p.
+BS  GAATGTTCTAGAA; R27761; 4; 13;; p.
+BS  GAACATTCTGGAA; R27762; 4; 13;; p.
+BS  GAACATTCTAGAA; R27763; 4; 13;; p.
+BS  GAATGTTCTAGAA; R27764; 4; 13;; p.
+BS  GAAGATTCCAGAA; R27765; 4; 13;; p.
+BS  GAACCTTCTAGAA; R27766; 4; 13;; p.
+BS  GAAGTTTCTAGAA; R27767; 4; 13;; p.
+BS  GAACATTCTAGAA; R27768; 4; 13;; p.
+BS  GAAAGTTCTAGAA; R27769; 4; 13;; p.
+BS  GAAAGTTCTAGAA; R27770; 4; 13;; p.
+BS  GAACATTCTAGAA; R27771; 4; 13;; p.
+BS  GAACATTCTAGAA; R27772; 4; 13;; p.
+BS  GAATATTCTAGAA; R27773; 4; 13;; p.
+BS  GAACATTCGAGAA; R27774; 4; 13;; p.
+BS  GAAACTTCTAGAA; R27775; 4; 13;; p.
+BS  GAATGTTCTAGAA; R27776; 4; 13;; p.
+BS  GAACATTCTAGAA; R27777; 4; 13;; p.
+BS  GAATGTTCGAGAA; R27778; 4; 13;; p.
+BS  GAAAGTTCTAGAA; R27779; 4; 13;; p.
+BS  GAACATTCTAGAA; R27780; 4; 13;; p.
+BS  GAAGGTTCGAGAA; R27781; 4; 13;; p.
+BS  GAAGGTTCTAGAA; R27782; 4; 13;; p.
+BS  GAAAGTTCTAGAA; R27783; 4; 13;; p.
+BS  GAAGGTTCTAGAA; R27784; 4; 13;; p.
+BS  GAAGGTTCTAGAA; R27785; 4; 13;; p.
+BS  GAATGTTCTGGAA; R27786; 4; 13;; p.
+XX
+CC  sequences selected with recombinant HSF2 from a pool of double-stranded oligonucleotides containing a core of 19 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+RN  [2]; RE0062733.
+RX  PUBMED: 12027891.
+RA  Manuel M., Rallu M., Loones M. T., Zimarino V., Mezger V., Morange M.
+RT  Determination of the consensus binding sequence for the purified embryonic heat shock factor 2.
+RL  Eur. J. Biochem. 269:2527-2537 (2002).
+XX
+//

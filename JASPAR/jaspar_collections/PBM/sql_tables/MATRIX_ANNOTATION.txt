@@ -1,0 +1,1456 @@
+10123	class	Helix-Turn-Helix 
+10123	comment	Data is from Uniprobe database
+10123	family	Arid  
+10123	medline	19443739
+10123	pazar_tf_id	
+10123	tax_group	vertebrates
+10123	type	universal protein binding microarray (PBM)
+10124	class	Helix-Turn-Helix 
+10124	comment	Data is from Uniprobe database
+10124	family	Arid
+10124	medline	19443739
+10124	pazar_tf_id	
+10124	tax_group	vertebrates
+10124	type	universal protein binding microarray (PBM)
+10125	class	Zipper-Type 
+10125	comment	Data is from Uniprobe database
+10125	family	Helix-Loop-Helix 
+10125	medline	19443739
+10125	pazar_tf_id	
+10125	tax_group	vertebrates
+10125	type	universal protein binding microarray (PBM)
+10126	class	Zipper-Type 
+10126	comment	Data is from Uniprobe database
+10126	family	Leucine Zipper 
+10126	medline	19443739
+10126	pazar_tf_id	
+10126	tax_group	vertebrates
+10126	type	universal protein binding microarray (PBM)
+10127	class	Other Alpha-Helix
+10127	comment	Data is from Uniprobe database
+10127	family	High Mobility Group
+10127	medline	19443739
+10127	pazar_tf_id	
+10127	tax_group	vertebrates
+10127	type	universal protein binding microarray (PBM)
+10128	class	Zinc-coordinating 
+10128	comment	Data is from Uniprobe database
+10128	family	BetaBetaAlpha-zinc finger 
+10128	medline	19443739
+10128	pazar_tf_id	
+10128	tax_group	vertebrates
+10128	type	universal protein binding microarray (PBM)
+10129	class	Zipper-Type 
+10129	comment	Data is from Uniprobe database
+10129	family	Helix-Loop-Helix 
+10129	medline	19443739
+10129	pazar_tf_id	
+10129	tax_group	vertebrates
+10129	type	universal protein binding microarray (PBM)
+10130	class	Winged Helix-Turn-Helix 
+10130	comment	Data is from Uniprobe database
+10130	family	E2F 
+10130	medline	19443739
+10130	pazar_tf_id	
+10130	tax_group	vertebrates
+10130	type	universal protein binding microarray (PBM)
+10131	class	Winged Helix-Turn-Helix 
+10131	comment	Data is from Uniprobe database
+10131	family	E2F
+10131	medline	19443739
+10131	pazar_tf_id	
+10131	tax_group	vertebrates
+10131	type	universal protein binding microarray (PBM)
+10132	class	Zinc-coordinating 
+10132	comment	Data is from Uniprobe database
+10132	family	BetaBetaAlpha-zinc finger 
+10132	medline	19443739
+10132	pazar_tf_id	
+10132	tax_group	vertebrates
+10132	type	universal protein binding microarray (PBM)
+10133	class	Winged Helix-Turn-Helix 
+10133	comment	Data is from Uniprobe database
+10133	family	Ets  
+10133	medline	19443739
+10133	pazar_tf_id	
+10133	tax_group	vertebrates
+10133	type	universal protein binding microarray (PBM)
+10134	class	Winged Helix-Turn-Helix 
+10134	comment	Data is from Uniprobe database
+10134	family	Ets  
+10134	medline	19443739
+10134	pazar_tf_id	
+10134	tax_group	vertebrates
+10134	type	universal protein binding microarray (PBM)
+10135	class	Beta-Hairpin-Ribbon 
+10135	comment	Data is from Uniprobe database
+10135	family	T
+10135	medline	19443739
+10135	pazar_tf_id	
+10135	tax_group	vertebrates
+10135	type	universal protein binding microarray (PBM)
+10136	class	Zinc-coordinating 
+10136	comment	Data is from Uniprobe database
+10136	family	Hormone-nuclear Receptor 
+10136	medline	19443739
+10136	pazar_tf_id	
+10136	tax_group	vertebrates
+10136	type	universal protein binding microarray (PBM)
+10137	class	Winged Helix-Turn-Helix 
+10137	comment	Data is from Uniprobe database
+10137	family	Forkhead  
+10137	medline	19443739
+10137	pazar_tf_id	
+10137	tax_group	vertebrates
+10137	type	universal protein binding microarray (PBM)
+10138	class	Winged Helix-Turn-Helix 
+10138	comment	Data is from Uniprobe database
+10138	family	Forkhead  
+10138	medline	19443739
+10138	pazar_tf_id	
+10138	tax_group	vertebrates
+10138	type	universal protein binding microarray (PBM)
+10139	class	Winged Helix-Turn-Helix 
+10139	comment	Data is from Uniprobe database
+10139	family	Forkhead  
+10139	medline	19443739
+10139	pazar_tf_id	
+10139	tax_group	vertebrates
+10139	type	universal protein binding microarray (PBM)
+10140	class	Winged Helix-Turn-Helix 
+10140	comment	Data is from Uniprobe database
+10140	family	Forkhead  
+10140	medline	19443739
+10140	pazar_tf_id	
+10140	tax_group	vertebrates
+10140	type	universal protein binding microarray (PBM)
+10141	class	Winged Helix-Turn-Helix 
+10141	comment	Data is from Uniprobe database
+10141	family	Forkhead  
+10141	medline	19443739
+10141	pazar_tf_id	
+10141	tax_group	vertebrates
+10141	type	universal protein binding microarray (PBM)
+10142	class	Winged Helix-Turn-Helix 
+10142	comment	Data is from Uniprobe database
+10142	family	Ets  
+10142	medline	19443739
+10142	pazar_tf_id	
+10142	tax_group	vertebrates
+10142	type	universal protein binding microarray (PBM)
+10143	class	Zinc-coordinating 
+10143	comment	Data is from Uniprobe database
+10143	family	GATA  
+10143	medline	19443739
+10143	pazar_tf_id	
+10143	tax_group	vertebrates
+10143	type	universal protein binding microarray (PBM)
+10144	class	Zinc-coordinating 
+10144	comment	Data is from Uniprobe database
+10144	family	GATA  
+10144	medline	19443739
+10144	pazar_tf_id	
+10144	tax_group	vertebrates
+10144	type	universal protein binding microarray (PBM)
+10145	class	Zinc-coordinating 
+10145	comment	Data is from Uniprobe database
+10145	family	GATA  
+10145	medline	19443739
+10145	pazar_tf_id	
+10145	tax_group	vertebrates
+10145	type	universal protein binding microarray (PBM)
+10146	class	Zinc-coordinating 
+10146	comment	Data is from Uniprobe database
+10146	family	Glial Cells Missing (GCM)  
+10146	medline	19443739
+10146	pazar_tf_id	
+10146	tax_group	vertebrates
+10146	type	universal protein binding microarray (PBM)
+10147	class	Zinc-coordinating 
+10147	comment	Data is from Uniprobe database
+10147	family	BetaBetaAlpha-zinc finger 
+10147	medline	19443739
+10147	pazar_tf_id	
+10147	tax_group	vertebrates
+10147	type	universal protein binding microarray (PBM)
+10148	class	Zinc-coordinating
+10148	comment	Data is from Uniprobe database
+10148	family	BetaBetaAlpha-zinc finger
+10148	medline	19443739
+10148	pazar_tf_id	
+10148	tax_group	vertebrates
+10148	type	universal protein binding microarray (PBM)
+10149	class	Other Alpha-Helix 
+10149	comment	Data is from Uniprobe database
+10149	family	Sand  
+10149	medline	19443739
+10149	pazar_tf_id	
+10149	tax_group	vertebrates
+10149	type	universal protein binding microarray (PBM)
+10150	class	Other Alpha-Helix 
+10150	comment	Data is from Uniprobe database
+10150	family	High Mobility Group 
+10150	medline	19443739
+10150	pazar_tf_id	
+10150	tax_group	vertebrates
+10150	type	universal protein binding microarray (PBM)
+10151	class	Zinc-coordinating 
+10151	comment	Data is from Uniprobe database
+10151	family	BetaBetaAlpha-zinc finger 
+10151	medline	19443739
+10151	pazar_tf_id	
+10151	tax_group	vertebrates
+10151	type	universal protein binding microarray (PBM)
+10152	class	Zinc-coordinating 
+10152	comment	Data is from Uniprobe database
+10152	family	Hormone-nuclear Receptor 
+10152	medline	19443739
+10152	pazar_tf_id	
+10152	tax_group	vertebrates
+10152	type	universal protein binding microarray (PBM)
+10153	class	Helix-Turn-Helix 
+10153	comment	Data is from Uniprobe database
+10153	family	Homeo 
+10153	medline	19443739
+10153	pazar_tf_id	
+10153	tax_group	vertebrates
+10153	type	universal protein binding microarray (PBM)
+10154	class	
+10154	comment	Data is from Uniprobe database
+10154	family	
+10154	medline	19443739
+10154	pazar_tf_id	
+10154	tax_group	vertebrates
+10154	type	universal protein binding microarray (PBM)
+10155	class	Winged Helix-Turn-Helix 
+10155	comment	Data is from Uniprobe database
+10155	family	IRF 
+10155	medline	19443739
+10155	pazar_tf_id	
+10155	tax_group	vertebrates
+10155	type	universal protein binding microarray (PBM)
+10156	class	Winged Helix-Turn-Helix 
+10156	comment	Data is from Uniprobe database
+10156	family	IRF 
+10156	medline	19443739
+10156	pazar_tf_id	
+10156	tax_group	vertebrates
+10156	type	universal protein binding microarray (PBM)
+10157	class	Winged Helix-Turn-Helix 
+10157	comment	Data is from Uniprobe database
+10157	family	IRF 
+10157	medline	19443739
+10157	pazar_tf_id	
+10157	tax_group	vertebrates
+10157	type	universal protein binding microarray (PBM)
+10158	class	Winged Helix-Turn-Helix 
+10158	comment	Data is from Uniprobe database
+10158	family	IRF 
+10158	medline	19443739
+10158	pazar_tf_id	
+10158	tax_group	vertebrates
+10158	type	universal protein binding microarray (PBM)
+10159	class	Winged Helix-Turn-Helix 
+10159	comment	Data is from Uniprobe database
+10159	family	IRF 
+10159	medline	19443739
+10159	pazar_tf_id	
+10159	tax_group	vertebrates
+10159	type	universal protein binding microarray (PBM)
+10160	class	Zipper-Type 
+10160	comment	Data is from Uniprobe database
+10160	family	Leucine Zipper 
+10160	medline	19443739
+10160	pazar_tf_id	
+10160	tax_group	vertebrates
+10160	type	universal protein binding microarray (PBM)
+10161	class	Zinc-coordinating 
+10161	comment	Data is from Uniprobe database
+10161	family	BetaBetaAlpha-zinc finger 
+10161	medline	19443739
+10161	pazar_tf_id	
+10161	tax_group	vertebrates
+10161	type	universal protein binding microarray (PBM)
+10162	class	Other Alpha-Helix 
+10162	comment	Data is from Uniprobe database
+10162	family	High Mobility Group 
+10162	medline	19443739
+10162	pazar_tf_id	
+10162	tax_group	vertebrates
+10162	type	universal protein binding microarray (PBM)
+10163	class	Zipper-Type 
+10163	comment	Data is from Uniprobe database
+10163	family	Leucine Zipper 
+10163	medline	19443739
+10163	pazar_tf_id	
+10163	tax_group	vertebrates
+10163	type	universal protein binding microarray (PBM)
+10164	class	Zipper-Type 
+10164	comment	Data is from Uniprobe database
+10164	family	Leucine Zipper 
+10164	medline	19443739
+10164	pazar_tf_id	
+10164	tax_group	vertebrates
+10164	type	universal protein binding microarray (PBM)
+10165	class	Zipper-Type 
+10165	comment	Data is from Uniprobe database
+10165	family	Helix-Loop-Helix 
+10165	medline	19443739
+10165	pazar_tf_id	
+10165	tax_group	vertebrates
+10165	type	universal protein binding microarray (PBM)
+10166	class	Zinc-coordinating 
+10166	comment	Data is from Uniprobe database
+10166	family	BetaBetaAlpha-zinc finger 
+10166	medline	19443739
+10166	pazar_tf_id	
+10166	tax_group	vertebrates
+10166	type	universal protein binding microarray (PBM)
+10167	class	Helix-Turn-Helix 
+10167	comment	Data is from Uniprobe database
+10167	family	Myb  
+10167	medline	19443739
+10167	pazar_tf_id	
+10167	tax_group	vertebrates
+10167	type	universal protein binding microarray (PBM)
+10168	class	Helix-Turn-Helix 
+10168	comment	Data is from Uniprobe database
+10168	family	Myb  
+10168	medline	19443739
+10168	pazar_tf_id	
+10168	tax_group	vertebrates
+10168	type	universal protein binding microarray (PBM)
+10169	class	Zipper-Type 
+10169	comment	Data is from Uniprobe database
+10169	family	Helix-Loop-Helix 
+10169	medline	19443739
+10169	pazar_tf_id	
+10169	tax_group	vertebrates
+10169	type	universal protein binding microarray (PBM)
+10170	class	Helix-Turn-Helix 
+10170	comment	Data is from Uniprobe database
+10170	family	Homeo 
+10170	medline	19443739
+10170	pazar_tf_id	
+10170	tax_group	vertebrates
+10170	type	universal protein binding microarray (PBM)
+10171	class	Zinc-coordinating 
+10171	comment	Data is from Uniprobe database
+10171	family	Hormone-nuclear Receptor 
+10171	medline	19443739
+10171	pazar_tf_id	
+10171	tax_group	vertebrates
+10171	type	universal protein binding microarray (PBM)
+10172	class	Zinc-coordinating 
+10172	comment	Data is from Uniprobe database
+10172	family	BetaBetaAlpha-zinc finger 
+10172	medline	19443739
+10172	pazar_tf_id	
+10172	tax_group	vertebrates
+10172	type	universal protein binding microarray (PBM)
+10173	class	Zinc-coordinating 
+10173	comment	Data is from Uniprobe database
+10173	family	BetaBetaAlpha-zinc finger 
+10173	medline	19443739
+10173	pazar_tf_id	
+10173	tax_group	vertebrates
+10173	type	universal protein binding microarray (PBM)
+10174	class	Zinc-coordinating 
+10174	comment	Data is from Uniprobe database
+10174	family	BetaBetaAlpha-zinc finger 
+10174	medline	19443739
+10174	pazar_tf_id	
+10174	tax_group	vertebrates
+10174	type	universal protein binding microarray (PBM)
+10175	class	Zinc-coordinating 
+10175	comment	Data is from Uniprobe database
+10175	family	Hormone-nuclear Receptor 
+10175	medline	19443739
+10175	pazar_tf_id	
+10175	tax_group	vertebrates
+10175	type	universal protein binding microarray (PBM)
+10176	class	Winged Helix-Turn-Helix 
+10176	comment	Data is from Uniprobe database
+10176	family	RFX  
+10176	medline	19443739
+10176	pazar_tf_id	
+10176	tax_group	vertebrates
+10176	type	universal protein binding microarray (PBM)
+10177	class	Winged Helix-Turn-Helix 
+10177	comment	Data is from Uniprobe database
+10177	family	RFX  
+10177	medline	19443739
+10177	pazar_tf_id	
+10177	tax_group	vertebrates
+10177	type	universal protein binding microarray (PBM)
+10178	class	Winged Helix-Turn-Helix 
+10178	comment	Data is from Uniprobe database
+10178	family	RFX  
+10178	medline	19443739
+10178	pazar_tf_id	
+10178	tax_group	vertebrates
+10178	type	universal protein binding microarray (PBM)
+10179	class	Zinc-coordinating 
+10179	comment	Data is from Uniprobe database
+10179	family	Hormone-nuclear Receptor 
+10179	medline	19443739
+10179	pazar_tf_id	
+10179	tax_group	vertebrates
+10179	type	universal protein binding microarray (PBM)
+10180	class	Winged Helix-Turn-Helix 
+10180	comment	Data is from Uniprobe database
+10180	family	Ets  
+10180	medline	19443739
+10180	pazar_tf_id	
+10180	tax_group	vertebrates
+10180	type	universal protein binding microarray (PBM)
+10181	class	Helix-Turn-Helix 
+10181	comment	Data is from Uniprobe database
+10181	family	Homeo 
+10181	medline	19443739
+10181	pazar_tf_id	
+10181	tax_group	vertebrates
+10181	type	universal protein binding microarray (PBM)
+10182	class	Zinc-coordinating 
+10182	comment	Data is from Uniprobe database
+10182	family	MH1  
+10182	medline	19443739
+10182	pazar_tf_id	
+10182	tax_group	vertebrates
+10182	type	universal protein binding microarray (PBM)
+10183	class	Other Alpha-Helix 
+10183	comment	Data is from Uniprobe database
+10183	family	High Mobility Group 
+10183	medline	19443739
+10183	pazar_tf_id	
+10183	tax_group	vertebrates
+10183	type	universal protein binding microarray (PBM)
+10184	class	Other Alpha-Helix 
+10184	comment	Data is from Uniprobe database
+10184	family	High Mobility Group 
+10184	medline	19443739
+10184	pazar_tf_id	
+10184	tax_group	vertebrates
+10184	type	universal protein binding microarray (PBM)
+10185	class	Other Alpha-Helix 
+10185	comment	Data is from Uniprobe database
+10185	family	High Mobility Group 
+10185	medline	19443739
+10185	pazar_tf_id	
+10185	tax_group	vertebrates
+10185	type	universal protein binding microarray (PBM)
+10186	class	Other Alpha-Helix 
+10186	comment	Data is from Uniprobe database
+10186	family	High Mobility Group 
+10186	medline	19443739
+10186	pazar_tf_id	
+10186	tax_group	vertebrates
+10186	type	universal protein binding microarray (PBM)
+10187	class	Other Alpha-Helix 
+10187	comment	Data is from Uniprobe database
+10187	family	High Mobility Group 
+10187	medline	19443739
+10187	pazar_tf_id	
+10187	tax_group	vertebrates
+10187	type	universal protein binding microarray (PBM)
+10188	class	Other Alpha-Helix 
+10188	comment	Data is from Uniprobe database
+10188	family	High Mobility Group 
+10188	medline	19443739
+10188	pazar_tf_id	
+10188	tax_group	vertebrates
+10188	type	universal protein binding microarray (PBM)
+10189	class	Other Alpha-Helix 
+10189	comment	Data is from Uniprobe database
+10189	family	High Mobility Group 
+10189	medline	19443739
+10189	pazar_tf_id	
+10189	tax_group	vertebrates
+10189	type	universal protein binding microarray (PBM)
+10190	class	Other Alpha-Helix 
+10190	comment	Data is from Uniprobe database
+10190	family	High Mobility Group 
+10190	medline	19443739
+10190	pazar_tf_id	
+10190	tax_group	vertebrates
+10190	type	universal protein binding microarray (PBM)
+10191	class	Other Alpha-Helix 
+10191	comment	Data is from Uniprobe database
+10191	family	High Mobility Group 
+10191	medline	19443739
+10191	pazar_tf_id	
+10191	tax_group	vertebrates
+10191	type	universal protein binding microarray (PBM)
+10192	class	Other Alpha-Helix
+10192	comment	Data is from Uniprobe database
+10192	family	High Mobility Group
+10192	medline	19443739
+10192	pazar_tf_id	
+10192	tax_group	vertebrates
+10192	type	universal protein binding microarray (PBM)
+10193	class	Other Alpha-Helix 
+10193	comment	Data is from Uniprobe database
+10193	family	High Mobility Group 
+10193	medline	19443739
+10193	pazar_tf_id	
+10193	tax_group	vertebrates
+10193	type	universal protein binding microarray (PBM)
+10194	class	Other Alpha-Helix 
+10194	comment	Data is from Uniprobe database
+10194	family	High Mobility Group 
+10194	medline	19443739
+10194	pazar_tf_id	
+10194	tax_group	vertebrates
+10194	type	universal protein binding microarray (PBM)
+10195	class	Other Alpha-Helix 
+10195	comment	Data is from Uniprobe database
+10195	family	High Mobility Group 
+10195	medline	19443739
+10195	pazar_tf_id	
+10195	tax_group	vertebrates
+10195	type	universal protein binding microarray (PBM)
+10196	class	Other Alpha-Helix 
+10196	comment	Data is from Uniprobe database
+10196	family	High Mobility Group 
+10196	medline	19443739
+10196	pazar_tf_id	
+10196	tax_group	vertebrates
+10196	type	universal protein binding microarray (PBM)
+10197	class	Other Alpha-Helix
+10197	comment	Data is from Uniprobe database
+10197	family	Sand
+10197	medline	19443739
+10197	pazar_tf_id	
+10197	tax_group	vertebrates
+10197	type	universal protein binding microarray (PBM)
+10198	class	Zinc-coordinating 
+10198	comment	Data is from Uniprobe database
+10198	family	BetaBetaAlpha-zinc finger 
+10198	medline	19443739
+10198	pazar_tf_id	
+10198	tax_group	vertebrates
+10198	type	universal protein binding microarray (PBM)
+10199	class	Winged Helix-Turn-Helix 
+10199	comment	Data is from Uniprobe database
+10199	family	Ets  
+10199	medline	19443739
+10199	pazar_tf_id	
+10199	tax_group	vertebrates
+10199	type	universal protein binding microarray (PBM)
+10200	class	Other Alpha-Helix 
+10200	comment	Data is from Uniprobe database
+10200	family	MADS 
+10200	medline	19443739
+10200	pazar_tf_id	
+10200	tax_group	vertebrates
+10200	type	universal protein binding microarray (PBM)
+10201	class	Other Alpha-Helix 
+10201	comment	Data is from Uniprobe database
+10201	family	High Mobility Group 
+10201	medline	19443739
+10201	pazar_tf_id	
+10201	tax_group	vertebrates
+10201	type	universal protein binding microarray (PBM)
+10202	class	Beta-sheet 
+10202	comment	Data is from Uniprobe database
+10202	family	TATA-binding 
+10202	medline	19443739
+10202	pazar_tf_id	
+10202	tax_group	vertebrates
+10202	type	universal protein binding microarray (PBM)
+10203	class	Helix-Turn-Helix 
+10203	comment	Data is from Uniprobe database
+10203	family	Homeo 
+10203	medline	19443739
+10203	pazar_tf_id	
+10203	tax_group	vertebrates
+10203	type	universal protein binding microarray (PBM)
+10204	class	Other Alpha-Helix 
+10204	comment	Data is from Uniprobe database
+10204	family	High Mobility Group 
+10204	medline	19443739
+10204	pazar_tf_id	
+10204	tax_group	vertebrates
+10204	type	universal protein binding microarray (PBM)
+10205	class	Other Alpha-Helix 
+10205	comment	Data is from Uniprobe database
+10205	family	High Mobility Group 
+10205	medline	19443739
+10205	pazar_tf_id	
+10205	tax_group	vertebrates
+10205	type	universal protein binding microarray (PBM)
+10206	class	Other Alpha-Helix 
+10206	comment	Data is from Uniprobe database
+10206	family	High Mobility Group 
+10206	medline	19443739
+10206	pazar_tf_id	
+10206	tax_group	vertebrates
+10206	type	universal protein binding microarray (PBM)
+10207	class	Zipper-Type 
+10207	comment	Data is from Uniprobe database
+10207	family	Helix-Loop-Helix 
+10207	medline	19443739
+10207	pazar_tf_id	
+10207	tax_group	vertebrates
+10207	type	universal protein binding microarray (PBM)
+10208	class	Zipper-Type 
+10208	comment	Data is from Uniprobe database
+10208	family	Helix-Loop-Helix 
+10208	medline	19443739
+10208	pazar_tf_id	
+10208	tax_group	vertebrates
+10208	type	universal protein binding microarray (PBM)
+10209	class	Zipper-Type 
+10209	comment	Data is from Uniprobe database
+10209	family	Helix-Loop-Helix 
+10209	medline	19443739
+10209	pazar_tf_id	
+10209	tax_group	vertebrates
+10209	type	universal protein binding microarray (PBM)
+10210	class	Zipper-Type 
+10210	comment	Data is from Uniprobe database
+10210	family	Helix-Loop-Helix 
+10210	medline	19443739
+10210	pazar_tf_id	
+10210	tax_group	vertebrates
+10210	type	universal protein binding microarray (PBM)
+10211	class	Zipper-Type 
+10211	comment	Data is from Uniprobe database
+10211	family	Helix-Loop-Helix 
+10211	medline	19443739
+10211	pazar_tf_id	
+10211	tax_group	vertebrates
+10211	type	universal protein binding microarray (PBM)
+10212	class	Zinc-coordinating
+10212	comment	Data is from Uniprobe database
+10212	family	BetaBetaAlpha-zinc finger
+10212	medline	19443739
+10212	pazar_tf_id	
+10212	tax_group	vertebrates
+10212	type	universal protein binding microarray (PBM)
+10213	class	Zinc-coordinating
+10213	comment	Data is from Uniprobe database
+10213	family	BetaBetaAlpha-zinc finger
+10213	medline	19443739
+10213	pazar_tf_id	
+10213	tax_group	vertebrates
+10213	type	universal protein binding microarray (PBM)
+10214	class	Zinc-coordinating
+10214	comment	Data is from Uniprobe database
+10214	family	BetaBetaAlpha-zinc finger
+10214	medline	19443739
+10214	pazar_tf_id	
+10214	tax_group	vertebrates
+10214	type	universal protein binding microarray (PBM)
+10215	class	Zinc-coordinating
+10215	comment	Data is from Uniprobe database
+10215	family	BetaBetaAlpha-zinc finger
+10215	medline	19443739
+10215	pazar_tf_id	
+10215	tax_group	vertebrates
+10215	type	universal protein binding microarray (PBM)
+10216	class	Zinc-coordinating
+10216	comment	Data is from Uniprobe database
+10216	family	BetaBetaAlpha-zinc finger
+10216	medline	19443739
+10216	pazar_tf_id	
+10216	tax_group	vertebrates
+10216	type	universal protein binding microarray (PBM)
+10217	class	Zinc-coordinating
+10217	comment	Data is from Uniprobe database
+10217	family	BetaBetaAlpha-zinc finger
+10217	medline	19443739
+10217	pazar_tf_id	
+10217	tax_group	vertebrates
+10217	type	universal protein binding microarray (PBM)
+10218	class	Zinc-coordinating
+10218	comment	Data is from Uniprobe database
+10218	family	BetaBetaAlpha-zinc finger
+10218	medline	19443739
+10218	pazar_tf_id	
+10218	tax_group	vertebrates
+10218	type	universal protein binding microarray (PBM)
+10219	class	Zinc-coordinating
+10219	comment	Data is from Uniprobe database
+10219	family	BetaBetaAlpha-zinc finger
+10219	medline	19443739
+10219	pazar_tf_id	
+10219	tax_group	vertebrates
+10219	type	universal protein binding microarray (PBM)
+10220	class	Zinc-coordinating
+10220	comment	Data is from Uniprobe database
+10220	family	BetaBetaAlpha-zinc finger
+10220	medline	19443739
+10220	pazar_tf_id	
+10220	tax_group	vertebrates
+10220	type	universal protein binding microarray (PBM)
+10221	class	Zinc-coordinating
+10221	comment	Data is from Uniprobe database
+10221	family	BetaBetaAlpha-zinc finger
+10221	medline	19443739
+10221	pazar_tf_id	
+10221	tax_group	vertebrates
+10221	type	universal protein binding microarray (PBM)
+10222	class	Zinc-coordinating
+10222	comment	Data is from Uniprobe database
+10222	family	BetaBetaAlpha-zinc finger
+10222	medline	19443739
+10222	pazar_tf_id	
+10222	tax_group	vertebrates
+10222	type	universal protein binding microarray (PBM)
+10223	class	Zinc-coordinating 
+10223	comment	Data is from Uniprobe database
+10223	family	BetaBetaAlpha-zinc finger 
+10223	medline	19443739
+10223	pazar_tf_id	
+10223	tax_group	vertebrates
+10223	type	universal protein binding microarray (PBM)
+10224	class	Zinc-coordinating 
+10224	comment	Data is from Uniprobe database
+10224	family	BetaBetaAlpha-zinc finger 
+10224	medline	19443739
+10224	pazar_tf_id	
+10224	tax_group	vertebrates
+10224	type	universal protein binding microarray (PBM)
+10225	class	Zinc-coordinating 
+10225	comment	Data is from Uniprobe database
+10225	family	BetaBetaAlpha-zinc finger 
+10225	medline	19443739
+10225	pazar_tf_id	
+10225	tax_group	vertebrates
+10225	type	universal protein binding microarray (PBM)
+10226	class	Zinc-coordinating
+10226	comment	Data is from Uniprobe database
+10226	family	BetaBetaAlpha-zinc finger
+10226	medline	19443739
+10226	pazar_tf_id	
+10226	tax_group	vertebrates
+10226	type	universal protein binding microarray (PBM)
+10227	class	Helix-Turn-Helix 
+10227	comment	Data is from Uniprobe database
+10227	family	Arid  
+10227	medline	19443739
+10227	pazar_tf_id	
+10227	tax_group	vertebrates
+10227	type	universal protein binding microarray (PBM)
+10228	class	Helix-Turn-Helix 
+10228	comment	Data is from Uniprobe database
+10228	family	Arid
+10228	medline	19443739
+10228	pazar_tf_id	
+10228	tax_group	vertebrates
+10228	type	universal protein binding microarray (PBM)
+10229	class	Zipper-Type 
+10229	comment	Data is from Uniprobe database
+10229	family	Helix-Loop-Helix 
+10229	medline	19443739
+10229	pazar_tf_id	
+10229	tax_group	vertebrates
+10229	type	universal protein binding microarray (PBM)
+10230	class	Zipper-Type 
+10230	comment	Data is from Uniprobe database
+10230	family	Leucine Zipper 
+10230	medline	19443739
+10230	pazar_tf_id	
+10230	tax_group	vertebrates
+10230	type	universal protein binding microarray (PBM)
+10231	class	Other Alpha-Helix
+10231	comment	Data is from Uniprobe database
+10231	family	High Mobility Group
+10231	medline	19443739
+10231	pazar_tf_id	
+10231	tax_group	vertebrates
+10231	type	universal protein binding microarray (PBM)
+10232	class	Zinc-coordinating 
+10232	comment	Data is from Uniprobe database
+10232	family	BetaBetaAlpha-zinc finger 
+10232	medline	19443739
+10232	pazar_tf_id	
+10232	tax_group	vertebrates
+10232	type	universal protein binding microarray (PBM)
+10233	class	Zipper-Type 
+10233	comment	Data is from Uniprobe database
+10233	family	Helix-Loop-Helix 
+10233	medline	19443739
+10233	pazar_tf_id	
+10233	tax_group	vertebrates
+10233	type	universal protein binding microarray (PBM)
+10234	class	Winged Helix-Turn-Helix 
+10234	comment	Data is from Uniprobe database
+10234	family	E2F 
+10234	medline	19443739
+10234	pazar_tf_id	
+10234	tax_group	vertebrates
+10234	type	universal protein binding microarray (PBM)
+10235	class	Winged Helix-Turn-Helix 
+10235	comment	Data is from Uniprobe database
+10235	family	E2F 
+10235	medline	19443739
+10235	pazar_tf_id	
+10235	tax_group	vertebrates
+10235	type	universal protein binding microarray (PBM)
+10236	class	Zinc-coordinating 
+10236	comment	Data is from Uniprobe database
+10236	family	BetaBetaAlpha-zinc finger 
+10236	medline	19443739
+10236	pazar_tf_id	
+10236	tax_group	vertebrates
+10236	type	universal protein binding microarray (PBM)
+10237	class	Winged Helix-Turn-Helix 
+10237	comment	Data is from Uniprobe database
+10237	family	Ets  
+10237	medline	19443739
+10237	pazar_tf_id	
+10237	tax_group	vertebrates
+10237	type	universal protein binding microarray (PBM)
+10238	class	Winged Helix-Turn-Helix 
+10238	comment	Data is from Uniprobe database
+10238	family	Ets  
+10238	medline	19443739
+10238	pazar_tf_id	
+10238	tax_group	vertebrates
+10238	type	universal protein binding microarray (PBM)
+10239	class	Beta-Hairpin-Ribbon 
+10239	comment	Data is from Uniprobe database
+10239	family	E2F T
+10239	medline	19443739
+10239	pazar_tf_id	
+10239	tax_group	vertebrates
+10239	type	universal protein binding microarray (PBM)
+10240	class	Zinc-coordinating 
+10240	comment	Data is from Uniprobe database
+10240	family	Hormone-nuclear Receptor 
+10240	medline	19443739
+10240	pazar_tf_id	
+10240	tax_group	vertebrates
+10240	type	universal protein binding microarray (PBM)
+10241	class	Winged Helix-Turn-Helix 
+10241	comment	Data is from Uniprobe database
+10241	family	Forkhead  
+10241	medline	19443739
+10241	pazar_tf_id	
+10241	tax_group	vertebrates
+10241	type	universal protein binding microarray (PBM)
+10242	class	Winged Helix-Turn-Helix 
+10242	comment	Data is from Uniprobe database
+10242	family	Forkhead  
+10242	medline	19443739
+10242	pazar_tf_id	
+10242	tax_group	vertebrates
+10242	type	universal protein binding microarray (PBM)
+10243	class	Winged Helix-Turn-Helix 
+10243	comment	Data is from Uniprobe database
+10243	family	Forkhead  
+10243	medline	19443739
+10243	pazar_tf_id	
+10243	tax_group	vertebrates
+10243	type	universal protein binding microarray (PBM)
+10244	class	Winged Helix-Turn-Helix 
+10244	comment	Data is from Uniprobe database
+10244	family	Forkhead  
+10244	medline	19443739
+10244	pazar_tf_id	
+10244	tax_group	vertebrates
+10244	type	universal protein binding microarray (PBM)
+10245	class	Winged Helix-Turn-Helix 
+10245	comment	Data is from Uniprobe database
+10245	family	Forkhead  
+10245	medline	19443739
+10245	pazar_tf_id	
+10245	tax_group	vertebrates
+10245	type	universal protein binding microarray (PBM)
+10246	class	Winged Helix-Turn-Helix 
+10246	comment	Data is from Uniprobe database
+10246	family	Ets  
+10246	medline	19443739
+10246	pazar_tf_id	
+10246	tax_group	vertebrates
+10246	type	universal protein binding microarray (PBM)
+10247	class	Zinc-coordinating 
+10247	comment	Data is from Uniprobe database
+10247	family	GATA  
+10247	medline	19443739
+10247	pazar_tf_id	
+10247	tax_group	vertebrates
+10247	type	universal protein binding microarray (PBM)
+10248	class	Zinc-coordinating 
+10248	comment	Data is from Uniprobe database
+10248	family	GATA  
+10248	medline	19443739
+10248	pazar_tf_id	
+10248	tax_group	vertebrates
+10248	type	universal protein binding microarray (PBM)
+10249	class	Zinc-coordinating 
+10249	comment	Data is from Uniprobe database
+10249	family	GATA  
+10249	medline	19443739
+10249	pazar_tf_id	
+10249	tax_group	vertebrates
+10249	type	universal protein binding microarray (PBM)
+10250	class	Zinc-coordinating 
+10250	comment	Data is from Uniprobe database
+10250	family	Glial Cells Missing (GCM)  
+10250	medline	19443739
+10250	pazar_tf_id	
+10250	tax_group	vertebrates
+10250	type	universal protein binding microarray (PBM)
+10251	class	Zinc-coordinating 
+10251	comment	Data is from Uniprobe database
+10251	family	BetaBetaAlpha-zinc finger 
+10251	medline	19443739
+10251	pazar_tf_id	
+10251	tax_group	vertebrates
+10251	type	universal protein binding microarray (PBM)
+10252	class	Zinc-coordinating
+10252	comment	Data is from Uniprobe database
+10252	family	BetaBetaAlpha-zinc finger
+10252	medline	19443739
+10252	pazar_tf_id	
+10252	tax_group	vertebrates
+10252	type	universal protein binding microarray (PBM)
+10253	class	Other Alpha-Helix 
+10253	comment	Data is from Uniprobe database
+10253	family	Sand  
+10253	medline	19443739
+10253	pazar_tf_id	
+10253	tax_group	vertebrates
+10253	type	universal protein binding microarray (PBM)
+10254	class	Other Alpha-Helix 
+10254	comment	Data is from Uniprobe database
+10254	family	High Mobility Group 
+10254	medline	19443739
+10254	pazar_tf_id	
+10254	tax_group	vertebrates
+10254	type	universal protein binding microarray (PBM)
+10255	class	Zinc-coordinating 
+10255	comment	Data is from Uniprobe database
+10255	family	BetaBetaAlpha-zinc finger 
+10255	medline	19443739
+10255	pazar_tf_id	
+10255	tax_group	vertebrates
+10255	type	universal protein binding microarray (PBM)
+10256	class	Zinc-coordinating 
+10256	comment	Data is from Uniprobe database
+10256	family	Hormone-nuclear Receptor 
+10256	medline	19443739
+10256	pazar_tf_id	
+10256	tax_group	vertebrates
+10256	type	universal protein binding microarray (PBM)
+10257	class	Helix-Turn-Helix 
+10257	comment	Data is from Uniprobe database
+10257	family	Homeo 
+10257	medline	19443739
+10257	pazar_tf_id	
+10257	tax_group	vertebrates
+10257	type	universal protein binding microarray (PBM)
+10258	class	
+10258	comment	Data is from Uniprobe database
+10258	family	
+10258	medline	19443739
+10258	pazar_tf_id	
+10258	tax_group	vertebrates
+10258	type	universal protein binding microarray (PBM)
+10259	class	Winged Helix-Turn-Helix 
+10259	comment	Data is from Uniprobe database
+10259	family	IRF 
+10259	medline	19443739
+10259	pazar_tf_id	
+10259	tax_group	vertebrates
+10259	type	universal protein binding microarray (PBM)
+10260	class	Winged Helix-Turn-Helix 
+10260	comment	Data is from Uniprobe database
+10260	family	IRF 
+10260	medline	19443739
+10260	pazar_tf_id	
+10260	tax_group	vertebrates
+10260	type	universal protein binding microarray (PBM)
+10261	class	Winged Helix-Turn-Helix 
+10261	comment	Data is from Uniprobe database
+10261	family	IRF 
+10261	medline	19443739
+10261	pazar_tf_id	
+10261	tax_group	vertebrates
+10261	type	universal protein binding microarray (PBM)
+10262	class	Winged Helix-Turn-Helix 
+10262	comment	Data is from Uniprobe database
+10262	family	IRF 
+10262	medline	19443739
+10262	pazar_tf_id	
+10262	tax_group	vertebrates
+10262	type	universal protein binding microarray (PBM)
+10263	class	Winged Helix-Turn-Helix 
+10263	comment	Data is from Uniprobe database
+10263	family	IRF 
+10263	medline	19443739
+10263	pazar_tf_id	
+10263	tax_group	vertebrates
+10263	type	universal protein binding microarray (PBM)
+10264	class	Zipper-Type 
+10264	comment	Data is from Uniprobe database
+10264	family	Leucine Zipper 
+10264	medline	19443739
+10264	pazar_tf_id	
+10264	tax_group	vertebrates
+10264	type	universal protein binding microarray (PBM)
+10265	class	Zinc-coordinating 
+10265	comment	Data is from Uniprobe database
+10265	family	BetaBetaAlpha-zinc finger 
+10265	medline	19443739
+10265	pazar_tf_id	
+10265	tax_group	vertebrates
+10265	type	universal protein binding microarray (PBM)
+10266	class	Other Alpha-Helix 
+10266	comment	Data is from Uniprobe database
+10266	family	High Mobility Group 
+10266	medline	19443739
+10266	pazar_tf_id	
+10266	tax_group	vertebrates
+10266	type	universal protein binding microarray (PBM)
+10267	class	Zipper-Type 
+10267	comment	Data is from Uniprobe database
+10267	family	Leucine Zipper 
+10267	medline	19443739
+10267	pazar_tf_id	
+10267	tax_group	vertebrates
+10267	type	universal protein binding microarray (PBM)
+10268	class	Zipper-Type 
+10268	comment	Data is from Uniprobe database
+10268	family	Leucine Zipper 
+10268	medline	19443739
+10268	pazar_tf_id	
+10268	tax_group	vertebrates
+10268	type	universal protein binding microarray (PBM)
+10269	class	Zipper-Type 
+10269	comment	Data is from Uniprobe database
+10269	family	Helix-Loop-Helix 
+10269	medline	19443739
+10269	pazar_tf_id	
+10269	tax_group	vertebrates
+10269	type	universal protein binding microarray (PBM)
+10270	class	Zinc-coordinating 
+10270	comment	Data is from Uniprobe database
+10270	family	BetaBetaAlpha-zinc finger 
+10270	medline	19443739
+10270	pazar_tf_id	
+10270	tax_group	vertebrates
+10270	type	universal protein binding microarray (PBM)
+10271	class	Helix-Turn-Helix 
+10271	comment	Data is from Uniprobe database
+10271	family	Myb  
+10271	medline	19443739
+10271	pazar_tf_id	
+10271	tax_group	vertebrates
+10271	type	universal protein binding microarray (PBM)
+10272	class	Helix-Turn-Helix 
+10272	comment	Data is from Uniprobe database
+10272	family	Myb  
+10272	medline	19443739
+10272	pazar_tf_id	
+10272	tax_group	vertebrates
+10272	type	universal protein binding microarray (PBM)
+10273	class	Zipper-Type 
+10273	comment	Data is from Uniprobe database
+10273	family	Helix-Loop-Helix 
+10273	medline	19443739
+10273	pazar_tf_id	
+10273	tax_group	vertebrates
+10273	type	universal protein binding microarray (PBM)
+10274	class	Helix-Turn-Helix 
+10274	comment	Data is from Uniprobe database
+10274	family	Homeo 
+10274	medline	19443739
+10274	pazar_tf_id	
+10274	tax_group	vertebrates
+10274	type	universal protein binding microarray (PBM)
+10275	class	Zinc-coordinating 
+10275	comment	Data is from Uniprobe database
+10275	family	Hormone-nuclear Receptor 
+10275	medline	19443739
+10275	pazar_tf_id	
+10275	tax_group	vertebrates
+10275	type	universal protein binding microarray (PBM)
+10276	class	Zinc-coordinating 
+10276	comment	Data is from Uniprobe database
+10276	family	BetaBetaAlpha-zinc finger 
+10276	medline	19443739
+10276	pazar_tf_id	
+10276	tax_group	vertebrates
+10276	type	universal protein binding microarray (PBM)
+10277	class	Zinc-coordinating 
+10277	comment	Data is from Uniprobe database
+10277	family	BetaBetaAlpha-zinc finger 
+10277	medline	19443739
+10277	pazar_tf_id	
+10277	tax_group	vertebrates
+10277	type	universal protein binding microarray (PBM)
+10278	class	Zinc-coordinating 
+10278	comment	Data is from Uniprobe database
+10278	family	BetaBetaAlpha-zinc finger 
+10278	medline	19443739
+10278	pazar_tf_id	
+10278	tax_group	vertebrates
+10278	type	universal protein binding microarray (PBM)
+10279	class	Zinc-coordinating 
+10279	comment	Data is from Uniprobe database
+10279	family	Hormone-nuclear Receptor 
+10279	medline	19443739
+10279	pazar_tf_id	
+10279	tax_group	vertebrates
+10279	type	universal protein binding microarray (PBM)
+10280	class	Winged Helix-Turn-Helix 
+10280	comment	Data is from Uniprobe database
+10280	family	RFX  
+10280	medline	19443739
+10280	pazar_tf_id	
+10280	tax_group	vertebrates
+10280	type	universal protein binding microarray (PBM)
+10281	class	Winged Helix-Turn-Helix 
+10281	comment	Data is from Uniprobe database
+10281	family	RFX  
+10281	medline	19443739
+10281	pazar_tf_id	
+10281	tax_group	vertebrates
+10281	type	universal protein binding microarray (PBM)
+10282	class	Winged Helix-Turn-Helix 
+10282	comment	Data is from Uniprobe database
+10282	family	RFX  
+10282	medline	19443739
+10282	pazar_tf_id	
+10282	tax_group	vertebrates
+10282	type	universal protein binding microarray (PBM)
+10283	class	Zinc-coordinating 
+10283	comment	Data is from Uniprobe database
+10283	family	Hormone-nuclear Receptor 
+10283	medline	19443739
+10283	pazar_tf_id	
+10283	tax_group	vertebrates
+10283	type	universal protein binding microarray (PBM)
+10284	class	Winged Helix-Turn-Helix 
+10284	comment	Data is from Uniprobe database
+10284	family	Ets  
+10284	medline	19443739
+10284	pazar_tf_id	
+10284	tax_group	vertebrates
+10284	type	universal protein binding microarray (PBM)
+10285	class	Helix-Turn-Helix 
+10285	comment	Data is from Uniprobe database
+10285	family	Homeo 
+10285	medline	19443739
+10285	pazar_tf_id	
+10285	tax_group	vertebrates
+10285	type	universal protein binding microarray (PBM)
+10286	class	Zinc-coordinating 
+10286	comment	Data is from Uniprobe database
+10286	family	MH1  
+10286	medline	19443739
+10286	pazar_tf_id	
+10286	tax_group	vertebrates
+10286	type	universal protein binding microarray (PBM)
+10287	class	Other Alpha-Helix 
+10287	comment	Data is from Uniprobe database
+10287	family	High Mobility Group 
+10287	medline	19443739
+10287	pazar_tf_id	
+10287	tax_group	vertebrates
+10287	type	universal protein binding microarray (PBM)
+10288	class	Other Alpha-Helix 
+10288	comment	Data is from Uniprobe database
+10288	family	High Mobility Group 
+10288	medline	19443739
+10288	pazar_tf_id	
+10288	tax_group	vertebrates
+10288	type	universal protein binding microarray (PBM)
+10289	class	Other Alpha-Helix 
+10289	comment	Data is from Uniprobe database
+10289	family	High Mobility Group 
+10289	medline	19443739
+10289	pazar_tf_id	
+10289	tax_group	vertebrates
+10289	type	universal protein binding microarray (PBM)
+10290	class	Other Alpha-Helix 
+10290	comment	Data is from Uniprobe database
+10290	family	High Mobility Group 
+10290	medline	19443739
+10290	pazar_tf_id	
+10290	tax_group	vertebrates
+10290	type	universal protein binding microarray (PBM)
+10291	class	Other Alpha-Helix 
+10291	comment	Data is from Uniprobe database
+10291	family	High Mobility Group 
+10291	medline	19443739
+10291	pazar_tf_id	
+10291	tax_group	vertebrates
+10291	type	universal protein binding microarray (PBM)
+10292	class	Other Alpha-Helix 
+10292	comment	Data is from Uniprobe database
+10292	family	High Mobility Group 
+10292	medline	19443739
+10292	pazar_tf_id	
+10292	tax_group	vertebrates
+10292	type	universal protein binding microarray (PBM)
+10293	class	Other Alpha-Helix 
+10293	comment	Data is from Uniprobe database
+10293	family	High Mobility Group 
+10293	medline	19443739
+10293	pazar_tf_id	
+10293	tax_group	vertebrates
+10293	type	universal protein binding microarray (PBM)
+10294	class	Other Alpha-Helix 
+10294	comment	Data is from Uniprobe database
+10294	family	High Mobility Group 
+10294	medline	19443739
+10294	pazar_tf_id	
+10294	tax_group	vertebrates
+10294	type	universal protein binding microarray (PBM)
+10295	class	Other Alpha-Helix 
+10295	comment	Data is from Uniprobe database
+10295	family	High Mobility Group 
+10295	medline	19443739
+10295	pazar_tf_id	
+10295	tax_group	vertebrates
+10295	type	universal protein binding microarray (PBM)
+10296	class	Other Alpha-Helix
+10296	comment	Data is from Uniprobe database
+10296	family	High Mobility Group
+10296	medline	19443739
+10296	pazar_tf_id	
+10296	tax_group	vertebrates
+10296	type	universal protein binding microarray (PBM)
+10297	class	Other Alpha-Helix 
+10297	comment	Data is from Uniprobe database
+10297	family	High Mobility Group 
+10297	medline	19443739
+10297	pazar_tf_id	
+10297	tax_group	vertebrates
+10297	type	universal protein binding microarray (PBM)
+10298	class	Other Alpha-Helix 
+10298	comment	Data is from Uniprobe database
+10298	family	High Mobility Group 
+10298	medline	19443739
+10298	pazar_tf_id	
+10298	tax_group	vertebrates
+10298	type	universal protein binding microarray (PBM)
+10299	class	Other Alpha-Helix 
+10299	comment	Data is from Uniprobe database
+10299	family	High Mobility Group 
+10299	medline	19443739
+10299	pazar_tf_id	
+10299	tax_group	vertebrates
+10299	type	universal protein binding microarray (PBM)
+10300	class	Other Alpha-Helix 
+10300	comment	Data is from Uniprobe database
+10300	family	High Mobility Group 
+10300	medline	19443739
+10300	pazar_tf_id	
+10300	tax_group	vertebrates
+10300	type	universal protein binding microarray (PBM)
+10301	class	Other Alpha-Helix
+10301	comment	Data is from Uniprobe database
+10301	family	Sand
+10301	medline	19443739
+10301	pazar_tf_id	
+10301	tax_group	vertebrates
+10301	type	universal protein binding microarray (PBM)
+10302	class	Zinc-coordinating 
+10302	comment	Data is from Uniprobe database
+10302	family	BetaBetaAlpha-zinc finger 
+10302	medline	19443739
+10302	pazar_tf_id	
+10302	tax_group	vertebrates
+10302	type	universal protein binding microarray (PBM)
+10303	class	Winged Helix-Turn-Helix 
+10303	comment	Data is from Uniprobe database
+10303	family	Ets  
+10303	medline	19443739
+10303	pazar_tf_id	
+10303	tax_group	vertebrates
+10303	type	universal protein binding microarray (PBM)
+10304	class	Other Alpha-Helix 
+10304	comment	Data is from Uniprobe database
+10304	family	MADS 
+10304	medline	19443739
+10304	pazar_tf_id	
+10304	tax_group	vertebrates
+10304	type	universal protein binding microarray (PBM)
+10305	class	Other Alpha-Helix 
+10305	comment	Data is from Uniprobe database
+10305	family	High Mobility Group 
+10305	medline	19443739
+10305	pazar_tf_id	
+10305	tax_group	vertebrates
+10305	type	universal protein binding microarray (PBM)
+10306	class	Beta-sheet 
+10306	comment	Data is from Uniprobe database
+10306	family	TATA-binding 
+10306	medline	19443739
+10306	pazar_tf_id	
+10306	tax_group	vertebrates
+10306	type	universal protein binding microarray (PBM)
+10307	class	Helix-Turn-Helix 
+10307	comment	Data is from Uniprobe database
+10307	family	Homeo 
+10307	medline	19443739
+10307	pazar_tf_id	
+10307	tax_group	vertebrates
+10307	type	universal protein binding microarray (PBM)
+10308	class	Other Alpha-Helix 
+10308	comment	Data is from Uniprobe database
+10308	family	High Mobility Group 
+10308	medline	19443739
+10308	pazar_tf_id	
+10308	tax_group	vertebrates
+10308	type	universal protein binding microarray (PBM)
+10309	class	Other Alpha-Helix 
+10309	comment	Data is from Uniprobe database
+10309	family	High Mobility Group 
+10309	medline	19443739
+10309	pazar_tf_id	
+10309	tax_group	vertebrates
+10309	type	universal protein binding microarray (PBM)
+10310	class	Other Alpha-Helix 
+10310	comment	Data is from Uniprobe database
+10310	family	High Mobility Group 
+10310	medline	19443739
+10310	pazar_tf_id	
+10310	tax_group	vertebrates
+10310	type	universal protein binding microarray (PBM)
+10311	class	Zipper-Type 
+10311	comment	Data is from Uniprobe database
+10311	family	Helix-Loop-Helix 
+10311	medline	19443739
+10311	pazar_tf_id	
+10311	tax_group	vertebrates
+10311	type	universal protein binding microarray (PBM)
+10312	class	Zipper-Type 
+10312	comment	Data is from Uniprobe database
+10312	family	Helix-Loop-Helix 
+10312	medline	19443739
+10312	pazar_tf_id	
+10312	tax_group	vertebrates
+10312	type	universal protein binding microarray (PBM)
+10313	class	Zipper-Type 
+10313	comment	Data is from Uniprobe database
+10313	family	Helix-Loop-Helix 
+10313	medline	19443739
+10313	pazar_tf_id	
+10313	tax_group	vertebrates
+10313	type	universal protein binding microarray (PBM)
+10314	class	Zipper-Type 
+10314	comment	Data is from Uniprobe database
+10314	family	Helix-Loop-Helix 
+10314	medline	19443739
+10314	pazar_tf_id	
+10314	tax_group	vertebrates
+10314	type	universal protein binding microarray (PBM)
+10315	class	Zipper-Type 
+10315	comment	Data is from Uniprobe database
+10315	family	Helix-Loop-Helix 
+10315	medline	19443739
+10315	pazar_tf_id	
+10315	tax_group	vertebrates
+10315	type	universal protein binding microarray (PBM)
+10316	class	Zinc-coordinating
+10316	comment	Data is from Uniprobe database
+10316	family	BetaBetaAlpha-zinc finger
+10316	medline	19443739
+10316	pazar_tf_id	
+10316	tax_group	vertebrates
+10316	type	universal protein binding microarray (PBM)
+10317	class	Zinc-coordinating
+10317	comment	Data is from Uniprobe database
+10317	family	BetaBetaAlpha-zinc finger
+10317	medline	19443739
+10317	pazar_tf_id	
+10317	tax_group	vertebrates
+10317	type	universal protein binding microarray (PBM)
+10318	class	Zinc-coordinating
+10318	comment	Data is from Uniprobe database
+10318	family	BetaBetaAlpha-zinc finger
+10318	medline	19443739
+10318	pazar_tf_id	
+10318	tax_group	vertebrates
+10318	type	universal protein binding microarray (PBM)
+10319	class	Zinc-coordinating
+10319	comment	Data is from Uniprobe database
+10319	family	BetaBetaAlpha-zinc finger
+10319	medline	19443739
+10319	pazar_tf_id	
+10319	tax_group	vertebrates
+10319	type	universal protein binding microarray (PBM)
+10320	class	Zinc-coordinating
+10320	comment	Data is from Uniprobe database
+10320	family	BetaBetaAlpha-zinc finger
+10320	medline	19443739
+10320	pazar_tf_id	
+10320	tax_group	vertebrates
+10320	type	universal protein binding microarray (PBM)
+10321	class	Zinc-coordinating
+10321	comment	Data is from Uniprobe database
+10321	family	BetaBetaAlpha-zinc finger
+10321	medline	19443739
+10321	pazar_tf_id	
+10321	tax_group	vertebrates
+10321	type	universal protein binding microarray (PBM)
+10322	class	Zinc-coordinating
+10322	comment	Data is from Uniprobe database
+10322	family	BetaBetaAlpha-zinc finger
+10322	medline	19443739
+10322	pazar_tf_id	
+10322	tax_group	vertebrates
+10322	type	universal protein binding microarray (PBM)
+10323	class	Zinc-coordinating
+10323	comment	Data is from Uniprobe database
+10323	family	BetaBetaAlpha-zinc finger
+10323	medline	19443739
+10323	pazar_tf_id	
+10323	tax_group	vertebrates
+10323	type	universal protein binding microarray (PBM)
+10324	class	Zinc-coordinating
+10324	comment	Data is from Uniprobe database
+10324	family	BetaBetaAlpha-zinc finger
+10324	medline	19443739
+10324	pazar_tf_id	
+10324	tax_group	vertebrates
+10324	type	universal protein binding microarray (PBM)
+10325	class	Zinc-coordinating
+10325	comment	Data is from Uniprobe database
+10325	family	BetaBetaAlpha-zinc finger
+10325	medline	19443739
+10325	pazar_tf_id	
+10325	tax_group	vertebrates
+10325	type	universal protein binding microarray (PBM)
+10326	class	Zinc-coordinating
+10326	comment	Data is from Uniprobe database
+10326	family	BetaBetaAlpha-zinc finger
+10326	medline	19443739
+10326	pazar_tf_id	
+10326	tax_group	vertebrates
+10326	type	universal protein binding microarray (PBM)
+10327	class	Zinc-coordinating 
+10327	comment	Data is from Uniprobe database
+10327	family	BetaBetaAlpha-zinc finger 
+10327	medline	19443739
+10327	pazar_tf_id	
+10327	tax_group	vertebrates
+10327	type	universal protein binding microarray (PBM)
+10328	class	Zinc-coordinating 
+10328	comment	Data is from Uniprobe database
+10328	family	BetaBetaAlpha-zinc finger 
+10328	medline	19443739
+10328	pazar_tf_id	
+10328	tax_group	vertebrates
+10328	type	universal protein binding microarray (PBM)
+10329	class	Zinc-coordinating 
+10329	comment	Data is from Uniprobe database
+10329	family	BetaBetaAlpha-zinc finger 
+10329	medline	19443739
+10329	pazar_tf_id	
+10329	tax_group	vertebrates
+10329	type	universal protein binding microarray (PBM)
+10330	class	Zinc-coordinating
+10330	comment	Data is from Uniprobe database
+10330	family	BetaBetaAlpha-zinc finger
+10330	medline	19443739
+10330	pazar_tf_id	
+10330	tax_group	vertebrates
+10330	type	universal protein binding microarray (PBM)

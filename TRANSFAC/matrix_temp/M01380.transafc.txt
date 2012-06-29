@@ -1,0 +1,54 @@
+AC  M01380
+XX
+ID  V$HOXD12_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXD12
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01762; HOXD12; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T03334; HOXD12; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01763; HOXD12; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.19   0.35   0.11   0.35      N
+02   0.40   0.20   0.15   0.25      N
+03   0.37   0.19   0.23   0.21      N
+04   0.26   0.26   0.38   0.10      N
+05   0.11   0.07   0.83   0.00      G
+06   0.00   0.02   0.00   0.98      T
+07   0.02   0.97   0.00   0.01      C
+08   0.12   0.00   0.88   0.00      G
+09   0.00   0.00   0.00   0.99      T
+10   0.92   0.00   0.00   0.07      A
+11   0.98   0.00   0.00   0.01      A
+12   0.98   0.00   0.00   0.01      A
+13   0.58   0.15   0.03   0.25      A
+14   0.19   0.21   0.10   0.50      N
+15   0.19   0.37   0.18   0.26      N
+16   0.27   0.20   0.18   0.35      N
+17   0.22   0.14   0.25   0.40      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0077.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

@@ -1,0 +1,58 @@
+AC  M00923
+XX
+ID  I$ADF1_Q6_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  11.09.2003 (updated); ddt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Adf-1
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00008; Adf-1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      2      3      0      V
+02      0      4      2      1      C
+03      0      0      6      1      G
+04      0      5      0      2      C
+05      0      3      0      4      Y
+06      0      0      7      0      G
+07      0      7      0      0      C
+08      3      3      0      1      M
+09      1      0      5      1      G
+10      0      4      0      3      Y
+11      0      6      0      1      C
+12      0      0      7      0      G
+13      0      5      0      2      C
+14      0      2      0      5      T
+15      0      0      7      0      G
+16      3      3      1      0      M
+17      2      4      1      0      C
+18      1      1      2      3      N
+19      0      1      4      2      G
+20      1      4      0      2      C
+21      0      1      5      1      G
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACGCCGCTGCTGCTGCATCCG; R00059; -2; 21;; p.
+BS  CTGCTGCATCCGTCGACGTCG; R00060; -9; 21;; p.
+BS  GCGCTGCCGTCGCCGGCTGAG; R00067; -2; 21;; p.
+BS  CGGTCGCAGTCGCTGCCAGTG; R00130; -2; 21;; p.
+BS  GCGCTGCCACCGCTGACTGCG; R00132; -1; 21;; p.
+BS  AGTCCGCAGCCGCTGAACTTC; R00293; -6; 21;; n.
+BS  GCGTTGCCGTCGTTGCGGGCT; R01986; 6; 21;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,64 @@
+AC  M01052
+XX
+ID  P$MYB80_01
+XX
+DT  14.03.2005 (created); sla.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MYB80
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T06533; MYB80; Species: wheat, Triticum aestivum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      5     11      3      N
+02      2      5     15      0      G
+03      0      0     22      0      G
+04     14      2      2      4      A
+05     22      0      0      0      A
+06      0      0      0     22      T
+07     22      0      0      0      A
+08      0      0      0     22      T
+09      4      8      7      3      N
+10      1     21      0      0      C
+11      1      9      7      5      N
+XX
+BA  22 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGGAATATTCT; R16508; 17; 11;; p.
+BS  GGGAATATACC; R16513; 1; 11;; p.
+BS  CGGAATATGCC; R16514; 18; 11;; p.
+BS  GGGAATATGCC; R16515; 16; 11;; p.
+BS  GGGAATATGCC; R16516; 18; 11;; p.
+BS  CGGAATATGCC; R16517; 10; 11;; p.
+BS  ACGAATATCCT; R16518; 4; 11;; p.
+BS  AAGTATATCCG; R16519; 12; 11;; p.
+BS  GAGCATATGCG; R16520; 12; 11;; p.
+BS  GGGAATATTCC; R16521; 19; 11;; p.
+BS  CGGAATATTCG; R16522; 14; 11;; p.
+BS  TGGAATATACC; R16523; 13; 11;; p.
+BS  CGGAATATCCT; R16524; 11; 11;; p.
+BS  TCGAATATCCA; R16525; 12; 11;; p.
+BS  GCGAATATCCG; R16526; 17; 11;; p.
+BS  GGGTATATACC; R16527; 5; 11;; p.
+BS  CCGCATATGCT; R16528; 13; 11;; p.
+BS  GGGTATATCCG; R16529; 2; 11;; p.
+BS  GGGGATATACG; R16530; 13; 11;; p.
+BS  GGGAATATCAC; R16531; 14; 11;; p.
+BS  GCGTATATGCT; R16532; 19; 11;; p.
+BS  TGGGATATCCG; R16533; 9; 11;; p.
+XX
+CC  sequences selected with recombinant MYB80 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 3 and 4 rounds of selection and amplification
+XX
+RN  [1]; RE0025465.
+RX  PUBMED: 15686526.
+RA  Xue G. P.
+RT  A CELD-fusion method for rapid determination of the DNA-binding sequence specificity of novel plant DNA-binding proteins.
+RL  Plant J. 41:638-649 (2005).
+XX
+//

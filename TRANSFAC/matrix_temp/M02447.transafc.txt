@@ -1,0 +1,49 @@
+AC  M02447
+AS  MA0328
+XX
+ID  F$MATALPHA2_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  A2
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03429; A2; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0     10      0      1      C
+02      9      0      2      0      A
+03      0      0      0     11      T
+04      0      0     11      0      G
+05      0      0      0     11      T
+06     10      0      0      1      A
+07      9      1      0      1      A
+08      4      0      0      7      W
+09      0      0      0     11      T
+XX
+BA  11 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0328.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071786.
+RX  PUBMED: 10487868.
+RA  Zhu J., Zhang M. Q.
+RT  SCPD: a promoter database of the yeast Saccharomyces cerevisiae.
+RL  Bioinformatics 15:607-611 (1999).
+XX
+//

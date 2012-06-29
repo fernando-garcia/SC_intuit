@@ -1,0 +1,91 @@
+AC  M01001
+XX
+ID  V$DEAF1_01
+XX
+DT  31.05.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DEAF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05885; DEAF-1; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T14827; DEAF-1; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T14828; DEAF-1; Species: Mammalia; site(s) included: no.
+BF  T14829; DEAF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14830; DEAF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19902; DEAF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19903; DEAF1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T21277; Deaf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T21278; Deaf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19904; DEAF1-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T21279; Deaf1-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19905; DEAF1-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19906; DEAF1-4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      7      4      1      N
+02      0     13      3      2      C
+03      4      2     10      2      G
+04      1      9      4      4      N
+05      4      9      4      3      N
+06      2     10      1      9      Y
+07      0      5      2     16      T
+08      2     16      1      3      C
+09      2      2     19      0      G
+10      2      2     15      4      G
+11      1      3     17      2      G
+12      5      1      7     10      N
+13     10      0     10      3      R
+14      1      5      2     15      T
+15      2      3      0     18      T
+16      0      4      1     18      T
+17      1     22      0      0      C
+18      0     22      1      0      C
+19      0      0     19      1      G
+20      5      0      8      6      D
+21     10      3      4      2      A
+22      7      1      8      3      R
+23      4      3      5      5      N
+24      5      4      3      4      N
+25      2      4      7      3      N
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CTAGCATCGGGAGTTTCC; R14995; 13; 25; 31, 32, 33, 34, 35, 36, 37; p.
+BS  CCGGGTTCGGGAATTTCC; R14997; 13; 25; 31, 32, 33, 34, 35, 36, 37; p.
+BS  ACGTCATCGGGTGTTTCC; R14998; 13; 25; 31, 32, 33, 34, 35, 36, 37; p.
+BS  GGGCCCCTGGGTGTTTCCGTCAAGT; R14999; 6; 25;; p.
+BS  ACCCCCTTGGGTGTTTCCGTAAG; R15000; 8; 25; 31, 32; p.
+BS   CACACTCGTGGATTTCCGGGGATG; R15001; 1; 25; 1; p.
+BS  GCGCACTCGTGTTTTTCCGGAGGGC; R15002; 1; 25;; p.
+BS  GCTCACTCGGGGATCTCCGTAACCC; R15003; 3; 25;; p.
+BS        TCGGCTGTTTCCGGAAACG; R15004; 1; 25; 1, 2, 3, 4, 5, 6; p.
+BS      CCTCGGGTGTTTCCGGAGAAG; R15005; 1; 25; 1, 2, 3, 4; p.
+BS       TTCGTGGATTTCCGTGAGTC; R15006; 1; 25; 1, 2, 3, 4, 5; p.
+BS       TTCGCGGAGTTCGGACATCG; R15007; 1; 25; 1, 2, 3, 4, 5; p.
+BS   GTTCCCCGAGGGTTTCCGATGTTT; R15008; 1; 25; 1; p.
+BS  ACGCTTCGGAGTTTTTCCGATGTAA; R15009; 1; 25;; p.
+BS      CTCNGGGGATTTCCGGAGGAT; R15010; 1; 25; 1, 2, 3, 4; p.
+BS  GGGGATTCGGGTTCTTCCGGAAGTG; R15011; 2; 25;; p.
+BS  CTGGGTTCGGTAGGTTCCGGATTGG; R15012; 1; 25;; p.
+BS  ACGCGTTCGGCTATTTCCGTGCTAG; R15013; 2; 25;; p.
+BS  CCATTCGCCGACACTCCCGAGT; R15014; 9; 25; 31, 32, 33; p.
+BS  CCAATTTTCCGAACACCCGAATCCA; R15015; 5; 25;; p.
+BS  CCCCCCGAATGGAACCCCG; R15016; 12; 25; 31, 32, 33, 34, 35, 36; p.
+BS  CCGCCGTAAGTTGCCGCCGGAG; R15017; 9; 25; 31, 32, 33; p.
+BS  TCGTGCCCGGCAGCACACTTCGCAC; R15018; 3; 25;; p.
+XX
+CC  sequences selected with recombinant DEAF1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0023680.
+RX  PUBMED: 9773984.
+RA  Huggenvik J. I., Michelson R. J., Collard M. W., Ziemba A. J., Gurley P., Mowen K. A.
+RT  Characterization of a nuclear deformed epidermal autoregulatory factor-1 (DEAF-1)-related (NUDR) transcriptional regulator protein.
+RL  Mol. Endocrinol. 12:1619-1639 (1998).
+XX
+//

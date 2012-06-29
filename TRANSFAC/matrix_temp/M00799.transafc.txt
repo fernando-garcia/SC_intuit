@@ -1,0 +1,113 @@
+AC  M00799
+XX
+ID  V$MYC_Q2
+XX
+DT  02.06.2003 (created); dtc.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Myc
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00118; V$MYCMAX_01; c-Myc:Max heterodimer (specific).
+HC  M00119; V$MAX_01; Max (specific).
+HC  M00123; V$MYCMAX_02; c-Myc:Max heterodimer (specific).
+HC  M00322; V$MYCMAX_B; c-Myc:Max binding sites (specific).
+HC  M00615; V$MYCMAX_03; c-Myc:Max heterodimer (specific).
+HC  M01145; V$CMYC_01; c-Myc site (specific).
+HC  M01154; V$CMYC_02; c-Myc heterodimer (with a 26-29 kDa factor) (specific).
+HC  M01830; V$MAX_Q6;  (specific).
+HC  M02250; V$MYC_01; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02881; V$MAX_04; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+XX
+BF  T03537; c-Myc; Species: canary, Serinus canaria; site(s) included: yes.
+BF  T00141; c-Myc; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T03427; c-Myc; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T03433; c-Myc; Species: common marmoset, Callithrix jacchus; site(s) included: yes.
+BF  T03432; c-Myc; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T03532; c-Myc; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T03430; c-Myc; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T03454; c-Myc; Species: goldfish, Carassius auratus; site(s) included: yes.
+BF  T09998; c-Myc; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14435; c-Myc; Species: Mammalia; site(s) included: no.
+BF  T00143; c-Myc; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09007; c-Myc; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03462; c-Myc; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T00142; c-Myc; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09265; c-Myc; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03455; c-Myc; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T03466; c-Myc; Species: wild cat, Felis silvestris; site(s) included: yes.
+BF  T17324; c-Myc; Species: wild cat, Felis silvestris; site(s) included: yes.
+BF  T03428; c-Myc; Species: woodchuck, Marmota monax; site(s) included: yes.
+BF  T03450; c-Myc; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03464; c-Myc I; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T14514; c-Myc I; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00140; c-Myc-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03341; c-Myc-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03570; Max; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16687; Max; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T03596; Max; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16688; Max; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05056; Max; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09085; Max; Species: Mammalia; site(s) included: no.
+BF  T16609; Max; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00523; Max; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16608; Max; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03595; Max; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03552; Max; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T16690; Max; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T01567; Max-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09499; Max-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00489; Max-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09909; Max-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01566; Max-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     21      0      0      C
+02     20      0      0      1      A
+03      0     21      0      0      C
+04      0      2     18      1      G
+05      0      0      1     20      T
+06      1      0     19      1      G
+07      0      8      8      5      S
+XX
+BA  21 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTCTTAT; R01916; 2; 7;; p.
+BS  CACGTGC; R04414; -1; 7;; n.
+BS  CACGTGC; R04415; 9; 7;; n.
+BS  CACGTGG; R04462; 4; 7;; p.
+BS  CACGTGG; R08887; -1; 7;; n.
+BS  CACGTGG; R08888; 1; 7;; p.
+BS  CACGTGC; R08889; 1; 7;; p.
+BS  CACGTGG; R08891; 1; 7;; p.
+BS  CACGTGT; R08892; 1; 7;; p.
+BS  CACGTGC; R08895; 1; 7;; p.
+BS  CACGTGT; R08897; 1; 7;; p.
+BS  CACGTGC; R08899; 1; 7;; p.
+BS  CACCTGT; R09477; 1; 7;; p.
+BS  CACCGTC; R09480; 1; 7;; p.
+BS  CACGTGC; R09484; -1; 7;; n.
+BS  CACGTGC; R09493; 1; 7;; p.
+BS  CACGTGG; R09539; -1; 7;; n.
+BS  CACGTGT; R09544; 1; 7;; p.
+BS  CACGTGG; R09594; 3; 7;; n.
+BS  CACGTGG; R09595; 4; 7;; p.
+BS  CACGTGG; C00119,  s00174; 2; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better; includes 1 TRANSCompel site
+XX
+RN  [1]; RE0023232.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0002 (2003).
+RN  [2]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

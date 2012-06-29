@@ -1,0 +1,56 @@
+AC  M00044
+XX
+ID  I$SN_02
+XX
+DT  12.04.1995 (created); ewi.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sn
+XX
+DE  Snail
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00751; Sn; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      2      1      1      A
+02      1      4      3      1      S
+03      2      5      1      1      C
+04      8      0      1      0      A
+05      1      5      2      1      C
+06      0      5      2      2      C
+07      0      0      0      9      T
+08      0      0      9      0      G
+09      2      2      0      5      T
+10      0      0      0      9      T
+11      2      1      2      4      N
+12      3      2      3      1      N
+13      1      5      2      1      C
+14      6      1      0      2      A
+XX
+BA  9 sequences (compiled matrix imported from literature reference)
+XX
+BS  CCCACCTGATAGGA; R05750; 1; 14;; p.
+BS  CCTACCTGTTTCCA; R05751; 1; 14;; p.
+BS  TCAACCTGTTGAAT; R05752; 1; 14;; p.
+BS  GCAGGTTGTTTTCC; R05753; 1; 14;; p.
+BS  AGGATCTGTTACCT; R05754; 1; 14;; p.
+BS  ATCACCTGTTTGCA; R05755; 1; 14;; p.
+BS  AACAGGTGATTGCA; R05756; 1; 14;; p.
+BS  AGCACTTGCTCATA; R05757; 1; 14;; p.
+BS  AGCAAGTGCTGAGA; R05758; 1; 14;; p.
+XX
+CC  9 binding sites from Drosophila sim gene
+XX
+RN  [1]; RE0002912.
+RX  PUBMED: 1533042.
+RA  Kasai Y., Nambu J. R., Lieberman P. M., Crews S. T.
+RT  Dorsal-ventral patterning in Drosophila: DNA binding of snail protein to the single-minded gene
+RL  Proc. Natl. Acad. Sci. USA 89:3414-3418 (1992).
+XX
+//

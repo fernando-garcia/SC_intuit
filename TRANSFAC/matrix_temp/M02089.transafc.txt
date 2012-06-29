@@ -1,0 +1,59 @@
+AC  M02089
+XX
+ID  V$E2F3_Q6
+XX
+DT  24.10.2011 (created); mkl.
+DT  18.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F-3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00050; V$E2F_02; E2F (family).
+HP  M00803; V$E2F_Q2;  (family).
+HP  M00918; V$E2F_Q3_01;  (family).
+HP  M00919; V$E2F_Q4_01;  (family).
+HP  M00920; V$E2F_Q6_01;  (family).
+HP  M00939; V$E2F_Q4_02;  (family).
+XX
+BF  T14606; E2F-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17404; E2F-3; Species: Mammalia; site(s) included: yes.
+BF  T09191; E2F-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T21888; E2F-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01545; E2F-3a; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1     11      0      G
+02      0      0     12      0      G
+03      0     12      0      0      C
+04      0      0     12      0      G
+05      0      4      8      0      G
+06      1      0     10      1      G
+07      3      3      4      2      N
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGCGCGT; R04382; 4; 7;; p.
+BS  GGCGGGG; R09542; 4; 7;; p.
+BS  GGCGGGG; R09543; 4; 7;; p.
+BS  GGCGGGA; R09599; 4; 7;; p.
+BS  GGCGGGA; R09600; 4; 7;; p.
+BS  GGCGGGG; R24728; 9; 7;; p.
+BS  GGCGGGC; R25908; 9; 7;; p.
+BS  CGCGCTC; R30885; 2; 7;; n.
+BS  GGCGGGA; R30955; 14; 7;; p.
+BS  GGCGCGC; R31205; 16; 7;; n.
+BS  GGCGCGT; R34803; 25; 7;; p.
+BS  GGCGGAG; R36004; -2; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

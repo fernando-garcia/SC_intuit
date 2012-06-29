@@ -1,0 +1,89 @@
+AC  M01035
+XX
+ID  V$YY1_Q6_02
+XX
+DT  18.02.2005 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YY1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00283; factor delta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01214; NF-E; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14318; YY1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T14319; YY1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00275; YY1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17869; YY1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00915; YY1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08660; YY1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09133; YY1; Species: Mammalia; site(s) included: no.
+BF  T00278; YY1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10428; YY1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04970; YY1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08253; YY1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      9     11      8      N
+02      5     17      3     10      Y
+03      5     15      8      7      N
+04      4      2     19     10      K
+05      1     31      1      2      C
+06      0     35      0      0      C
+07     34      0      0      1      A
+08      1      0      3     31      T
+09      7      8      7     13      N
+10      6      3      2     24      T
+11      5      4      6     20      T
+XX
+BA  35 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTCGCCATATT; R00034; 4; 11;; n.
+BS  GTCGCCATATT; R00035; 4; 11;; n.
+BS  GCTGCCATCAT; R00284; 5; 11;; p.
+BS  TCGGCCATCTT; R00848; 5; 11;; n.
+BS  AACGCCATTTT; R01149; -2; 11;; p.
+BS  CCGACCATTTT; R01161; 5; 11;; n.
+BS  GCTGCCATCTG; R01329; 1; 11;; p.
+BS  GCGGCCATCCG; R01330; 1; 11;; p.
+BS  CCGGCCATCTT; R01833; 1; 11;; p.
+BS  TACGCCATGTA; R02999; 7; 11;; n.
+BS  CAAGCCATATT; R03000; 7; 11;; n.
+BS  GCAGCCATCTT; R03002; 3; 11;; p.
+BS  TGCGACATTTT; R03174; 5; 11;; p.
+BS  GTCTCCATTTT; R03175; 4; 11;; p.
+BS  GTCTCCAGAAA; R03177; 2; 11;; p.
+BS  AGCTCCATTTT; R03321; 2; 11;; n.
+BS  GCCTCCATGGT; R04077; -2; 11;; n.
+BS  AGCGCCATCTT; R04776; 5; 11;; n.
+BS  GAAACCATTTT; R04898; 8; 11;; p.
+BS  CCCACCATGTC; R04906; 1; 11;; n.
+BS  ACGTCCATGTG; R09521; 7; 11;; p.
+BS  GTCGCCATGAC; R11726; 13; 11;; n.
+BS  TAAGGCATTTG; R13417; 4; 11;; p.
+BS  ACTTCCTGTCT; R13420; 9; 11;; p.
+BS  CTTTCCATGCC; R13421; 12; 11;; n.
+BS  TCTTCCATTAA; R13424; 6; 11;; n.
+BS  TTCCCCAGTAG; R13425; 4; 11;; p.
+BS  TCTGTCATTTT; R14736; 7; 11;; p.
+BS  ATATTCATTTT; R14737; 7; 11;; p.
+BS  TTTCCCATAAT; R14870; 6; 11;; n.
+BS  CCGGCCATCTA; R16079; 9; 11;; n.
+BS  CCGGCCAAATA; R16080; 1; 11;; p.
+BS  ATGTCCATATT; C00009,  s00014; -1; 11;; p.
+BS  CCCACCATGTC; C00054,  s00081; 3; 11;; n.
+BS  CCCGCCATTGG; C00212,  s00354; -4; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00793; V$YY1_Q6.
+PV  M01035; V$YY1_Q6_02.
+RN  [1]; RE0025480.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel91:0001 (2005).
+XX
+//

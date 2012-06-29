@@ -1,0 +1,108 @@
+AC  M02103
+XX
+ID  V$NF1A_Q6
+XX
+DT  24.10.2011 (created); mkl.
+DT  26.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-1A
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00056; V$MYOGNF1_01; myogenin / nuclear factor 1 or related factors (family).
+HP  M00193; V$NF1_Q6; nuclear factor 1 (family).
+HP  M00806; V$NF1_Q6_01;  (family).
+XX
+BF  T00599; NF-1/L; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T04933; NF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15976; NF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19713; NF-1A; Species: Mammalia; site(s) included: yes.
+BF  T08176; NF-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15519; NF-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00535; NF-1A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02331; NF-1A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00544; NF-1A1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T11331; NF-1A1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T02296; NF-1A1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02297; NF-1A2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02298; NF-1A3; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02299; NF-1A4; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T17687; NFI; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T19125; NFIA1-xbb1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19126; NFIA1-xbb2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08177; NFIA2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08178; NFIA2.1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08175; NFIB6; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      3     14      4     20      Y
+02     10      0     10     21      T
+03      7      5     25      4      G
+04      3      3     31      4      G
+05      9     23      3      6      C
+06      6     12      7     16      N
+07     10     13      5     13      N
+08      5      9     15     12      N
+09      9      5     12     15      N
+10      8      8      6     19      N
+11      0      0     39      2      G
+12      1     34      5      1      C
+13      0     41      0      0      C
+14     40      1      0      0      A
+15     17      6     12      6      N
+16      9      5     16     11      N
+XX
+BA  41 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTGGCTTTGTGACATT; R00085; 1; 16;; p.
+BS  TTGGCAAAGATGGTAT; R00088; 22; 16;; p.
+BS  TTGGCAAGGATGGTAT; R00095; 4; 16;; p.
+BS  TTTTAATATTGGCACT; R00313; 10; 16;; n.
+BS  TTGGCAAATTGCCTAA; R00431; 10; 16;; p.
+BS  GGTGCCCTCTGGCCGC; R00607; 11; 16;; n.
+BS  CTTGTAAGTTGGCGAG; R00633; 5; 16;; n.
+BS  CTGGCAAGGCGCCCAC; R01162; 6; 16;; p.
+BS  TTATCATATTGGCTTC; R01175; 8; 16;; n.
+BS  ATGGCTATGATCCAAA; R01213; -1; 16;; p.
+BS  AT; R01455; 30; 16;; n.
+BS  CTGGCACATTTCGTGC; R01624; 3; 16;; p.
+BS  GTGGCAGATAACCCGG; R01698; 13; 16;; p.
+BS  TTGGAGCAGGACCCAA; R02945; 5; 16;; p.
+BS  TTGGCGAGAAGTAACT; R02990; 3; 16;; p.
+BS  TCCAACAGCTGGCTCC; R03309; 9; 16;; n.
+BS  CCCGGAGCTTGGCAAC; R04515; 8; 16;; n.
+BS  ATGGCGACTGTCCAGC; R11730; 16; 16;; p.
+BS  GTGGCGCTGAGCCCTC; R16546; 5; 16;; p.
+BS  GTGGCGCTGGGCCCTC; R16567; 5; 16;; p.
+BS  GTGTAGCCTTGGCAGT; R18406; 12; 16;; n.
+BS  nnnnnCTATTGGCAAT; R19931; 10; 16;; n.
+BS  TTGGCGTGTTATCAAG; R20544; 8; 16;; p.
+BS  CTGGCCCCCAGTGTAC; R20899; 11; 16;; p.
+BS  CCTCCGCCCTGGCCTC; R20911; 11; 16;; n.
+BS  CTGGCGTCAAGCCAAG; R21106; 7; 16;; p.
+BS  TTGGCAGCTGCCCAGG; R21436; 4; 16;; p.
+BS  GTGGAAAAACCCAGGA; R21445; 1; 16;; p.
+BS  CGTGAGAACTGGCAAA; R21499; 18; 16;; n.
+BS  CTGGCGTCGGGCGTGC; R21506; 15; 16;; p.
+BS  ATGGCGACTATCCAGC; R26260; 7; 16;; p.
+BS  GTGCCTGAGAGCTCAT; R26263; 23; 16;; p.
+BS  CTGTCCCAGAAGTCAC; R26265; 2; 16;; p.
+BS  GTGCCCAACAGGACAT; R26317; 19; 16;; p.
+BS  GCCCCCTTTTGGCTTG; R28145; 9; 16;; n.
+BS  TTGGCAAACTCCTCCC; R31018; 11; 16;; p.
+BS  ngcggctcTTGGCCCA; R31544; 12; 16;; n.
+BS  AAAGATGCTTGGCACC; R31546; 13; 16;; n.
+BS  CTGGCAGCCAGGGGCC; R32258; 12; 16;; p.
+BS  TTCCCAGCTTGGCATA; R34478; 46; 16;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

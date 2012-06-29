@@ -1,0 +1,61 @@
+AC  M00129
+XX
+ID  V$HFH1_01
+XX
+DT  22.05.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HFH1 (FOXQ1)
+XX
+DE  HNF-3/Fkh Homolog 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02288; HFH-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      3      3      6      N
+02     10      1      2      1      A
+03      4      2      0      8      T
+04      2      0      0     12      T
+05      0      0     14      0      G
+06      0      0      0     14      T
+07      0      0      0     14      T
+08      0      0      0     14      T
+09     13      0      1      0      A
+10      0      1      3     10      T
+11      5      0      2      7      W
+12      1      2      0     11      T
+XX
+BA  14 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AATTGTTTATTT; R06924; 1; 12;; p.
+BS  AATTGTTTATTC; R06925; 1; 12;; p.
+BS  GAATGTTTATTT; R06926; 1; 12;; p.
+BS  TGTTGTTTATTT; R06927; 1; 12;; p.
+BS  CACTGTTTATTT; R06928; 1; 12;; p.
+BS  GTTTGTTTACAT; R06929; 1; 12;; p.
+BS  CATTGTTTATAC; R06930; 1; 12;; p.
+BS  TACTGTTTATAT; R06931; 1; 12;; p.
+BS  GAATGTTTAGAT; R06932; 1; 12;; p.
+BS  TAAAGTTTAGAT; R06933; 1; 12;; p.
+BS  TCTTGTTTAGTT; R06934; 1; 12;; p.
+BS  TATTGTTTATGT; R06935; 1; 12;; p.
+BS  CGTTGTTTATGT; R06936; 1; 12;; p.
+BS  TAAAGTTTGTTA; R06937; 1; 12;; p.
+XX
+CC  sequences selected with recombinant HFH1 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0040.
+XX
+RN  [1]; RE0003012.
+RX  PUBMED: 8139574.
+RA  Overdier D. G., Porcella A., Costa R. H.
+RT  The DNA-binding specificity of the hepatocyte nuclear factor 3/forkhead domain is influenced by amino acid residues adjacent to the recognition helix
+RL  Mol. Cell. Biol. 14:2755-2766 (1994).
+XX
+//

@@ -1,0 +1,36 @@
+AC  M00253
+XX
+ID  V$CAP_01
+XX
+DT  25.09.1996 (created); ewi.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  cap
+XX
+DE  cap signal for transcription initiation
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+P0      A      C      G      T
+01     49     48     69    137      N
+02      0    303      0      0      C
+03    288      0      0     15      A
+04     26     81    116     80      N
+05     77     95      0    131      H
+06     67    118     46     72      N
+07     45     85     73    100      N
+08     50     96     56    101      N
+XX
+BA  303 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0004477.
+RX  PUBMED: 2329577.
+RA  Bucher P.
+RT  Weight matrix descriptions of four eukaryotic RNA polymerase II promoter elements derived from 502 unrelated promoter sequences
+RL  J. Mol. Biol. 212:563-578 (1990).
+XX
+//

@@ -1,0 +1,53 @@
+AC  M01386
+XX
+ID  V$EVX2_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Evx2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16865; Evx2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16867; Evx2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.21   0.30   0.23   0.26      N
+02   0.40   0.33   0.19   0.08      N
+03   0.14   0.56   0.09   0.21      C
+04   0.29   0.52   0.09   0.10      M
+05   0.15   0.07   0.76   0.02      G
+06   0.02   0.82   0.12   0.03      C
+07   0.00   0.02   0.00   0.98      T
+08   0.95   0.04   0.01   0.00      A
+09   0.99   0.00   0.00   0.00      A
+10   0.00   0.00   0.00   0.99      T
+11   0.00   0.01   0.05   0.94      T
+12   0.93   0.00   0.07   0.00      A
+13   0.02   0.16   0.76   0.06      G
+14   0.04   0.53   0.23   0.19      C
+15   0.12   0.18   0.40   0.29      N
+16   0.09   0.15   0.38   0.38      K
+17   0.34   0.10   0.06   0.50      W
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0032.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

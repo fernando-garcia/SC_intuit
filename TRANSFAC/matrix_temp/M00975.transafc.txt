@@ -1,0 +1,91 @@
+AC  M00975
+XX
+ID  V$RFX_Q6
+XX
+DT  13.02.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RFX
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00280; V$RFX1_01; X-box binding protein RFX1 (specific).
+HC  M00281; V$RFX1_02; X-box binding protein RFX1 (specific).
+HC  M00626; V$EFC_Q6;  (specific).
+HC  M02788; V$RFX3_04; class: Winged Helix-Turn-Helix; family: RFX (specific).
+HC  M02789; V$RFX4_03; class: Winged Helix-Turn-Helix; family: RFX (specific).
+HC  M02892; V$RFX3_05; class: Winged Helix-Turn-Helix; family: RFX (specific).
+HC  M02893; V$RFX4_04; class: Winged Helix-Turn-Helix; family: RFX (specific).
+XX
+BF  T05442; RFX-B-delta5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01673; rfx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16561; rfx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16560; rfx1; Species: Mammalia; site(s) included: no.
+BF  T01666; rfx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14262; rfx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00229; rfx1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05438; rfx1:rfx2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05439; rfx1:rfx3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01667; rfx2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15279; rfx2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01669; rfx2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15278; rfx2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01670; rfx3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15282; rfx3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01671; rfx3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19204; rfx4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19210; rfx4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19203; rfx4-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19208; rfx4-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19205; rfx4-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19209; rfx4-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19206; rfx4-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05433; rfx4-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19207; rfx4-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01672; rfx5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05440; rfx5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05444; rfx5:RFXAP:RFXANK; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05441; RFXANK; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11070; RFXANK; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05445; RFXANK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11076; RFXANK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05446; RFXANK short isoform; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05443; RFXAP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05447; RFXAP; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      5      3      0      S
+02      3      3      0      4      H
+03      0      0     10      0      G
+04      3      0      0      7      T
+05      0      0      0     10      T
+06      0      1      9      0      G
+07      2      7      0      1      C
+08      0      5      4      1      S
+09      4      1      3      2      N
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATGTTCCCA; R00797; 16; 9;; n.
+BS  CAGTTGCCT; R01237; 8; 9;; n.
+BS  CAGTTGCCA; R01940; 6; 9;; n.
+BS  CCGTTGCCC; R02570; -2; 9;; p.
+BS  ACGTTGTCT; R03409; -2; 9;; p.
+BS  GTGATGCGG; R03424; 10; 9;; p.
+BS  CAGATGAGG; R03695; 9; 9;; p.
+BS  GCGTTGCGA; R11434; 14; 9;; n.
+BS  CTGTTGCTA; R13352; 9; 9;; n.
+BS  GTGATGAGG; C00190,  s00312; 13; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; including 1 TRANSCompel site
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,79 @@
+AC  M01828
+XX
+ID  F$RAP1_Q6
+XX
+DT  08.02.2011 (created); mkl.
+DT  14.02.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RAP1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00715; RAP1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      5      8      8      N
+02      6      9      7      8      N
+03      8      5      5     12      N
+04     10      2     15      4      R
+05     16      1     11      6      R
+06      0      0      5     30      T
+07      0      1     34      0      G
+08      3      7      2     23      T
+09     16      6      4      9      N
+10      3      5      6     21      T
+11      0      0     35      0      G
+12      1      0     31      3      G
+13      3      3     25      4      G
+14      3      2      5     25      T
+XX
+BA  35 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ctgtgcttgggtgt; R00372; 2; 14;; n.
+BS  aaatgtgtgggtgc; R00373; 20; 14;; n.
+BS  aggtgtttgggtgc; R00415; 1; 14;; n.
+BS  aggtgtttgggtgc; R00416; 1; 14;; n.
+BS  ATGAATGGGTTTTT; R00714; -4; 14;; p.
+BS  GTGTATGGGTGTGG; R00972; 2; 14;; p.
+BS  ATGTCTGGGTTTTG; R01019; 2; 14;; p.
+BS  gcgtgtctgggttt; R01199; -2; 14;; n.
+BS  cagtgtatgggttc; R01210; 1; 14;; n.
+BS  nnnnnnntgtacgg; R01335; 6; 14;; n.
+BS  ngaggtctgggtgt; R01820; 1; 14;; n.
+BS  ccgccgttgcgaga; R02417; 4; 14;; n.
+BS  aaaatggtgcacgt; R02799; 19; 14;; n.
+BS  gaaggtatgggtgc; R02917; 2; 14;; n.
+BS  taatgtatgggttc; R03124; 16; 14;; n.
+BS  cgatgtctgggtgt; R03676; 1; 14;; n.
+BS  nnnnnngtgcacgg; R12341; 5; 14;; n.
+BS  nnnnnnatgcgcgg; R12344; 5; 14;; n.
+BS  ATGCATGGGTGTAA; R22445; 4; 14;; p.
+BS  tggtgcatgggttc; R24233; 16; 14;; n.
+BS  aaatgtgtgggtgc; R24235; 13; 14;; n.
+BS  tggatgttgggtgt; R24488; 3; 14;; n.
+BS  gtattgatggtgtt; R24489; 10; 14;; n.
+BS  tgggctatgggttt; R24490; 3; 14;; n.
+BS  tgtcttatgtaggg; R24492; 6; 14;; n.
+BS  GTGTCTGGGTGAAC; R24496; 22; 14;; p.
+BS  tttttgttgggttg; R24748; 3; 14;; n.
+BS  ccccttatgggggg; R28219; 9; 14;; n.
+BS  aaaggtatggatgt; R29635; 43; 14;; n.
+BS  cgatgtatgggttt; R29709; 2; 14;; n.
+BS  gtgatgttgtttgt; R30875; 10; 14;; n.
+BS  CCCTTTGATTGCTC; R30877; 7; 14;; p.
+BS  ctgttaatggaagg; R30879; 8; 14;; n.
+BS  ggcttcttgtaagg; R30880; 8; 14;; n.
+BS  aggttgatgggttt; R30881; 7; 14;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

@@ -1,0 +1,75 @@
+AC  M01368
+XX
+ID  V$OCT2_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Oct-2
+XX
+DE  POU2F2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00210; V$OCT_C; Octamer binding site (family).
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T00649; Oct-2; Species: cat, Felis silvestris catus; site(s) included: no.
+BF  T00647; Oct-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T10361; Oct-2; Species: Mammalia; site(s) included: no.
+BF  T13860; Oct-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05486; Oct-2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00650; Oct-2; Species: rat, Rattus rattus; site(s) included: no.
+BF  T00665; Oct-2.1; Species: human, Homo sapiens; site(s) included: no.
+BF  T01864; Oct-2.1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00648; Oct-2.2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01865; Oct-2.3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01866; Oct-2.4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00964; Oct-2.5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01867; Oct-2.6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00662; Oct-2B; Species: human, Homo sapiens; site(s) included: no.
+BF  T01032; POU2F2; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00646; POU2F2 (Oct-2.1); Species: human, Homo sapiens; site(s) included: no.
+BF  T01870; POU2F2 (Oct-2.1); Species: rat, Rattus rattus; site(s) included: no.
+BF  T01868; POU2F2 (Oct-2.7); Species: rat, Rattus rattus; site(s) included: no.
+BF  T01869; POU2F2 (Oct-2.8); Species: rat, Rattus rattus; site(s) included: no.
+BF  T01871; POU2F2B; Species: rat, Rattus rattus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.14   0.27   0.21   0.38      N
+02   0.27    0.2   0.17   0.35      N
+03   0.23   0.15   0.35   0.27      N
+04   0.13    0.1   0.03   0.75      T
+05   0.99      0      0   0.01      A
+06      0   0.02      0   0.97      T
+07   0.01      0   0.92   0.07      G
+08      0   0.89   0.01    0.1      C
+09   0.74      0      0   0.25      A
+10   0.89      0   0.01   0.09      A
+11   0.98      0      0   0.01      A
+12   0.03   0.01   0.02   0.94      T
+13    0.2   0.12   0.27   0.41      N
+14    0.5    0.2   0.11    0.2      N
+15   0.35   0.13   0.37   0.15      N
+16   0.41   0.24   0.22   0.14      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0144.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

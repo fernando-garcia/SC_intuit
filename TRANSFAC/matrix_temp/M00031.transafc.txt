@@ -1,0 +1,57 @@
+AC  M00031
+XX
+ID  F$MATALPHA2_01
+XX
+DT  18.10.1994 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MATalpha2
+XX
+DE  mating factor alpha2
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00487; MATalpha2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      2      3      7      N
+02      2     10      1      1      C
+03      8      1      4      1      A
+04      1      1      0     12      T
+05      0      0     13      1      G
+06      0      1      0     13      T
+07      5      3      2      4      N
+08      7      2      2      3      A
+09      7      1      0      6      W
+10      6      3      1      4      N
+XX
+BA  14 sequences (compiled matrix imported from literature reference)
+XX
+BS  CAATGTAGAA; R05567; 1; 10;; p.
+BS  AGATGTCACA; R05568; 1; 10;; p.
+BS  GCTTGTTAAT; R05569; 1; 10;; p.
+BS  TCATGTACTT; R05570; 1; 10;; p.
+BS  GCGTTTAGAA; R05571; 1; 10;; p.
+BS  TCATGTCCAC; R05572; 1; 10;; p.
+BS  TCATGTTATT; R05573; 1; 10;; p.
+BS  TCGTGTATTT; R05574; 1; 10;; p.
+BS  ACATGTCTTC; R05575; 1; 10;; p.
+BS  TCATGTATTC; R05576; 1; 10;; p.
+BS  TAGAGTGAAA; R05577; 1; 10;; p.
+BS  GCCTGCGATG; R05578; 1; 10;; p.
+BS  TTATGTTAAA; R05579; 1; 10;; p.
+BS  CCGCGTTAAA; R05580; 1; 10;; p.
+XX
+CC  half-sites of 4 genes
+XX
+RN  [1]; RE0000546.
+RX  PUBMED: 7907979.
+RA  Goutte C., Johnson A. D.
+RT  Recognition of a DNA operator by a dimer composed of two different homeodomain proteins
+RL  EMBO J. 13:1434-1442 (1994).
+XX
+//

@@ -1,0 +1,82 @@
+AC  M00117
+XX
+ID  V$CEBPB_02
+XX
+DT  16.05.1995 (created); ewi.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C/EBPbeta
+XX
+DE  CCAAT/enhancer binding protein beta
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T06081; C/EBPbeta; Species: cattle, Bos taurus; site(s) included: no.
+BF  T11055; C/EBPbeta; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02022; C/EBPbeta; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00581; C/EBPbeta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09410; C/EBPbeta; Species: Mammalia; site(s) included: no.
+BF  T09409; C/EBPbeta; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10225; C/EBPbeta; Species: pig, Sus scrofa; site(s) included: no.
+BF  T08153; C/EBPbeta; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00459; C/EBPbeta(LAP); Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02360; C/EBPbeta(p20); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01420; C/EBPbeta(p20); Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02105; C/EBPbeta(p34); Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00017; C/EBPbeta(p35); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09128; LAP*-NF-M; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T06595; NF-IL6-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09294; NF-IL6-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06596; NF-IL6-3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      2      4      5      N
+02      2      2      6      7      K
+03      6      4      5      2      N
+04      0      0      1     16      T
+05      0      0      0     17      T
+06      3      0     13      1      G
+07      1     14      2      0      C
+08      6      2      6      3      N
+09      4      8      0      5      Y
+10     12      4      1      0      A
+11     15      1      0      1      A
+12      2      7      2      6      Y
+13      3      4      2      8      N
+14      4      5      5      3      N
+XX
+BA  17 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTCTTGCGCAAAAT; R06789; 1; 14;; n.
+BS  TATGTGCGCACCTG; R06790; 1; 14;; n.
+BS  AGGTTGGGAAATCC; R06791; 1; 14;; n.
+BS  ATGTTGCACAAGAG; R06792; 1; 14;; n.
+BS  GTATTGAGAAATCT; R06793; 1; 14;; n.
+BS  GAGTTGCGCCACTA; R06794; 1; 14;; n.
+BS  ATGTTGCTTAAATG; R06795; 1; 14;; n.
+BS  TGATTACATCACTG; R06796; 1; 14;; n.
+BS  TGTTTGCACAACGT; R06797; 1; 14;; n.
+BS  CTCTTGCTTCATAC; R06798; 1; 14;; n.
+BS  ACATTGCCCAACTC; R06799; 1; 14;; n.
+BS  CTCTTAGGAAATGC; R06800; 1; 14;; n.
+BS  TGATTGCAAAACTA; R06801; 1; 14;; n.
+BS  TCATTTCCTGTGCA; R06802; 1; 14;; n.
+BS  AGGTTACACAACTG; R06803; 1; 14;; n.
+BS  ATCTTGCATAATCC; R06804; 1; 14;; n.
+BS  GGATTGCTCCATTA; R06805; 1; 14;; n.
+XX
+CC  17 binding sites from 14 genes expressed during acute phase response
+XX
+RN  [1]; RE0003008.
+RA  Johnson P. F., Williams S. C.
+RT  CCAAT/enhancer binding (C/EBP) proteins
+RL  Liver Gene Expression, F. Tronche and M. Yaniv (eds.), R. G. Landes Comp., Austin 1994 0:231-258 (1994).
+XX
+//

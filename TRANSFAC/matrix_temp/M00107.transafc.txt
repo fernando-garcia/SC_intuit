@@ -1,0 +1,66 @@
+AC  M00107
+XX
+ID  V$E2_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2
+XX
+DE  papilloma virus regulator E2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00205; E2; Species: BPV-1, bovine papilloma virus type 1; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      4      8      1      N
+02      5      7      3      2      N
+03     17      0      0      0      A
+04      3     14      0      0      C
+05      0     17      0      0      C
+06      6      2      8      1      R
+07      5      3      4      5      N
+08      5      5      1      6      N
+09      9      4      3      1      A
+10      4      8      2      3      N
+11      2     12      0      3      C
+12      0      0     17      0      G
+13      0      0     15      2      G
+14      0      0      0     17      T
+15      8      1      5      3      R
+16      4      7      3      3      N
+XX
+BA  17 sequences (compiled matrix imported from literature reference)
+XX
+BS  GAACCACACCCGGTAC; R06658; 1; 16;; p.
+BS  GCACCGGCGGCGGTAG; R06659; 1; 16;; p.
+BS  CGACCTATCCCGGTAA; R06660; 1; 16;; p.
+BS  GGACCGAACACGTTAT; R06661; 1; 16;; p.
+BS  GAACCAGAACTGGTAA; R06662; 1; 16;; p.
+BS  CCACCAGTAATGGTGC; R06663; 1; 16;; p.
+BS  GTACCGCCATCGGTGC; R06664; 1; 16;; p.
+BS  GCACCGATATAGGTTT; R06665; 1; 16;; p.
+BS  GTACCGTTGCCGGTCG; R06666; 1; 16;; p.
+BS  AAACCGTCTTCGGTGC; R06667; 1; 16;; p.
+BS  TCACCGAAACCGGTAA; R06668; 1; 16;; p.
+BS  ACACCATCACCGTTTT; R06669; 1; 16;; p.
+BS  CAAACGATAAAGGTAG; R06670; 1; 16;; p.
+BS  AAAACAGCAGCGGTTC; R06671; 1; 16;; p.
+BS  CCACCCCTCCTGGTAA; R06672; 1; 16;; p.
+BS  AGAACCTAAACGGTGC; R06673; 1; 16;; p.
+BS  GCACCATGGCCGGTGC; R06674; 1; 16;; p.
+XX
+CC  binding sites from BPV genome
+XX
+RN  [1]; RE0000594.
+RX  PUBMED: 2542129.
+RA  Li R., Knight J., Bream G., Stenlund A., Botchan M.
+RT  Specific recognition nucleotides and their DNA context determine the affinity of E2 protein for 17 binding sites in the BPV-1 genome
+RL  Genes Dev. 3:510-526 (1989).
+XX
+//

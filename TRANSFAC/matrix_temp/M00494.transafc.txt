@@ -1,0 +1,49 @@
+AC  M00494
+XX
+ID  V$STAT6_01
+XX
+DT  20.09.2001 (created); vma.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT6
+XX
+DE  signal transducer and activator of transcription 6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T01580; STAT6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09516; STAT6; Species: Mammalia; site(s) included: no.
+BF  T01581; STAT6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08683; STAT6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16557; STAT6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08676; STAT6-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19279; STAT6-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     23     22     13     42      N
+02     51      3     21     25      A
+03     33      4     19     44      W
+04      3      3      2     92      T
+05      5      3      2     89      T
+06     11     82      4      3      C
+07     18     53     14     14      C
+08     35     18     23     25      N
+XX
+BA  45 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant STAT6 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0016858.
+RX  PUBMED: 11053426.
+RA  Ehret G. B., Reichenbach P., Schindler U., Horvath C. M., Fritz S., Nabholz M., Bucher P.
+RT  DNA binding specificity of different STAT proteins. Comparison of in vitro specificity with natural target sites.
+RL  J. Biol. Chem. 276:6675-6688 (2001).
+XX
+//

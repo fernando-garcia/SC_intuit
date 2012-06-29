@@ -1,0 +1,50 @@
+AC  M02091
+XX
+ID  V$E4F1_Q6_01
+XX
+DT  24.10.2011 (created); mkl.
+DT  25.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E4F1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00223; E4F1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16629; E4F1; Species: Mammalia; site(s) included: yes.
+BF  T16630; E4F1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02287; phiAP3; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      3      0      4      0      R
+02      0      0      0      7      T
+03      0      0      7      0      G
+04      7      0      0      0      A
+05      0      7      0      0      C
+06      0      0      7      0      G
+07      1      0      0      6      T
+08      5      1      1      0      A
+09      4      0      2      1      A
+10      1      4      2      0      C
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTGACGAAAG; R00343; 6; 10;; n.
+BS  GTGACGTGGC; R00348; 1; 10;; p.
+BS  GTGACGTAGG; R00349; 1; 10;; p.
+BS  GTGACGTATC; R00351; 1; 10;; p.
+BS  ATGACGTAAC; R00363; 2; 10;; n.
+BS  ATGACGTAAC; R00364; -3; 10;; n.
+BS  ATGACGTCAA; R32985; 10; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00694; V$E4F1_Q6.
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

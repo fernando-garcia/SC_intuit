@@ -1,0 +1,126 @@
+9229	class	Other Alpha-Helix
+9229	comment	-
+9229	family	MADS
+9229	medline	7632923
+9229	tax_group	plants
+9229	type	SELEX
+9233	class	Other Alpha-Helix
+9233	comment	dimer
+9233	family	MADS
+9233	medline	7901838
+9233	tax_group	plants
+9233	type	SELEX
+9236	class	Helix-Turn-Helix
+9236	comment	homodimer
+9236	family	Homeo
+9236	medline	8253077
+9236	tax_group	plants
+9236	type	SELEX
+9248	class	Zinc-coordinating
+9248	comment	-
+9248	family	Dof
+9248	medline	10074718
+9248	tax_group	plants
+9248	type	SELEX
+9249	class	Zinc-coordinating
+9249	comment	-
+9249	family	Dof
+9249	medline	10074718
+9249	tax_group	plants
+9249	type	SELEX
+9262	class	Helix-Turn-Helix
+9262	comment	-
+9262	family	Myb
+9262	medline	10069063
+9262	tax_group	plants
+9262	type	SELEX
+9272	class	Other Alpha-Helix
+9272	comment	-
+9272	family	High Mobility Group
+9272	medline	9161031
+9272	tax_group	plants
+9272	type	SELEX
+9273	class	Other Alpha-Helix
+9273	comment	-
+9273	family	High Mobility Group
+9273	medline	9161031
+9273	tax_group	plants
+9273	type	SELEX
+9281	class	Zinc-coordinating
+9281	comment	-
+9281	family	Dof
+9281	medline	10074718
+9281	tax_group	plants
+9281	type	SELEX
+9282	class	Helix-Turn-Helix
+9282	comment	-
+9282	family	Myb
+9282	medline	7737128
+9282	tax_group	plants
+9282	type	SELEX
+9292	class	Zinc-coordinating
+9292	comment	-
+9292	family	Dof
+9292	medline	10074718
+9292	tax_group	plants
+9292	type	SELEX
+9310	class	Other Alpha-Helix
+9310	comment	-
+9310	family	MADS
+9310	medline	9826749
+9310	tax_group	plants
+9310	type	SELEX
+9324	class	Zipper-Type
+9324	comment	-
+9324	family	Leucine Zipper
+9324	medline	9680995
+9324	tax_group	plants
+9324	type	SELEX
+9325	class	Zipper-Type
+9325	comment	-
+9325	family	Leucine Zipper
+9325	medline	9680995
+9325	tax_group	plants
+9325	type	SELEX
+9339	class	Helix-Turn-Helix
+9339	comment	updated matrix since last release
+9339	family	Homeo
+9339	medline	11247607
+9339	tax_group	plants
+9339	type	SELEX
+9349	class	Zinc-coordinating
+9349	comment	-
+9349	family	BetaBetaAlpha-zinc finger
+9349	medline	15020707
+9349	tax_group	plants
+9349	type	SELEX
+9350	class	Helix-Turn-Helix
+9350	comment	-
+9350	family	Myb
+9350	medline	12215502
+9350	tax_group	plants
+9350	type	SELEX
+9352	class	Beta-Hairpin-Ribbon
+9352	comment	-
+9352	family	AP2 MBD-like
+9352	medline	12368505
+9352	tax_group	plants
+9352	type	SELEX
+9356	class	Zipper-Type
+9356	comment	-
+9356	family	Leucine Zipper
+9356	medline	9973626
+9356	tax_group	plants
+9356	type	SELEX
+9357	class	Zipper-Type
+9357	comment	-
+9357	family	Leucine Zipper
+9357	medline	10561063
+9357	tax_group	plants
+9357	type	SELEX
+9358	class	Zipper-Type
+9358	comment	-
+9358	family	Leucine Zipper
+9358	medline	10561063
+9358	tax_group	plants
+9358	type	SELEX

@@ -1,0 +1,52 @@
+AC  M00697
+XX
+ID  P$HBP1B_Q6
+XX
+DT  13.03.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HBP-1b
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T00938; HBP-1b; Species: wheat, Triticum aestivum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      1      1      4      N
+02      0      0      3      5      K
+03      1      5      0      2      C
+04      1      1      3      3      N
+05      0      2      6      0      G
+06      2      3      0      3      H
+07      0      5      0      3      Y
+08      7      0      1      0      A
+09      0      8      0      0      C
+10      0      0      8      0      G
+11      0      1      0      7      T
+12      0      8      0      0      C
+13      8      0      0      0      A
+14      0      4      2      2      C
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTCGGCCACGTCAC; R00679; 1; 14;; p.
+BS  AGCACATACGTCAG; R01609; 8; 14;; p.
+BS  ATCCCTTACGTCAG; R01915; -1; 14;; n.
+BS  TGATGCCACGTCAC; R03283; 7; 14;; n.
+BS  TTTTGCCACGTCAC; R03284; 1; 14;; p.
+BS  GTTGGACACGTCAT; R03285; 7; 14;; n.
+BS  TGCTGTCGCGCCAC; R03678; 7; 14;; n.
+BS  CTCGGTTACGTCAT; R08307; 1; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

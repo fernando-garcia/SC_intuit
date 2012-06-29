@@ -1,0 +1,69 @@
+AC  M01869
+XX
+ID  V$CEBPG_Q6_01
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C/EBPgamma
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T04884; C/EBPgamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09524; C/EBPgamma; Species: human, Homo sapiens; site(s) included: no.
+BF  T14188; C/EBPgamma; Species: Mammalia; site(s) included: yes.
+BF  T00216; C/EBPgamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10795; C/EBPgamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02028; C/EBPgamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14387; C/EBPgamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      5      7      2      N
+02      8      0      7      2      R
+03      0      0      0     17      T
+04      0      3      5      9      K
+05      6      0      8      3      R
+06      2      7      6      2      S
+07      6      2      9      0      R
+08      9      7      0      1      M
+09     16      0      1      0      A
+10     17      0      0      0      A
+11      0      1      6     10      K
+12      2      6      6      3      N
+XX
+BA  17 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CATTACAAAATC; R00089; 4; 12;; n.
+BS  GTTTGCGAAAGT; R00600; 17; 12;; n.
+BS  TATTACAAAATG; R00837; 3; 12;; n.
+BS  CATGAGGCAAGG; R00840; 6; 12;; n.
+BS  AATTGAGCAATG; R00847; 5; 12;; p.
+BS  CGTCAGCCAAGG; R01358; -5; 12;; n.
+BS  TATTGGGAAAGA; R13167; 7; 12;; n.
+BS  GATTGCAAAAGG; R13168; 5; 12;; n.
+BS  GGTTGCACAATG; R13169; 6; 12;; n.
+BS  GTTCTGGAAACC; R13170; 7; 12;; n.
+BS  AGTGGGGCAATT; R13171; 8; 12;; n.
+BS  GGTTGCAAAAGA; R21754; 26; 12;; n.
+BS  GGTTGGCCAATC; R23644; 2; 12;; p.
+BS  CATGATGAAATC; R24131; 12; 12;; n.
+BS  AGTCTTAAGATC; R27176; 2; 12;; n.
+BS  GGTGTCGCAATT; R28302; 7; 12;; p.
+BS  CATGAAGTAATC; R29490; 10; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00622; V$CEBPG_Q6.
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

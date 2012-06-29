@@ -1,0 +1,57 @@
+AC  M01320
+XX
+ID  V$PROP1_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Prop-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02778; Prop-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10465; Prop-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T02777; Prop-1; Species: mouse, Mus spec.; site(s) included: yes.
+BF  T10464; Prop-1; Species: mouse, Mus spec.; site(s) included: yes.
+BF  T10462; Prop-1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T10463; Prop-1; Species: pig, Sus scrofa; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.24   0.38   0.21   0.16      N
+02   0.21   0.19   0.47   0.13      N
+03   0.36   0.25   0.22   0.17      N
+04   0.47   0.18   0.25   0.10      N
+05   0.02   0.16   0.01   0.82      T
+06   0.01   0.03   0.00   0.95      T
+07   0.98   0.01   0.01   0.01      A
+08   0.98   0.00   0.01   0.01      A
+09   0.01   0.01   0.00   0.98      T
+10   0.01   0.01   0.01   0.98      T
+11   0.95   0.00   0.03   0.01      A
+12   0.82   0.01   0.16   0.02      A
+13   0.16   0.16   0.35   0.33      N
+14   0.45   0.11   0.18   0.26      N
+15   0.31   0.18   0.25   0.26      N
+16   0.35   0.18   0.24   0.23      N
+17   0.14   0.53   0.10   0.23      C
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0153.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

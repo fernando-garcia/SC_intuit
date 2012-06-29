@@ -1,0 +1,75 @@
+AC  M00045
+XX
+ID  V$E4BP4_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  10.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E4BP4
+XX
+DE  E4BP4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01428; E4BP4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09588; E4BP4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18363; E4BP4; Species: Mammalia; site(s) included: yes.
+BF  T16464; NFIL3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16537; Nfil3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16538; Nfil3; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      9      3      5      N
+02      9      3     11      0      R
+03      1      0      0     22      T
+04      0      0      2     21      T
+05     23      0      0      0      A
+06      0      8      0     15      Y
+07      1      0     22      0      G
+08      0      0      0     23      T
+09     23      0      0      0      A
+10     23      0      0      0      A
+11      0     11      4      8      Y
+12      7      4      8      4      N
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGTTATGTAACT; R05759; 12; 12;; p.
+BS  GATTATGTAATA; R05760; 21; 12;; p.
+BS  CATTATGTAACG; R05761; 29; 12;; p.
+BS  TGTTATGTAATG; R05762; 13; 12;; p.
+BS  ACTTATGTAATC; R05763; 14; 12;; p.
+BS  CATTATGTAACG; R05764; 18; 12;; p.
+BS  CGTTATGTAACT; R05765; 10; 12;; p.
+BS  CGTTATGTAATC; R05766; 10; 12;; p.
+BS  ACTTATGTAACA; R05767; 25; 12;; p.
+BS  TATTATGTAAGA; R05768; 13; 12;; p.
+BS  GATTATGTAAGT; R05769; 11; 12;; p.
+BS  AATTATGTAACG; R05770; 22; 12;; p.
+BS  CGTTATGTAACG; R05771; 10; 12;; p.
+BS  AATTACGTAAGA; R05772; 22; 12;; p.
+BS  GATTACGTAACG; R05773; 24; 12;; p.
+BS  CGTTACGTAAGC; R05774; 22; 12;; p.
+BS  TGTTACGTAATT; R05775; 12; 12;; p.
+BS  CCTTACGTAACA; R05776; 22; 12;; p.
+BS  AGTTACGTAACG; R05777; 23; 12;; p.
+BS  TGTGACGTAATG; R05778; 16; 12;; p.
+BS  TATGATGTAATA; R05779; 21; 12;; p.
+BS  CGTTATATAACA; R05780; 25; 12;; p.
+BS  AGATACGTAATC; R05781; 15; 12;; p.
+XX
+CC  sequences selected with recombinant E4BP4 from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; several rounds of selection and amplification
+XX
+DR  JASPAR: MA0025.
+XX
+RN  [1]; RE0002911.
+RX  PUBMED: 1620116.
+RA  Cowell I. G., Skinner A., Hurst H. C.
+RT  Transcriptional repression by a novel member of the bZIP family of transcription factors
+RL  Mol. Cell. Biol. 12:3070-3077 (1992).
+XX
+//

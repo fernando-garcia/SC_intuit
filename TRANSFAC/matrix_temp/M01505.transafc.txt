@@ -1,0 +1,54 @@
+AC  M01505
+XX
+ID  F$MATALPHA2_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MATalpha2
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00487; MATalpha2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T16999; MATalpha2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.25   0.27   0.19   0.29      N
+02    0.2    0.2   0.21   0.39      N
+03   0.27   0.17    0.3   0.26      N
+04   0.25   0.24   0.22    0.3      N
+05   0.35   0.13   0.25   0.28      N
+06   0.33   0.12   0.37   0.19      N
+07   0.84   0.04   0.08   0.04      A
+08   0.99      0      0      0      A
+09      0   0.98      0   0.02      C
+10   0.99      0      0      0      A
+11   0.99      0      0      0      A
+12   0.01      0      0   0.98      T
+13   0.75   0.01    0.1   0.14      A
+14   0.08   0.07   0.82   0.04      G
+15   0.34   0.21   0.18   0.27      N
+16   0.29    0.3   0.23   0.18      N
+17   0.21    0.3   0.21   0.29      N
+18   0.18   0.23   0.21   0.38      N
+19   0.28   0.36   0.12   0.24      N
+20   0.24   0.32    0.2   0.24      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064448.
+RX  PUBMED: 19158363.
+RA  Zhu C., Byers K. J., McCord R. P., Shi Z., Berger M. F., Newburger D. E., Saulrieta K., Smith Z., Shah M. V., Radhakrishnan M., Philippakis A. A., Hu Y., De Masi F., Pacek M., Rolfs A., Murthy T., LaBaer J., Bulyk M. L.
+RT  High-resolution DNA-binding specificity analysis of yeast transcription factors.
+RL  Genome Res. 19:556-566 (2009).
+RN  [2]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+XX
+//

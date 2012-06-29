@@ -1,0 +1,83 @@
+AC  M01005
+XX
+ID  F$STE11_02
+XX
+DT  17.06.2004 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STE11
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01422; ste11; Species: fission yeast, Schizosaccharomyces pombe; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      1      0      1      A
+02      4      1     29      2      G
+03     34      0      6      0      A
+04     40      0      0      0      A
+05      0     40      0      0      C
+06     40      0      0      0      A
+07     39      0      0      1      A
+08     40      0      0      0      A
+09      0      0     40      0      G
+10     39      0      1      0      A
+11     40      0      0      0      A
+12     34      2      0      4      A
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS   GAACAAAGAAA; R15142; 1; 12; 1; p.
+BS   GAACAAAGGAA; R15143; 1; 12; 1; p.
+BS    AACAAAGAAA; R15144; 1; 12; 1, 2; p.
+BS  AGAACAAAGAAA; R15145; 3; 12;; p.
+BS   AGACAAAGAAA; R15146; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15147; 1; 12; 1; p.
+BS   TAACAAAGAAA; R15148; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15149; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15150; 1; 12; 1; p.
+BS   GGACAAAGAAA; R15151; 1; 12; 1; p.
+BS    AACATAGAAA; R15152; 1; 12; 1, 2; p.
+BS  CAAACAAAGAAA; R15153; 4; 12;; p.
+BS   GAACAAAGAAC; R15154; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15155; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15156; 1; 12; 1; p.
+BS  AGAACAAAGAAA; R15157; 4; 12;; p.
+BS   GAACAAAGAAA; R15158; 1; 12; 1; p.
+BS    GACAAAGAAA; R15159; 1; 12; 1, 2; p.
+BS   GAACAAAGAAA; R15160; 1; 12; 1; p.
+BS   AGACAAAGAAA; R15161; 1; 12; 1; p.
+BS   GAACAAAGAAT; R15162; 1; 12; 1; p.
+BS   TAACAAAGAAA; R15163; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15164; 1; 12; 1; p.
+BS  AGAACAAAGAAT; R15165; 3; 12;; p.
+BS  AGAACAAAGAAA; R15166; 3; 12;; p.
+BS   GAACAAAGAAC; R15167; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15168; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15169; 1; 12; 1; p.
+BS    GACAAAGAAA; R15170; 1; 12; 1, 2; p.
+BS   GAACAAAGAAA; R15171; 1; 12; 1; p.
+BS   GAACAAAGAAT; R15172; 1; 12; 1; p.
+BS   CAACAAAGAAA; R15173; 1; 12; 1; p.
+BS  TAGACAAAGAAA; R15174; 3; 12;; p.
+BS   GAACAAAGAAA; R15175; 1; 12; 1; p.
+BS  AGAACAAAGAAA; R15176; 4; 12;; p.
+BS   GAACAAAGAAT; R15177; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15178; 1; 12; 1; p.
+BS   GAACAAAGAAA; R15179; 1; 12; 1; p.
+BS  AGAACAAAGAAA; R15180; 3; 12;; p.
+BS  AGAACAAAGAAA; R15181; 3; 12;; p.
+XX
+CC  sequences selected with recombinant STE11 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0024380.
+RX  PUBMED: 10867006.
+RA  van Beest M., Dooijes D., van de Wetering M., Kjaerulff S., Bonvin A., Nielsen O., Clevers H.
+RT  Sequence-specific high mobility group box factors recognize 10-12-base pair minor groove motifs.
+RL  J. Biol. Chem. 275:27266-27273 (2000).
+XX
+//

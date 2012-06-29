@@ -1,0 +1,83 @@
+AC  M00226
+XX
+ID  P$P_01
+XX
+DT  30.11.1995 (created); ewi.
+DT  10.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  P
+XX
+DE  maize activator P of flavonoid biosynthetic genes
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01590; P (long form); Species: maize, Zea mays; site(s) included: yes.
+BF  T01591; P (short form); Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     25      3      4      4      A
+02      2     28      3      3      C
+03      0     31      0      5      C
+04     17      0      0     19      W
+05     36      0      0      0      A
+06      0     36      0      0      C
+07      1     34      0      1      C
+08     11     13      4      8      N
+09      6      8     15      7      N
+XX
+BA  36 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGTAACTGT; R07567; 2; 9;; p.
+BS  ACCTACCAA; R07568; 14; 9;; p.
+BS  ACCTACCGT; R07569; 7; 9;; p.
+BS  TCCTACCTA; R07570; 19; 9;; p.
+BS  ACCAACCCG; R07571; 23; 9;; p.
+BS  ACCAACCAA; R07572; 6; 9;; p.
+BS  ACCTACCAC; R07573; 13; 9;; p.
+BS  CCTAACCCG; R07574; 23; 9;; p.
+BS  GTCAACCCG; R07575; 23; 9;; p.
+BS  TCCAACCTG; R07576; 20; 9;; p.
+BS  ACCTACCCG; R07577; 23; 9;; p.
+BS  CCCAACATC; R07578; 11; 9;; p.
+BS  ACCAACCTT; R07579; 19; 9;; p.
+BS  GTCAACCTA; R07580; 3; 9;; p.
+BS  ACCTACCCT; R07581; 10; 9;; p.
+BS  ACCAACCAG; R07582; 8; 9;; p.
+BS  ACCTACCCG; R07583; 23; 9;; p.
+BS  AACAACCAC; R07584; 20; 9;; p.
+BS  ACCTACCTC; R07585; 4; 9;; p.
+BS  CCTAACCAC; R07586; 5; 9;; p.
+BS  ACCTACCCG; R07587; 23; 9;; p.
+BS  AGCTACCAT; R07588; 4; 9;; p.
+BS  ACCTACCCG; R07589; 23; 9;; p.
+BS  ACCTACCAA; R07590; 7; 9;; p.
+BS  ATTAACCCG; R07591; 23; 9;; p.
+BS  ACTAACCGT; R07592; 7; 9;; p.
+BS  ACCTACCTC; R07593; 11; 9;; p.
+BS  TACAACCCG; R07594; 23; 9;; p.
+BS  ACCTACCCG; R07595; 23; 9;; p.
+BS  ACCTACCGG; R07596; 7; 9;; p.
+BS  TGCTACCCG; R07597; 23; 9;; p.
+BS  ACCAACCTG; R07598; 16; 9;; p.
+BS  ACCTACCCA; R07599; 19; 9;; p.
+BS  ACCTACCAC; R07600; 14; 9;; p.
+BS  ACCTACCAT; R07601; 16; 9;; p.
+BS  GCCAACCAC; R07602; 19; 9;; p.
+XX
+CC  sequences selected with recombinant P from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0003548.
+RX  PUBMED: 8313474.
+RA  Grotewold E., Drummond B. J., Bowen B., Peterson T.
+RT  The myb-homologous P gene controls phlobaphene pigmentation in maize floral organs by directly activating a flavonoid biosynthetic gene subset
+RL  Cell 76:543-553 (1994).
+XX
+//

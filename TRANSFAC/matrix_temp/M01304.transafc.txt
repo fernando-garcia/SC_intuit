@@ -1,0 +1,52 @@
+AC  M01304
+XX
+ID  V$SRF_03
+XX
+DT  01.10.2009 (created); jtr.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SRF
+XX
+DE  SRF b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00762; SRF; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T18626; SRF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T17868; SRF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17840; SRF; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00764; SRF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16471; SRF; Species: Mammalia; site(s) included: yes.
+BF  T05114; SRF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14064; SRF; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      5      7      2      N
+02      9      2      4      6      N
+03      0     21      0      0      C
+04      0     17      0      4      C
+05     18      0      0      3      A
+06      9      0      0     12      W
+07     15      1      4      1      A
+08      8      0      2     11      W
+09     21      0      0      0      A
+10     14      2      0      5      A
+11      0      0     21      0      G
+12      0      0     21      0      G
+13      7      8      6      0      V
+XX
+BA  21 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites with an experimetally determined role in skeletal muscle gene expression
+XX
+RN  [1]; RE0015243.
+RX  PUBMED: 9571041.
+RA  Wasserman W. W., Fickett J. W.
+RT  Identification of regulatory regions which confer muscle-specific gene expression
+RL  J. Mol. Biol. 278:167-181 (1998).
+XX
+//

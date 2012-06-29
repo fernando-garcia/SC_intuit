@@ -1,0 +1,128 @@
+AC  M01173
+XX
+ID  V$SREBP1_Q5
+XX
+DT  12.03.2008 (created); dtc.
+DT  18.03.2008 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SREBP1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00776; V$SREBP_Q3;  (family).
+HP  M01168; V$SREBP_Q6;  (family).
+XX
+BF  T17378; SREBP-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T17379; SREBP-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04584; SREBP-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15900; SREBP-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01559; SREBP-1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T10877; SREBP-1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T04563; SREBP-1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T15901; SREBP-1; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T08912; SREBP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09095; SREBP-1; Species: Mammalia; site(s) included: yes.
+BF  T06577; SREBP-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T04562; SREBP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10488; SREBP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04556; SREBP-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T15902; SREBP-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T01562; SREBP-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01556; SREBP-1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09109; SREBP-1a; Species: Mammalia; site(s) included: yes.
+BF  T15263; SREBP-1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17434; SREBP-1a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01557; SREBP-1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01558; SREBP-1c; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10660; SREBP-1c; Species: Mammalia; site(s) included: no.
+BF  T08890; SREBP-1c; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10028; SREBP-1c; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7     22     13      9      N
+02      6     21     18      6      S
+03     11     13     18     10      N
+04     14     20     15      6      N
+05      7     13      1     35      T
+06      0     56      0      0      C
+07     56      0      0      0      A
+08      1     45      5      5      C
+09     10     25      9     12      N
+10      3     38      2     12      C
+11      5     34     11      5      C
+12     36      9      3      7      A
+13      3     22     17     13      N
+14      9     14     22      8      N
+15     12     13     16     12      N
+XX
+BA  56 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTTATCACGCCAGTC; R04416; 7; 15;; p.
+BS  ccgctcacactagga; R04417; 8; 15;; n.
+BS  GGCATCACCCCACCG; R04430; -3; 15;; p.
+BS  aggATCACTTGAGcc; R13175; 5; 15;; p.
+BS  nncgtcaTTCATGTG; R13177; -2; 15;; p.
+BS  GCGCTCACCCGAGGG; R16489; 17; 15;; p.
+BS  GCGCTCAGGCTAGGG; R18536; 1; 15;; p.
+BS  gggcacacgcgttcc; R18554; 37; 15;; n.
+BS  ctgATCACGTGAtcg; R18671; 5; 15;; p.
+BS  cagATCACCTGaggt; R18672; 4; 15;; p.
+BS  CTCGCCATCTGCCTA; R19288; 3; 15;; p.
+BS  CCCTCCACCCCTGCT; R19293; 10; 15;; p.
+BS  cggcccaccgcgccg; R19294; -4; 15;; n.
+BS  gcggccacgccacat; R19305; 9; 15;; n.
+BS  tcgcTCAcgtcgccc; R19307; 17; 15;; p.
+BS  ATACTCACACGAGGT; R19452; 35; 15;; p.
+BS  AAAATCACCCCATGC; R19465; 5; 15;; p.
+BS  TGATGCACGCCACCA; R19467; 9; 15;; p.
+BS  CGTCTCACCCCACTT; R19470; 14; 15;; p.
+BS  CCCCTCACACCCTCC; R19473; 8; 15;; p.
+BS  CCGCCCACTCCCCGC; R19474; 12; 15;; p.
+BS  CGAGTCACATGTTGT; R19484; 13; 15;; p.
+BS  cacctcagtcaatga; R20296; 2; 15;; n.
+BS  TGAGTCATCTGATAA; R20297; 6; 15;; p.
+BS  TAGATCACATGTGGG; R20381; 1; 15;; p.
+BS  ggaatcagctcaggg; R20650; 6; 15;; n.
+BS  GGAGACACATCCAGG; R20651; 11; 15;; p.
+BS  ggtgacactccacag; R21060; 14; 15;; n.
+BS  cctgtcactccagag; R21061; 4; 15;; n.
+BS  AGGGTCACGCAATCA; R21062; 2; 15;; p.
+BS  GCAATCAGACCACGG; R21063; 1; 15;; p.
+BS  CTTGTCACTCCAAGA; R21064; 12; 15;; p.
+BS  TTGGTCACTCCACAG; R21065; 14; 15;; p.
+BS  GGCTACACCCCATCA; R21066; 3; 15;; p.
+BS  CCCATCACTCCACGG; R21067; 1; 15;; p.
+BS  gccatcactcactgt; R21130; 8; 15;; n.
+BS  TCTCTCACCACGGCC; R21199; 14; 15;; p.
+BS  CCGCCCACTGCTCGC; R21200; 16; 15;; p.
+BS  nnnaTCACgaccttc; R21202; -3; 15;; p.
+BS  CGTCTCACCCCACTT; R21204; -1; 15;; p.
+BS  CGGGCCACCCTACGT; R21205; 5; 15;; p.
+BS  AAAATCACCCCACTG; R21206; -3; 15;; p.
+BS  gcccccatccccagc; R21310; 17; 15;; n.
+BS  ccgcacaccccagaa; R21339; 12; 15;; n.
+BS  CGCCCCACACCCCGG; R21578; 10; 15;; p.
+BS  CAGTCCACCCCACGA; R22190; 7; 15;; p.
+BS  TGATTCACCCCAGTT; R22375; 7; 15;; p.
+BS  TGTGTCATCTCATAT; R22378; 5; 15;; p.
+BS  CCTCTCACACAACCT; R22379; 7; 15;; p.
+BS  TCTGACACACCAGAA; R22380; 6; 15;; p.
+BS  ACCCCCACCTGACAA; R22438; 6; 15;; p.
+BS  ACAATCACCCCTCCC; R22439; 5; 15;; p.
+BS  ccctccaccatctgc; R22482; 13; 15;; n.
+BS  nnnGACACCCCACnn; R22765; -3; 15;; p.
+BS  nnnCTCAGCCTAGnn; R22767; -3; 15;; p.
+BS  nnnnccaatnnnnnn; R22768; -6; 15;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+XX
+//

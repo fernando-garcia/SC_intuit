@@ -1,0 +1,52 @@
+AC  M01123
+XX
+ID  V$NANOG_01
+XX
+DT  06.06.2006 (created); vma.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nanog
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15045; nanog; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18507; nanog; Species: Mammalia; site(s) included: yes.
+BF  T08969; nanog; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15044; nanog-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08800; nanog-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15043; nanog-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08798; nanog-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     20     15     55     10      G
+02     21     12     61      6      G
+03     24      1     74      1      G
+04     34     36     29      1      N
+05      8     62      0     29      C
+06      1     98      1      0      C
+07     98      1      0      1      A
+08      3      0      3     94      T
+09      0      1      0     99      T
+10     16      2     33     49      K
+11     20     62     10      8      C
+12      0    100      0      0      C
+XX
+BA  sequences (ChIP-PET)
+XX
+CC  used NMICA for ChIP-PET Motifs approach
+XX
+RN  [1]; RE0047531.
+RX  PUBMED: 16518401.
+RA  Loh Y. H., Wu Q., Chew J. L., Vega V. B., Zhang W., Chen X., Bourque G., George J., Leong B., Liu J., Wong K. Y., Sung K. W., Lee C. W., Zhao X. D., Chiu K. P., Lipovich L., Kuznetsov V. A., Robson P., Stanton L. W., Wei C. L., Ruan Y., Lim B., Ng H. H.
+RT  The Oct4 and Nanog transcription network regulates pluripotency in mouse embryonic stem cells.
+RL  Nat. Genet. 38:431-440 (2006).
+RN  [2]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+XX
+//

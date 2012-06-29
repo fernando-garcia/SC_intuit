@@ -1,0 +1,74 @@
+AC  M01972
+XX
+ID  V$EGR1_02
+XX
+DT  30.06.2011 (created); pro.
+DT  26.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  EGR-1
+XX
+DE  E-value=3.4e-020
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00807; V$EGR_Q6;  (family).
+HP  M00982; V$KROX_Q6;  (family).
+XX
+BF  T14430; Egr-1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14186; Egr-1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T00241; Egr-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10531; Egr-1; Species: Mammalia; site(s) included: yes.
+BF  T02340; Egr-1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T10013; Egr-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14618; Egr-1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T17113; Egr-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T01200; Egr-1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      3      4      1      9      T
+02      2      1     14      0      G
+03      0     14      0      3      C
+04      0      0     17      0      G
+05      0      0      3     14      T
+06      3      0     14      0      G
+07      1      0     16      0      G
+08      0      0     17      0      G
+09      3     11      0      3      C
+10      0      0     17      0      G
+11      1      0      8      8      K
+XX
+BA  17 sequences (bacterial-one-hybrid system (B1H))
+XX
+BS  CGCGTGGGTGG; R35736; 6; 11;; p.
+BS  TGTGTGGGCGT; R35746; 7; 11;; p.
+BS  TGTGTGGGCGT; R35746; 7; 11;; p.
+BS  CGCGTGGGCGT; R35747; 7; 11;; p.
+BS  TACGGAAGCGG; R35748; 3; 11;; p.
+BS  TGCGTAGGCGG; R35749; 7; 11;; p.
+BS  AGCGTGGGAGG; R35750; 6; 11;; p.
+BS  GGCGTGGGTGG; R35751; 7; 11;; p.
+BS  TGCGTGGGAGG; R35752; 7; 11;; p.
+BS  TGCGTGGGAGG; R35752; 7; 11;; p.
+BS  CGCGTGGGCGT; R35753; 7; 11;; p.
+BS  TGCGGGGGTGT; R35754; 7; 11;; p.
+BS  CACGTGGGCGT; R35755; 7; 11;; p.
+BS  TCCGGGGGCGT; R35756; 7; 11;; p.
+BS  TGTGTGGGCGG; R35757; 6; 11;; p.
+BS  AGCGTGGGCGA; R35758; 7; 11;; p.
+BS  AGCGTAGGCGT; R35759; 7; 11;; p.
+XX
+CC  sequences selected with recombinant Egr-1 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 2 rounds of selection and amplification
+XX
+DR  JASPAR: MA0162.
+XX
+RN  [1]; RE0067275.
+RX  PUBMED: 16041365.
+RA  Meng X., Brodsky M. H., Wolfe S. A.
+RT  A bacterial one-hybrid system for determining the DNA-binding specificity of transcription factors.
+RL  Nat. Biotechnol 23:988-994 (2005).
+XX
+//

@@ -1,0 +1,123 @@
+AC  M01889
+XX
+ID  V$SMAD4_Q6_01
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Smad4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00792; V$SMAD_Q6;  (family).
+HP  M00974; V$SMAD_Q6_01;  (family).
+XX
+BF  T18574; Smad4; Species: cattle, Bos taurus; site(s) included: no.
+BF  T17940; Smad4; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04252; Smad4; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T15778; Smad4; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T04292; Smad4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09304; Smad4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13998; Smad4; Species: Mammalia; site(s) included: yes.
+BF  T05067; Smad4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09461; Smad4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03882; Smad4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10235; Smad4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03884; Smad4; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T15780; Smad4; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T04153; smad4alpha; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T15779; smad4alpha; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T04554; smad4delta3; Species: human, Homo sapiens; site(s) included: no.
+BF  T04555; smad4delta4; Species: human, Homo sapiens; site(s) included: no.
+BF  T04559; smad4delta4-6; Species: human, Homo sapiens; site(s) included: no.
+BF  T04560; smad4delta4-7; Species: human, Homo sapiens; site(s) included: no.
+BF  T04558; smad4delta5-6; Species: human, Homo sapiens; site(s) included: no.
+BF  T04557; smad4delta6; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9     11      7     35      T
+02      1      3     57      1      G
+03      1      4      3     54      T
+04      0     62      0      0      C
+05      0      0      0     62      T
+06     10      6     45      1      G
+07     11     19     17     15      N
+XX
+BA  62 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGTCTGC; R09916; 35; 7;; p.
+BS  TGTCTGA; R09937; 5; 7;; n.
+BS  TGTCTGC; R09952; -4; 7;; n.
+BS  GGCCTAA; R10056; -3; 7;; n.
+BS  GGGCTGC; R10057; 13; 7;; p.
+BS  TGTCTGA; R10061; -1; 7;; n.
+BS  TGTCTAG; R10063; 13; 7;; p.
+BS  TGTCTAG; R10066; -1; 7;; p.
+BS  TGTCTGC; R10069; 20; 7;; n.
+BS  TGTCTGC; R10070; 12; 7;; n.
+BS  TGTCTGT; R10078; 3; 7;; n.
+BS  TGTCTGT; R10079; 6; 7;; n.
+BS  AGTCTAT; R10093; -2; 7;; n.
+BS  TGTCTGC; R10099; 14; 7;; n.
+BS  AGTCTGT; R13039; -1; 7;; n.
+BS  TGTCTGT; R13040; 11; 7;; p.
+BS  AGTCTGA; R13041; 5; 7;; p.
+BS  TGTCTAG; R13582; 4; 7;; p.
+BS  GGGCTGC; R16510; 23; 7;; n.
+BS  AATCTGC; R19605; 15; 7;; p.
+BS  GGTCTGA; R21595; 6; 7;; n.
+BS  TGTCTAA; R21596; 18; 7;; n.
+BS  tGTCTGt; R23083; 6; 7;; p.
+BS  CGGCtcc; R23097; 6; 7;; n.
+BS  ACTCTGC; R23189; 10; 7;; n.
+BS  TGTCTGA; R23280; 5; 7;; p.
+BS  CGTCTGG; R23281; 9; 7;; n.
+BS  CGTCTGG; R23282; 11; 7;; n.
+BS  CGTCTGC; R23283; 20; 7;; p.
+BS  TGTCTAG; R23469; 6; 7;; p.
+BS  GGTCTGG; R23966; 11; 7;; n.
+BS  AGTCTAG; R24111; 16; 7;; p.
+BS  AGTCTGT; R24152; 2; 7;; n.
+BS  TGTCTGG; R24154; 4; 7;; n.
+BS  GGTCTGG; R24156; 9; 7;; p.
+BS  GGTCTGG; R24159; 4; 7;; p.
+BS  tcTCTGt; R24162; 14; 7;; p.
+BS  TGTCTAG; R24229; 11; 7;; p.
+BS  CGTCTCC; R24230; 12; 7;; p.
+BS  TGTCTGA; R24272; 28; 7;; p.
+BS  TGTCTGT; R24448; -1; 7;; n.
+BS  TGTCTGG; R25990; 9; 7;; n.
+BS  TGTCTCT; R26158; 12; 7;; p.
+BS  TGTCTAT; R26160; 4; 7;; p.
+BS  TGTCTGC; R26161; 10; 7;; p.
+BS  TGACTCA; R26795; 8; 7;; p.
+BS  TGTCTTG; R27486; 21; 7;; n.
+BS  TGTCTGG; R29095; 25; 7;; n.
+BS  TGTCTGC; R29096; 18; 7;; p.
+BS  TGTCTGT; R29097; 7; 7;; p.
+BS  AGCCTCT; R29688; 6; 7;; n.
+BS  TGTCTGC; R30601; 5; 7;; p.
+BS  TGTCTGC; R30602; 5; 7;; p.
+BS  CGTCTGA; R31183; 10; 7;; n.
+BS  CGCCTGT; R31514; 2; 7;; p.
+BS  TGTCTGG; R31669; 8; 7;; n.
+BS  CTTCTGG; R32033; 12; 7;; n.
+BS  TGTCTGT; R32454; 6; 7;; n.
+BS  CGCCTGA; R32807; 10; 7;; p.
+BS  AGTCTGC; R32808; 17; 7;; p.
+BS  cGTCTGc; R33295; 23; 7;; p.
+BS  CCTCTCC; R33954; 17; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00733; V$SMAD4_Q6.
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

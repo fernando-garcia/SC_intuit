@@ -1,0 +1,53 @@
+AC  M02259
+AS  MA0104
+XX
+ID  V$MYCN_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Mycn
+XX
+DE  class: Zipper-Type; family: Helix-Loop-Helix
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01445; N-Myc; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T09018; N-Myc; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    153    159     63     63      N
+02     39    170    196     33      S
+03      7    431      0      0      C
+04    414      0     18      6      A
+05      0    421      8      9      C
+06     31      1    405      1      G
+07     24     97      2    315      T
+08      0      0    411     27      G
+09     27     49    324     38      G
+10     61    265     40     72      C
+XX
+BA  438 sequences (ChIP-Seq)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0104.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0063019.
+RX  PUBMED: 18555785.
+RA  Chen X., Xu H., Yuan P., Fang F., Huss M., Vega V. B., Wong E., Orlov Y. L., Zhang W., Jiang J., Loh Y. H., Yeo H. C., Yeo Z. X., Narang V., Govindarajan K. R., Leong B., Shahab A., Ruan Y., Bourque G., Sung W. K., Clarke N. D., Wei C. L., Ng H. H.
+RT  Integration of external signaling pathways with the core transcriptional network in embryonic stem cells.
+RL  Cell 133:1106-1117 (2008).
+XX
+//

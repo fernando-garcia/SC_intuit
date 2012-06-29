@@ -1,0 +1,50 @@
+AC  M01364
+XX
+ID  V$OBOX2_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Obox2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16852; Obox2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.29   0.13   0.14   0.44      N
+02   0.12   0.14   0.41   0.32      N
+03   0.45   0.15   0.31   0.09      R
+04   0.15   0.06   0.65   0.14      G
+05   0.19   0.04   0.73   0.05      G
+06   0.07   0.02   0.86   0.04      G
+07   0.06   0.01   0.92   0.01      G
+08   0.02   0.00   0.95   0.03      G
+09   0.97   0.02   0.00   0.01      A
+10   0.01   0.00   0.01   0.98      T
+11   0.02   0.01   0.00   0.97      T
+12   0.93   0.00   0.01   0.05      A
+13   0.69   0.02   0.08   0.21      A
+14   0.29   0.52   0.06   0.12      M
+15   0.26   0.06   0.15   0.52      W
+16   0.51   0.23   0.09   0.16      A
+17   0.22   0.24   0.08   0.46      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

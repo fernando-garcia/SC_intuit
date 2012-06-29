@@ -1,0 +1,42 @@
+AC  M01744
+XX
+ID  V$REX1_03
+XX
+DT  22.06.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  REX1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18523; REX-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00727; REX-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11384; REX-1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    364     51    129     12      A
+02    323     65     89     79      A
+03    162    134    230     30      N
+04    470     48     23     15      A
+05     10      1     12    533      T
+06      3      0    553      0      G
+07      2      2    547      5      G
+08     38    498     14      6      C
+09     48     24    236    248      K
+10     44     50    423     39      G
+11     81    338     82     55      C
+12     51    277    124    104      N
+XX
+BA  556 sequences (Biotin-ChIP)
+XX
+RN  [1]; RE0062853.
+RX  PUBMED: 18358816.
+RA  Kim J., Chu J., Shen X., Wang J., Orkin S. H.
+RT  An extended transcriptional network for pluripotency of embryonic stem cells.
+RL  Cell 132:1049-1061 (2008).
+XX
+//

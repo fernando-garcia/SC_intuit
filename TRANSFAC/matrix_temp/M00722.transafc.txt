@@ -1,0 +1,49 @@
+AC  M00722
+XX
+ID  V$COREBINDINGFACTOR_Q6
+XX
+DT  02.06.2002 (created); ela.
+DT  01.04.2004 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  core-binding factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00144; core-binding factor; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T01530; core-binding factor; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00145; core-binding factor; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      0      8      T
+02      0      0      9      0      G
+03      0      1      0      8      T
+04      0      0      9      0      G
+05      0      0      9      0      G
+06      0      1      0      8      T
+07      2      2      0      5      T
+08      4      0      0      5      W
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGTGGTAA; R01140; 1; 8;; p.
+BS  TGTGGTAT; R01643; 1; 8;; p.
+BS  TGTGGTCA; R01647; 1; 8;; p.
+BS  TGTGGTTA; R01657; 2; 8;; p.
+BS  TGCGGCTA; R04331; 3; 8;; n.
+BS  AGTGGTTT; R04332; 1; 8;; n.
+BS  TGTGGTTT; R04333; 3; 8;; p.
+BS  TGTGGTTT; R04334; 2; 8;; n.
+BS  TGTGGTCT; R04335; 1; 8;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

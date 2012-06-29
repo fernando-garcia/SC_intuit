@@ -1,0 +1,75 @@
+AC  M00080
+XX
+ID  V$EVI1_03
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Evi-1
+XX
+DE  ectopic viral integration site 1 encoded factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05220; Evi-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10210; Evi-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T00273; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10211; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16545; Evi1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     23      0      0      4      A
+02      0      0     27      0      G
+03     27      0      0      0      A
+04      0      2      0     25      T
+05     26      0      0      1      A
+06     27      0      0      0      A
+07      0      0     27      0      G
+08     27      0      0      0      A
+09      0      0      0     27      T
+10     26      0      0      1      A
+11     19      1      4      3      A
+XX
+BA  27 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGATAAGATAA; R06189; 9; 11;; p.
+BS  AGATAAGATAA; R06190; 9; 11;; p.
+BS  AGATAAGATAG; R06191; 10; 11;; p.
+BS  TGATAAGATTA; R06192; 2; 11;; p.
+BS  AGATAAGATAT; R06193; 7; 11;; p.
+BS  AGATAAGATAA; R06194; 5; 11;; p.
+BS  AGATAAGATAG; R06195; 6; 11;; p.
+BS  AGACAAGATAG; R06196; 7; 11;; p.
+BS  AGATAAGATAA; R06197; 6; 11;; p.
+BS  AGATAAGATAA; R06198; 5; 11;; p.
+BS  TGATAAGATAT; R06199; 2; 11;; p.
+BS  AGATAAGATAA; R06200; 9; 11;; p.
+BS  AGATAAGATAA; R06201; 4; 11;; p.
+BS  AGATAAGATAA; R06202; 4; 11;; p.
+BS  AGATAAGATAA; R06203; 8; 11;; p.
+BS  TGATAAGATAA; R06204; 9; 11;; p.
+BS  AGATAAGATAA; R06205; 4; 11;; p.
+BS  AGATAAGATAA; R06206; 5; 11;; p.
+BS  AGATAAGATAA; R06207; 6; 11;; p.
+BS  TGACTAGATAT; R06208; 2; 11;; p.
+BS  AGATAAGATAA; R06209; 4; 11;; p.
+BS  AGATAAGATAA; R06210; 5; 11;; p.
+BS  AGATAAGATAA; R06211; 8; 11;; p.
+BS  AGATAAGATAA; R06212; 4; 11;; p.
+BS  AGATAAGATAG; R06213; 8; 11;; p.
+BS  AGATAAGATAC; R06214; 4; 11;; p.
+BS  AGATAAGATAA; R06215; 8; 11;; p.
+XX
+CC  sequences selected with recombinant Evi-1 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0002960.
+RX  PUBMED: 8321231.
+RA  Delwel R., Funabiki T., Kreider B. L., Morishita K., Ihle J. N.
+RT  Four of the seven zinc fingers of the Evi-1 myeloid-transforming gene are required for sequence-specific binding to GA(C/T)AAGA(T/C)AAGATAA
+RL  Mol. Cell. Biol. 13:4291-4300 (1993).
+XX
+//

@@ -1,0 +1,71 @@
+AC  M00260
+XX
+ID  V$HLF_01
+XX
+DT  20.05.1997 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HLF
+XX
+DE  hepatic leukemia factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01071; Hlf; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09569; Hlf; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19988; Hlf; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19989; Hlf; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02346; Hlf; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T18989; HLF17; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18990; HLF24; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02348; HLF36; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14959; HLF43; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      6      0     12      0      G
+02      0      0      0     18      T
+03      1      0      0     17      T
+04     14      1      3      0      A
+05      0     14      1      3      C
+06      7      0     11      0      R
+07      1      7      0     10      Y
+08     12      5      1      0      A
+09     17      0      0      1      A
+10      2      3      1     12      T
+XX
+BA  18 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTTACGCAAT; R07805; 5; 10;; p.
+BS  GTTACGCAAT; R07806; 4; 10;; p.
+BS  GTTATGTAAT; R07807; 9; 10;; p.
+BS  ATTACGTAAT; R07808; 5; 10;; p.
+BS  GTTACGTGAT; R07809; 7; 10;; p.
+BS  GTTCGGTAAT; R07810; 7; 10;; p.
+BS  GTTACATAAG; R07811; 8; 10;; p.
+BS  ATTACGCAAT; R07812; 3; 10;; p.
+BS  GTTACGCAAC; R07813; 6; 10;; p.
+BS  GTTGCATAAT; R07814; 3; 10;; p.
+BS  ATTATGCAAT; R07815; 11; 10;; p.
+BS  GTTACATCAA; R07816; 6; 10;; p.
+BS  GTTACACAAC; R07817; 8; 10;; p.
+BS  ATTACATCAT; R07818; 7; 10;; p.
+BS  ATTGCGCAAT; R07819; 4; 10;; p.
+BS  GTTGCATCAC; R07820; 11; 10;; p.
+BS  ATTACGTCTA; R07821; 5; 10;; p.
+BS  GTAATAACAT; R07822; 2; 10;; p.
+XX
+CC  sequences selected with recombinant HLF from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0043.
+XX
+RN  [1]; RE0005827.
+RX  PUBMED: 8065331.
+RA  Hunger S. P., Brown R., Cleary M. L.
+RT  DNA-binding and transcriptional regulatory properties of hepatic leukemia factor (HLF) and the t(17;19) acute lymphoblastic leukemia chimera E2A-HLF
+RL  Mol. Cell. Biol. 14:5986-5996 (1994).
+XX
+//

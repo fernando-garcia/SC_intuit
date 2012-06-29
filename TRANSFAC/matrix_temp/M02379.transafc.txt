@@ -1,0 +1,46 @@
+AC  M02379
+AS  MA0260
+XX
+ID  N$CHE1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  che-1
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T22718; che-1; Species: Caenorhabditis elegans; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0     37      0      G
+02     37      0      0      0      A
+03     37      0      0      0      A
+04     19      0     18      0      R
+05      0     37      0      0      C
+06      0     26     11      0      C
+XX
+BA  37 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0260.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071782.
+RX  PUBMED: 17606643.
+RA  Etchberger J. F., Lorch A., Sleumer M. C., Zapf R., Jones S. J., Marra M. A., Holt R. A., Moerman D. G., Hobert O.
+RT  The molecular signature and cis-regulatory architecture of a C. elegans gustatory neuron.
+RL  Genes Dev. 21:1653-1674 (2007).
+XX
+//

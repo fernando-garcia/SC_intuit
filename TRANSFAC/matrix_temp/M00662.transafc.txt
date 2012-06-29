@@ -1,0 +1,43 @@
+AC  M00662
+XX
+ID  I$SGF3_Q6
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SGF-3
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00746; SGF-3; Species: silk moth, Bombyx mori; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      2      5      T
+02      0      0      0      7      T
+03      4      0      3      0      R
+04      0      0      1      6      T
+05      1      0      3      3      K
+06      0      7      0      0      C
+07      7      0      0      0      A
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTGTTCA; R00449; 39; 7;; p.
+BS  TTGTTCA; R00450; -9; 7;; p.
+BS  TTGTACA; R00451; 35; 7;; n.
+BS  TTATTCA; R02645; 4; 7;; n.
+BS  GTATGCA; R02779; 1; 7;; p.
+BS  GTAGGCA; R05010; -7; 7;; p.
+BS  TTATGCA; R05011; 14; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

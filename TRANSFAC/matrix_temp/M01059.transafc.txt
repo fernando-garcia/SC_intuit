@@ -1,0 +1,49 @@
+AC  M01059
+XX
+ID  P$AGL1_01
+XX
+DT  27.05.2005 (created); rhe_cga.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AGL1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T03022; SHP1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T15386; SHP1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     25     26     26     22      N
+02     19      9     13     58      T
+03      8      1     10     80      T
+04     29      9     27     34      N
+05      0     99      0      0      C
+06      1     97      1      0      C
+07     45      8      9     37      W
+08     47     10      9     33      W
+09     67      2      1     29      A
+10     37      5      3     54      W
+11     21     25     13     40      N
+12     23     10     14     22      N
+13     18      0     79      2      G
+14      7      0     89      3      G
+15     42      6      7     44      W
+16     71     14      8      6      A
+17     60     14     11     14      A
+18     21     31     33     14      N
+XX
+BA  99 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AGL1 from a pool of double-stranded oligonucleotides containing a core of 99 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0035218.
+RX  PUBMED: 8597661.
+RA  Huang H., Tudor M., Su T., Zhang Y., Hu Y., Ma H.
+RT  DNA binding properties of two Arabidopsis MADS domain proteins: binding consensus and dimer formation.
+RL  Plant Cell 8:81-94 (1996).
+XX
+//

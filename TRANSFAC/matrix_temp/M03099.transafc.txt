@@ -1,0 +1,63 @@
+AC  M03099
+AS  PH0157
+XX
+ID  V$RHOX11_05
+XX
+DT  15.11.2011 (created); jaspar.
+DT  17.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Rhox11
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16911; Rhox11; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T22742; Rhox11; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     54     13     15     18      A
+02     33     28     23     17      N
+03     17     11     38     33      N
+04     30     28     23     19      N
+05     13     56      6     25      C
+06      3      1     95      1      G
+07      9     76     15      0      C
+08      1      0      1     99      T
+09      4      0     94      2      G
+10      1      1      0     99      T
+11     56      0      0     43      W
+12     78      4      3     15      A
+13     52     10      1     36      W
+14     31     11     33     24      N
+15     24     36     28     12      N
+16     31     16     43     10      N
+17     41     13     10     35      W
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PH0157.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+RN  [3]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

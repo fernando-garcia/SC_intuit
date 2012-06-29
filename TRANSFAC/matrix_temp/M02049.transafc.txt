@@ -1,0 +1,64 @@
+AC  M02049
+XX
+ID  V$MEQ_01
+XX
+DT  08.09.2011 (created); pch.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MEQ
+XX
+DE  MERE II (ACACACA motif)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T22319; (MEQ)2; Species: Marek's disease herpesvirus (strain RB-1B) (MDHV); site(s) included: yes.
+XX
+P0      A      C      G      T
+01     13      1      8      0      R
+02     15      3      3      1      A
+03      6     13      1      2      C
+04     20      2      0      0      A
+05      3     18      0      1      C
+06     19      2      1      0      A
+07      3     19      0      0      C
+08     18      3      0      1      A
+09      3      6      4      9      N
+XX
+BA  22 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ACACACATT; R36532; 5; 9;; p.
+BS  AAAACACAT; R36533; 2; 9;; p.
+BS  AACACACAG; R36534; 6; 9;; p.
+BS  AACACACAC; R36535; 3; 9;; p.
+BS  AACACACAA; R36536; 2; 9;; p.
+BS  AACACACAG; R36537; 3; 9;; p.
+BS  AACACACAG; R36538; 1; 9;; p.
+BS  AACACACAT; R36539; 2; 9;; p.
+BS  ACACACACG; R36540; 4; 9;; p.
+BS  GAAACACAT; R36541; 7; 9;; p.
+BS  GACACACAC; R36542; 14; 9;; p.
+BS  AGTACACAT; R36543; 8; 9;; p.
+BS  AGAACACAC; R36544; 6; 9;; p.
+BS  GGAACACCC; R36545; 1; 9;; p.
+BS  CACACAAAA; R36546; 1; 9;; p.
+BS  AACACACAT; R36547; 3; 9;; p.
+BS  AACACACAA; R36548; 8; 9;; p.
+BS  GCCACACCC; R36549; 6; 9;; p.
+BS  GACATACAT; R36550; 10; 9;; p.
+BS  GATAAACAT; R36551; 11; 9;; p.
+BS  GACACACAT; R36552; 7; 9;; p.
+BS  GTGACGCAC; R36553; 15; 9;; p.
+XX
+CC  sequences selected with recombinant MEQ from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0067270.
+RX  PUBMED: 8794363.
+RA  Qian Z., Brunovskis P., Lee L., Vogt P. K., Kung H. J.
+RT  Novel DNA binding specificities of a putative herpesvirus bZIP oncoprotein.
+RL  J. Virol. 70:7161-7170 (1996).
+XX
+//

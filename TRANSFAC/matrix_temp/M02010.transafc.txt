@@ -1,0 +1,102 @@
+AC  M02010
+XX
+ID  V$GFI1_Q6_01
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Gfi1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01067; V$GFI1_Q6;  (family).
+XX
+BF  T06587; Gfi1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11290; Gfi1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17961; Gfi1; Species: Mammalia; site(s) included: yes.
+BF  T06593; Gfi1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10664; Gfi1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01921; Gfi1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10665; Gfi1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11     31      5      6      C
+02     13     12      4     24      N
+03      7     17     24      5      S
+04     15      1     13     24      N
+05      0      0     53      0      G
+06     50      3      0      0      A
+07      0      0      0     53      T
+08      0      0      0     53      T
+09     13      4      7     29      T
+10      9     19     14     10      N
+XX
+BA  53 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CGGGGATTTC; R16772; 6; 10;; p.
+BS  CGTTGATTTT; R16773; 1; 10;; n.
+BS  ctggGATTgg; R16780; 10; 10;; p.
+BS  cacaGATTgn; R16782; -1; 10;; n.
+BS  cacaGATTca; R16783; 13; 10;; n.
+BS  aactGATTgg; R16784; 6; 10;; n.
+BS  ccgaGATTag; R16785; 19; 10;; n.
+BS  CCGTGATTTC; R16947; 9; 10;; p.
+BS  CCATGATTGG; R16957; 8; 10;; p.
+BS  CTGGGATTAC; R16962; 12; 10;; n.
+BS  GCCTGCTTTT; R16964; 11; 10;; n.
+BS  CAGCGCTTTG; R16965; 19; 10;; p.
+BS  CCAGGCTTGT; R16966; 11; 10;; n.
+BS  ctgagattac; R16993; 12; 10;; p.
+BS  accagatttg; R16995; 11; 10;; p.
+BS  ctggGATTac; R16996; 11; 10;; n.
+BS  CTGGGATTAC; R17017; 11; 10;; n.
+BS  CTGTGATTAA; R17018; 11; 10;; n.
+BS  ctggGATTac; R17019; 11; 10;; n.
+BS  cactgattcc; R17022; 12; 10;; p.
+BS  ctggGATTtt; R17023; 9; 10;; n.
+BS  ctgtGATTac; R17024; 10; 10;; n.
+BS  atcaGATTtg; R17025; 10; 10;; n.
+BS  ctgtGATTcc; R17026; 10; 10;; n.
+BS  gccagatttg; R17027; 12; 10;; p.
+BS  ctcaGATTtc; R17028; 7; 10;; n.
+BS  AACAGATTTA; R17029; 12; 10;; p.
+BS  ACCTGATTTG; R17030; 9; 10;; n.
+BS  tcctGATTtg; R17031; 10; 10;; n.
+BS  CAGAGATTCT; R17032; 16; 10;; n.
+BS  AACTGATTTC; R17033; 11; 10;; p.
+BS  AAAAGATTTA; R17034; 11; 10;; n.
+BS  ttaggatttg; R17038; 11; 10;; p.
+BS  atgtgatttc; R17040; 12; 10;; p.
+BS  TACTGATTTG; R17041; 11; 10;; p.
+BS  CAGTGATTAT; R17043; 9; 10;; n.
+BS  ACTGGATTTA; R17044; 9; 10;; n.
+BS  GCTGGATTTT; R17047; 10; 10;; n.
+BS  ATCGGATTTG; R17048; 12; 10;; p.
+BS  CTTTGATTTC; R17049; 13; 10;; p.
+BS  CGATGATTTA; R17051; 12; 10;; p.
+BS  ctggGATTac; R17053; 9; 10;; n.
+BS  CAGAGATTTC; R17054; 10; 10;; p.
+BS  ctaaGATTac; R17055; 8; 10;; n.
+BS  ctgaGATTac; R17056; 15; 10;; n.
+BS  GAGAGATTAG; R17057; 10; 10;; n.
+BS  CCCTGATTGC; R26763; 7; 10;; n.
+BS  ttatGATTgt; R31946; 5; 10;; n.
+BS  ATGTGATTTA; R31972; 4; 10;; n.
+BS  TTTTGATTTT; R34359; 13; 10;; p.
+BS  GTGTGATTTT; R34362; 12; 10;; p.
+BS  ttctGATTta; R34363; 13; 10;; n.
+BS  cggTGATtta; R34365; 13; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M01067; V$GFI1_Q6.
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

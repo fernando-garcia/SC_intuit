@@ -1,0 +1,64 @@
+AC  M00033
+XX
+ID  V$P300_01
+XX
+DT  10.04.1995 (created); ewi.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  p300
+XX
+DE  p300
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01427; p300; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10542; p300; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09912; p300; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09945; p300; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      3      1      3      3      N
+02      3      5      2      2      N
+03      5      3      4      1      N
+04      4      1      8      2      G
+05      2      0     14      0      G
+06      2      1     10      3      G
+07     13      1      1      1      A
+08      0      1     14      1      G
+09      1      0      0     15      T
+10      3      1      8      4      N
+11      5      4      3      4      N
+12      3      3      7      3      N
+13      4      4      2      5      N
+14      1      5      6      2      S
+XX
+BA  16 sequences (compiled matrix imported from literature reference)
+XX
+BS  ACCCGGAGTGGG; R05596; 11; 14;; p.
+BS  TAAAGGTGTACCCG; R05597; 7; 14;; p.
+BS      GGAGTGAGAA; R05598; -4; 14;; p.
+BS  ACGTGTAGTGACCT; R05599; 3; 14;; p.
+BS  CGAGGTAGTAGGTC; R05600; 3; 14;; p.
+BS    GGGGAGATAGCG; R05601; -2; 14;; p.
+BS     GGGCGTTACAC; R05602; -3; 14;; p.
+BS   TAAGGGGTTATTC; R05603; -1; 14;; p.
+BS     GAGAGTGTTAT; R05604; -3; 14;; p.
+BS  ACTGGTAGTTTAGC; R05605; 1; 14;; p.
+BS  GGGTGAAGTCCGAG; R05606; 1; 14;; p.
+BS   CCGGCAGTGTTTG; R05607; -1; 14;; p.
+BS  GAGGGAAGTGGGCG; R05608; 5; 14;; p.
+BS  TCCAAGAGTATGG; R05609; 8; 14;; p.
+BS  TTAGGGACTGCATC; R05610; 5; 14;; p.
+BS  GAAAGGATTGCATG; R05611; 2; 14;; p.
+XX
+RN  [1]; RE0002909.
+RX  PUBMED: 1534143.
+RA  Rikitake Y., Moran E.
+RT  DNA-binding properties of the E1A-associated 300-Kilodalton protein
+RL  Mol. Cell. Biol. 12:2826-2836 (1992).
+XX
+//

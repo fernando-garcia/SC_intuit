@@ -1,0 +1,52 @@
+AC  M00228
+XX
+ID  V$VBP_01
+XX
+DT  30.11.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  VBP
+XX
+DE  PAR-type chicken vitellogenin promoter-binding protein
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04876; TEF-xbb1; Species: human, Homo sapiens; site(s) included: no.
+BF  T19306; Thyrotroph embryonic factor; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19307; Thyrotroph embryonic factor; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10579; Thyrotroph embryonic factor; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01072; Thyrotroph embryonic factor; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T19308; Thyrotroph embryonic factor; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10575; Thyrotroph embryonic factor-isoform1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10576; Thyrotroph embryonic factor-isoform2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10577; Thyrotroph embryonic factor-isoform3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00881; VBP; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T14970; VBP; Species: chick, Gallus gallus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      2     11      1      G
+02      0      0      0     18      T
+03      0      0      0     18      T
+04     15      1      2      0      A
+05      0     14      1      3      C
+06      8      0     10      0      R
+07      0      0      0     11      T
+08      7      4      0      0      M
+09     10      0      0      1      A
+10      1      1      3      6      T
+XX
+BA  18 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant VBP from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0003540.
+RX  PUBMED: 7891686.
+RA  Haas N. B., Cantwell C. A., Johnson P. F., Burch J. B. E.
+RT  DNA-binding specificity of the PAR basic leucine zipper protein VBP partially overlaps those of the C/EBP and CREB/ATF families and is influenced by domains that flank the core basic region
+RL  Mol. Cell. Biol. 15:1923-1932 (1995).
+XX
+//

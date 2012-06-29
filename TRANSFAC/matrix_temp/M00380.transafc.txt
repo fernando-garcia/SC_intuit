@@ -1,0 +1,69 @@
+AC  M00380
+XX
+ID  V$PAX4_04
+XX
+DT  29.02.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-4
+XX
+DE  Pax-4 binding sites
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+XX
+BF  T11179; Pax-4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11181; Pax-4; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02982; Pax-4a; Species: human, Homo sapiens; site(s) included: no.
+BF  T11221; Pax-4a; Species: human, Homo sapiens; site(s) included: no.
+BF  T02983; Pax-4a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03001; Pax-4a; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9      1      5      0      R
+02     11      2      4      2      A
+03     16      1      2      4      A
+04     17      2      1      3      A
+05     20      1      1      2      A
+06      8      2      2     12      W
+07      6      2      1     15      T
+08     15      1      5      3      A
+09      7      6      6      5      N
+10      4     10      6      4      N
+11      8      9      3      4      N
+12      6      9      3      6      N
+13      8      7      4      5      N
+14      9      6      6      3      N
+15      8      7      2      7      N
+16      9      5      3      7      N
+17      6      5      6      7      N
+18      5     11      5      3      N
+19      5     10      3      6      N
+20      9      8      4      3      N
+21      9      4      5      6      N
+22      5     10      4      5      N
+23      8     10      1      5      N
+24      4      9      1     10      Y
+25      1     16      4      3      C
+26     19      3      0      2      A
+27      1     15      2      6      C
+28      6     10      2      6      N
+29      2     16      4      2      C
+30      0      9      4      4      C
+XX
+BA  24 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Pax-4 from a pool of double-stranded oligonucleotides containing a core of 76 random nucleotides; 13rounds of selection and amplification
+XX
+RN  [1]; RE0014138.
+RX  PUBMED: 10567552.
+RA  Smith S. B., Ee H. C., Conners  J. R., German M. S.
+RT  Paired-homeodomain transcription factor PAX4 acts as a transcriptional repressor in early pancreatic development
+RL  Mol. Cell. Biol. 19:8272-8280 (1999).
+XX
+//

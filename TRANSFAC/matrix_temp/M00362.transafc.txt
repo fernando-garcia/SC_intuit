@@ -1,0 +1,41 @@
+AC  M00362
+XX
+ID  I$TCF_1
+XX
+DT  31.01.2000 (created); sur.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  dTCF
+XX
+DE  drosophila T-cell factor
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T02922; TCF-A; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     36      0      0      C
+02      0     36      0      0      C
+03      0      0      0     36      T
+04      0      0      0     36      T
+05      0      0      0     36      T
+06      0      0     36      0      G
+07     36      0      0      0      A
+08      0      0      0     36      T
+09      0     33      0      0      C
+10      0      0      0     34      T
+11      0      0      0     34      T
+XX
+BA  36 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0014038.
+RX  PUBMED: 9118222.
+RA  van der Wetering M., Cavallo R., Dooijes D., van Beest M., van Es J., Loureiro J., Ypma A., Hursh D., Jones T., Bejsovec A., Peifer M., Mortin M., Clevers H.
+RT  Armadillo coactivates transcription driven by the product of the drosophila segment polarity gene dTCF
+RL  Cell 88:789-799 (1997).
+XX
+//

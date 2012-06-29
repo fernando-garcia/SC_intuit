@@ -1,0 +1,40 @@
+AC  M01785
+XX
+ID  F$TBF1_03
+XX
+DT  23.08.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBF1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01246; TBF1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     24     38     17     50      N
+02     43     14     14     58      W
+03    103      0      9     17      A
+04     61      0     68      0      R
+05      0    129      0      0      C
+06      0    129      0      0      C
+07      0    129      0      0      C
+08      0      0      0    129      T
+09    110      7     12      0      A
+10     66     37      8     18      M
+XX
+BA  129 sequences (ChIP-on-chip)
+XX
+CC  used  MEME algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0067392.
+RX  PUBMED: 20231876.
+RA  Lavoie H., Hogues H., Mallick J., Sellam A., Nantel A., Whiteway M.
+RT  Evolutionary tinkering with conserved components of a transcriptional regulatory network.
+RL  PLoS Biol. 8:e1000329 (2010).
+XX
+//

@@ -1,0 +1,58 @@
+AC  M00438
+XX
+ID  P$ARF_Q2
+XX
+DT  21.06.2001 (created); rge.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ARF
+XX
+DE  Auxin response element (AuxRE), one half of palindromic sequence
+XX
+TY  family
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T04514; ARF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T08787; ARF1 isoform-1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T04516; ARF2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T08786; ARF2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T04531; ARF4; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T14471; ARF4; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T04507; ARF5; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T10990; ARF5; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T04528; ARF6; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T14470; ARF6; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T04529; ARF7; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T04530; ARF8; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T10991; ARF8; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      3      0      2      Y
+02      0      0      1      5      T
+03      0      0      0      6      T
+04      0      0      6      0      G
+05      0      0      0      6      T
+06      0      6      0      0      C
+07      1      1      0      4      T
+08      0      6      0      0      C
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTTGTCTC; R09996; 1; 8;; p.
+BS  CTTGTCAC; R09997; 1; 8;; p.
+BS  TTTGTCTC; R10000; 4; 8;; p.
+BS  CGTGTCTC; R10001; 4; 8;; p.
+BS  TTTGTCCC; R10002; 4; 8;; p.
+BS   TTGTCTC; R10012; 1; 8; 1; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better; includes also artificial sites
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

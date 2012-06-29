@@ -1,0 +1,62 @@
+AC  M00102
+XX
+ID  V$CDP_02
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CDP
+XX
+DE  transcriptional repressor CDP
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00100; CDP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10007; CDP; Species: Mammalia; site(s) included: no.
+BF  T01083; CDP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09991; CDP; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09990; CDP-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17015; CDP-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18703; CDP-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17013; CDP-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02042; CDP-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18704; CDP-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17012; CDP-isoform5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18705; CDP-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17014; CDP-isoform6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18706; CDP-isoform7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02043; CDP2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11260; CDP2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     33      8     17     42      N
+02     46     11     10     33      W
+03     19      8     29     44      N
+04    100      0      0      0      A
+05      0      0      0    100      T
+06      4     77      0     19      C
+07      0      0    100      0      G
+08    100      0      0      0      A
+09      0      0      0    100      T
+10     15     25      2     58      T
+11     90      2      6      2      A
+12     19      9     25     46      N
+13     18     32      2     48      Y
+14     31      8     21     40      N
+15     29     15     10     46      N
+XX
+BA  86 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant CDP from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 9 rounds of selection and amplification
+XX
+RN  [1]; RE0002972.
+RX  PUBMED: 7905452.
+RA  Andres V., Chiara M. D., Mahdavi V.
+RT  A new bipartite DNA-binding domain: cooperative interaction between the cut repeat and homeo domain of the cut homeo proteins
+RL  Genes Dev. 8:245-257 (1994).
+XX
+//

@@ -1,0 +1,67 @@
+AC  M01875
+XX
+ID  V$ERBETA_Q5
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ER-beta
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00959; V$ER_Q6_02; half-site matrix, half-ERE (family).
+XX
+BF  T08515; ER-beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16015; ER-beta; Species: Mammalia; site(s) included: yes.
+BF  T17427; ER-beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02764; ER-beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      1     10      3      G
+02      2      3      1     11      T
+03      0     11      3      3      C
+04     10      0      2      5      A
+05      6      3      6      2      N
+06      9      2      4      2      A
+07      1      6      8      2      S
+08      0      0      1     16      T
+09      0      0     17      0      G
+10     11      0      6      0      R
+11      2     15      0      0      C
+12      0     17      0      0      C
+13      1     10      0      6      Y
+14      6      5      5      1      N
+15      5      2      9      1      R
+XX
+BA  17 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTCACAGTGACCTGA; R01586; 2; 15;; p.
+BS  CCCAGAGTGAACTAG; R18539; 2; 15;; p.
+BS  TTCTAAGGGACCCCG; R18540; -3; 15;; n.
+BS  GTGAAACTGGCCCAG; R19608; 6; 15;; p.
+BS  GTGAAACTGGCCCAG; R19609; 16; 15;; p.
+BS  TAGGAGCTGGACCCA; R19610; -4; 15;; n.
+BS  ATTTTGTTGACCTGC; R20451; 20; 15;; n.
+BS  GTCAGGCTGGCCCTG; R22514; 2; 15;; n.
+BS  GTTATCTTGACCTGC; R23769; 9; 15;; n.
+BS  GACTGACTGGCCTCA; R24912; 6; 15;; p.
+BS  GCCGGGGTGACCCAG; R25015; 38; 15;; n.
+BS  GTCAGAGTGGCCCCG; R25176; 2; 15;; n.
+BS  GTCACAGTGACCCCA; R30417; 5; 15;; n.
+BS  GTCAgagTGACCtga; R30572; 5; 15;; p.
+BS  TTCTATGTGACCCAG; R33783; 9; 15;; n.
+BS  ACTTCTCTGACCAGT; R33786; 9; 15;; n.
+BS  AGCAACATGACCCAG; R33788; 9; 15;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

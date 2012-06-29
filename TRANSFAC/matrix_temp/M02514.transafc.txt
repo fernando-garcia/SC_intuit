@@ -1,0 +1,55 @@
+AC  M02514
+AS  MA0395
+XX
+ID  F$STP2_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STP2
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T04606; STP2; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    180    258    175    385      N
+02    288    242    293    174      N
+03    438    193    211    157      N
+04    276    209    176    336      N
+05    126    405    143    325      N
+06    238    111    567     81      G
+07    113     11    829     45      G
+08     34    647      5    312      C
+09      2      5    987      4      G
+10      0    849    148      1      C
+11      1    866    128      3      C
+12      8     13    948     29      G
+13     14    520      4    460      Y
+14    618     12    338     30      R
+15     86    433    139    341      Y
+16    218    312    359    109      N
+17    326    240    205    227      N
+18    231    427    161    179      N
+19    158    237    344    259      N
+20    342    265    122    268      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0395.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

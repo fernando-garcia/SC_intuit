@@ -1,0 +1,55 @@
+AC  M00240
+XX
+ID  V$NKX25_01
+XX
+DT  19.02.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nkx2-5
+XX
+DE  homeo domain factor Nkx-2.5/Csx, tinman homolog
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04334; CSX; Species: chick, Gallus gallus; site(s) included: no.
+BF  T04330; CSX; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T04323; CSX; Species: human, Homo sapiens; site(s) included: no.
+BF  T15272; CSX; Species: human, Homo sapiens; site(s) included: no.
+BF  T15777; CSX; Species: Mammalia; site(s) included: no.
+BF  T01675; CSX; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15273; CSX; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06362; CSX; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11251; CSX; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1      0      1      5      T
+02      0      4      0      3      Y
+03      7      0      0      0      A
+04      7      0      0      0      A
+05      0      0      7      0      G
+06      0      0      0      7      T
+07      1      0      6      0      G
+XX
+BA  6 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TCAAGTG; R07657; 11; 7;; p.
+BS  TCAAGTG; R07658; 9; 7;; p.
+BS  TTAAGTG; R07659; 9; 7;; p.
+BS  ATAAGTG; R07660; 4; 7;; p.
+BS  TCAAGTG; R07661; 4; 7;; p.
+BS  GTAAGTG; R07662; 9; 7;; p.
+BS  TCAAGTA; R07663; 7; 7;; p.
+XX
+CC  sequences selected with recombinant Nkx2-5 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0003808.
+RX  PUBMED: 7797561.
+RA  Chen C. Y., Schwartz R. J.
+RT  Identification of novel DNA binding targets and regulatory domains of a murine tinman homeodomain factor, nkx-2.5
+RL  J. Biol. Chem. 270:15628-15633 (1995).
+XX
+//

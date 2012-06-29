@@ -1,0 +1,46 @@
+AC  M02030
+XX
+ID  V$SATB1_Q5
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SATB1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T10386; SATB1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14156; SATB1; Species: Mammalia; site(s) included: yes.
+BF  T10388; SATB1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T17580; SATB1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      0      0      3      W
+02      7      0      0      0      A
+03      0      0      0      7      T
+04      0      0      0      7      T
+05      0      0      0      7      T
+06      2      2      0      3      H
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AATTTC; R03635; 6; 6;; p.
+BS  AATTTT; R21011; 25; 6;; p.
+BS  TATTTC; R23361; 26; 6;; p.
+BS  AATTTT; R23365; 31; 6;; p.
+BS  AATTTT; R32403; 7; 6;; p.
+BS  TATTTA; R32512; 82; 6;; p.
+BS  TATTTA; R32513; 82; 6;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

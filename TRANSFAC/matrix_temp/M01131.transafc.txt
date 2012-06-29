@@ -1,0 +1,58 @@
+AC  M01131
+XX
+ID  V$SOX10_Q6
+XX
+DT  30.08.2006 (created); dtc.
+DT  05.09.2006 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX10
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T04918; Sox10; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08341; Sox10; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10436; Sox10; Species: Mammalia; site(s) included: no.
+BF  T08334; Sox10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08336; Sox10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08441; Sox10; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08442; Sox10; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      8      0      1      C
+02      5      0      1      6      W
+03      1      1      0     10      T
+04      0      0      0     12      T
+05      0      0     12      0      G
+06      0      1      2      9      T
+07      3      4      4      1      N
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CATTGTC; R15416; 17; 7;; p.
+BS  AATTGGC; R15480; 10; 7;; p.
+BS  cattgtc; R18675; 1; 7;; n.
+BS  aTTTGTT; R18676; 10; 7;; p.
+BS  aattgca; R18733; 4; 7;; n.
+BS  cattgta; R18738; 4; 7;; n.
+BS  ctttgtg; R18739; 4; 7;; n.
+BS  tgttggg; R18740; 1; 7;; n.
+BS  ctatgtc; R18742; 4; 7;; n.
+BS  ctttgta; R18743; 4; 7;; n.
+BS  ctttgtg; R18744; 3; 7;; n.
+BS  ctCTGTG; R18745; 12; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M01131; V$SOX10_Q6.
+RN  [1]; RE0048137.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel103:0001 (2006).
+XX
+//

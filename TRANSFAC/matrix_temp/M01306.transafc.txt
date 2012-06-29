@@ -1,0 +1,41 @@
+AC  M01306
+XX
+ID  V$ZABC1_01
+XX
+DT  01.10.2009 (created); jtr.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZABC1
+XX
+DE  ZABC1 b.s.
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16738; ZABC1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17977; ZABC1; Species: Mammalia; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     69     15      1     12      A
+02      6      0      0     91      T
+03      2      0      0     95      T
+04      0     97      0      0      C
+05     11     67      0     19      C
+06     31     18     32     16      N
+07     63     15     13      6      A
+08      6     88      3      0      C
+XX
+BA  97 sequences (ChIP-on-chip)
+XX
+CC  ZABC1 binding motif defined from ChIP-on-chip experiment in three tumor cell lines (Ntera2, MCF7, SW480)
+XX
+RN  [1]; RE0064260.
+RX  PUBMED: 17259635.
+RA  Krig S. R., Jin V. X., Bieda M. C., O'Geen H., Yaswen P., Green R., Farnham P. J.
+RT  Identification of genes directly regulated by the oncogene ZNF217 using chromatin immunoprecipitation (ChIP)-chip assays.
+RL  J. Biol. Chem. 282:9703-9712 (2007).
+XX
+//

@@ -1,0 +1,61 @@
+AC  M01385
+XX
+ID  V$PAX4_05
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+XX
+BF  T11179; Pax-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11181; Pax-4; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02982; Pax-4a; Species: human, Homo sapiens; site(s) included: no.
+BF  T11221; Pax-4a; Species: human, Homo sapiens; site(s) included: no.
+BF  T02983; Pax-4a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03001; Pax-4a; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03194; Pax-4b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03195; Pax-4c; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.42   0.08   0.07   0.43      W
+02   0.23   0.31   0.33   0.13      N
+03   0.40   0.18   0.24   0.17      N
+04   0.37   0.14   0.19   0.30      N
+05   0.02   0.60   0.02   0.37      Y
+06   0.03   0.01   0.04   0.92      T
+07   0.98   0.00   0.01   0.01      A
+08   0.99   0.00   0.01   0.00      A
+09   0.00   0.01   0.00   0.99      T
+10   0.01   0.01   0.00   0.98      T
+11   0.92   0.04   0.01   0.03      A
+12   0.37   0.02   0.60   0.02      R
+13   0.11   0.52   0.08   0.29      Y
+14   0.14   0.37   0.23   0.26      N
+15   0.18   0.44   0.32   0.06      S
+16   0.34   0.10   0.31   0.25      N
+17   0.28   0.35   0.18   0.19      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0131.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

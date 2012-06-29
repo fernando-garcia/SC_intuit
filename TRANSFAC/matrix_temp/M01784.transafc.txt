@@ -1,0 +1,44 @@
+AC  M01784
+XX
+ID  F$UPC2_CA_01
+XX
+DT  23.08.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  UPC2
+XX
+DE  Matrix for Candida albicans
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T11047; UPC2; Species: Candida albicans strain SC5314 (Yeast); site(s) included: yes.
+XX
+P0      A      C      G      T
+01     24     22      5    103      T
+02     12     73     66      3      S
+03     34      5     15    100      T
+04      0    151      0      3      C
+05     13      2    138      1      G
+06      4      2      3    145      T
+07     78      1     59     16      R
+08     13     18     14    109      T
+09    123     13     14      4      A
+10     52     39     38     25      N
+11     81     21      4     48      W
+12     48     33     32     41      N
+XX
+BA  154 sequences (ChIP-on-chip)
+XX
+CC  used MEME algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0067869.
+RX  PUBMED: 18390649.
+RA  Znaidi S., Weber S., Al-Abdin O. Z., Bomme P., Saidane S., Drouin S., Lemieux S., De Deken X., Robert F., Raymond M.
+RT  Genomewide location analysis of Candida albicans Upc2p, a regulator of sterol metabolism and azole drug resistance.
+RL  Eukaryot. Cell 7:836-847 (2008).
+XX
+//

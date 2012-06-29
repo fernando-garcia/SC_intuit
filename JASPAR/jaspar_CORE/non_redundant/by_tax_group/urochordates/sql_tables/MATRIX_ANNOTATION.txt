@@ -1,0 +1,6 @@
+9347	class	Zinc-coordinating
+9347	comment	-
+9347	family	BetaBetaAlpha-zinc finger
+9347	medline	15661650
+9347	tax_group	urochordates
+9347	type	SELEX

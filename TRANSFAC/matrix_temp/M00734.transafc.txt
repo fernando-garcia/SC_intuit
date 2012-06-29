@@ -1,0 +1,90 @@
+AC  M00734
+XX
+ID  V$CIZ_01
+XX
+DT  07.06.2002 (created); mas.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CIZ
+XX
+DE  CIZ (Cas-associated zinc finger protein)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16375; CIZ; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08339; CIZ; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08337; CIZ; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19472; CIZ-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19471; CIZ-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05138; CIZ5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05137; CIZ6-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05141; CIZ6-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05142; CIZ6-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05136; CIZ8; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     17     22      0      S
+02     39      0      0      0      A
+03     39      0      0      0      A
+04     39      0      0      0      A
+05     39      0      0      0      A
+06     39      0      0      0      A
+07     15     10     13      1      N
+08      5     13      6     15      N
+09      9     15      7      8      N
+XX
+BA  39 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAAAAACTC; R12614; 2; 9;; p.
+BS  GAAAAAGCA; R12615; 1; 9;; p.
+BS  CAAAAAAAC; R12616; 1; 9;; p.
+BS  CAAAAAACT; R12617; 8; 9;; p.
+BS  CAAAAACCG; R12618; 1; 9;; p.
+BS  CAAAAAACG; R12619; 1; 9;; p.
+BS  CAAAAAAAC; R12620; 2; 9;; p.
+BS  CAAAAACCA; R12621; 3; 9;; p.
+BS  CAAAAACTG; R12622; 3; 9;; p.
+BS  CAAAAAATA; R12623; 3; 9;; p.
+BS  CAAAAAAAC; R12624; 3; 9;; p.
+BS  CAAAAAAAT; R12625; 3; 9;; p.
+BS  CAAAAAAGT; R12626; 1; 9;; p.
+BS  CAAAAAAGT; R12627; 3; 9;; p.
+BS  CAAAAAACC; R12628; 4; 9;; p.
+BS  CAAAAACTC; R12629; 2; 9;; p.
+BS  CAAAAAATA; R12630; 2; 9;; p.
+BS  GAAAAAAGA; R12631; 1; 9;; p.
+BS  GAAAAACCG; R12632; 4; 9;; p.
+BS  GAAAAAGTT; R12633; 7; 9;; p.
+BS  GAAAAAGCC; R12634; 2; 9;; p.
+BS  GAAAAACTT; R12635; 2; 9;; p.
+BS  GAAAAAACA; R12636; 2; 9;; p.
+BS  GAAAAAGGC; R12637; 2; 9;; p.
+BS  GAAAAAAGC; R12638; 2; 9;; p.
+BS  GAAAAAGCA; R12639; 2; 9;; p.
+BS  GAAAAAGTG; R12640; 2; 9;; p.
+BS  GAAAAAGCT; R12641; 2; 9;; p.
+BS  GAAAAAGCC; R12642; 2; 9;; p.
+BS  GAAAAACTC; R12643; 2; 9;; p.
+BS  GAAAAAGTC; R12644; 2; 9;; p.
+BS  GAAAAAGTA; R12645; 2; 9;; p.
+BS  GAAAAAGCT; R12646; 2; 9;; p.
+BS  GAAAAACTC; R12647; 2; 9;; p.
+BS  GAAAAAGTG; R12648; 2; 9;; p.
+BS  GAAAAACTG; R12649; 2; 9;; p.
+BS  CAAAAAATA; R12650; 2; 9;; p.
+BS  GAAAAAGGC; R12651; 2; 9;; p.
+BS  GAAAAATAC; R12652; 2; 9;; p.
+XX
+CC  sequences selected with recombinant CIZ from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0017839.
+RX  PUBMED: 10669742.
+RA  Nakamoto T., Yamagata T., Sakai R., Ogawa S., Honda H., Ueno H., Hirano N., Yazaki Y., Hirai H.
+RT  CIZ, a zinc finger protein that interacts with p130(cas) and activates the expression of matrix metalloproteinases
+RL  Mol. Cell. Biol. 20:1649-1658 (2000).
+XX
+//

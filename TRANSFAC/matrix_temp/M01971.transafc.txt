@@ -1,0 +1,52 @@
+AC  M01971
+XX
+ID  V$LHX3b_01
+XX
+DT  29.06.2011 (created); mka.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LHX3b
+XX
+DE  TAAT motif is included 2-5 times in a sequence
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01965; LHX3; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01963; LHX3; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T11062; LHX3; Species: human, Homo sapiens; site(s) included: no.
+BF  T17993; LHX3; Species: Mammalia; site(s) included: no.
+BF  T10879; LHX3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11096; LHX3; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03446; LHX3a; Species: human, Homo sapiens; site(s) included: no.
+BF  T01964; LHX3a; Species: mouse, Mus musculus; site(s) included: no.
+BF  T03447; LHX3b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04840; LHX3b; Species: mouse, Mus musculus; site(s) included: no.
+BF  T13732; M2-LHX3; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     12      2      3      3      A
+02     14      1      1      5      A
+03      1      2      3     15      T
+04      0      0      0     21      T
+05     21      0      0      0      A
+06     21      0      0      0      A
+07      0      0      0     21      T
+08      2      2      2     15      T
+09     13      0      1      7      W
+10     10      1      5      4      N
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant LHX3b from a pool of double-stranded oligonucleotides containing a core of 21 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0070492.
+RX  PUBMED: 15865204.
+RA  Yaden B. C., Savage J. J., Hunter C. S., Rhodes S. J.
+RT  DNA recognition properties of the LHX3b LIM homeodomain transcription factor.
+RL  Mol. Biol. Rep 32:1-6 (2005).
+XX
+//

@@ -1,0 +1,61 @@
+AC  M02219
+AS  MA0113
+XX
+ID  V$NR3C1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NR3C1
+XX
+DE  class: Zinc-coordinating; family: Hormone-nuclear Receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00960; V$PR_Q2; half-site matrix (family).
+XX
+BF  T05076; GR; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T00337; GR-alpha; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      3      2      4      0      R
+02      4      0      5      0      R
+03      3      0      6      0      G
+04      7      0      1      1      A
+05      6      1      1      1      A
+06      1      6      2      0      C
+07      8      0      1      0      A
+08      2      0      2      5      T
+09      3      2      0      4      W
+10      5      3      0      1      M
+11      1      3      0      5      Y
+12      0      0      8      1      G
+13      1      0      0      8      T
+14      2      4      0      3      Y
+15      0      8      1      0      C
+16      1      2      1      5      T
+17      4      0      4      1      R
+18      3      1      2      3      N
+XX
+BA  9 sequences (compiled matrix imported from public database)
+XX
+CC  from JASPAR
+XX
+DR  JASPAR: MA0113.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0052074.
+RX  PUBMED: 15563547.
+RA  Sandelin A., Wasserman W. W.
+RT  Prediction of nuclear hormone receptor response elements.
+RL  Mol. Endocrinol. 19:595-606 (2005).
+XX
+//

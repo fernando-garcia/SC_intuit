@@ -1,0 +1,59 @@
+AC  M01895
+XX
+ID  F$ZAP1_Q6_01
+XX
+DT  15.04.2011 (created); mkl.
+DT  19.04.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZAP1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03717; ZAP1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      3      1      4      N
+02      6      0      3      5      W
+03     10      1      0      3      A
+04      3      8      0      4      Y
+05      2     13      0      0      C
+06      0      8      1      6      Y
+07      0      3      3      9      T
+08      9      2      3      1      A
+09     13      0      2      0      A
+10     12      2      0      1      A
+11      2      1     12      0      G
+12      0      0     15      0      G
+13      3      0      3      9      T
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGACCTTCAAGGT; R09724; 6; 13;; n.
+BS  TAACCTTTAGGGT; R09726; 6; 13;; n.
+BS  CAACCTTTAGGGT; R09727; 6; 13;; n.
+BS  TGACCTTTAGGGT; R09728; 6; 13;; n.
+BS  nACCCGTGGGGGn; R13008; -1; 13;; p.
+BS  GAACCTTGAGGGT; R22355; 9; 13;; n.
+BS  GGCCCGTCGGGTT; R22365; 8; 13;; p.
+BS  TGTCCTTTAGGGA; R22369; 7; 13;; p.
+BS  AAAACATGAGAGG; R22687; 6; 13;; p.
+BS  AAACCTTTTCAGA; R22688; 7; 13;; p.
+BS  AACACTTCTAAGA; R22689; 11; 13;; n.
+BS  CTACCTTTCAGAA; R22764; 7; 13;; p.
+BS  ATATCGTTTGGGT; R22766; 9; 13;; p.
+BS  TTCACTTTAGAAC; R30061; 10; 13;; p.
+BS  TGTTCTTTATGGT; R30063; 5; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00754; F$ZAP1_Q6.
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

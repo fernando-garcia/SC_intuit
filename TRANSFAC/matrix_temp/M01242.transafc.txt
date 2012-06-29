@@ -1,0 +1,75 @@
+AC  M01242
+XX
+ID  V$MTF1_01
+XX
+DT  14.05.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MTF1
+XX
+DE  MTF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02354; MTF-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T10747; MTF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18614; MTF-1; Species: Mammalia; site(s) included: yes.
+BF  T00515; MTF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10644; MTF-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16624; MTF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0     13      0      G
+02      0      0      0     13      T
+03      0      0     13      0      G
+04      0      0      1     12      T
+05      0      0     13      0      G
+06      0     13      0      0      C
+07     13      0      0      0      A
+08      3      1      3      6      N
+09      6      6      0      0      M
+10      6      1      0      0      A
+11      0      6      0      2      C
+12      0      0      0     13      T
+13      0      0      0     13      T
+14      0      0      0     13      T
+15      0      0     13      0      G
+16      0     13      0      0      C
+17      1      0     12      0      G
+18      0     12      1      0      C
+19     10      3      0      0      A
+20      0     13      0      0      C
+XX
+BA  13 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTGTGCATCACTTTGCGCAC; R27687; 7; 20;; p.
+BS  GTGTGCATCACTTTGCGCAC; R27688; 7; 20;; p.
+BS  GTGTGCATCACTTTGCGCAC; R27689; 7; 20;; p.
+BS  GTGTGCATCACTTTGCGCAC; R27690; 7; 20;; p.
+BS  GTGTGCATCACTTTGCGCAC; R27691; 7; 20;; p.
+BS  GTGTGCATCACTTTGCGCAC; R27692; 7; 20;; p.
+BS  GTGGGCACACTTTTGCACCC; R27693; 1; 20;; p.
+BS  GTGTGCAGANNTTTGCGCAC; R27694; 1; 20; 10, 11; p.
+BS  GTGTGCAGANNTTTGCGCAC; R27695; 1; 20; 10, 11; p.
+BS  GTGTGCAGANNTTTGCGCAC; R27696; 1; 20; 10, 11; p.
+BS  GTGTGCAAANNTTTGCGCCC; R27697; 9; 20; 18, 19; p.
+BS  GTGTGCAAANNTTTGCGCCC; R27698; 9; 20; 18, 19; p.
+BS  GTGTGCAANNTTTTGCGGAC; R27699; 9; 20; 17, 18; p.
+XX
+CC  sequences selected with recombinant MTF1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+RN  [2]; RE0062717.
+RX  PUBMED: 15318811.
+RA  Wang Y., Lorenzi I., Georgiev O., Schaffner W.
+RT  Metal-responsive transcription factor-1 (MTF-1) selects different types of metal response elements at low vs. high zinc concentration.
+RL  Biol. Chem. 385:623-632 (2004).
+XX
+//

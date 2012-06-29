@@ -1,0 +1,188 @@
+AC  M01857
+XX
+ID  V$AP2ALPHA_Q6
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-2alpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00189; V$AP2_Q6; activator protein 2 (family).
+HP  M00800; V$AP2_Q3;  (family).
+HP  M00915; V$AP2_Q6_01;  (family).
+XX
+BF  T06547; AP-2; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T10513; AP-2alpha; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T08146; AP-2alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10504; AP-2alpha; Species: Mammalia; site(s) included: yes.
+BF  T00033; AP-2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10025; AP-2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06374; AP-2alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10369; AP-2alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T21980; AP-2alpha; Species: sheep, Ovis aries; site(s) included: no.
+BF  T02488; AP-2alpha isoform 2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T02489; AP-2alpha isoform 3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T02490; AP-2alpha isoform 4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00035; AP-2alphaA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02466; AP-2alphaB; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     34     34     27     25      N
+02      1      9    116      3      G
+03      0    129      0      0      C
+04      0    129      0      0      C
+05      6     61     13     49      Y
+06      6     65     44     14      S
+07     23     58     36     12      N
+08     28     31     56     14      N
+09     15     19     84     11      G
+10     14     61     46      7      S
+11     16     49     38     21      N
+XX
+BA  130 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCCTTGGGGAG; R00183; 7; 11;; n.
+BS  GCCTGCGGACT; R00958; 2; 11;; p.
+BS  CCCGCCGCCGG; R00959; 1; 11;; p.
+BS  GCCTCGGGGAC; R01031; 10; 11;; n.
+BS  GCCTCGGGGAC; R01032; 10; 11;; n.
+BS  ACCCGGCCGCG; R01035; -1; 11;; n.
+BS  CCCTGGGCTTC; R01055; -1; 11;; n.
+BS  CCCACCGGCCC; R01157; 9; 11;; p.
+BS  TCCTCAGCCGT; R01158; -4; 11;; n.
+BS  CCCGCCGGCGA; R01261; 3; 11;; p.
+BS  GCCTGGGGACT; R01404; 10; 11;; p.
+BS  GCCTCAGGCTC; R02425; 5; 11;; p.
+BS  GCCTGAACTTG; R02462; 17; 11;; p.
+BS  CCCTCCGGGGG; R02698; 17; 11;; n.
+BS  CCCCCTGAAGA; R02701; 19; 11;; p.
+BS  TCCTCAGGCGT; R02702; 7; 11;; p.
+BS  CCCTCGGCACG; R02795; 23; 11;; n.
+BS  CCCTCGGCACG; R02795; 23; 11;; n.
+BS  ACCTCCACCCC; R03666; 86; 11;; p.
+BS  GCCTGCAGGCC; R03674; 1; 11;; p.
+BS  ACCTTGGCACA; R04125; 11; 11;; p.
+BS  GCCGCAGCCCA; R04126; 5; 11;; n.
+BS  GCCTGGCCAGG; R04379; 19; 11;; p.
+BS  GCCTGGGGCGC; R04414; 7; 11;; p.
+BS  GCCCCGGGCAC; R04415; 2; 11;; p.
+BS  ACCTCTGTCCC; R04453; 16; 11;; n.
+BS  CCCTGCGGCTG; R04670; 11; 11;; p.
+BS  ACCTGTGCCAT; R04952; 24; 11;; n.
+BS  CCCTGGGAGGG; R04999; 11; 11;; n.
+BS  ACCCCCATGGC; R05002; 9; 11;; n.
+BS  GCCTCCATCGT; R05043; -7; 11;; n.
+BS  CCCAGGCAAAG; R08502; -1; 11;; n.
+BS  GCCTGGGCTGC; R11590; 4; 11;; n.
+BS  GCCCCTGAACG; R13305; 11; 11;; p.
+BS  GCCTGCGGGCC; R14555; 6; 11;; n.
+BS  GCCTCGGGGGC; R16123; 1; 11;; n.
+BS  GCCTGCGGCCA; R16596; 7; 11;; p.
+BS  CCCCCTGCAGG; R16599; 12; 11;; p.
+BS  CCCTGGGGAAA; R16618; 8; 11;; n.
+BS  ACCTCAGGCAC; R16619; 4; 11;; p.
+BS  CCCTCAGGTTA; R16620; 5; 11;; p.
+BS  CCCCGCGCGCC; R16994; 1; 11;; p.
+BS  TCCGCACCCTC; R16997; 7; 11;; p.
+BS  CCCGCCGGCCC; R16998; -4; 11;; n.
+BS  CCCCCAGCGCC; R16999; -1; 11;; n.
+BS  GCCGCGCGCGC; R17000; 3; 11;; n.
+BS  ACCTCGCGGCC; R17001; -2; 11;; n.
+BS  GCCCACGCCTC; R17002; 3; 11;; p.
+BS  CCCTCACCCGG; R17003; -2; 11;; n.
+BS  TCCCGCGGCTG; R17004; -3; 11;; n.
+BS  CCCTCCCGCCA; R17005; 2; 11;; p.
+BS  TCCGCTCTCGG; R17006; -1; 11;; p.
+BS  CCCAGCCGAGA; R17007; -3; 11;; n.
+BS  CCCCCTGCCCC; R17008; -1; 11;; p.
+BS  GCCCCTGGCTC; R17009; -1; 11;; p.
+BS  GCCCGCGGGCt; R17162; 8; 11;; p.
+BS  CCCTCCAGCac; R17164; 33; 11;; p.
+BS  CCCTTAGGTCA; R18670; 8; 11;; n.
+BS  CCCTTAGGTCA; R18701; 6; 11;; n.
+BS  CCCTCAAGCCA; R18709; 5; 11;; n.
+BS  GCCCGCGGCCC; R18717; 6; 11;; n.
+BS  tcctGCCCACG; R18721; 5; 11;; n.
+BS  TCCTGCCCACG; R18723; 9; 11;; n.
+BS  TCCTGCGGGCC; R18725; 8; 11;; p.
+BS  ACCCCCGCGCG; R18832; 6; 11;; p.
+BS  GCCTTGCGGTG; R18833; 7; 11;; n.
+BS  GCCTGGGGAGA; R20380; 12; 11;; p.
+BS  GCCCGCGGGGC; R20728; 14; 11;; p.
+BS  GCCCGCGGGCT; R20944; 4; 11;; p.
+BS  GCCTCGAGGGG; R20963; 4; 11;; p.
+BS  GCCTCCGGCCC; R20964; 7; 11;; n.
+BS  CCCTCCGGGCG; R21035; 27; 11;; n.
+BS  GCCCGCGCgtc; R21215; 1; 11;; n.
+BS  TCCTCGCTTGA; R21220; 35; 11;; n.
+BS  TCCTGACAGGC; R21357; 8; 11;; n.
+BS  GCCTGCAGCCn; R21377; -1; 11;; n.
+BS  GCCTCCAGCnn; R21378; -2; 11;; n.
+BS  CCCTGGGGAAG; R21382; 4; 11;; n.
+BS  GCCCGCGGCGG; R21394; 14; 11;; n.
+BS  CCCTGGGCTGG; R21434; 11; 11;; n.
+BS  GCCCGCCAGCC; R21479; 9; 11;; p.
+BS  CCCTCCGGCTC; R21559; 4; 11;; p.
+BS  GCCTGCGGACT; R21581; 12; 11;; n.
+BS  CCCTCCGGGGC; R21644; 6; 11;; n.
+BS  GCCTCGGGCCA; R21704; 11; 11;; p.
+BS  GCCCCCGGCCC; R21772; 11; 11;; n.
+BS  GCCGCCCAGCC; R22105; 8; 11;; n.
+BS  GCCTCGGGCCG; R22241; 19; 11;; n.
+BS  GCCTTGAGCTA; R23014; 13; 11;; p.
+BS  GCCTTGAGCTG; R23016; 6; 11;; p.
+BS  GCCTCAAGGCA; R23633; 13; 11;; p.
+BS  gCCTGCAGccg; R25042; 7; 11;; n.
+BS  CCCTCGGCGCG; R25356; 9; 11;; p.
+BS  TCCCCCGGCCA; R25412; 9; 11;; n.
+BS  GCCACTGGCnn; R25629; 1; 11;; p.
+BS  GCCTCTTTGGC; R25632; 1; 11;; p.
+BS  GCCGTCGGCnn; R25633; 1; 11;; p.
+BS  CCCTTGGCnnn; R25634; -3; 11;; n.
+BS  GCCTGGACGGC; R25635; 1; 11;; p.
+BS  GCCGCCGGCCG; R26283; 2; 11;; n.
+BS  GCCTGCAGCCA; R26337; 7; 11;; p.
+BS  CCCCCTGGCTT; R26340; 7; 11;; n.
+BS  GCCCCGGGCTC; R26460; 1; 11;; n.
+BS  GCCTGAATGAA; R26824; 3; 11;; n.
+BS  ACCAATAAGAG; R26829; 5; 11;; p.
+BS  TCCCCAGCCCC; R27283; 19; 11;; p.
+BS  GCCTGCAGCCA; R27593; 7; 11;; n.
+BS  CCCGCCGGAGA; R27595; 10; 11;; p.
+BS  GCCTGGCTGCT; R27596; 9; 11;; p.
+BS  TCCTGACAGGC; R27597; 6; 11;; n.
+BS  GCCCCCGGCAT; R27827; 12; 11;; p.
+BS  CCCTAAGAGCC; R28270; 19; 11;; p.
+BS  GCCTGGGGAGG; R28272; 5; 11;; n.
+BS  CCCCCCGACTC; R29961; 19; 11;; p.
+BS  GCCCGCGGnnn; R30017; 1; 11;; p.
+BS  GCCCCCGGCCC; R31073; 8; 11;; n.
+BS  GCCTCGGGCAT; R31099; 8; 11;; p.
+BS  TCCTGCGGGCC; R31519; 8; 11;; p.
+BS  CCCTCAAGCCA; R31522; 2; 11;; n.
+BS  GCCTGCGGGTT; R32674; 5; 11;; n.
+BS  CCCTCGGCCTG; R32678; 8; 11;; p.
+BS  TCCCCATTCTT; R33028; 6; 11;; p.
+BS  CCCTGGGGAGG; R33029; 6; 11;; p.
+BS  CCCCACGCTAA; R33030; -1; 11;; n.
+BS  GCCCCGGGGCG; R33131; -1; 11;; p.
+BS  GCCTGCAGAGT; R33179; 11; 11;; p.
+BS  CCCCCCGGGCC; R33805; -1; 11;; n.
+BS  CCCTTGGGGAG; R34303; 9; 11;; n.
+BS  CCCGCCGCCAT; R34304; 9; 11;; n.
+BS  GCCCCGGGAag; R34361; 7; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

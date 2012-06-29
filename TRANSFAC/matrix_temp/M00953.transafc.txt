@@ -1,0 +1,85 @@
+AC  M00953
+XX
+ID  V$AR_02
+XX
+DT  12.11.2003 (created); ech.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AR
+XX
+DE  high affinity binding sites for androgen receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04652; AR; Species: baboon, Papio hamadryas; site(s) included: no.
+BF  T16701; AR; Species: baboon, Papio hamadryas; site(s) included: yes.
+BF  T06152; AR; Species: bull frog, Rana catesbeiana; site(s) included: no.
+BF  T16706; AR; Species: bull frog, Rana catesbeiana; site(s) included: yes.
+BF  T04653; AR; Species: chimpanzee, Pan troglodytes; site(s) included: no.
+BF  T16702; AR; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T06147; AR; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T16705; AR; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00040; AR; Species: human, Homo sapiens; site(s) included: no.
+BF  T04655; AR; Species: lemur, Eulemur fulvus collaris; site(s) included: no.
+BF  T16704; AR; Species: lemur, Eulemur fulvus collaris; site(s) included: yes.
+BF  T04654; AR; Species: macaque, Macaca fascicularis; site(s) included: no.
+BF  T16703; AR; Species: macaque, Macaca fascicularis; site(s) included: yes.
+BF  T15601; AR; Species: Mammalia; site(s) included: no.
+BF  T00041; AR; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08473; AR; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06150; AR; Species: pig, Sus scrofa; site(s) included: no.
+BF  T16707; AR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T06151; AR; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T16708; AR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00042; AR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08528; AR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06149; AR; Species: spotted hyena, Crocuta crocuta; site(s) included: no.
+BF  T16709; AR; Species: spotted hyena, Crocuta crocuta; site(s) included: yes.
+BF  T16700; AR; Species: Vertebrata; site(s) included: no.
+BF  T08487; AR-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T18763; AR-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11     14     14     12      N
+02      9      7     20     15      N
+03      9      9     17     16      N
+04      9      4     26     12      G
+05     17     13     12      9      N
+06     17      3     23      8      R
+07     15      1     29      6      R
+08      1      1     45      4      G
+09     11      5     11     24      N
+10     45      2      0      4      A
+11      1     50      0      0      C
+12     34      0     16      1      A
+13      8     14     11     18      N
+14     12     11     12     16      N
+15      2      4     33     12      G
+16      0      0      0     51      T
+17      0      0     51      0      G
+18      0      0      0     51      T
+19      0      0      0     51      T
+20      0     51      0      0      C
+21      0      0      0     51      T
+22      7      8     13     23      N
+23      8      5     22     16      N
+24     12      9     13     17      N
+25     10      9     16     16      N
+26      9     15     13     14      N
+27     13     12     14     12      N
+XX
+BA  51 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AR from a pool of double-stranded oligonucleotides containing a core of 21 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0023480.
+RX  PUBMED: 10598584.
+RA  Nelson C. C., Hendy S. C., Shukin R. J., Cheng H., Bruchovsky N., Koop B. F., Rennie P. S.
+RT  Determinants of DNA sequence specificity of the androgen, progesterone, and glucocorticoid receptors: evidence for differential steroid receptor response elements.
+RL  Mol. Endocrinol. 13:2090-2107 (1999).
+XX
+//

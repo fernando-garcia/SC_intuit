@@ -1,0 +1,72 @@
+AC  M00437
+XX
+ID  V$CHX10_01
+XX
+DT  21.06.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CHX10
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04142; CHX10; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04139; CHX10; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11425; CHX10; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02970; CHX10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09222; CHX10; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      4      3      5      4      N
+02      4      4      8      2      N
+03      3      8      5      4      N
+04      0      1      0     19      T
+05     20      0      0      0      A
+06     20      0      0      0      A
+07      1      0      0     19      T
+08      0      0      0     20      T
+09     18      1      0      1      A
+10      1      2     17      0      G
+11      3     15      1      0      C
+12      3      5      6      5      N
+13      6      6      3      4      N
+14      7      2      4      5      N
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AACTAATTAGCTTA; R09710; 7; 14;; p.
+BS  ACCTAATTACCCGC; R10120; 10; 14;; p.
+BS  TGCTAATTACGACA; R10121; 11; 14;; p.
+BS  AGCTAATTAGAGCG; R10122; 10; 14;; p.
+BS   GGTAAATTAAGCT; R10123; 1; 14; 1; p.
+BS  CCCTAATTAG; R10124; 16; 14; 26, 27, 28, 29; p.
+BS  TGCTAATTAGAGGT; R10125; 5; 14;; p.
+BS   CTTAATTCGCTAT; R10126; 1; 14; 1; p.
+BS  GTTTAATTAGCCAG; R10127; 6; 14;; p.
+BS  GAGTAATTAGCTAA; R10128; 7; 14;; p.
+BS    TTAATTAGCGTC; R10129; 1; 14; 1, 2; p.
+BS  CTCTAATTAGCGCT; R10130; 3; 14;; p.
+BS  GCGTAATTAGCAAT; R10131; 8; 14;; p.
+BS    ACAATTAGCCCA; R10132; 1; 14; 1, 2; p.
+BS  TAGTAATTAGCTAA; R10133; 2; 14;; p.
+BS  TAGTAATTAGCGGG; R10134; 5; 14;; p.
+BS  AGATAATTAGCATA; R10135; 3; 14;; p.
+BS  GGTTAATTAGCCTG; R10136; 9; 14;; p.
+BS  GGATAATTAGCCCA; R10137; 6; 14;; p.
+BS  CGCTAATTAGCTA; R10138; 13; 14; 26; p.
+XX
+CC  sequences selected with recombinant CHX10 from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0015510.
+RX  PUBMED: 10932181.
+RA  Ferda Percin E., Ploder L. A., Yu J. J., Arici K., Horsford D. J., Rutherford A., Bapat B., Cox D. W., Duncan A. M., Kalnins V. I., Kocak-Altintas A., Sowden J. C., Traboulsi E., Sarfarazi M., McInnes R. R.
+RT  Human microphthalmia associated with mutations in the retinal homeobox gene CHX10
+RL  Nat. Genet. 25:397-401 (2000).
+RN  [2]; RE0016736.
+RA  McInnes R. R.
+RL  direct submission (author) : ().
+XX
+//

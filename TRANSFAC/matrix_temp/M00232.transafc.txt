@@ -1,0 +1,69 @@
+AC  M00232
+XX
+ID  V$MEF2_03
+XX
+DT  26.01.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MEF-2
+XX
+DE  myogenic MADS factor MEF-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00941; V$MEF2_Q6_01;  (family).
+XX
+BF  T01006; aMEF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09508; mef2a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09389; mef2a; Species: Mammalia; site(s) included: no.
+BF  T15645; mef2A; Species: Mammalia; site(s) included: no.
+BF  T15781; mef2a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01004; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10368; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01005; MEF2A-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00505; mef2a-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06051; mef2a-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11401; mef2a-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19055; MEF2A-xbb5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01009; RSRFC4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01010; RSRFC9; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     22     22     24     32      N
+02     26     27     29     18      N
+03     26     14     26     32      N
+04     18     21     37     24      N
+05     22      3     49     26      N
+06     31     10      9     50      W
+07     15      4     39     42      K
+08      0     98      0      2      C
+09      0      0      0    100      T
+10     80      0      1     19      A
+11     53      0      0     47      W
+12     92      0      0      8      A
+13     91      1      2      5      A
+14     99      0      0      1      A
+15      0      0      0    100      T
+16     98      0      0      2      A
+17      5      0     92      3      G
+18     46     39      4     11      M
+19     42     27      6     25      N
+20     26     34      6     34      N
+21     30     28     18     24      N
+22     30     28     23     19      N
+XX
+BA  90 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant MEF-2 from a pool of double-stranded oligonucleotides containing a core of 40 random nucleotides; 9 rounds of selection and amplification
+XX
+RN  [1]; RE0003602.
+RX  PUBMED: 7559475.
+RA  Andres V., Cervera M., Mahdavi V.
+RT  Determination of the consensus binding site for MEF2 expressed in muscle and brain reveals tissue-specific sequence constraints
+RL  J. Biol. Chem. 270:23246-23249 (1995).
+XX
+//

@@ -1,0 +1,83 @@
+AC  M01067
+XX
+ID  V$GFI1_Q6
+XX
+DT  04.09.2005 (created); dtc.
+DT  05.09.2005 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Gfi1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00250; V$GFI1_01; growth factor independence 1 (specific).
+HC  M01058; V$GFI1B_01;  (specific).
+HC  M02010; V$GFI1_Q6_01;  (specific).
+XX
+BF  T06587; Gfi1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11290; Gfi1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17961; Gfi1; Species: Mammalia; site(s) included: yes.
+BF  T06593; Gfi1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10664; Gfi1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01921; Gfi1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10665; Gfi1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06586; gfi1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11202; gfi1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06585; gfi1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10144; gfi1b; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6     10      4      5      N
+02      6      6      7      6      N
+03     14      3      3      5      A
+04     25      0      0      0      A
+05     25      0      0      0      A
+06      0      0      3     22      T
+07      0     25      0      0      C
+08     13      6      1      5      A
+09      3     11      6      5      N
+10      6      1      9      9      N
+11      3      3     13      6      G
+12      2     10      9      4      S
+13      6      8      3      8      N
+XX
+BA  25 sequences (matrix compiled from individual genomic sites)
+XX
+BS  tgaaatcacggta; R16947; 7; 13;; n.
+BS  cccaatcatggct; R16957; 6; 13;; n.
+BS  TGTAATCCCAGCG; R16962; 11; 13;; p.
+BS  GAAAAGCAGGCCT; R16964; 10; 13;; p.
+BS  ccaaagcgctggg; R16965; 17; 13;; n.
+BS  GACAAGCCTGGGC; R16966; 10; 13;; p.
+BS  TGTAATCCCAGCT; R17017; 10; 13;; p.
+BS  TTTAATCACAGCC; R17018; 10; 13;; p.
+BS  gtaaatctgttta; R17029; 10; 13;; n.
+BS  ACAAATCAGGTTC; R17030; 8; 13;; p.
+BS  CAGAATCTCTGGA; R17032; 15; 13;; p.
+BS  agaaatcagttcc; R17033; 9; 13;; n.
+BS  CTAAATCTTTTGA; R17034; 10; 13;; p.
+BS  ccaaatcagtagt; R17041; 9; 13;; n.
+BS  AATAATCACTGGC; R17043; 8; 13;; p.
+BS  ATAAATCCAGTGT; R17044; 8; 13;; p.
+BS  CAAAATCCAGCAT; R17047; 9; 13;; p.
+BS  ccaaatccgatgc; R17048; 10; 13;; n.
+BS  agaaatcaaaggt; R17049; 11; 13;; n.
+BS  ataaatcatcgca; R17051; 10; 13;; n.
+BS  ggaaatctctgcc; R17054; 8; 13;; n.
+BS  CCTAATCTCTCTG; R17057; 9; 13;; p.
+BS  TGGAATCACAGCC; R17076; 16; 13;; p.
+BS  CTGAATCACGAAA; R17077; 9; 13;; p.
+BS  CACAATCATGACT; R17080; 8; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M01067; V$GFI1_Q6.
+RN  [1]; RE0035527.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel93:0001 (2005).
+XX
+//

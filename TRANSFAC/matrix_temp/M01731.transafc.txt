@@ -1,0 +1,55 @@
+AC  M01731
+XX
+ID  F$MAL63_Q5
+XX
+DT  26.04.2010 (created); dtc.
+DT  30.04.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MAL63
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00480; MAL63; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      1      0      1      H
+02      2      1      0      1      H
+03      0      3      2      2      B
+04      0      4      2      2      B
+05      1      2      4      1      N
+06      5      3      0      0      M
+07      2      0      4      2      D
+08      4      0      0      4      W
+09      0      0      5      3      K
+10      0      0      0      8      T
+11      0      0      1      7      T
+12      0      0      0      8      T
+13      4      2      1      1      N
+14      2      0      5      0      G
+15      0      4      3      0      S
+16      0      2      5      0      G
+17      1      0      4      0      G
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  aagcgagagtttaagcg; R01632; 11; 17;; n.
+BS  nnttaattgtgtggggn; R23865; -1; 17;; n.
+BS  CTTTTCTTTTTTTnnnn; R23867; 5; 17;; p.
+BS  nnnGGAAATTTTCGCGG; R23869; -3; 17;; p.
+BS  nngcgagagtttaagcg; R23871; 1; 17;; n.
+BS  nnccccgtgtttagcgn; R23872; -1; 17;; n.
+BS  aaccccgtgtttagcga; R24247; -1; 17;; n.
+BS  TCCGGAAATTTTCGCGG; R24248; 8; 17;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

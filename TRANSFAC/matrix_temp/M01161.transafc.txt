@@ -1,0 +1,60 @@
+AC  M01161
+XX
+ID  P$ASR1_01
+XX
+DT  29.02.2008 (created); nta.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ASR-1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T14118; ASR-1; Species: tomato, Lycopersicon esculentum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10      8      1      1      M
+02      0     19      1      0      C
+03      0     20      0      0      C
+04      0     13      7      0      S
+05     11      2      0      7      W
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ACCCA; R23293; 10; 5;; p.
+BS  TCCCA; R23294; 10; 5;; p.
+BS  GCCCA; R23295; 8; 5;; p.
+BS  ACCCT; R23296; 4; 5;; p.
+BS  ACCGA; R23297; 1; 5;; p.
+BS  ACCGT; R23298; 1; 5;; p.
+BS  ACCGA; R23299; 11; 5;; p.
+BS  ACCGT; R23300; 8; 5;; p.
+BS  ACCGT; R23301; 8; 5;; p.
+BS  ACCGC; R23302; 7; 5;; p.
+BS  AGCCT; R23303; 9; 5;; p.
+BS  ACCCA; R23304; 3; 5;; p.
+BS  CCCGA; R23305; 11; 5;; p.
+BS  CCCCA; R23306; 10; 5;; p.
+BS  CCCCA; R23307; 10; 5;; p.
+BS  CCCCA; R23308; 9; 5;; p.
+BS  CCCCA; R23309; 9; 5;; p.
+BS  CCCCT; R23310; 7; 5;; p.
+BS  CCCCT; R23311; 7; 5;; p.
+BS  CCCCC; R23312; 10; 5;; p.
+XX
+CC  sequences selected with recombinant ASR-1 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+RN  [2]; RE0052085.
+RX  PUBMED: 15101820.
+RA  Kalifa Y., Gilad A., Konrad Z., Zaccai M., Scolnik P. A., Bar-Zvi D.
+RT  The water- and salt-stress-regulated Asr1 (abscisic acid stress ripening) gene encodes a zinc-dependent DNA-binding protein.
+RL  Biochem. J. 381:373-378 (2004).
+XX
+//

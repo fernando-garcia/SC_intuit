@@ -1,0 +1,48 @@
+AC  M02235
+AS  MA0129
+XX
+ID  P$TGA1A_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TGA1A
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T00829; TGA1a; Species: tobacco, Nicotiana tabacum; site(s) included: unknown.
+BF  T09478; TGA1a; Species: tobacco, Nicotiana tabacum; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      4      4      0      7      H
+02     13      0      1      1      A
+03      0     14      0      1      C
+04      2      0     13      0      G
+05      1      0      0     14      T
+06      0     15      0      0      C
+07     13      0      1      1      A
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0129.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0022218.
+RX  PUBMED: 10561063.
+RA  Niu X., Renshaw-Gegg L., Miller L., Guiltinan M. J.
+RT  Bipartite determinants of DNA-binding specificity of plant basic leucine zipper proteins.
+RL  Plant Mol. Biol. 41:1-13 (1999).
+XX
+//

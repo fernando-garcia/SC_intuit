@@ -1,0 +1,55 @@
+AC  M02382
+AS  MA0263
+XX
+ID  N$TTX3CEH10_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ttx-3:ceh-10
+XX
+DE  class: Helix-Turn-Helix; family: Homeo; dimer
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T02980; ceh-10; Species: Caenorhabditis elegans; site(s) included: unknown.
+BF  T03380; ttx-3; Species: Caenorhabditis elegans; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     28      0      1      0      A
+02      0      0      1     28      T
+03      1      0      0     28      T
+04      9      0     20      0      G
+05      0      0     28      1      G
+06      2     16      1     10      Y
+07      3      5      1     20      T
+08      1      5      0     23      T
+09     14     15      0      0      M
+10      4      3     22      0      G
+11      0      0      0     29      T
+12      0      2      0     27      T
+13     24      1      0      4      A
+14     15      0      9      5      R
+XX
+BA  29 sequences (direct gel shift)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0263.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071785.
+RX  PUBMED: 15177025.
+RA  Wenick A. S., Hobert O.
+RT  Genomic cis-regulatory architecture and trans-acting regulators of a single interneuron-specific gene battery in C. elegans.
+RL  Dev. Cell 6:757-770 (2004).
+XX
+//

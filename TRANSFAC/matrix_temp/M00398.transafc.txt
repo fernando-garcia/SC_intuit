@@ -1,0 +1,42 @@
+AC  M00398
+XX
+ID  N$CES2_01
+XX
+DT  14.07.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ces-2
+XX
+DE  cell-death specification 2
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T03583; ces-2; Species: Caenorhabditis elegans; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     54      7     35      4      R
+02      4      2      0     95      T
+03      2      2      5     91      T
+04     86      0     14      0      A
+05      0     98      0      2      C
+06      2      0     98      0      G
+07      0     26      0     74      T
+08     95      5      0      0      A
+09    100      0      0      0      A
+10      4     49      9     39      Y
+XX
+BA  sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages
+XX
+RN  [1]; RE0006109.
+RX  PUBMED: 8700229.
+RA  Metzstein M. M., Hengartner M. O., Tsung N., Ellis R. E., Horvitz H. R.
+RT  Transcriptional regulator of programmed cell death encoded by Caenorhabditis elegans gene ces-2
+RL  Nature 382:545-547 (1996).
+XX
+//

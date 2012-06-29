@@ -1,0 +1,42 @@
+AC  M00752
+XX
+ID  F$PDR3_Q2
+XX
+DT  03.09.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PDR3
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03525; PDR3; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0      5      T
+02      0      5      0      0      C
+03      0      5      0      0      C
+04      1      0      4      0      G
+05      0      5      0      0      C
+06      0      0      5      0      G
+07      0      1      4      0      G
+08      5      0      0      0      A
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TCCGCGGA; R12386; 2; 8;; n.
+BS  TCCGCGGA; R12392; 3; 8;; p.
+BS  TCCGCGGA; R12393; 4; 8;; n.
+BS  TCCACGGA; R12397; 5; 8;; n.
+BS  TCCGCGCA; R12402; 1; 8;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,48 @@
+AC  M00266
+XX
+ID  I$CROC_01
+XX
+DT  24.11.1997 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Croc
+XX
+DE  Crocodile regulator of head development
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T02291; Croc; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      2      0      3      W
+02      7      1      0      3      A
+03      5      2      2      2      N
+04      8      1      2      1      A
+05     10      0      5      0      A
+06      0      0      0     15      T
+07     15      0      0      0      A
+08     15      0      0      0      A
+09     15      0      0      0      A
+10      0      3      0     12      T
+11     15      0      0      0      A
+12      1      1      4      9      T
+13      6      3      2      4      N
+14      5      3      3      4      N
+15      2      2      5      5      N
+16      3      2      6      1      N
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Croc from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0006382.
+RX  PUBMED: 7489720.
+RA  Haecker U., Kaufmann E., Hartmann C., Juergens G., Knoechel W., Jaeckle H.
+RT  The Drosophila fork head domain protein crocodile is required for the establishment of head structures
+RL  EMBO J. 14:5306-5317 (1995).
+XX
+//

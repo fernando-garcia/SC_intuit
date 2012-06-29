@@ -1,0 +1,45 @@
+AC  M00270
+XX
+ID  I$GCM_01
+XX
+DT  27.11.1997 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCM
+XX
+DE  glial cells missing
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T02302; GCM; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     36     28     28      8      N
+02     33     15     26     26      N
+03     68     10     32      0      A
+04      0     98      0      2      C
+05      0    100      0      0      C
+06     10     88      0      2      C
+07      0      2     98      0      G
+08      2     92      0      6      C
+09    100      0      0      0      A
+10      2      9      2     87      T
+11     43     26     17     14      N
+12     24     24     10     43      N
+13     26     16     21     37      N
+XX
+BA  48 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant GCM from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0006396.
+RX  PUBMED: 8962155.
+RA  Akiyama Y., Hosoya T., Poole A. M., Hotta Y.
+RT  The gcm-motif: a novel DNA-binding motif conserved in Drosophila and mammals
+RL  Proc. Natl. Acad. Sci. USA 93:14912-14916 (1996).
+XX
+//

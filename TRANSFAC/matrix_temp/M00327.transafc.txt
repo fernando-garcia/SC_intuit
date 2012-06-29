@@ -1,0 +1,60 @@
+AC  M00327
+XX
+ID  V$PAX3_B
+XX
+DT  11.11.1998 (created); abi.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-3
+XX
+DE  Pax-3 binding sites
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+XX
+BF  T03015; Pax-3; Species: chick, Gallus gallus; site(s) included: no.
+BF  T17261; Pax-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00679; Pax-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11270; Pax-3; Species: human, Homo sapiens; site(s) included: no.
+BF  T10279; Pax-3; Species: Mammalia; site(s) included: no.
+BF  T00680; Pax-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09162; Pax-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16574; Pax-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     21      5     10     15      N
+02     17     15      9     10      N
+03     23     13     10      5      N
+04     13     10     10     18      N
+05     12      8     11     20      N
+06     10     13     13     15      N
+07      4     28      9     10      C
+08      3      2     41      5      G
+09      6      2      0     43      T
+10      1     38     11      1      C
+11     44      3      1      3      A
+12      1     45      0      5      C
+13      0      0     46      5      G
+14      1     21     25      4      S
+15     10      3      0     38      T
+16     10     15      1     25      Y
+17     15     10     15     11      N
+18     15     14      8     14      N
+19     15      5     21     10      N
+20     13     10     15     13      N
+21     16      8      9     18      N
+XX
+BA  51 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0007031.
+RX  PUBMED: 8633043.
+RA  Epstein J. A., Shapiro D. N., Cheng J., Lam P. Y. P., Maas R. L.
+RT  Pax3 modulates expression of the c-Met receptor during limb muscle development.
+RL  Proc. Natl. Acad. Sci. USA 93:4213-4218 (1996).
+XX
+//

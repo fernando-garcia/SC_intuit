@@ -1,0 +1,122 @@
+AC  M00517
+XX
+ID  V$AP1_01
+XX
+DT  08.11.2001 (created); oke.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00041; V$CREBP1CJUN_01; CRE-binding protein 1:c-Jun heterodimer (specific).
+HC  M00173; V$AP1_Q2; activator protein 1 (specific).
+HC  M00174; V$AP1_Q6; activator protein 1 (specific).
+HC  M00188; V$AP1_Q4; activator protein 1 (specific).
+HC  M00199; V$AP1_C; AP-1 binding site (specific).
+HC  M01267; V$FRA1_Q5;  (specific).
+HC  M02095; V$FRA1_Q6;  (specific).
+HC  M02280; V$AP1_02; class: Zipper-Type; family: Leucine Zipper (specific).
+XX
+BF  T01140; AP-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01156; AP-1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T01115; AP-1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00029; AP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00030; AP-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00032; AP-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00031; AP-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15628; c-Fos; Species: cattle, Bos taurus; site(s) included: no.
+BF  T15629; c-Fos; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00125; c-Fos; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00123; c-Fos; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08776; c-Fos; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02205; c-Fos; Species: Japanese pufferfish, Fugu rubripes; site(s) included: no.
+BF  T10346; c-Fos; Species: Mammalia; site(s) included: no.
+BF  T00122; c-Fos; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08534; c-Fos; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08072; c-Fos; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T17690; c-fos; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00124; c-Fos; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08493; c-Fos; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15626; c-Jun; Species: cattle, Bos taurus; site(s) included: no.
+BF  T15627; c-Jun; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00134; c-Jun; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10315; c-Jun; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15585; c-Jun; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T02830; c-Jun; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T17873; c-Jun; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T00135; c-Jun; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00133; c-Jun; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08461; c-Jun; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01976; c-Jun; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: no.
+BF  T09446; c-Jun; Species: Mammalia; site(s) included: no.
+BF  T08950; c-Jun; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T00131; c-Jun; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08587; c-Jun; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08071; c-Jun; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T00132; c-Jun; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08466; c-Jun; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15665; c-Jun; Species: sheep, Ovis aries; site(s) included: no.
+BF  T05989; deltaFosB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02198; deltaFosB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05987; deltaFosB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05984; FosB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08993; FOSB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00291; FosB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10574; FOSB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05985; FosB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11091; FOSB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17699; fra 1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T01462; Fra-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08989; Fra-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00292; Fra-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08533; Fra-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01208; Fra-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08537; Fra-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18680; Fra1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T17697; jun B; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T17698; jun D; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T01977; JunB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08491; JunB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10510; JunB; Species: Mammalia; site(s) included: no.
+BF  T00436; JunB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08590; JunB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06445; JunB; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09434; JunB; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02196; JunD; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01978; JunD; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08995; JunD; Species: human, Homo sapiens; site(s) included: no.
+BF  T09447; JunD; Species: Mammalia; site(s) included: no.
+BF  T00437; JunD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08536; JunD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02197; JunD; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10426; JunD; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      6     15     19      7      N
+02     14     12     13      8      N
+03     19      3     16      9      N
+04      4      2      5     36      T
+05      4      2     33      8      G
+06     36      4      2      5      A
+07      3     13     29      2      G
+08      0      0      0     47      T
+09      2     44      0      1      C
+10     47      0      0      0      A
+11      2      8     24     13      K
+12     10     24      5      8      C
+13     15     12     11      9      N
+XX
+BA  47 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0016525.
+RX  PUBMED: 10329147.
+RA  Kel A., Kel-Margoulis O., Babenko V., Wingender E.
+RT  Recognition of NFATp/AP-1 composite elements within genes induced upon the activation of immune cells
+RL  J. Mol. Biol. 288:353-376 (1999).
+XX
+//

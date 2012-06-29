@@ -1,0 +1,55 @@
+AC  M00348
+XX
+ID  V$GATA2_02
+XX
+DT  08.04.1999 (created); vma.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA-2
+XX
+DE  GATA-binding factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00203; V$GATA_C; GATA binding site (family).
+HP  M00789; V$GATA_Q6;  (family).
+XX
+BF  T10951; GATA-2; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00307; GATA-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10393; GATA-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00309; GATA-2; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T00308; GATA-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T08571; GATA-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T17995; GATA-2; Species: Mammalia; site(s) included: yes.
+BF  T01302; GATA-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08573; GATA-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15259; GATA-2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T18946; GATA-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15      5      7      4      N
+02      7      7     11      6      N
+03     17      5      0      9      W
+04      0      0     31      0      G
+05     31      0      0      0      A
+06      0      0      0     31      T
+07     30      1      0      0      A
+08     29      0      0      2      A
+09      4      9     17      1      S
+10     17      3      7      4      A
+XX
+BA  31 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant GATA-2 from a pool of double-stranded oligonucleotides containing a core of 10 random nucleotides; 4 rounds of selection and amplification; fixed core of 3 nucleotides used
+XX
+RN  [1]; RE0013392.
+RX  PUBMED: 8321208.
+RA  Ko L. J., Engel J. D.
+RT  DNA-binding specificities of the GATA transcription factor family.
+RL  Mol. Cell. Biol. 13:4011-4022 (1993).
+XX
+//

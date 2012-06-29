@@ -1,0 +1,96 @@
+AC  M01145
+XX
+ID  V$CMYC_01
+XX
+DT  16.08.2007 (created); ech.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Myc
+XX
+DE  c-Myc site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00799; V$MYC_Q2;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T03537; c-Myc; Species: canary, Serinus canaria; site(s) included: no.
+BF  T00141; c-Myc; Species: chick, Gallus gallus; site(s) included: no.
+BF  T03427; c-Myc; Species: chimpanzee, Pan troglodytes; site(s) included: no.
+BF  T03433; c-Myc; Species: common marmoset, Callithrix jacchus; site(s) included: no.
+BF  T03432; c-Myc; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T03532; c-Myc; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T03430; c-Myc; Species: gibbon ape, Hylobates lar; site(s) included: no.
+BF  T03454; c-Myc; Species: goldfish, Carassius auratus; site(s) included: no.
+BF  T09998; c-Myc; Species: human, Homo sapiens; site(s) included: no.
+BF  T14435; c-Myc; Species: Mammalia; site(s) included: no.
+BF  T00143; c-Myc; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09007; c-Myc; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03462; c-Myc; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: no.
+BF  T00142; c-Myc; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09265; c-Myc; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03455; c-Myc; Species: sheep, Ovis aries; site(s) included: no.
+BF  T03466; c-Myc; Species: wild cat, Felis silvestris; site(s) included: no.
+BF  T17324; c-Myc; Species: wild cat, Felis silvestris; site(s) included: yes.
+BF  T03428; c-Myc; Species: woodchuck, Marmota monax; site(s) included: no.
+BF  T03450; c-Myc; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T03464; c-Myc I; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14514; c-Myc I; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T00140; c-Myc-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T03341; c-Myc-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      1      7      3      R
+02     16      0      2      2      A
+03      1     16      4      0      C
+04      0     21      0      0      C
+05     21      0      0      0      A
+06      0     21      0      0      C
+07      0      0     21      0      G
+08      0      0      0     21      T
+09      0      0     21      0      G
+10      0     13      6      1      C
+11      1      2      0     15      T
+12      3     11      0      1      C
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  tacCACGTGctc; R21824; 9; 12;; p.
+BS  tacCACGTGctt; R21825; 6; 12;; p.
+BS  aagCACGTGctc; R21826; 7; 12;; p.
+BS  gacCACGTGctc; R21827; 7; 12;; p.
+BS  agaCACGTGccc; R21828; 6; 12;; p.
+BS  aacCACGTGtta; R21829; 5; 12;; p.
+BS  tacCACGTGg; R21830; 11; 12; 21, 22; p.
+BS  gacCACGTGg; R21831; 11; 12; 21, 22; p.
+BS  gacCACGTGgac; R21832; 9; 12;; p.
+BS  gacCACGTGgta; R21833; 9; 12;; p.
+BS  ctcCACGTGgtc; R21834; 9; 12;; p.
+BS   ggCACGTGctc; R21835; 1; 12; 1; p.
+BS  aagCACGTGcc; R21836; 10; 12; 21; p.
+BS  aacCACGTGgta; R21837; 9; 12;; p.
+BS  atcCACGTG; R21838; 12; 12; 21, 22, 23; p.
+BS    cCACGTGctc; R21839; 1; 12; 1, 2; p.
+BS  gacCACGTGct; R21840; 10; 12; 21; p.
+BS  gacCACGTGctc; R21841; 4; 12;; p.
+BS  aagCACGTGct; R21842; 10; 12; 21; p.
+BS  gacCACGTGctc; R21843; 2; 12;; p.
+BS   acCACGTGctc; R21844; 1; 12; 1; p.
+XX
+CC  sequences selected with recombinant c-Myc from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 7 to 8 rounds of selection and amplification
+XX
+RN  [1]; RE0050097.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel113:0001 (2007).
+RN  [2]; RE0007850.
+RX  PUBMED: 1587829.
+RA  Papoulas O., Williams N. G., Kingston R. E.
+RT  DNA binding activities of c-Myc purified from eukaryotic cells
+RL  J. Biol. Chem. 267:10470-10480 (1992).
+XX
+//

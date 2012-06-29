@@ -1,0 +1,90 @@
+AC  M01172
+XX
+ID  V$PU1_Q4
+XX
+DT  12.03.2008 (created); dtc.
+DT  18.03.2008 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PU.1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00703; SPI1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02068; SPI1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09976; SPI1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10037; SPI1; Species: Mammalia; site(s) included: yes.
+BF  T00702; SPI1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10429; SPI1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15606; SPI1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15607; SPI1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08317; SPI1-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      7      5      6      N
+02      8      7      6      5      N
+03      4     12      4      6      N
+04      7      7      4      9      N
+05      3      9      3     14      Y
+06      2     11      4     13      Y
+07      3     12      4     11      Y
+08     19      2      5      4      A
+09      0     20      5      6      C
+10      0      0      0     31      T
+11      0      0      0     31      T
+12      0     31      0      0      C
+13      0     26      0      5      C
+14      0      9      2     20      T
+15      0     23      4      4      C
+16      8      5      0     18      T
+17      4      5      0     22      T
+18      5      5      2     19      T
+19      3      9      2     14      Y
+XX
+BA  31 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCTGATTGGTTCCTCACTT; R01068; 7; 19;; p.
+BS  tggtttcacttccttttat; R04263; 12; 19;; n.
+BS  GCCTCCTACTTCTGCTTTT; R04274; -7; 19;; p.
+BS  TCCATTTCCTTCCTCTTTT; R04413; -9; 19;; p.
+BS  GCCTCCTACTTCTCCTTTT; R04722; 1; 19;; p.
+BS  AGATTCCATTTCCTCATCT; R08101; 4; 19;; p.
+BS  nnnnnnnncttcctccctn; R08122; -1; 19;; n.
+BS  aacgtgaaCTTCTCctttc; R08195; 2; 19;; p.
+BS  cacagtcacttcctcatcc; R08196; 1; 19;; n.
+BS  agtttcggtttccctttcc; R13565; -1; 19;; n.
+BS  nnngtccacTTCCTCaatt; R13568; -3; 19;; p.
+BS  ggcccacacttcctcttac; R13569; 7; 19;; n.
+BS  acctctcacttcctccagc; R13570; 7; 19;; n.
+BS  nnnnncaagttcctgattt; R13573; 7; 19;; n.
+BS  ttcaagaagttcctttttt; R14490; 5; 19;; n.
+BS  AAAAGTCATTTCCTCTTAG; R14621; 1; 19;; p.
+BS  gttgttgttTTCCTCtttt; R15375; 4; 19;; p.
+BS  ccatttttcTTCCTCccac; R15376; 2; 19;; p.
+BS  tgtccgcacttcccctcca; R17016; -1; 19;; n.
+BS  TGTTTTCATTTCCTCATTG; R20291; 2; 19;; p.
+BS  nnnncccagttcctccatn; R20410; -1; 19;; n.
+BS  nnnncagacttcctgtttn; R20411; -1; 19;; n.
+BS  ctcccctgcttcctcattt; R20519; 2; 19;; n.
+BS  AAAAGCGACTTCCTCTTTC; R21097; 2; 19;; p.
+BS  AATACTCTTTTCCCCTTTC; R21108; -1; 19;; p.
+BS  tagaatcgcttcccctttt; R21112; 17; 19;; n.
+BS  atcctcttcttcccctttt; R21120; 8; 19;; n.
+BS  cccctttagttcctcaaaa; R21272; 27; 19;; n.
+BS  CTGCTCTGCTTCTCTTCCC; R22225; -2; 19;; p.
+BS  cacttgtacttctcgtttt; R22226; 2; 19;; n.
+BS  cagctttccttccggctga; R22548; -2; 19;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+XX
+//

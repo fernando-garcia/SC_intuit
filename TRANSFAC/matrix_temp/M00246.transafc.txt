@@ -1,0 +1,54 @@
+AC  M00246
+XX
+ID  V$EGR2_01
+XX
+DT  20.02.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Egr-2
+XX
+DE  Egr-2/Krox-20 early growth response gene product
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00807; V$EGR_Q6;  (family).
+HP  M00982; V$KROX_Q6;  (family).
+XX
+BF  T00242; Egr-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10400; Egr-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10590; Egr-2; Species: Mammalia; site(s) included: no.
+BF  T00454; Egr-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08340; Egr-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16556; Egr-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18895; Egr-2-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18896; Egr-2-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   31.8    9.1     25   34.1      N
+02    5.6    3.7    9.3   81.5      T
+03    3.8      0   96.3      0      G
+04    6.3     90      0    3.8      C
+05      0      0    100      0      G
+06      0      0      0    100      T
+07   37.5      0   62.5      0      R
+08      0      0    100      0      G
+09      0      0    100      0      G
+10      5   82.5      0   12.5      C
+11    1.3      0   97.5    1.3      G
+12    2.6    2.6   44.9     50      K
+XX
+BA  sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Egr-2 from a pool of double-stranded oligonucleotides containing a core of 21 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0003829.
+RX  PUBMED: 7891721.
+RA  Swirnoff A. H., Milbrandt J.
+RT  DNA-binding specificity of NGFI-A and related zinc finger transcription factors
+RL  Mol. Cell. Biol. 15:2275-2287 (1995).
+XX
+//

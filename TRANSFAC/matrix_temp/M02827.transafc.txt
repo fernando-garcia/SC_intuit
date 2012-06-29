@@ -1,0 +1,61 @@
+AC  M02827
+AS  PB0093
+XX
+ID  V$ZFP105_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  17.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Zfp105
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T16846; Zfp105; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T22730; Zfp105; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     36     18     15     31      N
+02     42     13     22     22      N
+03     16     42      5     36      Y
+04     72     12      6     10      A
+05     88      3      3      6      A
+06     56     15      3     26      A
+07     27     40      3     30      N
+08     94      1      3      1      A
+09     90      1      4      6      A
+10     31     52      6     12      M
+11     88      3      5      4      A
+12     71      5      4     20      A
+13     25     13     32     31      N
+14     43     18     18     21      N
+15     34     10     36     21      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; original data from UniPROBE
+XX
+DR  JASPAR: PB0093.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0068294.
+RX  PUBMED: 19443739.
+RA  Badis G., Berger M. F., Philippakis A. A., Talukder S., Gehrke A. R., Jaeger S. A., Chan E. T., Metzler G., Vedenko A., Chen X., Kuznetsov H., Wang C. F., Coburn D., Newburger D. E., Morris Q., Hughes T. R., Bulyk M. L.
+RT  Diversity and complexity in DNA recognition by transcription factors.
+RL  Science 324:1720-1723 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

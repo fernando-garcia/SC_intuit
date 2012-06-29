@@ -1,0 +1,52 @@
+AC  M01136
+XX
+ID  P$DOF_Q2
+XX
+DT  05.03.2007 (created); dtc.
+DT  13.03.2007 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Dof
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02690; Dof2; Species: maize, Zea mays; site(s) included: yes.
+BF  T15264; Dof2; Species: maize, Zea mays; site(s) included: yes.
+BF  T01059; MNB1a; Species: maize, Zea mays; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      2      2      1      N
+02      3      3      1      2      N
+03      6      0      2      1      A
+04      6      0      2      1      A
+05      9      0      0      0      A
+06      9      0      0      0      A
+07      9      0      0      0      A
+08      0      0      9      0      G
+09      3      1      2      3      N
+10      5      1      2      1      A
+11      3      2      3      1      N
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  agaaaaagtat; R08279; 1; 11;; n.
+BS  aaaaaaagtga; R08280; 1; 11;; n.
+BS  CCAAAAAGGAG; R08281; -2; 11;; p.
+BS  CCAAAAAGAAG; R08282; -2; 11;; p.
+BS  ttggaaaggcg; R08283; 1; 11;; n.
+BS  GTGTAAAGCTC; R10086; -1; 11;; p.
+BS  GAAGAAAGAAA; R10087; -1; 11;; p.
+BS  AAAAAAAGAGA; R10088; -1; 11;; p.
+BS  ACTAAAAGTAC; R10089; -2; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0049552.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel111:0001 (2007).
+XX
+//

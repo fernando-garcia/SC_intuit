@@ -1,0 +1,73 @@
+AC  M01600
+XX
+ID  F$ATF1PCR1_01
+XX
+DT  22.01.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  atf1:pcr1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T14036; atf1:pcr1; Species: fission yeast, Schizosaccharomyces pombe; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11      3      7      2      R
+02      8      9      3      3      N
+03     13      9      1      0      M
+04      7      2      2     13      W
+05     20      4      0      0      A
+06      0      0      0     24      T
+07      0      0     24      0      G
+08     24      0      0      0      A
+09      0     24      0      0      C
+10      0      0     24      0      G
+11      0      0      0     24      T
+12      7     17      0      0      C
+13     23      1      0      0      A
+14      2      2      4     16      T
+15      8      5      8      2      N
+16      2      7      7      5      N
+17      2      6      7      6      N
+18      4     12      2      2      C
+XX
+BA  24 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAAGATGACGTCATGGCT; R30179; 4; 18;; p.
+BS  GAGAATGACGTAAGAGCC; R30180; 10; 18;; p.
+BS  GAAAATGACGTCATATTC; R30181; 6; 18;; p.
+BS  ACCCATGACGTCATT; R30182; 15; 18; 30, 31, 32; p.
+BS  ACATCTGACGTAATGTGA; R30183; 8; 18;; p.
+BS  AACTATGACGTACAACTC; R30184; 4; 18;; p.
+BS  AAATCTGACGTAATCAAC; R30185; 9; 18;; p.
+BS  ATCTATGACGTCAGGATC; R30186; 2; 18;; p.
+BS     AATGACGTCATATGA; R30187; 1; 18; 1, 2, 3; p.
+BS  AGATCTGACGTAATGGCC; R30188; 10; 18;; p.
+BS  CCCTATGACGTCATGGGC; R30189; 8; 18;; p.
+BS  ACCAATGACGTCATACCC; R30190; 6; 18;; p.
+BS  AACTATGACGTCATGTGC; R30191; 10; 18;; p.
+BS  GGAGATGACGTCACGCTC; R30192; 3; 18;; p.
+BS  AGATATGACGTAATGCTA; R30193; 6; 18;; p.
+BS  TCACATGACGTCACACAC; R30194; 9; 18;; p.
+BS  ATAAATGACGTCATCCGG; R30195; 5; 18;; p.
+BS  GAATATGACGTAAGTTGC; R30198; 8; 18;; p.
+BS  CCAAATGACGTCATAGC; R30199; 15; 18; 32; p.
+BS  TCATCTGACGTCATA; R30200; 15; 18; 30, 31, 32; p.
+BS  GTCTATGACGTCAACCCG; R30201; 2; 18;; p.
+BS  ACAAATGACGTCATCGTA; R30204; 4; 18;; p.
+BS  GACTATGACGTCAG; R30207; 17; 18; 31, 32, 33, 34; p.
+BS  GCCTATGACGTCATCGGT; R30210; 11; 18;; p.
+XX
+CC  sequences selected with recombinant ATF:PCR1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0065595.
+RX  PUBMED: 15716492.
+RA  Steiner W. W., Smith G. R.
+RT  Optimizing the nucleotide sequence of a meiotic recombination hotspot in Schizosaccharomyces pombe.
+RL  Genetics 169:1973-1983 (2005).
+XX
+//

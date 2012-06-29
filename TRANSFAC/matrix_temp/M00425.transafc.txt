@@ -1,0 +1,46 @@
+AC  M00425
+XX
+ID  V$E2F_Q3
+XX
+DT  19.02.2001 (created); sth.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E2F
+XX
+DE  E2F
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00050; V$E2F_02; E2F (family).
+HP  M00803; V$E2F_Q2;  (family).
+HP  M00918; V$E2F_Q3_01;  (family).
+HP  M00919; V$E2F_Q4_01;  (family).
+HP  M00920; V$E2F_Q6_01;  (family).
+HP  M00939; V$E2F_Q4_02;  (family).
+XX
+BF  T00221; E2F:DP; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1      0      7      T
+02      0      0      0      9      T
+03      0      0      0      9      T
+04      0      6      3      0      C
+05      0      0      9      0      G
+06      0      9      0      0      C
+07      0      0      9      0      G
+08      0      7      2      0      C
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; binding sites in 6 genes; sites quality 3 or better
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

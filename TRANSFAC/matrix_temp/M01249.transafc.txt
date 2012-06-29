@@ -1,0 +1,50 @@
+AC  M01249
+XX
+ID  V$HIF2A_01
+XX
+DT  25.05.2009 (created); sla.
+DT  01.12.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HIF-2alpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05817; HIF2A; Species: cattle, Bos taurus; site(s) included: no.
+BF  T15531; HIF2A; Species: cattle, Bos taurus; site(s) included: no.
+BF  T02718; HIF2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10851; HIF2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15683; HIF2A; Species: Mammalia; site(s) included: no.
+BF  T02719; HIF2A; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15113; HIF2A; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08737; HIF2A; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08968; HIF2A; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     15     10     26      5      N
+02     13      6     15     22      N
+03     49      0      7      0      A
+04      0     56      0      0      C
+05      0      0     55      1      G
+06      0      0      0     56      T
+07      0      0     56      0      G
+08     12     30      5      9      C
+09     16     13      7     20      N
+10      8     14     17     17      N
+XX
+BA  56 sequences (ChIP-on-chip)
+XX
+RN  [1]; RE0063325.
+RX  PUBMED: 19386601.
+RA  Mole D. R., Blancher C., Copley R. R., Pollard P. J., Gleadle J. M., Ragoussis J., Ratcliffe P. J.
+RT  Genome-wide Association of Hypoxia-inducible Factor (HIF)-1{alpha} and HIF-2{alpha} DNA Binding with Expression Profiling of Hypoxia-inducible Transcripts.
+RL  J. Biol. Chem. 284:16767-16775 (2009).
+RN  [2]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+XX
+//

@@ -1,0 +1,57 @@
+AC  M02422
+AS  MA0303
+XX
+ID  F$GCN4_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCN4
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00321; GCN4; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+BF  T10854; GCN4; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    218    295    245    240      N
+02    371    217    268    142      N
+03    362    213    150    273      N
+04    282    119    325    272      N
+05    275    177    316    230      N
+06    169    140    365    325      N
+07    535     35    413     15      R
+08     11      8      6    973      T
+09      2      5    934     57      G
+10    968     13      4     13      A
+11      2    433    562      1      S
+12     13      4     13    968      T
+13     57    934      5      2      C
+14    973      6      8     11      A
+15     15    413     35    535      Y
+16    376    290    131    202      N
+17    207    354    194    244      N
+18    284    216    202    296      N
+19    226    234    177    361      N
+20    254    329    232    183      N
+21    337    169    195    297      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0303.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

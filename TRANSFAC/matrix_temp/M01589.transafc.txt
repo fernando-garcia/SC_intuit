@@ -1,0 +1,54 @@
+AC  M01589
+XX
+ID  V$ERR2_01
+XX
+DT  02.12.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ERR2 (ESRRB)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02766; ERR2; Species: human, Homo sapiens; site(s) included: no.
+BF  T14091; ERR2; Species: human, Homo sapiens; site(s) included: no.
+BF  T18503; ERR2; Species: Mammalia; site(s) included: yes.
+BF  T06175; ERR2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15122; ERR2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06176; ERR2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14587; ERR2; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     26    163     63    248      Y
+02     42    374     80      4      C
+03    454      6     39      1      A
+04    497      0      3      0      A
+05      2      0    498      0      G
+06      1      2    497      0      G
+07     12     10     15    463      T
+08      0    472     24      4      C
+09    483      2     14      1      A
+10     80    227    123     70      N
+11     83    200    169     48      N
+12     48    192    167     93      N
+XX
+BA  500 sequences (ChIP-on-chip)
+XX
+CC  confirmed by qPCR
+XX
+DR  JASPAR: MA0141.
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0063019.
+RX  PUBMED: 18555785.
+RA  Chen X., Xu H., Yuan P., Fang F., Huss M., Vega V. B., Wong E., Orlov Y. L., Zhang W., Jiang J., Loh Y. H., Yeo H. C., Yeo Z. X., Narang V., Govindarajan K. R., Leong B., Shahab A., Ruan Y., Bourque G., Sung W. K., Clarke N. D., Wei C. L., Ng H. H.
+RT  Integration of external signaling pathways with the core transcriptional network in embryonic stem cells.
+RL  Cell 133:1106-1117 (2008).
+XX
+//

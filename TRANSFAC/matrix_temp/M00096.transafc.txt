@@ -1,0 +1,67 @@
+AC  M00096
+XX
+ID  V$PBX1_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pbx-1
+XX
+DE  Pbx-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00998; V$PBX_Q3;  (family).
+XX
+BF  T06000; Pbx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09966; Pbx1; Species: Mammalia; site(s) included: no.
+BF  T08131; Pbx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08594; PBX1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01481; Pbx1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03451; Pbx1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02087; Pbx1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02088; Pbx1b; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     12      1      0      3      A
+02      3      4      1      8      T
+03      1      9      2      4      C
+04     13      1      0      2      A
+05     14      0      0      2      A
+06      2      0      0     14      T
+07      4     10      0      2      C
+08     14      0      1      1      A
+09     10      0      0      6      W
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATCAATCAA; R06396; 16; 9;; p.
+BS  ACTAATCAA; R06397; 15; 9;; p.
+BS  ATCAATCAA; R06398; 20; 9;; p.
+BS  TACAATCAA; R06399; 20; 9;; p.
+BS  ATTAATCAT; R06400; 15; 9;; p.
+BS  ATCAATTAT; R06401; 15; 9;; p.
+BS  ATGTATCAA; R06402; 20; 9;; p.
+BS  ACATATCAA; R06403; 20; 9;; p.
+BS  TGCAATAAT; R06404; 14; 9;; p.
+BS  ATCAATAAA; R06405; 8; 9;; p.
+BS  TATCATCAT; R06406; 9; 9;; p.
+BS  ATCATAATT; R06407; 12; 9;; p.
+BS  ATCATATGA; R06408; 12; 9;; p.
+BS  CCTAATCAA; R06409; 20; 9;; p.
+BS  ACCAATAAA; R06410; 15; 9;; p.
+BS  AAGAATCAT; R06411; 14; 9;; p.
+XX
+CC  sequences selected with recombinant Pbx-1 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0002974.
+RX  PUBMED: 8327485.
+RA  van Dijk M. A., Voorhoeve M., Murre C.
+RT  Pbx1 is converted into a transcriptional activator upon acquiring the N-terminal region of E2A in pre-B-cell acute lymphoblastoid leukemia
+RL  Proc. Natl. Acad. Sci. USA 90:6061-6065 (1993).
+XX
+//

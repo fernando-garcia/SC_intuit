@@ -1,0 +1,60 @@
+AC  M00290
+XX
+ID  V$FREAC2_01
+XX
+DT  18.06.1998 (created); tme.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Freac-2
+XX
+DE  Fork head RElated ACtivator-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00809; V$FOX_Q2;  (family).
+XX
+BF  T02465; FOXF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11110; FOXF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02514; FOXF2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11149; FOXF2; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      1     10      7      9      N
+02     10      7      5      5      N
+03     17      4      2      4      A
+04     13      5      5      4      N
+05      3     11      8      5      N
+06      7      0     20      0      G
+07      0      0      0     27      T
+08     27      0      0      0      A
+09     27      0      0      0      A
+10     27      0      0      0      A
+11      0     25      0      2      C
+12     27      0      0      0      A
+13     16      4      2      5      A
+14      7      4      6     10      N
+15      9     11      4      3      N
+16      6      9      7      5      N
+XX
+BA  27 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Freac-2 from a pool of double-stranded oligonucleotides containing a core of 32 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0030.
+XX
+RN  [1]; RE0047837.
+RX  PUBMED: 8533902.
+RA  Pierrou S., Enerback S., Carlsson P.
+RT  Selection of high-affinity binding sites for sequence-specific, DNA binding proteins from random sequence oligonucleotides.
+RL  Anal. Biochem. 229:99-105 (1995).
+RN  [2]; RE0006883.
+RX  PUBMED: 7957066.
+RA  Pierrou S., Hellqvist M., Samuelsson L., Enerbaeck S., Carlsson P.
+RT  Cloning and characterization of seven human forkhead proteins: binding site specificity and DNA bending
+RL  EMBO J. 13:5002-5012 (1994).
+XX
+//

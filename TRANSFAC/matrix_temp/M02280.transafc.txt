@@ -1,0 +1,59 @@
+AC  M02280
+AS  MA0099
+XX
+ID  V$AP1_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP1
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00172; V$AP1FJ_Q2; activator protein 1 (family).
+HP  M00517; V$AP1_01;  (family).
+HP  M00924; V$AP1_Q2_01;  (family).
+HP  M00925; V$AP1_Q6_01;  (family).
+HP  M00926; V$AP1_Q4_01;  (family).
+HP  M02280; V$AP1_02; class: Zipper-Type; family: Leucine Zipper (specific).
+HC  M00041; V$CREBP1CJUN_01; CRE-binding protein 1:c-Jun heterodimer (specific).
+HC  M02280; V$AP1_02; class: Zipper-Type; family: Leucine Zipper (specific).
+XX
+BF  T00123; c-Fos; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T08776; c-Fos; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T00133; c-Jun; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T08461; c-Jun; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0      1      0     17      T
+02      0      0     15      3      G
+03     16      2      0      0      A
+04      5     12      1      0      C
+05      3      0      1     14      T
+06      0     15      3      0      C
+07     16      0      1      1      A
+XX
+BA  18 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Dimer. Annotations from PAZAR C-JUN + JUN_RAT + JUN_MOUSE + JUN_HUMAN + FOS/JUN_HUMAN + FOS_HUMAN in the pleiades genes project (TF0000129, TF0000147, TF0000234, TF0000243, TF0000670, TF0000287)
+XX
+DR  JASPAR: MA0099.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

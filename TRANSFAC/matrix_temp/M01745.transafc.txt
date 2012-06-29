@@ -1,0 +1,46 @@
+AC  M01745
+XX
+ID  V$EBNA1_01
+XX
+DT  24.06.2010 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  EBNA-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00211; EBNA-1; Species: EBV, Epstein-Barr virus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0     70      0      G
+02     44      0     29      0      R
+03      7     14      0     52      T
+04     72      0      0      1      A
+05      3      0     70      0      G
+06      5     27     16     25      N
+07     43     17     11      2      A
+08     15     12      3     43      T
+09     28     13     28      4      R
+10      3     12      2     56      T
+11      9      7     57      0      G
+12      0     66      0      7      C
+13      0      0      0     73      T
+14     32      1     19     21      N
+15      0     61      0     12      C
+16      0     65      0      8      C
+XX
+BA  73 sequences (ChIP-on-chip)
+XX
+CC  used MEME for ChIP Motifs approach
+XX
+RN  [1]; RE0063788.
+RX  PUBMED: 19129441.
+RA  Dresang L. R., Vereide D. T., Sugden B.
+RT  Identifying sites bound by Epstein-Barr virus nuclear antigen 1 (EBNA1) in the human genome: defining a position-weighted matrix to predict sites bound by EBNA1 in viral genomes.
+RL  J. Virol. 83:2930-2940 (2009).
+XX
+//

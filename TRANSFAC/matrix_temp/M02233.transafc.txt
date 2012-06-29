@@ -1,0 +1,48 @@
+AC  M02233
+AS  MA0127
+XX
+ID  P$PEND_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PEND
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+P0      A      C      G      T
+01     30      2      8      2      A
+02      6     19      7     10      N
+03      1      0      2     39      T
+04      4      0      4     34      T
+05      3     33      2      4      C
+06      0      2      2     38      T
+07      2      0      1     39      T
+08     32      7      2      1      A
+09      4      3      0     35      T
+10      2      5     14     21      K
+XX
+BA  42 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0127.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0014522.
+RX  PUBMED: 9973626.
+RA  Mertin S., McDowall S. G., Harley V. R.
+RT  The DNA-binding specificity of SOX9 and other SOX proteins
+RL  Nucleic Acids Res. 27:1359-1364 (1999).
+XX
+//

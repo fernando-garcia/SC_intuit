@@ -1,0 +1,104 @@
+AC  M03216
+XX
+ID  V$GATA6_Q5
+XX
+DT  01.02.2012 (created); mkl.
+DT  02.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02684; GATA-6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02689; GATA-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14200; GATA-6; Species: Mammalia; site(s) included: yes.
+BF  T02686; GATA-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10208; GATA-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10222; GATA-6; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T10223; GATA-6; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T02717; GATA-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08541; GATA-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02714; GATA-6A; Species: clawed frog, Xenopus laevis; site(s) included: unknown.
+BF  T02715; GATA-6B; Species: clawed frog, Xenopus laevis; site(s) included: unknown.
+BF  T16251; GATA-6long; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T10207; GATA-6short; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     35      3      5     14      A
+02      1      0     56      0      G
+03     54      2      0      1      A
+04      0      0      1     56      T
+05     44      0      3     10      A
+06     39      3     13      2      A
+07     15     16     17      8      N
+XX
+BA  57 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGATTAC; R08290; 9; 7;; p.
+BS  TGATAAC; R13027; 10; 7;; p.
+BS  AGATAAG; R13046; 11; 7;; n.
+BS  TGATGAT; R13145; 9; 7;; p.
+BS  AGAGTAA; R13147; 10; 7;; n.
+BS  TGATAGG; R13156; 2; 7;; p.
+BS  GGATAAA; R13256; 8; 7;; n.
+BS  GGATAGG; R13257; 16; 7;; p.
+BS  AGATAAC; R14557; 7; 7;; p.
+BS  AGATAGC; R16086; 7; 7;; p.
+BS  AGATACC; R16353; 14; 7;; p.
+BS  AGATAAA; R20600; 3; 7;; n.
+BS  AGATAAC; R20913; 6; 7;; p.
+BS  AGATAAG; R21498; 13; 7;; p.
+BS  AGATTGT; R21667; 11; 7;; p.
+BS  TGATAAG; R22886; 8; 7;; p.
+BS  AGATTAC; R23663; 7; 7;; n.
+BS  AGATTAT; R23667; 8; 7;; n.
+BS  AGATAAA; R23668; 13; 7;; n.
+BS  TGATAAG; R23669; 8; 7;; p.
+BS  TGATAAA; R26543; 10; 7;; n.
+BS  GGATAGG; R26727; 64; 7;; p.
+BS  AGATAAn; R28521; 1; 7;; p.
+BS  AGATAAA; R28695; 24; 7;; n.
+BS  TGATACC; R28700; 5; 7;; n.
+BS  AGATAAc; R28728; 9; 7;; p.
+BS  GGATAGC; R29127; 10; 7;; p.
+BS  AGATAAG; R29129; 9; 7;; p.
+BS  TGATTAC; R29902; 12; 7;; n.
+BS  AGATAGC; R30320; 10; 7;; p.
+BS  AGATAAC; R31111; 8; 7;; p.
+BS  AGATAGA; R31112; 5; 7;; n.
+BS  GGATAGT; R31174; 20; 7;; n.
+BS  CGATATA; R31555; 28; 7;; p.
+BS  TGATACG; R31833; 25; 7;; p.
+BS  AGTTAAG; R31921; 32; 7;; p.
+BS  TGATAAA; R32079; 10; 7;; p.
+BS  AGATAAG; R32087; 12; 7;; p.
+BS  TGATAAA; R32088; 9; 7;; n.
+BS  AGATTAG; R32131; 19; 7;; n.
+BS  TGCTTAA; R32133; 10; 7;; p.
+BS  AGATAAA; R32194; 12; 7;; p.
+BS  AGATAGC; R32203; 9; 7;; p.
+BS  AGATAAA; R32237; 19; 7;; n.
+BS  TGATAAG; R33544; 10; 7;; n.
+BS  AGATTTG; R33832; 7; 7;; p.
+BS  AAATAAG; R33833; 15; 7;; p.
+BS  AGATAAC; R34947; 8; 7;; n.
+BS  AGATAAG; R34948; 10; 7;; p.
+BS  TGATAAT; R34950; 9; 7;; n.
+BS  AGATAAG; R35557; 9; 7;; p.
+BS  AGATGGT; R35558; 8; 7;; n.
+BS  CGATTGC; R36310; 12; 7;; p.
+BS  CGATAAT; R36312; 11; 7;; n.
+BS  AGATAAA; R36848; 18; 7;; p.
+BS  AGCTGGT; R37047; 11; 7;; p.
+BS  AGATAAA; R37324; 9; 7;; n.
+XX
+RN  [1]; RE0072507.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

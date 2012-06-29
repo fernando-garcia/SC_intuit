@@ -1,0 +1,52 @@
+AC  M01088
+XX
+ID  I$DEAF1_Q6
+XX
+DT  10.02.2006 (created); dtc.
+DT  24.02.2006 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DEAF1
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T08208; Deaf1; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      2      8      0      G
+02      0      6      0      4      Y
+03      0      3      4      3      B
+04      4      4      0      2      M
+05      0      0      3      7      T
+06      0      0      1      9      T
+07      0     10      0      0      C
+08      0      0     10      0      G
+09      0      0      7      3      G
+10      3      3      3      1      N
+11      2      1      2      5      T
+12      2      2      5      1      G
+XX
+BA  10 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCTCGTCGGAGA; R17226; 1; 12;; p.
+BS  GTGCTTCGTATC; R17227; 39; 12;; p.
+BS  GCCATTCGGCTG; R17228; -4; 12;; p.
+BS  CCTCTTCGGGTG; R17229; 10; 12;; p.
+BS  gcgctgcggccc; R17230; -7; 12;; n.
+BS  GTCAGTCGGCAG; R17231; 10; 12;; p.
+BS  CTTTTTCGTGGG; R17232; -2; 12;; p.
+BS  GCGTTTCGGAAT; R17233; -2; 12;; p.
+BS  gccagtcggttg; R17282; -1; 12;; n.
+BS  GTGATTCGTGTA; R17287; 24; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0047335.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel101:0001 (2006).
+XX
+//

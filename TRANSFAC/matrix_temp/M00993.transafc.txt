@@ -1,0 +1,52 @@
+AC  M00993
+XX
+ID  V$TAL1_Q6
+XX
+DT  14.05.2004 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TAL1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01800; Tal-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T19290; Tal-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01799; Tal-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16151; Tal-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01448; Tal1-PP22; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19289; Tal1-PP39; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00790; Tal1-PP42; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      1      2      T
+02      0      5      0      0      C
+03      0      5      0      0      C
+04      5      0      0      0      A
+05      0      1      2      2      K
+06      0      5      0      0      C
+07      0      0      0      5      T
+08      0      0      5      0      G
+09      1      2      1      1      N
+10      0      2      0      3      Y
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  NCCAGCTGGC; R00850; -1; 10;; p.
+BS  GCCAGCTGCT; R04158; 17; 10;; n.
+BS  TCCATCTGAT; R14467; 5; 10;; n.
+BS  ACCATCTGCC; R14468; 7; 10;; p.
+BS  TCCACCTGTT; R14484; 6; 10;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

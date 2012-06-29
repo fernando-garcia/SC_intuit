@@ -1,0 +1,54 @@
+AC  M00947
+XX
+ID  V$CP2_02
+XX
+DT  13.10.2003 (created); oke.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CP2/LBP-1c/LSF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T11264; CP2; Species: human, Homo sapiens; site(s) included: no.
+BF  T11462; CP2; Species: Mammalia; site(s) included: no.
+BF  T00152; CP2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08971; CP2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11455; CP2 isoform 2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00151; CP2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05680; CP2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19332; CP2-xbb2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16543; Tcfcp2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16544; Tcfcp2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      0     11      3      G
+02      0     17      2      0      C
+03      2      0      0     17      T
+04      0      0     17      2      G
+05      0      1     18      0      G
+06      2      3      6      8      N
+07      1      2      1     15      T
+08      4      6      2      7      N
+09      2      3     10      4      G
+10      6      6      4      3      N
+11      5      1      9      4      N
+12      0     17      2      0      C
+13      1      6      2     10      Y
+14      5      1      8      5      N
+15      0      5     14      0      G
+XX
+BA  19 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites in 11 genes
+XX
+RN  [1]; RE0017867.
+RX  PUBMED: 11673232.
+RA  Frith M. C., Hansen U., Weng Z.
+RT  Detection of cis-element clusters in higher eukaryotic DNA
+RL  Bioinformatics 17:878-889 (2001).
+XX
+//

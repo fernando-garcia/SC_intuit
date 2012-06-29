@@ -1,0 +1,64 @@
+AC  M03132
+AS  PL0014
+XX
+ID  N$MXL1MDL1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  20.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  mxl-1:mdl-1
+XX
+DE  class: Zipper-type; family: Helix-Loop-Helix; heterodimer
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T22774; mdl-1; Species: Caenorhabditis elegans; site(s) included: yes.
+BF  T22775; mdl-1; Species: Caenorhabditis elegans; site(s) included: yes.
+BF  T22772; mxl-1; Species: Caenorhabditis elegans; site(s) included: yes.
+BF  T22773; mxl-1; Species: Caenorhabditis elegans; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     16     22     15     45      N
+02     30     18     23     27      N
+03     28     11     27     33      N
+04     45     12     23     17      N
+05      7     42     42      7      S
+06      0     98      0      0      C
+07     98      0      0      1      A
+08      0     96      0      3      C
+09      2      0     97      0      G
+10      0      1      0     98      T
+11      0      0     98      0      G
+12     10     42     41      5      S
+13     11     19     32     36      N
+14     45     18     18     17      N
+15     32     19     17     30      N
+16     19     29     25     25      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PL0014.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071486.
+RX  PUBMED: 19632181.
+RA  Grove C. A., De Masi F., Barrasa M. I., Newburger D. E., Alkema M. J., Bulyk M. L., Walhout A. J.
+RT  A multiparameter network reveals extensive divergence between C. elegans bHLH transcription factors.
+RL  Cell 138:314-327 (2009).
+RN  [3]; RE0071558.
+RX  PUBMED: 18842628.
+RA  Newburger D. E., Bulyk M. L.
+RT  UniPROBE: an online database of protein binding microarray data on protein-DNA interactions.
+RL  Nucleic Acids Res. 37:D77-82 (2009).
+XX
+//

@@ -1,0 +1,106 @@
+AC  M00249
+XX
+ID  V$CHOP_01
+XX
+DT  25.09.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CHOP:C/EBPalpha
+XX
+DE  heterodimers of CHOP and C/EBPalpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T01388; C/EBP; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00107; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09178; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00105; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08465; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08664; C/EBPalpha; Species: Mammalia; site(s) included: no.
+BF  T00104; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08464; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00108; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08574; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02359; C/EBPalpha(p20); Species: mouse, Mus musculus; site(s) included: no.
+BF  T02026; C/EBPalpha(p30); Species: mouse, Mus musculus; site(s) included: no.
+BF  T02027; C/EBPalpha(p30); Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01387; CHOP-10; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00299; CHOP-10; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: yes.
+BF  T00127; CHOP-10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06555; CHOP-10; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     14      7     12      6      N
+02     11      7     14      7      N
+03     18      3     15      3      R
+04      0      1      0     38      T
+05      0      0     38      1      G
+06      4     33      0      2      C
+07     38      1      0      0      A
+08     36      2      1      0      A
+09      0      6      0     33      T
+10     14     17      5      3      M
+11      4     23      9      3      C
+12      0     26      6      7      C
+13      1     27      4      7      C
+XX
+BA  39 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GTGTGCAATCCTC; R07681; 7; 13;; p.
+BS  GAGTGCAATCGGT; R07682; 7; 13;; p.
+BS  ATATGCAGTGGGG; R07683; 7; 13;; p.
+BS  AAATGCAATCGCC; R07684; 7; 13;; p.
+BS  CAATGCAATACCC; R07685; 7; 13;; p.
+BS  GGGTGCAATTATG; R07686; 7; 13;; p.
+BS  TTGTGCAACACCC; R07687; 7; 13;; p.
+BS  CAGTGCAATACCC; R07688; 7; 13;; p.
+BS  GGTTGCAATACCT; R07689; 7; 13;; p.
+BS  TAGTGCAATCGTG; R07690; 7; 13;; p.
+BS  ACATGCAATCCCC; R07691; 7; 13;; p.
+BS  GCGTGCAATCGTG; R07692; 7; 13;; p.
+BS  AGGTGCAATAGCC; R07693; 7; 13;; p.
+BS  TAATGCAATGTGC; R07694; 7; 13;; p.
+BS  TAATGCAATGTGC; R07695; 7; 13;; p.
+BS  ACATGCAATCGCC; R07696; 7; 13;; p.
+BS  CCATGAAATACCC; R07697; 6; 13;; p.
+BS  AATTGCAATCCCC; R07698; 7; 13;; p.
+BS  TGATGTAACACCC; R07699; 7; 13;; p.
+BS  CAATGCAATACCC; R07700; 7; 13;; p.
+BS  CTGTGCAATCCCC; R07701; 7; 13;; p.
+BS  AGACGCAATACCC; R07702; 7; 13;; p.
+BS  AGCTGCAATACCC; R07703; 7; 13;; p.
+BS  AGGTGCAATACCC; R07704; 7; 13;; p.
+BS  GGGTGCAATCGCC; R07705; 7; 13;; p.
+BS  GACTGCAACTTCT; R07706; 7; 13;; p.
+BS  TCATGCAACCCCC; R07707; 7; 13;; p.
+BS  GTATGCAACTACT; R07708; 7; 13;; p.
+BS  CGATGAAATCACC; R07709; 6; 13;; p.
+BS  AGTTGCACTGATC; R07710; 7; 13;; p.
+BS  GAATGCAATCCCC; R07711; 7; 13;; p.
+BS  AGATTTCCTGCGT; R07712; 7; 13;; p.
+BS  CCGTGCAATACCT; R07713; 7; 13;; p.
+BS  ATGTGCAATCCGC; R07714; 7; 13;; p.
+BS  GGCTGCAACCCCC; R07715; 7; 13;; p.
+BS  AGGTGCAATCGTT; R07716; 7; 13;; p.
+BS  ACATGAAATACCC; R07717; 7; 13;; p.
+BS  GTGTGCAATCCTA; R07718; 7; 13;; p.
+BS  GGATGAAATACCC; R07719; 7; 13;; p.
+XX
+CC  sequences selected with recombinant CHOP:C/EBPalpha from a pool of double-stranded oligonucleotides containing a core of 13 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0019.
+XX
+RN  [1]; RE0004472.
+RX  PUBMED: 8657121.
+RA  Ubeda M., Wang X.-Z., Zinszner H., Wu I., Habener J. F., Ron D.
+RT  Stress-induced binding of the transcription factor CHOP to a novel DNA control element
+RL  Mol. Cell. Biol. 16:1479-1489 (1996).
+XX
+//

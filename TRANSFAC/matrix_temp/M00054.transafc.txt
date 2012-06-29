@@ -1,0 +1,110 @@
+AC  M00054
+XX
+ID  V$NFKAPPAB_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-kappaB
+XX
+DE  NF-kappaB
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00774; V$NFKB_Q6_01;  (family).
+XX
+BF  T00590; NF-kappaB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00588; NF-kappaB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00587; NF-kappaB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00593; NF-kappaB1-p50; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09631; p65 delta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18297; Rel-A-p65; Species: horse, Equus caballus; site(s) included: yes.
+BF  T10521; RelA-p65; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T10522; RelA-p65; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00594; RelA-p65; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08711; RelA-p65; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10397; RelA-p65; Species: Mammalia; site(s) included: no.
+BF  T14321; RelA-p65; Species: Mammalia; site(s) included: no.
+BF  T00595; RelA-p65; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09106; RelA-p65; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16108; RelA-p65; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T05016; RelA-p65; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09559; RelA-p65; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19314; RelA-p65 delta 2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01523; RelA-p65delta; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0     40      0      G
+02      0      0     40      0      G
+03      1      0     39      0      G
+04     27      0     13      0      A
+05     21     13      1      5      M
+06      8      1      3     28      T
+07      1      2      2     35      T
+08      2     18      0     20      Y
+09      3     36      0      1      C
+10      0     38      0      2      C
+XX
+BA  40 sequences (compiled matrix imported from literature reference)
+XX
+BS  GGGACTTTCC; R05893; 1; 10;; p.
+BS  GGGGATTTCC; R05894; 1; 10;; p.
+BS  GGGGTTTCCC; R05895; 1; 10;; p.
+BS  GGGAATCTCC; R05896; 1; 10;; p.
+BS  GGGAGATTCC; R05897; 1; 10;; p.
+BS  GGGGATTCCC; R05898; 1; 10;; p.
+BS  GGGGAAGCCC; R05899; 1; 10;; p.
+BS  GGGACTTCCC; R05900; 1; 10;; p.
+BS  GGGAATTTCC; R05901; 1; 10;; p.
+BS  GGGACTTTCC; R05902; 1; 10;; p.
+BS  GGGGATTTCC; R05903; 1; 10;; p.
+BS  GGGATTTCAC; R05904; 1; 10;; p.
+BS  GGGATTTTCC; R05905; 1; 10;; p.
+BS  GGAATTTCCT; R05906; 1; 10;; p.
+BS  GGGAACTACC; R05907; 1; 10;; p.
+BS  GGGGAATCTC; R05908; 1; 10;; p.
+BS  GGGAAATCAC; R05909; 1; 10;; p.
+BS  GGGGCTTTCC; R05910; 1; 10;; p.
+BS  GGGAATTCAC; R05911; 1; 10;; p.
+BS  GGGGAATCCT; R05912; 1; 10;; p.
+BS  GGGGCTGCCC; R05913; 1; 10;; p.
+BS  GGGAATTTCC; R05914; 1; 10;; p.
+BS  GGGGCTTCCC; R05915; 1; 10;; p.
+BS  GGGAAATTCC; R05916; 1; 10;; p.
+BS  GGGACGTCCC; R05917; 1; 10;; p.
+BS  GGGACTTTCC; R05918; 1; 10;; p.
+BS  GGGATTTCCC; R05919; 1; 10;; p.
+BS  GGGAATCCCC; R05920; 1; 10;; p.
+BS  GGGAAGTCCC; R05921; 1; 10;; p.
+BS  GGGAAAACCC; R05922; 1; 10;; p.
+BS  GGGACTTTCC; R05923; 1; 10;; p.
+BS  GGGACTTTCC; R05924; 1; 10;; p.
+BS  GGGAAGTACC; R05925; 1; 10;; p.
+BS  GGGACTTTCC; R05926; 1; 10;; p.
+BS  GGGGATTTCC; R05927; 1; 10;; p.
+BS  GGGACTTTCC; R05928; 1; 10;; p.
+BS  GGGAATTTCC; R05929; 1; 10;; p.
+BS  GGGGCTTTCC; R05930; 1; 10;; p.
+BS  GGGAATTTCC; R05931; 1; 10;; p.
+BS  GGGGAATCCC; R05932; 1; 10;; p.
+XX
+CC  binding sites from 30 genes (26 cellular genes and 4 viral genomes)
+XX
+DR  JASPAR: MA0061.
+XX
+RN  [1]; RE0004441.
+RX  PUBMED: 8449662.
+RA  Grilli M., Chiu J. J.-S., Lenardo M. J.
+RT  NF-kappaB and Rel: Participants in a multiform transcriptional regulatory system
+RL  Int. Rev. Cytol. 143:1-62 (1993).
+RN  [2]; RE0000973.
+RX  PUBMED: 1985897.
+RA  Zabel U., Schreck R., Baeuerle P. A.
+RT  DNA binding of purified transcription factor NF-kappaB
+RL  J. Biol. Chem. 266:252-260 (1991).
+XX
+//

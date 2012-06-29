@@ -1,0 +1,148 @@
+AC  M01881
+XX
+ID  V$IRF1_Q6_01
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRF-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00772; V$IRF_Q6;  (family).
+HP  M00972; V$IRF_Q6_01;  (family).
+XX
+BF  T15667; IRF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T15668; IRF-1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T05092; IRF-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00423; IRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09323; IRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14816; IRF-1; Species: Mammalia; site(s) included: yes.
+BF  T00422; IRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09319; IRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00424; IRF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15745; IRF-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15782; IRF-1; Species: sheep, Ovis aries; site(s) included: no.
+BF  T15783; IRF-1; Species: sheep, Ovis aries; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     19     36     10     23      N
+02     39     13     24     13      N
+03     19     30     23     17      N
+04      0      0      0     89      T
+05      0      0      1     88      T
+06      0      1      2     86      T
+07      0     88      1      0      C
+08     59      9      2     19      A
+09      8     40     26     14      N
+10      7      9      4     68      T
+11      5      6      8     69      T
+12     10     12      8     58      T
+13      9     39     10     30      Y
+14     16     28     20     24      N
+XX
+BA  89 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCCACTTTCCATTT; R00915; 6; 14;; n.
+BS  CCCACTTTCACTTC; R00927; 3; 14;; n.
+BS  TTCACTTTCCCTTT; R00950; 7; 14;; p.
+BS  CACAGTTTCACTTC; R01061; 3; 14;; p.
+BS  CTCAGTTTCACTTC; R01066; -4; 14;; p.
+BS  nnnACTTTCAGTTT; R02897; -3; 14;; p.
+BS  TTCCATTTCTnnnn; R03126; -4; 14;; n.
+BS  TTCATTTTCCTTTC; R05075; 8; 14;; n.
+BS  GGAATTTTCCATTA; R08128; 3; 14;; n.
+BS  TTCCCTTTCTTTTC; R12710; 6; 14;; p.
+BS  TCAGTTTTCTTAGC; R12726; 10; 14;; p.
+BS  CTTGTTTTCTGTTT; R12764; 3; 14;; n.
+BS  TCCCCTTTCATTTT; R12766; -5; 14;; p.
+BS  TTCACTTTCTTTCT; R13380; 5; 14;; n.
+BS  TTCACTTTCTGTCT; R13576; 6; 14;; n.
+BS  TCAGTTTTCTTTTC; R14432; 7; 14;; p.
+BS  TCTCTTTTCACTTT; R14440; 14; 14;; n.
+BS  CCCACTTTCACTTC; R14454; 17; 14;; n.
+BS  GTCAGTTTCTACTT; R14488; -3; 14;; p.
+BS  GCTAATTTCTCTGG; R14492; 27; 14;; n.
+BS  TTCACTTTCCCAGA; R14776; -1; 14;; n.
+BS  TTAAGTTTCTATTT; R14801; 15; 14;; n.
+BS  TGTACTTTCATTTT; R19521; 3; 14;; n.
+BS  ATCACTTTCACTTC; R19537; 9; 14;; p.
+BS  TTTGGTTTCTGTTT; R19544; 4; 14;; p.
+BS  TGCACTTTCACTTT; R19611; 12; 14;; p.
+BS  TTTACTTTCACTTT; R20267; 4; 14;; p.
+BS  TTCACTTTCAGGCT; R20268; 13; 14;; p.
+BS  AGAATTTTCTCTTT; R21425; 10; 14;; n.
+BS  CAGACTTTCTATTT; R22184; 7; 14;; n.
+BS  CTTACTTTCTCTTT; R22214; 7; 14;; n.
+BS  TTCGCTTTCCGAGA; R22253; 2; 14;; n.
+BS  ATCACTTTCACTTC; R23922; 9; 14;; p.
+BS  TTCACTTTCATAAT; R24506; 13; 14;; p.
+BS  CTGGTTTTCAGTTT; R24718; 10; 14;; n.
+BS  TTCATTTTCGCTTC; R25033; 2; 14;; n.
+BS  TTCACTTTCTGTCC; R25627; 8; 14;; n.
+BS  TCAGTTTTCTTTTC; R25792; 11; 14;; p.
+BS  AGAATTTTCCTTTT; R25835; 22; 14;; n.
+BS  TTCGCTTTCATTTT; R25968; 12; 14;; p.
+BS  TTAGTTTTCAATTT; R26274; 8; 14;; n.
+BS  TTTGGTTTCAGTTT; R26294; 4; 14;; p.
+BS  TTCAGTTTCTAGTT; R26398; 10; 14;; n.
+BS  TTCAGTTTCATTTA; R26496; 6; 14;; n.
+BS  TTCACTTTCATAAT; R26675; 13; 14;; p.
+BS  TTCACTTTCCGTCC; R26722; 4; 14;; n.
+BS  TTCAGTTTCGGTTT; R26723; 18; 14;; n.
+BS  TTCATTTTCGCTTC; R26765; 1; 14;; n.
+BS  TTGTCTTTCACTTT; R26784; 15; 14;; n.
+BS  TTCGCTTTCGCCTT; R26785; 9; 14;; n.
+BS  GGAGGTTTCTGTTT; R26796; 2; 14;; p.
+BS  CAGATTGTCAGTCA; R26805; 11; 14;; n.
+BS  TTCATTTTCCTATT; R26810; 7; 14;; p.
+BS  TTTGCTTTGCATAG; R26812; 1; 14;; n.
+BS  AGGACTTTCCCAGG; R26816; 25; 14;; n.
+BS  TTTAGTTTTGGTTT; R26819; 4; 14;; n.
+BS  GGTACTTTCAGTTT; R26820; 6; 14;; n.
+BS  TGTACTTTCAGTTT; R26823; 14; 14;; n.
+BS  TCGGCTTTCGGTTT; R26844; 5; 14;; n.
+BS  TCGGCTTTCGGTTT; R26845; 5; 14;; n.
+BS  CAAAATTTCCGTTT; R26854; 10; 14;; p.
+BS  TTCAGTTTCGGTTT; R26880; 10; 14;; n.
+BS  TCAGTTTTCGTTTT; R26911; 9; 14;; p.
+BS  TTAAGTTTCAGTTA; R26915; 8; 14;; p.
+BS  AGGACTTGCAGATC; R26941; 16; 14;; p.
+BS  TTCACTTTCATAAT; R26972; 7; 14;; p.
+BS  AAATGTTTCAGGCA; R27021; 18; 14;; p.
+BS  TTTACTTTCAGTTT; R27050; 4; 14;; p.
+BS  TTCGCTTTCCCCTA; R27105; -3; 14;; n.
+BS  TTCGCTTTCCCCTA; R27117; -3; 14;; n.
+BS  TTTGATTTCTCTTC; R27162; 11; 14;; p.
+BS  CACACTTTCAATTT; R27163; 14; 14;; n.
+BS  TCCTGTTTCTTTTT; R27166; 17; 14;; p.
+BS  GGGAATTCCACTGG; R28294; 10; 14;; n.
+BS  catAGTTTCTGTTT; R29679; 1; 14;; p.
+BS  GAAACTTTCTGCGA; R29808; 9; 14;; p.
+BS  TTCTATTTCTGTCA; R30079; 15; 14;; n.
+BS  nntaaTTTCACTTC; R30511; 14; 14;; n.
+BS  TTCAGTTTCTCTTT; R30648; 4; 14;; p.
+BS  TACCTTTTCACTTT; R30649; 9; 14;; p.
+BS  ATCAGTTTCTCTTT; R30651; 5; 14;; p.
+BS  TGTGTTTTCACTTT; R30654; 5; 14;; p.
+BS  AGTACTTTCAGTTT; R30687; 16; 14;; p.
+BS  GAGGGTTTCAATTC; R30991; 4; 14;; n.
+BS  GTAGCTTTCACTTT; R31539; 10; 14;; n.
+BS  TTAACTTTCTATTT; R32398; 1; 14;; p.
+BS  ccaaCTTTCATTTT; R33049; 4; 14;; p.
+BS  nngaGTTTCTGTTT; R33052; 24; 14;; n.
+BS  CTCACTTCCTCTTG; R34137; 4; 14;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00747; V$IRF1_Q6.
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

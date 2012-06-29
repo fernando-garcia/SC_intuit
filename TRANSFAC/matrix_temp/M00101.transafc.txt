@@ -1,0 +1,41 @@
+AC  M00101
+XX
+ID  V$CDXA_02
+XX
+DT  24.04.1995 (created); hiwi.
+DT  19.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CdxA
+XX
+DE  CdxA
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00991; V$CDX_Q5;  (family).
+XX
+BF  T01484; Cdx-1; Species: chick, Gallus gallus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     20      3      3     10      A
+02     16      0      2     18      W
+03      9      0      0     27      T
+04     17      0      2     17      W
+05     22     14      0      0      M
+06      2      7      3     24      T
+07     17      0     16      3      R
+XX
+BA  36 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with  bacterially expressed GST-CdxA fusion protein containing a core of 20 random nucleotides; 4 rounds of selection and amplification; expanded with chicken genomic DNA fragments
+XX
+RN  [1]; RE0002971.
+RX  PUBMED: 7909943.
+RA  Margalit Y., Yarus S., Shapira E., Gruenbaum Y., Fainsod A.
+RT  Isolation and characterization of target sequences of the chicken CdxA homeobox gene
+RL  Nucleic Acids Res. 21:4915-4922 (1993).
+XX
+//

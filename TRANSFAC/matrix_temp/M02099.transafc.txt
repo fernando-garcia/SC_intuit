@@ -1,0 +1,136 @@
+AC  M02099
+XX
+ID  V$MITF_Q6
+XX
+DT  24.10.2011 (created); mkl.
+DT  25.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MITF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01029; V$TFE_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T06080; MITF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T11054; MITF; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T01553; MITF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13873; MITF; Species: Mammalia; site(s) included: yes.
+BF  T01554; MITF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06415; MITF; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14058; MITF; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T19067; MITF-A; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19060; MITF-A1; Species: human, Homo sapiens; site(s) included: no.
+BF  T19068; MITF-A1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19064; MITF-A2; Species: human, Homo sapiens; site(s) included: no.
+BF  T19066; MITF-A2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19062; MITF-B1; Species: human, Homo sapiens; site(s) included: no.
+BF  T19063; MITF-B2; Species: human, Homo sapiens; site(s) included: no.
+BF  T19061; MITF-C1; Species: human, Homo sapiens; site(s) included: no.
+BF  T19059; MITF-C2; Species: human, Homo sapiens; site(s) included: no.
+BF  T19065; MITF-H; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19057; MITF-H1; Species: human, Homo sapiens; site(s) included: no.
+BF  T19069; MITF-H1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19058; MITF-H2; Species: human, Homo sapiens; site(s) included: no.
+BF  T19070; MITF-H2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19071; MITF-H3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09287; MITF-M; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10289; MITF-M1; Species: human, Homo sapiens; site(s) included: no.
+BF  T19072; MITF-M1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19056; MITF-M2; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0     72      0      0      C
+02     71      1      0      0      A
+03      5      8     10     49      T
+04      3      7     60      2      G
+05      0      0      1     71      T
+06      0      0     72      0      G
+07     34     21      9      7      M
+XX
+BA  72 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CACGTGT; R15371; 11; 7;; p.
+BS  CATGTGA; R15372; 14; 7;; p.
+BS  CATGTGg; R15373; 9; 7;; n.
+BS  CATGTGa; R15374; 9; 7;; n.
+BS  CATGTGA; R15381; 6; 7;; n.
+BS  CATGTGA; R15386; 6; 7;; p.
+BS  CATGTGA; R15387; 6; 7;; n.
+BS  CACGTGA; R15417; 8; 7;; n.
+BS  CATGTGC; R15421; 13; 7;; p.
+BS  CATGTGC; R15422; 10; 7;; p.
+BS  CATGTGA; R15424; 15; 7;; p.
+BS  CAAGTGT; R15425; 8; 7;; p.
+BS  CATGTGC; R15430; 10; 7;; p.
+BS  CATGTGA; R15438; 12; 7;; p.
+BS  CATGTGA; R15440; 7; 7;; p.
+BS  CATGTGC; R15441; 9; 7;; p.
+BS  CATGTGC; R15442; 9; 7;; p.
+BS  CATGTGC; R15486; 11; 7;; p.
+BS  CATGTGT; R15497; 12; 7;; n.
+BS  CATGTGC; R15500; 2; 7;; n.
+BS  CATGTGG; R15501; 14; 7;; p.
+BS  CATGTGA; R15509; 2; 7;; n.
+BS  CATGTGC; R15757; 14; 7;; p.
+BS  CATGTGA; R15758; 10; 7;; p.
+BS  CATGTGa; R15760; 38; 7;; n.
+BS  CAAGTGA; R16093; 6; 7;; n.
+BS  CCTGTGG; R16094; 9; 7;; p.
+BS  CATCTGG; R16095; 10; 7;; p.
+BS  CATGTGT; R16096; 9; 7;; n.
+BS  CAGGTGC; R16099; 6; 7;; n.
+BS  CATCTGC; R16108; 48; 7;; p.
+BS  CATGTGG; R16110; 9; 7;; n.
+BS  CATATGT; R16111; 10; 7;; p.
+BS  CATGTGG; R21435; 14; 7;; p.
+BS  CATGTGC; R22871; 9; 7;; p.
+BS  CACGTGC; R22872; 10; 7;; p.
+BS  CAGGTGa; R22933; 16; 7;; p.
+BS  CACGTGA; R22945; 25; 7;; n.
+BS  CATGTGC; R22953; 12; 7;; p.
+BS  CAAGTGA; R22957; 10; 7;; n.
+BS  CATCTGA; R22968; 10; 7;; n.
+BS  CACGTGG; R22969; 8; 7;; n.
+BS  CATTTGG; R22970; 18; 7;; p.
+BS  CATGTGA; R22971; 7; 7;; n.
+BS  CAGGTGT; R22972; 14; 7;; p.
+BS  CAGGTGc; R22975; 8; 7;; n.
+BS  CATGgga; R22997; 13; 7;; p.
+BS  CATGTGc; R23004; 14; 7;; n.
+BS  CATGTGc; R23005; 9; 7;; n.
+BS  CACGTGN; R23808; 11; 7;; p.
+BS  CATGTGA; R24221; 13; 7;; n.
+BS  CAAGTGA; R24228; 8; 7;; p.
+BS  CATGTGT; R24240; 9; 7;; n.
+BS  CACGTGA; R24241; 10; 7;; n.
+BS  CACGTGA; R24242; 12; 7;; n.
+BS  CAGCTGC; R24246; 2; 7;; p.
+BS  CAGGTGC; R24275; 8; 7;; p.
+BS  CATGTGA; R24285; 27; 7;; n.
+BS  CATATGA; R24486; -2; 7;; p.
+BS  CATATGA; R24487; 10; 7;; p.
+BS  CATGTGA; R24491; 13; 7;; p.
+BS  CATTTGA; R27387; 1; 7;; p.
+BS  CAGCTGA; R27388; 1; 7;; n.
+BS  CAACTGA; R27390; 1; 7;; n.
+BS  CATGTGa; R30051; 12; 7;; n.
+BS  CATGTGc; R30052; 9; 7;; n.
+BS  CATCTGA; R34289; -1; 7;; n.
+BS  CAGGTGC; R34642; 11; 7;; n.
+BS  CAGGTGG; R34644; 11; 7;; n.
+BS  CATGTGA; R36620; 35; 7;; n.
+BS  CATGTGa; R36621; 9; 7;; n.
+BS  CAGGTGc; R36622; 11; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

@@ -1,0 +1,40 @@
+AC  M01799
+XX
+ID  P$AMS_01
+XX
+DT  07.09.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AMS
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T14421; AMS; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      6      0      3      M
+02      0      3      5      5      K
+03      1     12      0      0      C
+04     12      0      1      0      A
+05      0      1      6      6      K
+06      2      1      6      4      K
+07      0      0      1     12      T
+08      0      0     12      1      G
+09      1      2      5      5      K
+10      0     10      2      1      C
+XX
+BA  13 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AMS from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0065791.
+RX  PUBMED: 20118226.
+RA  Xu J., Yang C., Yuan Z., Zhang D., Gondwe M. Y., Ding Z., Liang W., Zhang D. B., Wilson Z. A.
+RT  The ABORTED MICROSPORES Regulatory Network Is Required for Postmeiotic Male Reproductive Development in Arabidopsis thaliana.
+RL  Plant Cell 22:91-107 (2010).
+XX
+//

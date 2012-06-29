@@ -1,0 +1,182 @@
+AC  M00983
+XX
+ID  V$MAF_Q6_01
+XX
+DT  13.02.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MAF
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00035; V$VMAF_01; v-Maf (specific).
+HC  M00037; V$NFE2_01; NF-E2 p45 (specific).
+HC  M00284; V$TCF11MAFG_01; TCF11:MafG heterodimers (specific).
+HC  M00285; V$TCF11_01; TCF11/KCR-F1/Nrf1 homodimers (specific).
+HC  M00490; V$BACH2_01; BTB and CNC homolog 2 (specific).
+HC  M00495; V$BACH1_01; BTB and CNC homolog 1 (specific).
+HC  M00648; V$MAF_Q6;  (specific).
+HC  M00821; V$NRF2_Q4; heterodimer containing Nrf2 (specific).
+HC  M01070; V$CMAF_01;  (specific).
+HC  M01227; V$MAFB_01; MAFB (specific).
+HC  M01228; V$CMAF_02; C-MAF (specific).
+HC  M02022; V$MAFK_Q3;  (specific).
+HC  M02104; V$NFE2_Q6;  (specific).
+HC  M02263; V$NFE2L2_01; class: Zipper-Type; family: Leucine Zipper (specific).
+HC  M02775; V$MAFB_05; class: Zipper-Type; family: Leucine Zipper (specific).
+HC  M02776; V$MAFK_03; class: Zipper-Type; family: Leucine Zipper (specific).
+HC  M02879; V$MAFB_03; class: Zipper-Type; family: Leucine Zipper  (specific).
+HC  M02880; V$MAFK_04; class: Zipper-Type; family: Leucine Zipper (specific).
+XX
+BF  T04791; Bach1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09252; Bach1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16600; Bach1; Species: Mammalia; site(s) included: no.
+BF  T04793; Bach1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10676; Bach1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16601; Bach1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05584; Bach1:MafK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04798; Bach1t; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04795; bach2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09643; bach2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04792; bach2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10673; bach2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16602; Bach2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02201; c-MAF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05749; c-MAF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18005; c-MAF; Species: Mammalia; site(s) included: yes.
+BF  T01432; c-MAF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09212; c-MAF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05753; c-MAF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14842; c-MAF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09648; c-MAF-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19051; c-MAF-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01431; c-MAF-LONG; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T11433; c-MAF-SHORT; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01433; MafB; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09239; MafB; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05748; MafB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09646; MafB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02202; MafB; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T13783; MafB; Species: Mammalia; site(s) included: no.
+BF  T01439; MafB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09217; MafB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05754; MafB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10769; MafB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01436; MafF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05747; MafF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05751; MafF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01437; MafG; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09243; MafG; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04870; MafG; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09572; MafG; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13731; MafG; Species: Mammalia; site(s) included: no.
+BF  T05750; MafG; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10145; MafG; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05752; MafG; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14765; MafG; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05727; MafG:MafG; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01434; MafK; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09241; MafK; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04874; MafK; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09555; MafK; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13884; MafK; Species: Mammalia; site(s) included: no.
+BF  T01435; MafK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10674; MafK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05675; MafK; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T13883; MafK; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01463; mammary activating factor; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01141; NF-E2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00558; NF-E2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00557; NF-E2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01440; NF-E2 p45; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01441; NF-E2 p45; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10187; NF-E2 p45; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16529; NF-E2 p45; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16530; NF-E2 p45; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09484; NF-E2p45; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09066; Nfe2l1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13729; Nfe2l1; Species: Mammalia; site(s) included: no.
+BF  T02203; Nfe2l1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T13761; Nfe2l1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19117; Nfe2l1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01442; Nfe2l1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05728; Nfe2l1-isoform2:MafG; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05712; Nfe2l1-isoform2:MafK; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09558; Nfe2l1-long; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T13800; Nfe2l1-short; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01599; Nfe2l1-xbb1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01598; Nrf2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10871; Nrf2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01443; Nrf2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10925; Nrf2; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T13730; Nrf2; Species: Mammalia; site(s) included: no.
+BF  T04938; Nrf2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08469; Nrf2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05668; Nrf2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09645; Nrf2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10935; Nrf2-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10936; Nrf2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09244; Nrf2-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05729; Nrf2:MafG; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05713; Nrf2:MafK; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05576; Nrf2:MafK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05666; Nrf2:MafK; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05709; Nrf3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05710; Nrf3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05714; Nrf3:MafK; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01430; v-Maf; Species: AS42, avian musculoaponeurotic fibrosarcoma virus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      4      5     13      N
+02      3      5     16      2      G
+03      4     15      2      5      C
+04      4      0      6     16      T
+05      1      2     22      1      G
+06     20      0      2      4      A
+07      1      0     21      4      G
+08      1      1      5     19      T
+09      0     21      4      1      C
+10     26      0      0      0      A
+11      6      2      8     10      N
+XX
+BA  26 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGCTGAGTCAC; R01249; 1; 11;; n.
+BS  AGGGCAGCCAG; R01250; 8; 11;; n.
+BS  GGCAGGGGCAG; R01251; 1; 11;; n.
+BS  CCAAGAAGGAA; R01595; 5; 11;; p.
+BS  GCATGAGTCAG; R01946; 12; 11;; n.
+BS  TGCTGAGTCAT; R02420; -1; 11;; p.
+BS  GCATGAGTCAT; R02887; 2; 11;; n.
+BS  CACTGAGTCAT; R03439; 10; 11;; n.
+BS  TGCTGAGTCAT; R03440; 5; 11;; p.
+BS  TATTGGGGGAA; R04188; -5; 11;; p.
+BS  GATGGAGGGAA; R04192; -1; 11;; p.
+BS  TGTGGAGGGAA; R04193; -1; 11;; p.
+BS  TGCTGAGTCAA; R04288; -1; 11;; n.
+BS  ATGGGTTATAG; R04293; -6; 11;; p.
+BS  AGCTGAGTCAT; R11185; 10; 11;; n.
+BS  TGCTGAGTCAT; R11187; 1; 11;; p.
+BS  CGCTGAGTCAT; R13440; 9; 11;; p.
+BS  TGCTGAGTCAA; R13461; 9; 11;; p.
+BS  AGAGATGTCAT; R13577; 4; 11;; p.
+BS  TCCAGATTCAG; R13578; 2; 11;; p.
+BS  TGTTGAGTCAG; R13579; 2; 11;; p.
+BS  TGCTGATTCAT; R13587; 7; 11;; p.
+BS  GCCACAGTCAG; R13588; 8; 11;; p.
+BS  TGCTTTGTCAT; R13590; 5; 11;; n.
+BS  TGCTGAGTCAC; R14173; 5; 11;; p.
+BS  CTTGGTTTCAG; C00162,  s00259; -7; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; including 1 TRANSCompel site
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

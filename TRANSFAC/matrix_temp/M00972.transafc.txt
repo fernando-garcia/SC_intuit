@@ -1,0 +1,161 @@
+AC  M00972
+XX
+ID  V$IRF_Q6_01
+XX
+DT  13.02.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IRF
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00062; V$IRF1_01; interferon regulatory factor 1 (specific).
+HC  M00063; V$IRF2_01; interferon regulatory factor 2 (specific).
+HC  M00258; V$ISRE_01; interferon-stimulated response element (specific).
+HC  M00453; V$IRF7_01; interferon regulatory factor 7 (specific).
+HC  M00699; V$ICSBP_Q6;  (specific).
+HC  M00747; V$IRF1_Q6;  (specific).
+HC  M01279; V$IRF3_Q3;  (specific).
+HC  M01665; V$IRF8_Q6;  (specific).
+HC  M01881; V$IRF1_Q6_01;  (specific).
+HC  M01882; V$IRF2_Q6;  (specific).
+HC  M01883; V$IRF4_Q6;  (specific).
+HC  M01884; V$IRF7_Q3;  (specific).
+HC  M02767; V$IRF3_05; class: Winged Helix-Turn-Helix; family: IRF (specific).
+HC  M02768; V$IRF4_03; class: Winged Helix-Turn-Helix; family: IRF (specific).
+HC  M02769; V$IRF5_03; class: Winged Helix-Turn-Helix; family: IRF (specific).
+HC  M02771; V$ISGF3G_03; class: Winged Helix-Turn-Helix; family: IRF (specific).
+HC  M02871; V$IRF3_06; class: Winged Helix-Turn-Helix; family: IRF (specific).
+HC  M02872; V$IRF4_04; class: Winged Helix-Turn-Helix; family: IRF (specific).
+HC  M02873; V$IRF5_04; class: Winged Helix-Turn-Helix; family: IRF (specific).
+HC  M02875; V$ISGF4G_04; class: Winged Helix-Turn-Helix; family: IRF (specific).
+XX
+BF  T15667; IRF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T15668; IRF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T05092; IRF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00423; IRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09323; IRF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14816; IRF-1; Species: Mammalia; site(s) included: no.
+BF  T00422; IRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09319; IRF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00424; IRF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15745; IRF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15782; IRF-1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T15783; IRF-1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T05154; IRF-10; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05091; IRF-2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01491; IRF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09324; IRF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14446; IRF-2; Species: Mammalia; site(s) included: no.
+BF  T00425; IRF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09325; IRF-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16541; IRF-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16542; IRF-2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15784; IRF-2; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T15785; IRF-2; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T01571; IRF-3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04673; IRF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09548; IRF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17460; IRF-3; Species: Mammalia; site(s) included: no.
+BF  T05128; IRF-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T13877; IRF-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04929; IRF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10395; IRF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01412; IRF-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09278; IRF-4-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05104; IRF-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15288; IRF-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05103; IRF-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09436; IRF-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15866; IRF-5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09395; IRF-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18466; IRF-7; Species: Mammalia; site(s) included: yes.
+BF  T05144; IRF-7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09407; IRF-7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04674; IRF-7A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05919; IRF-7B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05106; IRF-7H; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02037; IRF-8; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16635; IRF-8; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02038; IRF-8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10394; IRF-8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14840; IRF-8; Species: Mammalia; site(s) included: no.
+BF  T00402; IRF-8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09384; IRF-8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16636; IRF-8; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16637; IRF-8; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01456; IRF-9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10396; IRF-9; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05096; IRF-9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14841; IRF-9; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00428; ISGF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02530; ISGF-3; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     16      1     18      1      R
+02     23      0      9      4      A
+03     36      0      0      0      A
+04     36      0      0      0      A
+05      6      9     17      4      N
+06      8      3      4     21      T
+07      1      0     35      0      G
+08     35      0      1      0      A
+09     32      2      0      2      A
+10     31      1      0      4      A
+11      7     11     12      6      N
+XX
+BA  36 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAAAATGAAAC; R00001; 3; 11;; p.
+BS  GAAATAGAAAC; R00003; 3; 11;; p.
+BS  GGAAACGAAAC; R00163; 4; 11;; p.
+BS  GAAACAGAAAC; R00423; 5; 11;; n.
+BS  GAAATGGAAAG; R00915; 5; 11;; p.
+BS  AGAAGTGAAAG; R00917; -2; 11;; p.
+BS  GAAAGTGAAAC; R00950; 5; 11;; n.
+BS  AGAAGTGAAAC; R01051; 8; 11;; n.
+BS  AGAAGTGAAAC; R01061; 7; 11;; n.
+BS  GAAACTGAAAA; R01094; 10; 11;; p.
+BS  GAAAGTGAAAC; R02402; 3; 11;; n.
+BS  GAAAAGGAACA; R08127; 2; 11;; n.
+BS  ATAATGGAAAA; R08128; 2; 11;; p.
+BS  GGAAGAGATTG; R12710; -2; 11;; n.
+BS  AAAACTGAAAG; R12726; 7; 11;; n.
+BS  TGAAGCGAAAG; R12732; 12; 11;; n.
+BS  AAAACAGAAAA; R12764; 2; 11;; p.
+BS  AAAAATGAAAG; R12766; -1; 11;; n.
+BS  CAAAGTGACTG; R13011; -2; 11;; p.
+BS  GGAAGTGATTT; R13141; -2; 11;; p.
+BS  GAAAGTGAAAG; R13380; 10; 11;; p.
+BS  GTAACGAAAAT; R13438; 3; 11;; p.
+BS  ATAAAAGAAAA; R13560; 4; 11;; p.
+BS  GAAAGTGAAAG; R13576; 11; 11;; p.
+BS  AAAAGAGAATT; R14440; 20; 11;; p.
+BS  AGAAGTGAAAC; C00060,  s00094; 2; 11;; n.
+BS  AGAAGTGAAAC; C00250,  s00423; -5; 11;; p.
+BS  GAAAGCGGCAA; C00260,  s00438; -6; 11;; n.
+BS  AAAACTGAAAC; C00300,  s00523; 2; 11;; n.
+BS  GAAATAGAAAG; C00332,  s00581; 2; 11;; n.
+BS  AAAACTGAAAG; C00333,  s00582; 2; 11;; p.
+BS  AAAACTGAAAT; C00334,  s00583; -6; 11;; n.
+BS  GAAACTGAAAT; C00336,  s00586; -5; 11;; n.
+BS  AAAAGTGAAAG; C00337,  s00588; 9; 11;; n.
+BS  GAAAGTGAAAT; C00339,  s00591; 2; 11;; n.
+BS  ATAAAAGAAAA; C00386,  s00673; -5; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; including 11 TRANSCompel sites
+XX
+RN  [1]; RE0024406.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 4:0003 (2004).
+RN  [2]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

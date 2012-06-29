@@ -1,0 +1,78 @@
+AC  M01017
+XX
+ID  V$PBX1_03
+XX
+DT  27.08.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pbx-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00998; V$PBX_Q3;  (family).
+XX
+BF  T06000; Pbx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09966; Pbx1; Species: Mammalia; site(s) included: no.
+BF  T08131; Pbx1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08594; PBX1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     10      9      7      4      N
+02      5     12      6      7      N
+03     22      4      3      1      A
+04      1      3      0     26      T
+05      2     28      0      0      C
+06     22      7      0      1      A
+07     24      1      3      2      A
+08      6      4      3     17      T
+09      0     21      4      5      C
+10     20      2      5      3      A
+11      9      5      7      9      N
+12      8      7      8      7      N
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CCATCAATCATC; R15382; 10; 12;; p.
+BS  AGATCAATCATT; R15383; 8; 12;; p.
+BS  ACATCAATCAAA; R15384; 9; 12;; p.
+BS  CTATCAATCAAA; R15385; 8; 12;; p.
+BS  AAATCCATCATG; R15388; 19; 12;; p.
+BS  GGATCAAGCAGC; R15389; 13; 12;; p.
+BS  ACGTCAATCAGC; R15390; 8; 12;; p.
+BS  GCACCAATCAAT; R15391; 6; 12;; p.
+BS  CGATCAAACGGG; R15392; 14; 12;; p.
+BS  CCATCATCCAAT; R15393; 15; 12;; p.
+BS  CCATCCGTCAAT; R15394; 8; 12;; p.
+BS  GTCTCCATCATG; R15395; 19; 12;; p.
+BS  TCATCAATGTGT; R15396; 13; 12;; p.
+BS  ACACCCATCATG; R15397; 19; 12;; p.
+BS  ACATCAAACGGA; R15398; 14; 12;; p.
+BS  CCATCAAAGAAG; R15399; 13; 12;; p.
+BS  TTGTCAACCATC; R15400; 19; 12;; p.
+BS  GAATACATCAAA; R15401; 11; 12;; p.
+BS  GAATACATCATC; R15402; 9; 12;; p.
+BS  GGAACAATGACG; R15403; 8; 12;; p.
+BS  ATCTCAAATAAC; R15404; 11; 12;; p.
+BS  ATATCCGTCCCG; R15405; 9; 12;; p.
+BS  CCCCCAATGACA; R15406; 7; 12;; p.
+BS  GGATCTTCCAGA; R15407; 12; 12;; p.
+BS  ATGTCAGTCGTA; R15408; 4; 12;; p.
+BS  CGATCAAGTTCT; R15409; 12; 12;; p.
+BS  TAATCAAGTGCC; R15410; 13; 12;; p.
+BS  CACTCAAACGTG; R15411; 7; 12;; p.
+BS  TTTTCAACTTGA; R15412; 15; 12;; p.
+BS  ACATCACATCAT; R15413; 13; 12;; p.
+XX
+CC  sequences selected with recombinant Pbx-1 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0024570.
+RX  PUBMED: 8183558.
+RA  LeBrun D. P., Cleary M. L.
+RT  Fusion with E2A alters the transcriptional properties of the homeodomain protein PBX1 in t(1;19) leukemias.
+RL  Oncogene 9:1641-1647 (1994).
+XX
+//

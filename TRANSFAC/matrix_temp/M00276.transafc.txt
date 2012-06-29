@@ -1,0 +1,42 @@
+AC  M00276
+XX
+ID  F$MAT1MC_02
+XX
+DT  17.02.1998 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Mat1-Mc
+XX
+DE  M-box interacting with Mat1-Mc
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01275; mat1-Mc; Species: fission yeast, Schizosaccharomyces pombe; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      4      0      6      Y
+02      0      7      0      3      C
+03      2      4      1      3      N
+04      9      0      0      1      A
+05      1      0      0      9      T
+06      0      0      0     10      T
+07      0      0     10      0      G
+08      0      0      0     10      T
+09      1      3      0      6      T
+10      3      0      2      5      W
+XX
+BA  10 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites from 6 genes with TR-boxes revealed adjacent M-box elements which do bind STE11 only weakly, but strongly interact with Mat1-Mc
+XX
+RN  [1]; RE0006527.
+RX  PUBMED: 9233811.
+RA  Kjaerulff S., Dooijes D., Clevers H., Nielsen O.
+RT  Cell differentiation by interaction of two HMG-box proteins: Mat1-Mc activates M cell-specific genes in S. pombe by recruiting the ubiquitous transcription factor Ste11 to weak binding sites
+RL  EMBO J. 16:4021-4033 (1997).
+XX
+//

@@ -1,0 +1,72 @@
+AC  M00209
+XX
+ID  V$NFY_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-Y
+XX
+DE  NF-Y  binding site
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00287; V$NFY_01; nuclear factor Y (Y-box binding factor) (specific).
+HC  M00687; V$ALPHACP1_01;  (specific).
+HC  M02106; V$NFYA_Q5;  (specific).
+XX
+BF  T00150; NF-Y; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00613; NF-Y; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00084; NF-Y; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10773; NF-YA; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T16563; NF-YA; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T01804; NF-YA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08563; NF-YA; Species: Mammalia; site(s) included: no.
+BF  T10585; NF-YA; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T09472; NF-YA; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00088; NF-YA; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10234; NF-YA; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16079; NF-YA; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T08679; NF-YA isoform-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00615; NF-YA isoform-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10326; NF-YA isoform-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T09471; NF-YA isoform-2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16995; NF-YB; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T05216; NF-YB; Species: chick, Gallus gallus; site(s) included: no.
+BF  T05215; NF-YB; Species: clawed frog, Xenopus; site(s) included: no.
+BF  T16566; NF-YB; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T19636; NF-YB; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00154; NF-YB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08680; NF-YB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08564; NF-YB; Species: Mammalia; site(s) included: no.
+BF  T10586; NF-YB; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T00616; NF-YB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09316; NF-YB; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00087; NF-YB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08967; NF-YB; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   1.87   1.76   0.90   2.54      N
+02   0.00   4.46   0.91   1.70      C
+03   0.00   0.00   0.00   7.07      T
+04   0.00   0.00   7.07   0.00      G
+05   7.07   0.00   0.00   0.00      A
+06   0.00   0.00   0.00   7.07      T
+07   0.00   0.00   0.00   7.07      T
+08   0.00   0.00   7.07   0.00      G
+09   0.00   0.00   7.07   0.00      G
+10   0.00   3.50   0.00   3.56      Y
+11   0.85   0.91   0.00   5.31      T
+12   4.42   0.00   0.85   0.00      A
+13   1.70   2.65   2.72   0.00      S
+14   1.70   1.81   0.00   3.56      Y
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: <0.01, total weight of sequences: 7.07)
+XX
+//

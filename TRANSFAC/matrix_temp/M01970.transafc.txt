@@ -1,0 +1,40 @@
+AC  M01970
+XX
+ID  F$XBP1_03
+XX
+DT  17.05.2011 (created); smt.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  XBP1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03707; XBP1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      5     21      4      G
+02      7     15      9      6      N
+03      2     29      5      1      C
+04      0      0      0     37      T
+05      0     35      1      1      C
+06      0      0     37      0      G
+07     31      0      6      0      A
+08     15      1     19      2      R
+09      5      5     27      0      G
+10     15     18      2      2      M
+XX
+BA  37 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant XBP1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0015024.
+RX  PUBMED: 9343412.
+RA  Mai B., Breeden L.
+RT  Xbp1, a stress-induced transcriptional repressor of the Saccharomyces cerevisiae Swi4/Mbp1 family
+RL  Mol. Cell. Biol. 17:6491-6501 (1997).
+XX
+//

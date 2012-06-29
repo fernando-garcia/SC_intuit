@@ -1,0 +1,169 @@
+AC  M01870
+XX
+ID  V$CETS1_Q6
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C-ets-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00340; V$ETS_B; c-Ets-2 binding sites (family).
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T15679; c-Ets-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00112; c-Ets-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08495; c-Ets-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10873; c-Ets-1; Species: Mammalia; site(s) included: yes.
+BF  T00111; c-Ets-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08420; c-Ets-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T21821; c-Ets-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T21822; c-Ets-1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T05015; c-Ets-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09318; c-Ets-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00114; c-Ets-1 54; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T10243; c-Ets-1 54; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02040; c-Ets-1A; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14971; c-Ets-1A; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T02123; c-Ets-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14972; c-Ets-1B; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T01400; Ets-1 deltaVII; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     72     31      6      3      A
+02      1      1    110      0      G
+03      2      1    108      1      G
+04    111      0      1      0      A
+05     89      3      5     15      A
+06     13     11     83      5      G
+07     15     23     18     54      N
+XX
+BA  112 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGGAAAT; R01269; 4; 7;; n.
+BS  AGGAAGT; R03475; 10; 7;; p.
+BS  AGGATGT; R04450; 35; 7;; n.
+BS  AGGAAGn; R08152; 3; 7;; p.
+BS  AGGAAGC; R08168; 7; 7;; p.
+BS  AGGATGT; R08269; 10; 7;; n.
+BS  AGGAAGT; R12032; 13; 7;; n.
+BS  AGGAAAT; R12538; 11; 7;; p.
+BS  AGGATGT; R12728; 8; 7;; p.
+BS  AGGAAGA; R13246; 3; 7;; n.
+BS  AGGAAGC; R13247; 8; 7;; n.
+BS  CGGAAGC; R14156; 9; 7;; p.
+BS  AGGAACG; R14429; 4; 7;; p.
+BS  AGGAAGG; R14492; 51; 7;; n.
+BS  CGGAGGT; R14537; 8; 7;; p.
+BS  CGGAAAA; R14623; 2; 7;; n.
+BS  AGGAAGT; R14624; 6; 7;; p.
+BS  AGGAAGC; R14625; 3; 7;; n.
+BS  TGGAAAG; R14707; 5; 7;; n.
+BS  AAGAAAT; R14790; 22; 7;; n.
+BS  AGGAAGT; R14800; 15; 7;; p.
+BS  CGGAAAT; R14803; 9; 7;; p.
+BS  CGGAAGC; R16699; 17; 7;; n.
+BS  AGGAAGT; R16924; 11; 7;; p.
+BS  AGGAAGC; R16960; 10; 7;; p.
+BS  AGGAAGT; R17036; 19; 7;; p.
+BS  AGGATGT; R18125; 5; 7;; p.
+BS  ACAAAGA; R18127; 7; 7;; p.
+BS  ACAAAGn; R18128; 2; 7;; p.
+BS  AAGACGT; R18130; 12; 7;; p.
+BS  AGGAAgt; R18140; 26; 7;; p.
+BS  AGGAAGT; R18141; 26; 7;; p.
+BS  AGGAAGT; R18142; 26; 7;; p.
+BS  agGACCA; R18143; 23; 7;; p.
+BS  AGGAAgt; R18144; 30; 7;; p.
+BS  CGGAGGC; R19142; 7; 7;; n.
+BS  CGGACGC; R19143; 10; 7;; p.
+BS  AGGATGT; R19534; 12; 7;; n.
+BS  AGGAAGG; R19554; 14; 7;; n.
+BS  CGGAAGC; R19595; 2; 7;; n.
+BS  CGGAAGA; R19663; 15; 7;; p.
+BS  CGGAAGT; R19681; 14; 7;; n.
+BS  CGGAATG; R19694; 9; 7;; n.
+BS  AGGAAGT; R20307; 8; 7;; n.
+BS  CGGAAGT; R20309; 2; 7;; p.
+BS  CGGAAAT; R20631; 9; 7;; p.
+BS  CGGAAGT; R20708; 12; 7;; p.
+BS  AGGAAAT; R20709; 5; 7;; n.
+BS  AGGAAAT; R20847; 15; 7;; n.
+BS  AGGAAGG; R21313; 21; 7;; n.
+BS  AGGAAGG; R22329; 14; 7;; p.
+BS  CGGAAGT; R23151; 15; 7;; n.
+BS  AGGAAGT; R23182; 10; 7;; p.
+BS  CGGAAGT; R23196; 6; 7;; p.
+BS  GGGAATT; R23482; 6; 7;; p.
+BS  AGGAAGT; R24059; 16; 7;; p.
+BS  AGGAAGT; R24064; 9; 7;; p.
+BS  CGGAAGC; R24836; 12; 7;; p.
+BS  AGGAACA; R25331; 16; 7;; p.
+BS  AGGAAAG; R25460; 8; 7;; p.
+BS  GGGAAGC; R25463; 9; 7;; n.
+BS  CGGAttc; R25496; 3; 7;; p.
+BS  GGGAAGT; R25504; 12; 7;; n.
+BS  AGGAAGT; R25511; 7; 7;; n.
+BS  CGGAAGC; R25528; 8; 7;; n.
+BS  CGGATGC; R25529; 9; 7;; p.
+BS  cGGAAgt; R25595; 8; 7;; n.
+BS  CGGAGCC; R25618; -1; 7;; n.
+BS  CGCAAGC; R25788; 3; 7;; p.
+BS  AGGATGC; R25841; 8; 7;; p.
+BS  AGGAACC; R25983; 11; 7;; n.
+BS  CGGAAGG; R25987; 16; 7;; p.
+BS  GGGAAGG; R25994; 12; 7;; n.
+BS  AGGAAAT; R26155; 14; 7;; n.
+BS  AGGAAGT; R26190; 4; 7;; n.
+BS  AGGATGC; R26234; 63; 7;; p.
+BS  GGGATTC; R26320; 11; 7;; p.
+BS  AGGAAGA; R26367; 17; 7;; p.
+BS  AGGAAGT; R26370; 9; 7;; n.
+BS  GGGAAGT; R26371; 5; 7;; n.
+BS  CGGATGA; R26372; 7; 7;; n.
+BS  AGGAAGG; R26373; 2; 7;; n.
+BS  CGGATGC; R26374; 6; 7;; n.
+BS  CGGAAGA; R26375; 6; 7;; n.
+BS  AGGAACA; R26510; 14; 7;; p.
+BS  AGGAAGT; R26519; 1; 7;; p.
+BS  AGGAAGA; R26588; 9; 7;; p.
+BS  AGGATGA; R26594; 7; 7;; p.
+BS  AGGAACT; R26595; 10; 7;; p.
+BS  AGGAAGT; R26598; 5; 7;; n.
+BS  TGGAAGT; R26599; 18; 7;; p.
+BS  AGGAAGT; R26667; 11; 7;; p.
+BS  AGGAAGA; R26717; 8; 7;; p.
+BS  AGGAACT; R27187; 21; 7;; p.
+BS  aGGAAGG; R28164; 2; 7;; p.
+BS  AGGAACG; R28557; 8; 7;; n.
+BS  AGGAAGT; R28630; 11; 7;; p.
+BS  AGGAGGG; R28632; 11; 7;; p.
+BS  CGGAAGA; R29725; 9; 7;; p.
+BS  AGGATGT; R29739; 8; 7;; n.
+BS  CGGATGT; R29978; 3; 7;; n.
+BS  AGGAAGC; R31008; 9; 7;; p.
+BS  AGGAAGT; R31068; 33; 7;; p.
+BS  AGGAAAA; R31223; 7; 7;; p.
+BS  AGGAGGC; R32609; 6; 7;; n.
+BS  CGGAAAT; R32677; 7; 7;; n.
+BS  AGGAAAT; R32684; 7; 7;; n.
+BS  AGGGGGG; R32706; 19; 7;; p.
+BS  aGGAAgg; R33313; 16; 7;; n.
+BS  AGGAAga; R33546; 9; 7;; n.
+BS  AGGAAGT; R34248; 11; 7;; p.
+BS  CGGAAGT; R34298; 12; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

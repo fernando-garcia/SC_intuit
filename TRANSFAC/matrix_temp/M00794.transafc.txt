@@ -1,0 +1,86 @@
+AC  M00794
+XX
+ID  V$TTF1_Q6
+XX
+DT  08.03.2003 (created); dtc.
+DT  11.12.2008 (updated); spi.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TTF-1 (Nkx2-1)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05372; TFF-1; Species: baboon, Papio hamadryas; site(s) included: yes.
+BF  T01518; TFF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02098; TFF-1; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T17198; TFF-1; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04271; TTF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15523; TTF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00857; TTF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10505; TTF-1; Species: Mammalia; site(s) included: no.
+BF  T00859; TTF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10215; TTF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00856; TTF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10209; TTF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10206; TTF-1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18720; TTF-1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8     15      4      4      N
+02      9     12      4      6      N
+03      2     15      8      6      N
+04      6      8      3     14      N
+05      1     27      2      1      C
+06     30      0      0      1      A
+07     24      0      7      0      A
+08      1      0     30      0      G
+09     11      4      5     11      N
+10      8      4     16      3      R
+11      5      9      9      8      N
+12      5     11      5     10      N
+XX
+BA  31 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TACTCAAGTATT; R01879; 3; 12;; p.
+BS  GACTCAAGTAGA; R01880; 4; 12;; p.
+BS  CAGTCAAGTGTT; R01882; 3; 12;; p.
+BS  AACAAAGGTGCC; R04318; 9; 12;; n.
+BS  CTGCCAAGTGCT; R04320; 3; 12;; n.
+BS  GCACCTGGAGGG; R04657; 2; 12;; p.
+BS  ATCACAAGATGA; R05014; 5; 12;; n.
+BS  TCTCCAGGACAA; R12975; 19; 12;; p.
+BS  AAGTGAAGTGGC; R12977; 6; 12;; p.
+BS  AGGGCAAGCCCT; R13138; 2; 12;; n.
+BS  CTCTCAAGAGCA; R13139; 14; 12;; p.
+BS  TGCTCAAGAGTA; R13140; 6; 12;; p.
+BS  CCCCCAAGGCCC; R13143; 9; 12;; n.
+BS  CCCTCAAGGTTC; R13152; 7; 12;; p.
+BS  CTCTGAAGGAAC; R13155; 9; 12;; p.
+BS  GACTCAAGTAGG; R13174; 9; 12;; p.
+BS  CCCTCAAGGGTC; R13190; 7; 12;; p.
+BS  CCCTCAAGGGTC; R13192; 7; 12;; p.
+BS  GTCCTAAGTGTT; R13193; -1; 12;; p.
+BS  ACTACAAAACCT; R13194; 1; 12;; n.
+BS  CGGGCAGGAAGC; R13198; -1; 12;; n.
+BS  CCCACAAGAGGT; R13201; 4; 12;; n.
+BS  TATTCAGGCAGT; R13203; -4; 12;; n.
+BS  CTTCCAAGAGAG; R13204; -3; 12;; p.
+BS  AAGTCAAGCACT; R13205; -3; 12;; n.
+BS  ACTCCAGGTTCC; R13206; -5; 12;; n.
+BS  CCTTCAGGAATC; R13207; -4; 12;; n.
+BS  CCCACAAGAGGT; R13210; 4; 12;; n.
+BS  AAACCAAGTGAC; R13231; 9; 12;; p.
+BS  CCGGCAAGCGAG; R13250; 7; 12;; n.
+BS  CGGACAAGTGCG; R13251; 7; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

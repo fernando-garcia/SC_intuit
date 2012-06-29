@@ -1,0 +1,47 @@
+AC  M01090
+XX
+ID  I$MAD_Q6
+XX
+DT  10.02.2006 (created); dtc.
+DT  24.02.2006 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MAD
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T04378; Mad; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1      5      2      G
+02      4      5      0      0      M
+03      0      0      9      0      G
+04      6      0      3      0      A
+05      0      9      0      0      C
+06      3      0      6      0      G
+07      3      3      3      0      V
+08      2      3      2      2      N
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TAGACGAC; R17894; 4; 8;; p.
+BS  CCGACGCA; R17895; 4; 8;; p.
+BS  GAGACAGT; R17899; 15; 8;; p.
+BS  TAGACGGG; R17901; 12; 8;; p.
+BS  GCGGCGCT; R17903; 5; 8;; p.
+BS  gcgacaac; R17904; 4; 8;; n.
+BS  acggcgag; R17905; 1; 8;; n.
+BS  gagacaga; R17906; 19; 8;; n.
+BS  GCGGCGCC; R17912; 5; 8;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0047335.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel101:0001 (2006).
+XX
+//

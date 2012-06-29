@@ -1,0 +1,49 @@
+AC  M01824
+XX
+ID  F$MAC1_Q6_01
+XX
+DT  08.02.2011 (created); mkl.
+DT  08.02.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MAC1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01265; MAC1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0      9      T
+02      0      0      0      9      T
+03      0      0      0      9      T
+04      0      0      9      0      G
+05      0      8      0      0      C
+06      0      0      2      6      T
+07      0      8      0      0      C
+08      4      0      0      0      A
+09      2      1      0      0      M
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTGCTCAC; R12354; 4; 9;; p.
+BS  tttgctcnn; R12355; -2; 9;; n.
+BS  TTTGCTCAA; R12356; 5; 9;; p.
+BS  TTTGCTCnn; R12357; 1; 9;; p.
+BS  TTTGCTCnn; R12358; 1; 9;; p.
+BS  tttgctcnn; R12359; -2; 9;; n.
+BS  tttgcgcan; R12365; -1; 9;; n.
+BS  TTTGCGCAA; R12366; 1; 9;; p.
+BS  TTTGnnnnn; R12368; 6; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M01715; F$MAC1_Q6.
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

@@ -1,0 +1,57 @@
+AC  M01801
+XX
+ID  V$ERALPHA_01
+XX
+DT  13.09.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ER-alpha
+XX
+DE  2 ERE half-sites with a 3bp spacer within
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00959; V$ER_Q6_02; half-site matrix, half-ERE (family).
+XX
+BF  T00262; ER-alpha; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00264; ER-alpha; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00263; ER-alpha; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T17320; ER-alpha; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T00261; ER-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09637; ER-alpha; Species: Mammalia; site(s) included: no.
+BF  T00259; ER-alpha; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05703; ER-alpha; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T00258; ER-alpha; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    495     20    104     27      A
+02     47      6    542     51      G
+03     27     58    539     22      G
+04     32     34     46    534      T
+05     11    516     22     97      C
+06    521     21     78     26      A
+07     85    346    126     89      C
+08    224     94    124    204      N
+09     81    126    362     77      G
+10     27     44     21    554      T
+11     65     25    541     15      G
+12    542     59     19     26      A
+13     24    519     83     20      C
+14     40    565      6     35      C
+15     41    118     23    464      T
+XX
+BA  646 sequences (ChIP-on-chip)
+XX
+CC  ER-alpha binding motif defined from ChIP-on-chip experiment in MCF-7 cells; used TESS for ChIP Motifs approach
+XX
+RN  [1]; RE0068113.
+RX  PUBMED: 20047966.
+RA  Mason C. E., Shu F. J., Wang C., Session R. M., Kallen R. G., Sidell N., Yu T., Liu M. H., Cheung E., Kallen C. B.
+RT  Location analysis for the estrogen receptor-alpha reveals binding to diverse ERE sequences and widespread binding within repetitive DNA elements.
+RL  Nucleic Acids Res. 38:2355-2368 (2010).
+XX
+//

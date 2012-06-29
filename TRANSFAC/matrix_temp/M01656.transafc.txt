@@ -1,0 +1,55 @@
+AC  M01656
+XX
+ID  V$P63_01
+XX
+DT  28.01.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  p63
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00761; V$P53_DECAMER_Q2;  (family).
+XX
+BF  T06131; p63; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16760; p63; Species: Mammalia; site(s) included: no.
+BF  T06293; p63; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06016; p63; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     34      9     44     13      R
+02     45      0     45     10      R
+03     71      0     26      3      A
+04      0    100      0      0      C
+05     73      0     24      4      A
+06     25      0      2     73      T
+07      0      0    100      0      G
+08      0     13      0     87      T
+09      2     74      0     25      C
+10     13     40     15     32      N
+11     29     14     47     10      R
+12     21      0     75      5      G
+13     90      0     10      0      A
+14      0    100      0      0      C
+15     75      3      2     21      A
+16      1     18      2     79      T
+17      0      0    100      0      G
+18      0     30      0     70      T
+19      5     59      0     36      Y
+20     13     45      8     34      Y
+XX
+BA  102 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant p63 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0065652.
+RX  PUBMED: 17563751.
+RA  Perez C. A., Ott J., Mays D. J., Pietenpol J. A.
+RT  p63 consensus DNA-binding site: identification, analysis and application into a p63MH algorithm.
+RL  Oncogene 26:7363-7370 (2007).
+XX
+//

@@ -1,0 +1,55 @@
+AC  M02109
+XX
+ID  V$NKX2B_Q3
+XX
+DT  24.10.2011 (created); mkl.
+DT  25.10.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NKX2B
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04272; NKX2B; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15817; NKX2B; Species: chick, Gallus gallus; site(s) included: no.
+BF  T04265; NKX2B; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T15818; NKX2B; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T04337; NKX2B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16598; NKX2B; Species: human, Homo sapiens; site(s) included: no.
+BF  T15502; NKX2B; Species: Mammalia; site(s) included: yes.
+BF  T02384; NKX2B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08295; NKX2B; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      9      1      1      C
+02     10      1      0      0      A
+03      0     11      0      0      C
+04      0      1      0     10      T
+05      0      1      1      9      T
+06      3      3      3      2      N
+07      6      2      0      3      A
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CAAACAC; R15420; 11; 7;; n.
+BS  TTATCAC; R16587; 10; 7;; n.
+BS  GCACTTA; R16588; 12; 7;; p.
+BS  ATTCCAC; R18138; 12; 7;; n.
+BS  CAAACAC; R19211; 6; 7;; n.
+BS  CAAGCAC; R20799; 10; 7;; n.
+BS  CCACTTG; R26182; 11; 7;; p.
+BS  GCCCTCA; R26184; 5; 7;; p.
+BS  CCTACAC; R31394; 20; 7;; n.
+BS  AGTACTC; R35712; 14; 7;; n.
+BS  CCACTGT; R35713; 19; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

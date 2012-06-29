@@ -1,0 +1,42 @@
+AC  M00468
+XX
+ID  V$AP2REP_01
+XX
+DT  03.09.2001 (created); rio.
+DT  10.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-2rep
+XX
+DE  AP-2 repressor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04686; AP-2rep; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15059; AP-2rep; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04701; AP-2rep; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15060; AP-2rep; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      2      8      0      1      C
+02      7      2      0      2      A
+03      1      1      9      0      G
+04      0      2      0      9      T
+05      2      1      7      1      G
+06      1      1      7      2      G
+07      2      1      6      2      G
+XX
+BA  11 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant AP-2rep from a pool of double-stranded oligonucleotides containing a core of  random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0016796.
+RX  PUBMED: 10704285.
+RA  Roth C., Schuierer M., Gunther K., Buettner R.
+RT  Genomic structure and DNA binding properties of the human zinc finger transcriptional repressor AP-2rep (KLF12).
+RL  Genomics 63:384-390 (2000).
+XX
+//

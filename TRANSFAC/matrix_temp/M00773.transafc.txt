@@ -1,0 +1,84 @@
+AC  M00773
+XX
+ID  V$MYB_Q3
+XX
+DT  30.11.2002 (created); dtc.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MYB
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00913; V$MYB_Q5_01;  (family).
+XX
+BF  T00139; c-Myb; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05996; c-Myb; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00137; c-Myb; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17679; c-Myb; Species: Mammalia; site(s) included: yes.
+BF  T00138; c-Myb; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09921; c-Myb; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00136; c-Myb; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09892; c-Myb-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19096; c-Myb-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19094; c-Myb-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19097; c-Myb-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19098; c-Myb-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19095; c-Myb-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      5      6      5      N
+02      4      8      9      4      N
+03      6      5      7      7      N
+04      2      3     15      5      G
+05      5      7      7      6      N
+06      1     18      3      3      C
+07     14      7      3      1      A
+08      0      0     25      0      G
+09      0      0      0     25      T
+10      0      0      1     24      T
+11      8      5      9      3      N
+XX
+BA  25 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGTGTCAGTTA; R01849; 7; 11;; n.
+BS  AGTACCAGTTG; R02392; 6; 11;; p.
+BS  GGAGACAGTTC; R03999; 7; 11;; p.
+BS  CACGCCGGTTG; R04000; 4; 11;; p.
+BS  GTTTTCTGTTC; R04001; 11; 11;; p.
+BS  CGACTCCGTTG; R04002; 4; 11;; p.
+BS  ATGGTGAGTGG; R04174; -1; 11;; p.
+BS  ACTTCCAGTTC; R04175; 14; 11;; p.
+BS  ACCGGCAGTTA; R04176; 1; 11;; p.
+BS  ACTCCAAGTTC; R04177; 15; 11;; n.
+BS  AAAAAGCGTTT; R04178; 4; 11;; p.
+BS  GCGGGCAGTTG; R04179; 6; 11;; n.
+BS  CAGGGTCGTTA; R04180; 17; 11;; p.
+BS  TGCGCCCGTTT; R04181; 10; 11;; n.
+BS  CCGCCCAGTTG; R04182; -2; 11;; p.
+BS  TCAGGCAGTTG; R04183; 5; 11;; n.
+BS  GGCGCCAGTTC; R04184; 4; 11;; p.
+BS  GTGTATAGTTA; R04340; 1; 11;; n.
+BS  ACTTAGGGTTA; R04341; 1; 11;; n.
+BS  CGGGTCCGTTA; C00135,  s00205; -5; 11;; p.
+BS  AGAGGCCGTTG; C00246,  s00286; 6; 11;; n.
+BS  TCCTGTCGTTA; C00181,  s00294; 1; 11;; n.
+BS  ATGGTCAGTTG; C00229,  s00386; 1; 11;; n.
+BS  GAAGACAGTTA; C00230,  s00388; 1; 11;; n.
+BS  TGTGGCGGTTT; C00240,  s00408; -5; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better; includes 6 TRANSCompel sites
+XX
+RN  [1]; RE0023232.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0002 (2003).
+RN  [2]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

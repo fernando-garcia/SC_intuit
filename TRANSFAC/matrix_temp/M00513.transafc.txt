@@ -1,0 +1,68 @@
+AC  M00513
+XX
+ID  V$ATF3_Q6
+XX
+DT  06.11.2001 (created); rio.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF3
+XX
+DE  activating transcription factor 3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T01313; ATF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09553; ATF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14095; ATF-3; Species: Mammalia; site(s) included: no.
+BF  T04850; ATF-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08977; ATF-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01095; ATF-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09435; ATF-3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01325; ATF-3 deltaZIP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08976; ATF-3b; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      3      1      1      C
+02      0      2      2      3      B
+03      1      4      2      0      C
+04      0      0      0     11      T
+05      0      0     10      1      G
+06     10      1      0      0      A
+07      0      9      1      1      C
+08      1      0      7      0      G
+09      0      0      0     10      T
+10      0      9      1      0      C
+11      8      0      0      2      A
+12      1      2      2      3      N
+13      0      5      1      1      C
+14      0      3      4      0      S
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS     TGACGT; R00362; 1; 14; 1, 2, 3, 10, 11, 12, 13, 14; n.
+BS     TGACGTCATGG; R00592; 1; 14; 1, 2, 3; p.
+BS  CTCTGACGTCTCCC; R00777; 4; 14;; p.
+BS  CCCTGACGTGTCCC; R00779; 4; 14;; p.
+BS     TGCG TCA; R01258; 1; 14; 1, 2, 3, 8, 12, 13, 14; p.
+BS   GCTGACGTCAG; R01358; 1; 14; 1, 13, 14; p.
+BS  CTATGAC TCATCC; R03668; 11; 14; 18; p.
+BS  ACGTGAC TCAGCG; R03924; 4; 14; 11; p.
+BS  GGGTGATG CAACG; R11477; 1; 14; 9; p.
+BS  TTCTGACATCATTG; R11552; 11; 14;; p.
+BS     TTACGTCA; R11553; 1; 14; 1, 2, 3, 12, 13, 14; p.
+XX
+CC  compiled and aligned by BIOBASE; binding sites in 7 genes; includes also 7 artificial sites; sites quality 6 or better
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

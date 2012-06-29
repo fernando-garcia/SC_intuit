@@ -1,0 +1,54 @@
+AC  M01696
+XX
+ID  V$REX1_02
+XX
+DT  18.03.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  REX1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00727; REX-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11384; REX-1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1     11      0      G
+02      0     15      0      0      C
+03      1     14      0      0      C
+04     14      0      0      1      A
+05      1      0      0     14      T
+06      1      0      0     14      T
+07     12      1      0      2      A
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GCCATTA; R30796; 1; 7;; p.
+BS  GCCATTA; R30797; 1; 7;; p.
+BS  GCCATTA; R30798; 1; 7;; p.
+BS  GCCATTA; R30799; 1; 7;; p.
+BS  GCCATTA; R30800; 1; 7;; p.
+BS  GCCATTA; R30801; 1; 7;; p.
+BS  GCCATTA; R30802; 1; 7;; p.
+BS  GCCATTA; R30803; 1; 7;; p.
+BS  GCCATTA; R30804; 1; 7;; p.
+BS  GCCATTA; R30805; 1; 7;; p.
+BS  GCCATTT; R30806; 1; 7;; p.
+BS   CCATTT; R30807; 1; 7; 1; p.
+BS   CCATTC; R30808; 1; 7; 1; p.
+BS   CCATTA; R30809; 1; 7; 1; p.
+BS  CCATAAA; R30810; 3; 7;; p.
+XX
+CC  sequences selected with recombinant REX-1 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0053050.
+RX  PUBMED: 17478514.
+RA  Kim J. D., Faulk C., Kim J.
+RT  Retroposition and evolution of the DNA-binding motifs of YY1, YY2 and REX1.
+RL  Nucleic Acids Res. 35:3442-3452 (2007).
+XX
+//

@@ -1,0 +1,45 @@
+AC  M01783
+XX
+ID  V$SP2_01
+XX
+DT  06.08.2010 (created); smt.
+DT  20.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SP2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00932; V$SP1_Q4_01;  (family).
+HP  M00933; V$SP1_Q2_01;  (family).
+XX
+BF  T02356; Sp2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08457; Sp2; Species: Mammalia; site(s) included: no.
+BF  T06543; Sp2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T06542; Sp2; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      6      0     15      0      G
+02      1      1     19      0      G
+03      0      0     21      0      G
+04      0     18      3      0      C
+05      1      2     18      0      G
+06      0      0     21      0      G
+07      1      0     19      1      G
+08     18      0      3      0      A
+09      0     21      0      0      C
+XX
+BA  21 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant SP2 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0067691.
+RX  PUBMED: 14726517.
+RA  Moorefield K. S., Fry S. J., Horowitz J. M.
+RT  Sp2 DNA binding activity and trans-activation are negatively regulated in mammalian cells.
+RL  J. Biol. Chem. 279:13911-13924 (2004).
+XX
+//

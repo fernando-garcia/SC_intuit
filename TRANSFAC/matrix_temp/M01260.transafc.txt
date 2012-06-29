@@ -1,0 +1,63 @@
+AC  M01260
+XX
+ID  V$STAT1_05
+XX
+DT  30.06.2009 (created); sla.
+DT  10.07.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T11028; STAT1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T04759; STAT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05696; STAT1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T08951; STAT1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05665; STAT1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    116     92    222     70      N
+02    156     85    142    117      N
+03     82    110     47    261      T
+04      7     11     17    465      T
+05     17     10     35    438      T
+06     81    392      9     18      C
+07     34    254     10    202      Y
+08    155      5    220    120      N
+09     64      6    421      9      G
+10      9      4    459     28      G
+11    489      5      6      0      A
+12    493      3      2      2      A
+13    275     36    147     42      R
+14     81     91    111    217      N
+15     97    114    228     61      N
+16    173     88    180     59      N
+17    118    146    145     91      N
+18    127     97    125    151      N
+19    123     47    163    167      N
+20     87     96    208    109      N
+21    153     91    146    110      N
+22    124    123    128    125      N
+XX
+BA  500 sequences (ChIP-Seq)
+XX
+DR  JASPAR: MA0137.
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0052078.
+RX  PUBMED: 17558387.
+RA  Robertson G., Hirst M., Bainbridge M., Bilenky M., Zhao Y., Zeng T., Euskirchen G., Bernier B., Varhol R., Delaney A., Thiessen N., Griffith O. L., He A., Marra M., Snyder M., Jones S.
+RT  Genome-wide profiles of STAT1 DNA association using chromatin immunoprecipitation and massively parallel sequencing.
+RL  Nat. Methods 4:651-657 (2007).
+XX
+//

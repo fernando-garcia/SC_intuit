@@ -1,0 +1,44 @@
+AC  M01752
+XX
+ID  V$ERG_01
+XX
+DT  28.06.2010 (created); apk.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ERG
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T08494; Erg; Species: human, Homo sapiens; site(s) included: no.
+BF  T16720; Erg; Species: Mammalia; site(s) included: yes.
+BF  T17954; Erg; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    164     10     37     31      A
+02     22    164     23      3      C
+03     23    164      0      0      C
+04      0      0    164      0      G
+05      0      0    164      1      G
+06    164      1      0      1      A
+07    164      1      1     40      A
+08     98      9    164      2      R
+09      6     42     21    164      T
+XX
+BA  sequences (multiplexed massively parallel SELEX)
+XX
+CC  sequences selected with recombinant ERG from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0067210.
+RX  PUBMED: 20378718.
+RA  Jolma A., Kivioja T., Toivonen J., Cheng L., Wei G., Enge M., Taipale M., Vaquerizas J. M., Yan J., Sillanpaa M. J., Bonke M., Palin K., Talukder S., Hughes T. R., Luscombe N. M., Ukkonen E., Taipale J.
+RT  Multiplexed massively parallel SELEX for characterization of human transcription factor binding specificities.
+RL  Genome Res. 20:861-873 (2010).
+XX
+//

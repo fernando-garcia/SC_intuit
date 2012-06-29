@@ -1,0 +1,65 @@
+AC  M00955
+XX
+ID  V$GR_01
+XX
+DT  12.11.2003 (created); ech.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GR
+XX
+DE  high affinity binding site for glucocorticoid receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00960; V$PR_Q2; half-site matrix (family).
+XX
+BF  T00336; GR; Species: cat, Felis silvestris catus; site(s) included: yes.
+BF  T05076; GR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10446; GR; Species: Mammalia; site(s) included: no.
+BF  T00335; GR; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00333; GR; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     11      9     17     16      N
+02     15      9     12     17      N
+03      9     10     16     18      N
+04      9     12     16     16      N
+05     12     13     13     13      N
+06     13      6     18     16      N
+07     12      7     23     11      N
+08      7      4     37      5      G
+09     10      2     19     22      K
+10     29      8     10      6      A
+11      3     34     11      5      C
+12     26      6     10     11      N
+13      8     13     16     16      N
+14     19      6     13     15      N
+15     16      8     20      9      N
+16      0      0      0     53      T
+17      0      0     53      0      G
+18      0      0      0     53      T
+19      0      0      0     53      T
+20      0     53      0      0      C
+21      0      0      0     53      T
+22     17      9     14     13      N
+23     14      4     22     13      N
+24     11     10     17     15      N
+25      4     12     26     11      N
+26     15      8     15     15      N
+27     23      6     15      9      N
+XX
+BA  53 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant GR from a pool of double-stranded oligonucleotides containing a core of 21 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0023480.
+RX  PUBMED: 10598584.
+RA  Nelson C. C., Hendy S. C., Shukin R. J., Cheng H., Bruchovsky N., Koop B. F., Rennie P. S.
+RT  Determinants of DNA sequence specificity of the androgen, progesterone, and glucocorticoid receptors: evidence for differential steroid receptor response elements.
+RL  Mol. Endocrinol. 13:2090-2107 (1999).
+XX
+//

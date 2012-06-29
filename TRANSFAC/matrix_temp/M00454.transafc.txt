@@ -1,0 +1,71 @@
+AC  M00454
+XX
+ID  V$MRF2_01
+XX
+DT  24.08.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MRF-2
+XX
+DE  modulator recognition factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00973; V$E2A_Q6;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T06434; Arid5B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09936; MRF2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11231; Mrf2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04675; MRF2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09937; MRF2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06463; Mrf2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06464; Mrf2beta; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      1      1      0      A
+02      3      0      0      2      W
+03      0      3      2      1      S
+04      1      9      2      3      C
+05     10      2      1      2      A
+06      1     10      2      2      C
+07     15      0      0      0      A
+08     15      0      0      0      A
+09      0      1      1     13      T
+10     14      1      0      0      A
+11      0     11      1      3      C
+12      4      7      1      3      N
+13      7      4      4      0      V
+14      9      4      2      0      A
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS     CACAATACCAA; R10396; 1; 14; 1, 2, 3; p.
+BS     CACAATACCGC; R10397; 1; 14; 1, 2, 3; p.
+BS     CACAATACCGA; R10398; 1; 14; 1, 2, 3; p.
+BS     CACAATACGAG; R10399; 1; 14; 1, 2, 3; p.
+BS    CGCCAATACACA; R10400; 1; 14; 1, 2; p.
+BS  AACCAAAATACACA; R10401; 1; 14;; p.
+BS     CAGAATACCAA; R10402; 1; 14; 1, 2, 3; p.
+BS     CACAATATTGC; R10403; 1; 14; 1, 2, 3; p.
+BS     CACAATATAAC; R10404; 1; 14; 1, 2, 3; p.
+BS  CAGTTGAATACCAA; R10405; 2; 14;; p.
+BS     TGTAATACCAC; R10406; 1; 14; 1, 2, 3; p.
+BS  ATGTCCAATAGTCG; R10407; 1; 14;; p.
+BS     CACAATACCAA; R10408; 1; 14; 1, 2, 3; p.
+BS  GATATCAACACACA; R10409; 1; 14;; p.
+BS  ATCGATAAGCTTGA; R10410; 6; 14;; p.
+XX
+CC  sequences selected with recombinant MRF-2 from a pool of double-stranded oligonucleotides containing a core of 71 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0016766.
+RX  PUBMED: 10329386.
+RA  Whitson R. H., Huang T., Itakura K.
+RT  The novel Mrf-2 DNA-binding domain recognizes a five-base core sequence through major and minor-groove contacts
+RL  Biochem. Biophys. Res. Commun. 258:326-331 (1999).
+XX
+//

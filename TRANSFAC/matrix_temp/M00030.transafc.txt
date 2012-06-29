@@ -1,0 +1,57 @@
+AC  M00030
+XX
+ID  F$MATA1_01
+XX
+DT  18.10.1994 (created); ewi.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MATa1
+XX
+DE  mating factor a1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00488; MATa1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      1     12      T
+02      0      0     14      0      G
+03     14      0      0      0      A
+04      0      0      0     14      T
+05      0      0     14      0      G
+06      1      2      0     11      T
+07     10      0      3      1      A
+08      6      2      4      2      N
+09      5      4      1      4      N
+10      2      1      1     10      T
+XX
+BA  14 sequences (compiled matrix imported from literature reference)
+XX
+BS  TGATGTACTT; R05553; 1; 10;; p.
+BS  TGATGTAATC; R05554; 1; 10;; p.
+BS  TGATGTGTAA; R05555; 1; 10;; p.
+BS  TGATGCAGAA; R05556; 1; 10;; p.
+BS  TGATGAAGCG; R05557; 1; 10;; p.
+BS  TGATGTTAAT; R05558; 1; 10;; p.
+BS  TGATGTAAAT; R05559; 1; 10;; p.
+BS  TGATGTAACT; R05560; 1; 10;; p.
+BS  TGATGCAGTT; R05561; 1; 10;; p.
+BS  TGATGTGAAT; R05562; 1; 10;; p.
+BS  CGATGTGCTT; R05563; 1; 10;; p.
+BS  TGATGTATCT; R05564; 1; 10;; p.
+BS  GGATGTAACT; R05565; 1; 10;; p.
+BS  TGATGTAGGT; R05566; 1; 10;; p.
+XX
+CC  half-sites from 4 genes
+XX
+RN  [1]; RE0000546.
+RX  PUBMED: 7907979.
+RA  Goutte C., Johnson A. D.
+RT  Recognition of a DNA operator by a dimer composed of two different homeodomain proteins
+RL  EMBO J. 13:1434-1442 (1994).
+XX
+//

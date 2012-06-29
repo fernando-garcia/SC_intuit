@@ -1,0 +1,764 @@
+9238	class	Zinc-coordinating
+9238	comment	Different splice forms affect DNA binding: four matrices
+9238	family	BetaBetaAlpha-zinc finger
+9238	medline	8062827
+9238	pazar_tf_id	TF0000007
+9238	tax_group	insects
+9238	type	COMPILED
+9239	class	Zinc-coordinating
+9239	comment	Different splice forms affect DNA binding: four matrices
+9239	family	BetaBetaAlpha-zinc finger
+9239	medline	8062827
+9239	pazar_tf_id	TF0000008
+9239	tax_group	insects
+9239	type	COMPILED
+9240	class	Zinc-coordinating
+9240	comment	Different splice forms affect DNA binding: four matrices
+9240	family	BetaBetaAlpha-zinc finger
+9240	medline	8062827
+9240	pazar_tf_id	TF0000009
+9240	tax_group	insects
+9240	type	COMPILED
+9241	class	Zinc-coordinating
+9241	comment	Different splice forms affect DNA binding: four matrices
+9241	family	BetaBetaAlpha-zinc finger
+9241	medline	8062827
+9241	pazar_tf_id	TF0000010
+9241	tax_group	insects
+9241	type	COMPILED
+9243	class	Zinc-coordinating
+9243	comment	-
+9243	family	BetaBetaAlpha-zinc finger
+9243	medline	1290524
+9243	tax_group	insects
+9243	type	SELEX
+9244	class	Zinc-coordinating
+9244	comment	-
+9244	family	Hormone-nuclear Receptor
+9244	medline	1280827
+9244	tax_group	insects
+9244	type	SELEX
+9250	class	Ig-fold
+9250	comment	dl has a dual binding specificity and therefore two models: MA0022 and MA0023
+9250	family	Rel
+9250	medline	1582412
+9250	tax_group	insects
+9250	type	SELEX
+9251	class	Ig-fold
+9251	comment	dl has a dual binding specificity and therefore two models: MA0022 and MA0023
+9251	family	Rel
+9251	medline	1582412
+9251	tax_group	insects
+9251	type	SELEX
+9254	class	Winged Helix-Turn-Helix
+9254	comment	-
+9254	family	Ets
+9254	medline	2208281
+9254	tax_group	insects
+9254	type	SELEX
+9277	class	Zinc-coordinating
+9277	comment	-
+9277	family	BetaBetaAlpha-zinc finger
+9277	medline	2507923
+9277	pazar_tf_id	TF0000031
+9277	tax_group	insects
+9277	type	COMPILED
+9313	class	Other
+9313	comment	-
+9313	family	LAG1
+9313	medline	7590239
+9313	pazar_tf_id	TF0000060
+9313	tax_group	insects
+9313	type	COMPILED
+9314	class	Zinc-coordinating
+9314	comment	-
+9314	family	BetaBetaAlpha-zinc finger
+9314	medline	8371971
+9314	pazar_tf_id	TF0000061
+9314	tax_group	insects
+9314	type	SELEX
+9322	class	Helix-Turn-Helix
+9322	comment	-
+9322	family	Homeo
+9322	medline	1673656
+9322	pazar_tf_id	TF0000068
+9322	tax_group	insects
+9322	type	SELEX
+9355	class	Zinc-coordinating
+9355	comment	-
+9355	family	BetaBetaAlpha-zinc finger
+9355	medline	10637336
+9355	pazar_tf_id	TF0000821
+9355	tax_group	insects
+9355	type	SELEX
+9408	class	Helix-Turn-Helix
+9408	comment	-
+9408	family	Homeo
+9408	medline	18332042
+9408	tax_group	insects
+9408	type	bacterial 1-hybrid
+9409	class	Helix-Turn-Helix
+9409	comment	-
+9409	family	Homeo
+9409	medline	18332042
+9409	tax_group	insects
+9409	type	bacterial 1-hybrid
+9410	class	Helix-Turn-Helix
+9410	comment	-
+9410	family	Homeo
+9410	medline	18332042
+9410	tax_group	insects
+9410	type	bacterial 1-hybrid
+9411	class	Helix-Turn-Helix
+9411	comment	-
+9411	family	Homeo
+9411	medline	18332042
+9411	tax_group	insects
+9411	type	bacterial 1-hybrid
+9412	class	Helix-Turn-Helix
+9412	comment	-
+9412	family	Homeo
+9412	medline	18332042
+9412	tax_group	insects
+9412	type	bacterial 1-hybrid
+9413	class	Helix-Turn-Helix
+9413	comment	-
+9413	family	Homeo
+9413	medline	18332042
+9413	tax_group	insects
+9413	type	bacterial 1-hybrid
+9414	class	Helix-Turn-Helix
+9414	comment	-
+9414	family	Homeo
+9414	medline	18332042
+9414	tax_group	insects
+9414	type	bacterial 1-hybrid
+9415	class	Helix-Turn-Helix
+9415	comment	-
+9415	family	Homeo
+9415	medline	18332042
+9415	tax_group	insects
+9415	type	bacterial 1-hybrid
+9416	class	Helix-Turn-Helix
+9416	comment	-
+9416	family	Homeo
+9416	medline	18332042
+9416	tax_group	insects
+9416	type	bacterial 1-hybrid
+9417	class	Helix-Turn-Helix
+9417	comment	formerly CG12361
+9417	family	Homeo
+9417	medline	18332042
+9417	tax_group	insects
+9417	type	bacterial 1-hybrid
+9418	class	Helix-Turn-Helix
+9418	comment	-
+9418	family	Homeo
+9418	medline	18332042
+9418	tax_group	insects
+9418	type	bacterial 1-hybrid
+9419	class	Helix-Turn-Helix
+9419	comment	-
+9419	family	Homeo
+9419	medline	18332042
+9419	tax_group	insects
+9419	type	bacterial 1-hybrid
+9420	class	Helix-Turn-Helix
+9420	comment	-
+9420	family	Homeo
+9420	medline	18332042
+9420	tax_group	insects
+9420	type	bacterial 1-hybrid
+9421	class	Helix-Turn-Helix
+9421	comment	-
+9421	family	Homeo
+9421	medline	18332042
+9421	tax_group	insects
+9421	type	bacterial 1-hybrid
+9422	class	Helix-Turn-Helix
+9422	comment	-
+9422	family	Homeo
+9422	medline	18332042
+9422	tax_group	insects
+9422	type	bacterial 1-hybrid
+9423	class	Helix-Turn-Helix
+9423	comment	-
+9423	family	Homeo
+9423	medline	18585360
+9423	tax_group	insects
+9423	type	bacterial 1-hybrid
+9424	class	Helix-Turn-Helix
+9424	comment	-
+9424	family	Homeo
+9424	medline	18332042
+9424	tax_group	insects
+9424	type	bacterial 1-hybrid
+9425	class	Helix-Turn-Helix
+9425	comment	-
+9425	family	Homeo
+9425	medline	18332042
+9425	tax_group	insects
+9425	type	bacterial 1-hybrid
+9426	class	Helix-Turn-Helix
+9426	comment	-
+9426	family	Homeo
+9426	medline	18585360
+9426	tax_group	insects
+9426	type	bacterial 1-hybrid
+9427	class	Helix-Turn-Helix
+9427	comment	-
+9427	family	Homeo
+9427	medline	18332042
+9427	tax_group	insects
+9427	type	bacterial 1-hybrid
+9428	class	Other Alpha-Helix
+9428	comment	-
+9428	family	Sand
+9428	medline	15572468
+9428	tax_group	insects
+9428	type	DNaseI footprinting
+9429	class	Helix-Turn-Helix
+9429	comment	-
+9429	family	Homeo
+9429	medline	18332042
+9429	tax_group	insects
+9429	type	bacterial 1-hybrid
+9430	class	Helix-Turn-Helix
+9430	comment	-
+9430	family	Homeo
+9430	medline	18585360
+9430	tax_group	insects
+9430	type	bacterial 1-hybrid
+9431	class	Helix-Turn-Helix
+9431	comment	-
+9431	family	Homeo
+9431	medline	18332042
+9431	tax_group	insects
+9431	type	bacterial 1-hybrid
+9432	class	Helix-Turn-Helix
+9432	comment	-
+9432	family	Homeo
+9432	medline	18332042
+9432	tax_group	insects
+9432	type	bacterial 1-hybrid
+9433	class	Helix-Turn-Helix
+9433	comment	-
+9433	family	Homeo
+9433	medline	18332042
+9433	tax_group	insects
+9433	type	bacterial 1-hybrid
+9434	class	Helix-Turn-Helix
+9434	comment	-
+9434	family	Homeo
+9434	medline	18332042
+9434	tax_group	insects
+9434	type	bacterial 1-hybrid
+9435	class	Helix-Turn-Helix
+9435	comment	-
+9435	family	Homeo
+9435	medline	18332042
+9435	tax_group	insects
+9435	type	bacterial 1-hybrid
+9436	class	Helix-Turn-Helix
+9436	comment	-
+9436	family	Homeo
+9436	medline	18332042
+9436	tax_group	insects
+9436	type	bacterial 1-hybrid
+9437	class	Helix-Turn-Helix
+9437	comment	-
+9437	family	Homeo
+9437	medline	18332042
+9437	tax_group	insects
+9437	type	bacterial 1-hybrid
+9438	class	Helix-Turn-Helix
+9438	comment	-
+9438	family	Homeo
+9438	medline	18332042
+9438	tax_group	insects
+9438	type	bacterial 1-hybrid
+9439	class	Helix-Turn-Helix
+9439	comment	-
+9439	family	Homeo
+9439	medline	18332042
+9439	tax_group	insects
+9439	type	bacterial 1-hybrid
+9440	class	Helix-Turn-Helix
+9440	comment	-
+9440	family	Homeo
+9440	medline	18585360
+9440	tax_group	insects
+9440	type	bacterial 1-hybrid
+9441	class	Helix-Turn-Helix
+9441	comment	-
+9441	family	Homeo
+9441	medline	18332042
+9441	tax_group	insects
+9441	type	bacterial 1-hybrid
+9442	class	Helix-Turn-Helix
+9442	comment	-
+9442	family	Homeo
+9442	medline	18332042
+9442	tax_group	insects
+9442	type	bacterial 1-hybrid
+9443	class	Helix-Turn-Helix
+9443	comment	-
+9443	family	Homeo
+9443	medline	18332042
+9443	tax_group	insects
+9443	type	bacterial 1-hybrid
+9444	class	Helix-Turn-Helix
+9444	comment	-
+9444	family	Homeo
+9444	medline	18585360
+9444	tax_group	insects
+9444	type	bacterial 1-hybrid
+9445	class	Helix-Turn-Helix
+9445	comment	-
+9445	family	Homeo
+9445	medline	18332042
+9445	tax_group	insects
+9445	type	bacterial 1-hybrid
+9446	class	Helix-Turn-Helix
+9446	comment	-
+9446	family	Homeo
+9446	medline	18332042
+9446	tax_group	insects
+9446	type	bacterial 1-hybrid
+9447	class	Helix-Turn-Helix
+9447	comment	-
+9447	family	Homeo
+9447	medline	18332042
+9447	tax_group	insects
+9447	type	bacterial 1-hybrid
+9448	class	Zinc-coordinating
+9448	comment	-
+9448	family	BetaBetaAlpha-zinc finger
+9448	medline	15572468
+9448	tax_group	insects
+9448	type	DNaseI footprinting
+9449	class	Helix-Turn-Helix
+9449	comment	-
+9449	family	Homeo
+9449	medline	18332042
+9449	tax_group	insects
+9449	type	bacterial 1-hybrid
+9450	class	Helix-Turn-Helix
+9450	comment	-
+9450	family	Homeo
+9450	medline	18332042
+9450	tax_group	insects
+9450	type	bacterial 1-hybrid
+9451	class	Helix-Turn-Helix
+9451	comment	-
+9451	family	Homeo
+9451	medline	18585360
+9451	tax_group	insects
+9451	type	bacterial 1-hybrid
+9452	class	Helix-Turn-Helix
+9452	comment	-
+9452	family	Homeo
+9452	medline	18332042
+9452	tax_group	insects
+9452	type	bacterial 1-hybrid
+9453	class	Helix-Turn-Helix
+9453	comment	-
+9453	family	Homeo
+9453	medline	18332042
+9453	tax_group	insects
+9453	type	bacterial 1-hybrid
+9454	class	Helix-Turn-Helix
+9454	comment	-
+9454	family	Homeo
+9454	medline	18332042
+9454	tax_group	insects
+9454	type	bacterial 1-hybrid
+9455	class	Helix-Turn-Helix
+9455	comment	-
+9455	family	Homeo
+9455	medline	18332042
+9455	tax_group	insects
+9455	type	bacterial 1-hybrid
+9456	class	Helix-Turn-Helix
+9456	family	Brinker
+9456	medline	15572468
+9456	tax_group	insects
+9456	type	DNaseI footprinting
+9457	class	Helix-Turn-Helix
+9457	comment	-
+9457	family	Homeo
+9457	medline	18332042
+9457	tax_group	insects
+9457	type	bacterial 1-hybrid
+9458	class	Helix-Turn-Helix
+9458	comment	-
+9458	family	Homeo
+9458	medline	18332042
+9458	tax_group	insects
+9458	type	bacterial 1-hybrid
+9459	class	Helix-Turn-Helix
+9459	comment	-
+9459	family	Homeo
+9459	medline	18332042
+9459	tax_group	insects
+9459	type	bacterial 1-hybrid
+9460	class	Helix-Turn-Helix
+9460	comment	-
+9460	family	Homeo
+9460	medline	18332042
+9460	tax_group	insects
+9460	type	bacterial 1-hybrid
+9461	class	Helix-Turn-Helix
+9461	comment	-
+9461	family	Homeo
+9461	medline	18332042
+9461	tax_group	insects
+9461	type	bacterial 1-hybrid
+9462	class	Helix-Turn-Helix
+9462	comment	-
+9462	family	Homeo
+9462	medline	18332042
+9462	tax_group	insects
+9462	type	bacterial 1-hybrid
+9463	class	Helix-Turn-Helix
+9463	comment	-
+9463	family	Homeo
+9463	medline	18332042
+9463	tax_group	insects
+9463	type	bacterial 1-hybrid
+9464	class	Helix-Turn-Helix
+9464	comment	-
+9464	family	Homeo
+9464	medline	18332042
+9464	tax_group	insects
+9464	type	bacterial 1-hybrid
+9465	class	Helix-Turn-Helix
+9465	comment	-
+9465	family	Homeo
+9465	medline	18585360
+9465	tax_group	insects
+9465	type	bacterial 1-hybrid
+9466	class	Helix-Turn-Helix
+9466	comment	-
+9466	family	Homeo
+9466	medline	18332042
+9466	tax_group	insects
+9466	type	bacterial 1-hybrid
+9467	class	Helix-Turn-Helix
+9467	comment	-
+9467	family	Homeo
+9467	medline	18585360
+9467	tax_group	insects
+9467	type	bacterial 1-hybrid
+9468	class	Helix-Turn-Helix
+9468	comment	-
+9468	family	Homeo
+9468	medline	18332042
+9468	tax_group	insects
+9468	type	bacterial 1-hybrid
+9469	class	Helix-Turn-Helix
+9469	comment	-
+9469	family	Homeo
+9469	medline	18332042
+9469	tax_group	insects
+9469	type	bacterial 1-hybrid
+9470	class	Helix-Turn-Helix
+9470	comment	-
+9470	family	Homeo
+9470	medline	18332042
+9470	tax_group	insects
+9470	type	bacterial 1-hybrid
+9471	class	Helix-Turn-Helix
+9471	comment	-
+9471	family	Homeo
+9471	medline	18332042
+9471	tax_group	insects
+9471	type	bacterial 1-hybrid
+9472	class	Helix-Turn-Helix
+9472	comment	-
+9472	family	Homeo
+9472	medline	18585360
+9472	tax_group	insects
+9472	type	bacterial 1-hybrid
+9473	class	Helix-Turn-Helix
+9473	comment	-
+9473	family	Homeo
+9473	medline	18332042
+9473	tax_group	insects
+9473	type	bacterial 1-hybrid
+9474	class	Helix-Turn-Helix
+9474	comment	-
+9474	family	Homeo
+9474	medline	18332042
+9474	tax_group	insects
+9474	type	bacterial 1-hybrid
+9475	class	Helix-Turn-Helix
+9475	comment	-
+9475	family	Homeo
+9475	medline	18332042
+9475	tax_group	insects
+9475	type	bacterial 1-hybrid
+9476	class	Helix-Turn-Helix
+9476	comment	-
+9476	family	Homeo
+9476	medline	18332042
+9476	tax_group	insects
+9476	type	bacterial 1-hybrid
+9477	class	Helix-Turn-Helix
+9477	comment	-
+9477	family	Homeo
+9477	medline	18332042
+9477	tax_group	insects
+9477	type	bacterial 1-hybrid
+9478	class	Helix-Turn-Helix
+9478	comment	-
+9478	family	Homeo
+9478	medline	18332042
+9478	tax_group	insects
+9478	type	bacterial 1-hybrid
+9479	class	Helix-Turn-Helix
+9479	comment	-
+9479	family	Homeo
+9479	medline	18332042
+9479	tax_group	insects
+9479	type	bacterial 1-hybrid
+9480	class	Other Alpha-Helix
+9480	comment	-
+9480	family	High Mobility Group
+9480	medline	15572468
+9480	tax_group	insects
+9480	type	DNaseI footprinting
+9481	class	Helix-Turn-Helix
+9481	comment	-
+9481	family	Homeo
+9481	medline	18332042
+9481	tax_group	insects
+9481	type	bacterial 1-hybrid
+9482	class	Helix-Turn-Helix
+9482	comment	-
+9482	family	Homeo
+9482	medline	16041365
+9482	tax_group	insects
+9482	type	bacterial 1-hybrid
+9483	class	Helix-Turn-Helix
+9483	comment	-
+9483	family	Homeo
+9483	medline	18332042
+9483	tax_group	insects
+9483	type	bacterial 1-hybrid
+9484	class	Helix-Turn-Helix
+9484	comment	-
+9484	family	Homeo
+9484	medline	18332042
+9484	tax_group	insects
+9484	type	bacterial 1-hybrid
+9485	class	Ig-fold
+9485	comment	Bgb is the co-activator with CBF-beta domain
+9485	family	Runt
+9485	medline	16041365
+9485	tax_group	insects
+9485	type	bacterial 1-hybrid
+9486	class	Helix-Turn-Helix
+9486	comment	-
+9486	family	Homeo
+9486	medline	15572468
+9486	tax_group	insects
+9486	type	DNaseI footprinting
+9487	class	Zinc-coordinating
+9487	comment	-
+9487	family	BetaBetaAlpha-zinc finger
+9487	medline	15572468
+9487	tax_group	insects
+9487	type	DNaseI footprinting
+9488	class	Helix-Turn-Helix
+9488	comment	-
+9488	family	Homeo
+9488	medline	18332042
+9488	tax_group	insects
+9488	type	bacterial 1-hybrid
+9489	class	Helix-Turn-Helix
+9489	comment	-
+9489	family	Homeo
+9489	medline	18332042
+9489	tax_group	insects
+9489	type	bacterial 1-hybrid
+9490	class	Helix-Turn-Helix
+9490	comment	-
+9490	family	Homeo
+9490	medline	18585360
+9490	tax_group	insects
+9490	type	bacterial 1-hybrid
+9491	class	Helix-Turn-Helix
+9491	comment	-
+9491	family	Homeo
+9491	medline	18332042
+9491	tax_group	insects
+9491	type	bacterial 1-hybrid
+9492	class	Zipper-type
+9492	comment	-
+9492	family	Helix-Loop-Helix
+9492	medline	15572468
+9492	tax_group	insects
+9492	type	DNaseI footprinting
+9493	class	Helix-Turn-Helix
+9493	comment	-
+9493	family	Homeo
+9493	medline	18332042
+9493	tax_group	insects
+9493	type	bacterial 1-hybrid
+9494	class	Helix-Turn-Helix
+9494	comment	-
+9494	family	Homeo
+9494	medline	18332042
+9494	tax_group	insects
+9494	type	bacterial 1-hybrid
+9495	class	Helix-Turn-Helix
+9495	comment	-
+9495	family	Homeo
+9495	medline	18332042
+9495	tax_group	insects
+9495	type	bacterial 1-hybrid
+9496	class	Helix-Turn-Helix
+9496	comment	-
+9496	family	Homeo
+9496	medline	18585360
+9496	tax_group	insects
+9496	type	bacterial 1-hybrid
+9497	class	Helix-Turn-Helix
+9497	comment	-
+9497	family	Homeo
+9497	medline	15572468
+9497	tax_group	insects
+9497	type	DNaseI footprinting
+9498	class	Helix-Turn-Helix
+9498	comment	-
+9498	family	Zeste
+9498	medline	15572468
+9498	tax_group	insects
+9498	type	DNaseI footprinting
+9499	class	Helix-Turn-Helix
+9499	comment	-
+9499	family	Homeo
+9499	medline	18332042
+9499	tax_group	insects
+9499	type	bacterial 1-hybrid
+9500	class	Helix-Turn-Helix
+9500	comment	-
+9500	family	Homeo
+9500	medline	18332042
+9500	tax_group	insects
+9500	type	bacterial 1-hybrid
+9501	class	Helix-Turn-Helix
+9501	comment	-
+9501	family	Homeo
+9501	medline	18585360
+9501	tax_group	insects
+9501	type	bacterial 1-hybrid
+10527	class	Zinc-coordinating
+10527	comment	-
+10527	family	BetaBetaAlpha-zinc finger
+10527	medline	18332042
+10527	tax_group	insects
+10527	type	bacterial 1-hybrid
+10528	class	Helix-Turn-Helix
+10528	comment	-
+10528	family	Homeo
+10528	medline	18332042
+10528	tax_group	insects
+10528	type	bacterial 1-hybrid
+10529	class	Other Alpha-Helix
+10529	comment	-
+10529	family	High Mobility Group
+10529	medline	18332042
+10529	tax_group	insects
+10529	type	bacterial 1-hybrid
+10530	class	Winged Helix-Turn-Helix
+10530	comment	-
+10530	family	Forkhead
+10530	medline	18332042
+10530	tax_group	insects
+10530	type	bacterial 1-hybrid
+10531	class	Zipper-type
+10531	comment	-
+10531	family	Leucine Zipper
+10531	medline	18332042
+10531	tax_group	insects
+10531	type	bacterial 1-hybrid
+10532	class	Helix-Turn-Helix
+10532	comment	-
+10532	family	Homeo
+10532	medline	18332042
+10532	tax_group	insects
+10532	type	bacterial 1-hybrid
+10533	class	Zipper-type
+10533	comment	-
+10533	family	Helix-Loop-Helix
+10533	medline	18332042
+10533	tax_group	insects
+10533	type	bacterial 1-hybrid
+10534	class	Zinc-coordinating
+10534	comment	-
+10534	family	BetaBetaAlpha-zinc finger
+10534	medline	18332042
+10534	tax_group	insects
+10534	type	bacterial 1-hybrid
+10535	class	Zinc-coordinating
+10535	comment	-
+10535	family	Hormone-nuclear Receptor
+10535	medline	18332042
+10535	tax_group	insects
+10535	type	bacterial 1-hybrid
+10536	class	Zinc-coordinating
+10536	comment	-
+10536	family	BetaBetaAlpha-zinc finger
+10536	medline	18332042
+10536	tax_group	insects
+10536	type	bacterial 1-hybrid
+10537	class	Zinc-coordinating
+10537	comment	-
+10537	family	BetaBetaAlpha-zinc finger
+10537	medline	18332042
+10537	tax_group	insects
+10537	type	bacterial 1-hybrid
+10538	class	Zinc-coordinating
+10538	comment	-
+10538	family	BetaBetaAlpha-zinc finger
+10538	medline	18332042
+10538	tax_group	insects
+10538	type	bacterial 1-hybrid
+10539	class	Helix-Turn-Helix
+10539	comment	-
+10539	family	Homeo
+10539	medline	18332042
+10539	tax_group	insects
+10539	type	bacterial 1-hybrid
+10540	class	Zinc-coordinating
+10540	comment	-
+10540	family	BetaBetaAlpha-zinc finger
+10540	medline	18332042
+10540	tax_group	insects
+10540	type	bacterial 1-hybrid
+10541	class	Helix-Turn-Helix
+10541	comment	-
+10541	family	Homeo
+10541	medline	18332042
+10541	tax_group	insects
+10541	type	bacterial 1-hybrid
+10542	class	Winged Helix-Turn-Helix
+10542	comment	-
+10542	family	Forkhead
+10542	medline	18332042
+10542	tax_group	insects
+10542	type	bacterial 1-hybrid
+10543	class	Zinc-coordinating
+10543	comment	-
+10543	family	Hormone-nuclear Receptor
+10543	medline	18332042
+10543	tax_group	insects
+10543	type	bacterial 1-hybrid
+10544	class	Other
+10544	comment	-
+10544	family	AT-hook
+10544	medline	18332042
+10544	tax_group	insects
+10544	type	bacterial 1-hybrid

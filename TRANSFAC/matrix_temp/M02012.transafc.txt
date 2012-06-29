@@ -1,0 +1,103 @@
+AC  M02012
+XX
+ID  V$HIF1A_Q6
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HIF-1alpha
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00976; V$AHRHIF_Q6;  (family).
+XX
+BF  T01610; HIF-1alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10516; HIF-1alpha; Species: Mammalia; site(s) included: yes.
+BF  T04666; HIF-1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05461; HIF-1alpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10419; HIF-1alpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08994; HIF-1alpha-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18977; HIF-1alpha-isoform1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T17446; HIF-1alpha-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18978; HIF-1alpha-xbb2; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     10      9     27     11      N
+02      0     54      3      0      C
+03     56      1      0      0      A
+04      1     54      2      0      C
+05      0      2     55      0      G
+06      2     13      2     40      T
+XX
+BA  57 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCACGT; R03219; 6; 6;; n.
+BS  GCACGT; R10172; 9; 6;; p.
+BS  CCACGT; R10227; 9; 6;; n.
+BS  GCACGT; R10395; 10; 6;; n.
+BS  GCACGT; R10395; 10; 6;; n.
+BS  ACACGT; R13214; 16; 6;; p.
+BS  GCACGT; R13221; 7; 6;; n.
+BS  CCACGT; R18841; 8; 6;; p.
+BS  GCACGT; R18842; 8; 6;; p.
+BS  CCACGT; R18844; 10; 6;; n.
+BS  GCACGT; R18845; 10; 6;; n.
+BS  tCACGt; R18846; 6; 6;; n.
+BS  GCACGT; R21396; 10; 6;; n.
+BS  GCACGC; R22177; 18; 6;; n.
+BS  ACACGC; R22178; 8; 6;; n.
+BS  TCACGT; R22208; 9; 6;; p.
+BS  ACACGT; R22251; 19; 6;; n.
+BS  GCACGT; R22294; 6; 6;; n.
+BS  TCACGT; R22296; 6; 6;; n.
+BS  TCACGT; R22336; 6; 6;; n.
+BS  ACACGC; R22337; 6; 6;; n.
+BS  GCACGA; R25461; 8; 6;; n.
+BS  GCACGC; R25462; 17; 6;; p.
+BS  GGACGC; R25551; 11; 6;; n.
+BS  GGAGGC; R25552; 15; 6;; n.
+BS  TCACGC; R26853; 7; 6;; n.
+BS  TGACGT; R26928; 10; 6;; n.
+BS  ACACGT; R27978; 7; 6;; p.
+BS  CCACGT; R28138; 13; 6;; p.
+BS  ACACGT; R28320; 11; 6;; n.
+BS  GCACGT; R28322; 11; 6;; n.
+BS  TCACGT; R28527; 6; 6;; p.
+BS  CCACGT; R28621; 8; 6;; n.
+BS  GCACGT; R30114; 14; 6;; n.
+BS  ACACGT; R30322; 8; 6;; p.
+BS  TCACGT; R30323; 5; 6;; p.
+BS  GCACGT; R30340; 7; 6;; p.
+BS  CCACGT; R30348; 9; 6;; n.
+BS  cCACGT; R30398; 12; 6;; n.
+BS  GCACGT; R30547; 9; 6;; p.
+BS  CCACGC; R31278; 12; 6;; n.
+BS  GCACGC; R31347; 9; 6;; n.
+BS  GCACGT; R31370; 7; 6;; n.
+BS  CCACGT; R31376; 9; 6;; p.
+BS  TCACGT; R31392; 18; 6;; p.
+BS  GCACGT; R31486; 21; 6;; n.
+BS  GCACGG; R31523; 1; 6;; p.
+BS  TCACGT; R32375; 17; 6;; n.
+BS  CCACGA; R32561; 8; 6;; n.
+BS  GCAGGC; R32840; 6; 6;; p.
+BS  ACACGC; R33088; 12; 6;; p.
+BS  TCACGC; R33089; 9; 6;; n.
+BS  gCACGT; R33976; 11; 6;; n.
+BS  GCACGT; R34041; 6; 6;; n.
+BS  GCACct; R34081; 13; 6;; p.
+BS  GCACGT; R34092; 9; 6;; n.
+BS  ACACGC; R34132; 13; 6;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

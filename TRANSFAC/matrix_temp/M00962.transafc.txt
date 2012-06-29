@@ -1,0 +1,98 @@
+AC  M00962
+XX
+ID  V$AR_Q6
+XX
+DT  18.11.2003 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AR
+XX
+DE  half-site matrix of ARE (androgen response element)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04652; AR; Species: baboon, Papio hamadryas; site(s) included: yes.
+BF  T16701; AR; Species: baboon, Papio hamadryas; site(s) included: yes.
+BF  T06152; AR; Species: bull frog, Rana catesbeiana; site(s) included: yes.
+BF  T16706; AR; Species: bull frog, Rana catesbeiana; site(s) included: yes.
+BF  T04653; AR; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T16702; AR; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T06147; AR; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T16705; AR; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T00040; AR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04655; AR; Species: lemur, Eulemur fulvus collaris; site(s) included: yes.
+BF  T16704; AR; Species: lemur, Eulemur fulvus collaris; site(s) included: yes.
+BF  T04654; AR; Species: macaque, Macaca fascicularis; site(s) included: yes.
+BF  T16703; AR; Species: macaque, Macaca fascicularis; site(s) included: yes.
+BF  T15601; AR; Species: Mammalia; site(s) included: no.
+BF  T00041; AR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08473; AR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06150; AR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T16707; AR; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T06151; AR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T16708; AR; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00042; AR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08528; AR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06149; AR; Species: spotted hyena, Crocuta crocuta; site(s) included: yes.
+BF  T16709; AR; Species: spotted hyena, Crocuta crocuta; site(s) included: yes.
+BF  T16700; AR; Species: Vertebrata; site(s) included: no.
+BF  T08487; AR-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18763; AR-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11      2      4     13      W
+02      1      5     23      1      G
+03     26      0      1      3      A
+04      8      1     20      1      G
+05      4     22      1      3      C
+06     29      1      0      0      A
+07      8     12      5      5      N
+08     11      0     13      6      R
+09      9      6      6      9      N
+XX
+BA  30 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGAGAACAT; R03286; 9; 9;; n.
+BS  AGAACAAAA; R10144; 7; 9;; n.
+BS  TGAGTAGAT; R10148; -2; 9;; p.
+BS  TGAACAAGA; R10149; 7; 9;; n.
+BS  AGAGCAGGA; R10150; 1; 9;; p.
+BS  AGAACAATG; R10151; 7; 9;; n.
+BS  AGAGCATGA; R10152; 1; 9;; p.
+BS  TGAGAAGAA; R14260; 3; 9;; p.
+BS  ACAGCAAGT; R14261; 8; 9;; p.
+BS  TGAGCAAAG; R14262; 5; 9;; n.
+BS  TGTGCACAC; R14263; 18; 9;; p.
+BS  TAAGCAAGC; R14264; 23; 9;; p.
+BS  AGATCATGA; R14266; 32; 9;; n.
+BS  TTTGCAAGT; R14267; 23; 9;; n.
+BS  TGACCACAG; R14276; 21; 9;; n.
+BS  AGGACATTC; R14281; 8; 9;; n.
+BS  GGAGTACTG; R14282; 7; 9;; n.
+BS  TGTACACGT; R14283; 16; 9;; p.
+BS  CCAGCACAC; R14284; 15; 9;; n.
+BS  GGAGTACTT; R14287; 12; 9;; p.
+BS  AGAACAAGA; R14293; 10; 9;; n.
+BS  AGAGCCTTT; R14294; 14; 9;; p.
+BS  TGAGCACGA; R14299; 10; 9;; n.
+BS  GGAACAGAA; R14300; 13; 9;; n.
+BS  TGAGAACAG; R14301; 12; 9;; n.
+BS  AGAACACTG; R14302; 9; 9;; n.
+BS  CCAGCAGGC; R14306; 2; 9;; p.
+BS  TGAGAACAT; R14308; 11; 9;; n.
+BS  GCAGCACGC; R14312; 5; 9;; p.
+BS  ACAGGATGT; R14314; 4; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00962; V$AR_Q6; half-site matrix of ARE (androgen response element)
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

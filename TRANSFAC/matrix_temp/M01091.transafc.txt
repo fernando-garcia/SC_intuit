@@ -1,0 +1,46 @@
+AC  M01091
+XX
+ID  I$PRD_Q6
+XX
+DT  10.02.2006 (created); dtc.
+DT  24.02.2006 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PRD
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00699; Prd; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      0      0      1      A
+02      9      0      0      0      A
+03      9      0      0      0      A
+04      0      2      0      7      T
+05      0      3      0      6      T
+06      4      0      5      0      R
+07      2      3      0      4      Y
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  aaattat; R17414; 3; 7;; n.
+BS  aaattac; R17415; 3; 7;; n.
+BS  aaattga; R17418; -1; 7;; n.
+BS  AAATTAC; R17419; 8; 7;; p.
+BS  TAATTGC; R17420; 2; 7;; p.
+BS  AAACCAT; R17423; 2; 7;; p.
+BS  AAATTGT; R17426; 34; 7;; p.
+BS  aaaccgt; R17429; 13; 7;; n.
+BS  aaatcga; R17430; 7; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0047335.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel101:0001 (2006).
+XX
+//

@@ -1,0 +1,108 @@
+AC  M00941
+AS  M00402
+XX
+ID  V$MEF2_Q6_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  11.03.2005 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MEF-2
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00006; V$MEF2_01; myogenic enhancer factor 2 (specific).
+HC  M00026; V$RSRFC4_01; related to serum response factor, C4 (specific).
+HC  M00231; V$MEF2_02; myogenic MADS factor MEF-2 (specific).
+HC  M00232; V$MEF2_03; myogenic MADS factor MEF-2 (specific).
+HC  M00233; V$MEF2_04; myogenic MADS factor MEF-2 (specific).
+HC  M00403; V$AMEF2_Q6; myocyte enhancer factor (specific).
+HC  M00405; V$MMEF2_Q6; myocyte enhancer factor (specific).
+HC  M00406; V$HMEF2_Q6; myocyte enhancer factor (specific).
+HC  M00407; V$RSRFC4_Q2;  (specific).
+HC  M01301; V$MEF2A_05; Mef2a b.s. (specific).
+HC  M02024; V$MEF2A_Q6;  (specific).
+HC  M02025; V$MEF2C_Q4;  (specific).
+HC  M02026; V$MEF2D_Q4;  (specific).
+XX
+BF  T01006; aMEF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01767; MEF-2C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16713; MEF-2C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09402; MEF-2C; Species: Mammalia; site(s) included: no.
+BF  T03814; MEF-2C; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01768; MEF-2C/delta32; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01766; MEF-2C/delta8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01769; MEF-2C/delta8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02504; MEF-2C/delta8,32; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02506; MEF-2DA'0; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09211; MEF-2DA0; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02505; MEF-2DAB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09508; mef2a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09389; mef2a; Species: Mammalia; site(s) included: no.
+BF  T15645; mef2A; Species: Mammalia; site(s) included: no.
+BF  T15781; mef2a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01004; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10368; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01005; MEF2A-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00505; mef2a-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06051; mef2a-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11401; mef2a-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02511; mef2a-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19055; MEF2A-xbb5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09547; MEF2C; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09397; MEF2C isoform 1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09399; MEF2C isoform 3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09400; MEF2C isoform 4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06566; MEF2C isoform 5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09260; mef2d; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17720; mef2d; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03822; mef2d; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01770; mef2d-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02507; mef2d-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02508; mef2d-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02509; mef2d-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02510; mef2d-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01009; RSRFC4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01010; RSRFC9; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      0      6      3      R
+02      0      2     10      1      G
+03      0      9      0      4      C
+04      0      1      0     12      T
+05     10      1      0      2      A
+06      0      0      0     13      T
+07      5      0      0      8      W
+08      1      0      0     12      T
+09      2      0      0     11      T
+10      4      0      0      9      T
+11     11      0      2      0      A
+12      5      1      5      2      R
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TCCTCTTTTAGA; R00198; 6; 12;; n.
+BS  GGTTATTTTTAG; R00244; 17; 12;; n.
+BS  GGTTATTTTTAA; R03584; 3; 12;; p.
+BS  GGTTATAATTAA; R03585; 3; 12;; p.
+BS  TGCTATTTTAAA; R03586; 5; 12;; n.
+BS  AGTTATTTTTAA; R03587; 5; 12;; n.
+BS  GGCCTTTTTTAG; R03588; 5; 12;; n.
+BS  TTCTATATATAC; R03589; 3; 12;; p.
+BS  GGCTATTTTAAG; R04212; -2; 12;; p.
+BS  AGCTTTATATAT; R08511; 3; 12;; n.
+BS  ACCTATATTTAG; R09176; 1; 12;; n.
+BS  AGCTATTTTAGG; R09235; 2; 12;; n.
+BS  GGCTATATTTAT; R09469; 3; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

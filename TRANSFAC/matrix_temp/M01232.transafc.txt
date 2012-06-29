@@ -1,0 +1,66 @@
+AC  M01232
+XX
+ID  V$SATB1_01
+XX
+DT  17.04.2009 (created); pro.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  (SATB1)2
+XX
+DE  Consensus SATB1 Binding Sequence
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15914; (SATB1)2; Species: Mammalia; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      4      0     13      T
+02     13      1      0      3      A
+03      0      2      0     15      T
+04      1      1      0     15      T
+05     13      3      0      1      A
+06      1      1     14      1      G
+07      2      4      0     11      T
+08     13      1      0      3      A
+09     14      1      0      2      A
+10      2      3      0     12      T
+11     12      1      2      2      A
+12     14      1      0      2      A
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CATTAGTAATAA; R27363; 1; 12;; p.
+BS  TCTTAGTAATAA; R27364; 1; 12;; p.
+BS  TACTAGTAATAA; R27365; 1; 12;; p.
+BS  TATTCGTAATAA; R27366; 1; 12;; p.
+BS  TATTAATAATAA; R27367; 1; 12;; p.
+BS  TATTAGCAATAA; R27368; 1; 12;; p.
+BS  TATTAGTCATAA; R27369; 1; 12;; p.
+BS  TATTAGTACTAA; R27370; 1; 12;; p.
+BS  TATTAGTAATCA; R27371; 1; 12;; p.
+BS  TATTAGTAATAC; R27372; 1; 12;; p.
+BS  TATTAGCAACAA; R27373; 1; 12;; p.
+BS  TTTATGTAATAA; R27374; 1; 12;; p.
+BS  TATTAGATTATT; R27376; 1; 12;; p.
+BS  CATTAGCAACGA; R27377; 1; 12;; p.
+BS  CTCCCCATAATA; R27378; 1; 12;; p.
+BS  CTTTCTTTTTAT; R27379; 1; 12;; p.
+BS  TATTAGCAACGA; R27380; 1; 12;; p.
+XX
+CC  sequences selected with recombinant (SATB1)2 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0062594.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20092:0001 (2009).
+RN  [2]; RE0056154.
+RX  PUBMED: 18187506.
+RA  Purbey P. K., Singh S., Kumar P. P., Mehta S., Ganesh K. N., Mitra D., Galande S.
+RT  PDZ domain-mediated dimerization and homeodomain-directed specificity are required for high-affinity DNA binding by SATB1.
+RL  Nucleic Acids Res. 36:2107-2122 (2008).
+XX
+//

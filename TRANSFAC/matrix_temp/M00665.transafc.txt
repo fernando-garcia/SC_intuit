@@ -1,0 +1,74 @@
+AC  M00665
+XX
+ID  V$SP3_Q3
+XX
+DT  08.03.2002 (created); ela.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sp3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00931; V$SP1_Q6_01;  (family).
+HP  M00932; V$SP1_Q4_01;  (family).
+HP  M00933; V$SP1_Q2_01;  (family).
+XX
+BF  T05999; Sp3; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02419; Sp3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T18023; Sp3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17642; sp3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T16553; Sp3; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T02338; Sp3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08327; Sp3; Species: Mammalia; site(s) included: no.
+BF  T10272; Sp3; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T05840; Sp3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10188; Sp3; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T02453; Sp3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18474; Sp3; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T09426; Sp3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19262; Sp3-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19256; Sp3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19261; Sp3-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19257; Sp3-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19260; Sp3-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19258; Sp3-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19259; Sp3-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09483; Sp3-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      0      0      0      A
+02      0      2      3      1      S
+03      2      3      0      1      M
+04      2      4      0      0      C
+05      0      1      1      4      T
+06      1      0      1      4      T
+07      0      2      4      0      G
+08      0      0      4      2      G
+09      0      0      6      0      G
+10      1      2      3      0      S
+11      3      1      2      0      R
+12      1      0      5      0      G
+13      0      1      5      0      G
+14      0      0      6      0      G
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGTCTTGTGCAGGG; R03367; 17; 14;; n.
+BS  AGAAGAGGGCAGGG; R03373; 6; 14;; n.
+BS  ACCCTGGGGGCGGG; R04930; -4; 14;; p.
+BS  ATCCCTGGGAGGGG; R05000; 5; 14;; n.
+BS  AGAATTCGGGGGCG; R05013; -4; 14;; p.
+BS  ACCCTTCTGGAAGG; R11589; 16; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,61 @@
+AC  M00482
+XX
+ID  V$PITX2_Q2
+XX
+DT  10.09.2001 (created); rio.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pitx2
+XX
+DE  pituitary homeobox factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02413; pitx2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14376; pitx2; Species: Mammalia; site(s) included: no.
+BF  T02410; pitx2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09186; pitx2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16597; pitx2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09159; pitx2a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15621; pitx2b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02412; pitx2b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15622; pitx2c; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17005; pitx2c; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      1      0      5      W
+02      2      1      3      3      N
+03      0      0      0      9      T
+04      8      1      0      0      A
+05      8      0      1      0      A
+06      0      0      1      8      T
+07      0      9      0      0      C
+08      1      7      1      0      C
+09      2      7      0      0      C
+10      6      1      1      1      A
+11      4      2      3      0      R
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTCATCCCTA; R11008; 9; 11;; n.
+BS  TTTAGTCCCAG; R11009; 9; 11;; n.
+BS  ACTAATCAAAA; R11010; 10; 11;; p.
+BS  CTTAAGCCCAA; R11011; 9; 11;; p.
+BS  AATAATCCCAC; R11012; 9; 11;; p.
+BS  TGTAATCCCAG; R11013; 2; 11;; n.
+BS  TGTAATCCCAG; R11014; 9; 11;; p.
+BS  AGTAATCCAGA; R11015; 7; 11;; n.
+BS  TATAATCGCCC; R11016; 15; 11;; p.
+XX
+CC  compiled and aligned by BIOBASE; binding sites in 3 genes; sites quality 2 or better
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

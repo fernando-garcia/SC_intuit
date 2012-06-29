@@ -1,0 +1,73 @@
+AC  M01844
+XX
+ID  F$HSF_Q6
+XX
+DT  08.02.2011 (created); mkl.
+DT  18.04.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HSF1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00385; HSF1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      6      2     11      N
+02      6      2      6     14      N
+03      9      6      3     10      N
+04      6      4      2     16      T
+05      2      6      2     18      T
+06      3      4      6     15      T
+07      0      0      0     28      T
+08      0      0      0     28      T
+09      0     28      0      0      C
+10      0      4      2     22      T
+11      9      4      7      8      N
+12      2      4     13      9      K
+13     17      4      4      3      A
+14     16      3      4      5      A
+15     10      6      6      6      N
+XX
+BA  28 sequences (matrix compiled from individual genomic sites)
+XX
+BS  agaatattctttatt; R00751; 2; 15;; n.
+BS  gctcttttcgcgaac; R00754; 31; 15;; n.
+BS  cGAAtgTTCgcGaag; R00756; 5; 15;; p.
+BS  TTCTTTTTCCAGAAC; R00771; -3; 15;; p.
+BS  CGTCTTTTCCGCTGA; R01043; 6; 15;; p.
+BS  AGTACATTCTAGAAG; R03862; 3; 15;; p.
+BS  tttttgttcttacta; R22685; -4; 15;; n.
+BS  TTCTTTTTCTCTAGT; R22787; 14; 15;; p.
+BS  GAGCTTTTCCATGGG; R22805; -3; 15;; p.
+BS  AAATTTTTCTTCTTT; R22806; 5; 15;; p.
+BS  ttttttttctggaat; R22830; 6; 15;; n.
+BS  CATTTCTTCTAGAAG; R23021; -3; 15;; p.
+BS  acggcgttctagaaa; R23723; 1; 15;; n.
+BS  aaaaagttctgcgaa; R23724; 2; 15;; n.
+BS  TTCTGGTTCTTTCGA; R23725; 7; 15;; p.
+BS  AGAACTTTCTgagca; R23728; 23; 15;; p.
+BS  ttttccttctttaat; R24186; 19; 15;; n.
+BS  CTTTTTTTCTCTCCA; R24191; 16; 15;; p.
+BS  CTCTCGTTCTGGGAC; R24192; 5; 15;; p.
+BS  atacaattctacaac; R24193; 21; 15;; n.
+BS  AAATGTTTCTAGAAG; R24195; 6; 15;; p.
+BS  TTCTTTTTCTTTTTC; R24196; 24; 15;; p.
+BS  ttttttttctttctt; R24197; 33; 15;; n.
+BS  TTATTTTTCTTTACA; R28210; 3; 15;; p.
+BS  ttggttttctggaaa; R28211; 10; 15;; n.
+BS  CATTTCTTCTAGAAG; R32805; 6; 15;; p.
+BS  AGAACCTTCTGGAAA; R33036; 1; 15;; p.
+BS  TTCTTTTTCCAGAAC; R33042; -4; 15;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

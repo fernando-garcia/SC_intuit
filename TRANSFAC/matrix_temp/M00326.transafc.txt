@@ -1,0 +1,54 @@
+AC  M00326
+XX
+ID  V$PAX1_B
+XX
+DT  11.11.1998 (created); abi.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-1
+XX
+DE  Pax-1 binding sites
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+XX
+BF  T02110; Pax-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00398; Pax-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17271; Pax-1; Species: Mammalia; site(s) included: yes.
+BF  T00677; Pax-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17830; Pax-1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      5      0      0      C
+02      0      5      0      0      C
+03      0      0      5      0      G
+04      0      0      0      5      T
+05      0      0      0      5      T
+06      1      4      0      0      C
+07      0      5      0      0      C
+08      0      0      5      0      G
+09      0      4      1      0      C
+10      0      0      0      5      T
+11      0      5      0      0      C
+12      0      0      0      5      T
+13      5      0      0      0      A
+14      0      0      5      0      G
+15      5      0      0      0      A
+16      0      0      0      5      T
+17      5      0      0      0      A
+18      0      0      0      5      T
+XX
+BA  5 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0002787.
+RX  PUBMED: 1889089.
+RA  Chalepakis G., Fritsch R., Fickenscher H., Deutsch U., Goulding M., Gruss P.
+RT  The molecular basis of the undulated/Pax-1 mutation
+RL  Cell 66:873-884 (1991).
+XX
+//

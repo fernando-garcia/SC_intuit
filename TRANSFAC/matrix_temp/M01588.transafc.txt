@@ -1,0 +1,54 @@
+AC  M01588
+XX
+ID  V$GKLF_02
+XX
+DT  02.12.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GKLF (KLF4)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T14243; GKLF; Species: human, Homo sapiens; site(s) included: no.
+BF  T14202; GKLF; Species: Mammalia; site(s) included: no.
+BF  T02450; GKLF; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14002; GKLF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15112; GKLF; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15187; GKLF; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T04959; GKLF-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T14244; GKLF-isoform2; Species: human, Homo sapiens; site(s) included: no.
+BF  T14242; GKLFa; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01    131     34    312     23      G
+02     34    441     17      8      C
+03     11    452     13     24      C
+04    258    234      5      3      M
+05      1    496      2      1      C
+06    237      2    238     23      R
+07      1    496      0      3      C
+08      2    496      2      0      C
+09      1    490      1      8      C
+10    199    120      6    175      N
+11     81    132    156    131      N
+12     83    225    117     75      N
+XX
+BA  500 sequences (ChIP-on-chip)
+XX
+DR  JASPAR: MA0039.
+XX
+RN  [1]; RE0065741.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20101:0002 (2010).
+RN  [2]; RE0063019.
+RX  PUBMED: 18555785.
+RA  Chen X., Xu H., Yuan P., Fang F., Huss M., Vega V. B., Wong E., Orlov Y. L., Zhang W., Jiang J., Loh Y. H., Yeo H. C., Yeo Z. X., Narang V., Govindarajan K. R., Leong B., Shahab A., Ruan Y., Bourque G., Sung W. K., Clarke N. D., Wei C. L., Ng H. H.
+RT  Integration of external signaling pathways with the core transcriptional network in embryonic stem cells.
+RL  Cell 133:1106-1117 (2008).
+XX
+//

@@ -1,0 +1,72 @@
+AC  M00191
+XX
+ID  V$ER_Q6
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ER
+XX
+DE  estrogen receptor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00959; V$ER_Q6_02; half-site matrix, half-ERE (family).
+XX
+BF  T06188; ER-alpha; Species: atlantic croaker, Micropogonias undulatus; site(s) included: yes.
+BF  T06197; ER-alpha; Species: atlantic salmon, Salmo salar; site(s) included: yes.
+BF  T00262; ER-alpha; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00264; ER-alpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00263; ER-alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T06182; ER-alpha; Species: desert grassland whiptail lizard, Cnemidophorus uniparens; site(s) included: yes.
+BF  T06199; ER-alpha; Species: gilthead sea bream, Sparus aurata; site(s) included: yes.
+BF  T17320; ER-alpha; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T06183; ER-alpha; Species: horse, Equus caballus; site(s) included: yes.
+BF  T00261; ER-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06191; ER-alpha; Species: Israeli tilapia, Oreochromis aureus; site(s) included: yes.
+BF  T09637; ER-alpha; Species: Mammalia; site(s) included: no.
+BF  T06193; ER-alpha; Species: medaka, Oryzias latipes; site(s) included: yes.
+BF  T00259; ER-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08596; ER-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06192; ER-alpha; Species: Nile tilapia, Oreochromis niloticus (Tilapia nilotica); site(s) included: yes.
+BF  T06195; ER-alpha; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T05703; ER-alpha; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00258; ER-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18905; ER-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T06194; ER-alpha; Species: red sea bream, Pagrus major (Chrysophrys major); site(s) included: yes.
+BF  T06198; ER-alpha; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T06196; ER-alpha; Species: zebra finch, Poephila guttata (Taeniopygia guttata); site(s) included: yes.
+BF  T06181; ER-alpha; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T08300; ER-alpha-L; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18904; ER-alpha-S; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      4      4      6      N
+02      4      9      3      4      N
+03     12      4      3      1      A
+04      6      1     11      2      R
+05      3      2     11      4      G
+06      3      3      4     10      N
+07      3     10      3      4      C
+08     11      2      4      3      A
+09      4      9      3      4      N
+10      3      6      3      8      N
+11      2      3      9      6      N
+12      0      1      0     19      T
+13      1      0     19      0      G
+14     20      0      0      0      A
+15      0     18      2      0      C
+16      1     18      1      0      C
+17      2      7      2      9      Y
+18      7      1      8      4      N
+19      8      5      3      4      N
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

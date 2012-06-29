@@ -1,0 +1,58 @@
+AC  M01247
+XX
+ID  V$NANOG_02
+XX
+DT  25.05.2009 (created); sla.
+DT  10.07.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Nanog
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15045; nanog; Species: human, Homo sapiens; site(s) included: no.
+BF  T18507; nanog; Species: Mammalia; site(s) included: yes.
+BF  T08969; nanog; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15044; nanog-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08800; nanog-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15043; nanog-isoform2; Species: human, Homo sapiens; site(s) included: no.
+BF  T08798; nanog-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     91     46    114    249      N
+02    115     76     79    230      N
+03    183     39     81    197      W
+04    186     63    185     66      N
+05    210    164     87     39      N
+06    327     29     79     65      A
+07    174     40    138    148      N
+08    292     58    129     21      A
+09    447      5      6     42      A
+10      8    367    114     11      C
+11    491      4      0      5      A
+12    484      2      4     10      A
+13    301      4     16    179      W
+14    177     18    285     20      R
+15    124     87    283      6      G
+16    224    127     84     65      N
+17    228    104    109     59      N
+18    141    135    152     72      N
+19    132    155     93    120      N
+20    162    106    107    125      N
+XX
+BA  500 sequences (ChIP-on-chip)
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0063019.
+RX  PUBMED: 18555785.
+RA  Chen X., Xu H., Yuan P., Fang F., Huss M., Vega V. B., Wong E., Orlov Y. L., Zhang W., Jiang J., Loh Y. H., Yeo H. C., Yeo Z. X., Narang V., Govindarajan K. R., Leong B., Shahab A., Ruan Y., Bourque G., Sung W. K., Clarke N. D., Wei C. L., Ng H. H.
+RT  Integration of external signaling pathways with the core transcriptional network in embryonic stem cells.
+RL  Cell 133:1106-1117 (2008).
+XX
+//

@@ -1,0 +1,45 @@
+AC  M02059
+XX
+ID  V$ELK1_06
+XX
+DT  06.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ELK-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T00250; Elk-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08445; Elk1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18902; Elk1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     62     12     17      9      A
+02     10     72     12      7      C
+03      6     94      1      0      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     96      0      3      1      A
+07     82      2      0     16      A
+08     22      6     71      2      G
+09      6     20      6     68      T
+10     28     19     27     25      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

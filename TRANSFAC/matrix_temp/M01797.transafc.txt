@@ -1,0 +1,36 @@
+AC  M01797
+XX
+ID  V$SIRT6_01
+XX
+DT  01.09.2010 (created); sla.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SIRT6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18012; SIR2L6; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    368      0      9    125      A
+02     21      2    473      6      G
+03    494      1      6      1      A
+04    148      4     47    303      T
+05    485      8      4      5      A
+06    494      0      4      4      A
+07    163      7    325      7      R
+08    172     97    202     31      N
+XX
+BA  502 sequences (ChIP-on-chip)
+XX
+CC  used SEEDER algorthm for ChIP Motifs approach using top  500 scoring sequences from ENCODE sets
+XX
+RN  [1]; RE0063123.
+RT  ENCODE Transcription Factor Binding Sites by ChIP-seq from Yale/UC-Davis/Harvard; URL: http://genome.ucsc.edu/cgi-bin/hgTrackUi?db=hg18&g=wgEncodeYaleChIPseq
+RL  Internet : ().
+XX
+//

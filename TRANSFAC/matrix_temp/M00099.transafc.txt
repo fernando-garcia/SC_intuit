@@ -1,0 +1,116 @@
+AC  M00099
+XX
+ID  V$S8_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  S8
+XX
+DE  S8
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02094; PRX-2; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01483; PRX-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08863; PRX-2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      2      2      7      W
+02     12      7      4     15      N
+03     11      7     13     14      N
+04     25      5      7     10      A
+05     14     14     12     10      N
+06      6     20      5     20      Y
+07      1     27      0     25      Y
+08     52      2      3      0      A
+09     59      0      0      0      A
+10      0      0      0     59      T
+11      0      0      0     59      T
+12     59      0      0      0      A
+13     16      3     14      8      N
+14      1     10      3      5      C
+15      2      6      4      3      N
+16      4      1      2      5      N
+XX
+BA  59 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CAGTGCCAATTA; R06491; 1; 16;; p.
+BS   GGACCTAATTAA; R06492; 1; 16; 1; p.
+BS   TTATCCAATTAA; R06493; 1; 16; 1; p.
+BS  AAGCCTTAATTA; R06494; 1; 16;; p.
+BS    CGAACAATTAG; R06495; 1; 16; 1, 2; p.
+BS  AATAGCCAATTA; R06496; 1; 16;; p.
+BS  TAAACCTAATTA; R06497; 1; 16;; p.
+BS  TAGTCATGATTA; R06498; 1; 16;; p.
+BS  TTGACCTAATTA; R06499; 1; 16;; p.
+BS   TAACTCAATTAG; R06500; 1; 16; 1; p.
+BS   TATGTTAATTAT; R06501; 1; 16; 1; p.
+BS     AATTAATTAATC; R06502; 1; 16; 1, 2, 3; p.
+BS  ACTATTTCATTA; R06503; 1; 16;; p.
+BS    AAGTTAATTAAT; R06504; 1; 16; 1, 2; p.
+BS  AGTCTTCAATTA; R06505; 1; 16;; p.
+BS  TATTGTTAATTA; R06506; 1; 16;; p.
+BS  GCTAAGTAATTA; R06507; 1; 16;; p.
+BS  TAGTGATAATTA; R06508; 1; 16;; p.
+BS   TGAACCAATTAA; R06509; 1; 16; 1; p.
+BS   CATTATAATTAT; R06510; 1; 16; 1; p.
+BS  TTTATATCATTA; R06511; 1; 16;; p.
+BS  TATACCCAATTA; R06512; 1; 16;; p.
+BS   AGAGCCAATTAA; R06513; 1; 16; 1; p.
+BS  CCAATTTGATTA; R06514; 1; 16;; p.
+BS    TAATCAATTAGT; R06515; 1; 16; 1, 2; p.
+BS     ATCAAATTAGGG; R06516; 1; 16; 1, 2, 3; p.
+BS   TTAAGCAATTAA; R06517; 1; 16; 1; p.
+BS         AATTAAACA; R06518; 1; 16; 1, 2, 3, 4, 5, 6, 7; p.
+BS   AACCTTAATTA; R06519; 1; 16; 1; p.
+BS  ATTAATCAATTA; R06520; 1; 16;; p.
+BS    TTCTTAATTAGT; R06521; 1; 16; 1, 2; p.
+BS   TTGATCAATTAA; R06522; 1; 16; 1; p.
+BS   ATGCGCAATTAC; R06523; 1; 16; 1; p.
+BS        CAATTATGTA; R06524; 1; 16; 1, 2, 3, 4, 5, 6; p.
+BS      ATCAATTATCCA; R06525; 1; 16; 1, 2, 3, 4; p.
+BS   GCACTCAATTAT; R06526; 1; 16; 1; p.
+BS        CAATTAACTT; R06527; 1; 16; 1, 2, 3, 4, 5, 6; p.
+BS         AATTAGCCT; R06528; 1; 16; 1, 2, 3, 4, 5, 6, 7; p.
+BS   CCAGCCAATTAG; R06529; 1; 16; 1; p.
+BS      CCCAATTAGGTT; R06530; 1; 16; 1, 2, 3, 4; p.
+BS   CGACCTAATTAC; R06531; 1; 16; 1; p.
+BS      GATAATTATCGC; R06532; 1; 16; 1, 2, 3, 4; p.
+BS          ATTAACGG; R06533; 1; 16; 1, 2, 3, 4, 5, 6, 7, 8; p.
+BS   ACCGCCAATTAA; R06534; 1; 16; 1; p.
+BS         AATTAGCGT; R06535; 1; 16; 1, 2, 3, 4, 5, 6, 7; p.
+BS       TTAATTACCCA; R06536; 1; 16; 1, 2, 3, 4, 5; p.
+BS   TCGACTAATTAG; R06537; 1; 16; 1; p.
+BS    CCAGTAATTAG; R06538; 1; 16; 1, 2; p.
+BS   TAATGCGATTAT; R06539; 1; 16; 1; p.
+BS   GGTACCAATTA; R06540; 1; 16; 1; p.
+BS         AATTAGCCG; R06541; 1; 16; 1, 2, 3, 4, 5, 6, 7; p.
+BS   TGATTCAATTAT; R06542; 1; 16; 1; p.
+BS   CGGACTAATTAA; R06543; 1; 16; 1; p.
+BS    AGCCCAATTAGC; R06544; 1; 16; 1, 2; p.
+BS          ATTAGTAT; R06545; 1; 16; 1, 2, 3, 4, 5, 6, 7, 8; p.
+BS   TAGGCCAATTAA; R06546; 1; 16; 1; p.
+BS  ATCTGTCAATTA; R06547; 1; 16;; p.
+BS    GTATTAATTAACA; R06548; 1; 16; 1, 2; p.
+BS  GTAATCTAATTAA; R06549; 1; 16;; p.
+XX
+CC  sequences selected with recombinant S8 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0075.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0002970.
+RX  PUBMED: 7901837.
+RA  de Jong R., van der Heijden J., Meijlink F.
+RT  DNA-binding specificity of the S8 homeodomain
+RL  Nucleic Acids Res. 21:4711-4720 (1993).
+XX
+//

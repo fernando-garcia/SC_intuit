@@ -1,0 +1,78 @@
+AC  M00115
+XX
+ID  V$TAXCREB_02
+XX
+DT  12.05.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Tax/CREB
+XX
+DE  Tax/CREB complex
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00916; V$CREB_Q2_01;  (family).
+HP  M00917; V$CREB_Q4_01;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T13725; CREB; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T01127; CREB; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T01307; CREB; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T01380; CREB; Species: mink, Mustela vison; site(s) included: yes.
+BF  T00989; CREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00163; CREB-A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00166; CREB-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01385; CREB1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T08562; CREB1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09920; CREB1; Species: Mammalia; site(s) included: no.
+BF  T14396; CREB1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T09440; CREB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18678; CREB1; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T00164; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08452; CREB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18382; CREB1; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T02361; CREBbeta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01312; CREBomega; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01311; deltaCREB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00165; deltaCREB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00793; Tax; Species: HTLV-I, human T-cell lymphotropic virus type I; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      2      0      R
+02      0      0      0      5      T
+03      0      0      5      0      G
+04      5      0      0      0      A
+05      0      5      0      0      C
+06      0      0      5      0      G
+07      0      5      0      0      C
+08      5      0      0      0      A
+09      0      1      0      4      T
+10      4      1      0      0      A
+11      0      3      0      2      Y
+12      0      5      0      0      C
+13      0      5      0      0      C
+14      0      4      0      1      C
+15      1      4      0      0      C
+XX
+BA  5 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATGACGCATATCCCC; R06741; 7; 15;; p.
+BS  ATGACGCATACCCCC; R06742; 7; 15;; p.
+BS  GTGACGCACCCCCCC; R06743; 8; 15;; p.
+BS  ATGACGCATATCCCC; R06744; 8; 15;; p.
+BS  GTGACGCATACCCTA; R06745; 8; 15;; p.
+XX
+CC  sequences selected with recombinant TAXCREB from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0003007.
+RX  PUBMED: 8264613.
+RA  Paca-Uccaralertkun S., Zhao L.-J., Adya N., Cross J. V., Cullen B. R., Boros I. M., Giam C.-Z.
+RT  In vitro selection of DNA elements highly responsive to the human T-cell lymphotropic virus type I transcriptional activator, Tax
+RL  Mol. Cell. Biol. 14:456-462 (1994).
+XX
+//

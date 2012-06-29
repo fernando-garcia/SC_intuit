@@ -1,0 +1,52 @@
+AC  M01292
+XX
+ID  V$HOXA13_01
+XX
+DT  26.08.2009 (created); pro.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HOXA13
+XX
+DE  HOXA13 binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T06053; HOXA13; Species: chick, Gallus gallus; site(s) included: no.
+BF  T03321; HOXA13; Species: human, Homo sapiens; site(s) included: no.
+BF  T16378; HOXA13; Species: Mammalia; site(s) included: yes.
+BF  T03337; HOXA13; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9      0      1      0      A
+02      0      0      0     10      T
+03     10      0      0      0      A
+04     10      0      0      0      A
+05      5      3      0      2      M
+06      9      1      0      0      A
+XX
+BA  10 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATAAAA; R28818; 4; 6;; p.
+BS  ATAAAA; R28819; 5; 6;; p.
+BS  ATAAAA; R28820; 3; 6;; p.
+BS  ATAAAA; R28821; 4; 6;; p.
+BS  ATAAAC; R28822; 6; 6;; p.
+BS  ATAATA; R28823; 8; 6;; p.
+BS  GTAATA; R28824; 6; 6;; p.
+BS  ATAACA; R28825; 2; 6;; p.
+BS  ATAACA; R28826; 5; 6;; p.
+BS  ATAACA; R28827; 5; 6;; p.
+XX
+CC  sequences selected with recombinant HOXA13 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0062957.
+RX  PUBMED: 17200107.
+RA  Knosp W. M., Saneyoshi C., Shou S., Bachinger H. P., Stadler H. S.
+RT  Elucidation, quantitative refinement, and in vivo utilization of the HOXA13 DNA binding site.
+RL  J. Biol. Chem. 282:6843-6853 (2007).
+XX
+//

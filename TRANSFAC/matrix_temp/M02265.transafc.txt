@@ -1,0 +1,52 @@
+AC  M02265
+AS  MA0152
+XX
+ID  V$NFATC2_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NFATC2
+XX
+DE  class: Ig-fold; family: Rel
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00302; V$NFAT_Q6; Nuclear factor of activated T-cells (family).
+HP  M00935; V$NFAT_Q4_01;  (family).
+XX
+BF  T01948; NF-AT1; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T19122; NF-AT1B; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T09194; NF-AT1C; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      3      1      2     20      T
+02      1      2      2     21      T
+03      1      1      0     24      T
+04      0      0      0     26      T
+05      1     25      0      0      C
+06      0     26      0      0      C
+07     18      3      1      4      A
+XX
+BA  26 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Annotations from PAZAR NFAT1_MOUSE + NFAT1_HUMAN + NFAT1_RAT (TF0000191, TF0000193, TF0000195) in the pleiades genes project
+XX
+DR  JASPAR: MA0152.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

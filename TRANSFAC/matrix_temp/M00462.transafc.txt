@@ -1,0 +1,124 @@
+AC  M00462
+XX
+ID  V$GATA6_01
+XX
+DT  29.08.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GATA-6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00789; V$GATA_Q6;  (family).
+XX
+BF  T02684; GATA-6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02689; GATA-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14200; GATA-6; Species: Mammalia; site(s) included: no.
+BF  T02686; GATA-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10208; GATA-6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10222; GATA-6; Species: pig, Sus scrofa; site(s) included: no.
+BF  T10223; GATA-6; Species: pig, Sus scrofa; site(s) included: no.
+BF  T02717; GATA-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08541; GATA-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02714; GATA-6A; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02715; GATA-6B; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16251; GATA-6long; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10207; GATA-6short; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     25     15     17     12      N
+02     23     17     11     18      N
+03     23     19      6     21      N
+04      0      0     69      0      G
+05     69      0      0      0      A
+06      0      0      0     69      T
+07     36      3      7     23      W
+08     35      8     15     11      A
+09     14     17     24     14      N
+10     17     19     18     15      N
+XX
+BA  69 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ACAGATAACT; R10621; 10; 10;; p.
+BS  AAAGATAAGG; R10622; 10; 10;; p.
+BS  CCTGATATGC; R10623; 10; 10;; p.
+BS  ACTGATAACG; R10624; 10; 10;; p.
+BS  ACAGATACGC; R10625; 10; 10;; p.
+BS  GACGATAAGA; R10626; 10; 10;; p.
+BS  GGAGATAGAC; R10627; 10; 10;; p.
+BS  TATGATACGG; R10628; 10; 10;; p.
+BS  ACCGATAAGA; R10629; 10; 10;; p.
+BS  ATTGATAAGA; R10630; 10; 10;; p.
+BS  AAAGATAAGA; R10631; 10; 10;; p.
+BS  GCTGATATTC; R10632; 10; 10;; p.
+BS  AGCGATAGTA; R10633; 10; 10;; p.
+BS  CGTGATATGA; R10634; 10; 10;; p.
+BS  AAAGATAAAA; R10635; 10; 10;; p.
+BS  GACGATAGCG; R10636; 10; 10;; p.
+BS  ACGGATAGTA; R10637; 10; 10;; p.
+BS  ACTGATATAC; R10638; 10; 10;; p.
+BS  TGAGATACGG; R10639; 10; 10;; p.
+BS  CATGATAGCG; R10640; 10; 10;; p.
+BS  GTTGATAAGT; R10641; 10; 10;; p.
+BS  TTCGATAACC; R10642; 10; 10;; p.
+BS  GACGATAGTC; R10643; 10; 10;; p.
+BS  AAAGATAAGA; R10644; 10; 10;; p.
+BS  GCTGATAGTA; R10645; 10; 10;; p.
+BS  ACCGATATCA; R10646; 10; 10;; p.
+BS  AATGATAAGA; R10647; 10; 10;; p.
+BS  CAAGATAACT; R10648; 10; 10;; p.
+BS  TTCGATACGT; R10649; 10; 10;; p.
+BS  ACAGATAACG; R10650; 10; 10;; p.
+BS  AGAGATAAAG; R10651; 10; 10;; p.
+BS  ATTGATAGAC; R10652; 10; 10;; p.
+BS  CTAGATAAGA; R10653; 10; 10;; p.
+BS  AGAGATAAGA; R10654; 10; 10;; p.
+BS  TTTGATACTT; R10655; 10; 10;; p.
+BS  GTTGATATCG; R10656; 10; 10;; p.
+BS  GCCGATTAGT; R10657; 10; 10;; p.
+BS  TACGATTGTC; R10658; 10; 10;; p.
+BS  CAAGATTGAC; R10659; 10; 10;; p.
+BS  ACGGATTTTC; R10660; 10; 10;; p.
+BS  CTTGATTGAC; R10661; 10; 10;; p.
+BS  GGTGATTGAC; R10662; 10; 10;; p.
+BS  TATGATTGTC; R10663; 10; 10;; p.
+BS  GTCGATTACC; R10664; 10; 10;; p.
+BS  AGCGATTAAC; R10665; 10; 10;; p.
+BS  GACGATTAGG; R10666; 10; 10;; p.
+BS  CCAGATTACT; R10667; 10; 10;; p.
+BS  CAAGATTAGC; R10668; 10; 10;; p.
+BS  TGAGATTATA; R10669; 10; 10;; p.
+BS  GATGATTACG; R10670; 10; 10;; p.
+BS  AATGATTAGA; R10671; 10; 10;; p.
+BS  CGAGATTCGT; R10672; 10; 10;; p.
+BS  GTCGATTAAG; R10673; 10; 10;; p.
+BS  CCAGATTAGA; R10674; 10; 10;; p.
+BS  ATGGATTTGT; R10675; 10; 10;; p.
+BS  GTAGATTACG; R10676; 10; 10;; p.
+BS  TAGGATTCAT; R10677; 10; 10;; p.
+BS  CTTGATTTGG; R10678; 10; 10;; p.
+BS  TCGGATTATG; R10679; 10; 10;; p.
+BS  GTCGATGAAT; R10680; 10; 10;; p.
+BS  ATAGATGACG; R10681; 10; 10;; p.
+BS  TTAGATGCCC; R10682; 10; 10;; p.
+BS  TACGATGATT; R10683; 10; 10;; p.
+BS  GACGATGACG; R10684; 10; 10;; p.
+BS  AAAGATGGTT; R10685; 10; 10;; p.
+BS  CTTGATGGAT; R10686; 10; 10;; p.
+BS  ACGGATCACC; R10687; 10; 10;; p.
+BS  CACGATCTTG; R10688; 10; 10;; p.
+BS  CGCGATCTAT; R10689; 10; 10;; p.
+XX
+CC  sequences selected with recombinant GATA-6 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0016786.
+RX  PUBMED: 9784406.
+RA  Sakai Y., Nakagawa R., Sato R., Maeda M.
+RT  Selection of DNA binding sites for human transcriptional regulator GATA-6.
+RL  Biochem. Biophys. Res. Commun. 250:682-688 (1998).
+XX
+//

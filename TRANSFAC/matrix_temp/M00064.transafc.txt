@@ -1,0 +1,53 @@
+AC  M00064
+XX
+ID  F$PHO4_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PHO4
+XX
+DE  PHO4
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00690; PHO4; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      2      1      4      T
+02      3      2      2      1      N
+03      2      3      3      0      V
+04      0      8      0      0      C
+05      8      0      0      0      A
+06      0      8      0      0      C
+07      0      0      8      0      G
+08      0      0      0      8      T
+09      0      0      5      3      K
+10      0      2      4      2      G
+11      1      0      5      2      G
+12      2      2      2      2      N
+XX
+BA  8 sequences (compiled matrix imported from literature reference)
+XX
+BS  CAGCACGTTTTC; R06097; 1; 12;; p.
+BS  TCACACGTGGGA; R06098; 1; 12;; p.
+BS  GGCCACGTGCAG; R06099; 1; 12;; p.
+BS  TGACACGTGGGT; R06100; 1; 12;; p.
+BS  TACCACGTTTTC; R06101; 1; 12;; p.
+BS  CAGCACGTGGGG; R06102; 1; 12;; p.
+BS  TTCCACGTGCGA; R06103; 1; 12;; p.
+BS  ACGCACGTTGGT; R06104; 1; 12;; p.
+XX
+CC  8 binding sites from 4 genes
+XX
+RN  [1]; RE0002931.
+RX  PUBMED: 1327757.
+RA  Fisher F., Goding C. R.
+RT  Single amino acid substitutions alter helix--loop--helix protein specificity for bases flanking the core CANNTG motif
+RL  EMBO J. 11:4103-4109 (1992).
+XX
+//

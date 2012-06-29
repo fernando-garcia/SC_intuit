@@ -1,0 +1,87 @@
+AC  M01973
+XX
+ID  V$PLAG1_02
+XX
+DT  30.06.2011 (created); pro.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PLAG1
+XX
+DE  PLAG1 b.s., Motif score = 2.278 calculated by Bioprospector
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T20058; PLAG1; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T17934; PLAG1; Species: Mammalia; site(s) included: yes.
+BF  T21518; Plag1; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T21292; Plag1; Species: rat, Rattus norvegicus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0     30      0      3      C
+02      3     30      0      0      C
+03      0     33      0      0      C
+04      0     33      0      0      C
+05      6     25      0      2      C
+06      0      3     11     19      K
+07     15      4      0     14      W
+08     11      8      4     10      N
+09      8      5     11      9      N
+10     13      5      9      6      N
+11      2      3     26      2      G
+12      1      6     26      0      G
+13      0     18     15      0      S
+14      0     30      3      0      C
+15      1     31      0      1      C
+16      0     27      0      6      C
+XX
+BA  33 sequences (bacterial-one-hybrid system (B1H))
+XX
+BS  CCCCCGAAAAGGGCCC; R35793; 2; 16;; p.
+BS  CCCCCGAAAAGGGCCC; R35793; 2; 16;; p.
+BS  CCCCCGAAAAGGGCCC; R35793; 2; 16;; p.
+BS  CCCCCGAAAAGGGCCC; R35793; 2; 16;; p.
+BS  CCCCCGAAAAGGGCCC; R35793; 2; 16;; p.
+BS  CCCCCGAAAAGGGCCC; R35793; 2; 16;; p.
+BS  CCCCCGATTTGGGGCC; R35794; 1; 16;; p.
+BS  CCCCCGATTTGGGGCC; R35794; 1; 16;; p.
+BS  CCCCCGATTTGGGGCC; R35794; 1; 16;; p.
+BS  CCCCATTTGGGCCCCT; R35795; 3; 16;; p.
+BS  CCCCATTTGGGCCCCT; R35795; 3; 16;; p.
+BS  CCCCATTTGGGCCCCT; R35795; 3; 16;; p.
+BS  CCCCATTTGGGCCCCT; R35795; 3; 16;; p.
+BS  CACCCCTGTGGGCCCC; R35796; 3; 16;; p.
+BS  CCCCCTAATGCACCCC; R35797; 1; 16;; p.
+BS  CCCCCGTGGAGGCCCC; R35798; 1; 16;; p.
+BS  CCCCCGTGGAGGCCCC; R35798; 1; 16;; p.
+BS  TACCTTTTTCTGGCCC; R35799; 2; 16;; p.
+BS  TACCTTTTTCTGGCCC; R35799; 2; 16;; p.
+BS  CCCCCTAAGGAGCCCC; R35800; 3; 16;; p.
+BS  CCCCCTAAGGAGCCCC; R35800; 3; 16;; p.
+BS  CCCCCTCCTAGGCCCC; R35801; 2; 16;; p.
+BS  CCCCCTCCTAGGCCCC; R35801; 2; 16;; p.
+BS  CCCCCTACCAGGGCCT; R35802; 1; 16;; p.
+BS  CCCCCTACCAGGGCCT; R35802; 1; 16;; p.
+BS  CCCCCTTGGAGGCCAC; R35803; 1; 16;; p.
+BS  CCCCCCCCGTGGCCCC; R35804; 1; 16;; p.
+BS  CCCCACCCCTGGGCCC; R35805; 1; 16;; p.
+BS  CCCCCTAACGCGCCTC; R35806; 1; 16;; p.
+BS  CCCCCTTAGTGCCCCC; R35807; 2; 16;; p.
+BS  CCCCATTTACCCCCCC; R35808; 3; 16;; p.
+BS  TCCCCTTCCCGGCCCC; R35809; 3; 16;; p.
+BS  CCCCCTTCACGGGCCC; R35810; 1; 16;; p.
+XX
+CC  sequences selected with recombinant PLAG1 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 2 rounds of selection and amplification; calculation from MEME algorithm
+XX
+DR  JASPAR: MA0163.
+XX
+RN  [1]; RE0067275.
+RX  PUBMED: 16041365.
+RA  Meng X., Brodsky M. H., Wolfe S. A.
+RT  A bacterial one-hybrid system for determining the DNA-binding specificity of transcription factors.
+RL  Nat. Biotechnol 23:988-994 (2005).
+XX
+//

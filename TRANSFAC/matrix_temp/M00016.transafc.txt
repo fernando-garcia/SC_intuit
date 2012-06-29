@@ -1,0 +1,69 @@
+AC  M00016
+XX
+ID  I$E74A_01
+XX
+DT  17.11.1992 (created); ewi.
+DT  10.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  E74A
+XX
+DE  E74A
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00208; E74A; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      5      2      3      N
+02      3      3      6      2      N
+03     11      1      2      1      A
+04     11      0      2      3      A
+05      2      7      2      6      Y
+06      2     12      2      1      C
+07      5     12      0      0      C
+08      0      0     17      0      G
+09      0      0     17      0      G
+10     17      0      0      0      A
+11     17      0      0      0      A
+12      5      1     10      1      G
+13      1      2      1     11      T
+14      3      2      7      3      N
+15      5      3      4      3      N
+16      2      1      6      5      K
+17      2      3      6      1      N
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGGATGCGGAAATTCTA; R05287; 2; 17;; p.
+BS  CTCACCCGGAAG; R05288; 2; 17; 14, 15, 16, 17, 18; p.
+BS  TCAAGTAGGAAGTGAGG; R05289; 1; 17;; p.
+BS  CGAACCCGGAAC; R05290; 2; 17; 14, 15, 16, 17, 18; p.
+BS  CGAATCAGGAAAACTG; R05291; 2; 17; 18; p.
+BS  GGATTGCGGAAATTACC; R05292; 2; 17;; p.
+BS  ACAGTCAGGAAGTAGAG; R05293; 2; 17;; p.
+BS  CCAAACCGGAATGATTC; R05294; 1; 17;; p.
+BS  AAATCACGGAAGTGAA; R05295; 2; 17; 18; p.
+BS    AATCCGGAAACGATG; R05296; 1; 17; 1, 2; p.
+BS  AAAGGCAGGAAGTGGTA; R05297; 2; 17;; p.
+BS  TAATCCCGGAAGTGGGC; R05298; 1; 17;; p.
+BS  AGTACCCGGAAATCT; R05299; 2; 17; 17, 18; p.
+BS      ACAGGAAGTAGGG; R05300; 1; 17; 1, 2, 3, 4; p.
+BS  TTAACACGGAAGTTCTT; R05301; 2; 17;; p.
+BS  GGGACCCGGAAGTGAGG; R05302; 2; 17;; p.
+BS     ATCCGGAAGCGCGG; R12320; 1; 17; 1, 2, 3; p.
+XX
+CC  sequences selected with recombinant E74A from a pool of double-stranded oligonucleotides containing a core of 19 random nucleotides; several rounds of selection and amplification
+XX
+DR  JASPAR: MA0026.
+XX
+RN  [1]; RE0000205.
+RX  PUBMED: 2208281.
+RA  Urness L. D., Thummel C. S.
+RT  Molecular interactions within the ecdysone regulatory hierarchy: DNA binding properties of the Drosophila ecdysone-inducible E74A protein
+RL  Cell 63:47-61 (1990).
+XX
+//

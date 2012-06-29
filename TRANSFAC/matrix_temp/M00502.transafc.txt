@@ -1,0 +1,38 @@
+AC  M00502
+XX
+ID  P$TEIL_01
+XX
+DT  27.09.2001 (created); rge.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TEIL
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T04804; TEIL; Species: tobacco, Nicotiana tabacum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     70      6      6      5      A
+02      1     21      0     65      T
+03      0      1     86      0      G
+04     31     12      3     41      W
+05     86      0      1      0      A
+06      1     49      2     35      Y
+07      5     61     13      8      C
+08      3      8      4     72      T
+XX
+BA  87 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant TEIL from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0016934.
+RX  PUBMED: 10648789.
+RA  Kosugi S., Ohashi Y.
+RT  Cloning and DNA-binding properties of a tobacco Ethylene-Insensitive3 (EIN3) homolog
+RL  Nucleic Acids Res. 28:960-967 (2000).
+XX
+//

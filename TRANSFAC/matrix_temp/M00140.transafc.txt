@@ -1,0 +1,34 @@
+AC  M00140
+XX
+ID  I$BCD_01
+XX
+DT  26.05.1995 (created); ewi.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Bcd
+XX
+DE  Bicoid
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00063; Bcd; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      4      7      1      S
+02      2      1      8      1      G
+03      0      0     12      0      G
+04     12      0      0      0      A
+05      0      0      0     12      T
+06      0      0      0     12      T
+07     12      0      0      0      A
+08      6      1      2      3      A
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; from 3 genes
+XX
+//

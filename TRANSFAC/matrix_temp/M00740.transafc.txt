@@ -1,0 +1,93 @@
+AC  M00740
+XX
+ID  V$E2F1DP1RB_01
+XX
+DT  27.08.2002 (created); vma.
+DT  22.12.2011 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Rb:E2F-1:DP-1
+XX
+DE  Rb:E2F-1:DP-1 trimeric complex
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05208; pRb:E2F-1:DP-1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     11      0      0     41      T
+02      1      0      0     51      T
+03      0      0      0     52      T
+04      0     26     26      0      S
+05      0      6     46      0      G
+06      0     52      0      0      C
+07      0      0     52      0      G
+08      0     46      6      0      C
+XX
+BA  52 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TTTGGCGC; R12897; 4; 8;; p.
+BS  TTTCGCGC; R12898; 2; 8;; p.
+BS  TTTCGCGC; R12899; 1; 8;; p.
+BS  TTTGGCGC; R12900; 2; 8;; p.
+BS  TTTCGCGC; R12901; 2; 8;; p.
+BS  TTTGGCGC; R12902; 5; 8;; p.
+BS  TTTCGCGC; R12903; 1; 8;; p.
+BS  ATTGGCGC; R12904; 5; 8;; p.
+BS  TTTGGCGC; R12905; 5; 8;; p.
+BS  TTTCGCGC; R12906; 1; 8;; p.
+BS  TTTCGCGC; R12907; 1; 8;; p.
+BS  ATTGGCGC; R12908; 5; 8;; p.
+BS  TTTCCCGC; R12909; 3; 8;; p.
+BS  TTTGGCGG; R12910; 3; 8;; p.
+BS  TTTCCCGC; R12911; 3; 8;; p.
+BS  TTTGGCGG; R12912; 3; 8;; p.
+BS  TTTCGCGC; R12913; 1; 8;; p.
+BS  ATTGGCGC; R12914; 4; 8;; p.
+BS  TTTGGCGG; R12915; 3; 8;; p.
+BS  TTTCCCGC; R12916; 3; 8;; p.
+BS  TTTGGCGG; R12917; 3; 8;; p.
+BS  TTTCCCGC; R12918; 3; 8;; p.
+BS  ATTGGCGC; R12919; 5; 8;; p.
+BS  TTTCGCGC; R12920; 1; 8;; p.
+BS  TTTGGCGC; R12921; 5; 8;; p.
+BS  TTTCGCGC; R12922; 1; 8;; p.
+BS  TTTGGCGG; R12923; 3; 8;; p.
+BS  TTTCCCGC; R12924; 3; 8;; p.
+BS  TTTCCCGC; R12925; 3; 8;; p.
+BS  AATGGCGG; R12926; 3; 8;; p.
+BS  TTTCGCGC; R12927; 1; 8;; p.
+BS  ATTGGCGC; R12928; 5; 8;; p.
+BS  TTTCGCGC; R12929; 1; 8;; p.
+BS  ATTGGCGC; R12930; 5; 8;; p.
+BS  TTTGGCGC; R12931; 5; 8;; p.
+BS  TTTCGCGC; R12932; 1; 8;; p.
+BS  TTTGGCGC; R12933; 5; 8;; p.
+BS  TTTCGCGC; R12934; 1; 8;; p.
+BS  TTTCGCGC; R12935; 1; 8;; p.
+BS  ATTGGCGC; R12936; 5; 8;; p.
+BS  TTTCGCGC; R12937; 1; 8;; p.
+BS  TTTGGCGC; R12938; 5; 8;; p.
+BS  TTTCGCGC; R12939; 1; 8;; p.
+BS  ATTGGCGC; R12940; 5; 8;; p.
+BS  TTTGGCGC; R12941; 5; 8;; p.
+BS  TTTCGCGC; R12942; 1; 8;; p.
+BS  TTTCGCGC; R12943; 1; 8;; p.
+BS  ATTGGCGC; R12944; 5; 8;; p.
+BS  TTTCGCGC; R12945; 1; 8;; p.
+BS  ATTGGCGC; R12946; 4; 8;; p.
+BS  TTTGGCGC; R12947; 5; 8;; p.
+BS  TTTCGCGC; R12948; 1; 8;; p.
+XX
+CC  sequences selected with recombinant Rb:E2F-1:DP-1 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0014130.
+RX  PUBMED: 9372931.
+RA  Tao Y., Kassatly R. F., Cress W. D., Horowitz J. M.
+RT  Subunit composition determines E2F DNA-binding site specificity
+RL  Mol. Cell. Biol. 17:6994-7007 (1997).
+XX
+//

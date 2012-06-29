@@ -1,0 +1,51 @@
+AC  M00378
+XX
+ID  V$PAX4_03
+XX
+DT  29.02.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-4
+XX
+DE  Pax-4 binding sites
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+XX
+BF  T11179; Pax-4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11181; Pax-4; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02982; Pax-4a; Species: human, Homo sapiens; site(s) included: no.
+BF  T11221; Pax-4a; Species: human, Homo sapiens; site(s) included: no.
+BF  T02983; Pax-4a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03001; Pax-4a; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      6      4      4      3      N
+02      8      2      3      4      N
+03      3      5      3      6      N
+04      4      6      3      4      N
+05      4      7      1      5      N
+06      2      9      0      6      Y
+07      1     15      1      0      C
+08     16      0      0      1      A
+09      1     14      2      0      C
+10      3     12      0      2      C
+11      1     12      3      1      C
+12      0      6      6      4      B
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Pax-4 from a pool of double-stranded oligonucleotides containing a core of 76 random nucleotides; 13 rounds of selection and amplification
+XX
+RN  [1]; RE0014138.
+RX  PUBMED: 10567552.
+RA  Smith S. B., Ee H. C., Conners  J. R., German M. S.
+RT  Paired-homeodomain transcription factor PAX4 acts as a transcriptional repressor in early pancreatic development
+RL  Mol. Cell. Biol. 19:8272-8280 (1999).
+XX
+//

@@ -1,0 +1,81 @@
+AC  M00059
+XX
+ID  V$YY1_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YY1
+XX
+DE  Yin and Yang 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01214; NF-E; Species: human, Homo sapiens; site(s) included: no.
+BF  T14318; YY1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14319; YY1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T00275; YY1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T17869; YY1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00915; YY1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08660; YY1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09133; YY1; Species: Mammalia; site(s) included: no.
+BF  T00278; YY1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10428; YY1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04970; YY1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08253; YY1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      3      4      6      5      N
+02      7      5      5      1      N
+03      6      3      3      6      N
+04      3      7      5      3      N
+05      6      2      4      6      N
+06      1     13      1      3      C
+07      0     18      0      0      C
+08     17      1      0      0      A
+09      0      0      2     16      T
+10      5      3      3      7      N
+11      1      2      2     13      T
+12      6      2      1      9      W
+13      3      4      5      6      N
+14      4      4      6      4      N
+15      6      4      6      2      N
+16      9      2      2      5      W
+17      3      6      5      4      N
+XX
+BA  18 sequences (compiled matrix imported from literature reference)
+XX
+BS  GCGCCCCATACAAGGCG; R05988; 1; 17;; p.
+BS  AGAAACCATTTTCTAAT; R05989; 1; 17;; p.
+BS  GATGTCCATATTAGGAC; R05990; 1; 17;; p.
+BS  GGGGACCATCTCCGAAA; R05991; 1; 17;; p.
+BS  GAAGTCCATCCATTCAC; R05992; 1; 17;; p.
+BS  CGTCGCCATATTTGGGT; R05993; 1; 17;; p.
+BS  GGATATCATTTTGGAAG; R05994; 1; 17;; p.
+BS  CACCTCCATCTTGTTTG; R05995; 1; 17;; p.
+BS  TCCCACCATGTCATTTC; R05996; 1; 17;; p.
+BS  ACTTTTCATTAATACTT; R05997; 1; 17;; p.
+BS  TGTCACCCTAGTTCATA; R05998; 1; 17;; p.
+BS  ACAGTTCATGTATGAAC; R05999; 1; 17;; p.
+BS  CATGTGCAGTTTTACAA; R06000; 1; 17;; p.
+BS  CACACCCATGTGCAGTT; R06001; 1; 17;; p.
+BS  TTGCGACATTTTGCGAC; R06002; 1; 17;; p.
+BS  TAACGCCATTTTGCAAG; R06003; 1; 17;; p.
+BS  TCTAACCAGAGAGACCC; R06004; 1; 17;; p.
+BS  GAATGCCATTTACCGGG; R06005; 1; 17;; p.
+XX
+CC  repressing binding sites from 7 cellular genes and 6 viral genomes
+XX
+DR  JASPAR: MA0095.
+XX
+RN  [1]; RE0002938.
+RX  PUBMED: 7816599.
+RA  Shrivastava A., Calame K.
+RT  An analysis of genes regulated by the multi-functional transcriptional regulator Yin Yang-1
+RL  Nucleic Acids Res. 22:5151-5155 (1994).
+XX
+//

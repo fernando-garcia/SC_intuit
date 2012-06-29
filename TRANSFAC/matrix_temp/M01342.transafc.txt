@@ -1,0 +1,65 @@
+AC  M01342
+XX
+ID  V$CDP_03
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CDP
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00100; CDP; Species: human, Homo sapiens; site(s) included: no.
+BF  T10007; CDP; Species: Mammalia; site(s) included: no.
+BF  T01083; CDP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09991; CDP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09990; CDP-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T17015; CDP-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18703; CDP-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17013; CDP-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02042; CDP-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18704; CDP-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17012; CDP-isoform5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18705; CDP-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17014; CDP-isoform6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18706; CDP-isoform7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02043; CDP2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11260; CDP2; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   0.59   0.06   0.27   0.07      A
+02   0.11   0.54   0.22   0.14      C
+03   0.16   0.51   0.12   0.21      C
+04   0.23   0.15   0.52   0.09      G
+05   0.29   0.19   0.42   0.11      N
+06   0.13   0.16   0.09   0.62      T
+07   0.08   0.07   0.01   0.83      T
+08   0.29   0.01   0.67   0.02      G
+09   0.96   0.01   0.02   0.01      A
+10   0.02   0.01   0.01   0.97      T
+11   0.06   0.61   0.02   0.32      Y
+12   0.80   0.06   0.01   0.14      A
+13   0.31   0.35   0.11   0.23      N
+14   0.13   0.48   0.30   0.10      S
+15   0.35   0.08   0.15   0.41      W
+16   0.13   0.29   0.31   0.28      N
+17   0.41   0.10   0.30   0.19      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

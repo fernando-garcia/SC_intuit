@@ -1,0 +1,50 @@
+AC  M02002
+XX
+ID  V$EVI1_Q3
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Evi-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05220; Evi-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10210; Evi-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00273; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10211; Evi-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16545; Evi1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0      1      6      T
+02      5      1      0      1      A
+03      0      1      0      6      T
+04      0      7      0      0      C
+05      1      0      0      6      T
+06      0      0      0      7      T
+07      0      0      7      0      G
+08      0      0      0      7      T
+09      1      6      0      0      C
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TATCTTGTC; R15614; 11; 9;; n.
+BS  TATCTTGTC; R15615; 11; 9;; n.
+BS  TATCTTGTC; R15616; 11; 9;; n.
+BS  TATCTTGTC; R15617; 11; 9;; n.
+BS  TATCTTGTC; R15618; 11; 9;; n.
+BS  TCTCTTGTA; R23159; 8; 9;; p.
+BS  GTCCATGTC; R31847; 12; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

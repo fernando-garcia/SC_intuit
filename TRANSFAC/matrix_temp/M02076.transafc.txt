@@ -1,0 +1,44 @@
+AC  M02076
+XX
+ID  V$SPIB_03
+XX
+DT  11.10.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Spi-B
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T01401; Spi-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09269; Spi-B-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19267; Spi-B-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     31     27     16     27      N
+02     16     11     67      6      G
+03     45     20     29      6      N
+04      0      0    100      0      G
+05      0      0    100      0      G
+06     99      0      1      0      A
+07     89      4      1      7      A
+08     11     27     58      5      G
+09      6     30     11     52      Y
+10     27     21     28     23      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

@@ -1,0 +1,60 @@
+AC  M00038
+XX
+ID  F$GCN4_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  22.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GCN4
+XX
+DE  GCN4
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00321; GCN4; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+BF  T10854; GCN4; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      6      2      2      N
+02      2      7      5      1      S
+03      7      6      2      3      N
+04      2      7      9      2      S
+05      3      6      6      8      N
+06      5      4     10      6      N
+07      5     11      7      4      N
+08      4     12      9      5      N
+09      6      9     11     11      N
+10     19      6     15      2      R
+11      0      0      0     43      T
+12      0      0     43      0      G
+13     43      0      0      0      A
+14      0     43      0      0      C
+15      2      0      0     41      T
+16      1     42      0      0      C
+17     43      0      0      0      A
+18      1     11      5     26      T
+19     12     16      2      8      N
+20      4     14     13      3      S
+21     12     10      4      8      N
+22      6      9     11      7      N
+23      7     10      4     10      N
+24      4      8     11      5      N
+25      5     10      6      6      N
+26      8      7      3      7      N
+27      6      7      4      6      N
+XX
+BA  43 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant GCN4 from a pool of double-stranded oligonucleotides containing a core of 23 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0002916.
+RX  PUBMED: 2674675.
+RA  Oliphant A. R., Brandl C. J., Struhl K.
+RT  Defining the sequence specificity of DNA-binding proteins by selecting binding sites from random-sequence oligonucleotides: analysis of yeast GCN4 protein
+RL  Mol. Cell. Biol. 9:2944-2949 (1989).
+XX
+//

@@ -1,0 +1,42 @@
+AC  M01637
+XX
+ID  F$RAP1_02
+XX
+DT  25.01.2010 (created); mkl.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RAP1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T00715; RAP1p; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.18   0.69   0.12   0.01      C
+02   0.98      0      0   0.01      A
+03   0.01   0.75      0   0.23      C
+04   0.01   0.97   0.01   0.01      C
+05   0.01    0.9      0   0.09      C
+06   0.71      0   0.27   0.02      A
+07   0.17   0.11   0.08   0.65      T
+08   0.72      0   0.14   0.14      A
+09   0.01   0.98      0   0.01      C
+10   0.86   0.13      0   0.01      A
+XX
+BA  sequences (ChIP-on-high-density genome-wide array)
+XX
+CC  Dip-chip
+XX
+DR  JASPAR: MA0359.
+XX
+RN  [1]; RE0065610.
+RX  PUBMED: 19111667.
+RA  Badis G., Chan E. T., van Bakel H., Pena-Castillo L., Tillo D., Tsui K., Carlson C. D., Gossett A. J., Hasinoff M. J., Warren C. L., Gebbia M., Talukder S., Yang A., Mnaimneh S., Terterov D., Coburn D., Li Yeo A., Yeo Z. X., Clarke N. D., Lieb J. D., Ansari A. Z., Nislow C., Hughes T. R.
+RT  A library of yeast transcription factor motifs reveals a widespread function for Rsc3 in targeting nucleosome exclusion at promoters.
+RL  Mol. Cell 32:878-887 (2008).
+XX
+//

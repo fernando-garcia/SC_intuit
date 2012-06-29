@@ -1,0 +1,48 @@
+AC  M01128
+XX
+ID  P$SED_Q2
+XX
+DT  30.08.2006 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SED
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05768; SAD; Species: barley, Hordeum vulgare; site(s) included: yes.
+BF  T08411; SED; Species: barley, Hordeum vulgare; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      2      3      0      V
+02      0      3      0      5      Y
+03      3      2      1      2      N
+04      2      3      1      2      N
+05      2      4      2      0      C
+06      0      8      0      0      C
+07      0      0      0      8      T
+08      0      0      0      8      T
+09      0      0      0      8      T
+10      2      2      0      4      T
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  attcacttta; R08278; 20; 10;; n.
+BS  gcccgctttc; R14398; 2; 10;; n.
+BS  gttgcctttc; R16370; 9; 10;; n.
+BS  ACGTGCTTTT; R16371; 1; 10;; p.
+BS  gtatcctttt; R16372; 9; 10;; n.
+BS  CCCAACTTTT; R18702; 8; 10;; p.
+BS  ataacctttt; R18703; 12; 10;; n.
+BS  CTACCCTTTA; R18706; 3; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0048137.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel103:0001 (2006).
+XX
+//

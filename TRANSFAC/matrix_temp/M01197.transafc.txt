@@ -1,0 +1,95 @@
+AC  M01197
+XX
+ID  V$ELF5_01
+XX
+DT  23.10.2008 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Elf5
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05415; elf5; Species: human, Homo sapiens; site(s) included: no.
+BF  T15297; elf5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15298; elf5; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05416; elf5-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T05417; elf5-isoform2; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     26      1      3     15      W
+02     14      9      4     18      N
+03     23     11      8      3      A
+04     26     11      4      4      A
+05      0      0     45      0      G
+06      0      0     45      0      G
+07     45      0      0      0      A
+08     30      1      0     14      A
+09     16      5     23      1      R
+10      5      7      2     31      T
+11     20      4      7     14      W
+XX
+BA  45 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ATAAGGATGTA; R25666; 1; 11;; p.
+BS  ATAAGGAAACA; R25667; 1; 11;; p.
+BS  TAAAGGAAGTG; R25668; 1; 11;; p.
+BS  TAAAGGAAGTA; R25669; 1; 11;; p.
+BS  TTAGGGAAGTT; R25670; 1; 11;; p.
+BS  TGGCGGAAATA; R25671; 1; 11;; p.
+BS  AGTAGGATATC; R25672; 1; 11;; p.
+BS  TTTAGGAAGTT; R25673; 1; 11;; p.
+BS  ATCCGGATATT; R25674; 1; 11;; p.
+BS  ATCCGGATGTT; R25675; 1; 11;; p.
+BS  ACCAGGAAGTA; R25676; 1; 11;; p.
+BS  ACAAGGAAGTC; R25677; 1; 11;; p.
+BS  AAGCGGAAACT; R25678; 1; 11;; p.
+BS  ACAAGGATACT; R25679; 1; 11;; p.
+BS  ACAGGGAAGTG; R25680; 1; 11;; p.
+BS  AAGTGGAATAG; R25681; 1; 11;; p.
+BS  CATCGGATGTA; R25682; 1; 11;; p.
+BS  ACATGGAAGTA; R25683; 1; 11;; p.
+BS  TTACGGATATA; R25684; 1; 11;; p.
+BS  GTAAGGATATA; R25685; 1; 11;; p.
+BS  GGATGGATCAT; R25686; 1; 11;; p.
+BS  AACAGGAAATG; R25687; 1; 11;; p.
+BS  TACAGGATACA; R25688; 1; 11;; p.
+BS  AACGGGAAGTA; R25689; 1; 11;; p.
+BS  TAGAGGAAGTT; R25690; 1; 11;; p.
+BS  AACAGGAACTA; R25691; 1; 11;; p.
+BS  ACAAGGATATA; R25692; 1; 11;; p.
+BS  TCCCGGATATA; R25693; 1; 11;; p.
+BS  TAAAGGAACTT; R25694; 1; 11;; p.
+BS  ACGAGGAAGAA; R25695; 1; 11;; p.
+BS  GTACGGAAGTG; R25696; 1; 11;; p.
+BS  TAAAGGAACTC; R25697; 1; 11;; p.
+BS  TACAGGAAACA; R25698; 1; 11;; p.
+BS  TTACGGAAAAG; R25699; 1; 11;; p.
+BS  AACAGGAAGCT; R25700; 1; 11;; p.
+BS  ATGCGGAAGGA; R25701; 1; 11;; p.
+BS  TTATGGACGGA; R25702; 1; 11;; p.
+BS  ATAAGGATATC; R25703; 1; 11;; p.
+BS  ATAAGGAAGCT; R25704; 1; 11;; p.
+BS  ATGAGGAAGTA; R25705; 1; 11;; p.
+BS  ATAAGGAACAT; R25706; 1; 11;; p.
+BS  ACCGGGAAGTA; R25707; 1; 11;; p.
+BS  ATAAGGATGTT; R25708; 1; 11;; p.
+BS  AGGCGGAAGTT; R25709; 1; 11;; p.
+BS  TTAAGGAAATG; R25710; 1; 11;; p.
+XX
+CC  sequences selected with recombinant Elf5 from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0054624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel124:0001 (2008).
+RN  [2]; RE0052076.
+RX  PUBMED: 16704374.
+RA  Choi Y. S., Sinha S.
+RT  Determination of the consensus DNA-binding sequence and a transcriptional activation domain for ESE-2.
+RL  Biochem. J. 398:497-507 (2006).
+XX
+//

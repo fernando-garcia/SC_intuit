@@ -1,0 +1,65 @@
+AC  M00483
+XX
+ID  V$ATF6_01
+XX
+DT  10.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF6
+XX
+DE  activating transcription factor 6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T04742; ATF-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09623; ATF-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08702; ATF-6; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0      0     20      T
+02      0      0     20      0      G
+03     20      0      0      0      A
+04      0     20      0      0      C
+05      0      0     20      0      G
+06      0      0      0     20      T
+07      0      2     18      0      G
+08      2      0     18      0      G
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGACGTGG; R11018; 10; 8;; p.
+BS  TGACGTCA; R11019; 10; 8;; p.
+BS  TGACGTCA; R11020; 10; 8;; p.
+BS  TGACGTGG; R11021; 10; 8;; p.
+BS  TGACGTGG; R11022; 10; 8;; p.
+BS  TGACGTGG; R11023; 10; 8;; p.
+BS  TGACGTGG; R11024; 10; 8;; p.
+BS  TGACGTGG; R11025; 10; 8;; p.
+BS  TGACGTGG; R11026; 10; 8;; p.
+BS  TGACGTGG; R11027; 10; 8;; p.
+BS  TGACGTGG; R11028; 10; 8;; p.
+BS  TGACGTGG; R11029; 10; 8;; p.
+BS  TGACGTGG; R11030; 10; 8;; p.
+BS  TGACGTGG; R11031; 10; 8;; p.
+BS  TGACGTGG; R11032; 10; 8;; p.
+BS  TGACGTGG; R11033; 10; 8;; p.
+BS  TGACGTGG; R11034; 10; 8;; p.
+BS  TGACGTGG; R11035; 10; 8;; p.
+BS  TGACGTGG; R11036; 10; 8;; p.
+BS  TGACGTGG; R11037; 10; 8;; p.
+XX
+CC  sequences selected with recombinant ATF6 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0016854.
+RX  PUBMED: 10856300.
+RA  Wang Y., Shen J., Arenzana N., Tirasophon W., Kaufman R. J., Prywes R.
+RT  Activation of ATF6 and an ATF6 DNA binding site by the endoplasmic reticulum stress response.
+RL  J. Biol. Chem. 275:27013-27020 (2000).
+XX
+//

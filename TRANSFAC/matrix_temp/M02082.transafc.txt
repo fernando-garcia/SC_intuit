@@ -1,0 +1,67 @@
+AC  M02082
+XX
+ID  V$ISL2_05
+XX
+DT  20.10.2011 (created); lat.
+DT  21.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Isl2
+XX
+DE  class II, homeodomain plus LIM
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T22549; Isl-2a; Species: chinook salmon, Oncorhynchus tschawytscha; site(s) included: yes.
+BF  T22551; Isl2; Species: chinook salmon, Oncorhynchus tschawytscha; site(s) included: yes.
+BF  T22553; ISL2b; Species: chinook salmon, Oncorhynchus tschawytscha; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      8      0     12      Y
+02      1      2      0     22      T
+03     20      3      1      1      A
+04     25      0      0      0      A
+05      0      0     15      0      G
+06      1      0      0     14      T
+07      2      0     13      0      G
+XX
+BA  25 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  NTAAGTG; R36970; 6; 7;; p.
+BS  CTCA; R36971; 23; 7; 27, 28, 29; p.
+BS  TAAAGTG; R36972; 12; 7;; p.
+BS  TTAAGTG; R36973; 11; 7;; p.
+BS  TTAAGTG; R36974; 12; 7;; p.
+BS  CTAAGTG; R36975; 7; 7;; p.
+BS  TTAAGAG; R36976; 11; 7;; p.
+BS  TCAA; R36977; 23; 7; 27, 28, 29; p.
+BS  TTAA; R36978; 16; 7; 20, 21, 22; p.
+BS  ATAAGTG; R36979; 8; 7;; p.
+BS  TTAAGTG; R36980; 6; 7;; p.
+BS  CTAAGTG; R36981; 11; 7;; p.
+BS   TAAGTG; R36982; 1; 7; 1; p.
+BS  ATAAGTG; R36983; 4; 7;; p.
+BS  TTGA; R36984; 17; 7; 21, 22, 23; p.
+BS  TTAAGTG; R36985; 6; 7;; p.
+BS  CTAAGTA; R36986; 12; 7;; p.
+BS  CTCA; R36987; 21; 7; 25, 26, 27; p.
+BS  TTAAGTG; R36988; 15; 7;; p.
+BS  TTAA; R36989; 23; 7; 27, 28, 29; p.
+BS   TAAGTA; R36990; 1; 7; 1; p.
+BS  CTAA; R36991; 18; 7; 22, 23, 24; p.
+BS  TCAA; R36992; 21; 7; 25, 26, 27; p.
+BS  CTTA; R36993; 17; 7; 21, 22, 23; p.
+BS  CTCA; R36994; 22; 7; 26, 27, 28; p.
+XX
+CC  sequences selected with recombinant ISl2 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 5th and 8th rounds of selection and amplification
+XX
+RN  [1]; RE0071293.
+RX  PUBMED: 7999775.
+RA  Gong Z., Hew C. L.
+RT  Zinc and DNA binding properties of a novel LIM homeodomain protein Isl-2.
+RL  Biochemistry 33:15149-15158 (1994).
+XX
+//

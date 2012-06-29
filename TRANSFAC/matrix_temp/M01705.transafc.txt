@@ -1,0 +1,46 @@
+AC  M01705
+XX
+ID  V$TCF4_01
+XX
+DT  20.04.2010 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TCF-4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T17790; TCF 4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03404; TCF-4; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T18224; TCF-4; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T02918; TCF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16010; TCF-4; Species: Mammalia; site(s) included: no.
+BF  T08958; TCF-4; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01    0.2   0.34   0.23   0.24      N
+02   0.04   0.66   0.14   0.16      C
+03   0.06    0.1      0   0.84      T
+04   0.02   0.03   0.03   0.91      T
+05   0.06      0   0.01   0.93      T
+06   0.05   0.16   0.68   0.11      G
+07   0.88      0   0.02    0.1      A
+08   0.19      0   0.02   0.78      T
+09    0.1   0.37   0.48   0.06      S
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  PWM was computed on the basis of affinity measurements with EEL
+XX
+DR  JASPAR: PB0084.
+XX
+RN  [1]; RE0066570.
+RX  PUBMED: 16413481.
+RA  Hallikas O., Palin K., Sinjushina N., Rautiainen R., Partanen J., Ukkonen E., Taipale J.
+RT  Genome-wide prediction of mammalian enhancers based on analysis of transcription-factor binding affinity.
+RL  Cell 124:47-59 (2006).
+XX
+//

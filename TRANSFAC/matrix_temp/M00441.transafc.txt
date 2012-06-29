@@ -1,0 +1,72 @@
+AC  M00441
+XX
+ID  P$GBF_Q2
+XX
+DT  02.07.2001 (created); rge.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GBF
+XX
+TY  family
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+HC  M01806; P$GBF1_01;  (specific).
+HC  M01838; P$GBF1_Q2;  (specific).
+XX
+BF  T01187; GBF; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T00316; GBF; Species: tomato, Lycopersicon esculentum; site(s) included: yes.
+BF  T02463; GBF1; Species: maize, Zea mays; site(s) included: yes.
+BF  T17033; GBF1; Species: maize, Zea mays; site(s) included: yes.
+BF  T02672; GBF1; Species: soybean, Glycine max; site(s) included: yes.
+BF  T01078; GBF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T02676; GBF12; Species: tomato, Lycopersicon esculentum; site(s) included: yes.
+BF  T13946; GBF12; Species: tomato, Lycopersicon esculentum; site(s) included: yes.
+BF  T02798; GBF1A; Species: rape, Brassica napus; site(s) included: yes.
+BF  T02799; GBF1B; Species: rape, Brassica napus; site(s) included: yes.
+BF  T01079; GBF2; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T02800; GBF2A; Species: rape, Brassica napus; site(s) included: yes.
+BF  T02674; GBF2A; Species: soybean, Glycine max; site(s) included: yes.
+BF  T01080; GBF3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T14805; GBF3; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T02670; GBF4; Species: tomato, Lycopersicon esculentum; site(s) included: yes.
+BF  T13944; GBF4; Species: tomato, Lycopersicon esculentum; site(s) included: yes.
+BF  T02671; GBF9; Species: tomato, Lycopersicon esculentum; site(s) included: yes.
+BF  T13945; GBF9; Species: tomato, Lycopersicon esculentum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      2      5      T
+02      0      0      5      3      K
+03      2      6      0      1      C
+04      0      8      1      0      C
+05      9      0      0      0      A
+06      0      9      0      0      C
+07      0      0      9      0      G
+08      0      0      0      9      T
+09      0      2      7      0      G
+10      1      0      6      2      G
+11      1      7      0      0      C
+12      4      3      0      0      M
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGCCACGTCACC; R00679; 4; 12;; p.
+BS  TTCCACGTGGCA; R01315; 2; 12;; p.
+BS  TGACACGTGGCA; R01320; 6; 12;; p.
+BS  GGTGACGTGGCA; R03283; 6; 12;; p.
+BS  TGCCACGTGGAC; R03630; 6; 12;; p.
+BS  TGCCACGTGGCC; R08437; 3; 12;; p.
+BS  TTACACGTGTCA; R08466; 4; 12;; p.
+BS    CCACGTCG; R08580; 1; 12; 1, 2, 11, 12; p.
+BS   TCCACGTGTC; R08658; 1; 12; 1, 12; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

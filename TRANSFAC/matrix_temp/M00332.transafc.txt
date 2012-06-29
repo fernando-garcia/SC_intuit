@@ -1,0 +1,44 @@
+AC  M00332
+XX
+ID  V$WHN_B
+XX
+DT  11.11.1998 (created); abi.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Whn
+XX
+DE  winged-helix factor nude
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02525; FOXN1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01835; FOXN1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02526; FOXN1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16568; Whn; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01     59     10     10     21      A
+02     40     16     32     12      N
+03     12     32     28     28      N
+04      9     19     66      6      G
+05    100      0      0      0      A
+06      0    100      0      0      C
+07      0      0    100      0      G
+08      0    100      0      0      C
+09      8     19     18     55      T
+10     36     13     13     38      N
+11     15     17     23     45      N
+XX
+BA  sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0007033.
+RX  PUBMED: 9108066.
+RA  Schlake T., Schorpp M., Nehls M., Boehm T.
+RT  The nude gene encodes organisms that  lack an anticipatory immune system
+RL  Proc. Natl. Acad. Sci. USA 94:3842-3847 (1997).
+XX
+//

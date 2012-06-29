@@ -1,0 +1,72 @@
+AC  M01089
+XX
+ID  I$KR_Q6
+XX
+DT  10.02.2006 (created); dtc.
+DT  24.02.2006 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  KR
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00456; Kr; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10      4      6     10      N
+02      9      6      3     12      N
+03     18      4      3      5      A
+04     20      4      2      4      A
+05      1     27      2      0      C
+06      4     21      1      4      C
+07      1     24      2      3      C
+08      0      2      2     26      T
+09      0      0      0     30      T
+10      1      1      1     27      T
+11      2      7      9     12      N
+12      9      6      6      9      N
+XX
+BA  30 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCGGGACTTAAC; R02609; 2; 12;; p.
+BS  atgccccttttt; R02610; -3; 12;; n.
+BS  ttcaccctttca; R17238; 7; 12;; n.
+BS  aaaacccgttga; R17433; -2; 12;; n.
+BS  TTAAGCCTTTCT; R17437; 1; 12;; p.
+BS  CTTTCGGGTTCT; R17441; -2; 12;; p.
+BS  aaaacattttaa; R17444; -2; 12;; n.
+BS  taagccttttgc; R17445; -3; 12;; n.
+BS  CGCAACCTTGGT; R17448; -7; 12;; p.
+BS  aaaacccttttt; R17454; -2; 12;; n.
+BS  AAAACTCTTTGC; R17512; 4; 12;; p.
+BS  GAACCTCTTTCG; R17513; 35; 12;; p.
+BS  gtgacccttttg; R17572; -2; 12;; n.
+BS  GTCACTCCTTCT; R17647; 1; 12;; p.
+BS  AACTCAGCTTGA; R17653; 3; 12;; p.
+BS  TCAACACTTTCC; R17655; -7; 12;; p.
+BS  GAAACCCTTTGC; R17657; 1; 12;; p.
+BS  cgaaccctttgg; R17666; -2; 12;; n.
+BS  taatcccttcga; R17700; 1; 12;; n.
+BS  ATTACCCTTTTG; R17708; 6; 12;; p.
+BS  CCATCCTTTTGC; R17713; 11; 12;; p.
+BS  tcacccatttct; R17714; 20; 12;; n.
+BS  GTAACCCTTTTA; R17718; 1; 12;; p.
+BS  TTAACTCTTTTT; R17721; 2; 12;; p.
+BS  TTAACCCTTTTA; R17722; 5; 12;; p.
+BS  TTAACCCTTTTA; R17723; 3; 12;; p.
+BS  acaacccttttg; R17724; 8; 12;; n.
+BS  agtcccctttta; R17935; -1; 12;; n.
+BS  TCTACCCTTTTG; R17936; 1; 12;; p.
+BS  attacccttttt; R17937; 1; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0047335.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel101:0001 (2006).
+XX
+//

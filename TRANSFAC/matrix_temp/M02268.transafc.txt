@@ -1,0 +1,53 @@
+AC  M02268
+AS  MA0155
+XX
+ID  V$INSM1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  INSM1
+XX
+DE  class: Zinc-coordinating; family: BetaBetaAlpha-zinc finger
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05887; IA-1; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T10317; IA-1; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      1      0      4     19      T
+02      0      0     20      4      G
+03      0      8      3     13      Y
+04      6     15      0      3      C
+05     16      0      0      8      A
+06      0      0     24      0      G
+07      0      1     23      0      G
+08      0      0     24      0      G
+09      0      0     24      0      G
+10      0      2     16      6      G
+11      3     16      0      5      C
+12     10      0     12      2      R
+XX
+BA  24 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Annotations from PAZAR INSM1_HUMAN (TF0000773) in the TFe project
+XX
+DR  JASPAR: MA0155.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

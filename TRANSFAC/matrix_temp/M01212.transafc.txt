@@ -1,0 +1,54 @@
+AC  M01212
+XX
+ID  V$STAT1STAT1_Q3
+XX
+DT  29.01.2009 (created); dtc.
+DT  13.02.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT1:STAT1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T14576; (STAT1)2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15379; (STAT1)2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05692; STAT1:STAT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05695; STAT1:STAT1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      1      3      1      N
+02      0      0      0      8      T
+03      0      0      0      8      T
+04      0      0      0      8      T
+05      1      7      0      0      C
+06      2      5      0      1      C
+07      3      5      0      0      M
+08      2      1      5      0      G
+09      0      0      7      1      G
+10      7      1      0      0      A
+11      8      0      0      0      A
+12      5      1      2      0      A
+13      5      1      1      1      A
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATTTCCCCGAAAT; R14204; 6; 13;; p.
+BS  gtttcccggcaca; R14444; 5; 13;; n.
+BS  gtttatagtaagg; R14714; 1; 13;; n.
+BS  ATTTCCCAGAAAA; R24676; 25; 13;; p.
+BS  gtttcaaggaaga; R25433; 7; 13;; n.
+BS  ATTTCCCAGAAAA; R25885; 2; 13;; p.
+BS  ctttcccggaaac; R25957; 3; 13;; n.
+BS  ttttcaaggaaaa; R25961; 3; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+RN  [1]; RE0055371.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20091:0001 (2009).
+XX
+//

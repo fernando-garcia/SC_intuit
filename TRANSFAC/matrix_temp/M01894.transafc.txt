@@ -1,0 +1,177 @@
+AC  M01894
+XX
+ID  V$YY1_Q6_03
+XX
+DT  15.04.2011 (created); mkl.
+DT  19.04.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YY1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01214; NF-E; Species: human, Homo sapiens; site(s) included: no.
+BF  T14318; YY1; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14319; YY1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00275; YY1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17869; YY1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00915; YY1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08660; YY1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09133; YY1; Species: Mammalia; site(s) included: yes.
+BF  T00278; YY1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10428; YY1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04970; YY1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08253; YY1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      3    114      3      7      C
+02      0    125      0      2      C
+03    113      1      4      9      A
+04      2      0      2    123      T
+05     21     42     18     46      N
+06     20     17     11     79      T
+07     23     21     14     69      T
+XX
+BA  127 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCATATT; R00031; 13; 7;; n.
+BS  CCATATT; R00034; 4; 7;; n.
+BS  CCATATT; R00035; 4; 7;; n.
+BS  CATCATG; R00284; 10; 7;; p.
+BS  CATATTA; R00472; 8; 7;; p.
+BS  CATTTTG; R01149; 4; 7;; p.
+BS  CCATTTT; R01161; 5; 7;; n.
+BS  CATCTGT; R01329; 6; 7;; p.
+BS  CATCCGC; R01330; 6; 7;; p.
+BS  CATCTTG; R01833; 6; 7;; p.
+BS  CCATGTA; R02999; 7; 7;; n.
+BS  CCATATT; R03000; 7; 7;; n.
+BS  CATCTTT; R03002; 8; 7;; p.
+BS  CCATCTC; R03113; 6; 7;; n.
+BS  ACTTTGC; R03177; -4; 7;; n.
+BS  CCATTTT; R03321; 2; 7;; n.
+BS  CCATGGT; R04077; -2; 7;; n.
+BS  CCATCTT; R04776; 5; 7;; n.
+BS  CATTAAT; R04848; 13; 7;; p.
+BS  CATTTTC; R04899; 11; 7;; p.
+BS  CATCTTG; R04900; 14; 7;; p.
+BS  CATTTTC; R04916; 32; 7;; p.
+BS  CCATTAT; R04951; 4; 7;; n.
+BS  CCATTCT; R04952; 21; 7;; n.
+BS  CATTAAT; R04957; 17; 7;; p.
+BS  CATCGCA; R04984; 9; 7;; p.
+BS  CATGTGT; R09521; 12; 7;; p.
+BS  CCATGAC; R11726; 13; 7;; n.
+BS  CTATCTG; R13416; 25; 7;; n.
+BS  CATTTGA; R13417; 9; 7;; p.
+BS  CTTCTGA; R13420; 18; 7;; p.
+BS  CCATGCC; R13421; 12; 7;; n.
+BS  CCATTAA; R13424; 6; 7;; n.
+BS  CATGGAG; R13425; 18; 7;; p.
+BS  CCATACA; R13426; 39; 7;; n.
+BS  CATGCTG; R14577; 10; 7;; p.
+BS  CATTTTC; R14736; 12; 7;; p.
+BS  CATTTTA; R14737; 12; 7;; p.
+BS  ACATTCT; R14814; 16; 7;; n.
+BS  CCCTCTG; R14815; 4; 7;; n.
+BS  CATTTAT; R14869; 15; 7;; p.
+BS  CCATAAT; R14870; 6; 7;; n.
+BS  CATTCAT; R16077; 3; 7;; p.
+BS  CATGTGG; R16078; 12; 7;; p.
+BS  CCATCTA; R16079; 9; 7;; n.
+BS  TCTTATT; R16080; 8; 7;; n.
+BS  CATCTAC; R16833; 14; 7;; p.
+BS  CATTGCC; R16984; 10; 7;; p.
+BS  CATTGGC; R16985; 7; 7;; p.
+BS  CATCATT; R18414; 12; 7;; p.
+BS  CATGTTg; R19074; 7; 7;; p.
+BS  CCCTTCA; R19485; 2; 7;; n.
+BS  CTTCCTC; R19549; 14; 7;; p.
+BS  CCATTTT; R19697; 20; 7;; n.
+BS  CATTTTA; R19698; 14; 7;; p.
+BS  CATTTTt; R20259; 9; 7;; p.
+BS  CCATAAC; R20800; 34; 7;; n.
+BS  CCTTTTC; R20954; 10; 7;; n.
+BS  ACATAGT; R20956; 20; 7;; n.
+BS  TCATAGC; R20958; 6; 7;; n.
+BS  CATCTCG; R21069; 16; 7;; p.
+BS  CCATCAC; R21131; 15; 7;; n.
+BS  CCATCAT; R21189; 7; 7;; n.
+BS  CATTTAA; R21198; 2; 7;; p.
+BS  CATCTCT; R21288; 10; 7;; p.
+BS  CCATTTC; R21380; 8; 7;; n.
+BS  CATCTTT; R21490; 14; 7;; p.
+BS  CATCTCT; R21525; 22; 7;; p.
+BS  CATTTTG; R21526; 12; 7;; p.
+BS  CATCATG; R22148; 77; 7;; p.
+BS  CCATTTT; R22481; 5; 7;; n.
+BS  CATTGGC; R22695; 15; 7;; p.
+BS  CATTCCT; R22729; 46; 7;; p.
+BS  CTTGTTG; R23471; 22; 7;; p.
+BS  CATTTCT; R23813; 9; 7;; p.
+BS  CCATCTT; R24009; 23; 7;; n.
+BS  CCATGTT; R24011; 23; 7;; n.
+BS  CATTAAA; R24067; 9; 7;; p.
+BS  TCCTATT; R24623; 2; 7;; n.
+BS  CATCCCA; R24628; 12; 7;; p.
+BS  CCATCCC; R24629; 10; 7;; n.
+BS  CCATGAA; R24630; 10; 7;; n.
+BS  CATGTGG; R24631; 11; 7;; p.
+BS  CCATTCC; R24632; 9; 7;; n.
+BS  CATTCTT; R24634; 12; 7;; p.
+BS  CATAAAT; R26173; 10; 7;; p.
+BS  CAACTTG; R26175; 26; 7;; p.
+BS  CATCTCT; R26179; 12; 7;; p.
+BS  CCATCTA; R26199; 11; 7;; n.
+BS  CATGTCT; R26203; 7; 7;; p.
+BS  CCGTTTC; R26207; 14; 7;; n.
+BS  CCATGAC; R26208; 8; 7;; n.
+BS  CATCTTT; R26251; 18; 7;; p.
+BS  CTTCCTT; R26262; 19; 7;; p.
+BS  CCATATT; R26280; 7; 7;; n.
+BS  CCATTTT; R26285; 13; 7;; n.
+BS  CATCTTG; R26439; 11; 7;; p.
+BS  CCATCTT; R26478; 22; 7;; n.
+BS  CCATGGA; R26541; 7; 7;; n.
+BS  CCATCTT; R26712; 5; 7;; n.
+BS  CATGGTA; R26741; 24; 7;; p.
+BS  CCATTTT; R26771; 8; 7;; n.
+BS  CCATTTT; R27101; 7; 7;; n.
+BS  CATTTTG; R27102; 14; 7;; p.
+BS  CCATGTT; R27104; 10; 7;; n.
+BS  CCATCTT; R27111; 10; 7;; n.
+BS  ACTTCCG; R28654; 5; 7;; n.
+BS  CATCTTG; R29014; 65; 7;; p.
+BS  CATCTTG; R29051; 65; 7;; p.
+BS  CATTTTG; R29113; 13; 7;; p.
+BS  ACATTTT; R29190; 7; 7;; n.
+BS  GCGTTGA; R29365; 13; 7;; n.
+BS  CATCTTG; R29370; 8; 7;; p.
+BS  CAGCTTG; R29759; 23; 7;; p.
+BS  TCATTTT; R30328; 113; 7;; n.
+BS  CCATTTG; R30337; 12; 7;; n.
+BS  CCATATA; R31569; 6; 7;; n.
+BS  CCATCTG; R31588; 9; 7;; n.
+BS  CCATTTT; R31593; 9; 7;; n.
+BS  CCATATT; R31606; 8; 7;; n.
+BS  CCATATT; R31631; 13; 7;; n.
+BS  CCGTTCA; R31855; 8; 7;; n.
+BS  CATTCGG; R32641; 7; 7;; p.
+BS  CATTTGT; R33589; 11; 7;; p.
+BS  CCATATT; R33657; 13; 7;; n.
+BS  CCATATT; R33658; 13; 7;; n.
+BS  CATAGTT; R33696; 15; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+OV  M00793; V$YY1_Q6.
+OV  M01035; V$YY1_Q6_02.
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

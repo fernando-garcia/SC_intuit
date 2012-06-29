@@ -1,0 +1,48 @@
+AC  M02472
+AS  MA0353
+XX
+ID  F$PDR3_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PDR3
+XX
+DE  class: Zinc-coordinating; family: Fungal Zn cluster
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03525; PDR3; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0      0      0    203      T
+02      0    203      0      0      C
+03      0    203      0      0      C
+04      0      0    203      0      G
+05      0    203      0      0      C
+06      0      0    203      0      G
+07      0      0    203      0      G
+08    203      0      0      0      A
+XX
+BA  203 sequences (ChIP-on-chip)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0353.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0065640.
+RX  PUBMED: 16522208.
+RA  Macisaac K. D., Wang T., Gordon D. B., Gifford D. K., Stormo G. D., Fraenkel E.
+RT  An improved map of conserved regulatory sites for Saccharomyces cerevisiae.
+RL  BMC Bioinformatics 7:113 (2006).
+XX
+//

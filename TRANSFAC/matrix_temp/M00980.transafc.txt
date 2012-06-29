@@ -1,0 +1,71 @@
+AC  M00980
+XX
+ID  V$TBP_Q6
+XX
+DT  13.02.2004 (created); dtc.
+DT  25.06.2004 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBP
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02111; TBP; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T00794; TBP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08520; TBP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14175; TBP; Species: Mammalia; site(s) included: no.
+BF  T00796; TBP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08953; TBP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16554; TBP; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00821; TFIID; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00820; TFIID; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01159; TFIID; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01175; TFIID; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1      1     17      T
+02      0      0      0     20      T
+03      0      0      0     20      T
+04     15      2      1      2      A
+05      2      0      0     18      T
+06     12      3      2      3      A
+07      2      8      5      5      N
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GTTATAC; R00344; 8; 7;; n.
+BS  CTTATAT; R00705; -1; 7;; n.
+BS  TTTATAA; R00770; -1; 7;; n.
+BS  TTTATAG; R00996; -1; 7;; n.
+BS  TTTATTG; R01167; 3; 7;; p.
+BS  ATTATAT; R01732; 2; 7;; n.
+BS  TTTATCG; R02014; 4; 7;; n.
+BS  TTTAAGC; R02688; -1; 7;; n.
+BS  TTTGAAG; R02749; -1; 7;; n.
+BS  TTTCTTC; R03160; 12; 7;; p.
+BS  TTTCTAT; R03165; 2; 7;; n.
+BS  TTTATGA; R03167; 2; 7;; n.
+BS  TTTATAT; R03171; 4; 7;; p.
+BS  TTTATCC; R03182; -1; 7;; n.
+BS  TTTATTC; R03195; 3; 7;; n.
+BS  TTTTTAC; R04010; -1; 7;; n.
+BS  TTTATAT; R08513; -1; 7;; n.
+BS  TTTTTCC; R11725; 15; 7;; p.
+BS  TTTATAG; R12021; 9; 7;; n.
+BS  TTTATAC; R14383; 5; 7;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0024406.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 4:0003 (2004).
+RN  [2]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

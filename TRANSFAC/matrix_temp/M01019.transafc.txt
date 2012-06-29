@@ -1,0 +1,49 @@
+AC  M01019
+XX
+ID  V$TBX5_01
+XX
+DT  21.10.2004 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBX5
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T11422; TBX5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17568; Tbx5; Species: Mammalia; site(s) included: no.
+BF  T04347; Tbx5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11352; Tbx5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T21295; Tbx5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T21296; Tbx5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04345; TBX5-L; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04346; TBX5-S; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     12      4      9     10      N
+02     13      3      9     12      N
+03     33      0      8      0      A
+04      0      0     41      0      G
+05      0      0     40      1      G
+06      0      0      0     41      T
+07      0      0     40      0      G
+08      1      4      0     35      T
+09      1     13     13     12      N
+10     25      1     10      3      A
+11     12      9     10      8      N
+12     16      4      8      7      N
+XX
+BA  41 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant TBX5 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0024959.
+RX  PUBMED: 11555635.
+RA  Ghosh T. K., Packham E. A., Bonser A. J., Robinson T. E., Cross S. J., Brook J. D.
+RT  Characterization of the TBX5 binding site and analysis of mutations that cause Holt-Oram syndrome.
+RL  Hum. Mol. Genet. 10:1983-1994 (2001).
+XX
+//

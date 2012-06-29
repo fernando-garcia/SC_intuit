@@ -1,0 +1,82 @@
+AC  M00503
+XX
+ID  P$ATHB5_01
+XX
+DT  27.09.2001 (created); rge.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATHB-5
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T04066; ATHB-5; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T14382; ATHB-5; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1     31      4      3      C
+02     31      6      0      2      A
+03     37      0      0      2      A
+04      1      0      0     38      T
+05      2      7      8     22      T
+06     37      0      0      2      A
+07      0      0      1     38      T
+08      0      0      1     37      T
+09      0      0      5      1      G
+XX
+BA  39 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TAATCATT; R11227; 5; 9; 13; p.
+BS  CAATCATT; R11229; 5; 9; 13; p.
+BS  CAATTATT; R11230; 5; 9; 13; p.
+BS  TAATTATTG; R11231; 4; 9;; p.
+BS  CAATGATT; R11232; 5; 9; 13; p.
+BS  CATTGTTG; R11233; 5; 9; 13; p.
+BS  CAATTATT; R11234; 4; 9; 12; p.
+BS  ATTATTG; R11235; 5; 9; 12, 13; p.
+BS  GCATTATT; R11236; 5; 9; 13; p.
+BS  CAATTATT; R11237; 5; 9; 13; p.
+BS  CAATAATT; R11238; 5; 9; 13; p.
+BS  CAATAATT; R11239; 5; 9; 13; p.
+BS  CTATTATT; R11240; 5; 9; 13; p.
+BS  CAATCATTG; R11241; 4; 9;; p.
+BS  CAATGATT; R11242; 5; 9; 13; p.
+BS  CAATTATT; R11243; 5; 9; 13; p.
+BS  CAATGATT; R11244; 5; 9; 13; p.
+BS  TAATGATT; R11245; 5; 9; 13; p.
+BS  CAATCATTG; R11246; 3; 9;; p.
+BS  CAATTATT; R11247; 5; 9; 13; p.
+BS  CAATTATT; R11248; 5; 9; 13; p.
+BS  CAATTATT; R11249; 5; 9; 13; p.
+BS  GAATTATT; R11250; 5; 9; 13; p.
+BS  GCATGATT; R11251; 5; 9; 13; p.
+BS  CAATGATT; R11252; 5; 9; 13; p.
+BS  CCATTATT; R11253; 5; 9; 13; p.
+BS  CAATTATT; R11254; 5; 9; 13; p.
+BS  CAATCATTG; R11255; 4; 9;; p.
+BS  CCATTATT; R11256; 5; 9; 13; p.
+BS  GCATTATT; R11257; 5; 9; 13; p.
+BS  CAATGATT; R11258; 5; 9; 13; p.
+BS  CAATTATT; R11259; 5; 9; 13; p.
+BS  CAATTATT; R11260; 5; 9; 13; p.
+BS  CCATTATT; R11261; 5; 9; 13; p.
+BS  CAATTATT; R11262; 5; 9; 13; p.
+BS  CAATCATTT; R11263; 1; 9;; p.
+BS  CAATTATTG; R11264; 1; 9;; p.
+BS  CAATTATT; R11265; 5; 9; 13; p.
+BS  CAATCATT; R11266; 5; 9; 13; p.
+XX
+CC  sequences selected with recombinant ATHB-5 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0110.
+XX
+RN  [1]; RE0016935.
+RX  PUBMED: 11247607.
+RA  Johannesson H., Wang Y., Engstrom P.
+RT  DNA-binding and dimerization preferences of Arabidopsis homeodomain-leucine zipper transcription factors in vitro
+RL  Plant Mol. Biol. 45:63-73 (2001).
+XX
+//

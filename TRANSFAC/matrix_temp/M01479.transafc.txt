@@ -1,0 +1,58 @@
+AC  M01479
+XX
+ID  V$POU6F1_03
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  POU6F1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04470; POU6F1; Species: human, Homo sapiens; site(s) included: no.
+BF  T11287; POU6F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01891; POU6F1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T11259; POU6F1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01889; POU6F1 (c1); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01888; POU6F1 (c2); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01890; POU6F1 (c7); Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.28   0.28   0.34    0.1      N
+02   0.43   0.24   0.08   0.25      N
+03   0.28    0.3   0.22   0.21      N
+04   0.19   0.27   0.46   0.09      N
+05    0.5   0.07   0.02   0.42      W
+06   0.01      0      0   0.98      T
+07   0.98      0      0   0.01      A
+08   0.99      0      0   0.01      A
+09      0      0      0   0.99      T
+10   0.01      0    0.7   0.29      G
+11   0.99      0      0      0      A
+12   0.01   0.01   0.96   0.03      G
+13   0.08    0.4    0.4   0.12      S
+14   0.21   0.13   0.03   0.64      T
+15   0.17   0.15    0.3   0.38      N
+16   0.24   0.17   0.38   0.21      N
+17    0.3   0.32   0.16   0.23      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0151.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

@@ -1,0 +1,41 @@
+AC  M01742
+XX
+ID  V$ZFP206_01
+XX
+DT  26.05.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Zfp206
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18325; Zscan10; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2    107     14    376      T
+02     26      1    471      1      G
+03     11    485      2      1      C
+04      5      4    484      6      G
+05      1    490      6      2      C
+06    431     27     33      8      A
+07     24     54    189    232      K
+08      6     14    472      7      G
+09      3    475      2     19      C
+10      5     12    430     52      G
+11      1    432      9     57      C
+XX
+BA  sequences (ChIP-on-chip)
+XX
+CC  Zpf206 binding motif defined from ChIP-on-chip experiment in E14 cells; used WEEDER algorithm for ChIP Motifs approach (top 500 binding regions)
+XX
+RN  [1]; RE0066941.
+RX  PUBMED: 19740739.
+RA  Yu H. B., Kunarso G., Hong F. H., Stanton L. W.
+RT  Zfp206, Oct4, and Sox2 are integrated components of a transcriptional regulatory network in embryonic stem cells.
+RL  J. Biol. Chem. 284:31327-31335 (2009).
+XX
+//

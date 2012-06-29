@@ -1,0 +1,94 @@
+AC  M01196
+XX
+ID  V$CTF1_01
+XX
+DT  23.10.2008 (created); smt.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CTF1
+XX
+DE  selection of  the binding sites for CTCF by HOX11 cooperative DNA binding
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00056; V$MYOGNF1_01; myogenin / nuclear factor 1 or related factors (family).
+HP  M00193; V$NF1_Q6; nuclear factor 1 (family).
+HP  M00806; V$NF1_Q6_01;  (family).
+XX
+BF  T00176; CTF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00177; CTF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00178; CTF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02300; CTF-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02301; CTF-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11435; NF-1C; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00174; NF-1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09202; NF-1C; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08191; NF-1C; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01907; NF-1C1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00554; NF-1C2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01908; NF-1C4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00539; NF1C-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08185; NFIC10; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08186; NFIC11; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08183; NFIC1A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08184; NFIC1B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08187; NFIC2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10277; NFIC2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08188; NFIC5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08189; NFIC8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08190; NFIC9; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     16      T
+02      0      0     16      0      G
+03      0      0     16      0      G
+04      0     16      0      0      C
+05     14      1      0      1      A
+06      2      8      5      1      S
+07      2      8      4      2      C
+08      7      1      5      3      N
+09      4      3      2      7      N
+10      0      0     16      0      G
+11      0     16      0      0      C
+12      0     16      0      0      C
+13     16      0      0      0      A
+14     14      0      1      1      A
+XX
+BA  16 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGGCAATAAGCCAA; R25647; 4; 14;; p.
+BS  TGGCAGAACGCCAA; R25649; 1; 14;; p.
+BS  TGGCACCACGCCAA; R25650; 1; 14;; p.
+BS  TGGCATCTTGCCAA; R25651; 3; 14;; p.
+BS  TGGCACGTTGCCAA; R25652; 1; 14;; p.
+BS  TGGCCGGCCGCCAA; R25653; 1; 14;; p.
+BS  TGGCTCCAAGCCAA; R25654; 1; 14;; p.
+BS  TGGCACAGAGCCAA; R25655; 2; 14;; p.
+BS  TGGCACCATGCCAA; R25656; 2; 14;; p.
+BS  TGGCAACGTGCCAA; R25657; 2; 14;; p.
+BS  TGGCAGGAAGCCAA; R25658; 1; 14;; p.
+BS  TGGCAGCATGCCAA; R25659; 2; 14;; p.
+BS  TGGCACGGTGCCAG; R25660; 2; 14;; p.
+BS  TGGCACCGTGCCAT; R25661; 2; 14;; p.
+BS  TGGCAGCGGGCCAA; R25662; 2; 14;; p.
+BS  TGGCACTTGGCCAA; R25663; 2; 14;; p.
+XX
+CC  sequences selected with recombinant CTF1 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: MA0119.
+XX
+RN  [1]; RE0054624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel124:0001 (2008).
+RN  [2]; RE0050619.
+RX  PUBMED: 10327073.
+RA  Zhang N., Shen W., Hawley R. G., Lu M.
+RT  HOX11 interacts with CTF1 and mediates hematopoietic precursor cell immortalization.
+RL  Oncogene 18:2273-2279 (1999).
+XX
+//

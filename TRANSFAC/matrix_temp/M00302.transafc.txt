@@ -1,0 +1,73 @@
+AC  M00302
+XX
+ID  V$NFAT_Q6
+XX
+DT  07.11.1998 (created); ewi.
+DT  11.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-AT
+XX
+DE  Nuclear factor of activated T-cells
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01281; V$NFAT1_Q6;  (specific).
+HC  M01718; V$NFAT2_Q5;  (specific).
+HC  M01734; V$NFAT3_Q3;  (specific).
+HC  M01748; V$NFAT2_01;  (specific).
+HC  M01886; V$NFAT4_Q3;  (specific).
+HC  M02265; V$NFATC2_01; class: Ig-fold; family: Rel (specific).
+XX
+BF  T00549; NF-AT; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00550; NF-AT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01948; NF-AT1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11024; NF-AT1; Species: Mammalia; site(s) included: no.
+BF  T01944; NF-AT1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05171; NF-AT1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19122; NF-AT1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09194; NF-AT1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01945; NF-AT2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11025; NF-AT2; Species: Mammalia; site(s) included: no.
+BF  T01947; NF-AT2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09906; NF-AT2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02462; NF-AT3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11026; NF-AT3; Species: Mammalia; site(s) included: no.
+BF  T05523; NF-AT3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16712; NF-AT3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01946; NF-AT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09986; NF-AT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11027; NF-AT4; Species: Mammalia; site(s) included: no.
+BF  T01949; NF-AT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10411; NF-AT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15616; NFAT1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19124; NFAT1-isoformB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19123; NFAT1-isoformC; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15617; NFAT1-isoformD; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6     11      2      7      N
+02     13      4      5      4      A
+03      5      5      8      8      N
+04     12      1      2     11      W
+05      2      0     23      1      G
+06      0      0     26      0      G
+07     26      0      0      0      A
+08     25      0      1      0      A
+09     25      1      0      0      A
+10     15      5      2      4      A
+11      9      6      2      9      N
+12      5      6      6      9      N
+XX
+BA  26 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0016525.
+RX  PUBMED: 10329147.
+RA  Kel A., Kel-Margoulis O., Babenko V., Wingender E.
+RT  Recognition of NFATp/AP-1 composite elements within genes induced upon the activation of immune cells
+RL  J. Mol. Biol. 288:353-376 (1999).
+XX
+//

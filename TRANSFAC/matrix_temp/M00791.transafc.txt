@@ -1,0 +1,125 @@
+AC  M00791
+XX
+ID  V$HNF3_Q6
+XX
+DT  08.03.2003 (created); dtc.
+DT  22.06.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF3
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00131; V$HNF3B_01; Hepatocyte Nuclear Factor 3beta (specific).
+HC  M00269; V$XFD3_01; Xenopus fork head domain factor 3 (specific).
+HC  M00724; V$HNF3ALPHA_Q6;  (specific).
+HC  M01261; V$HNF3A_01; FOXA1 (specific).
+HC  M02014; V$HNF3B_Q6;  (specific).
+HC  M02015; V$HNF3G_Q4;  (specific).
+HC  M02260; V$FOXA2_03; class: Winged Helix-Turn-Helix; family: Forkhead (specific).
+HC  M02749; V$FOXA2_04; class: Winged Helix-Turn-Helix; family: Forkhead (specific).
+HC  M02853; V$FOXA2_02; class: Winged Helix-Turn-Helix; family: Forkhead   (specific).
+XX
+BF  T09036; FoxA1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T09037; FoxA1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T09014; FOXA1; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T09022; FOXA1; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03260; HNF-3; Species: atlantic salmon, Salmo salar; site(s) included: yes.
+BF  T02277; HNF-3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T01104; HNF-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00370; HNF-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09590; HNF-3alpha; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T09591; HNF-3alpha; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15543; HNF-3alpha; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T02512; HNF-3alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09511; HNF-3alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08626; HNF-3alpha; Species: Mammalia; site(s) included: no.
+BF  T02343; HNF-3alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09941; HNF-3alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00371; HNF-3alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10083; HNF-3alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03256; HNF-3beta; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01053; HNF-3beta; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T02513; HNF-3beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09512; HNF-3beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09404; HNF-3beta; Species: Mammalia; site(s) included: yes.
+BF  T02344; HNF-3beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09942; HNF-3beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01049; HNF-3beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08421; HNF-3beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02418; HNF-3gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11084; HNF-3gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10418; HNF-3gamma; Species: Mammalia; site(s) included: no.
+BF  T02345; HNF-3gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10320; HNF-3gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01050; HNF-3gamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11082; HNF-3gamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15     13      4      7      N
+02     12      7      1     19      W
+03     19      5     13      2      R
+04     22      2      7      8      A
+05     22      3     14      0      R
+06      3     23      1     12      Y
+07     37      2      0      0      A
+08     35      4      0      0      A
+09     38      0      0      1      A
+10      3     22      1     13      Y
+11     33      2      2      2      A
+12      9      7     14      9      N
+13     14      4      7     14      N
+XX
+BA  39 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTAAGTCAATAAT; R01464; 1; 13;; p.
+BS  TTGAATAAACACC; R01800; 9; 13;; p.
+BS  TTGTCAAAACACC; R02350; 2; 13;; n.
+BS  AAGAACAAACATT; R02970; -3; 13;; n.
+BS  GCGGCCACAAATA; R03140; -2; 13;; p.
+BS  GTCTGCAAACAGA; R03144; 3; 13;; p.
+BS  TAGAACAAACAAG; R03150; 1; 13;; p.
+BS  CTACACAAATATG; R03444; -2; 13;; n.
+BS  CTAAACAAACAGA; R04321; 3; 13;; p.
+BS  TAAAACAAACAGG; R04324; -3; 13;; n.
+BS  ATGTGCACACAGA; R04488; -2; 13;; n.
+BS  TCTGGTAAATAAT; R04489; -2; 13;; n.
+BS  TTGTGCAAACATA; R04490; -4; 13;; p.
+BS  AAAGACAAACACT; R04656; 3; 13;; p.
+BS  CTGGCCAAACAGA; R05015; 2; 13;; p.
+BS  ATAAGCAAATAAT; R05018; 9; 13;; n.
+BS  CTAAGTAAATAGT; R05019; 7; 13;; p.
+BS  CAGAGCAAATATT; R05029; 14; 13;; n.
+BS  CAAAACAAACTTA; R05073; 8; 13;; p.
+BS  CCAAGCAAATATT; R05076; 5; 13;; p.
+BS  CAATGTAAACAGA; R05078; 5; 13;; p.
+BS  AGGTAAACACCTT; R05084; 5; 13;; n.
+BS  TAAAACAAACGCG; R05085; 8; 13;; p.
+BS  ATGTGCAAACAAT; R05086; 2; 13;; p.
+BS  ACAAACAAAAAAC; R05101; -4; 13;; n.
+BS  ACAAACAAACAAA; R05102; 4; 13;; p.
+BS  ATAAATAAAAAGA; R05104; -4; 13;; n.
+BS  GAACAAACATCGC; R05105; -2; 13;; n.
+BS  ATTGACAAACAGT; R08890; 7; 13;; n.
+BS  ATAAATCAATAGA; R08917; 1; 13;; n.
+BS  ATAAGTAAATATT; R12969; 4; 13;; n.
+BS  CCAAGTAAATAAT; R12970; 2; 13;; p.
+BS  AAAGGCAAACACT; R12976; 4; 13;; p.
+BS  CAGAACAAACAGA; R13072; 4; 13;; n.
+BS  GTCAATAAAGAAG; R13180; -3; 13;; p.
+BS  ATCTATAAATACA; R13181; 9; 13;; p.
+BS  CTGGATAAATGGG; R13252; 9; 13;; n.
+BS  AACAAGAATCAGA; R13253; 13; 13;; p.
+BS  CCCAACAAACTCG; R13255; 4; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

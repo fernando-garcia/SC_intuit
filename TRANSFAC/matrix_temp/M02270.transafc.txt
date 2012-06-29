@@ -1,0 +1,49 @@
+AC  M02270
+AS  MA0157
+XX
+ID  V$FOXO3_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FOXO3
+XX
+DE  class: Winged Helix-Turn-Helix; family: Forkhead
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02938; FOXO3a; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T08197; FOXO3a; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0      0      5      8      K
+02      1      2     10      0      G
+03      3      0      1      9      T
+04     13      0      0      0      A
+05     12      1      0      0      A
+06     13      0      0      0      A
+07      0     12      0      1      C
+08     12      0      0      1      A
+XX
+BA  13 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR; Annotations from PAZAR FOXO3_MOUSE + FOXO3_HUMAN (TF0000811, TF0000812) in the TFe project
+XX
+DR  JASPAR: MA0157.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

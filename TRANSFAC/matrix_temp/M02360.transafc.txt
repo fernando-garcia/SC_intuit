@@ -1,0 +1,50 @@
+AC  M02360
+AS  MA0242
+XX
+ID  I$RUNBGB_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  run:Bgb
+XX
+DE  class: Ig-fold; family: Runt; Bgb is the co-activator with CBF-beta domain
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T02222; Bgb; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+BF  T01066; runt; Species: fruit fly, Drosophila melanogaster; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     12      2      0     15      W
+02     27      0      1      1      A
+03     28      0      1      0      A
+04      0     29      0      0      C
+05      0     28      1      0      C
+06      5      1     23      0      G
+07      0     29      0      0      C
+08     28      0      0      1      A
+09     20      0      9      0      A
+XX
+BA  29 sequences (bacterial-one-hybrid system (B1H))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0242.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0067275.
+RX  PUBMED: 16041365.
+RA  Meng X., Brodsky M. H., Wolfe S. A.
+RT  A bacterial one-hybrid system for determining the DNA-binding specificity of transcription factors.
+RL  Nat. Biotechnol 23:988-994 (2005).
+XX
+//

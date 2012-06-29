@@ -1,0 +1,64 @@
+AC  M01854
+XX
+ID  V$AML2_Q3_01
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AML2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00769; V$AML_Q6;  (family).
+HP  M00984; V$PEBP_Q6;  (family).
+XX
+BF  T02223; AML2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09959; AML2; Species: Mammalia; site(s) included: yes.
+BF  T05409; AML2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09248; AML2-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19217; AML2-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19218; AML2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09273; AML2beta; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05411; Runx3; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09274; Runx3; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0     11      0      0      C
+02      0     10      0      1      C
+03      6      0      3      2      R
+04      2      7      1      1      C
+05     10      1      0      0      A
+06      1      7      1      2      C
+07      0     11      0      0      C
+08      7      3      1      0      A
+09      1      4      1      5      Y
+10      4      0      4      3      D
+11      2      1      5      3      N
+XX
+BA  11 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GGTGTtcatgg; R19528; 5; 11;; n.
+BS  GGTGTTGTACA; R19529; 5; 11;; n.
+BS  GGTGTAGTACC; R19530; 5; 11;; n.
+BS  CTGAACCACAA; R20208; 5; 11;; p.
+BS  GGCGTGGGATA; R20260; -3; 11;; n.
+BS  CCGCACCACAC; R20998; 14; 11;; p.
+BS  GGTTTGGTGAT; R29498; 4; 11;; n.
+BS  CCAGAGCCGGG; R32400; 16; 11;; p.
+BS  CCTCCCCCTTT; R32401; 17; 11;; p.
+BS  CCATACCGATG; R32402; 14; 11;; p.
+BS  GGAGTGGTGTC; R32763; 14; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+OV  M01814; V$AML2_Q3.
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

@@ -1,0 +1,60 @@
+AC  M01050
+XX
+ID  P$ARR10_01
+XX
+DT  06.03.2005 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ARR10
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T05654; ARR10; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T14547; ARR10; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     15      0      0      0      A
+02      0      0     15      0      G
+03     15      0      0      0      A
+04      0      0      0     15      T
+05      4      6      0      5      H
+06      0      9      0      6      Y
+07      0      0      9      6      K
+XX
+BA  15 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGATACG; R16449; 9; 7;; p.
+BS  AGATACG; R16450; 9; 7;; p.
+BS  AGATACG; R16451; 9; 7;; p.
+BS  AGATACG; R16452; 9; 7;; p.
+BS  AGATTCG; R16453; 9; 7;; p.
+BS  AGATTCG; R16454; 9; 7;; p.
+BS  AGATTCG; R16455; 9; 7;; p.
+BS  AGATTCG; R16456; 9; 7;; p.
+BS  AGATTCG; R16457; 9; 7;; p.
+BS  AGATCTT; R16458; 9; 7;; p.
+BS  AGATCTT; R16459; 9; 7;; p.
+BS  AGATCTT; R16460; 9; 7;; p.
+BS  AGATCTT; R16461; 9; 7;; p.
+BS  AGATCTT; R16462; 9; 7;; p.
+BS  AGATCTT; R16463; 9; 7;; p.
+XX
+CC  sequences selected with recombinant ARR10 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 7 rounds of selection and amplification
+XX
+DR  JASPAR: MA0121.
+XX
+RN  [1]; RE0025480.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel91:0001 (2005).
+RN  [2]; RE0025501.
+RX  PUBMED: 12215502.
+RA  Hosoda K., Imamura A., Katoh E., Hatta T., Tachiki M., Yamada H., Mizuno T., Yamazaki T.
+RT  Molecular structure of the GARP family of plant Myb-related DNA binding motifs of the Arabidopsis response regulators.
+RL  Plant Cell 14:2015-2029 (2002).
+XX
+//

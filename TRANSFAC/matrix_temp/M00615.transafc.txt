@@ -1,0 +1,95 @@
+AC  M00615
+XX
+ID  V$MYCMAX_03
+XX
+DT  02.03.2002 (created); vma.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Myc:Max
+XX
+DE  c-Myc:Max heterodimer
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00799; V$MYC_Q2;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T03537; c-Myc; Species: canary, Serinus canaria; site(s) included: no.
+BF  T00141; c-Myc; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T03427; c-Myc; Species: chimpanzee, Pan troglodytes; site(s) included: yes.
+BF  T03433; c-Myc; Species: common marmoset, Callithrix jacchus; site(s) included: yes.
+BF  T03432; c-Myc; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T03532; c-Myc; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T03430; c-Myc; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T03454; c-Myc; Species: goldfish, Carassius auratus; site(s) included: yes.
+BF  T09998; c-Myc; Species: human, Homo sapiens; site(s) included: no.
+BF  T14435; c-Myc; Species: Mammalia; site(s) included: no.
+BF  T00143; c-Myc; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09007; c-Myc; Species: mouse, Mus musculus; site(s) included: no.
+BF  T03462; c-Myc; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T00142; c-Myc; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09265; c-Myc; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03455; c-Myc; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T03466; c-Myc; Species: wild cat, Felis silvestris; site(s) included: yes.
+BF  T17324; c-Myc; Species: wild cat, Felis silvestris; site(s) included: yes.
+BF  T03428; c-Myc; Species: woodchuck, Marmota monax; site(s) included: yes.
+BF  T03450; c-Myc; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03464; c-Myc I; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14514; c-Myc I; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T00140; c-Myc-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03341; c-Myc-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03570; Max; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T16687; Max; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T03596; Max; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16688; Max; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05056; Max; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09085; Max; Species: Mammalia; site(s) included: no.
+BF  T16609; Max; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00523; Max; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16608; Max; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03595; Max; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03552; Max; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T16690; Max; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T01567; Max-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09499; Max-isoform1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00489; Max-isoform2; Species: human, Homo sapiens; site(s) included: no.
+BF  T09909; Max-isoform2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01566; Max-isoform3; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     10     13      7      8      N
+02     13      8     12      5      N
+03     13     10      8      7      N
+04      9      6     15      8      N
+05      8      7      9     14      N
+06     14      6     14      4      N
+07     11     11      5     11      N
+08      0     38      0      0      C
+09     38      0      0      0      A
+10      0     38      0      0      C
+11      0      0     38      0      G
+12      0      0      0     38      T
+13      0      0     38      0      G
+14     11      5     11     11      N
+15      4     14      6     14      N
+16     14      9      7      8      N
+17      8     15      6      9      N
+18      7      8     10     13      N
+19      5     12      8     13      N
+20      8      7     13     10      N
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant c-Myc:Max from a pool of double-stranded oligonucleotides containing a core of 7 random nucleotides; 5 rounds of selection and amplification; fixed core of 6 nucleotides used
+XX
+RN  [1]; RE0017564.
+RX  PUBMED: 10454619.
+RA  Swanson H. I., Yang J. H.
+RT  Specificity of DNA binding of the c-Myc/Max and ARNT/ARNT dimers at the CACGTG recognition site.
+RL  Nucleic Acids Res. 27:3205-3212 (1999).
+XX
+//

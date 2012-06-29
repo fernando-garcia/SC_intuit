@@ -1,0 +1,60 @@
+AC  M01248
+XX
+ID  V$DAX1_01
+XX
+DT  25.05.2009 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DAX1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02776; DAX1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09944; DAX1; Species: human, Homo sapiens; site(s) included: no.
+BF  T15267; DAX1; Species: Mammalia; site(s) included: no.
+BF  T04677; DAX1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08450; DAX1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04678; DAX1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T04676; DAX1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15096; DAX1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T15314; DAX1A; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     32     19     35     14      N
+02     39     27     24     10      N
+03     43      6     34     17      R
+04     17     27     40     16      N
+05     26     24     23     27      N
+06     14     24     35     27      N
+07     19     45     27      9      N
+08     85      0     14      1      A
+09     97      0      3      0      A
+10      5      0     94      1      G
+11      0      0     96      4      G
+12      4     11      2     83      T
+13      0     88     11      1      C
+14     77      4      1     18      A
+15     17     37     33     13      N
+16     29     31     21     19      N
+17     17     21     31     31      N
+18     21     20     28     31      N
+19     23     32     20     25      N
+20     29     32     22     17      N
+XX
+BA  100 sequences (Biotin-ChIP)
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0062853.
+RX  PUBMED: 18358816.
+RA  Kim J., Chu J., Shen X., Wang J., Orkin S. H.
+RT  An extended transcriptional network for pluripotency of embryonic stem cells.
+RL  Cell 132:1049-1061 (2008).
+XX
+//

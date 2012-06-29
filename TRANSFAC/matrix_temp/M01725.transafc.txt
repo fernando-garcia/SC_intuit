@@ -1,0 +1,53 @@
+AC  M01725
+XX
+ID  V$TR4_Q2
+XX
+DT  26.04.2010 (created); dtc.
+DT  30.04.2010 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TR4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02740; TR4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09960; TR4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10019; TR4; Species: Mammalia; site(s) included: yes.
+BF  T16549; TR4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17577; TR4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17576; TR4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17578; TR4; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      4      0      1      C
+02      0      3      2      1      S
+03      1      0      0      5      T
+04      0      0      6      0      G
+05      5      0      0      1      A
+06      1      5      0      0      C
+07      0      6      0      0      C
+08      0      0      0      6      T
+09      0      2      1      3      Y
+10      0      1      0      5      T
+11      1      2      3      0      S
+XX
+BA  6 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ccTGACCTcTG; R20261; 2; 11;; p.
+BS  cttgacctgcg; R20401; -3; 11;; n.
+BS  cctgtcctttc; R20408; 1; 11;; n.
+BS  cgagaccttta; R29229; 5; 11;; n.
+BS  tctgacctctg; R29349; 6; 11;; n.
+BS  agtgaactttc; R29574; 9; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0066690.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20102:0001 (2010).
+XX
+//

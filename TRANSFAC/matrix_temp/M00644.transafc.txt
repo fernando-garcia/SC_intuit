@@ -1,0 +1,42 @@
+AC  M00644
+XX
+ID  V$LBP1_Q6
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LBP-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00462; LBP-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00461; LBP-1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      5      0      0      C
+02      3      1      1      0      A
+03      0      0      5      0      G
+04      0      5      0      0      C
+05      0      0      0      5      T
+06      0      0      4      1      G
+07      0      3      2      0      S
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CAGCTGC; R01620; 7; 7;; p.
+BS  CGGCTTG; R01621; 1; 7;; p.
+BS  CCGCTGG; R01622; 6; 7;; n.
+BS  CAGCTGC; R03168; 16; 7;; n.
+BS  CAGCTGC; R03169; -6; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

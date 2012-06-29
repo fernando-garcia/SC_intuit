@@ -1,0 +1,50 @@
+AC  M01838
+XX
+ID  P$GBF1_Q2
+XX
+DT  08.02.2011 (created); mkl.
+DT  14.02.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GBF1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+HP  M00441; P$GBF_Q2;  (family).
+XX
+BF  T01078; GBF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T15670; GBF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      3      3      2      B
+02      8      0      0      0      A
+03      0      8      0      0      C
+04      0      0      8      0      G
+05      0      0      0      8      T
+06      0      0      8      0      G
+07      0      0      7      1      G
+08      0      8      0      0      C
+09      6      2      0      0      A
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  gacgtggcc; R00679; 4; 9;; n.
+BS  CACGTGGCA; R01315; 5; 9;; p.
+BS  CACGTGGCA; R01320; 9; 9;; p.
+BS  GACGTGGCA; R03283; 9; 9;; p.
+BS  cacgtggca; R03630; 6; 9;; n.
+BS  GACGTGGCA; R32904; 6; 9;; p.
+BS  TACGTGTcc; R32910; 9; 9;; p.
+BS  TACGTGGca; R32911; 9; 9;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

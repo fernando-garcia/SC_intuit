@@ -1,0 +1,85 @@
+AC  M01268
+XX
+ID  V$FXR_Q2
+XX
+DT  08.07.2009 (created); dtc.
+DT  11.08.2009 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FXR
+XX
+DE  half-site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00964; V$PXR_Q2; half-site matrix (family).
+XX
+BF  T18581; FXR; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T05302; FXR; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T09632; FXR; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17105; FXR; Species: Mammalia; site(s) included: no.
+BF  T02753; FXR; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04494; FXR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09633; FXR; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05303; FXR-alpha1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T05304; FXR-alpha2; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T05305; FXR-beta1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T05306; FXR-beta2; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T05308; FXR-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09890; FXR-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05307; FXR-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09299; FXR-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05309; FXR-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14106; FXR-isoform3:FXR-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05313; FXR-isoform3:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14105; FXR-isoform3:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04498; FXR-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16007; FXR:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05322; FXR:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16007; FXR:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05318; FXR:RXR-alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08981; FXRbeta:RXR-alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08981; FXRbeta:RXR-alpha; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14      0      5      0      A
+02      0      0     19      0      G
+03      0      0     17      2      G
+04      3      1      1     14      T
+05      0     17      0      2      C
+06     19      0      0      0      A
+07      4      5      3      7      N
+XX
+BA  19 sequences (matrix compiled from individual genomic sites)
+XX
+BS  aggttat; R09992; 10; 7;; n.
+BS  gggtcat; R10074; 10; 7;; n.
+BS  aggttat; R10075; 10; 7;; n.
+BS  aggtcat; R10077; 10; 7;; n.
+BS  GGGTCAG; R12767; 12; 7;; p.
+BS  agttcaa; R13075; 9; 7;; n.
+BS  agttcac; R13076; 3; 7;; n.
+BS  AGGTCAG; R13128; 8; 7;; p.
+BS  GGGACAT; R13129; 8; 7;; p.
+BS  aggtcac; R14233; 12; 7;; n.
+BS  aggtcac; R16486; 14; 7;; n.
+BS  AGGTCAA; R19173; 6; 7;; p.
+BS  aggtcat; R19369; 15; 7;; n.
+BS  AGGTCAA; R22781; 7; 7;; p.
+BS  GGGGCAG; R22782; 6; 7;; p.
+BS  aggacac; R27266; 16; 7;; n.
+BS  gggccac; R27267; 15; 7;; n.
+BS  AGGTCAA; R27828; 11; 7;; p.
+BS  AGGACAT; R27829; 11; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+XX
+//

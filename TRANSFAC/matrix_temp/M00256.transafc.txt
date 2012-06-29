@@ -1,0 +1,64 @@
+AC  M00256
+XX
+ID  V$NRSF_01
+XX
+DT  25.11.1996 (created); ewi.
+DT  01.02.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NRSF
+XX
+DE  neuron-restrictive silencer factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T10492; REST; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T06124; REST; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10469; REST; Species: Mammalia; site(s) included: no.
+BF  T05934; REST; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09307; REST; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05957; REST; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10483; REST isoform 1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18280; Rest isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01974; Rest isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10486; REST4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18251; RESTisoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18252; RESTisoform4; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      2      3     21      T
+02      0      4      3     21      T
+03      0     27      0      1      C
+04     28      0      0      0      A
+05      0      0     28      0      G
+06      0     27      0      1      C
+07     28      0      0      0      A
+08      0     28      0      0      C
+09      0     28      0      0      C
+10     17      0      7      4      A
+11      4     20      2      2      C
+12      1      0     27      0      G
+13      0      0     28      0      G
+14     23      1      0      4      A
+15      0     26      2      0      C
+16     28      0      0      0      A
+17      0      0     28      0      G
+18     10     17      0      1      M
+19      7      4     16      1      G
+20      2     16      8      2      C
+21      4     22      0      2      C
+XX
+BA  28 sequences (compiled matrix imported from literature reference)
+XX
+CC  binding sites in 9 genes
+XX
+RN  [1]; RE0004782.
+RX  PUBMED: 8790425.
+RA  Schoenherr C. J., Paquette A. J., Anderson D. J.
+RT  Identification of potential target genes for the neuron-restrictive silencer factor
+RL  Proc. Natl. Acad. Sci. USA 93:9881-9886 (1996).
+XX
+//

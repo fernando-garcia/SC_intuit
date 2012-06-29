@@ -1,0 +1,69 @@
+AC  M00006
+XX
+ID  V$MEF2_01
+XX
+DT  19.10.1992 (created); ewi.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MEF-2
+XX
+DE  myogenic enhancer factor 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00941; V$MEF2_Q6_01;  (family).
+XX
+BF  T01006; aMEF-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09508; mef2a; Species: human, Homo sapiens; site(s) included: no.
+BF  T09389; mef2a; Species: Mammalia; site(s) included: no.
+BF  T15645; mef2A; Species: Mammalia; site(s) included: no.
+BF  T15781; mef2a; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01004; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10368; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01005; MEF2A-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00505; mef2a-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06051; mef2a-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11401; mef2a-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19055; MEF2A-xbb5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01009; RSRFC4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01010; RSRFC9; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      3      1      1      C
+02      0      0      1      4      T
+03      0      4      0      1      C
+04      0      0      0      5      T
+05      5      0      0      0      A
+06      5      0      0      0      A
+07      5      0      0      0      A
+08      5      0      0      0      A
+09      5      0      0      0      A
+10      0      0      0      5      T
+11      5      0      0      0      A
+12      5      0      0      0      A
+13      0      5      0      0      C
+14      0      2      0      3      Y
+15      0      4      0      1      C
+16      0      2      0      3      Y
+XX
+BA  5 sequences (compiled matrix imported from literature reference)
+XX
+BS  CTCTAAAAATAACCCT; R05148; 1; 16;; p.
+BS  CTCTAAAAATAACTCC; R05149; 1; 16;; p.
+BS  CTCTAAAAATAACTCT; R05150; 1; 16;; p.
+BS  TTTTAAAAATAACTTT; R05151; 1; 16;; p.
+BS  GGCTAAAAATAACCCC; R05152; 1; 16;; p.
+XX
+CC  binding sites from 2 different genes
+XX
+RN  [1]; RE0001228.
+RX  PUBMED: 2601707.
+RA  Gossett L. A., Kelvin D. J., Sternberg E. A., Olson E. N.
+RT  A new myocyte-specific enhancer-binding factor that recognizes a conserved element associated with multiple muscle-specific genes
+RL  Mol. Cell. Biol. 9:5022-5033 (1989).
+XX
+//

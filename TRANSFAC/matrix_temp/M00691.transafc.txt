@@ -1,0 +1,61 @@
+AC  M00691
+XX
+ID  V$ATF1_Q6
+XX
+DT  13.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T14282; ATF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T14283; ATF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00968; ATF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09069; ATF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10237; ATF-1; Species: Mammalia; site(s) included: no.
+BF  T14818; ATF-1; Species: mink, Mustela vison; site(s) included: yes.
+BF  T01304; ATF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09930; ATF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10800; ATF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10801; ATF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      9      0      0      C
+02      0      3      1      5      Y
+03      1      4      1      3      Y
+04      0      1      1      7      T
+05      0      2      7      0      G
+06      9      0      0      0      A
+07      1      8      0      0      C
+08      0      0      9      0      G
+09      3      0      0      6      T
+10      1      8      0      0      C
+11      8      0      0      1      A
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTGTGACGAAA; R00343; 7; 11;; n.
+BS  CTCTGACGTCT; R00777; 4; 11;; p.
+BS  CCCTGAAGACA; R00779; 17; 11;; p.
+BS  CGTTGACGACA; R00780; 5; 11;; p.
+BS  CTCTGACGTCA; R00963; 6; 11;; p.
+BS  CTCTGACGTCA; R01358; 3; 11;; n.
+BS  CCTCCACGTCA; R03911; 10; 11;; n.
+BS  CTAGCACGTCA; R03918; 1; 11;; p.
+BS  CCTTGACGTCA; R04356; 6; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

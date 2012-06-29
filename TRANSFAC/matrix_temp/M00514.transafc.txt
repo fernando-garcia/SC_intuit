@@ -1,0 +1,60 @@
+AC  M00514
+XX
+ID  V$ATF4_Q2
+XX
+DT  06.11.2001 (created); rio.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATF4
+XX
+DE  activating transcription factor 4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00801; V$CREB_Q3;  (family).
+HP  M00981; V$CREBATF_Q6;  (family).
+XX
+BF  T01303; ATF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09531; ATF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04854; ATF-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08444; ATF-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06459; ATF-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10437; ATF-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02052; ATF4 (381AA); Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      4      2      0      C
+02      2      3      2      0      V
+03      0      0      0      7      T
+04      0      0      6      1      G
+05      6      0      1      0      A
+06      0      7      0      0      C
+07      0      0      5      2      G
+08      0      4      0      3      Y
+09      4      3      0      0      M
+10      5      0      2      0      A
+11      0      2      2      3      B
+12      1      1      3      0      G
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GATTGCGCAATC; R00207; 5; 12;; p.
+BS  GCTGACGTCAG; R01358; 2; 12; 1; p.
+BS   CTGACGCAAT; R03906; 1; 12; 1, 12; p.
+BS  CATGACGTCATG; R03916; 11; 12; 27, 28, 29, 30, 31, 32, 33; p.
+BS  CGTGACTCAGCG; R03924; 22; 12;; p.
+BS  CGTGACTCAGCG; R03924; 5; 12;; p.
+BS  CCTGACGTCAGA; R11554; 8; 12;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better, includes also 5 artificial sites; binding sites in 2 genes
+XX
+RN  [1]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

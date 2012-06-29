@@ -1,0 +1,78 @@
+10099	class	Unknown
+10099	comment	-
+10099	Description	The matrix is made of 9 sequences that have been tested positively as sites of transcription initiation in vivo.
+10099	End relative to TSS	+33
+10099	medline	15231738
+10099	Start relative to TSS	+15
+10100	class	Unknown
+10100	comment	-
+10100	Description	The INR consensus PyPyA(+1)NT/APyPy (Smale, Kadonaga 2003) is characterized by an A at the TSS (+1) and a cytosine at position -1. TFIID specific.
+10100	End relative to TSS	+6
+10100	medline	2329577
+10100	Start relative to TSS	-2
+10101	class	Unknown
+10101	comment	-
+10101	Description	The GC-box is recognised by transcription factor Sp1 and typically occurs in housekeeping genes (Kadonaga et al. 1986). 
+10101	End relative to TSS	-157 to +8
+10101	medline	2329577
+10101	Start relative to TSS	-170 to -6
+10102	class	Unknown
+10102	comment	-
+10102	Description	The CCAAT-box is recognised by the CCAAT-binding proteins NY-I (Dorn et al. 1987), NF-I and C/EBP.
+10102	End relative to TSS	-208 to -52
+10102	medline	2329577
+10102	Start relative to TSS	-219 to -64
+10103	class	Unknown
+10103	comment	-
+10103	Description	The matrix is generated from the DPE containing sequences found in the Drosophila Core Promoter Database http://www-biology.ucsd.edu/labs/Kadonaga/DCPD.htm .
+10103	End relative to TSS	+34
+10103	medline	10848601
+10103	Start relative to TSS	+26
+10104	class	Unknown
+10104	comment	-
+10104	Description	Core promoter element that is recognised by TFIIB located uptream of the TATA-box.
+10104	End relative to TSS	-32
+10104	medline	9420329
+10104	Start relative to TSS	-39
+10105	class	Unknown
+10105	comment	-
+10105	Description	Core promoter element that is recognised by TFIIB located downstream of the TATA-box.
+10105	End relative to TSS	-17 
+10105	medline	16230532 
+10105	Start relative to TSS	-23
+10106	class	Unknown
+10106	comment	-
+10106	Description	The DCE consists of three subelements, and each is distinct from the DPE sequence: S_I is CTTC, S_II is CTGT, and S_III is AGC. S_I resides approximately from +6 to +11, S_II from +16 to +21, and S_III from +30 to +34. (Lee et al.). The matrix is built ba
+10106	End relative to TSS	+11
+10106	medline	16227614
+10106	Start relative to TSS	+6
+10107	class	Unknown
+10107	comment	-
+10107	Description	The DCE consists of three subelements, and each is distinct from the DPE sequence: S_I is CTTC, S_II is CTGT, and S_III is AGC. S_I resides approximately from +6 to +11, S_II from +16 to +21, and S_III from +30 to +34. (Lee et al.). The matrix are built b
+10107	End relative to TSS	+21
+10107	medline	16227614
+10107	Start relative to TSS	+16
+10108	class	Unknown
+10108	comment	-
+10108	Description	The DCE consists of three subelements, and each is distinct from the DPE sequence: S_I is CTTC, S_II is CTGT, and S_III is AGC. S_I resides approximately from +6 to +11, S_II from +16 to +21, and S_III from +30 to +34. (Lee et al.). The matrix are built b
+10108	End relative to TSS	+34
+10108	medline	16227614
+10108	Start relative to TSS	+30
+10109	class	Unknown
+10109	comment	-
+10109	Description	The matrix is made of the human promoter sequences that are shown in the supplementary material (Table S1). We included only the sites that show XCPE1 activity in vitro.
+10109	End relative to TSS	+2
+10109	medline	17210644
+10109	Start relative to TSS	-8
+10110	class	Unknown
+10110	comment	-
+10110	Description	The dominating  motif TATA ( first T in TATAT) is located in a preferred region from -32 to -28 relative to the TSS (see pub med 16916456). This model is also housed in JASPAR CORE (MA0108)
+10110	End relative to TSS	-25 to -9
+10110	medline	2329577
+10110	Start relative to TSS	-39 to -23
+10111	class	Unknown
+10111	comment	-
+10111	Description	Downstream core promoter element found in TATA-less promoters sharing similar features with the pgp1 promoter. The matrix is built from 14 promoters identified in the literature similar to the pgp1 promoter. It is often found in promoters with multiple st
+10111	End relative to TSS	+6 to +116
+10111	medline	8530439 
+10111	Start relative to TSS	+1 to +110

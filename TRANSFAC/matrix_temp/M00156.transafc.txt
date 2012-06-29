@@ -1,0 +1,84 @@
+AC  M00156
+XX
+ID  V$RORA1_01
+XX
+DT  08.06.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RORalpha1
+XX
+DE  RAR-related orphan receptor alpha1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T09566; RORalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10349; RORalpha; Species: Mammalia; site(s) included: no.
+BF  T06119; RORalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09284; RORalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15650; RORalpha-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01527; RORalpha1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01528; RORalpha2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01529; RORalpha3; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10      2      7      6      N
+02      9      3      3     10      W
+03     15      1      2      7      A
+04      9      1      0     15      W
+05      6     12      4      3      N
+06     11      2      5      7      N
+07     21      0      4      0      A
+08      0      0     25      0      G
+09      0      0     25      0      G
+10      0      0      0     25      T
+11      0     25      0      0      C
+12     25      0      0      0      A
+13      7      5      2     10      N
+XX
+BA  25 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AAATTTAGGTCAT; R07379; 16; 13;; p.
+BS  AAATCGAGGTCA; R07380; 19; 13;; p.
+BS  GAATGTAGGTCAT; R07381; 1; 13;; p.
+BS  GATACAGGGTCAT; R07382; 4; 13;; p.
+BS  ATTTAGAGGTCAT; R07383; 8; 13;; p.
+BS  AGATCAAGGTCAC; R07384; 8; 13;; p.
+BS  AATTCAAGGTCAA; R07385; 17; 13;; p.
+BS  TTATACAGGTCAA; R07386; 2; 13;; p.
+BS  AGGAGTAGGTCAC; R07387; 14; 13;; p.
+BS  TTAATTGGGTCAT; R07388; 13; 13;; p.
+BS  ATAACTGGGTCAC; R07389; 1; 13;; p.
+BS  TCTTAGAGGTCAT; R07390; 5; 13;; p.
+BS  ATTTAGAGGTCAT; R07391; 6; 13;; p.
+BS  CATACAAGGTCAT; R07392; 5; 13;; p.
+BS  GTATCCGGGTCAA; R07393; 1; 13;; p.
+BS  CAAATAAGGTCAA; R07394; 12; 13;; p.
+BS  GTACAAAGGTCAG; R07395; 13; 13;; p.
+BS  GCATGAAGGTCAA; R07396; 13; 13;; p.
+BS  GTATCTAGGTCAC; R07397; 14; 13;; p.
+BS  ATCTAAAGGTCAC; R07398; 16; 13;; p.
+BS  ACAACAAGGTCAA; R07399; 10; 13;; p.
+BS  TGGTCAAGGTCAG; R07400; 5; 13;; p.
+BS  TTTTGAAGGTCAT; R07401; 16; 13;; p.
+BS  TAAACGAGGTCAA; R07402; 3; 13;; p.
+BS  GAAACTAGGTCAT; R07403; 11; 13;; p.
+XX
+CC  sequences selected with recombinant RORalpha1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0071.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0003124.
+RX  PUBMED: 7926749.
+RA  Giguere V., Tini M., Flock G., Ong E., Evans R. M., Otulakowski G.
+RT  Isoform-specific amino-terminal domains dictate DNA-binding properties of RORalpha, a novel family of orphan hormone nuclear receptors
+RL  Genes Dev. 8:538-553 (1994).
+XX
+//

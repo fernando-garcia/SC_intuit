@@ -1,0 +1,75 @@
+AC  M00284
+XX
+ID  V$TCF11MAFG_01
+XX
+DT  29.04.1998 (created); ewi.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TCF11:MafG
+XX
+DE  TCF11:MafG heterodimers
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T01437; MafG; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T09243; MafG; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04870; MafG; Species: human, Homo sapiens; site(s) included: no.
+BF  T09572; MafG; Species: human, Homo sapiens; site(s) included: no.
+BF  T13731; MafG; Species: Mammalia; site(s) included: no.
+BF  T05750; MafG; Species: mouse, Mus musculus; site(s) included: no.
+BF  T10145; MafG; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05752; MafG; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14765; MafG; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09066; Nfe2l1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13729; Nfe2l1; Species: Mammalia; site(s) included: no.
+BF  T02203; Nfe2l1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T13761; Nfe2l1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19117; Nfe2l1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01442; Nfe2l1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09558; Nfe2l1-long; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T13800; Nfe2l1-short; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01599; Nfe2l1-xbb1; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      6      3      1      N
+02      4      4      1      5      N
+03      6      2      2      4      N
+04      5      4      2      3      N
+05      5      4      2      3      N
+06      9      0      4      1      A
+07      0      0      0     14      T
+08      0      0     14      0      G
+09     14      0      0      0      A
+10      0     12      2      0      C
+11      3      0      3      8      T
+12      2      8      1      2      C
+13     11      0      1      2      A
+14      1      0     12      1      G
+15      0     13      0      1      C
+16     13      0      1      0      A
+17      6      2      3      3      N
+18      3      1      2      8      T
+19      4      0      1      9      T
+20      5      5      3      1      N
+21      3      3      1      7      N
+22      1      2      8      2      G
+XX
+BA  14 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant TCF11:MafG from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0089.
+XX
+RN  [1]; RE0006838.
+RX  PUBMED: 9421508.
+RA  Johnsen O., Murphy P., Prydz H., Kolsto A.-B.
+RT  Interaction of the CNC-bZIP factor TCF11/LCR-F1/Nrf1 with MafG: binding-site selection and regulation of transcription
+RL  Nucleic Acids Res. 26:512-520 (1998).
+XX
+//

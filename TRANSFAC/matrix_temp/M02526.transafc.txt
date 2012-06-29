@@ -1,0 +1,50 @@
+AC  M02526
+AS  MA0407
+XX
+ID  F$THI2_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  THI2
+XX
+DE  class: Zinc-coordinating; family: Fungal Zn cluster
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03683; THI2; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    103      0   1162      0      G
+02      0      0   1265      0      G
+03    680    573      0     61      M
+04   1265      0      0      0      A
+05   1265      0      0      0      A
+06      0   1024      0    241      C
+07      0    543      0    805      Y
+08     71    599    571     90      S
+09    438      0      0    826      W
+10    921      0      0    344      A
+11   1265      0      0      0      A
+12      0      0   1265      0      G
+13   1265      0      0      0      A
+14    813      0    451      0      R
+15    129   1068     89      0      C
+XX
+BA  1265 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0407.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

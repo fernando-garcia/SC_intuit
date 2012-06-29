@@ -1,0 +1,46 @@
+AC  M00090
+XX
+ID  I$ABDB_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Abd-B
+XX
+DE  Abdominal-B
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T01476; Abd-B; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      5      8      3      N
+02      3     12     11      3      S
+03      9      9      9      7      N
+04      0      1      7     28      T
+05      4      2      4     29      T
+06     11      2      8     24      T
+07     36      2      0      7      A
+08      6      7      1     31      T
+09      2      2     30      9      G
+10     10      4     24      4      G
+11      1     32      6      1      C
+12      8     10     11      7      N
+13     11      8      8      4      N
+14      5      9      7      6      N
+XX
+BA  45 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant Abd-B from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 2 rounds of selection and amplification
+XX
+RN  [1]; RE0002965.
+RX  PUBMED: 7914870.
+RA  Ekker S. C., Jackson D. G., von Kessler D. P., Sun B. I., Young K. E., Beachy P. A.
+RT  The degree of variation in DNA sequence recognition among four Drosophila homeotic proteins
+RL  EMBO J. 13:3551-3560 (1994).
+XX
+//

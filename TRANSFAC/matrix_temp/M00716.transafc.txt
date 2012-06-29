@@ -1,0 +1,63 @@
+AC  M00716
+XX
+ID  V$ZF5_01
+XX
+DT  29.05.2002 (created); vma.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ZF5
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02349; ZF5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14521; ZF5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16569; ZFP161; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16570; ZFP161; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16572; ZFP161; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16573; ZFP161; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0     16      1      G
+02      2      8      8      1      S
+03      3      1     15      0      G
+04      2     14      2      1      C
+05      3      1     14      1      G
+06      1     15      1      2      C
+07      2      2     13      2      G
+08      9      0     10      0      R
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGAGGCGG; R12577; 18; 8;; p.
+BS  GAGCGCGG; R12578; 17; 8;; p.
+BS  ACGCGCCA; R12579; 13; 8;; p.
+BS  GCGAGCAA; R12580; 1; 8;; p.
+BS  GCAAGCGG; R12581; 3; 8;; p.
+BS  AGGCGCGG; R12582; 14; 8;; p.
+BS  GGGCGCCA; R12583; 5; 8;; p.
+BS  GGGCAGGA; R12584; 1; 8;; p.
+BS  GCGCGCGA; R12585; 1; 8;; p.
+BS  GTGTGCGG; R12586; 2; 8;; p.
+BS  GCGCGCGG; R12587; 17; 8;; p.
+BS  TCGCGAAG; R12588; 1; 8;; p.
+BS  GGACGTGA; R12589; 4; 8;; p.
+BS  GGCCACGG; R12590; 15; 8;; p.
+BS  GGGCACTG; R12591; 2; 8;; p.
+BS  GAGCGCTA; R12592; 1; 8;; p.
+BS  GCGGGCGG; R12593; 17; 8;; p.
+BS  GGGCTTGA; R12594; 1; 8;; p.
+BS  GCGCCCGA; R12595; 1; 8;; p.
+XX
+CC  sequences selected with GST-ZF5 fusion protein from a pool of double-stranded oligonucleotides containing a core of 25 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0017827.
+RX  PUBMED: 10049742.
+RA  Obata T., Yanagidani A., Yokoro K., Numoto M., Yamamoto S.
+RT  Analysis of the consensus binding sequence and the DNA-binding domain of ZF5.
+RL  Biochem. Biophys. Res. Commun. 255:528-534 (1999).
+XX
+//

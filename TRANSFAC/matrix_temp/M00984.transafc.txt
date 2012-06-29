@@ -1,0 +1,125 @@
+AC  M00984
+XX
+ID  V$PEBP_Q6
+XX
+DT  13.02.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PEBP
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00271; V$AML1_01; runt-factor AML-1 (specific).
+HC  M00731; V$OSF2_Q6;  (specific).
+HC  M00751; V$AML1_Q6;  (specific).
+HC  M01658; V$AML1_Q4;  (specific).
+HC  M01759; V$AML2_01;  (specific).
+HC  M01814; V$AML2_Q3;  (specific).
+HC  M01854; V$AML2_Q3_01;  (specific).
+HC  M01856; V$AML3_Q6;  (specific).
+HC  M02084; V$AML1_Q5;  (specific).
+HC  M02257; V$RUNX1_01; class: Ig-fold; family: Runt (specific).
+XX
+BF  T19216; AML-1E; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17392; AML-1FA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17391; AML-1FB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17390; AML-1FC; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17389; AML-1G; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17388; AML-1H; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17387; AML-1I; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02457; AML1; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T01067; AML1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14315; AML1; Species: Mammalia; site(s) included: no.
+BF  T06598; AML1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02444; AML1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10375; AML1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T17394; AML1-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17386; AML1-5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17393; AML1-C; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02256; AML1a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15260; AML1a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02245; AML1b; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02246; AML1c; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02220; AML1DeltaN; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02223; AML2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09959; AML2; Species: Mammalia; site(s) included: no.
+BF  T05409; AML2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14835; AML3; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02281; AML3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09552; AML3; Species: Mammalia; site(s) included: no.
+BF  T08443; AML3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02441; AML3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08347; AML3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02318; AML3-G1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09536; AML3-G2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03984; AML3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09535; AML3-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03983; AML3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02266; AML3-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09533; AML3-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02319; AML3-U1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02320; AML3-Y1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09537; AML3-Y2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02459; PEBP2alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01061; PEBP2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01062; PEBP2alphaA1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01063; PEBP2alphaA2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02235; PEBP2alphaB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02241; PEBP2alphaB2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14834; PEBP2beta; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02458; PEBP2beta; Species: gibbon ape, Hylobates lar; site(s) included: yes.
+BF  T02259; PEBP2beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17041; PEBP2beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01064; PEBP2beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02255; PEBP2beta-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01065; PEBP2beta-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02254; PEBP2beta-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05411; Runx3; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      2      9      1      G
+02      2      5      4      4      N
+03      4      1      0     10      T
+04      6      3      5      1      N
+05     14      1      0      0      A
+06      0     15      0      0      C
+07      0     15      0      0      C
+08     12      0      3      0      A
+09      0     15      0      0      C
+10     13      0      1      1      A
+11      7      1      6      1      R
+12      9      2      3      1      A
+13      3      5      4      3      N
+14      3      4      5      3      N
+15      2      1      4      8      K
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACTGACCGCAGCTGG; R01221; 5; 15;; p.
+BS  GATGACCGCAAAGGA; R02927; -1; 15;; p.
+BS  ATTAACCACAACCAG; R04644; 8; 15;; p.
+BS  GCAAACCACAAACTT; R05025; -2; 15;; n.
+BS  GAAAACCACAGACGT; R05026; 1; 15;; n.
+BS  GGTGACCACAAAATG; R05031; 10; 15;; n.
+BS  GCTGCCCACAAACCT; R05032; 12; 15;; n.
+BS  AGTCACCACTTTGGG; R14159; -5; 15;; n.
+BS  GGCAACCACAGAGTT; C00145,  s00226; -5; 15;; n.
+BS  GGTCACCGCGAGAGT; C00173,  s00280; -3; 15;; p.
+BS  CTTAACCACAGATAT; C00181,  s00295; -5; 15;; n.
+BS  GCTTACCACAGATAT; C00184,  s00301; -5; 15;; n.
+BS  CCAGACCACAGGCCA; C00196,  s00324; -3; 15;; p.
+BS  GTTCACCACACGGCT; C00228,  s00385; -5; 15;; n.
+BS  TTAAACCACAAAACC; C00231,  s00389; -3; 15;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; including 7 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

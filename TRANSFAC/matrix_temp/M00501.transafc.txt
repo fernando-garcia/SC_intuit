@@ -1,0 +1,79 @@
+AC  M00501
+XX
+ID  P$ANT_01
+XX
+DT  26.09.2001 (created); rge.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ANT
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02639; ANT; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0     30      0      2      C
+02     28      1      2      1      A
+03      0     32      0      0      C
+04     21      1     10      0      A
+05      9      5     15      5      N
+06     16      1      1     16      W
+07      0      2      1     31      T
+08      5     24      0      5      C
+09      0     34      0      0      C
+10      0     32      0      1      C
+11      7      1     13      2      R
+12     21      0      0      1      A
+13      3      0     10      9      K
+14      2      0     20      0      G
+XX
+BA  34 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGCAATTCCCGATG; R11188; 5; 14;; p.
+BS  CACGGTTCCCAAAG; R11189; 5; 14;; p.
+BS      GTTCCCGAGG; R11190; 1; 14; 1, 2, 3, 4; p.
+BS  CACAGTTCCC; R11191; 7; 14; 17, 18, 19, 20; p.
+BS  CACAAATCCC; R11192; 7; 14; 17, 18, 19, 20; p.
+BS  CACGACTCCC; R11193; 7; 14; 17, 18, 19, 20; p.
+BS      GTTCCCGAGG; R11194; 1; 14; 1, 2, 3, 4; p.
+BS  CACAAACTCCGATG; R11195; 3; 14;; p.
+BS  CACAGATCCC; R11196; 7; 14; 17, 18, 19, 20; p.
+BS  CACGCATCC; R11197; 7; 14; 16, 17, 18, 19, 20; p.
+BS  CTCAGTTCCC; R11198; 7; 14; 17, 18, 19, 20; p.
+BS  CACGGATCCCAAGG; R11199; 7; 14;; p.
+BS  CACGGATCCCGAGG; R11200; 7; 14;; p.
+BS  CACATATCCCGATG; R11201; 4; 14;; p.
+BS  CACACTTACCGAGG; R11202; 2; 14;; p.
+BS  CACGTTTCCC; R11203; 7; 14; 17, 18, 19, 20; p.
+BS  TGCGTTTCCCAAAG; R11204; 3; 14;; p.
+BS  CACAAATCCCAATG; R11205; 6; 14;; p.
+BS  CACACTTACCGAGG; R11206; 2; 14;; p.
+BS  CACAAACTCCGATG; R11207; 3; 14;; p.
+BS  CACGGTTCCCGATA; R11208; 3; 14;; p.
+BS  CACAGTTCCCCAAG; R11209; 3; 14;; p.
+BS  CACACTTCCCAAGA; R11210; 2; 14;; p.
+BS  CACAGTTACC; R11211; 7; 14; 17, 18, 19, 20; p.
+BS  CACGCTTTCCA; R11212; 7; 14; 18, 19, 20; p.
+BS  CACATATCCCGATG; R11213; 4; 14;; p.
+BS  CACAAATCCCAATG; R11214; 6; 14;; p.
+BS  CACAGATTCT; R11215; 7; 14; 17, 18, 19, 20; p.
+BS  CACAAAGTCCGATG; R11216; 3; 14;; p.
+BS  CACATATCCCTAGG; R11217; 1; 14;; p.
+BS  CACAGGTCCC; R11218; 7; 14; 17, 18, 19, 20; p.
+BS  TCCCAATACCTTGG; R11219; 6; 14;; p.
+BS  CACAGTTACC; R11220; 7; 14; 17, 18, 19, 20; p.
+BS  CACGGATCCCGAGG; R11221; 7; 14;; p.
+XX
+CC  sequences selected with recombinant ANT from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 18 rounds of selection and amplification
+XX
+RN  [1]; RE0016932.
+RX  PUBMED: 11058102.
+RA  Nole-Wilson S., Krizek B. A.
+RT  DNA binding properties of the Arabidopsis floral development protein AINTEGUMENTA
+RL  Nucleic Acids Res. 28:4076-4082 (2000).
+XX
+//

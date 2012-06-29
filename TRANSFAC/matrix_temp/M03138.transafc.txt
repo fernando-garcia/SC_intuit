@@ -1,0 +1,49 @@
+AC  M03138
+AS  MA0442
+XX
+ID  V$SOX10_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX10
+XX
+DE  class: Other Alpha-Helix; family: High Mobility Group
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T04918; Sox10; Species: human, Homo sapiens; site(s) included: unknown.
+BF  T08341; Sox10; Species: human, Homo sapiens; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01      0     19      0      3      C
+02      8      2      2     10      W
+03      0      1      4     17      T
+04      0      0      0     22      T
+05      0      3     19      0      G
+06      0      0      1     21      T
+XX
+BA  22 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPARDV; Annotations from PAZAR SOX10_RAT + SOX10_HUMAN + SOX10_MOUSE (TF0000223, TF0000224, TF0000226) in the pleiades genes project
+XX
+DR  JASPAR: MA0442.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071778.
+RX  PUBMED: 17916232.
+RA  Portales-Casamar E., Kirov S., Lim J., Lithwick S., Swanson M. I., Ticoll A., Snoddy J., Wasserman W. W.
+RT  PAZAR: a framework for collection and dissemination of cis-regulatory sequence annotation.
+RL  Genome Biol. 8:R207 (2007).
+XX
+//

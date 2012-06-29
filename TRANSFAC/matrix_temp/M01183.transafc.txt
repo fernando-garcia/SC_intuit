@@ -1,0 +1,79 @@
+AC  M01183
+XX
+ID  V$BCL6_01
+XX
+DT  16.04.2008 (created); vma.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BCL6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02322; BCL-6; Species: human, Homo sapiens; site(s) included: no.
+BF  T09129; BCL-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16043; BCL-6; Species: Mammalia; site(s) included: no.
+BF  T08156; BCL-6; Species: mouse, Mus musculus; site(s) included: no.
+BF  T14189; BCL-6; Species: mouse, Mus musculus; site(s) included: no.
+BF  T16051; Bcl-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16052; Bcl-6; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      6      1      9      Y
+02      7      3      3      9      N
+03      6      3      3      9      N
+04      2      8      6      6      N
+05      6      7      1      8      N
+06      7      2      5      7      N
+07      7      1     10      4      R
+08      5      4      6      6      N
+09     10      3      1      8      W
+10      8      1      4      6      N
+11      6      3      3      9      N
+12      6      2      6      6      N
+13      4     11      1      6      Y
+14      1      5      0     16      T
+15      3      3      0     16      T
+16      0      0      0     22      T
+XX
+BA  22 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CTACTAGAAACACTTT; R23968; 1; 16;; p.
+BS   AAGATTACAGCATTT; R23969; 1; 16; 1; p.
+BS  CTCTAGGTTTTGCTAT; R23970; 1; 16;; p.
+BS  AAACGTGTGGCAATTT; R23971; 1; 16;; p.
+BS  TGGTTACCATATCTTT; R23972; 1; 16;; p.
+BS  ATTCCTAATTTACTTT; R23973; 1; 16;; p.
+BS  TTATCGGGATATTCTT; R23974; 1; 16;; p.
+BS  TAGCCAGGAGATCCCT; R23975; 1; 16;; p.
+BS  GTNCCCAGTAATTCTT; R23976; 1; 16;; p.
+BS  CCAGTAATTGTTCTTT; R23977; 1; 16;; p.
+BS  CTCGATGAATGAATAT; R23978; 1; 16;; p.
+BS  NATCCAGGANTNATAT; R23979; 1; 16;; p.
+BS  TGTTTAAGAATGTCTT; R23980; 1; 16;; p.
+BS  NGAGCGGCCNNGTATT; R23981; 1; 16;; p.
+BS  TTTCACTTCTTGCTTT; R23982; 1; 16;; p.
+BS  CCCTAGATTACACTTT; R23983; 1; 16;; p.
+BS  ATTTTTTCTATGCTTT; R23984; 1; 16;; p.
+BS  TAGATTACACACTCCT; R23985; 1; 16;; p.
+BS  TTTGTNGNAATGTTTT; R23986; 1; 16;; p.
+BS  TATGCTTTTGATGTTT; R23987; 1; 16;; p.
+BS  CATCTAGGAAGACTCT; R23988; 1; 16;; p.
+BS  TCTAAGAATNTNCTTT; R23989; 1; 16;; p.
+XX
+CC  sequences selected with recombinant BCL6 from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 13 rounds of selection and amplification
+XX
+RN  [1]; RE0052624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel122:0001 (2008).
+RN  [2]; RE0052168.
+RX  PUBMED: 7669744.
+RA  Baron B. W., Stanger R. R., Hume E., Sadhu A., Mick R., Kerckaert J. P., Deweindt C., Bastard C., Nucifora G., Zeleznik-Le N., et al.
+RT  BCL6 encodes a sequence-specific DNA-binding protein.
+RL  Genes Chromosomes Cancer 13:221-224 (1995).
+XX
+//

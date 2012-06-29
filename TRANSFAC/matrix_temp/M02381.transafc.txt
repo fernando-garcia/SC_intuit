@@ -1,0 +1,53 @@
+AC  M02381
+AS  MA0262
+XX
+ID  N$MAB3_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  mab-3
+XX
+DE  class: Zinc-coordinating; family: DM
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T22721; mab-3; Species: Caenorhabditis elegans; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     76      3     13      8      A
+02     86      0      0     14      A
+03      0      1      0     99      T
+04      0      0    100      0      G
+05      0      0      0    100      T
+06      0      0      0    100      T
+07      0      0    100      0      G
+08      0    100      0      0      C
+09     13     19     67      1      G
+10     62      0     11     27      A
+11     50      0      6     44      W
+12     29     13     22     36      N
+13      8      8     10     74      T
+XX
+BA  100 sequences (direct gel shift)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0262.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0071784.
+RX  PUBMED: 9927589.
+RA  Yi W., Zarkower D.
+RT  Similarity of DNA binding and transcriptional regulation by Caenorhabditis elegans MAB-3 and Drosophila melanogaster DSX suggests conservation of sex determining mechanisms.
+RL  Development 126:873-881 (1999).
+XX
+//

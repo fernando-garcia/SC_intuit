@@ -1,0 +1,54 @@
+AC  M00408
+XX
+ID  P$MADSA_Q2
+XX
+DT  19.09.2000 (created); rge.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MADS-A
+XX
+DE  determines identity of floral meristem and sepal and petal development
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01775; AP1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T09635; AP1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T03178; SQUA; Species: garden snapdragon, Antirrhinum majus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      0      0      1      A
+02      1      0      1      2      D
+03      2      0      0      2      W
+04      1      2      0      1      C
+05      0      2      1      1      C
+06      3      0      1      0      A
+07      4      0      0      0      A
+08      4      0      0      0      A
+09      4      0      0      0      A
+10      4      0      0      0      A
+11      0      0      0      4      T
+12      0      0      4      0      G
+13      0      1      3      0      G
+14      3      0      0      0      A
+15      3      0      0      0      A
+16      2      0      0      1      A
+XX
+BA  4 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AGTTCGAAAATGGAAT; R08852; 9; 16;; n.
+BS  AATAGAAAAATGC; R08853; 16; 16; 29, 30, 31; p.
+BS  TTACTAAAAATGGAAA; R08876; 53; 16;; n.
+BS  ATACCAAAAATGGAAA; R08880; 31; 16;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0016965.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0001 (2000).
+XX
+//

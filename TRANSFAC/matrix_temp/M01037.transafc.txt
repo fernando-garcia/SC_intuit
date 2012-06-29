@@ -1,0 +1,85 @@
+AC  M01037
+XX
+ID  V$GLI_Q2
+XX
+DT  18.02.2005 (created); dtc.
+DT  02.03.2005 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GLI
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01042; V$GLI1_Q2;  (specific).
+HC  M01596; V$GLI3_01;  (specific).
+HC  M01657; V$GLI3_Q5_01;  (specific).
+HC  M01702; V$GLI1_01;  (specific).
+HC  M01703; V$GLI2_01;  (specific).
+HC  M01704; V$GLI3_02;  (specific).
+XX
+BF  T00330; GLI; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15311; GLI; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16501; GLI; Species: Mammalia; site(s) included: no.
+BF  T06385; GLI; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11180; GLI; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11124; GLI2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17905; Gli2; Species: Mammalia; site(s) included: yes.
+BF  T06386; Gli2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17629; Gli2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04961; GLI2alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08167; Gli2beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08169; Gli2delta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08168; Gli2gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00331; gli3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15791; gli3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06387; gli3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11183; gli3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06390; GliH1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11184; GliH1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19959; GLIS1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19960; GLIS1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08122; XGli3; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      5      1      5      N
+02      0      5      5      5      B
+03      0      1      0     14      T
+04      0      0     12      3      G
+05      0      0     15      0      G
+06      0      0     15      0      G
+07      2      0      1     12      T
+08      0      0     14      1      G
+09      0      0     13      2      G
+10      1      1      1     12      T
+11      0     12      2      1      C
+12      1      7      4      3      N
+XX
+BA  15 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CTTGGGTGTTCC; R16133; 12; 12;; n.
+BS  ATTGGGTGGTGG; R16134; 12; 12;; n.
+BS  ACTGGGTGGACT; R16135; 12; 12;; n.
+BS  TGTGGGGGGTCA; R16136; 12; 12;; n.
+BS  TCTGGGAGGTCT; R16138; 12; 12;; n.
+BS  GTTTGGTGGTCC; R16139; 12; 12;; n.
+BS  TCTGGGAGGTCC; R16152; 12; 12;; n.
+BS  CTTGGGTTGTTC; R16155; 25; 12;; n.
+BS  ACTTGGTGGTCG; R16158; 11; 12;; n.
+BS  CGTGGGTGTGCG; R16159; 11; 12;; n.
+BS  AGTGGGTGGCGC; R16160; 11; 12;; n.
+BS  CGCGGGTGGTCC; R16191; 10; 12;; p.
+BS  CTTGGGTGGTCC; R16192; 4; 12;; n.
+BS  TGTGGGTGGTCT; R16193; 4; 12;; n.
+BS  TCTTGGTGGTCG; R16296; 10; 12;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0025480.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel91:0001 (2005).
+XX
+//

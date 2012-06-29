@@ -1,0 +1,44 @@
+AC  M00344
+XX
+ID  P$RAV1_02
+XX
+DT  15.02.1999 (created); ewi.
+DT  03.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RAV1
+XX
+DE  3'-part of bipartite RAV1 binding site, interacting with AP2 domain
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02637; RAV1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     22     12     10     18      N
+02     13     15      8     28      N
+03      8     49      1      7      C
+04     40      6      8     11      A
+05      1     56      3      5      C
+06      0     65      0      0      C
+07      0      0      0     65      T
+08      0      0     58      0      G
+09     24      7     19      5      R
+10     12     15     18      9      N
+11     12     14     16     10      N
+12      8     20      5     13      N
+XX
+BA  65 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant RAV1 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 6 rounds of selection and amplification
+XX
+RN  [1]; RE0013317.
+RX  PUBMED: 9862967.
+RA  Kagaya Y., Ohmiya K., Hattori T.
+RT  RAV1, a Novel DNA-Binding Protein, Binds to Bipartite Recognition Sequence through Two Distinct DNA-Binding Domains Uniquely Found in Higher Plants
+RL  Nucleic Acids Res. 27:470-478 (1999).
+XX
+//

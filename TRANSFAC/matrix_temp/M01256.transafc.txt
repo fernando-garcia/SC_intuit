@@ -1,0 +1,60 @@
+AC  M01256
+XX
+ID  V$REST_01
+XX
+DT  29.06.2009 (created); sla.
+DT  10.07.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  REST
+XX
+DE  NRSF, neuron-restrictive silencer factor
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T10492; REST; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T06124; REST; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10469; REST; Species: Mammalia; site(s) included: no.
+BF  T05934; REST; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05957; REST; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     79    155    177     89      N
+02     84    190    126    100      N
+03     92    136    131    141      N
+04    102     48    221    129      N
+05     73      8    377     42      G
+06     27     93    319     61      G
+07    177    196     13    114      N
+08     62     44    322     72      G
+09      1    484      5     10      C
+10      1      3      1    495      T
+11     17     60    422      1      G
+12     10      4     22    464      T
+13      0    492      1      7      C
+14      2    489      2      7      C
+15    280     47     98     75      A
+16     91     70     76    263      T
+17     33     24    419     24      G
+18     20     21    449     10      G
+19     14     26     17    443      T
+20     50    110    302     38      G
+21      4    446     27     23      C
+22     28     35     17    420      T
+XX
+BA  500 sequences (ChIP-Seq)
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0062885.
+RX  PUBMED: 19160518.
+RA  Valouev A., Johnson D. S., Sundquist A., Medina C., Anton E., Batzoglou S., Myers R. M., Sidow A.
+RT  Genome-wide analysis of transcription factor binding sites based on ChIP-Seq data.
+RL  Nat. Methods 5:829-834 (2008).
+XX
+//

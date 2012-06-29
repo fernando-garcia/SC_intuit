@@ -1,0 +1,67 @@
+AC  M02111
+XX
+ID  V$NR1B2_Q6
+XX
+DT  24.10.2011 (created); mkl.
+DT  18.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NR1B2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00963; V$T3R_Q6; half-site matrix of TRE (thyroid hormone response element) and RARE (retinoic acid response element); (family).
+HP  M00965; V$DR4_Q2; direct repeat 4 (family).
+XX
+BF  T00721; NR1B2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15891; NR1B2; Species: Mammalia; site(s) included: yes.
+BF  T15893; NR1B2; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01328; NR1B2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10152; NR1B2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      7      7      6      N
+02      0      0      0     24      T
+03      0      0     24      0      G
+04     23      0      0      1      A
+05      6     17      1      0      C
+06      0     23      0      1      C
+07      1     12      0     11      Y
+XX
+BA  24 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTGACCC; R00135; 15; 7;; p.
+BS  CTGACCT; R01063; 2; 7;; n.
+BS  GTGAACC; R01321; 3; 7;; n.
+BS  GTGACCT; R02856; 10; 7;; n.
+BS  ATGACCC; R03017; 10; 7;; p.
+BS  tTGACCC; R03928; 10; 7;; p.
+BS  GTGACCT; R03931; 2; 7;; n.
+BS  TTGACCT; R03932; 1; 7;; n.
+BS  GTGAACC; R04451; 4; 7;; n.
+BS  TTGACCT; R04519; 5; 7;; p.
+BS  nTGAACT; R04634; -1; 7;; p.
+BS  GTGACCC; R04761; 3; 7;; p.
+BS  GTGAACC; R09141; 3; 7;; n.
+BS  CTGACTC; R13314; 11; 7;; n.
+BS  CTGTCCT; R13317; 17; 7;; p.
+BS  TTGACCT; R17087; 18; 7;; n.
+BS  ctgagct; R19685; 16; 7;; n.
+BS  ctgacct; R19689; 19; 7;; p.
+BS  GTGAACA; R20525; 2; 7;; n.
+BS  ATGACCC; R20531; 25; 7;; n.
+BS  ATGACCC; R27274; 5; 7;; n.
+BS  TTGAACC; R27435; 18; 7;; n.
+BS  CTGACCT; R27612; 15; 7;; n.
+BS  CTGACCC; R35897; 27; 7;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0071345.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20114:0001 (2011).
+XX
+//

@@ -1,0 +1,59 @@
+AC  M02245
+AS  MA0142
+XX
+ID  V$POU5F1_02
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pou5f1
+XX
+DE  class: Helix-Turn-Helix; family: Homeo
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T00651; Oct3; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T09363; Oct3; Species: mouse, Mus musculus; site(s) included: unknown.
+BF  T18702; Oct3-xbb1; Species: mouse, Mus musculus; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     63    846     66    389      C
+02    579     58     28    701      W
+03     11     50     36   1270      T
+04     47     12     79   1231      T
+05    118    363    825     63      G
+06    415     18     29    907      T
+07    206    365    186    612      N
+08   1235     30     24     80      A
+09     17      5     15   1332      T
+10     10     16   1239    104      G
+11     14   1029    129    196      C
+12   1050     16     30    269      A
+13    887     68    315     92      A
+14   1200     33     75     53      A
+15    198    119    207    837      T
+XX
+BA  1364 sequences (ChIP-Seq)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0142.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0063019.
+RX  PUBMED: 18555785.
+RA  Chen X., Xu H., Yuan P., Fang F., Huss M., Vega V. B., Wong E., Orlov Y. L., Zhang W., Jiang J., Loh Y. H., Yeo H. C., Yeo Z. X., Narang V., Govindarajan K. R., Leong B., Shahab A., Ruan Y., Bourque G., Sung W. K., Clarke N. D., Wei C. L., Ng H. H.
+RT  Integration of external signaling pathways with the core transcriptional network in embryonic stem cells.
+RL  Cell 133:1106-1117 (2008).
+XX
+//

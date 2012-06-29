@@ -1,0 +1,60 @@
+AC  M00400
+XX
+ID  P$ABF1_02
+XX
+DT  13.09.2000 (created); rge.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ABF1
+XX
+DE  ABA (abscisic acid) inducible transcriptional activator
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+HP  M00442; P$ABF_Q2; ABA binding factor (family).
+XX
+BF  T03820; ABF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T13760; ABF1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      5      1      3      N
+02      3      3      2      4      N
+03      2      1      6      4      K
+04      0      6      0      0      C
+05      4      2      6      1      R
+06      1      4      3      5      N
+07      0      2      0      2      Y
+08      0      3      6      3      B
+09      3      1      7      2      G
+10      0     13      0      0      C
+11      0     13      0      0      C
+12     13      0      0      0      A
+13      0     13      0      0      C
+14      0      0     13      0      G
+15      0      0      0     13      T
+16      0      0     13      0      G
+17      0      0     13      0      G
+18      0      5      0      0      C
+19      2      8      0      1      C
+20      4      4      3      1      N
+21      2     10      1      0      C
+22      1      1      9      0      G
+23     10      2      1      0      A
+24      0     12      1      0      C
+25     10      0      3      0      A
+XX
+BA  13 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant ABF1 from a pool of double-stranded oligonucleotides containing a core of 18 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0015064.
+RX  PUBMED: 10636868.
+RA  Choi H., Hong J., Ha J., Kang J., Kim S. Y.
+RT  ABFs, a family of ABA-responsive element binding factors
+RL  J. Biol. Chem. 275:1723-1730 (2000).
+XX
+//

@@ -1,0 +1,57 @@
+AC  M00648
+XX
+ID  V$MAF_Q6
+XX
+DT  08.03.2002 (created); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MAF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T02201; c-MAF; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05749; c-MAF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18005; c-MAF; Species: Mammalia; site(s) included: yes.
+BF  T01432; c-MAF; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05753; c-MAF; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01463; mammary activating factor; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      0      4      T
+02      2      0      2      1      R
+03      1      0      4      0      G
+04      3      0      2      0      R
+05      2      0      3      0      R
+06      0      0      5      0      G
+07      0      0      5      0      G
+08      5      0      0      0      A
+09      5      0      0      0      A
+10      0      0      5      0      G
+11      0      0      0      5      T
+12      0      0      2      3      K
+13      0      0      3      2      K
+14      0      2      2      1      S
+15      0      3      2      0      S
+16      1      0      1      3      T
+XX
+BA  5 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AAGAAGGAAGTGTTGT; R01595; 7; 16;; p.
+BS  TAAGAGGAAGTTGGCT; R03111; 9; 16;; n.
+BS  TTGGGGGAAGTTGCGG; R04188; -3; 16;; p.
+BS  TGGAGGGAAGTTGGCA; R04192; 2; 16;; p.
+BS  TGGAGGGAAGTGTCCT; R04193; 2; 16;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

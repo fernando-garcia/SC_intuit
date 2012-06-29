@@ -1,0 +1,129 @@
+AC  M00775
+XX
+ID  V$NFY_Q6_01
+XX
+DT  30.11.2002 (created); dtc.
+DT  16.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-Y
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00287; V$NFY_01; nuclear factor Y (Y-box binding factor) (specific).
+HC  M00687; V$ALPHACP1_01;  (specific).
+HC  M02106; V$NFYA_Q5;  (specific).
+HC  M02107; V$NFYC_Q5;  (specific).
+XX
+BF  T00150; NF-Y; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01171; NF-Y; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: yes.
+BF  T00613; NF-Y; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00084; NF-Y; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10773; NF-YA; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T16563; NF-YA; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T01804; NF-YA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08563; NF-YA; Species: Mammalia; site(s) included: no.
+BF  T10585; NF-YA; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T09472; NF-YA; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00088; NF-YA; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10234; NF-YA; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16079; NF-YA; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T08679; NF-YA isoform-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00615; NF-YA isoform-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10326; NF-YA isoform-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09471; NF-YA isoform-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16995; NF-YB; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T05216; NF-YB; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T05215; NF-YB; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T16566; NF-YB; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T19636; NF-YB; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T00154; NF-YB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08680; NF-YB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08564; NF-YB; Species: Mammalia; site(s) included: no.
+BF  T10586; NF-YB; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00616; NF-YB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09316; NF-YB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00087; NF-YB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08967; NF-YB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T05219; NF-YC; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10617; NF-YC; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17293; NF-YC; Species: Mammalia; site(s) included: no.
+BF  T10587; NF-YC; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T02477; NF-YC; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10241; NF-YC; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01595; NF-YC; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08081; NF-YC; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19131; NF-YC-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02478; NF-YC-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00614; NF-Yprime; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10     11     10      9      N
+02     12     17      4      8      N
+03      3     10      9     19      N
+04      4     12      9     16      N
+05     18      5     16      2      R
+06     19      1     21      0      R
+07      0     41      0      0      C
+08      1     39      1      0      C
+09     41      0      0      0      A
+10     37      2      0      2      A
+11      0      1      2     38      T
+12      4     22     14      1      S
+13     22      3     14      2      R
+XX
+BA  41 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCGAGGCCATTCA; R00022; 4; 13;; n.
+BS  NAGGAACCAATGA; R00090; -4; 13;; p.
+BS  CCCCAGCCAATCA; R00228; 11; 13;; n.
+BS  TCTCCACCAATGG; R00232; -2; 13;; n.
+BS  CACCAACCAACGC; R00263; 13; 13;; n.
+BS  TTCCAGCCACTCT; R00445; -5; 13;; p.
+BS  ACTTGACCAATAG; R00564; -6; 13;; p.
+BS  ACCTGACCAATGG; R00572; -6; 13;; p.
+BS  ATGTAGCCATGTG; R00577; -6; 13;; p.
+BS  TCTGAGCCAATCA; R00766; 6; 13;; n.
+BS  TACAAACCAATCA; R00988; -2; 13;; n.
+BS  GCAGAACCAATCA; R01076; -2; 13;; p.
+BS  TTTTAACCAATCA; R01080; 4; 13;; n.
+BS  AATTCGCCAATGA; R01443; -4; 13;; n.
+BS  CACGCGCCAATCA; R01799; -3; 13;; p.
+BS  CCTTGACCAATAG; R01858; 12; 13;; p.
+BS  CCAGAACCAATCA; R01942; 2; 13;; n.
+BS  CCTTAACCAATAG; R02888; 12; 13;; p.
+BS  GCTGGGCAAATAG; R02959; 17; 13;; n.
+BS  GTAAAGCCAATCA; R03038; 11; 13;; n.
+BS  ATGGGGCCAATCA; R03039; -2; 13;; n.
+BS  ATGGGGCCAATCA; R03040; 11; 13;; n.
+BS  ATTCAGCCAATCG; R03043; 4; 13;; n.
+BS  CCTTGACCAATGA; R03119; -5; 13;; p.
+BS  AGTTGACCAATGA; R03477; -4; 13;; p.
+BS  TATTTACCACTGG; R04200; 3; 13;; n.
+BS  AAGCAGCCAATCA; R04344; 8; 13;; n.
+BS  GCGTTGCCAAGCT; R04515; 6; 13;; p.
+BS  GCTTAACCAATCA; R04516; 6; 13;; n.
+BS  GATTCACCAATCG; R12441; 7; 13;; n.
+BS  GAGTGACCAATGA; C00005,  s00001; -2; 13;; p.
+BS  CTTTGGCCAATCA; C00004,  s00008; 2; 13;; n.
+BS  TGTGGACGAATCA; C00180,  s00293; -4; 13;; p.
+BS  GGGCCGCCAATGG; C00190,  s00313; -2; 13;; p.
+BS  CCCAGGCCAATGA; C00206,  s00342; -2; 13;; n.
+BS  GACTGGCCAATGA; C00207,  s00344; -2; 13;; n.
+BS  TCTCAGCCAATGG; C00210,  s00351; -2; 13;; n.
+BS  GATCAGCCAATCG; C00211,  s00352; -2; 13;; n.
+BS  TCTCGGCCAATGG; C00212,  s00355; -2; 13;; n.
+BS  CACCGACCAATCC; C00227,  s00383; -2; 13;; n.
+BS  AGCCACCCAATCC; C00284,  s00488; -6; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; includes 11 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,148 @@
+AC  M00974
+XX
+ID  V$SMAD_Q6_01
+XX
+DT  13.02.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SMAD
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00701; V$SMAD3_Q6;  (specific).
+HC  M00733; V$SMAD4_Q6;  (specific).
+HC  M01590; V$SMAD1_01;  (specific).
+HC  M01888; V$SMAD3_Q6_01;  (specific).
+HC  M01889; V$SMAD4_Q6_01;  (specific).
+HC  M02794; V$SMAD3_03; class: Zinc-coordinating; family: MH1 (specific).
+HC  M02898; V$SMAD4_04; class: Zinc-coordinating; family: MH1 (specific).
+XX
+BF  T03889; Smad1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04432; Smad1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T03885; Smad1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09175; Smad1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10783; Smad1; Species: Mammalia; site(s) included: no.
+BF  T04254; Smad1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08914; Smad1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03888; Smad1; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T04429; Smad1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14746; Smad1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03890; Smad1; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03886; Smad1.1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T03892; Smad10; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04247; Smad2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04433; Smad2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T10683; Smad2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04273; Smad2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09086; Smad2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04232; Smad2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08506; Smad2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04150; Smad2; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T04442; Smad2 (437 AA); Species: human, Homo sapiens; site(s) included: yes.
+BF  T04095; Smad2-L; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18575; Smad3; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04248; Smad3; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17939; Smad3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04251; Smad3; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T04096; Smad3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10378; Smad3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09538; Smad3; Species: Mammalia; site(s) included: no.
+BF  T04210; Smad3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09072; Smad3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04431; Smad3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08509; Smad3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04149; Smad3; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T05271; Smad3:Smad4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18574; Smad4; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T17940; Smad4; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04252; Smad4; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T15778; Smad4; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T04292; Smad4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09304; Smad4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13998; Smad4; Species: Mammalia; site(s) included: no.
+BF  T05067; Smad4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09461; Smad4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03882; Smad4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10235; Smad4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03884; Smad4; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T15780; Smad4; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T04153; smad4alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T15779; smad4alpha; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04154; smad4beta; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04554; smad4delta3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04555; smad4delta4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04559; smad4delta4-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04560; smad4delta4-7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04558; smad4delta5-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04557; smad4delta6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04245; Smad5; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04295; Smad5; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04222; Smad5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04213; Smad5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04235; Smad5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04152; Smad5; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T04246; Smad6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04159; Smad6; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04220; Smad6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10782; Smad6; Species: Mammalia; site(s) included: no.
+BF  T04236; Smad6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04249; Smad7; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04156; Smad7; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T17841; Smad7; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04217; Smad7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04234; Smad7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04244; Smad7; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04250; Smad8; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04464; Smad8; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05997; Smad8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04215; Smad8; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T04238; Smad8; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      4      1     11      T
+02      8      1      6      5      N
+03      2      3     10      5      G
+04      3      7      6      4      N
+05      0     15      0      5      C
+06     20      0      0      0      A
+07      0      0     20      0      G
+08     17      1      2      0      A
+09      0     20      0      0      C
+10     11      2      1      6      W
+11      2      6      8      4      N
+XX
+BA  20 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GAGTCAGACAC; R09881; 9; 11;; p.
+BS  CAGGCAGACAG; R09952; -7; 11;; p.
+BS  TGTCCAGACTC; R09967; 3; 11;; n.
+BS  CAATTAGGCCG; R10056; -6; 11;; p.
+BS  TTCTCAGACAG; R10061; -4; 11;; p.
+BS  CGTCTAGACAC; R10063; 12; 11;; n.
+BS  ATGGCAGACAT; R10069; 17; 11;; p.
+BS  TATGCAGACAA; R10092; 15; 11;; p.
+BS  TAGATAGACTG; R10093; -5; 11;; p.
+BS  CTTACAGACTG; R13039; -4; 11;; p.
+BS  TACTCAGACTT; R13041; 4; 11;; n.
+BS  TTGCCAGACTC; R13211; 1; 11;; p.
+BS  TGACTAGACAG; R13582; 3; 11;; n.
+BS  TTGGCAGGCGG; R13585; -3; 11;; p.
+BS  TAGACAGACAG; R14158; 8; 11;; p.
+BS  AGGCCAGACAT; C00196,  s00325; -3; 11;; p.
+BS  AACCTAGACAA; C00198,  s00328; -2; 11;; p.
+BS  TGTCCAGACTC; C00199,  s00330; -2; 11;; n.
+BS  AGGGCAGACAT; C00200,  s00333; -2; 11;; n.
+BS  TCGGCAGCCCC; C00201,  s00334; 12; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better; including 5 TRANSCompel sites
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

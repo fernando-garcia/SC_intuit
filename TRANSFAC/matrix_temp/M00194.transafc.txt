@@ -1,0 +1,63 @@
+AC  M00194
+XX
+ID  V$NFKB_Q6
+XX
+DT  28.08.1995 (created); dbo.
+DT  03.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-kappaB
+XX
+DE  NF-kappaB
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00774; V$NFKB_Q6_01;  (family).
+XX
+BF  T00590; NF-kappaB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00588; NF-kappaB; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00587; NF-kappaB; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01925; NF-kappaB1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17520; NF-kappaB1; Species: Mammalia; site(s) included: no.
+BF  T09437; NF-kappaB1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00389; NF-kappaB1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08934; NF-kappaB1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01924; NF-kappaB1-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19128; NF-kappaB1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11413; NF-kappaB1-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11415; NF-kappaB1-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11418; NF-kappaB1-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01940; NF-kappaB1-isoform5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01941; NF-kappaB1-isoform6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01942; NF-kappaB1-isoform7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10536; NF-kappaB1-p50; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T00593; NF-kappaB1-p50; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10270; NF-kappaB1-p50; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16113; NFKappaB1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01926; p105; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01923; p50; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      1      4      4      N
+02      2      0      8      3      G
+03      0      0     11      2      G
+04      0      0     13      0      G
+05      1      0     12      0      G
+06     13      0      0      0      A
+07      6      6      0      1      M
+08      1      1      2      9      T
+09      0      3      0     10      T
+10      1      3      0      9      T
+11      1     12      0      0      C
+12      0     12      0      1      C
+13      2      4      3      4      N
+14      3      4      3      3      N
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+//

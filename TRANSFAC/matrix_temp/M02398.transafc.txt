@@ -1,0 +1,45 @@
+AC  M02398
+AS  MA0279
+XX
+ID  F$CAD1_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  22.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CAD1
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01239; CAD1; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01   2056    100     98      0      A
+02     97      0      0   2095      T
+03      0      0      0   2154      T
+04   1889     98      0    172      A
+05    602    213   1464      0      G
+06      0      0      0   2154      T
+07   1947    206      0      0      A
+08   2154      0      0      0      A
+09      0      0   1416    798      K
+10      0   2088      0     97      C
+XX
+BA  2254 sequences (compiled matrix imported from public database)
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0279.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

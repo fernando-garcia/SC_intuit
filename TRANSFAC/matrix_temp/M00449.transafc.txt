@@ -1,0 +1,76 @@
+AC  M00449
+XX
+ID  V$ZIC2_01
+XX
+DT  22.08.2001 (created); rio.
+DT  05.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Zic2
+XX
+DE  zinc finger protein of the cerebellum 2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04237; zic2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T11246; zic2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04670; zic2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14518; zic2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17504; zic2; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      1     13     10      K
+02      3      3     20      4      G
+03      3      3     22      2      G
+04      3      2     22      3      G
+05      3      3      5     19      T
+06      4      2     21      3      G
+07      3      4     21      2      G
+08      1      2      3     24      T
+09      3     17      6      4      C
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGGGTGCTC; R10260; 1; 9;; p.
+BS  GGGGTAGTC; R10261; 1; 9;; p.
+BS  TCGGTGGTT; R10262; 1; 9;; p.
+BS  AGGGTGGGC; R10263; 1; 9;; p.
+BS  AGGTTCGTC; R10264; 1; 9;; p.
+BS  CACGTGGTC; R10265; 1; 9;; p.
+BS  TGGGGGGGC; R10266; 1; 9;; p.
+BS  GGAGTAGTC; R10267; 1; 9;; p.
+BS  GGGGGGGGC; R10268; 1; 9;; p.
+BS  TGGTTGCTG; R10269; 1; 9;; p.
+BS  GGGGTGTTG; R10270; 1; 9;; p.
+BS  TGTCTGGTG; R10271; 1; 9;; p.
+BS  TAGAGGGTC; R10272; 1; 9;; p.
+BS  GGGGCAGTC; R10273; 1; 9;; p.
+BS  AGGGTGGAA; R10274; 1; 9;; p.
+BS  TAGGTTGCC; R10275; 1; 9;; p.
+BS  TTCGTGGTG; R10276; 1; 9;; p.
+BS  TTGGTATTC; R10277; 1; 9;; p.
+BS  AGGAAGGTC; R10278; 1; 9;; p.
+BS  GGGGGGGTT; R10279; 1; 9;; p.
+BS  GGGGGGGTA; R10280; 1; 9;; p.
+BS  GTGATGCTC; R10281; 1; 9;; p.
+BS  GGGGAGATA; R10282; 1; 9;; p.
+BS  ATTGTGATC; R10283; 1; 9;; p.
+BS  ACGGTGCTT; R10284; 1; 9;; p.
+BS  TCAGTCGTG; R10285; 1; 9;; p.
+BS  GGGCCGGTG; R10286; 1; 9;; p.
+BS  GGGTTTGCC; R10287; 1; 9;; p.
+BS  GGCGAGGTT; R10288; 1; 9;; p.
+BS  TGAGCTATC; R10289; 1; 9;; p.
+XX
+CC  sequences selected with recombinant Zic2 from a pool of double-stranded oligonucleotides containing a core of 30 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0016752.
+RX  PUBMED: 11053430.
+RA  Mizugishi K., Aruga J., Nakata K., Mikoshiba K.
+RT  Molecular properties of Zic proteins as transcriptional regulators and their relationship to GLI proteins
+RL  J. Biol. Chem. 276:2180-2188 (2001).
+XX
+//

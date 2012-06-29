@@ -1,0 +1,60 @@
+AC  M00058
+XX
+ID  V$HEN1_02
+XX
+DT  13.04.1995 (created); hiwi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HEN1
+XX
+DE  HEN1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T01654; HEN1; Species: human, Homo sapiens; site(s) included: no.
+BF  T01655; HEN1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T01447; HEN1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     33     16     27     24      N
+02     29     12     31     27      N
+03     19      7     52     22      G
+04      5      0     78     16      G
+05      5      2     91      2      G
+06     21     29     30     20      N
+07     25     72      4      0      C
+08      5     14     64     17      G
+09      0    100      0      0      C
+10    100      0      0      0      A
+11      3      5     91      0      G
+12      2     88      9      2      C
+13      0      0      0    100      T
+14      0      0    100      0      G
+15      7     67     12     14      C
+16      5      3     67     25      G
+17     11     30     23     36      N
+18      5     80      5      9      C
+19     16     68      5     11      C
+20     13     57      9     20      C
+21     22     41     10     26      N
+22     27     16     24     33      N
+XX
+BA  54 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  figures are percentages; sequences selected with recombinant HEN1 from a pool of double-stranded oligonucleotides containing a core of 35 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: MA0048.
+XX
+RN  [1]; RE0002926.
+RX  PUBMED: 8289804.
+RA  Brown L., Baer R.
+RT  HEN1 encodes a 20-kilodalton phosphoprotein that binds an extended E-box motif as a homodimer
+RL  Mol. Cell. Biol. 14:1245-1255 (1994).
+XX
+//

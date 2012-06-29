@@ -1,0 +1,48 @@
+AC  M00475
+XX
+ID  N$DAF16_01
+XX
+DT  06.09.2001 (created); rio.
+DT  06.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DAF-16
+XX
+DE  defective dauer formation 16
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T03398; daf-16a1; Species: Caenorhabditis elegans; site(s) included: yes.
+BF  T03399; daf-16a2; Species: Caenorhabditis elegans; site(s) included: yes.
+BF  T03400; daf-16b; Species: Caenorhabditis elegans; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      3      9      7      N
+02      4      3      7     10      N
+03      4      4     12      5      N
+04      1      0      1     23      T
+05      0      0      0     25      T
+06      1      0     24      0      G
+07      0      0      0     25      T
+08      0      1      0     24      T
+09      0      0      0     25      T
+10     22      0      2      1      A
+11      0     21      0      4      C
+12     10      3      6      5      N
+13      8      5      3      7      N
+14      3     10      1      8      Y
+XX
+BA  25 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant DAF-16 from a pool of double-stranded oligonucleotides containing a core of 32 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0016824.
+RX  PUBMED: 10880363.
+RA  Furuyama T., Nakazawa T., Nakano I., Mori N.
+RT  Identification of the differential distribution patterns of mRNAs and consensus binding sequences for mouse DAF-16 homologues
+RL  Biochem. J. 349:629-634 (2000).
+XX
+//

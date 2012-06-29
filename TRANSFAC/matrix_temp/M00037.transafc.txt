@@ -1,0 +1,63 @@
+AC  M00037
+XX
+ID  V$NFE2_01
+XX
+DT  12.04.1995 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-E2
+XX
+DE  NF-E2 p45
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00983; V$MAF_Q6_01;  (family).
+XX
+BF  T01141; NF-E2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00558; NF-E2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00557; NF-E2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01440; NF-E2 p45; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01441; NF-E2 p45; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10187; NF-E2 p45; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16529; NF-E2 p45; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16530; NF-E2 p45; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09484; NF-E2p45; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      2      2      0      5      T
+02      2      0      7      0      G
+03      1      8      0      0      C
+04      0      0      0      9      T
+05      0      0      9      0      G
+06      9      0      0      0      A
+07      0      3      6      0      G
+08      0      0      1      8      T
+09      0      8      0      1      C
+10      8      1      0      0      A
+11      1      4      0      4      Y
+XX
+BA  9 sequences (compiled matrix imported from literature reference)
+XX
+BS  TGCTGAGTCAC; R05653; 12; 11;; p.
+BS  CACTGAGTCAT; R05654; 7; 11;; p.
+BS  TGCTGAGTCAT; R05655; 9; 11;; p.
+BS  AGCTGACTCAT; R05656; 12; 11;; p.
+BS  TGATGAGTCAC; R05657; 12; 11;; p.
+BS  CACTGAGTCAT; R05658; 12; 11;; p.
+BS  TGCTGACTCAC; R05659; 12; 11;; p.
+BS  AGCTGAGTCAC; R05660; 12; 11;; p.
+BS  TGCTGACGTCA; R05661; 12; 11;; p.
+XX
+CC  9 synthetic binding sites
+XX
+RN  [1]; RE0002919.
+RX  PUBMED: 8469283.
+RA  Andrews N. C., Erdjument-Bromage H., Davidson M. B., Tempst P., Orkin S. H.
+RT  Erythroid transcription factor NF-E2 is a haematopoietic-specific basic-leucine zipper protein
+RL  Nature 362:722-728 (1993).
+XX
+//

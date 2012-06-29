@@ -1,0 +1,74 @@
+AC  M00985
+XX
+ID  V$STRA13_01
+XX
+DT  29.02.2004 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Stra13
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00997; V$DEC_Q1;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T02327; DEC1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T22036; DEC1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      3      9      7      4      N
+02      2      9      3      9      Y
+03      3      8     10      2      S
+04      0      1      5     17      T
+05      0     23      0      0      C
+06     23      0      0      0      A
+07      0     22      0      1      C
+08      0      0     23      0      G
+09      0      0      0     23      T
+10      0      0     23      0      G
+11     19      3      0      1      A
+12      0      9      8      6      B
+13      4      9      5      5      N
+14      7      4      6      6      N
+XX
+BA  23 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  gtggCACGTGatag; R14580; 1; 14;; p.
+BS  ctgtCACGTGagcg; R14581; 1; 14;; p.
+BS  gggtCACGTGagca; R14582; 1; 14;; p.
+BS  ctctCACGTGccgt; R14583; 1; 14;; p.
+BS  gcctCACGTGagga; R14584; 1; 14;; p.
+BS  tatgCATGTGtcac; R14585; 1; 14;; p.
+BS  agttCACGTGaggc; R14586; 1; 14;; p.
+BS  ctgtCACGTGagcg; R14587; 1; 14;; p.
+BS  cggtCACGTGagat; R14588; 1; 14;; p.
+BS  gcctCACGTGatcg; R14589; 1; 14;; p.
+BS  atgtCACGTGacta; R14590; 1; 14;; p.
+BS  cccgCACGTGacga; R14591; 1; 14;; p.
+BS  ctgtCACGTGattc; R14592; 1; 14;; p.
+BS  ttatCACGTGagtt; R14593; 1; 14;; p.
+BS  gagtCACGTGacca; R14594; 1; 14;; p.
+BS  ccatCACGTGacta; R14595; 1; 14;; p.
+BS  tcctCACGTGatca; R14596; 1; 14;; p.
+BS  ttcgCACGTGatcg; R14597; 1; 14;; p.
+BS  gtatCACGTGacct; R14598; 1; 14;; p.
+BS  ccgcCACGTGattt; R14599; 1; 14;; p.
+BS  accgCACGTGaggc; R14600; 1; 14;; p.
+BS  ccgtCACGTGccat; R14601; 1; 14;; p.
+BS  gcctCACGTGcccg; R14602; 1; 14;; p.
+XX
+CC  sequences selected with recombinant Stra13 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: PB0007.
+XX
+RN  [1]; RE0023863.
+RX  PUBMED: 12297495.
+RA  St-Pierre B., Flock G., Zacksenhaus E., Egan S. E.
+RT  Stra13 homodimers repress transcription through class B E-box elements.
+RL  J. Biol. Chem. 277:46544-46551 (2002).
+XX
+//

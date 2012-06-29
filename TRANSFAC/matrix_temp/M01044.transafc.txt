@@ -1,0 +1,57 @@
+AC  M01044
+XX
+ID  V$TBX5_Q5
+XX
+DT  18.02.2005 (created); dtc.
+DT  02.03.2005 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBX5
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04348; Tbx5; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04422; Tbx5; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T11422; TBX5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17568; Tbx5; Species: Mammalia; site(s) included: no.
+BF  T04347; Tbx5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11352; Tbx5; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T21295; Tbx5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T21296; Tbx5; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T04345; TBX5-L; Species: human, Homo sapiens; site(s) included: yes.
+BF  T04346; TBX5-S; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      5      0      2      C
+02      0      0      0      8      T
+03      0      8      0      0      C
+04      8      0      0      0      A
+05      0      8      0      0      C
+06      8      0      0      0      A
+07      0      8      0      0      C
+08      0      8      0      0      C
+09      0      0      0      8      T
+10      1      0      2      5      T
+XX
+BA  8 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATCACACCTG; R15769; 4; 10;; p.
+BS  TTCACACCTG; R15775; 3; 10;; n.
+BS  CTCACACCTT; R15780; 2; 10;; p.
+BS  CTCACACCTT; R15785; 2; 10;; p.
+BS  CTCACACCTT; R15788; 2; 10;; p.
+BS  TTCACACCTA; R15827; 15; 10;; n.
+BS  CTCACACCTT; R15837; 6; 10;; p.
+BS  CTCACACCTT; R15969; 10; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0025480.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel91:0001 (2005).
+XX
+//

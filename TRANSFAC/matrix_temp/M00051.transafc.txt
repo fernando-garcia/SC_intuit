@@ -1,0 +1,65 @@
+AC  M00051
+XX
+ID  V$NFKAPPAB50_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  NF-kappaB (p50)
+XX
+DE  NF-kappaB (p50)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00774; V$NFKB_Q6_01;  (family).
+XX
+BF  T00593; NF-kappaB1-p50; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0     18      0      G
+02      0      0     18      0      G
+03      0      0     18      0      G
+04      2      0     16      0      G
+05     16      1      0      1      A
+06      0      0      3     15      T
+07      0      7      1     10      Y
+08      0     16      0      2      C
+09      0     18      0      0      C
+10      0     17      1      0      C
+XX
+BA  18 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGGGATTCCC; R05840; 12; 10;; p.
+BS  GGGGTTTTCG; R05841; 14; 10;; p.
+BS  GGGGATTCCC; R05842; 13; 10;; p.
+BS  GGGGATTCCC; R05843; 12; 10;; p.
+BS  GGGGATCCCC; R05844; 9; 10;; p.
+BS  GGGGAGCCCC; R05845; 13; 10;; p.
+BS  GGGGATCCCC; R05846; 8; 10;; p.
+BS  GGGAAGCCCC; R05847; 7; 10;; p.
+BS  GGGGATTCCC; R05848; 6; 10;; p.
+BS  GGGGATTCCC; R05849; 6; 10;; p.
+BS  GGGGATTCCC; R05850; 8; 10;; p.
+BS  GGGGATCCCC; R05851; 7; 10;; p.
+BS  GGGACTTTCC; R05852; 8; 10;; p.
+BS  GGGGAGGCCC; R05853; 6; 10;; p.
+BS  GGGGATTCCC; R05854; 12; 10;; p.
+BS  GGGGATCCCC; R05855; 10; 10;; p.
+BS  GGGGATTCCC; R05856; 6; 10;; p.
+BS  GGGGATCCCC; R05857; 7; 10;; p.
+XX
+CC  sequences selected with recombinant NF-kappaB (p50) from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0105.
+XX
+RN  [1]; RE0002922.
+RX  PUBMED: 1406630.
+RA  Kunsch C., Ruben S. M., Rosen C. A.
+RT  Selection of optimal kappaB/Rel DNA-binding motifs: interaction of both subunits of NF-kappaB with DNA is required for transcriptional activation
+RL  Mol. Cell. Biol. 12:4412-4421 (1992).
+XX
+//

@@ -1,0 +1,33 @@
+AC  M00211
+XX
+ID  V$PADS_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Poly A downstream element
+XX
+DE  Retroviral Poly A downstream element
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+P0      A      C      G      T
+01   2.26    2.5    0.0   3.86      H
+02    0.0    0.0   8.62    0.0      G
+03   0.00   0.00   0.00   8.62      T
+04   0.00   0.00   8.62   0.00      G
+05   1.54   0.00   5.38   0.00      G
+06   0.00   0.00   0.00   8.62      T
+07   0.00   5.99   1.71   0.92      C
+08   0.00   0.92   0.00   7.70      T
+09   0.00   5.82   0.87   1.93      C
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0.52, total weight of sequences: 8.62)
+XX
+//

@@ -1,0 +1,56 @@
+AC  M01332
+XX
+ID  V$BARHL1_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Barhl-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T03921; Barhl-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T11388; Barhl-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T03920; Barhl-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11199; Barhl-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T21261; Barhl1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T21262; Barhl1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.47   0.21   0.14   0.18      N
+02   0.61   0.12   0.14   0.13      A
+03   0.28   0.42   0.13   0.17      N
+04   0.75   0.07   0.14   0.05      A
+05   0.72   0.02   0.22   0.03      A
+06   0.08   0.61   0.18   0.13      C
+07   0.01   0.76   0.00   0.23      C
+08   0.95   0.01   0.03   0.01      A
+09   0.89   0.01   0.00   0.10      A
+10   0.00   0.00   0.00   0.99      T
+11   0.01   0.01   0.00   0.99      T
+12   0.98   0.00   0.00   0.02      A
+13   0.55   0.03   0.33   0.09      R
+14   0.12   0.19   0.33   0.36      N
+15   0.27   0.18   0.23   0.32      N
+16   0.22   0.42   0.14   0.22      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0005.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

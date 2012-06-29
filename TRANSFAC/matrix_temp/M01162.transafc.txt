@@ -1,0 +1,83 @@
+AC  M01162
+XX
+ID  V$OG2_01
+XX
+DT  29.02.2008 (created); smt.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  OG-2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18391; OG-2; Species: Mammalia; site(s) included: yes.
+BF  T03308; OG-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14954; OG-2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      1      0     36      T
+02     36      0      0      2      A
+03     37      0      0      1      A
+04      1      1      2     34      T
+05      3      0      4     31      T
+06     14      1     22      1      R
+XX
+BA  38 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TAATGA; R23313; 2; 6;; p.
+BS  TAATTG; R23314; 2; 6;; p.
+BS  TAATTA; R23315; 2; 6;; p.
+BS  TAATTG; R23316; 2; 6;; p.
+BS  TAATTG; R23317; 2; 6;; p.
+BS  TAATTG; R23318; 2; 6;; p.
+BS  TAATTG; R23319; 1; 6;; p.
+BS  TAATTG; R23320; 2; 6;; p.
+BS  TAATGA; R23321; 2; 6;; p.
+BS  TAATTG; R23322; 2; 6;; p.
+BS  TAATTA; R23323; 2; 6;; p.
+BS  TAATTG; R23324; 2; 6;; p.
+BS  TAATTA; R23325; 2; 6;; p.
+BS  TAATTA; R23326; 2; 6;; p.
+BS  TAACGA; R23327; 2; 6;; p.
+BS  TAAATA; R23328; 2; 6;; p.
+BS  TAATTG; R23329; 1; 6;; p.
+BS  TAATTG; R23330; 1; 6;; p.
+BS  TAATTG; R23331; 2; 6;; p.
+BS  TAATTG; R23332; 2; 6;; p.
+BS  TAATTA; R23333; 2; 6;; p.
+BS  TAATTG; R23334; 2; 6;; p.
+BS  TAATTG; R23335; 2; 6;; p.
+BS  TAATGA; R23336; 2; 6;; p.
+BS  TAATTG; R23337; 2; 6;; p.
+BS  TAATTA; R23338; 2; 6;; p.
+BS  TAATTG; R23339; 2; 6;; p.
+BS  TTATAT; R23340; 2; 6;; p.
+BS  TAATTG; R23341; 2; 6;; p.
+BS  TAATTG; R23342; 2; 6;; p.
+BS  TTATTG; R23343; 2; 6;; p.
+BS  TAATTA; R23344; 2; 6;; p.
+BS  AATTAC; R23345; 2; 6;; p.
+BS  TAATAA; R23346; 2; 6;; p.
+BS  TAATTG; R23347; 2; 6;; p.
+BS  CAAGTA; R23348; 2; 6;; p.
+BS  TAATTG; R23349; 2; 6;; p.
+BS  TAAGTG; R23350; 2; 6;; p.
+XX
+CC  sequences selected with recombinant OG-2 from a pool of double-stranded oligonucleotides containing a core of 15 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0125.
+XX
+RN  [1]; RE0051236.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel121:0001 (2008).
+RN  [2]; RE0052077.
+RX  PUBMED: 16997917.
+RA  Choi Y., Rajkovic A.
+RT  Characterization of NOBOX DNA binding specificity and its regulation of Gdf9 and Pou5f1 promoters.
+RL  J. Biol. Chem. 281:35747-35756 (2006).
+XX
+//

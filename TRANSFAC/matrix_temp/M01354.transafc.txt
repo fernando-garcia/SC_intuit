@@ -1,0 +1,72 @@
+AC  M01354
+XX
+ID  V$OCT1_08
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Oct-1
+XX
+DE  POU2F1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00210; V$OCT_C; Octamer binding site (family).
+HP  M00795; V$OCT_Q6;  (family).
+XX
+BF  T01466; POU2F1; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T00642; POU2F1; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T01157; POU2F1; Species: gibbon ape, Hylobates lar; site(s) included: no.
+BF  T10501; POU2F1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T00545; POU2F1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08628; POU2F1; Species: Mammalia; site(s) included: no.
+BF  T00959; POU2F1; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T01192; POU2F1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00643; POU2F1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09214; POU2F1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T19702; POU2F1-isoform1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T00641; POU2F1-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T19701; POU2F1-isoform2; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T18695; POU2F1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T00644; POU2F1a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01862; POU2F1b; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01863; POU2F1c; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.31   0.14   0.28   0.27      N
+02   0.17   0.21   0.13    0.5      N
+03   0.31   0.12   0.31   0.26      N
+04    0.3   0.24   0.09   0.37      N
+05   0.45    0.1   0.31   0.14      R
+06   0.32   0.24   0.02   0.42      N
+07   0.04   0.01      0   0.95      T
+08   0.89   0.09   0.01   0.01      A
+09   0.98      0      0   0.02      A
+10   0.01      0      0   0.98      T
+11   0.02   0.02    0.1   0.86      T
+12   0.93   0.01      0   0.06      A
+13   0.49   0.05   0.32   0.15      R
+14   0.11   0.17   0.44   0.29      N
+15   0.21   0.18   0.07   0.54      T
+16   0.51   0.05   0.12   0.32      W
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0143.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

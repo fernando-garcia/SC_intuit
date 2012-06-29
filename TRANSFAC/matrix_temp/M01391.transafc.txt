@@ -1,0 +1,72 @@
+AC  M01391
+XX
+ID  V$PAX6_02
+XX
+DT  20.10.2009 (created); mkl.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  pax6
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00808; V$PAX_Q6;  (family).
+HP  M00979; V$PAX6_Q2;  (family).
+XX
+BF  T03019; pax6; Species: chick, Gallus gallus; site(s) included: no.
+BF  T17743; pax6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04416; pax6; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14852; Pax6; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T09155; pax6; Species: human, Homo sapiens; site(s) included: no.
+BF  T13888; pax6; Species: Mammalia; site(s) included: no.
+BF  T00681; pax6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09257; pax6; Species: quail, Coturnix coturnix; site(s) included: no.
+BF  T10199; pax6; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T10200; pax6; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T03008; pax6; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T00682; pax6; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T09220; pax6; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T01122; pax6-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T09150; pax6-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10031; pax6-isoform1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10033; pax6-isoform2; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01814; pax6-isoform5a; Species: human, Homo sapiens; site(s) included: no.
+BF  T09981; pax6-isoform5a; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.06   0.15   0.11   0.68      T
+02   0.26   0.13   0.43   0.18      N
+03   0.62   0.21   0.10   0.07      A
+04   0.08   0.40   0.04   0.47      Y
+05   0.12   0.07   0.01   0.80      T
+06   0.94   0.02   0.02   0.01      A
+07   0.96   0.01   0.00   0.02      A
+08   0.02   0.00   0.01   0.96      T
+09   0.01   0.02   0.02   0.94      T
+10   0.80   0.01   0.07   0.12      A
+11   0.52   0.05   0.28   0.16      R
+12   0.07   0.10   0.21   0.62      T
+13   0.07   0.08   0.28   0.56      K
+14   0.26   0.28   0.31   0.16      N
+15   0.39   0.19   0.20   0.22      N
+16   0.23   0.41   0.17   0.19      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  Seed- and Wobble algorithm used; computed from all possible octamer DNA sequences used in the PBM
+XX
+DR  JASPAR: PH0132.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//

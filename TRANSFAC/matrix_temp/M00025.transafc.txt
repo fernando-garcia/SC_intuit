@@ -1,0 +1,94 @@
+AC  M00025
+XX
+ID  V$ELK1_02
+XX
+DT  31.01.1994 (created); ewi.
+DT  21.12.2011 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Elk-1
+XX
+DE  Elk-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00771; V$ETS_Q4;  (family).
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T17022; Elk-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00250; Elk-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14062; Elk-1; Species: Mammalia; site(s) included: no.
+BF  T05013; Elk-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09326; Elk-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05966; Elk-1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08445; Elk1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18902; Elk1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4     12      5     10      N
+02      5     12      8      6      N
+03     11      9      6      5      N
+04     12      3     11      5      N
+05      6     20      3      2      C
+06      5     23      2      1      C
+07      0      0     31      0      G
+08      0      0     31      0      G
+09     31      0      0      0      A
+10     27      0      0      4      A
+11      9      4     17      1      R
+12      2      8      5     16      T
+13      8      9      7      7      N
+14      8     11      6      6      N
+XX
+BA  31 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ACAACAGGAACCAT; R05462; 34; 14;; p.
+BS  TTATCAGGAACTGC; R05463; 31; 14;; p.
+BS  CGAAACGGAAAGAC; R05464; 31; 14;; p.
+BS  CCAACCGGAAGGTC; R05465; 31; 14;; p.
+BS  TGGGCGGGAAGTAC; R05466; 31; 14;; p.
+BS  CACTCCGGAAAGCC; R05467; 31; 14;; p.
+BS  ACGGCCGGAATAGT; R05468; 30; 14;; p.
+BS  CCTGGCGGAAGTCA; R05469; 30; 14;; p.
+BS  GCAACTGGAAGCTA; R05470; 30; 14;; p.
+BS  CTAACCGGAAATTA; R05471; 29; 14;; p.
+BS  AATGCCGGAAATTG; R05472; 29; 14;; p.
+BS  CCGGACGGATGTAC; R05473; 28; 14;; p.
+BS  CAAACCGGAAATGA; R05474; 27; 14;; p.
+BS  TCTCCCGGAAGTCG; R05475; 26; 14;; p.
+BS  AGGGCCGGAAACCG; R05476; 24; 14;; p.
+BS  TGGGGCGGAACCAG; R05477; 20; 14;; p.
+BS  CTCCCCGGAAACGC; R05478; 20; 14;; p.
+BS  TGCACAGGAAGCTT; R05479; 18; 14;; p.
+BS  GCAACCGGATATAA; R05480; 18; 14;; p.
+BS  GCTAGCGGATGTCA; R05481; 17; 14;; p.
+BS  TACACCGGAAGCAC; R05482; 16; 14;; p.
+BS  CTCGACGGAACGGG; R05483; 9; 14;; p.
+BS  GCCTCCGGAAGCTC; R05484; 7; 14;; p.
+BS  GTCAACGGAAGTCC; R05485; 31; 14;; n.
+BS  TCATAAGGAAGTCA; R05486; 29; 14;; n.
+BS  TAGGCCGGAAGTCT; R05487; 29; 14;; n.
+BS  CGCGTCGGAAGTAC; R05488; 20; 14;; n.
+BS  CCCTAAGGAAGGTT; R05489; 20; 14;; n.
+BS  TGTCCGGGATGTCT; R05490; 16; 14;; n.
+BS  TGAGCCGGAAATGA; R05491; 10; 14;; n.
+BS  CTAATCGGAAGAGG; R05492; 8; 14;; n.
+XX
+CC  sequences selected with recombinant Elk-1 from a pool of double-stranded oligonucleotides containing a core of 32 random nucleotides; 3 rounds of selection and amplification
+XX
+DR  JASPAR: MA0028.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0000531.
+RX  PUBMED: 1425594.
+RA  Treisman R., Marais R., Wynne J.
+RT  Spatial flexibility in ternary complexes between SRF and its accessory proteins
+RL  EMBO J. 11:4631-4640 (1992).
+XX
+//

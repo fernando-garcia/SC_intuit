@@ -1,0 +1,45 @@
+AC  M01993
+XX
+ID  V$TEL1_01
+XX
+DT  19.07.2011 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TEL1
+XX
+DE  ETV6
+XX
+TY  specific
+XX
+OS  mouse, Mus musculus
+OC  eukaryota; animalia; metazoa; chordata; vertebrata; tetrapoda; mammalia; eutheria; rodentia; myomorpha; muridae; murinae
+XX
+HP  M00971; V$ETS_Q6;  (family).
+XX
+BF  T08871; TEL1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08872; TEL1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     18     53     15     14      C
+02     14     39     33     14      N
+03     23     59     13      5      C
+04      0      0    100      0      G
+05      0      0    100      0      G
+06    100      0      0      0      A
+07     89      5      1      6      A
+08     33     17     37     12      N
+09     18     28     11     42      N
+10     26     18     41     14      N
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  high-throughput microwell-based TF DNA specificity assay; using 3-6 replicate measurements for each competing DNA sequence; figures are percentages
+XX
+RN  [1]; RE0070537.
+RX  PUBMED: 20517297.
+RA  Wei G. H., Badis G., Berger M. F., Kivioja T., Palin K., Enge M., Bonke M., Jolma A., Varjosalo M., Gehrke A. R., Yan J., Talukder S., Turunen M., Taipale M., Stunnenberg H. G., Ukkonen E., Hughes T. R., Bulyk M. L., Taipale J.
+RT  Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo.
+RL  EMBO J. 29:2147-2160 (2010).
+XX
+//

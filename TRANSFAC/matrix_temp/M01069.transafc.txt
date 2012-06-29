@@ -1,0 +1,62 @@
+AC  M01069
+XX
+ID  V$GZF1_01
+XX
+DT  20.09.2005 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GZF1
+XX
+DE  plays a role in renal branching morphogenesis
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T08232; GZF1; Species: human, Homo sapiens; site(s) included: no.
+BF  T11125; GZF1; Species: human, Homo sapiens; site(s) included: no.
+BF  T08231; Gzf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11217; Gzf1; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      0     14      T
+02      0      0     14      0      G
+03      0     14      0      0      C
+04      0      0     14      0      G
+05      0     14      0      0      C
+06      1      2      6      5      K
+07      0      0      1     13      T
+08      5      9      0      0      M
+09      0      0      0     14      T
+10     14      0      0      0      A
+11      0      0      0     14      T
+12     14      0      0      0      A
+XX
+BA  14 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGCGCTTATATA; R18151; 14; 12;; p.
+BS  TGCGCGTCTATA; R18152; 12; 12;; p.
+BS  TGCGCGTATATA; R18153; 11; 12;; p.
+BS  TGCGCGTCTATA; R18154; 12; 12;; p.
+BS  TGCGCTTCTATA; R18155; 10; 12;; p.
+BS  TGCGCTTATATA; R18156; 13; 12;; p.
+BS  TGCGCGTATATA; R18157; 11; 12;; p.
+BS  TGCGCCTCTATA; R18158; 14; 12;; p.
+BS  TGCGCATCTATA; R18159; 12; 12;; p.
+BS  TGCGCGTATATA; R18160; 10; 12;; p.
+BS  TGCGCTTCTATA; R18161; 11; 12;; p.
+BS  TGCGCGTCTATA; R18162; 9; 12;; p.
+BS  TGCGCCTCTATA; R18163; 14; 12;; p.
+BS  TGCGCTGCTATA; R18164; 14; 12;; p.
+XX
+CC  sequences selected with recombinant GZF1 from a pool of double-stranded oligonucleotides containing a core of 26 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0035534.
+RX  PUBMED: 16049025.
+RA  Morinaga T., Enomoto A., Shimono Y., Hirose F., Fukuda N., Dambara A., Jijiwa M., Kawai K., Hashimoto K., Ichihara M., Asai N., Murakumo Y., Matsuo S., Takahashi M.
+RT  GDNF-inducible zinc finger protein 1 is a sequence-specific transcriptional repressor that binds to the HOXA10 gene regulatory region.
+RL  Nucleic Acids Res. 33:4191-4201 (2005).
+XX
+//

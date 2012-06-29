@@ -1,0 +1,104 @@
+AC  M01890
+XX
+ID  V$STAT5A_Q6
+XX
+DT  12.04.2011 (created); mkl.
+DT  13.04.2011 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT5A
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T14304; STAT5A; Species: cattle, Bos taurus; site(s) included: no.
+BF  T14305; STAT5A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T04683; STAT5A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09199; STAT5A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06240; STAT5A; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: yes.
+BF  T16819; STAT5A; Species: Mammalia; site(s) included: yes.
+BF  T01579; STAT5A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09200; STAT5A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06128; STAT5A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01578; STAT5A; Species: sheep, Ovis aries; site(s) included: no.
+BF  T09466; STAT5A; Species: sheep, Ovis aries; site(s) included: yes.
+BF  T19274; Stat5A1; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T19273; Stat5A2; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     14     11     12      8      N
+02     10     13     12     10      N
+03     21      6      6     12      N
+04      1      9      2     33      T
+05      0      0      0     46      T
+06      0      0      0     46      T
+07      0     46      0      0      C
+08      2      9      1     34      T
+09     17     10     10      9      N
+10     20      1     23      2      R
+11      2      1     39      4      G
+12     41      1      2      2      A
+13     43      3      0      0      A
+XX
+BA  46 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CATTTTCTAATCA; R04899; 11; 13;; p.
+BS  GAACTTCTTGGAA; R04917; 10; 13;; p.
+BS  CCTTTTCTGGGAA; R11115; 5; 13;; n.
+BS  TTTCTTCTAGGAA; R11154; 4; 13;; p.
+BS  GTACTTCTCAGAA; R11156; 8; 13;; n.
+BS  ACATTTCTGATAA; R11157; 4; 13;; p.
+BS  TCTGTTCTTGGGA; R11183; 7; 13;; n.
+BS  CCATTTCTCAGAA; R12435; 3; 13;; n.
+BS  GAATTTCCAAGAA; R12436; 10; 13;; n.
+BS  CTCTTTCTTAGAA; R13064; 11; 13;; n.
+BS  TGATTTCCCCGAA; R13215; 3; 13;; p.
+BS  TGTCTTCTCGGAA; R13241; 7; 13;; n.
+BS  AGATTTCTAGGAA; R14236; 1; 13;; p.
+BS  GCGGTTCTAGGAA; R14310; 2; 13;; p.
+BS  AGATTTCCAAGAA; R14311; 17; 13;; n.
+BS  AGCTTTCTAGGAA; R14614; 23; 13;; n.
+BS  ATCCTTCTGGGAA; R15612; 1; 13;; p.
+BS  GCATTTCCAAGAA; R15672; 8; 13;; n.
+BS  nnnnTTCTCTGTA; R15737; 1; 13;; n.
+BS  GAATTTCTTGGGA; R15743; 6; 13;; p.
+BS  GTGTTTCTGGGAA; R15744; 1; 13;; n.
+BS  GCATTTCTATGAA; R15838; 8; 13;; p.
+BS  CCAATTCCCAAAA; R15839; 13; 13;; p.
+BS  TGATTTCTGGGAA; R16930; 12; 13;; n.
+BS  GTGTTTCTGAGAA; R16934; 16; 13;; n.
+BS  CTCTTTCCGGCAA; R17078; 19; 13;; n.
+BS  ACCCTTCTTGGAA; R17079; 6; 13;; n.
+BS  aattTTCTCAGAA; R19620; 8; 13;; n.
+BS  TGGTTTCCGGGAC; R19622; 3; 13;; n.
+BS  CAGTTTCTTAGAA; R19772; 4; 13;; n.
+BS  CTTTTTCTTAGAA; R19774; -1; 13;; p.
+BS  TAACTTCTCAGAA; R22308; 1; 13;; p.
+BS  aaaTTTCAAGGAA; R22320; 10; 13;; p.
+BS  ATTTTTCCAAGAA; R22368; 11; 13;; n.
+BS  CCTCTTCTAGGAA; R22444; 6; 13;; n.
+BS  AACTTTCTGGGAA; R22473; 6; 13;; p.
+BS  AGTTTTCAAAAAC; R22536; 11; 13;; p.
+BS  GTGTTTCTGAGAA; R24153; 12; 13;; n.
+BS  CCACTTCTCAGAA; R26318; 7; 13;; n.
+BS  AGATTTCTAGGAA; R26866; 1; 13;; p.
+BS  AAATTTCTAATTC; R29063; 20; 13;; p.
+BS  GGTTTTCGTGGAA; R29087; 10; 13;; p.
+BS  agatTTCTAGGAA; R29440; 1; 13;; p.
+BS  TCATTTCCCGTAA; R29910; 7; 13;; p.
+BS  CCATTTCTAAGAA; R30839; 5; 13;; p.
+BS  ggttTTCTTGGAA; R30973; 3; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0069887.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20112:0001 (2011).
+XX
+//

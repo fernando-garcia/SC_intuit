@@ -1,0 +1,88 @@
+AC  M00979
+XX
+ID  V$PAX6_Q2
+XX
+DT  13.02.2004 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Pax-6
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00097; V$PAX6_01; Pax-6 (specific).
+HC  M01391; V$PAX6_02;  (specific).
+XX
+BF  T02933; Pax-6 (Pax-QNR); Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T10233; Pax-6 (Pax-QNR); Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T03019; pax6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17743; pax6; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04416; pax6; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T14852; Pax6; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T09155; pax6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13888; pax6; Species: Mammalia; site(s) included: no.
+BF  T00681; pax6; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09257; pax6; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T10199; pax6; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T10200; pax6; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T03008; pax6; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00682; pax6; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T09220; pax6; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T01122; pax6-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09150; pax6-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10031; pax6-isoform1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10033; pax6-isoform2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01814; pax6-isoform5a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09981; pax6-isoform5a; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2     19      1      0      C
+02      1      0      1     20      T
+03      0      0     22      0      G
+04     17      0      1      4      A
+05      0     17      5      0      C
+06      1     19      2      0      C
+07      0      1      0     21      T
+08      0      0     20      2      G
+09      0      0     20      2      G
+10     19      1      1      1      A
+11     21      0      1      0      A
+12      1     18      2      1      C
+13      1      1      3     17      T
+14      8     10      1      3      M
+XX
+BA  22 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ATGAGCTGGCACTT; R03013; 6; 14;; p.
+BS  GGGGCCTGGAGGGC; R04285; 18; 14;; n.
+BS  CTGAGGCGTGACCA; R04286; 9; 14;; p.
+BS  CTGAGATTGAAGGG; R08703; 15; 14;; p.
+BS  ATGAGGTGGAAAAT; R08705; 9; 14;; p.
+BS  CAGTGCTTTTACGC; R08706; 16; 14;; n.
+BS  CTGACCTGGAACTA; R08825; 1; 14;; p.
+BS  CTGACCTGGAACTC; R08826; 12; 14;; n.
+BS  CTGTCCTGGAACTA; R08827; 18; 14;; n.
+BS  CTGACCTGGAACTC; R08828; 1; 14;; p.
+BS  CTGACCTGGAACTA; R08829; 1; 14;; p.
+BS  CTGACCTGGAACTC; R08830; 2; 14;; n.
+BS  CTGACCTGGAACTT; R08831; 1; 14;; p.
+BS  CTGTCCTGGAACTA; R08832; 2; 14;; n.
+BS  CTGACCTGGAACTC; R08833; 2; 14;; n.
+BS  CTGACCTGGAACTC; R08834; 1; 14;; p.
+BS  CTGACCTGGAACTC; R08835; 1; 14;; p.
+BS  CTGACCTGGAACTC; R08836; 2; 14;; n.
+BS  CTGACCTGGAACTA; R08837; 1; 14;; p.
+BS  CTGTCCTGGAACTA; R08838; 2; 14;; n.
+BS  CTGACCTGGAATTC; R08839; 2; 14;; n.
+BS  CTGACCTGGAACTA; R08840; 1; 14;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 2 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

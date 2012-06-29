@@ -1,0 +1,61 @@
+AC  M00206
+XX
+ID  V$HNF1_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF-1
+XX
+DE  Hepatic nuclear factor 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00790; V$HNF1_Q6;  (family).
+HP  M01011; V$HNF1_Q6_01;  (family).
+XX
+BF  T15390; HNF-1; Species: pig, Sus scrofa; site(s) included: no.
+BF  T08790; HNF-1A; Species: Mammalia; site(s) included: no.
+BF  T01952; HNF-1alpha; Species: chick, Gallus gallus; site(s) included: no.
+BF  T01180; HNF-1alpha; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T10377; HNF-1alpha; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T08144; HNF-1alpha; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T10808; HNF-1alpha; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T09015; HNF-1alpha; Species: human, Homo sapiens; site(s) included: no.
+BF  T10060; HNF-1alpha; Species: Mammalia; site(s) included: no.
+BF  T01211; HNF-1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09048; HNF-1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00369; HNF-1alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09044; HNF-1alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00368; HNF-1alpha-A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01950; HNF-1alpha-B; Species: human, Homo sapiens; site(s) included: no.
+BF  T01951; HNF-1alpha-C; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01   3.65      0   2.46   2.81      D
+02      0      0   8.91      0      G
+03      0   1.58   1.55   5.78      T
+04      0   1.87      0   7.04      T
+05   8.07      0   0.84      0      A
+06   7.36      0   0.74   0.81      A
+07   0.97      0      0   7.94      T
+08      0    0.9   1.65    1.9      K
+09   7.43   0.78      0   0.71      A
+10   3.68      0   0.71   4.52      W
+11      0      0      0   8.91      T
+12    4.2   1.55   0.94   2.23      N
+13   6.59      0   0.94   1.39      A
+14   2.87   6.04      0      0      C
+15   0.94   5.49      0   2.49      C
+16   5.71   0.68      0   2.52      A
+17   4.84    3.2   0.87      0      M
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation:0.11, total weight of sequences: 8.91)
+XX
+//

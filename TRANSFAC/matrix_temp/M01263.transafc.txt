@@ -1,0 +1,64 @@
+AC  M01263
+XX
+ID  V$TBX15_01
+XX
+DT  08.07.2009 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TBX15
+XX
+DE  T-box 15
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T21490; TBX15; Species: human, Homo sapiens; site(s) included: yes.
+BF  T21491; TBX15; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16161; Tbx15; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16162; Tbx15; Species: mouse, Mus musculus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      9      0      0      0      A
+02      0      0      9      0      G
+03      0      0      9      0      G
+04      0      0      0      9      T
+05      0      0      9      0      G
+06      0      0      0      9      T
+07      0      2      7      0      G
+08      9      0      0      0      A
+09      7      0      0      1      A
+10      1      0      1      2      D
+11      1      0      0      3      T
+12      0      0      0      9      T
+13      4      5      0      0      M
+14      8      0      1      0      A
+15      0      9      0      0      C
+16      9      0      0      0      A
+17      0      9      0      0      C
+18      0      9      0      0      C
+19      0      1      0      8      T
+XX
+BA  9 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGGTGTGAANNTAACACCT; R28326; 16; 19; 25, 26; p.
+BS  AGGTGTGAANNTAACACCT; R28326; 16; 19; 25, 26; p.
+BS  AGGTGTGAATATCACACCT; R28327; 16; 19;; p.
+BS  AGGTGTGAAANTCACACCT; R28328; 16; 19; 26; p.
+BS  AGGTGTGAAGNTCACACCT; R28329; 19; 19; 29; p.
+BS  AGGTGTCAANNTAACACCT; R28330; 17; 19; 26, 27; p.
+BS  AGGTGTCAANTTCGCACCC; R28331; 15; 19; 24; p.
+BS  AGGTGTGANNTTAACACCT; R28332; 12; 19; 20, 21; p.
+BS  AGGTGTGATTTTCACACCT; R28333; 16; 19;; p.
+XX
+CC  sequences selected with recombinant TBX15 from a pool of double-stranded oligonucleotides containing a core of 48 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0063405.
+RX  PUBMED: 17584735.
+RA  Farin H. F., Bussen M., Schmidt M. K., Singh M. K., Schuster-Gossler K., Kispert A.
+RT  Transcriptional repression by the T-box proteins Tbx18 and Tbx15 depends on Groucho corepressors.
+RL  J. Biol. Chem. 282:25748-25759 (2007).
+XX
+//

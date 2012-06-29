@@ -1,0 +1,40 @@
+AC  M01796
+XX
+ID  V$BDP1_01
+XX
+DT  01.09.2010 (created); sla.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  BDP1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18007; TFIIIB150; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     77      4    364     63      G
+02     22      1    459     26      G
+03    239     24     77    168      W
+04    159    163     21    165      N
+05      4      4     11    489      T
+06     11    249     49    199      Y
+07     62     15    413     18      G
+08    495      5      3      5      A
+09    455      2      6     45      A
+10     48    405      9     46      C
+11     43    282     15    168      Y
+12    109    287     42     70      C
+XX
+BA  508 sequences (ChIP-on-chip)
+XX
+CC  used SEEDER algorthm for ChIP Motifs approach using top  500 scoring sequences from ENCODE sets
+XX
+RN  [1]; RE0063123.
+RT  ENCODE Transcription Factor Binding Sites by ChIP-seq from Yale/UC-Davis/Harvard; URL: http://genome.ucsc.edu/cgi-bin/hgTrackUi?db=hg18&g=wgEncodeYaleChIPseq
+RL  Internet : ().
+XX
+//

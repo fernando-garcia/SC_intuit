@@ -1,0 +1,122 @@
+AC  M00790
+XX
+ID  V$HNF1_Q6
+XX
+DT  08.03.2003 (created); dtc.
+DT  08.03.2003 (updated); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00132; V$HNF1_01; hepatic nuclear factor 1 (specific).
+HC  M00206; V$HNF1_C; Hepatic nuclear factor 1 (specific).
+HC  M00646; V$LFA1_Q6;  (specific).
+HC  M01379; V$HNF1_02;  (specific).
+HC  M01425; V$HNF1B_01;  (specific).
+HC  M02013; V$HNF1A_Q5;  (specific).
+HC  M02162; V$HNF1A_01; class: Helix-Turn-Helix; family: Homeo (specific).
+HC  M02266; V$HNF1B_04; class: Helix-Turn-Helix; family: Homeo (specific).
+HC  M02815; V$TCF1_06; class: Helix-Turn-Helix; family: Homeo (specific).
+HC  M02919; V$TCF1_07; class: Helix-Turn-Helix; family: Homeo (specific).
+XX
+BF  T15390; HNF-1; Species: pig, Sus scrofa; site(s) included: yes.
+BF  T08790; HNF-1A; Species: Mammalia; site(s) included: no.
+BF  T01952; HNF-1alpha; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01180; HNF-1alpha; Species: domestic pig, Sus scrofa; site(s) included: yes.
+BF  T10377; HNF-1alpha; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T08144; HNF-1alpha; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T10808; HNF-1alpha; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T09015; HNF-1alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10060; HNF-1alpha; Species: Mammalia; site(s) included: no.
+BF  T01211; HNF-1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09048; HNF-1alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00369; HNF-1alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09044; HNF-1alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00368; HNF-1alpha-A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01950; HNF-1alpha-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01951; HNF-1alpha-C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09040; HNF-1beta; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08791; HNF-1beta; Species: Mammalia; site(s) included: no.
+BF  T00890; HNF-1beta; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00889; HNF-1beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09049; HNF-1beta-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10376; HNF-1beta-2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17010; HNF-1beta-3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17011; HNF-1beta-4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00891; HNF-1beta-A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09045; HNF-1beta-A; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01953; HNF-1beta-B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18711; HNF-1beta-B; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01954; HNF-1beta-C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01955; tcf2; Species: domestic pig, Sus scrofa; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     10      3      4     17      W
+02      9      1     17      7      R
+03      4      1     25      4      G
+04      0      2      0     32      T
+05      3      2      2     27      T
+06     28      2      1      3      A
+07     22      8      1      3      A
+08      0      0      0     34      T
+09     13      5      8      8      N
+10     19      3      4      8      A
+11      3      2      2     27      T
+12      1      8      2     23      T
+13     18      3      5      8      A
+14     17      5      6      6      A
+15      4     19      2      9      C
+16     12      6      6     10      N
+17      7      7     14      6      N
+18     10      9      4     11      N
+XX
+BA  34 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TAATTACTAACCAAACTA; R00077; -5; 18;; n.
+BS  TAGTTAATAATCTACAAT; R00081; 3; 18;; p.
+BS  TGGTTAATGATCTACAGT; R00091; 5; 18;; p.
+BS  TGGTTAATGATCTACAGT; R00099; 1; 18;; p.
+BS  TGGTTAATATTCACCAGC; R00120; 5; 18;; p.
+BS  ATGTAAATAATTTTCCAA; R00238; 6; 18;; n.
+BS  CTGTTAATTATTGGCAAA; R00431; -1; 18;; p.
+BS  AGGTTACTAGTTAACAGA; R00432; 3; 18;; p.
+BS  TGATGATTAACCTAGTTT; R00436; -5; 18;; p.
+BS  TAGTTAATATTTGACAGT; R00439; 4; 18;; n.
+BS  GTGTAATTTATTTGAGTT; R01625; 2; 18;; p.
+BS  TGTTTATTCAATAACTCT; R01800; 2; 18;; n.
+BS  TAGTTAATCATTACTTCC; R01807; 1; 18;; p.
+BS  CAGTTAATCATTACTTCA; R01913; -2; 18;; p.
+BS  TGGTTTATTATTAGCTGC; R02780; 13; 18;; n.
+BS  AGGTTAATGATTGGCAGC; R02910; 7; 18;; n.
+BS  ATGTTTGTTCTTAAATAC; R02970; -2; 18;; p.
+BS  GAGTTAATGTGTAATGAG; R03253; 4; 18;; n.
+BS  AGTTAAATAGATATCAGA; R03260; -3; 18;; n.
+BS  ATATGGCTGGTTGAGGCC; R03302; 2; 18;; p.
+BS  TGTCTACTCTAGCCTACA; R03305; -3; 18;; n.
+BS  TGGTTAATTTTTGCCCAG; R03485; 3; 18;; p.
+BS  GTGTTCCTGCTCTTTGTC; R04123; 1; 18;; p.
+BS  AAGTTAATTAGTAATTGT; R04237; -1; 18;; n.
+BS  TGTTTAATAATCTTCTGC; R04238; -4; 18;; n.
+BS  TAGTCACTGATAAACAGG; R04254; -3; 18;; n.
+BS  AGGTTAATTCTTCTCTAA; R04474; 6; 18;; n.
+BS  AGGTTCATATTTATCCGT; R08491; 2; 18;; n.
+BS  AACTTAATATTTAAACTA; R12423; -2; 18;; p.
+BS  TGGTTTATTATTAGCTGT; R12711; 18; 18;; n.
+BS  TTGTTAATAATTAATACT; R13038; -1; 18;; p.
+BS  GGGTTAATGGTTAATCGG; R13051; 1; 18;; n.
+BS  TGGTTACTCTTTAACGTA; R13053; -2; 18;; p.
+BS  CCACCACTAATGCGTGCC; R13269; 3; 18;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

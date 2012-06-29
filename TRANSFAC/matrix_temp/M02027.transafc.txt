@@ -1,0 +1,56 @@
+AC  M02027
+XX
+ID  V$PARP_Q4
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  PARP
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T22073; PARP; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14054; PARP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14055; PARP; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02949; PARP; Species: Japanese quail, Coturnix coturnix japonica; site(s) included: yes.
+BF  T15350; PARP; Species: Mammalia; site(s) included: yes.
+BF  T14488; PARP; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18571; PARP; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T22072; PARP; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T14487; PARP-long; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      0     11      T
+02      0      0      0     12      T
+03      0      3      1      8      T
+04      0     10      1      1      C
+05      1      5      0      6      Y
+06      3      3      2      4      N
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTCCA; R08616; 13; 6;; p.
+BS  TTTCTC; R23131; 21; 6;; p.
+BS  tTTCCC; R24518; 9; 6;; p.
+BS  TTTCTT; R25780; 3; 6;; n.
+BS  TTCCAG; R25795; 9; 6;; n.
+BS  ATTCTT; R25880; 4; 6;; p.
+BS  TTCCCA; R28158; 14; 6;; p.
+BS  TTTGTT; R29197; 9; 6;; p.
+BS  TTGCTG; R29551; -5; 6;; n.
+BS  TTCCCA; R32829; 11; 6;; p.
+BS  TTTCCC; R32971; 19; 6;; p.
+BS  TTTTTT; R33263; 16; 6;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

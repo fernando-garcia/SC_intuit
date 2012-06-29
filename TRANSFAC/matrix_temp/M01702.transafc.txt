@@ -1,0 +1,47 @@
+AC  M01702
+XX
+ID  V$GLI1_01
+XX
+DT  20.04.2010 (created); sla.
+DT  20.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  GLI1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01037; V$GLI_Q2;  (family).
+XX
+BF  T00330; GLI; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15311; GLI; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16501; GLI; Species: Mammalia; site(s) included: no.
+BF  T06385; GLI; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11180; GLI; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.01      0   0.97   0.02      G
+02   0.86   0.07   0.08      0      A
+03   0.02   0.97      0   0.01      C
+04      0      1      0      0      C
+05   0.86   0.07   0.01   0.06      A
+06      0      1      0      0      C
+07   0.12   0.88      0      0      C
+08   0.04   0.91   0.01   0.04      C
+09   0.98   0.01      0   0.01      A
+10   0.29   0.52    0.1    0.1      M
+11   0.03   0.07   0.79   0.11      G
+XX
+BA  sequences (DNA-binding affinity assay)
+XX
+CC  PWM was computed on the basis of affinity measurements with EEL
+XX
+RN  [1]; RE0066570.
+RX  PUBMED: 16413481.
+RA  Hallikas O., Palin K., Sinjushina N., Rautiainen R., Partanen J., Ukkonen E., Taipale J.
+RT  Genome-wide prediction of mammalian enhancers based on analysis of transcription-factor binding affinity.
+RL  Cell 124:47-59 (2006).
+XX
+//

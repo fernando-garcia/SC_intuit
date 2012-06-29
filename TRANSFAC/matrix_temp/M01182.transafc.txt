@@ -1,0 +1,67 @@
+AC  M01182
+XX
+ID  V$MIZF_01
+XX
+DT  04.04.2008 (created); ask.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MIZF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T14268; MIZF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14269; MIZF; Species: human, Homo sapiens; site(s) included: no.
+BF  T14267; MIZF; Species: Mammalia; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0     20      0      0      C
+02      0      0     20      0      G
+03      0      0     20      0      G
+04     20      0      0      0      A
+05      0     20      0      0      C
+06      0      1     17      2      G
+07      1      0      0     19      T
+08      3      0      2     15      T
+XX
+BA  20 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CGGACGTT; R23827; 10; 8;; p.
+BS  CGGACGTT; R23828; 12; 8;; p.
+BS  CGGACGTT; R23829; 11; 8;; p.
+BS  CGGACGTT; R23830; 10; 8;; p.
+BS  CGGACGTT; R23831; 11; 8;; p.
+BS  CGGACGTT; R23832; 6; 8;; p.
+BS  CGGACGTT; R23833; 11; 8;; p.
+BS  CGGACGTT; R23834; 11; 8;; p.
+BS  CGGACGTA; R23835; 12; 8;; p.
+BS  CGGACGTA; R23836; 7; 8;; p.
+BS  CGGACGTT; R23837; 11; 8;; p.
+BS  CGGACGTT; R23838; 11; 8;; p.
+BS  CGGACGTT; R23839; 13; 8;; p.
+BS  CGGACGTT; R23840; 9; 8;; p.
+BS  CGGACGTT; R23841; 11; 8;; p.
+BS  CGGACGTT; R23842; 12; 8;; p.
+BS  CGGACGTT; R23843; 10; 8;; p.
+BS  CGGACCTG; R23844; 1; 8;; p.
+BS  CGGACTAG; R23845; 13; 8;; p.
+BS  CGGACTTA; R23846; 11; 8;; p.
+XX
+CC  sequences selected with recombinant MIZF from a pool of double-stranded oligonucleotides containing a core of 23 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: MA0131.
+XX
+RN  [1]; RE0053941.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel123:0001 (2008).
+RN  [2]; RE0052073.
+RX  PUBMED: 14752047.
+RA  Sekimata M., Homma Y.
+RT  Sequence-specific transcriptional repression by an MBD2-interacting zinc finger protein MIZF.
+RL  Nucleic Acids Res. 32:590-597 (2004).
+XX
+//

@@ -1,0 +1,55 @@
+AC  M01819
+XX
+ID  P$CCA1_Q5
+XX
+DT  08.02.2011 (created); mkl.
+DT  08.02.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CCA1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T02860; CCA1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+BF  T08583; CCA1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      4      2      0      S
+02      3      3      0      0      M
+03      2      2      0      2      H
+04      3      1      1      1      N
+05      3      0      2      1      R
+06      6      0      0      0      A
+07      7      0      0      0      A
+08      7      0      0      0      A
+09      7      0      0      0      A
+10      3      0      0      4      W
+11      7      0      0      0      A
+12      0      0      0      7      T
+13      0      7      0      0      C
+14      1      0      0      6      T
+15      5      0      0      1      A
+16      3      1      1      1      N
+17      2      1      2      1      N
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  AAAAAATCTATGACTAG; R08518; 27; 17;; p.
+BS  AAAATATCTAGCTAACT; R18889; 12; 17;; p.
+BS  AAAATATCTAAACCTTG; R19504; 9; 17;; p.
+BS  AAAATATCTTCTCAGAG; R19505; 9; 17;; p.
+BS  AAAAAATCAAAACAAAT; R23041; 31; 17;; p.
+BS  AAAATATCTAAGTGGGG; R27051; 15; 17;; p.
+BS  nAAAAATCTnnnnnnnn; R28649; -1; 17;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

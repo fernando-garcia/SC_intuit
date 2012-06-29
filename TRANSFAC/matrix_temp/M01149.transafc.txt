@@ -1,0 +1,92 @@
+AC  M01149
+XX
+ID  V$DMRT4_01
+XX
+DT  19.08.2007 (created); vma.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  DMRT4
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T18887; DMRT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18888; DMRT4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10727; DMRT4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10728; DMRT4; Species: mouse, Mus musculus; site(s) included: no.
+BF  T15940; DMRT4; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     30      2      5      3      A
+02     28      5      0      7      A
+03      8      0      0     32      T
+04      0      0     39      1      G
+05      1      0      0     39      T
+06     26      0      3     11      A
+07     16      0     13     11      D
+08      0     38      2      0      C
+09     32      0      7      1      A
+10     29      1      7      3      A
+11     14      4      4     18      W
+12      9      1      7     23      T
+13      8      6      2     24      T
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AATGTTACAATGT; R21960; 4; 13;; p.
+BS  AATGTATCAAAAT; R21961; 4; 13;; p.
+BS  ACTGTAACAATTT; R21962; 4; 13;; p.
+BS  GTTGTTACAAATT; R21963; 4; 13;; p.
+BS  ATTGTAACAAAAA; R21964; 4; 13;; p.
+BS  AATGTAACAAATA; R21965; 4; 13;; p.
+BS  AATGTAGCATTAT; R21966; 4; 13;; p.
+BS  AATGTAACAATTC; R21967; 4; 13;; p.
+BS  AATGTAACAAACC; R21968; 4; 13;; p.
+BS  GTAGTGGCAGTGC; R21969; 4; 13;; p.
+BS  ATTGTATCGAATA; R21970; 4; 13;; p.
+BS  AATGTAACAAAAT; R21971; 4; 13;; p.
+BS  GCTGAAGCGGGGT; R21972; 4; 13;; p.
+BS  AATGTAACAATTT; R21973; 4; 13;; p.
+BS  AATGTAACAGTTG; R21974; 4; 13;; p.
+BS  AATGTTGCAAGTT; R21975; 4; 13;; p.
+BS  AATGTTTCGAGTT; R21976; 4; 13;; p.
+BS  AAAGTATCAACTT; R21977; 4; 13;; p.
+BS  AATGTAACGAATT; R21978; 4; 13;; p.
+BS  ACTGTATCAATTC; R21979; 4; 13;; p.
+BS  GTAGTGTGAGTTA; R21980; 4; 13;; p.
+BS  AATGTTGCAGTTT; R21981; 4; 13;; p.
+BS  ACAGTAGCGATGA; R21982; 4; 13;; p.
+BS  AATGTAACAAATC; R21983; 4; 13;; p.
+BS  GATGTTGCAATTT; R21984; 4; 13;; p.
+BS  ATAGTTGCAAAAC; R21985; 4; 13;; p.
+BS  CATGTAGGGTATG; R21986; 4; 13;; p.
+BS  AATGTTGCAATAT; R21987; 4; 13;; p.
+BS  AATGTAACGACTT; R21988; 4; 13;; p.
+BS  AAAGTAACAATAA; R21989; 4; 13;; p.
+BS  CCTTTATCAGCTA; R21990; 4; 13;; p.
+BS  TTTGTTGCAATTT; R21991; 4; 13;; p.
+BS  AATGTATCAGTGT; R21992; 4; 13;; p.
+BS  AATGTAACAAAAT; R21993; 4; 13;; p.
+BS  AATGTTGCAAATT; R21994; 4; 13;; p.
+BS  AAAGTTTCTCGGT; R21995; 4; 13;; p.
+BS  AATGTATCAAAAT; R21996; 4; 13;; p.
+BS  AATGTATCAATTT; R21997; 4; 13;; p.
+BS  TATGTAACAACTT; R21998; 4; 13;; p.
+BS  TAAGTGGCATTGA; R21999; 4; 13;; p.
+XX
+CC  sequences selected with recombinant DMRT4 from a pool of double-stranded oligonucleotides containing a core of 19 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0050600.
+RX  PUBMED: 17605809.
+RA  Murphy M. W., Zarkower D., Bardwell V. J.
+RT  Vertebrate DM domain proteins bind similar DNA sequences and can heterodimerize on DNA.
+RL  BMC Mol. Biol. 8:58 (2007).
+RN  [2]; RE0050097.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel113:0001 (2007).
+XX
+//

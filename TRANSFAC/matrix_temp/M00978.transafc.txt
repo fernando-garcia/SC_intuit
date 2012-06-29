@@ -1,0 +1,93 @@
+AC  M00978
+XX
+ID  V$LEF1TCF1_Q4
+XX
+DT  13.02.2004 (created); dtc.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  LEF1, TCF1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01022; V$LEF1_Q2_01;  (specific).
+HC  M02019; V$LEF1_Q5;  (specific).
+HC  M02774; V$LEF1_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02817; V$TCF7_03; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02878; V$LEF1_03; class: Other Alpha-Helix; family: High Mobility Group (specific).
+HC  M02921; V$TCF7_04; class: Other Alpha-Helix; family: High Mobility Group (specific).
+XX
+BF  T03553; LEF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T17029; LEF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T02963; LEF-1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T16141; LEF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09551; LEF-1; Species: Mammalia; site(s) included: no.
+BF  T00930; LEF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09576; LEF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03730; LEF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02953; LEF-1; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03554; LEF-1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01389; LEF-1S; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02905; LEF1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19041; LEF1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19042; LEF1-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19040; LEF1-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01002; TCF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16692; TCF-1; Species: Mammalia; site(s) included: no.
+BF  T11358; TCF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16008; TCF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T01109; TCF-1(P); Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00999; TCF-1A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01000; TCF-1B; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02945; TCF-1B; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01001; TCF-1C; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01846; TCF-1D; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01979; TCF-1E; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01981; TCF-1F; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01982; TCF-1G; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      9      3      1      M
+02      0     17      1      0      C
+03      1      1      0     16      T
+04      0      0      0     18      T
+05      0      0      0     18      T
+06      1      0     17      0      G
+07     11      0      0      7      W
+08      6      0      0     12      W
+09      2      7      9      0      S
+10      3      5      2      8      N
+11      2      6      2      8      Y
+XX
+BA  18 sequences (matrix compiled from individual genomic sites)
+XX
+BS  CCTTTGTTCTT; R03470; -2; 11;; n.
+BS  CCTTTGTTCCC; R04278; -2; 11;; n.
+BS  ACTTTATTCTC; R08268; 10; 11;; n.
+BS  GCTTTGATCTT; R08576; 1; 11;; p.
+BS  CCTTTGATGAT; R08589; -3; 11;; n.
+BS  ACTTTGATGTA; R08591; -3; 11;; n.
+BS  CCTTTGAAGCT; R08631; 8; 11;; p.
+BS  AGTTTGAAGCG; R08649; -1; 11;; p.
+BS  CCTTTGTAACT; R08809; 11; 11;; p.
+BS  CCTTTGTTCTG; R08814; 10; 11;; p.
+BS  GCTTTGATGAC; R08815; 10; 11;; p.
+BS  GCTTTGAAGAT; R08816; 10; 11;; p.
+BS  ACTTTGATGTC; R08820; 3; 11;; n.
+BS  TCTTTGTTCCC; R08821; 6; 11;; p.
+BS  CCATTGTTGGC; R08823; 6; 11;; p.
+BS  CCTTTGAAGTA; R08824; 3; 11;; n.
+BS  CCCTTGATCTT; R13042; 1; 11;; n.
+BS  ACTTTGAAAGT; C00269,  s00456; -3; 11;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better; including 1 TRANSCompel site
+XX
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

@@ -1,0 +1,53 @@
+AC  M00283
+XX
+ID  I$ZESTE_Q2
+XX
+DT  02.04.1998 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Zeste
+XX
+DE  Zeste transvection gene product
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00918; Zeste; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+BF  T02100; Zeste; Species: fruit fly, Drosophila virilis; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      5      8      9      N
+02      8      7      5      6      N
+03     11      2      4      9      W
+04      8      2      7      9      N
+05      4      3      1     18      T
+06      0      5      1     20      T
+07      0      0     26      0      G
+08     26      0      0      0      A
+09      0      0     26      0      G
+10      1      4      0     21      T
+11      0      1     24      1      G
+12     10      4      8      4      N
+13      9      5      6      6      N
+14      9      5      3      9      N
+15      8      3      6      9      N
+16      7      4      6      9      N
+XX
+BA  26 sequences (compiled matrix imported from literature reference)
+XX
+CC  compiled and aligned by BIOBASE
+XX
+RN  [1]; RE0006748.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0003 (1998).
+RN  [2]; RE0000414.
+RX  PUBMED: 3145199.
+RA  Benson M., Pirrotta V.
+RT  The Drosophila zeste protein binds cooperatively to sites in many gene regulatory regions: implications for transvection and gene regulation
+RL  EMBO J. 7:3907-3915 (1988).
+XX
+//

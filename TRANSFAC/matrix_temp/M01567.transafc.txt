@@ -1,0 +1,53 @@
+AC  M01567
+XX
+ID  F$SUT2_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sut2
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T04613; SUT2; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.33   0.23   0.11   0.32      N
+02   0.23   0.21   0.26    0.3      N
+03   0.27   0.22   0.28   0.23      N
+04   0.35    0.2    0.1   0.35      N
+05   0.25   0.22   0.15   0.38      N
+06   0.52   0.09   0.29    0.1      R
+07   0.94   0.01   0.01   0.04      A
+08   0.97      0   0.01   0.02      A
+09      0   0.71   0.29      0      C
+10      0   0.02      0   0.98      T
+11      0   0.99      0      0      C
+12      0   0.98   0.01      0      C
+13      0      0   0.99      0      G
+14   0.79   0.02   0.17   0.02      A
+15   0.52   0.08   0.26   0.14      A
+16   0.38   0.25   0.15   0.22      N
+17   0.34   0.21   0.17   0.28      N
+18   0.28    0.2   0.21   0.31      N
+19   0.16   0.25   0.25   0.33      N
+20   0.28   0.14   0.24   0.34      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+RN  [1]; RE0064448.
+RX  PUBMED: 19158363.
+RA  Zhu C., Byers K. J., McCord R. P., Shi Z., Berger M. F., Newburger D. E., Saulrieta K., Smith Z., Shah M. V., Radhakrishnan M., Philippakis A. A., Hu Y., De Masi F., Pacek M., Rolfs A., Murthy T., LaBaer J., Bulyk M. L.
+RT  High-resolution DNA-binding specificity analysis of yeast transcription factors.
+RL  Genome Res. 19:556-566 (2009).
+RN  [2]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+XX
+//

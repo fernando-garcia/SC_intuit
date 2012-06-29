@@ -1,0 +1,64 @@
+AC  M02086
+XX
+ID  V$CDX1_Q5
+XX
+DT  24.10.2011 (created); mkl.
+DT  19.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Cdx-1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00991; V$CDX_Q5;  (family).
+XX
+BF  T22206; (Cdx-1)2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01484; Cdx-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T03248; Cdx-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10893; CDX-1; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01999; Cdx-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14184; Cdx-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02000; Cdx-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      1     19      T
+02      0      0      2     19      T
+03      0      0      0     21      T
+04     21      0      0      0      A
+05      0      2      1     18      T
+06      5      0      7      9      K
+XX
+BA  21 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TTTATT; R04239; 6; 6;; n.
+BS  TTTATG; R08873; 12; 6;; p.
+BS  TTTATA; R14710; 11; 6;; n.
+BS  TTTACT; R22362; 15; 6;; p.
+BS  TTTATG; R22363; 13; 6;; n.
+BS  ATTATT; R23671; 10; 6;; n.
+BS  TTTACG; R26171; 14; 6;; n.
+BS  TTTATG; R26172; 10; 6;; n.
+BS  TGTATT; R26343; 28; 6;; n.
+BS  tTTATG; R28996; 10; 6;; p.
+BS  TTTATA; R28997; 9; 6;; p.
+BS  TTTAGA; R32349; 13; 6;; p.
+BS  TGTATA; R32350; 8; 6;; p.
+BS  TTTATT; R36201; 15; 6;; n.
+BS  TTTATT; R36203; 18; 6;; p.
+BS  GTTATG; R36204; 8; 6;; n.
+BS  TTTATA; R36205; 11; 6;; n.
+BS  TTTATt; R36208; 7; 6;; n.
+BS  TTTATT; R36212; 7; 6;; p.
+BS  TTTATG; R36344; 32; 6;; n.
+BS  TTTATT; R36624; 24; 6;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0071991.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20121:0001 (2012).
+XX
+//

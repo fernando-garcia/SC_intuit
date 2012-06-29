@@ -1,0 +1,71 @@
+AC  M00225
+XX
+ID  V$STAT3_01
+XX
+DT  30.11.1995 (created); ewi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  STAT3
+XX
+DE  signal transducer and activator of transcription 3
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00223; V$STAT_01; signal transducers and activators of transcription (family).
+HP  M00777; V$STAT_Q6;  (family).
+XX
+BF  T11031; STAT3; Species: cattle, Bos taurus; site(s) included: no.
+BF  T15979; STAT3; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T01493; STAT3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17273; STAT3; Species: long-tailed hamster, Cricetulus longicaudatus; site(s) included: yes.
+BF  T14458; STAT3; Species: Mammalia; site(s) included: no.
+BF  T05697; STAT3; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T01574; STAT3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17244; STAT3; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T06605; STAT3; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08479; STAT3; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08580; STAT3-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08657; STAT3-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11030; STAT3-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08658; STAT3-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17886; STAT3-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19278; STAT3-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   16.1   20.3   30.7   32.8      N
+02    2.4     18   59.1   20.3      G
+03    9.8   17.5   39.4   33.3      N
+04      5   45.2   27.9   21.9      N
+05   77.9    0.8   21.3      0      A
+06   12.6    6.8      0   80.6      T
+07      0      0      0    100      T
+08      0      0      0    100      T
+09      0    100      0      0      C
+10      0    100      0      0      C
+11      0     50     50      0      S
+12      0      0    100      0      G
+13      0      0   98.2    1.8      G
+14    100      0      0      0      A
+15    100      0      0      0      A
+16   63.3      0   32.7      4      R
+17    1.8   13.8    1.8   82.6      T
+18    7.7   19.3     70      3      G
+19   34.7   18.7     28   18.7      N
+20   27.3   18.2   22.4   32.1      N
+21   19.6   24.3     16   40.1      N
+XX
+BA  55 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant STAT3 from a pool of double-stranded oligonucleotides containing a core of 76 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0003481.
+RX  PUBMED: 7774815.
+RA  Horvath C. M., Wen Z., Darnell jr J. E.
+RT  A STAT protein domain that determines DNA sequence recognition suggests a novel DNA-binding domain
+RL  Genes Dev. 9:984-994 (1995).
+XX
+//

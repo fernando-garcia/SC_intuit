@@ -1,0 +1,137 @@
+AC  M00929
+XX
+ID  V$MYOD_Q6_01
+XX
+DT  31.08.2003 (created); dtc.
+DT  11.09.2003 (updated); ddt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  MyoD
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00001; V$MYOD_01; myoblast determination gene product (specific).
+HC  M00002; V$E47_01; E47 (specific).
+HC  M00065; V$TAL1BETAE47_01; Tal-1beta:E47 heterodimer (specific).
+HC  M00066; V$TAL1ALPHAE47_01; Tal-1alpha:E47 heterodimer (specific).
+HC  M00071; V$E47_02; E47 (specific).
+HC  M00184; V$MYOD_Q6; myoblast determining factor (specific).
+HC  M00222; V$HAND1E47_01; Hand1:E47 heterodimer (specific).
+HC  M00693; V$E12_Q6;  (specific).
+HC  M00712; V$MYOGENIN_Q6;  (specific).
+HC  M02088; V$E2A_Q6_01;  (specific).
+HC  M02100; V$MYOD_Q6_02;  (specific).
+HC  M02101; V$MYOGENIN_Q6_01;  (specific).
+HC  M02781; V$MYF6_03; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02823; V$TCFE2A_03; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02885; V$MYF6_04; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+HC  M02927; V$TCFE2A_04; class: Zipper-Type; family: Helix-Loop-Helix (specific).
+XX
+BF  T05422; E12; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00204; E12; Species: human, Homo sapiens; site(s) included: yes.
+BF  T17415; E12; Species: Mammalia; site(s) included: no.
+BF  T01786; E12; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00675; E12; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19679; E2A; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T17424; E2A; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15605; E2A; Species: human, Homo sapiens; site(s) included: yes.
+BF  T13855; E2A; Species: Mammalia; site(s) included: no.
+BF  T10541; E2A; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05421; E47; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T00207; E47; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10212; E47; Species: Mammalia; site(s) included: no.
+BF  T01788; E47; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00674; E47; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00432; ITF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01538; MRF4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15552; MRF4; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T01539; MRF4; Species: clawed frog, Xenopus; site(s) included: yes.
+BF  T18529; MRF4; Species: Mammalia; site(s) included: yes.
+BF  T01537; MRF4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16555; MRF4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00512; MRF4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09283; MRF4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00522; Myf-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T22044; Myf-6; Species: human, Homo sapiens; site(s) included: yes.
+BF  T01128; MyoD; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15547; MyoD; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00524; MyoD; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T10010; MyoD; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T03902; MyoD; Species: common carp, Cyprinus carpio; site(s) included: yes.
+BF  T00525; MyoD; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09197; MyoD; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10027; MyoD; Species: Mammalia; site(s) included: no.
+BF  T00527; MyoD; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T00526; MyoD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09177; MyoD; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01551; MyoD; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T15571; MyoD; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15572; MyoD; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03907; MyoD; Species: zebra fish, Brachydanio rerio; site(s) included: yes.
+BF  T03912; MyoD (275 AA); Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T03911; MyoD (376 AA); Species: rainbow trout, Oncorhynchus mykiss; site(s) included: yes.
+BF  T01531; myogenin; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15550; myogenin; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00520; Myogenin; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08836; Myogenin; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10831; Myogenin; Species: Mammalia; site(s) included: no.
+BF  T00528; myogenin; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08853; myogenin; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01533; myogenin; Species: quail, Coturnix coturnix; site(s) included: yes.
+BF  T01532; myogenin; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T15573; myogenin; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T09296; Tcfe2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      9      3      2      C
+02      3      7      4      4      N
+03      3      4     10      1      G
+04      6      6      5      1      N
+05      7      3      7      1      R
+06      6      4      7      1      N
+07      0     18      0      0      C
+08     18      0      0      0      A
+09      1      0     16      1      G
+10      2      3     12      1      G
+11      0      0      1     17      T
+12      0      0     18      0      G
+13      3      5      7      3      N
+14      4      8      2      4      N
+15      3      3     10      2      G
+16      7      2      5      4      N
+17      9      2      4      3      A
+18      3      4      8      3      N
+XX
+BA  18 sequences (matrix compiled from individual genomic sites)
+XX
+BS  GCATGACAGCTGAGGGCC; R00012; -3; 18;; n.
+BS  CTGGAACAGGTGGTGTAA; R00014; -5; 18;; p.
+BS  AGGAGCCAAGGGCAGAAC; R00018; -4; 18;; n.
+BS  AGGGGACAGGTGCTGGTG; R00019; 2; 18;; n.
+BS  CCCAGACATGTGGCTGCT; R00240; -4; 18;; p.
+BS  AGGCAGCAGGTGTTGGGG; R00242; -1; 18;; n.
+BS  CCTAGGCAGGTGGCCCAG; R00881; -4; 18;; p.
+BS  CAGGGTCAGTTGGAGCAG; R02452; -4; 18;; n.
+BS  TCGCAGCAGGTGCAAAAA; R03074; -2; 18;; p.
+BS  CCCCACCAGCTGGCGAAG; R03075; -5; 18;; p.
+BS  AAGCAACAGGTGCCTAAT; R03076; -2; 18;; p.
+BS  CTAAGGCAGGTGAGGAGC; R03109; -6; 18;; n.
+BS  TGGGAACAGCTGACAATG; R04021; 13; 18;; p.
+BS  CTGACGCAGATGTCCTAA; R04046; 14; 18;; n.
+BS  CTGCTGCAGGTGTTCTGG; R04158; 4; 18;; n.
+BS  GACCAGCAGGTGGCGAAG; R04418; 5; 18;; n.
+BS  GCCACCCAGATGGCATTT; R08512; -6; 18;; n.
+BS  CCAGCCCAGGTGCAGGGC; R13322; 5; 18;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M00929; V$MYOD_Q6_01.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

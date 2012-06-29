@@ -1,0 +1,48 @@
+AC  M01192
+XX
+ID  P$HDG9_01
+XX
+DT  11.06.2008 (created); nta.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HDG9
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T14551; HDG9; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      3     10      0      G
+02      3      9      1      4      C
+03     15      1      1      0      A
+04      4      0      0     13      T
+05      0      0      0     17      T
+06     15      0      0      2      A
+07     16      0      0      0      A
+08     16      0      0      0      A
+09      0      0      0     16      T
+10      2      0     12      2      G
+11      0     13      2      0      C
+12      2      2     10      1      G
+13      0     11      2      0      C
+14      9      1      0      2      A
+XX
+BA  17 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant HDG9 from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 5 rounds of selection and amplification
+XX
+RN  [1]; RE0054624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel124:0001 (2008).
+RN  [2]; RE0053287.
+RX  PUBMED: 16778018.
+RA  Nakamura M., Katsumata H., Abe M., Yabe N., Komeda Y., Yamamoto K. T., Takahashi T.
+RT  Characterization of the class IV homeodomain-Leucine Zipper gene family in Arabidopsis.
+RL  Plant Physiol. 141:1363-1375 (2006).
+XX
+//

@@ -1,0 +1,61 @@
+AC  M00100
+XX
+ID  V$CDXA_01
+XX
+DT  24.04.1995 (created); hiwi.
+DT  05.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  CdxA
+XX
+DE  CdxA
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00991; V$CDX_Q5;  (family).
+XX
+BF  T01484; Cdx-1; Species: chick, Gallus gallus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      9      6      2      2      M
+02      4      0      1     14      T
+03      1      0      0     18      T
+04      4      0      2     13      T
+05     11      3      4      1      A
+06      4      3      2     10      T
+07      6      3      9      1      R
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TATTGGA; R06550; 3; 7;; p.
+BS  AATTATG; R06551; 12; 7;; p.
+BS  CATGTTG; R06552; 13; 7;; p.
+BS  CTTTATA; R06553; 6; 7;; p.
+BS  GTTAAGT; R06554; 1; 7;; p.
+BS  ATTTCCA; R06555; 8; 7;; p.
+BS  GTTTATG; R06556; 11; 7;; p.
+BS  AGTTATG; R06557; 9; 7;; p.
+BS  ATTACCA; R06558; 14; 7;; p.
+BS  CATTCTG; R06559; 5; 7;; p.
+BS  CTTTGAG; R06560; 17; 7;; p.
+BS  ATTTGAC; R06561; 6; 7;; p.
+BS  ATTTATA; R06562; 9; 7;; p.
+BS  ATTAATG; R06563; 14; 7;; p.
+BS  ATTTAAG; R06564; 3; 7;; p.
+BS  CTTTACC; R06565; 11; 7;; p.
+BS  ATTGAAG; R06566; 5; 7;; p.
+BS  CTTTATA; R06567; 6; 7;; p.
+BS  TTAAGTC; R06568; 2; 7;; p.
+XX
+CC  sequences selected with recombinant CdxA from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 3 rounds of selection and amplification
+XX
+RN  [1]; RE0002971.
+RX  PUBMED: 7909943.
+RA  Margalit Y., Yarus S., Shapira E., Gruenbaum Y., Fainsod A.
+RT  Isolation and characterization of target sequences of the chicken CdxA homeobox gene
+RL  Nucleic Acids Res. 21:4915-4922 (1993).
+XX
+//

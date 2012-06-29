@@ -1,0 +1,70 @@
+AC  M01275
+XX
+ID  V$IPF1_Q6
+XX
+DT  08.07.2009 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  IPF1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04541; ipf1; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T04267; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T10381; ipf1; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: yes.
+BF  T15921; Ipf1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+BF  T04362; ipf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09250; ipf1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10332; ipf1; Species: Mammalia; site(s) included: yes.
+BF  T02057; ipf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09093; ipf1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02058; ipf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10232; ipf1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T14194; PDX1; Species: hamster, Cricetulus sp.; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4     16      0      3      C
+02     21      1      0      1      A
+03      0      0      0     23      T
+04      0      0      0     22      T
+05     22      0      0      1      A
+06     10      2      9      1      R
+XX
+BA  23 sequences (matrix compiled from individual genomic sites)
+XX
+BS  cattag; R02709; 16; 6;; n.
+BS  CATYAS; R04228; 1; 6;; p.
+BS  cattaa; R10024; 9; 6;; n.
+BS  cattaa; R10025; 10; 6;; n.
+BS  tattaa; R10032; 4; 6;; n.
+BS  cattat; R14650; 13; 6;; n.
+BS  cattag; R14651; 5; 6;; n.
+BS  AATTAA; R18137; 2; 6;; p.
+BS  CATTAA; R19189; 10; 6;; p.
+BS  cattag; R20722; 11; 6;; n.
+BS  catttc; R20723; 12; 6;; n.
+BS  cattag; R20727; 11; 6;; n.
+BS  aattaa; R20795; 12; 6;; n.
+BS  tattag; R20973; 2; 6;; n.
+BS  aattaa; R20974; 6; 6;; n.
+BS  ccttag; R21190; 11; 6;; n.
+BS  TATTAA; R21510; 3; 6;; p.
+BS  CATTAA; R23514; 105; 6;; p.
+BS  cattag; R24014; 14; 6;; n.
+BS  atttag; R25191; 14; 6;; n.
+BS  CATTAA; R25192; 16; 6;; p.
+BS  cattac; R25193; 4; 6;; n.
+BS  cattag; R25222; 21; 6;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+PV  M01275; V$IPF1_Q6.
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+XX
+//

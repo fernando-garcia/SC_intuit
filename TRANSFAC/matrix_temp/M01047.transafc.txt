@@ -1,0 +1,128 @@
+AC  M01047
+XX
+ID  V$AP2ALPHA_03
+XX
+DT  04.03.2005 (created); elf.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  AP-2alphaA
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00189; V$AP2_Q6; activator protein 2 (family).
+HP  M00800; V$AP2_Q3;  (family).
+HP  M00915; V$AP2_Q6_01;  (family).
+XX
+BF  T06547; AP-2; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T10513; AP-2alpha; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: yes.
+BF  T08146; AP-2alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10504; AP-2alpha; Species: Mammalia; site(s) included: no.
+BF  T00033; AP-2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10025; AP-2alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06374; AP-2alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10369; AP-2alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02488; AP-2alpha isoform 2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02489; AP-2alpha isoform 3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02490; AP-2alpha isoform 4; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00035; AP-2alphaA; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02466; AP-2alphaB; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     38     10      9      5      A
+02      9     21     12     20      N
+03     19     34      0      9      M
+04      0      0     62      0      G
+05      0     62      0      0      C
+06      0     62      0      0      C
+07      0      9      5     48      T
+08      9     22     22      9      N
+09     48      5      9      0      A
+10      0      0     62      0      G
+11      0      0     62      0      G
+12      0     62      0      0      C
+13      9      0     34     19      K
+14     20     12     21      9      N
+15      5      9     10     38      T
+XX
+BA  62 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GGCGCCTGGGGCGGT; R16376; 2; 15;; n.
+BS  ACCGCCCCAGGCGCC; R16376; 2; 15;; p.
+BS  ACCGCCTGAGGCTCA; R16377; 2; 15;; p.
+BS  TGAGCCTCAGGCGGT; R16377; 2; 15;; n.
+BS  TACGCCTTAGGCGGT; R16378; 2; 15;; n.
+BS  ACCGCCTAAGGCGTA; R16378; 2; 15;; p.
+BS  ACCGCCTTAGGCATC; R16379; 2; 15;; p.
+BS  GATGCCTAAGGCGGT; R16379; 2; 15;; n.
+BS  AGCGCCTCGGGCGGT; R16380; 2; 15;; n.
+BS  ACCGCCCGAGGCGCT; R16380; 2; 15;; p.
+BS  ACAGCCTCGGGCGGT; R16381; 2; 15;; n.
+BS  ACCGCCCGAGGCTGT; R16381; 2; 15;; p.
+BS  ACCGCCTCAGGCGGT; R16382; 2; 15;; n.
+BS  ACCGCCTGAGGCGGT; R16382; 2; 15;; p.
+BS  ATAGCCTAAGGCGGT; R16383; 2; 15;; n.
+BS  ACCGCCTTAGGCTAT; R16383; 2; 15;; p.
+BS  AACGCCTAGGGCGGT; R16384; 2; 15;; n.
+BS  ACCGCCCTAGGCGTT; R16384; 2; 15;; p.
+BS  ACCGCCCGCGGCGGT; R16385; 2; 15;; n.
+BS  ACCGCCGCGGGCGGT; R16385; 2; 15;; p.
+BS  ATAGCCTCCGGCGGT; R16386; 2; 15;; n.
+BS  ACCGCCGGAGGCTAT; R16386; 2; 15;; p.
+BS  ATAGCCCGAGGCGGG; R16387; 3; 15;; n.
+BS  CCCGCCTCGGGCTAT; R16387; 3; 15;; p.
+BS  CCAGCCTCAGGCGAC; R16388; 3; 15;; p.
+BS  GTCGCCTGAGGCTGG; R16388; 3; 15;; n.
+BS  AACGCCGCAGGCGGG; R16389; 3; 15;; n.
+BS  CCCGCCTGCGGCGTT; R16389; 3; 15;; p.
+BS  CCTGCCTCAGGCTAT; R16390; 3; 15;; p.
+BS  ATAGCCTGAGGCAGG; R16390; 3; 15;; n.
+BS  ATCGCCTGAGGCTAG; R16391; 4; 15;; n.
+BS  CTAGCCTCAGGCGAT; R16391; 4; 15;; p.
+BS  AACGCCTCAGGCGAG; R16392; 4; 15;; n.
+BS  CTCGCCTGAGGCGTT; R16392; 4; 15;; p.
+BS  ATAGCCTAAGGCATG; R16393; 4; 15;; n.
+BS  CATGCCTTAGGCTAT; R16393; 4; 15;; p.
+BS  ATCGCCGGAGGCGGT; R16394; 5; 15;; n.
+BS  ACCGCCTCCGGCGAT; R16394; 5; 15;; p.
+BS  AACGCCTGAGGCAGT; R16395; 5; 15;; n.
+BS  ACTGCCTCAGGCGTT; R16395; 5; 15;; p.
+BS  TGTGCCTCAGGCGCT; R16396; 5; 15;; n.
+BS  AGCGCCTGAGGCACA; R16396; 5; 15;; p.
+BS  ATAGCCCGCGGCATA; R16397; 5; 15;; n.
+BS  TATGCCGCGGGCTAT; R16397; 5; 15;; p.
+BS  GGTGCCTAAGGCTAT; R16398; 7; 15;; n.
+BS  ATAGCCTTAGGCACC; R16398; 7; 15;; p.
+BS  ATCGCCTTAGGCTCC; R16399; 7; 15;; p.
+BS  GGAGCCTAAGGCGAT; R16399; 7; 15;; n.
+BS  GTTGCCTCAGGCGAT; R16400; 7; 15;; n.
+BS  ATCGCCTGAGGCAAC; R16400; 7; 15;; p.
+BS  GTAGCCTGAGGCTAC; R16401; 7; 15;; p.
+BS  GTAGCCTCAGGCTAC; R16401; 7; 15;; n.
+BS  AGTGCCCCAGGCGAC; R16402; 8; 15;; n.
+BS  GTCGCCTGGGGCACT; R16402; 8; 15;; p.
+BS  ATAGCCTGAGGCGCT; R16403; 8; 15;; p.
+BS  AGCGCCTCAGGCTAT; R16403; 8; 15;; n.
+BS  CGAGCCTGGGGCGTA; R16404; 10; 15;; n.
+BS  TACGCCCCAGGCTCG; R16404; 10; 15;; p.
+BS  CGAGCCTAAGGCTAT; R16405; 10; 15;; n.
+BS  ATAGCCTTAGGCTCG; R16405; 10; 15;; p.
+BS  CGAGCCTAAGGCGGT; R16406; 10; 15;; n.
+BS  ACCGCCTTAGGCTCG; R16406; 10; 15;; p.
+XX
+CC  sequences selected with recombinant AP-2alphaA from a pool of double-stranded oligonucleotides containing a core of 16 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0025480.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel91:0001 (2005).
+RN  [2]; RE0025497.
+RX  PUBMED: 10373594.
+RA  Mohibullah N., Donner A., Ippolito J. A., Williams T.
+RT  SELEX and missing phosphate contact analyses reveal flexibility within the AP-2[alpha] protein: DNA binding complex.
+RL  Nucleic Acids Res. 27:2760-2769 (1999).
+XX
+//

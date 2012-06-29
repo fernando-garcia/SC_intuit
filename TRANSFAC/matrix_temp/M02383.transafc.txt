@@ -1,0 +1,51 @@
+AC  M02383
+AS  MA0264
+XX
+ID  N$CEH22_01
+XX
+DT  15.11.2011 (created); jaspar.
+DT  21.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ceh-22
+XX
+DE  class: Helix-Turn-Helix; family: Homeo; NK-2 class; ortholog to Drosophila tinman and vertebrate Nkx2-5
+XX
+TY  specific
+XX
+OS  Nematods
+OC  Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Pseudocoelomata
+XX
+BF  T03357; ceh-22; Species: Caenorhabditis elegans; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01     33     15     31     19      N
+02      8     71     19      0      C
+03      0     89      0      9      C
+04     93      1      0      5      A
+05      1     97      0      0      C
+06      0      0      0     99      T
+07      0     16      0     83      T
+08      7     27     63      1      G
+09     95      0      0      4      A
+10     46     29     20      3      M
+11     51     20     15     12      A
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0264.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+RN  [2]; RE0070086.
+RX  PUBMED: 16998473.
+RA  Berger M. F., Philippakis A. A., Qureshi A. M., He F. S., Estep PW 3. r. d., Bulyk M. L.
+RT  Compact, universal DNA microarrays to comprehensively determine transcription-factor binding site specificities.
+RL  Nat. Biotechnol 24:1429-1435 (2006).
+XX
+//

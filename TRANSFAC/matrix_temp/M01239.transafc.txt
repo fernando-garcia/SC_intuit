@@ -1,0 +1,47 @@
+AC  M01239
+XX
+ID  V$RELBP52_01
+XX
+DT  08.05.2009 (created); pro.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RelB:p52 (NF-kappaB)
+XX
+DE  kappaB site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15960; NF-kappaB2-p52:RelB; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10406; p50:RelA-p65; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      8      1    162      1      G
+02      2      0    169      1      G
+03      1      0    159     12      G
+04     31      1    139      1      G
+05     68     38     57      9      N
+06     43      1      7    121      T
+07      6      3      2    161      T
+08     12      7      0    153      T
+09      7    132      1     32      C
+10      0    144      3     25      C
+XX
+BA  172 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant RelB:p52 (NF-kappaB) from a pool of double-stranded oligonucleotides containing a core of 10 random nucleotides; several rounds of selection and amplification
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+RN  [2]; RE0062654.
+RX  PUBMED: 17996728.
+RA  Britanova L. V., Makeev V. J., Kuprash D. V.
+RT  In vitro selection of optimal RelB/p52 DNA-binding motifs.
+RL  Biochem. Biophys. Res. Commun. 365:583-588 (2008).
+XX
+//

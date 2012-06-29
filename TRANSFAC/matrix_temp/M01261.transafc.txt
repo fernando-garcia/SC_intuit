@@ -1,0 +1,62 @@
+AC  M01261
+XX
+ID  V$HNF3A_01
+XX
+DT  30.06.2009 (created); sla.
+DT  10.07.2009 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF3A
+XX
+DE  FOXA1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00791; V$HNF3_Q6;  (family).
+HP  M01012; V$HNF3_Q6_01;  (family).
+XX
+BF  T09036; FoxA1; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T09037; FoxA1; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T09014; FOXA1; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T09022; FOXA1; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T09590; HNF-3alpha; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T09591; HNF-3alpha; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T15543; HNF-3alpha; Species: hamster, Cricetulus sp.; site(s) included: no.
+BF  T02512; HNF-3alpha; Species: human, Homo sapiens; site(s) included: no.
+BF  T09511; HNF-3alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08626; HNF-3alpha; Species: Mammalia; site(s) included: no.
+BF  T02343; HNF-3alpha; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09941; HNF-3alpha; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00371; HNF-3alpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T10083; HNF-3alpha; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01    283     18    172     27      R
+02    244      0     55    201      W
+03     33      0    463      4      G
+04      1    150      0    349      T
+05    426     74      0      0      A
+06    495      4      1      0      A
+07    498      1      1      0      A
+08      0    406      0     94      C
+09    497      0      0      3      A
+10    115    100    113    172      N
+XX
+BA  500 sequences (ChIP-Seq)
+XX
+DR  JASPAR: MA0148.
+XX
+RN  [1]; RE0062860.
+RA  TRANSFAC_Team.
+RT  Computation of PWMs based on binding fragments from ChIP-chip and ChIP-Seq experiments.
+RL  TRANSFAC Reports Rel20093:0002 (2009).
+RN  [2]; RE0062865.
+RX  PUBMED: 18798982.
+RA  Zhang Y., Liu T., Meyer C. A., Eeckhoute J., Johnson D. S., Bernstein B. E., Nussbaum C., Myers R. M., Brown M., Li W., Liu X. S.
+RT  Model-based analysis of ChIP-Seq (MACS).
+RL  Genome Biol. 9:R137 (2008).
+XX
+//

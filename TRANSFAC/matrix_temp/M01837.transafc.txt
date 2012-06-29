@@ -1,0 +1,56 @@
+AC  M01837
+XX
+ID  V$FKLF_Q5
+XX
+DT  08.02.2011 (created); mkl.
+DT  09.02.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  FKLF
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T04956; FKLF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10390; FKLF; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10391; FKLF; Species: Mammalia; site(s) included: yes.
+BF  T17848; KLF11; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T17849; KLF11; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      2      4      2      B
+02      0      0     12      0      G
+03      0      0     12      0      G
+04      0      3      9      0      G
+05      1      2      3      6      N
+06      0      0     12      0      G
+07      0      0      8      0      G
+08      2      2      4      0      V
+09      3      4      1      0      M
+10      2      0      4      2      D
+XX
+BA  12 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ngggtgnnnn; R15640; -4; 10;; n.
+BS  ngggtgnnnn; R15641; -4; 10;; n.
+BS  ngggtgnnnn; R15642; -4; 10;; n.
+BS  ngggtgnnnn; R15643; -4; 10;; n.
+BS  CGGGCGGGCG; R21018; 7; 10;; p.
+BS  gggcggggct; R23717; 5; 10;; n.
+BS  tgggtggagt; R26004; 6; 10;; n.
+BS  TGGCGGGAAA; R29688; 13; 10;; p.
+BS  CGGGCGGCCA; R30213; 9; 10;; p.
+BS  GGGGTGgcag; R31560; 14; 10;; p.
+BS  gGGGAGGGag; R31561; 12; 10;; p.
+BS  GGGCGGGGCG; R31565; 10; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 5 or better
+XX
+RN  [1]; RE0069356.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20111:0001 (2011).
+XX
+//

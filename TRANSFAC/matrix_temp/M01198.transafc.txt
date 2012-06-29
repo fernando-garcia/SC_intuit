@@ -1,0 +1,75 @@
+AC  M01198
+XX
+ID  V$RXRLXRB_01
+XX
+DT  29.10.2008 (created); smt.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RXR:LXR-beta
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T15319; RXR:LXR-beta; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     20      0      5      0      A
+02      0      0     25      0      G
+03      0      0     24      1      G
+04      0      0      0     25      T
+05      0     24      0      1      C
+06     25      0      0      0      A
+07     24      0      0      1      A
+08     25      0      0      0      A
+09      0      0     25      0      G
+10      0      0     24      1      G
+11      0      0      0     25      T
+12      0     25      0      0      C
+13     25      0      0      0      A
+XX
+BA  25 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGGTCAAAGGTCA; R25735; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25736; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25737; 4; 13;; p.
+BS  GGGTCAAAGGTCA; R25738; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25739; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25740; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25741; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25742; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25743; 4; 13;; p.
+BS  GGGTCAAAGGTCA; R25744; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25745; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25746; 4; 13;; p.
+BS  AGGTTAAAGGTCA; R25747; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25748; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25749; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25750; 4; 13;; p.
+BS  GGGTCAAAGGTCA; R25751; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25752; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25753; 4; 13;; p.
+BS  GGGTCAAAGGTCA; R25754; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25755; 4; 13;; p.
+BS  AGTTCAAAGGTCA; R25756; 4; 13;; p.
+BS  AGGTCAAAGGTCA; R25757; 4; 13;; p.
+BS  AGGTCATAGTTCA; R25758; 4; 13;; p.
+BS  GGGTCAAAGGTCA; R25759; 4; 13;; p.
+XX
+CC  sequences selected with recombinant RXR:LXR-beta from a pool of double-stranded oligonucleotides containing a core of 19 random nucleotides; 6 rounds of selection and amplification
+XX
+DR  JASPAR: MA0115.
+XX
+RN  [1]; RE0054624.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel124:0001 (2008).
+RN  [2]; RE0017079.
+RX  PUBMED: 10187832.
+RA  Feltkamp D., Wiebel F. F., Alberti S., Gustafsson J. A.
+RT  Identification of a novel DNA binding site for nuclear orphan receptor OR1
+RL  J. Biol. Chem. 274:10421-10429 (1999).
+XX
+//

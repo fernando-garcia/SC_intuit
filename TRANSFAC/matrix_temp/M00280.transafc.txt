@@ -1,0 +1,56 @@
+AC  M00280
+XX
+ID  V$RFX1_01
+XX
+DT  18.02.1998 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RFX1
+XX
+DE  X-box binding protein RFX1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00975; V$RFX_Q6;  (family).
+XX
+BF  T01673; rfx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16561; rfx1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16560; rfx1; Species: Mammalia; site(s) included: no.
+BF  T01666; rfx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T14262; rfx1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00229; rfx1; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      5      6      8      N
+02     10      4      8      6      N
+03      6      4     22      0      G
+04      3      2      7     20      T
+05     11     10      2      9      N
+06     13      1     17      1      R
+07      3     25      1      3      C
+08      4     14      7      7      N
+09      4      2      0      6      W
+10     11      3     17      1      R
+11      0      0     32      0      G
+12      3     16      3     10      Y
+13     30      0      1      1      A
+14     32      0      0      0      A
+15      0     32      0      0      C
+16     11      9      7      4      N
+17     11      3      5     10      N
+XX
+BA  32 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+CC  sequences selected with recombinant RFX1 from a pool of double-stranded oligonucleotides containing a core of 20 and 30 random nucleotides; 3-4 rounds of selection and amplification
+XX
+RN  [1]; RE0006617.
+RX  PUBMED: 8754849.
+RA  Emery P., Strubin M., Hofmann K., Bucher P., Mach B., Reith W.
+RT  A consensus motif in the RFX DNA binding domain and binding domain mutants with altered specificity
+RL  Mol. Cell. Biol. 16:4486-4494 (1996).
+XX
+//

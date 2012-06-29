@@ -1,0 +1,91 @@
+AC  M01112
+XX
+ID  V$RBPJK_01
+XX
+DT  28.05.2006 (created); vma.
+DT  22.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  RBP-Jkappa
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01616; RBPJK; Species: human, Homo sapiens; site(s) included: no.
+BF  T16056; RBPJK; Species: Mammalia; site(s) included: no.
+BF  T16118; RBPJK; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01617; RBPJK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09441; RBPJK; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16124; RBPJK; Species: rabbit, Oryctolagus cuniculus; site(s) included: yes.
+BF  T16116; RBPJK; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T16117; RBPJK; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T19281; RBPJK-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15292; RBPJK-isoform2; Species: human, Homo sapiens; site(s) included: no.
+BF  T19282; RBPJK-isoform3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19283; RBPJK-isoform4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19280; RBPJK-isoform5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19284; RBPJK-isoform6; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     14      4      3      5      A
+02      4     10      8      5      N
+03      1     23      1      5      C
+04      2      0     29      1      G
+05      0      0      0     32      T
+06      1      0     31      0      G
+07      4      0     25      3      G
+08      1      0     31      0      G
+09     30      0      0      2      A
+10     28      0      3      0      A
+11     12     11      0      5      M
+XX
+BA  32 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  AGTATGGGAGC; R19323; 1; 11;; p.
+BS  ACCGTGAGAAC; R19324; 5; 11;; p.
+BS  GTCGTGGGTAC; R19325; 1; 11;; p.
+BS  TACGTGGGAA; R19326; 11; 11; 21; p.
+BS  AGCTTGGGAAC; R19327; 9; 11;; p.
+BS  CACGTGGGAAT; R19328; 2; 11;; p.
+BS     GTGAGAAA; R19329; 1; 11; 1, 2, 3; p.
+BS   CCGTGGGAAA; R19330; 1; 11; 1; p.
+BS  ACCGTAAGAAC; R19331; 6; 11;; p.
+BS     GTGGGAGA; R19332; 1; 11; 1, 2, 3; p.
+BS    CGTGGGAAT; R19333; 1; 11; 1, 2; p.
+BS    CGTGGGAAA; R19334; 1; 11; 1, 2; p.
+BS  TTGGTGGGAAC; R19335; 8; 11;; p.
+BS  CGCGTGGGAAA; R19336; 8; 11;; p.
+BS  ACCGTGTGAAA; R19337; 8; 11;; p.
+BS  GGCGTGGGA; R19338; 12; 11; 21, 22; p.
+BS  AGTGTGGGAA; R19339; 11; 11; 21; p.
+BS  ACCGTGGGAAA; R19340; 6; 11;; p.
+BS  TGCGTGGGAAC; R19341; 5; 11;; p.
+BS  TCCGTGTGAAC; R19342; 7; 11;; p.
+BS  CCCGTGGGAAC; R19343; 2; 11;; p.
+BS    CGTGGGAAT; R19344; 1; 11; 1, 2; p.
+BS  ATCGTGTGAAC; R19345; 8; 11;; p.
+BS  TACGTGGGAA; R19346; 11; 11; 21; p.
+BS  ACCGTGAGAAA; R19347; 2; 11;; p.
+BS  AGCGTGGGAAT; R19348; 1; 11;; p.
+BS  ATCGTGGGAAT; R19349; 3; 11;; p.
+BS  CTAGTGGGAAA; R19350; 10; 11;; p.
+BS  GCCATGGGAAA; R19351; 6; 11;; p.
+BS  AGTGTGGGAGC; R19352; 9; 11;; p.
+BS  AATGTGGGAAA; R19353; 2; 11;; p.
+BS  ACTGTGGATAA; R19354; 7; 11;; p.
+XX
+CC  sequences selected with recombinant RBP-Jkappa from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 3 or 4 rounds of selection and amplification
+XX
+RN  [1]; RE0047626.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel102:0001 (2006).
+RN  [2]; RE0008862.
+RX  PUBMED: 8152928.
+RA  Tun T., Hamaguchi Y., Matsunami N., Furukawa T., Honjo T., Kawaichi M.
+RT  Recognition sequence of a highly conserved DNA binding protein RBP-Jkappa
+RL  Nucleic Acids Res. 22:965-971 (1994).
+XX
+//

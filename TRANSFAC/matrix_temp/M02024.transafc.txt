@@ -1,0 +1,78 @@
+AC  M02024
+XX
+ID  V$MEF2A_Q6
+XX
+DT  19.07.2011 (created); mkl.
+DT  21.07.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  mef2A
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00941; V$MEF2_Q6_01;  (family).
+XX
+BF  T01006; aMEF-2; Species: human, Homo sapiens; site(s) included: no.
+BF  T09508; mef2a; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09389; mef2a; Species: Mammalia; site(s) included: yes.
+BF  T15645; mef2A; Species: Mammalia; site(s) included: no.
+BF  T15781; mef2a; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01004; mef2a; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10368; mef2a; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T01005; MEF2A-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T00505; mef2a-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06051; mef2a-isoform2; Species: mouse, Mus musculus; site(s) included: no.
+BF  T11401; mef2a-isoform3; Species: mouse, Mus musculus; site(s) included: no.
+BF  T19055; MEF2A-xbb5; Species: human, Homo sapiens; site(s) included: no.
+BF  T01009; RSRFC4; Species: human, Homo sapiens; site(s) included: no.
+BF  T01010; RSRFC9; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01      0      0      0     22      T
+02     20      0      0      2      A
+03      2      0      0     20      T
+04      3      0      0     19      T
+05      0      0      0     22      T
+06      9      0      0     13      W
+07      7      1      2     11      W
+08     15      3      1      2      A
+09      6      3      9      3      N
+10      7      9      2      3      M
+XX
+BA  23 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TATTTTTAGA; R00244; 16; 10;; n.
+BS  TATTTTTAAC; R03584; 6; 10;; p.
+BS  TAATTAACCC; R03585; 8; 10;; p.
+BS  TATTTTAAAC; R03586; 4; 10;; n.
+BS  TATTTTTAAT; R03587; 4; 10;; n.
+BS  TTTTTTAGTC; R03588; 3; 10;; n.
+BS  TATATATACT; R03589; 6; 10;; p.
+BS  TATTTTAAGC; R04212; 2; 10;; p.
+BS  TATTTTAAGC; R04212; 2; 10;; p.
+BS  TATTTATAGA; R09144; 10; 10;; n.
+BS  TATATTAATA; R09231; 8; 10;; n.
+BS  TATTTTTAGA; R09465; 7; 10;; n.
+BS  TATTTTTAGC; R15855; 11; 10;; p.
+BS  TATTTATAGC; R19550; 10; 10;; p.
+BS  TATTTAGTCT; R20938; 7; 10;; p.
+BS  TTTTTAnnnn; R27150; -4; 10;; n.
+BS  TATTTTAAAA; R27159; 13; 10;; p.
+BS  TAATTTATAA; R27161; 2; 10;; p.
+BS  TATTTTTAGG; R29837; 6; 10;; p.
+BS  TATTTATAGA; R30392; 9; 10;; p.
+BS  TATTTTTAAC; R31138; 9; 10;; p.
+BS  TATTTAGCTG; R32856; 13; 10;; n.
+BS  TATATACCGC; R33495; 8; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0070651.
+RA  TRANSFAC_Team.
+RT  New matrix entries from compiled binding sites.
+RL  TRANSFAC Reports Rel20113:0001 (2011).
+XX
+//

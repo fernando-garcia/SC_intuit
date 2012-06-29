@@ -1,0 +1,93 @@
+AC  M01652
+XX
+ID  V$P53_04
+XX
+DT  27.01.2010 (created); sla.
+DT  05.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  p53
+XX
+DE  tumor suppressor p53
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00761; V$P53_DECAMER_Q2;  (family).
+XX
+BF  T08472; Delta113p53; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T08426; Delta133p53; Species: human, Homo sapiens; site(s) included: no.
+BF  T08427; Delta133p53beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T08428; Delta133p53gamma; Species: human, Homo sapiens; site(s) included: no.
+BF  T08404; Delta40p53; Species: human, Homo sapiens; site(s) included: no.
+BF  T08424; Delta40p53beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T08425; Delta40p53gamma; Species: human, Homo sapiens; site(s) included: no.
+BF  T11037; p53; Species: Beechey ground squirrel, Spermophilus beecheyi; site(s) included: no.
+BF  T06307; p53; Species: cat, Felis silvestris catus; site(s) included: no.
+BF  T06296; p53; Species: cattle, Bos taurus; site(s) included: no.
+BF  T06304; p53; Species: chick, Gallus gallus; site(s) included: no.
+BF  T06299; p53; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T08254; p53; Species: Chinese hamster (Gray hamster), Cricetulus griseus; site(s) included: no.
+BF  T06305; p53; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T10686; p53; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T06306; p53; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T06300; p53; Species: golden (Syrian) hamster, Mesocricetus auratus; site(s) included: no.
+BF  T11034; p53; Species: horse, Equus caballus; site(s) included: no.
+BF  T00671; p53; Species: human, Homo sapiens; site(s) included: yes.
+BF  T06310; p53; Species: macaque, Macaca fascicularis; site(s) included: no.
+BF  T09500; p53; Species: Mammalia; site(s) included: no.
+BF  T17829; p53; Species: Mammalia; site(s) included: yes.
+BF  T11035; p53; Species: medaka, Oryzias latipes; site(s) included: no.
+BF  T06298; p53; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T10269; p53; Species: monkey, Cercopithecus aethiops; site(s) included: no.
+BF  T01806; p53; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08323; p53; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T06301; p53; Species: pig, Sus scrofa; site(s) included: no.
+BF  T11081; p53; Species: pig, Sus scrofa; site(s) included: no.
+BF  T06302; p53; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T11087; p53; Species: rabbit, Oryctolagus cuniculus; site(s) included: no.
+BF  T11036; p53; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: no.
+BF  T04997; p53; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T08884; p53; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T06297; p53; Species: sheep, Ovis aries; site(s) included: no.
+BF  T11094; p53; Species: sheep, Ovis aries; site(s) included: no.
+BF  T06303; p53; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T08468; p53; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T08321; p53-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02103; p53as; Species: mouse, Mus musculus; site(s) included: no.
+BF  T08422; p53beta; Species: human, Homo sapiens; site(s) included: no.
+BF  T08423; p53gamma; Species: human, Homo sapiens; site(s) included: no.
+XX
+P0      A      C      G      T
+01     31      7     52     10      R
+02     28     11     57      4      G
+03     37     14     39     10      R
+04      1     95      1      3      C
+05     55     11      3     31      W
+06     32      2     10     56      W
+07      3      1     96      0      G
+08      7     48     12     33      Y
+09      6     69      6     19      C
+10      6     45     12     37      Y
+11     27     17     48      8      N
+12     28      8     62      2      G
+13     36     13     48      3      R
+14      1     90      4      5      C
+15     48     12      7     33      W
+16     30      6      9     55      W
+17      4      2     92      2      G
+18      6     41      6     47      Y
+19      5     52     11     32      Y
+20      5     39     14     42      Y
+XX
+BA  100 sequences (compiled matrix imported from literature reference)
+XX
+RN  [1]; RE0065617.
+RX  PUBMED: 17439973.
+RA  Ma B., Pan Y., Zheng J., Levine A. J., Nussinov R.
+RT  Sequence analysis of p53 response-elements suggests multiple binding modes of the p53 tetramer to DNA targets.
+RL  Nucleic Acids Res. 35:2986-3001 (2007).
+XX
+//

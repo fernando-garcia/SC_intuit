@@ -1,0 +1,89 @@
+AC  M00623
+XX
+ID  V$CRX_Q4
+XX
+DT  08.03.2002 (created); ela.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Crx
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M01389; V$RAX_01;  (specific).
+HC  M01436; V$CRX_02;  (specific).
+HC  M01712; V$CRX_Q4_01;  (specific).
+XX
+BF  T03489; Crx; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T17536; crx; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02792; Crx; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09164; Crx; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03461; Crx; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T11402; Crx; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03458; Crx; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T11399; Crx; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T03503; rax; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T17715; rax; Species: clawed frog, Xenopus laevis; site(s) included: yes.
+BF  T05157; rax; Species: human, Homo sapiens; site(s) included: yes.
+BF  T14768; rax; Species: human, Homo sapiens; site(s) included: yes.
+BF  T03502; rax; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09221; rax; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05158; rax; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T16613; rax; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      9      1     13      Y
+02      3      9      5      9      N
+03     11      6      4      5      N
+04      4     11      3      8      N
+05      0      0      0     26      T
+06     24      0      1      1      A
+07     26      0      0      0      A
+08      2      3      4     17      T
+09      2     17      3      4      C
+10      4     12      0     10      Y
+11      0     14      7      5      S
+12     12      9      1      4      M
+13      2     11      6      7      N
+XX
+BA  26 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TCACTAATCTCCC; R09044; 3; 13;; p.
+BS  TCAGTAATCTGAG; R09045; 3; 13;; p.
+BS  CTACTAATCACAC; R09046; 3; 13;; p.
+BS  CCCCTAATTACAC; R09047; 4; 13;; n.
+BS  CGGCTAATCTGGC; R09048; 3; 13;; p.
+BS  TTACTAATTAGCC; R09049; 4; 13;; n.
+BS  ACTATAATCCCTG; R09050; 4; 13;; n.
+BS  CTTGTAATTCTTC; R09051; 3; 13;; p.
+BS  ATTCTAATCCCCC; R09052; 4; 13;; n.
+BS  TCCATAAGACGAT; R09055; -3; 13;; p.
+BS  CCTGTAATCCCAG; R09056; 4; 13;; n.
+BS  TTATTAATCATAT; R09104; 11; 13;; n.
+BS  CAATTAAGCCCCT; R09105; 6; 13;; p.
+BS  TCCCTAAGCTCCC; R09106; 6; 13;; n.
+BS  NGGCTAAACTCAG; R09107; -1; 13;; n.
+BS  CCTTTAATCCTAT; R09108; 26; 13;; n.
+BS  TTAATAACTTTCC; R09109; 3; 13;; p.
+BS  TTATTAACGTGCA; R09110; 17; 13;; n.
+BS  TGCTTAATGCTTA; R09111; -1; 13;; p.
+BS  TCATTTAGCTGTT; R09112; 58; 13;; p.
+BS  TGATTAAACTCAG; R09114; 3; 13;; n.
+BS  CAGCTAATGCGAC; R09115; 5; 13;; n.
+BS  TGCATAACACCAG; R09116; 15; 13;; p.
+BS  CTGTTGATCCCCT; R09117; 3; 13;; n.
+BS  GAACTAATCCCCT; R09118; 15; 13;; n.
+BS  TTCCTAATCTCAC; R09119; 4; 13;; p.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 4 or better
+XX
+PV  M00623; V$CRX_Q4.
+RN  [1]; RE0017571.
+RA  TRANSFAC_Team.
+RT  New TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0001 (2002).
+XX
+//

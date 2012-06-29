@@ -1,0 +1,58 @@
+AC  M00201
+XX
+ID  V$CEBP_C
+XX
+DT  05.09.1995 (created); dbo.
+DT  22.12.2011 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  C/EBP
+XX
+DE  C/EBP binding site
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00770; V$CEBP_Q3;  (family).
+HP  M00912; V$CEBP_Q2_01;  (family).
+XX
+BF  T00107; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: no.
+BF  T09178; C/EBPalpha; Species: chick, Gallus gallus; site(s) included: no.
+BF  T00105; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08465; C/EBPalpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08664; C/EBPalpha; Species: Mammalia; site(s) included: no.
+BF  T00104; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T08464; C/EBPalpha; Species: mouse, Mus musculus; site(s) included: no.
+BF  T00108; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T08574; C/EBPalpha; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T02359; C/EBPalpha(p20); Species: mouse, Mus musculus; site(s) included: no.
+BF  T02026; C/EBPalpha(p30); Species: mouse, Mus musculus; site(s) included: no.
+BF  T02027; C/EBPalpha(p30); Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01   2.57   1.73   3.05   1.87      N
+02   0.90   0.76   6.74   0.82      G
+03   3.20   0.79   0.90   4.33      W
+04   3.96   2.75   2.51    0.0      V
+05    0.0    0.0    0.0   9.22      T
+06    0.0    0.0   4.03   5.19      K
+07   3.29   1.67   0.85   3.41      N
+08    0.0    2.2   3.53   3.49      K
+09    0.0   0.91   8.31    0.0      G
+10    0.9   4.78    0.0   3.54      Y
+11   9.22    0.0    0.0    0.0      A
+12   9.22    0.0    0.0    0.0      A
+13    0.0   0.85   4.03   4.33      K
+14   2.49   1.75   4.08    0.9      N
+15    0.0   1.73    0.9   0.82      S
+16   6.63   1.69    0.9    0.0      A
+17    0.0    5.8    0.0   3.42      Y
+18   4.72    0.9   1.82   1.78      A
+XX
+BA  sequences (matrix compiled from individual genomic sites)
+XX
+CC  consind generated matrix (random_expectation: 0.27, total weight of sequences: 9.22)
+XX
+//

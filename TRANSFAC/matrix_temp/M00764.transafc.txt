@@ -1,0 +1,90 @@
+AC  M00764
+XX
+ID  V$HNF4_DR1_Q3
+XX
+DT  29.11.2002 (created); ela.
+DT  29.11.2002 (updated); ela.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HNF4 direct repeat 1
+XX
+TY  family
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HC  M00134; V$HNF4_01; hepatic nuclear factor 4 (specific).
+HC  M00411; V$HNF4_01_B; Hepatocyte nuclear factor 4 (specific).
+HC  M00638; V$HNF4ALPHA_Q6;  (specific).
+HC  M01031; V$HNF4_Q6_01;  (specific).
+HC  M01032; V$HNF4_Q6_02; half-site 1 (specific).
+HC  M01033; V$HNF4_Q6_03; half-site 2 (specific).
+HC  M02016; V$HNF4A_Q6_01;  (specific).
+HC  M02220; V$HNF4A_03; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02764; V$HNF4A_04; class: Zinc-coordinating; family: Hormone-nuclear Receptor (specific).
+HC  M02868; V$HNF4A_02; class: Zinc-coordinating; family: Hormone-nuclear Receptor  (specific).
+XX
+BF  T05294; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T08260; HNF-4; Species: chipmunk, Tamias asiaticus (sibiricus); site(s) included: yes.
+BF  T02758; HNF-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05017; HNF-4; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T18464; HNF-4 alpha8; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18418; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18419; HNF-4A; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T03828; HNF-4alpha; Species: human, Homo sapiens; site(s) included: yes.
+BF  T08612; HNF-4alpha; Species: Mammalia; site(s) included: no.
+BF  T05287; HNF-4alpha; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T05288; HNF-4alpha; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02421; HNF-4alpha1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02424; HNF-4alpha1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00372; HNF-4alpha1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T00373; HNF-4alpha2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02423; HNF-4alpha2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02422; HNF-4alpha2; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T02428; HNF-4alpha3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02425; HNF-4alpha4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T05285; HNF-4alpha7; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02427; HNF-4alpha7; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T18420; HNF-4gamma; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T18421; HNF-4gamma; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02430; HNF-4gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T15516; HNF-4gamma; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16651; HNF-4gamma; Species: Mammalia; site(s) included: no.
+BF  T06235; HNF-4gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T15517; HNF-4gamma; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16652; HNF-4gamma; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      0      1     11      T
+02      0      1     12      0      G
+03      9      0      3      1      A
+04      4      7      1      1      M
+05      1     12      0      0      C
+06      0      3      0     10      T
+07      1      1      0     11      T
+08      2      0      0     11      T
+09      1      0     12      0      G
+10      4      3      3      3      N
+11      0     10      2      1      C
+12      0     10      0      3      C
+13      2      5      1      4      N
+XX
+BA  13 sequences (matrix compiled from individual genomic sites)
+XX
+BS  TGGACTTAGCCCC; R00114; 17; 13;; p.
+BS  TGACCTTTGCCCA; R02657; 5; 13;; p.
+BS  GCAGACTTATGCC; R04478; 16; 13;; p.
+BS  TGACCTTTGACTC; R04770; 1; 13;; p.
+BS  TGAACTTTGGTTT; R08885; 7; 13;; p.
+BS  TGACCTTTGGCC; R12074; 1; 13; 13; p.
+BS  AGACCTTTGGCCC; R13018; 10; 13;; p.
+BS  TGTCCCCTGACCT; R13031; 6; 13;; n.
+BS  TGACCCTTGACTC; R13048; 1; 13;; n.
+BS  TGGTCTTTGTCCT; R13057; 8; 13;; p.
+BS  TGGCCTTTGCCCG; R13065; 6; 13;; n.
+BS  TGAACTTTGAGCT; R13067; 18; 13;; n.
+BS  TGAACTAAGTCCA; R13070; 4; 13;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 3 or better
+XX
+//

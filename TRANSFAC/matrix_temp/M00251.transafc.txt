@@ -1,0 +1,86 @@
+AC  M00251
+XX
+ID  V$XBP1_01
+XX
+DT  25.09.1996 (created); ewi.
+DT  06.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  XBP-1
+XX
+DE  X-box-binding protein 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T00902; XBP-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T23081; XBP-1; Species: Mammalia; site(s) included: yes.
+BF  T08152; XBP-1; Species: mouse, Mus musculus; site(s) included: no.
+BF  T05026; XBP-1; Species: rat, Rattus norvegicus; site(s) included: no.
+XX
+P0      A      C      G      T
+01     14      1     10      8      N
+02      4      5      9     15      N
+03      6      2     21      4      G
+04     16      7      4      6      N
+05      4      3      2     24      T
+06      1      4     21      7      G
+07     33      0      0      0      A
+08      0     33      0      0      C
+09      0      0     33      0      G
+10      0      0      0     33      T
+11      3      2     28      0      G
+12      4      2     10     17      K
+13      7     14      4      8      N
+14      9     14      5      5      N
+15      8      9      3     13      N
+16     17      0      2     14      W
+17      6      2      8     17      T
+XX
+BA  33 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  ACTATGACGTGTATAAA; R07720; 8; 17;; p.
+BS  GTGCTGACGTGTCCCAG; R07721; 14; 17;; p.
+BS  ATGCGGACGTGAACCGG; R07722; 7; 17;; p.
+BS  GGGATGACGTGTGATTA; R07723; 11; 17;; p.
+BS  TGTCCGACGTGTCCTTA; R07724; 8; 17;; p.
+BS  ATGATTACGTGGTCTTG; R07725; 7; 17;; p.
+BS  ATGCTGACGTACCTTAG; R07726; 11; 17;; p.
+BS  TGGATGACGTGTACAAT; R07727; 8; 17;; p.
+BS  AAAGTGACGTGTCACAT; R07728; 16; 17;; p.
+BS  GCAATGACGTCATCCAT; R07729; 11; 17;; p.
+BS  ATGTACACGTGTAGATG; R07730; 7; 17;; p.
+BS  AAGTACACGTGGTGGAA; R07731; 12; 17;; p.
+BS  TTGTACACGTGGCGTTG; R07732; 13; 17;; p.
+BS  ATGGTTACGTGGCATTT; R07733; 13; 17;; p.
+BS  TGTGATACGTGTCTTTT; R07734; 13; 17;; p.
+BS  TCGCTGACGTGTACATC; R07735; 17; 17;; p.
+BS  ATGATGACGTGTCAGAT; R07736; 7; 17;; p.
+BS  TTGATGACGTATTACAT; R07737; 13; 17;; p.
+BS  GGAATGACGTCATCCAT; R07738; 11; 17;; p.
+BS  GGAACCACGTGTCATTG; R07739; 14; 17;; p.
+BS  ACCCTGACGTGTCCCTT; R07740; 12; 17;; p.
+BS  GTATCTACGTGCTTTAT; R07741; 9; 17;; p.
+BS  GCAATGACGTGGGATAA; R07742; 13; 17;; p.
+BS  ATGATTACGTGGATCAG; R07743; 7; 17;; p.
+BS  GAGATGACGTGTTCTAC; R07744; 13; 17;; p.
+BS  TTCATTACGTGGCGTTT; R07745; 11; 17;; p.
+BS  GAGATGACGTGTGGGTT; R07746; 9; 17;; p.
+BS  AGTGTGACGTGGCCATT; R07747; 13; 17;; p.
+BS  ATGTGTACGTGTCATGT; R07748; 7; 17;; p.
+BS  CTGCTGACGTGTGCAAT; R07749; 9; 17;; p.
+BS  GTGTTGACGTAATCAAT; R07750; 9; 17;; p.
+BS  TGGATGACGTGGACAAA; R07751; 13; 17;; p.
+BS  AGGATAACGTGGCACTT; R07752; 13; 17;; p.
+XX
+CC  sequences selected with recombinant XBP-1 from a pool of double-stranded oligonucleotides containing a core of 38 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0004462.
+RX  PUBMED: 8657566.
+RA  Clauss I. M., Chu M., Zhao J.-L., Glimcher L. H.
+RT  The basic domain/leucine zipper protein hXBP-1 preferentially binds to and transactivates CRE-like sequences containing an ACGT core
+RL  Nucleic Acids Res. 24:1855-1864 (1996).
+XX
+//

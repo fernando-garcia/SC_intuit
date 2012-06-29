@@ -1,0 +1,57 @@
+AC  M00275
+XX
+ID  F$MAT1MC_01
+XX
+DT  16.02.1998 (created); ewi.
+DT  31.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Mat1-Mc
+XX
+DE  TR-boxes of M cell-specific genes interacting with Mat1-Mc
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T01275; mat1-Mc; Species: fission yeast, Schizosaccharomyces pombe; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      0      1      1      A
+02      0      0      4      2      G
+03      3      0      2      1      R
+04      0      3      1      2      Y
+05      0      2      2      2      B
+06      0      1      0      5      T
+07      0      6      0      0      C
+08      0      0      0      6      T
+09      0      0      0      6      T
+10      0      0      0      6      T
+11      0      0      6      0      G
+12      0      0      0      6      T
+13      0      0      0      6      T
+14      1      1      3      1      N
+15      2      1      2      1      N
+16      0      1      2      3      K
+17      1      2      0      3      Y
+18      3      1      1      1      A
+XX
+BA  6 sequences (compiled matrix imported from literature reference)
+XX
+BS  ATGGGCCTTTGTTAGGTA; R07993; 1; 18;; p.
+BS  ATTCCTCTTTGTTTAGAA; R07994; 1; 18;; p.
+BS  AGACTTCTTTGTTGGTCG; R07995; 1; 18;; p.
+BS  TGATCTCTTTGTTCATTT; R07996; 1; 18;; p.
+BS  AGACTTCTTTGTTGTTTC; R07997; 1; 18;; p.
+BS  GGGTGTCTTTGTTGCCCA; R07998; 1; 18;; p.
+XX
+CC  genomic sites of 3 genes specifically expressed in M-cells
+XX
+RN  [1]; RE0006527.
+RX  PUBMED: 9233811.
+RA  Kjaerulff S., Dooijes D., Clevers H., Nielsen O.
+RT  Cell differentiation by interaction of two HMG-box proteins: Mat1-Mc activates M cell-specific genes in S. pombe by recruiting the ubiquitous transcription factor Ste11 to weak binding sites
+RL  EMBO J. 16:4021-4033 (1997).
+XX
+//

@@ -1,0 +1,92 @@
+AC  M00060
+XX
+ID  I$SN_01
+XX
+DT  13.04.1995 (created); hiwi.
+DT  03.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Sn
+XX
+DE  Snail
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00751; Sn; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      7      6      7      2      N
+02      9      5      4      7      N
+03     13      2     13      1      R
+04     27      0      8      3      A
+05      0     39      1      0      C
+06     39      0      0      1      A
+07      3      0     37      0      G
+08      2      0     38      0      G
+09      0      0      0     40      T
+10      0      0     37      3      G
+11      3     19      3     12      Y
+12     19      8      2      4      A
+13      7     11      7      5      N
+XX
+BA  40 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GAAACAGGTGCG; R06007; 6; 13;; p.
+BS  GCAACAAGTGCCA; R06008; 2; 13;; p.
+BS   ATACAGGTGCAC; R06009; -1; 13;; p.
+BS     ACAGGTGTCT; R06010; -3; 13;; p.
+BS     GCAGGTGTAA; R06011; -3; 13;; p.
+BS  GCAACAGGTGATA; R06012; 1; 13;; p.
+BS     TCAGGTGCAC; R06013; -3; 13;; p.
+BS  AGAACAGGTGACC; R06014; 1; 13;; p.
+BS   TAACAGGTGCAG; R06015; -1; 13;; p.
+BS    GTGTGGTTCCT; R06016; -2; 13;; p.
+BS  ATAACAGGTGAGT; R06017; 3; 13;; p.
+BS     ACAAGTTGAG; R06018; -3; 13;; p.
+BS  AACACAGGTG; R06019; 8; 13;; p.
+BS  AAAACAGGTTG; R06020; 7; 13;; p.
+BS     ACAGGTGCAA; R06021; -3; 13;; p.
+BS      CAGGTGCTA; R06022; -4; 13;; p.
+BS  GTGACAGGTG; R06023; 8; 13;; p.
+BS     GCAGGTGCAA; R06024; -3; 13;; p.
+BS  TAAGCAGGTGT; R06025; 7; 13;; p.
+BS  GAGGCAGGTGCC; R06026; 6; 13;; p.
+BS  ATGACAGGTGCAC; R06027; 4; 13;; p.
+BS  CTAACAGGTGCAC; R06028; 1; 13;; p.
+BS  ATGACAGGTGCAT; R06029; 3; 13;; p.
+BS  CAGACAGATGTAC; R06030; 2; 13;; p.
+BS  GAGACAGGTGTTG; R06031; 4; 13;; p.
+BS  GCGGCAGGTGT; R06032; 7; 13;; p.
+BS  AGCACAGGTGTA; R06033; 6; 13;; p.
+BS  CCAGCAGGTGT; R06034; 7; 13;; p.
+BS     GCAGGTGCAC; R06035; -3; 13;; p.
+BS    GACAGATGTCT; R06036; -2; 13;; p.
+BS   TGTCAGGTGGAC; R06037; -1; 13;; p.
+BS      CAGGTGCAG; R06038; -4; 13;; p.
+BS    AACAGGTGTCA; R06039; -2; 13;; p.
+BS  CGGACAGGTG; R06040; 8; 13;; p.
+BS  TCAGCAGGTGCAC; R06041; 1; 13;; p.
+BS     ACAGGTGTAC; R06042; -3; 13;; p.
+BS  CAAACAGGTGCTG; R06043; 1; 13;; p.
+BS    GACAGGTGCCG; R06044; -2; 13;; p.
+BS  CGGACAAGTGCAG; R06045; 1; 13;; p.
+BS     ACAGGTGTAC; R06046; -3; 13;; p.
+XX
+CC  sequences selected with recombinant Sn from a pool of double-stranded oligonucleotides containing a core of 17 random nucleotides; 4 rounds of selection and amplification
+XX
+DR  JASPAR: MA0086.
+XX
+RN  [1]; RE0006578.
+RA  TRANSFAC_Team.
+RT  Revisions of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 1:0001 (1998).
+RN  [2]; RE0002928.
+RX  PUBMED: 8371971.
+RA  Mauhin V., Lutz Y., Dennefeld C., Alberga A.
+RT  Definition of the DNA-binding site repertoire for the Drosophila transcription factor SNAIL
+RL  Nucleic Acids Res. 21:3951-3957 (1993).
+XX
+//

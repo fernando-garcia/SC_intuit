@@ -1,0 +1,56 @@
+AC  M00788
+XX
+ID  P$EMBP1_02
+XX
+DT  05.03.2003 (created); abd.
+DT  22.12.2011 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  EmBP-1b
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T01098; EmBP-1b; Species: wheat, Triticum aestivum; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      4      1      2      5      N
+02      8      0      0      4      A
+03      0      8      3      2      C
+04     13      0      0      0      A
+05      0     13      0      0      C
+06      0      0     13      0      G
+07      0      0      0     13      T
+08      0      0     13      0      G
+09      0      0      4      0      G
+10      3      0      0      1      A
+XX
+BA  13 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  GACACGTGGA; R13360; 5; 10;; p.
+BS  GACACGTGGA; R13361; 5; 10;; p.
+BS  TACACGTG; R13362; 7; 10; 15, 16; p.
+BS  TACACGTG; R13363; 7; 10; 15, 16; p.
+BS  TACACGTG; R13364; 7; 10; 15, 16; p.
+BS  TACACGTG; R13365; 7; 10; 15, 16; p.
+BS  TACACGTG; R13366; 7; 10; 15, 16; p.
+BS  AACACGTG; R13367; 7; 10; 15, 16; p.
+BS  ATGACGTG; R13368; 7; 10; 15, 16; p.
+BS  ATGACGTG; R13369; 7; 10; 15, 16; p.
+BS  CTGACGTGGT; R13370; 6; 10;; p.
+BS  ATTACGTG; R13371; 7; 10; 15, 16; p.
+BS    TACGTGGA; R13372; 1; 10; 1, 2; p.
+XX
+CC  sequences selected with recombinant EmBP-1b from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 5 rounds of selection and amplification
+XX
+DR  JASPAR: MA0128.
+XX
+RN  [1]; RE0022218.
+RX  PUBMED: 10561063.
+RA  Niu X., Renshaw-Gegg L., Miller L., Guiltinan M. J.
+RT  Bipartite determinants of DNA-binding specificity of plant basic leucine zipper proteins.
+RL  Plant Mol. Biol. 41:1-13 (1999).
+XX
+//

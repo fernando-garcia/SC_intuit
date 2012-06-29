@@ -1,0 +1,94 @@
+AC  M01154
+XX
+ID  V$CMYC_02
+XX
+DT  22.08.2007 (created); ech.
+DT  26.12.2011 (updated); lat.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  c-Myc
+XX
+DE  c-Myc heterodimer (with a 26-29 kDa factor)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M00799; V$MYC_Q2;  (family).
+HP  M01034; V$EBOX_Q6_01;  (family).
+XX
+BF  T03537; c-Myc; Species: canary, Serinus canaria; site(s) included: no.
+BF  T00141; c-Myc; Species: chick, Gallus gallus; site(s) included: no.
+BF  T03427; c-Myc; Species: chimpanzee, Pan troglodytes; site(s) included: no.
+BF  T03433; c-Myc; Species: common marmoset, Callithrix jacchus; site(s) included: no.
+BF  T03432; c-Myc; Species: dog, Canis familiaris (Canis canis); site(s) included: no.
+BF  T03532; c-Myc; Species: domestic pig, Sus scrofa; site(s) included: no.
+BF  T03430; c-Myc; Species: gibbon ape, Hylobates lar; site(s) included: no.
+BF  T03454; c-Myc; Species: goldfish, Carassius auratus; site(s) included: no.
+BF  T09998; c-Myc; Species: human, Homo sapiens; site(s) included: no.
+BF  T14435; c-Myc; Species: Mammalia; site(s) included: no.
+BF  T00143; c-Myc; Species: mouse, Mus musculus; site(s) included: no.
+BF  T09007; c-Myc; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T03462; c-Myc; Species: rainbow trout, Oncorhynchus mykiss; site(s) included: no.
+BF  T00142; c-Myc; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T09265; c-Myc; Species: rat, Rattus norvegicus; site(s) included: no.
+BF  T03455; c-Myc; Species: sheep, Ovis aries; site(s) included: no.
+BF  T03466; c-Myc; Species: wild cat, Felis silvestris; site(s) included: no.
+BF  T17324; c-Myc; Species: wild cat, Felis silvestris; site(s) included: yes.
+BF  T03428; c-Myc; Species: woodchuck, Marmota monax; site(s) included: no.
+BF  T03450; c-Myc; Species: zebra fish, Brachydanio rerio; site(s) included: no.
+BF  T03464; c-Myc I; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T14514; c-Myc I; Species: clawed frog, Xenopus laevis; site(s) included: no.
+BF  T00140; c-Myc-isoform1; Species: human, Homo sapiens; site(s) included: no.
+BF  T03341; c-Myc-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      2      0      8      6      K
+02     13      1      3      0      A
+03      0     16      3      0      C
+04      0     19      0      0      C
+05     19      0      0      0      A
+06      0     19      0      0      C
+07      0      0     19      0      G
+08      0      0      0     19      T
+09      0      0     19      0      G
+10      0      7     10      1      S
+11      0      6      0      7      Y
+12      0      5      1      3      Y
+XX
+BA  19 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  tacCACGTGg; R21862; 11; 12; 21, 22; p.
+BS  aagCACGTGctc; R21863; 9; 12;; p.
+BS   gcCACGTGcct; R21864; 1; 12; 1; p.
+BS  gagCACGTG; R21865; 12; 12; 21, 22, 23; p.
+BS  gacCACGTGgc; R21866; 10; 12; 21; p.
+BS  gacCACGTGgc; R21867; 10; 12; 21; p.
+BS  ggcCACGTGg; R21868; 11; 12; 21, 22; p.
+BS  tccCACGTGg; R21869; 11; 12; 21, 22; p.
+BS  ggcCACGTGctc; R21870; 9; 12;; p.
+BS  tacCACGTGctc; R21871; 9; 12;; p.
+BS  gacCACGTGgct; R21872; 7; 12;; p.
+BS  tacCACGTGctt; R21873; 2; 12;; p.
+BS  gagCACGTGcc; R21874; 10; 12; 21; p.
+BS    cCACGTGtcg; R21875; 1; 12; 1, 2; p.
+BS    cCACGTGctc; R21876; 1; 12; 1, 2; p.
+BS  tacCACGTGg; R21877; 11; 12; 21, 22; p.
+BS  tacCACGTGg; R21878; 11; 12; 21, 22; p.
+BS  aacCACGTGgtc; R21879; 8; 12;; p.
+BS  gacCACGTGgt; R22127; 10; 12; 21; p.
+XX
+CC  sequences selected with recombinant c-Myc from a pool of double-stranded oligonucleotides containing a core of 20 random nucleotides; 8 rounds of selection and amplification
+XX
+RN  [1]; RE0050097.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel113:0001 (2007).
+RN  [2]; RE0007850.
+RX  PUBMED: 1587829.
+RA  Papoulas O., Williams N. G., Kingston R. E.
+RT  DNA binding activities of c-Myc purified from eukaryotic cells
+RL  J. Biol. Chem. 267:10470-10480 (1992).
+XX
+//

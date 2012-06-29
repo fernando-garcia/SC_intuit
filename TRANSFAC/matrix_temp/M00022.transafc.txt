@@ -1,0 +1,61 @@
+AC  M00022
+XX
+ID  I$HB_01
+XX
+DT  03.12.1992 (created); ewi.
+DT  29.03.2012 (updated); mkl.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Hb
+XX
+DE  Hunchback
+XX
+TY  specific
+XX
+OS  Insecta
+OC  eukaryota; animalia; metazoa; arthropoda; insecta
+XX
+BF  T00395; Hb; Species: fruit fly, Drosophila melanogaster; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      1      5      8      2      S
+02      6      8      2      0      M
+03      9      3      4      0      A
+04      4      3      1      8      T
+05     13      1      0      2      A
+06     16      0      0      0      A
+07     16      0      0      0      A
+08     14      0      2      0      A
+09     15      1      0      0      A
+10      9      2      2      3      A
+XX
+BA  16 sequences (compiled matrix imported from literature reference)
+XX
+BS  GCCAAAAAAA; R05431; 1; 10;; p.
+BS  CGCAAAAAAA; R05432; 1; 10;; p.
+BS  TCATAAAAAC; R05433; 1; 10;; p.
+BS  GCATTAAAAA; R05434; 1; 10;; p.
+BS  TCGTAAAAAC; R05435; 1; 10;; p.
+BS  GAATTAAAAA; R05436; 1; 10;; p.
+BS  GGGAAAAAAA; R05437; 1; 10;; p.
+BS  GCAGCAAAAA; R05438; 1; 10;; p.
+BS  GAACAAAAAA; R05439; 1; 10;; p.
+BS  GAACAAAGAA; R05440; 1; 10;; p.
+BS  CCGTAAAGAG; R05441; 1; 10;; p.
+BS  GCACAAAAAT; R05442; 1; 10;; p.
+BS  AAATAAAAAA; R05443; 1; 10;; p.
+BS  CAATAAAAAG; R05444; 1; 10;; p.
+BS  CACTAAAAAT; R05445; 1; 10;; p.
+BS  CCGAAAAACT; R05446; 1; 10;; p.
+XX
+CC  16 Hb binding sites within the eve promoter
+XX
+DR  JASPAR: MA0049.
+XX
+RN  [1]; RE0001854.
+RX  PUBMED: 2507923.
+RA  Stanojevic D., Hoey T., Levine M.
+RT  Sequence-specific DNA-binding activities of the gap proteins encoded by hunchback and Krueppel in Drosophila
+RL  Nature 341:331-335 (1989).
+XX
+//

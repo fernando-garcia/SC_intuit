@@ -1,0 +1,70 @@
+AC  M01272
+XX
+ID  V$SOX2_Q6
+XX
+DT  08.07.2009 (created); dtc.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  SOX2
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+HP  M01014; V$SOX_Q6;  (family).
+XX
+BF  T09507; Sox-xbb1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T01837; Sox2; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T04915; Sox2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T09970; Sox2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10231; Sox2; Species: Mammalia; site(s) included: yes.
+BF  T10885; Sox2; Species: monkey, Cercopithecus aethiops; site(s) included: yes.
+BF  T01836; Sox2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16034; Sox2; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      6      2      4      4      N
+02      7      2      3      4      N
+03      4      6      2      4      N
+04      4      5      4      3      N
+05      2      9      1      4      C
+06      0     12      0      4      C
+07      8      0      0      8      W
+08      0      0      0     16      T
+09      0      0      0     16      T
+10      0      0     16      0      G
+11      0      0      0     16      T
+12      2      2      2      9      T
+13      7      2      0      6      W
+14      0      2      2     11      T
+15      1      0      9      5      K
+16      4      6      3      2      N
+XX
+BA  16 sequences (matrix compiled from individual genomic sites)
+XX
+BS  gccctcattgttatgc; R15133; 13; 16;; n.
+BS  AAACTCTTTGTTTGGA; R15201; -1; 16;; p.
+BS  ttcaccattgttctag; R15231; 11; 16;; n.
+BS  GACTCTATTGTCTCTG; R15267; 11; 16;; p.
+BS  GATATCTTTGTTTCTT; R16367; -4; 16;; p.
+BS  tgcacctttgttatgc; R17099; 5; 16;; n.
+BS  aattccattgttatga; R19276; 15; 16;; n.
+BS  aaactctttgtttgga; R19367; 20; 16;; n.
+BS  atggacattgtaatgc; R19510; 15; 16;; n.
+BS  AGGCCTTTTGTCCTGG; R22342; 21; 16;; p.
+BS  tgtgCTTTTGTnnnnn; R22344; 1; 16;; p.
+BS  ctcaactttgtaattt; R22359; 13; 16;; n.
+BS  GCAGCCATTGTGATGC; R22961; 20; 16;; p.
+BS  cacccctttgttatgc; R23679; 13; 16;; n.
+BS  TTTTCTATTGTTTTTA; R25928; 4; 16;; p.
+BS  aaaggcattgtgtttc; R27428; 7; 16;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0063411.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel20093:0001 (2009).
+XX
+//

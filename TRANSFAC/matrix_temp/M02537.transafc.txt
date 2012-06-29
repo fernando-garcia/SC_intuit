@@ -1,0 +1,55 @@
+AC  M02537
+AS  MA0418
+XX
+ID  F$YAP6_03
+XX
+DT  15.11.2011 (created); jaspar.
+DT  15.11.2011 (updated); jaspar.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  YAP6
+XX
+DE  class: Zipper-Type; family: Leucine Zipper
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T03714; YAP6; Species: yeast, Saccharomyces cerevisiae; site(s) included: unknown.
+XX
+P0      A      C      G      T
+01    174    297    371    156      N
+02    228    141    587     41      G
+03    134     92    332    440      K
+04    114    434    109    342      Y
+05    252    231     72    444      N
+06     43    114    646    195      G
+07    491    412     36     58      M
+08     27     23     56    892      T
+09     25     21    112    840      T
+10    889     32     49     28      A
+11     38    555    103    302      Y
+12    172     48    722     56      G
+13     67     85     37    809      T
+14    647    193     64     95      A
+15    829     62     72     34      A
+16    162     76    481    278      K
+17    228    474    142    155      N
+18    337     85    428    148      R
+19    430    127    302    139      N
+20    166    439    243    150      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  imported from JASPAR
+XX
+DR  JASPAR: MA0418.
+XX
+RN  [1]; RE0071483.
+RX  PUBMED: 19906716.
+RA  Portales-Casamar E., Thongjuea S., Kwon A. T., Arenillas D., Zhao X., Valen E., Yusuf D., Lenhard B., Wasserman W. W., Sandelin A.
+RT  JASPAR 2010: the greatly expanded open-access database of transcription factor binding profiles.
+RL  Nucleic Acids Res. 38:D105-10 (2010).
+XX
+//

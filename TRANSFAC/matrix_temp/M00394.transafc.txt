@@ -1,0 +1,62 @@
+AC  M00394
+XX
+ID  V$MSX1_01
+XX
+DT  22.06.2000 (created); rio.
+DT  04.01.2012 (updated); pch.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Msx-1
+XX
+DE  msh-like (muscle segment homeobox) homeobox protein 1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T02070; Msx-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T15513; Msx-1; Species: chick, Gallus gallus; site(s) included: no.
+BF  T02071; Msx-1; Species: human, Homo sapiens; site(s) included: no.
+BF  T17238; Msx-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T02072; Msx-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T09218; Msx-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T02073; Msx-1; Species: newt, Notophthalmus viridescens; site(s) included: no.
+BF  T02069; Msx-1short; Species: chick, Gallus gallus; site(s) included: no.
+XX
+P0      A      C      G      T
+01      2      8      1      2      C
+02      3      4      3      3      N
+03      1      3      7      2      G
+04      1      1      1     10      T
+05      8      1      1      3      A
+06      7      2      0      4      W
+07      4      2      2      5      N
+08      0      1      1     11      T
+09      1      1     10      1      G
+XX
+BA  13 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  CACTAATTG; R09067; 1; 9;; p.
+BS  TGGTAATTG; R09068; 5; 9;; p.
+BS  GCATAATCA; R09069; 1; 9;; p.
+BS  TAGTGATTT; R09070; 1; 9;; p.
+BS  ACCGATATG; R09071; 3; 9;; p.
+BS  CCGAAAATG; R09072; 1; 9;; p.
+BS  ACTTTTATG; R09073; 6; 9;; p.
+BS  CTGTTATGG; R09074; 5; 9;; p.
+BS  CTGTATCTG; R09075; 9; 9;; p.
+BS  CTCCAACTG; R09076; 2; 9;; p.
+BS  CGTTCCGTG; R09077; 4; 9;; p.
+BS  CAGTACATC; R09078; 1; 9;; p.
+BS  CGGTTTGTG; R09079; 4; 9;; p.
+XX
+CC  sequences selected with recombinant Msx-1 from a pool of double-stranded oligonucleotides containing a core of 14 random nucleotides; 4 rounds of selection and amplification
+XX
+RN  [1]; RE0003871.
+RX  PUBMED: 8096059.
+RA  Catron K. M., Iller N., Abate C.
+RT  Nucleotides flanking a conserved TAAT core dictate the DNA binding specifity of three murine homeodomain proteins
+RL  Mol. Cell. Biol. 13:2354-2365 (1993).
+XX
+//

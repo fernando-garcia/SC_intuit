@@ -1,0 +1,53 @@
+AC  M01068
+XX
+ID  V$UF1H3BETA_Q6
+XX
+DT  04.09.2005 (created); dtc.
+DT  05.09.2005 (updated); vma.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  UF1H3BETA
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T01520; UF1-H3beta; Species: rat, Rattus norvegicus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      0      7      2      G
+02      0      0      7      2      G
+03      0      4      0      5      Y
+04      0      0      9      0      G
+05      0      0      9      0      G
+06      0      0      9      0      G
+07      0      0      9      0      G
+08      0      0      9      0      G
+09      6      0      0      3      A
+10      2      0      7      0      G
+11      0      0      9      0      G
+12      0      0      9      0      G
+13      0      0      9      0      G
+14      2      7      0      0      C
+XX
+BA  9 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ggtgggggtagggc; R04323; 1; 14;; n.
+BS  ggcgggggaggggc; R16552; 14; 14;; n.
+BS  TTTGGGGGAGGGGA; R16554; 5; 14;; p.
+BS  ggcgggggaggggc; R16556; 1; 14;; n.
+BS  ggtgggggtggggc; R16557; 1; 14;; n.
+BS  ggtgggggtagggc; R16558; 1; 14;; n.
+BS  ggcgggggaggggc; R16560; 1; 14;; n.
+BS  TTTGGGGGAGGGGA; R16574; 5; 14;; p.
+BS  ggcgggggaggggc; R16576; 1; 14;; n.
+XX
+CC  compiled and aligned by BIOBASE; sites quality 6 or better
+XX
+RN  [1]; RE0035527.
+RA  TRANSFAC_Team.
+RT  New matrix entries.
+RL  TRANSFAC Reports Rel93:0001 (2005).
+XX
+//

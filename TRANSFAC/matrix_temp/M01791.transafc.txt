@@ -1,0 +1,45 @@
+AC  M01791
+XX
+ID  F$_HMO1_01
+XX
+DT  23.08.2010 (created); sla.
+DT  30.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  HMO1
+XX
+TY  specific
+XX
+OS  Fungi
+OC  eukaryota; fungi
+XX
+BF  T18356; HMO1; Species: yeast, Saccharomyces cerevisiae; site(s) included: yes.
+XX
+P0      A      C      G      T
+01     16     33     18     21      N
+02      8     24     21     35      N
+03      0     46     11     31      Y
+04      1     19     10     58      T
+05      0     86      2      0      C
+06      0     37     13     38      Y
+07      0      6     66     16      G
+08      0     64      8     16      C
+09      0     81      2      5      C
+10      0     22      0     66      T
+11     51      1     33      3      R
+12     11     23     54      0      G
+13     43     16     27      2      R
+14     15     28     45      0      S
+15     29     42      4     13      M
+XX
+BA  88 sequences (ChIP-on-chip)
+XX
+CC  used MEME algorithm for ChIP Motifs approach
+XX
+RN  [1]; RE0067392.
+RX  PUBMED: 20231876.
+RA  Lavoie H., Hogues H., Mallick J., Sellam A., Nantel A., Whiteway M.
+RT  Evolutionary tinkering with conserved components of a transcriptional regulatory network.
+RL  PLoS Biol. 8:e1000329 (2010).
+XX
+//

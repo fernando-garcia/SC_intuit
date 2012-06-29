@@ -1,0 +1,66 @@
+AC  M00432
+XX
+ID  V$TITF1_Q3
+XX
+DT  25.04.2001 (created); rio.
+DT  11.01.2012 (updated); sla.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  TTF1 (Nkx2-1)
+XX
+DE  TTF-1, TITF1 (thyroid transcription factor 1)
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T05372; TFF-1; Species: baboon, Papio hamadryas; site(s) included: yes.
+BF  T01518; TFF-1; Species: cattle, Bos taurus; site(s) included: yes.
+BF  T02098; TFF-1; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T17198; TFF-1; Species: dog, Canis familiaris (Canis canis); site(s) included: yes.
+BF  T04271; TTF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T15523; TTF-1; Species: chick, Gallus gallus; site(s) included: yes.
+BF  T00857; TTF-1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T10505; TTF-1; Species: Mammalia; site(s) included: no.
+BF  T00859; TTF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T10215; TTF-1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T00856; TTF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10209; TTF-1; Species: rat, Rattus norvegicus; site(s) included: yes.
+BF  T10206; TTF-1-isoform1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T18720; TTF-1-isoform2; Species: human, Homo sapiens; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      5      0      0      2      A
+02      1      4      2      0      S
+03      1      0      0      6      T
+04      0      6      1      0      C
+05      7      0      0      0      A
+06      7      0      0      0      A
+07      0      0      7      0      G
+08      1      1      0      5      T
+09      2      0      3      1      R
+10      0      0      2      4      K
+XX
+BA  7 sequences (matrix compiled from individual genomic sites)
+XX
+BS  ACTCAAGTAT; R01879; 4; 10;; p.
+BS  ACTCAAGTAG; R01880; 5; 10;; p.
+BS  AGTCAAGTGT; R01882; 4; 10;; p.
+BS  TATGAAGTGT; R02471; 8; 10;; n.
+BS  ACTCAAGC; R04322; 1; 10; 1, 2; n.
+BS  TCACAAGATG; R05014; 6; 10;; n.
+BS  AGTCAAGTGT; R08565; 1; 10;; p.
+XX
+CC  compiled and aligned by BIOBASE; binding sites in 5 genes; sites quality 3 or better
+XX
+RN  [1]; RE0023232.
+RA  TRANSFAC_Team.
+RT  Revision of TRANSFAC MATRIX entries
+RL  TRANSFAC Reports 3:0002 (2003).
+RN  [2]; RE0016964.
+RA  TRANSFAC_Team.
+RT  Binding matrices compiled for TRANSFAC
+RL  TRANSFAC Reports 2:0002 (2001).
+XX
+//

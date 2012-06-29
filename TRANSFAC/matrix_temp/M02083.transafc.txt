@@ -1,0 +1,69 @@
+AC  M02083
+XX
+ID  P$ATH1_01
+XX
+DT  24.10.2011 (created); lat.
+DT  22.12.2011 (updated); mka.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  ATH1
+XX
+TY  specific
+XX
+OS  Viridiplantae
+OC  Eukaryota; Viridiplantae
+XX
+BF  T13791; ATH1; Species: thale cress, Arabidopsis thaliana; site(s) included: yes.
+XX
+P0      A      C      G      T
+01      0      1      0     29      T
+02      0      0     30      0      G
+03     30      0      0      0      A
+04      0     29      0      1      C
+05     25      1      3      1      A
+06      2      0     22      6      G
+07      5      9     14      2      S
+08     13      2      3     12      W
+XX
+BA  30 sequences (SELEX (CASTing, SAAB, TDA, Target detection assay))
+XX
+BS  TGATAGGA; R37003; 23; 8;; p.
+BS  TGACATAA; R37004; 25; 8;; p.
+BS  TGACAAGG; R37005; 24; 8;; p.
+BS  TGACAGGG; R37006; 24; 8;; p.
+BS  TGACAGGA; R37007; 24; 8;; p.
+BS  TGACGTGG; R37008; 24; 8;; p.
+BS  TGACATTT; R37009; 24; 8;; p.
+BS  TGACAGCT; R37010; 24; 8;; p.
+BS  TGACAGAT; R37011; 22; 8;; p.
+BS  TGACAAGT; R37012; 24; 8;; p.
+BS  TGACAGGT; R37013; 21; 8;; p.
+BS  TGACAGAT; R37014; 21; 8;; p.
+BS  TGACATGA; R37015; 24; 8;; p.
+BS  TGACAGCA; R37016; 28; 8;; p.
+BS  TGACAGCT; R37017; 21; 8;; p.
+BS  TGACAGGC; R37018; 28; 8;; p.
+BS  TGACCGCA; R37019; 29; 8;; p.
+BS  TGACGGCA; R37020; 28; 8;; p.
+BS  TGACAGGT; R37021; 21; 8;; p.
+BS  TGACGTTT; R37022; 23; 8;; p.
+BS  TGACAGCA; R37023; 28; 8;; p.
+BS  TGACAGGT; R37024; 24; 8;; p.
+BS  TGACTTGT; R37025; 24; 8;; p.
+BS  TGACAGAA; R37026; 24; 8;; p.
+BS  TGACAGCA; R37027; 28; 8;; p.
+BS  TGACAGCA; R37028; 28; 8;; p.
+BS  CGACAGCA; R37029; 29; 8;; p.
+BS  TGACAGAT; R37030; 28; 8;; p.
+BS  TGACAGGA; R37031; 23; 8;; p.
+BS  TGACAGGC; R37032; 28; 8;; p.
+XX
+CC  sequences selected with recombinant ATH1 from a pool of double-stranded oligonucleotides containing a core of 12 random nucleotides; 7 rounds of selection and amplification
+XX
+RN  [1]; RE0071323.
+RX  PUBMED: 16497162.
+RA  Viola I. L., Gonzalez D. H.
+RT  Interaction of the BELL-like protein ATH1 with DNA: role of homeodomain residue 54 in specifying the different binding properties of BELL and KNOX proteins.
+RL  Biol. Chem. 387:31-40 (2006).
+XX
+//

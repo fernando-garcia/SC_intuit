@@ -1,0 +1,62 @@
+AC  M01456
+XX
+ID  V$HMBOX1_01
+XX
+DT  20.10.2009 (created); mkl.
+DT  12.01.2012 (updated); smt.
+CO  Copyright (C), Biobase GmbH.
+XX
+NA  Hmbox1
+XX
+TY  specific
+XX
+OS  Vertebrata
+OC  Eukaryota; Metazoa; Chordata; Craniata; Vertebrata
+XX
+BF  T19747; HMBOX1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19748; HMBOX1; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16882; Hmbox1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T19750; HMBOX1-2; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19751; HMBOX1-3; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19749; HMBOX1-4; Species: human, Homo sapiens; site(s) included: yes.
+BF  T19752; HMBOX1-5; Species: human, Homo sapiens; site(s) included: yes.
+BF  T16881; Hmbox1-isoform1; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16885; Hmbox1-isoform2; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16887; Hmbox1-isoform3; Species: mouse, Mus musculus; site(s) included: yes.
+BF  T16888; Hmbox1-isoform4; Species: mouse, Mus musculus; site(s) included: yes.
+XX
+P0      A      C      G      T
+01   0.25   0.23   0.30   0.21      N
+02   0.37   0.20   0.10   0.34      N
+03   0.44   0.10   0.34   0.13      R
+04   0.46   0.15   0.22   0.18      N
+05   0.47   0.09   0.14   0.30      W
+06   0.01   0.85   0.02   0.12      C
+07   0.01   0.01   0.03   0.96      T
+08   0.70   0.00   0.29   0.00      A
+09   0.01   0.00   0.99   0.00      G
+10   0.00   0.00   0.01   0.98      T
+11   0.11   0.01   0.00   0.88      T
+12   0.94   0.01   0.02   0.03      A
+13   0.64   0.06   0.10   0.20      A
+14   0.13   0.44   0.14   0.29      N
+15   0.33   0.13   0.26   0.28      N
+16   0.25   0.11   0.20   0.43      N
+17   0.07   0.43   0.31   0.19      N
+XX
+BA  sequences (universal protein binding microarrays (PBM))
+XX
+CC  computed from all possible octamer DNA sequences used in the PBM; Seed- and Wobble algorithm used
+XX
+DR  JASPAR: PH0040.
+XX
+RN  [1]; RE0064441.
+RT  Matrices from protein binding microarrays
+RL  TRANSFAC Reports Rel20094:0001 (2009).
+RN  [2]; RE0054981.
+RX  PUBMED: 18585359.
+RA  Berger M. F., Badis G., Gehrke A. R., Talukder S., Philippakis A. A., Pena-Castillo L., Alleyne T. M., Mnaimneh S., Botvinnik O. B., Chan E. T., Khalid F., Zhang W., Newburger D., Jaeger S. A., Morris Q. D., Bulyk M. L., Hughes T. R.
+RT  Variation in homeodomain DNA binding revealed by high-resolution analysis of sequence preferences.
+RL  Cell 133:1266-1276 (2008).
+XX
+//
