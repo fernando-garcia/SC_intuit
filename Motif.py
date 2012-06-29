@@ -90,36 +90,35 @@ class Motif:
 		fileIn.readline()
 		AC = fileIn.readline().replace('\n','').split('  ')[1]				#read matrix ID (AC)
 		
-		col = fileIn.readline()
+		col = fileIn.readline()												#read the species
 		while (col[0:2] != 'BF'):
 			col = fileIn.readline()
 		while(col and col[0:2] != 'XX'):
 			self.species.append(col.split(';')[2].split(': ')[1])
 			col = fileIn.readline()
 
-		col = fileIn.readline()[0:2]
-		while (col != 'P0'):
-			col = fileIn.readline()[0:2]
-		col = fileIn.readline()
+		col = fileIn.readline()												#read the matrix
+		while (col[0:2] != '01'):
+			col = fileIn.readline()
+		#col = fileIn.readline()
 		while(col and col[0:2] != 'XX'):
 			col = col.replace('\n','').split('      ')[1:5]
+			print col
 			mat.append([float(s) for s in col])
 			col = fileIn.readline()
 		mat = array(mat,float)		
 		
-		col = fileIn.readline()
+		col = fileIn.readline()												#read the sequences
 		while (col[0:2] != 'BS'):
-			col = fileIn.readline()
-		
-		
+			col = fileIn.readline()		
 		while(col and col[0:2] != 'XX'):
 			self.seq.append(col.split(';')[0].split('  ')[1].upper())
 			col = fileIn.readline()
 		
-		#print name, AC
-		#print self.species
-		#print mat
-		#print self.seq
+		print name, AC
+		print self.species
+		print mat
+		print self.seq
 
 		if self.FSM == None:
 			self.FSM = utils.decideFSMorNot(mat)

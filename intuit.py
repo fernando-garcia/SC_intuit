@@ -1,5 +1,4 @@
-import sys
-import os
+import sys, os, glob
 from Motif import *
 from WebMotif import *
 import utils
@@ -14,7 +13,7 @@ out = None
 verbose = False
 TRANSFACpath = '/home/pulido/Documents/TRANSFAC/matrix.dat'
 
-def ReadTransfacFile(pathfile)
+def ReadTransfacFile(pathfile):
 	
 	ID_BEGINING = 'AC'
 	ID_END = '//'
@@ -22,7 +21,6 @@ def ReadTransfacFile(pathfile)
 	tempath = '/home/pulido/Documents/TRANSFAC/matrix_temp/'
 
 	source_f = open(pathfile, 'r')
-	transfile = ""
 	canprint = False
 
 	for line in source_f:
@@ -34,12 +32,17 @@ def ReadTransfacFile(pathfile)
 
 		if canprint:
 			fh.write(line)
-			#transfile = transfile + line
 		if (line[0:2] == ID_END and canprint and fh):
 			fh.close()
 			canprint = False
 
+	insideFiles = glob.glob(tempath+'*.transafc.txt')
+	motifs = []
+	for myfile in insideFiles[0:10]:
+		print myfile
+		motifs.append(WebMotif(myfile))
 
+	return motifs
 
 i = 1
 while i < len(sys.argv):
@@ -86,9 +89,13 @@ if fSeq != None and not os.path.isfile(fSeq):
 
 if fMotif != None and fSeq != None:
 	m = WebMotif(fileIn = fMotif)
-	seqs = utils.readSeq(fileIn = fSeq)
+	#seqs = utils.readSeq(fileIn = fSeq)
 	
-	print m.SC_intuit_Web(seqs)
+	#print m.SC_intuit_Web(seqs)
+
+	#motifs = ReadTransfacFile(TRANSFACpath)
+	#print len(motifs), motifs[0].seq
+
 else:
 	helpProgram()
 	sys.exit(-1)
